@@ -1,40 +1,40 @@
-import os
-from pathlib import Path
 import logging
+from pathlib import Path
 
-#Logging string
+# Set up basic configuration for logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
+# Corrected list of files with commas added to separate items properly
 list_of_files = [
     ".github/workflows/.gitkeep",
     "requirements.txt",
-    f"configs/app_config.yml",
-    f"data/docs/",
-    f"src/hubermananswers_app.py",
-    f"src/serve.py",
-    f"utils/chatbot.py"
-    f"utils/load_config.py",
-    f"utils/prepare_vectordb.py",
-    f"utils/summarizer.py"
-    f"utils/ui_settings.py",
-    f"utils/utilities.py",
-
-
+    "configs/app_config.yml",
+    "data/docs/",
+    "src/hubermananswers_app.py",
+    "src/serve.py",
+    "utils/chatbot.py",
+    "utils/load_config.py",
+    "utils/prepare_vectordb.py",
+    "utils/summarizer.py",
+    "utils/ui_settings.py",
+    "utils/utilities.py",
 ]
 
-for filepath in list_of_files:
-    filepath = Path(filepath)
-    filedir, filename = os.path.split(filepath)
+for filepath_str in list_of_files:
+    filepath = Path(filepath_str)  # Create a Path object for each filepath
 
-    if filedir !="":
-        os.makedirs(filedir, exist_ok=True)
-        logging.info(f"Creating directory; {filedir} for the file: {filename}")
+    if filepath.suffix:  # This checks if the path ends with a file extension
+        # Ensure the directory exists
+        filepath.parent.mkdir(parents=True, exist_ok=True)
+        logging.info(f"Ensuring directory exists: {filepath.parent} for the file: {filepath.name}")
 
-    if (not os.path.exists(filepath)) or (os.path.getsize(filepath) == 0):
-        with open(filepath, "w") as f:
-            pass
+        # Check if the file does not exist or is empty, then create or overwrite it
+        if not filepath.exists() or filepath.stat().st_size == 0:
+            filepath.touch()
             logging.info(f"Creating empty file: {filepath}")
-            
-
+        else:
+            logging.info(f"File already exists and is not empty: {filepath.name}")
     else:
-        logging.info(f"File already exists: {filename}")
+        # If the path doesn't end with a file extension, treat it as a directory
+        filepath.mkdir(parents=True, exist_ok=True)
+        logging.info(f"Creating directory: {filepath}")
