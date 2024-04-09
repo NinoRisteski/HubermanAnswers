@@ -5,26 +5,24 @@ import logging
 #Logging string
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-project_name= 'HubermanAnswers'
-
-list_of_folders = [
+list_of_files = [
     ".github/workflows/.gitkeep",
     "requirements.txt",
-    f"configs/{project_name}/app_config.yml",
-    f"data/{project_name}/docs/",
-    f"src/{project_name}/hubermananswers_app.py",
-    f"src/{project_name}/serve.py",
-    f"utils/{project_name}/chatbot.py"
-    f"utils/{project_name}/load_config.py",
-    f"utils/{project_name}/prepare_vectordb.py",
-    f"utils/{project_name}/summarizer.py"
-    f"utils/{project_name}/ui_settings.py",
-    f"utils/{project_name}/utilities.py",
+    f"configs/app_config.yml",
+    f"data/docs/",
+    f"src/hubermananswers_app.py",
+    f"src/serve.py",
+    f"utils/chatbot.py"
+    f"utils/load_config.py",
+    f"utils/prepare_vectordb.py",
+    f"utils/summarizer.py"
+    f"utils/ui_settings.py",
+    f"utils/utilities.py",
 
 
 ]
 
-for filepath in list_of_folders:
+for filepath in list_of_files:
     filepath = Path(filepath)
     filedir, filename = os.path.split(filepath)
 
