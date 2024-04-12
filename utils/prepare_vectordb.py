@@ -61,6 +61,6 @@ class PrepareVectorDB:
 
         print("VectorDB prepared and saved successfully")
         print("Number of vectors in VectorDB:",
-              vectordb.collection.count(), "\n\n")
+              vectordb._collection.count(), "\n\n")
         
         return vectordb
