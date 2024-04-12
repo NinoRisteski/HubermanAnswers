@@ -4,7 +4,7 @@ import openai
 import shutil
 from dotenv import load_dotenv
 from pyprojroot import here
-from langchain.embeddings.openai import OpenAIEmbeddings
+from langchain_openai import OpenAIEmbeddings
 
 load_dotenv()
 
@@ -26,7 +26,7 @@ class LoadConfig:
         # Retrieval Config
         self.data_directory = app_config["directories"]["data_directory"]
         self.k = app_config["retrieval_config"]["k"]
-        self.embedding_model_engine = app_config["retrieval_config"]["embedding_model_engine"]
+        self.embedding_model_engine = app_config["embedding_model_config"]["engine"]
         self.chunk_size = app_config["splitter_config"]["chunk_size"]
         self.chunk_overlap = app_config["splitter_config"]["chunk_overlap"]
 
@@ -36,7 +36,7 @@ class LoadConfig:
         self.summarizer_llm_system_role = app_config["summarizer_config"]["summarizer_llm_system_role"]
         self.character_overlap = app_config["summarizer_config"]["character_overlap"]
         self.final_summarizer_llm_system_role = app_config["summarizer_config"]["final_summarizer_llm_system_role"]
-        self.temperature = app_config["summarizer_config"]["temperature"]
+        self.temperature = app_config["llm_config"]["temperature"]
 
         # Load OpenAI Credentials
         self.load_openai_cfg()
@@ -46,8 +46,8 @@ class LoadConfig:
         self.remove_directory(self.custom_persist_directory)
 
     def load_openai_cfg(self):
-        openai.api_key = os.getenv("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")
-        openai.api_type = os.getenv("gpt-3.5-turbo-0125")
+        openai.api_key = os.getenv("OPENAI_API_KEY")
+        openai.api_type = os.getenv("gpt-3.5-turbo")
         openai.api_base = os.getenv("https://api.openai.com")
         openai.api_version = os.getenv("v1")
 
