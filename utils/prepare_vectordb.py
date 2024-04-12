@@ -1,8 +1,9 @@
 
 import os
+import glob
 from typing import List
 from langchain.vectorstores.chroma import Chroma
-from langchain_community.document_loaders import TextLoader
+from langchain_core.documents import Document
 from langchain_text_splitters.base import TokenTextSplitter
 from langchain_openai import OpenAIEmbeddings
 
@@ -14,30 +15,30 @@ class PrepareVectorDB:
             persist_directory: str,
             embedding_model_engine: str,
             chunk_size: int,
-            chunk_overlap: int,
+            chunk_overlap: int
     ) -> None:
         
         self.embedding_model_engine = embedding_model_engine
         self.text_splitter = TokenTextSplitter(
             chunk_size=chunk_size,
-            chunk_overlap=chunk_overlap,
-            separators=["\n", ".", "!", "?", ":", ";"],
+            chunk_overlap=chunk_overlap
         )
 
         self.data_directory = data_directory
         self.persist_directory = persist_directory
         self.embedding = OpenAIEmbeddings()
 
-    def __load_all_documents(self) -> List[str]:
+    def __load_all_documents(self) -> List:
         doc_counter = 0
         if isinstance(self.data_directory, str):
             print("Loading documents from directory: ")
             docs = []
-            for doc_dir in self.data_directory:
-                docs.extend(TextLoader.load_text_files(doc_dir).load())
+            for doc_dir in glob.glob(self.data_directory):
+                doc = Document(doc_dir)
+                docs.append(doc)
                 doc_counter += 1
             print(f"Loaded {doc_counter} documents")
-            print(f"Total number of pages:", len(docs), "\n\n")
+            print(f"Total number of documents:", len(docs), "\n\n")
                   
         return docs
     
