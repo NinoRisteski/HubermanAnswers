@@ -29,17 +29,22 @@ class PrepareVectorDB:
         self.embedding = OpenAIEmbeddings()
 
     def __load_all_documents(self) -> List:
+        docs = [] 
         doc_counter = 0
+
         if isinstance(self.data_directory, str):
-            print("Loading documents from directory: ")
-            docs = []
-            for doc_dir in glob.glob(self.data_directory):
-                doc = Document(doc_dir)
+            print("Loading documents from directory:", self.data_directory)
+            for file_path in glob.glob(os.path.join(self.data_directory, '*.txt')):
+                doc = Document(file_path)
                 docs.append(doc)
                 doc_counter += 1
+                print("Loaded document:", file_path)
+
             print(f"Loaded {doc_counter} documents")
             print(f"Total number of documents:", len(docs), "\n\n")
-                  
+        else:
+            print("Data directory should be a single string path.")
+
         return docs
     
     def __chunk_documents(self, docs: List) -> List:

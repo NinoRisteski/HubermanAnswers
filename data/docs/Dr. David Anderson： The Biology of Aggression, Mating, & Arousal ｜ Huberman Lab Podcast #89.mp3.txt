@@ -1,0 +1,2458 @@
+Welcome to the Huberman Lab Podcast,
+where we discuss science and science-based tools
+for everyday life.
+I'm Andrew Huberman, and I'm a professor of neurobiology
+and ophthalmology at Stanford School of Medicine.
+Today, my guest is Dr. David Anderson.
+Dr. Anderson is a professor of biology
+at the California Institute of Technology,
+often commonly referred to as Caltech University.
+Dr. Anderson's research focuses on emotions
+and states of mind and body.
+And indeed, he emphasizes how emotions
+like happiness, sadness, anger, and so on
+are actually subcategories
+of what are generally governed by states,
+that is, things that are occurring in the nervous system
+in our brain and in the connections between brain and body
+that dictate whether or not we feel good
+about how we are feeling and that drive our behaviors,
+that is, bias us to be in action or inaction
+and strongly influence the way we interpret our experience
+and our surroundings.
+Today, Dr. Anderson teaches us, for instance,
+why people become aggressive
+and why that aggression can sometimes take the form of rage.
+I also talk about sexual behavior
+and the boundaries and overlap
+between aggression and sexual behavior.
+And that discussion about aggression and sexual behavior
+also starts to focus on particular aspects
+of neural circuits and states of mind and body
+that govern things like, for instance, male-male aggression
+versus male-female aggression versus female-female aggression.
+So today, you will learn a lot
+about the biological mechanisms
+that govern why we feel the way we feel.
+Indeed, Dr. Anderson is an author
+of a terrific new popular book entitled
+"'The Nature of the Beast, How Emotions Guide Us.'"
+I've read this book several times now.
+I can tell you it contains so many gems
+that are firmly grounded in the scientific research.
+In fact, a lot of what's in the book
+contrasts with many of the common myths
+about emotions and biology.
+So whether or not you're a therapist or you're a biologist
+or you're simply just somebody interested
+in why we feel the way we feel
+and why we act the way we act,
+I cannot recommend the book highly enough.
+Again, the title is,
+"'The Nature of the Beast, How Emotions Guide Us.'"
+Today's discussion also ventures into topics
+such as mental health and mental illness.
+And some of the exciting discoveries
+that have been made by Dr. Anderson's laboratory
+and other laboratories identifying specific peptides,
+that is, small proteins that can govern
+whether or not people feel anxious or less anxious,
+aggressive or less aggressive.
+This is an important area of research
+that has direct implications
+for much of what we read about in the news,
+both unfortunate and fortunate events,
+and that will no doubt drive
+the future of mental health treatments.
+Dr. Anderson is considered one of the most pioneering
+and important researchers in neurobiology of our time.
+Indeed, he is a member of the National Academy of Sciences
+and a Howard Hughes Medical Institute investigator.
+I've mentioned the HHMI once or twice before
+when we've had other HHMI guests on this podcast,
+but for those of you that are not familiar,
+the Howard Hughes Medical Institute
+funds a small number of investigators
+doing particularly high-risk, high-benefit work,
+and it is an extremely competitive process
+to identify those Howard Hughes investigators.
+They're essentially appointed,
+and then every five years,
+they have to compete against one another
+and against a new incoming flock
+of would-be HHMI investigators
+to get another five years of funding.
+They are literally given a grade every five years
+as to whether or not they can continue, not continue,
+or whether or not they should worry about being funded
+for an extended period of time.
+Dr. Anderson has been an investigator
+with the Howard Hughes Medical Institute since 1989.
+I'm pleased to announce that the Huberman Lab Podcast
+is now partnered with Momentus Supplements.
+We partnered with Momentus for several important reasons.
+First of all, they ship internationally
+because we know that many of you are located
+outside of the United States.
+Second of all, and perhaps most important,
+the quality of their supplements is second to none,
+both in terms of purity and precision
+of the amounts of the ingredients.
+Third, we've really emphasized supplements
+that are single-ingredient supplements
+and that are supplied in dosages
+that allow you to build a supplementation protocol
+that's optimized for cost,
+that's optimized for effectiveness,
+and that you can add things and remove things
+from your protocol in a way
+that's really systematic and scientific.
+If you'd like to see the supplements
+that we partner with Momentus on,
+you can go to livemomentus.com slash Huberman.
+There you'll see those supplements,
+and just keep in mind that we are constantly expanding
+the library of supplements available through Momentus
+on a regular basis.
+Again, that's livemomentus.com slash Huberman.
+Before we begin, I'd like to emphasize
+that this podcast is separate
+from my teaching and research roles at Stanford.
+It is, however, part of my desire and effort
+to bring zero cost to consumer information
+about science and science-related tools
+to the general public.
+In keeping with that theme,
+I'd like to thank the sponsors of today's podcast.
+Our first sponsor is Levels.
+Levels is a program that lets you see
+how different foods affect your health
+by giving you real-time feedback on your diet
+using a continuous glucose monitor.
+One of the most important factors governing
+our immediate and long-term health,
+and indeed our ability to think and focus clearly,
+is our blood glucose levels,
+also referred to as blood sugar.
+To maintain healthy energy and focus throughout the day,
+you want to keep your blood glucose levels steady
+and avoid peaks and crashes.
+I first started using Levels about a year ago
+as a way to better understand
+how specific foods, food combinations,
+exercise, and supplements impact my blood glucose levels.
+And it's been tremendously informative.
+In fact, it's changed and shaped
+the way that I organize my entire day.
+Levels even provides a simple score after you eat a meal
+so you can see how different foods affect you
+and develop a personalized nutrition program
+that's ideal for you.
+So if you're interested in learning more about Levels
+and trying a continuous glucose monitor yourself,
+you can go to levels.link.huberman.
+That's levels.link.huberman.
+Today's episode is also brought to us by Helix Sleep.
+Helix Sleep makes mattresses and pillows
+that are of the absolute highest quality.
+They also have some really unique features
+because they are customized to your unique sleep needs.
+I've talked over and over again on this podcast
+and on other podcasts,
+about the fact that sleep is the foundation
+of mental health, physical health, and performance.
+There's just simply no other substitute
+for a quality night's sleep on a regular basis.
+I've been sleeping on a Helix mattress
+for well over a year now,
+and it's the best sleep that I've ever had.
+And that's in large part
+because the mattress was designed for me.
+What you need to know, however,
+is what's the ideal mattress for you?
+And you can do that by going to Helix site.
+You can take their brief quiz, which will ask you,
+do you sleep on your side, your back, your stomach,
+or maybe you don't know, or maybe all three,
+do you tend to run hot or cold in the night?
+Maybe you know, maybe you don't.
+At the end of that short quiz,
+they will match you to the ideal mattress for you.
+I matched to the DUSK, the D-U-S-K mattress,
+but again, that's what I need.
+That's not necessarily what you need
+in order to get your best night's sleep.
+But if you're interested in upgrading your mattress,
+go to helixsleep.com slash Huberman,
+take their two-minute sleep quiz,
+and they'll match you to a customized mattress for you.
+And you'll get up to $200 off any mattress order
+and two free pillows.
+They have terrific pillows.
+And you get to try out that mattress
+for a hundred nights risk-free.
+They'll even pick it up for you if you don't love it,
+but I'm certain you will.
+Again, if you're interested in,
+you go to helixsleep.com slash Huberman
+for up to $200 off your mattress order and two free pillows.
+Today's episode is also brought to us by Element.
+Element is an electrolyte drink
+that has everything you need and nothing you don't,
+meaning no sugar, but it has sodium, magnesium,
+and potassium in the proper ratios.
+Sodium, magnesium, and potassium are critical
+for the functioning of all your cells,
+but of your neurons, your nerve cells in particular.
+Many people out there, believe it or not,
+need to ingest more sodium and more potassium
+and magnesium in the proper ratios to sodium and potassium.
+For those of you that are pre-hypertensive or hypertensive,
+you definitely don't want to crank up your sodium intake,
+but many people out there,
+especially people following low carb diets
+or eating exceptionally clean,
+very well may need more sodium.
+And by drinking Element mixed with water,
+which is what I do once or twice a day,
+and certainly also during workouts and after workouts,
+you can optimize mental functioning
+and physical performance
+by increasing your electrolyte balance
+in the proper ratios.
+If you'd like to try Element,
+you can go to drink element, that's lmnt.com slash Huberman,
+and you'll get a free sample pack with your order.
+Again, that's drinklmnt.com slash Huberman
+to get a free sample pack with your order.
+And now for my discussion with Dr. David Anderson.
+David, great to be here
+and great to finally sit down and chat with you.
+Great to be here too.
+Thank you so much.
+Yeah, I have a ton of questions,
+but I want to start with something fairly basic,
+but that I'm aware is a pretty vast landscape.
+And that's the difference between emotions and states,
+if indeed there is a difference,
+and how we should think about emotions.
+What are they?
+They have all these names, happiness, sadness, depression,
+anger, rage.
+How should we think about them?
+And why might states be at least as useful
+a thing to think about, if not more useful?
+That's great.
+First, the short answer to your question
+is that I see emotions as a type of internal state,
+in the sense that arousal is also a type of internal state,
+motivation's a type of internal state,
+sleep is a type of internal state.
+And the sort of simplest way I think of internal states
+is that, as you've shown in your own work,
+they change the input to output transformation of the brain.
+When you're asleep, you don't hear something
+that you would hear if you were awake,
+unless it's a really, really loud noise.
+So from that broad perspective,
+I see emotion as a class of state that controls behavior.
+The reason I think it's useful to think about it as a state
+is it puts the focus on it as a neurobiological process,
+rather than as a psychological process.
+And this gets around all of the definitional problems
+that people have with the word emotion,
+where many people equate emotion with feeling,
+which is a subjective sense that we can only study in humans
+because to find out what someone's feeling,
+you have to ask them, and people are the only animals
+that can talk that we can understand.
+So that's how I think about emotion.
+It's the, if you think of an iceberg,
+it's the heart of the iceberg
+that's below the surface of the water.
+The feeling part is the tip that's sort of floating
+above the surface of your consciousness.
+Not that that isn't important, it is,
+but you have to understand consciousness
+if you wanna understand feelings,
+and we're not ready to study that in animals yet.
+And so that's how I think about it.
+What are the different components of a state?
+You know, you mentioned arousal as a key component.
+What are some of the other features of states
+that represent this, as you so beautifully put in your book,
+that represent below the tip of the iceberg?
+Right, right.
+So you can break states up
+into different facets, or people would call them dimensions.
+And so there have been people who've thought of emotions
+as having just really two dimensions,
+an arousal dimension, how intense is it,
+and also a valence dimension,
+which is, is it positive or negative, good or bad?
+Ralph Adolphs and I have tried to expand that a little bit
+to think about components of emotion,
+particularly those that distinguish emotion states
+from motivational states,
+because they are very closely related.
+One of those important properties is persistence.
+And this is something that distinguishes
+state-driven behaviors from simple reflexes.
+Reflexes tend to terminate when the stimulus turns off,
+like the doctor hitting your knee with a hammer.
+It initiates with the stimulus onset,
+and it terminates with the stimulus offset.
+Emotions tend to outlast, often,
+the stimulus that evoke them.
+If you're walking along a trail here in Southern California,
+you hear a rattlesnake rattling.
+You're gonna jump in the air,
+but your heart is gonna continue to beat,
+and your palms sweat,
+and your mouth is gonna be dry for a while
+after it's slithered off in the bush,
+and you're gonna be hypervigilant.
+If you see something that even remotely
+looks snake-like, a stick, you're gonna stop and jump.
+So persistence is an important feature of emotion states.
+Not all states have persistence.
+So for example, you think about hunger.
+Once you've eaten, the state is gone.
+You're not hungry anymore.
+But if you're really angry,
+and you get into a fight with somebody,
+even after the fight is over,
+you may remain riled up for a long time,
+and it takes you a while to calm down.
+And that may have to do with the arousal dimension
+or some other part of it.
+And then generalization is an important component
+of emotion states that make them,
+if they have been triggered in one situation,
+they can apply to another situation.
+And my favorite example of that is you come home from work
+and your kid is screaming.
+If you had a good day at work,
+you might pick it up and soothe it.
+And if you had a bad day at work,
+you might react very differently to it and scream at it.
+And so that's a generalization of the state
+that was triggered at work by something your boss said
+to you to a completely different interaction.
+And again, that's something that distinguishes
+emotion states from motivation states.
+Motivation states are really specific.
+Find and eat food, obtain and consume water.
+And they're involved in homeostatic maintenance.
+So states are very multifaceted,
+and just asking questions about how these components
+of states are encoded, like what makes a state persist?
+What gives a state a positive or a negative valence?
+How do you crank up or crank down the intensity of the state?
+It just opens up a whole bunch of questions
+that you can ask in the brain
+with the kinds of tools we have now.
+You mentioned arousal a few times,
+and you mentioned valence.
+Realizing that there are these other aspects of states,
+I'd like to just talk about arousal a little bit more
+and valence, because at a very basic level,
+it seems to me that arousal,
+we can be very alert and pissed off,
+stressed, worried, you have insomnia.
+We can also be very alert and be quite happy.
+So the valence flips.
+We could be very, people can be sexually aroused.
+People can be aroused in all sorts of ways.
+Is there any simple or simple-ish neurochemical signature
+that can flip valence?
+So for instance, is there any way that we can safely say
+that arousal with some additional dopamine release
+is going to be of positive valence,
+and arousal with very low dopamine
+is going to be of negative valence?
+I would be reluctant to say that it's a chemical flip.
+I would say it's more likely to be a circuit flip,
+different circuits being engaged,
+and it might be that a given neurochemical, even dopamine,
+is involved in both positively valenced arousal
+and negatively valenced arousal.
+That's why people think about these as different axes.
+So I think the interesting question that you touch on is,
+is arousal something that is just completely generic
+in the brain, or are there actually different kinds
+of arousal that are specific to different behaviors?
+And you raise the question,
+sexual arousal feels different from aggressive arousal,
+for example.
+And we actually published a paper on this back in 2009
+in Fruit Flies, where we found some evidence
+for two types of arousal states,
+one of which is sleep-wake arousal.
+You're more aroused when you wake up
+than when you're asleep, and flies show that.
+And the other is a startle response, an arousal response,
+to a mechanical stimulus, a noxious mechanical stimulus.
+If you puff air on flies,
+kind of like trying to swat the wasp away
+from your burger at the picnic table,
+they come back more and more and more vigorously.
+And we were able to dissect this and show
+that although both of those forms of arousal
+require dopamine, they were exerted
+through completely separable neural circuits in the fly.
+And so that really put, number one, the emphasis on,
+it's the circuit that determines the type of arousal,
+but also that arousal isn't unitary,
+that there are behavior-specific forms of arousal.
+And I think the jury is still out
+as to whether there is such a thing
+as completely generalized arousal or not.
+I think some people would argue there is,
+but I think more attention needs to be paid
+to this question of domain-specific
+or behavior-specific forms of arousal.
+Yeah, it's a super interesting idea,
+because I always thought of arousal as along a continuum,
+like you can either be in a panic attack
+at the one end of the extreme, or you can be in a coma,
+and then somewhere in the middle, you're alert and calm.
+But then this issue of valence really, as you say,
+presents this opportunity that really
+there might be multiple circuits for arousal
+or multiple mechanisms that would include neurochemicals
+as well as different neural pathways.
+So I'd like to talk a bit about a state,
+if it is indeed a state, which is aggression.
+Your lab's worked extensively on this.
+And if you would, could you highlight
+some of the key findings there,
+which brain areas that are involved,
+the beautiful work of Dai-Yu Lin and others in your lab,
+that point to the idea that indeed there are
+kind of switches in the brain,
+but that thinking of switches for aggression
+might be too simple.
+How should we think about aggression?
+And I'll just sort of skew the question a bit more
+by saying we see lots of different kinds of aggression,
+this terrible school shooting down in Texas recently,
+clearly an act that included aggression,
+and yet you could imagine
+that's a very different type of aggression
+than an all-out rage or a controlled aggression.
+There's a lot of variation there.
+So what are your thoughts on aggression,
+how it's generated the neural circuit mechanisms,
+and some of the variation in what we call aggression?
+Yeah, this is a great question, and it's a large area.
+I would say that the, first of all,
+the word aggression in my mind
+refers more to a description of behavior
+than it does to an internal state.
+Aggression could reflect an internal state
+that we would call anger in humans,
+or could reflect fear, or it could reflect hunger
+if it's predatory aggression.
+And so this gets at the issue that you raised
+of the different types of aggression that exist.
+The work that Dayu did when she was in my lab
+that really broke open the field
+to the application of modern genetic tools
+for studying circuits in mice
+is that she found a way to evoke aggression in mice
+using optogenetics to activate specific neurons
+in a region of the hypothalamus,
+the ventromedial hypothalamus, VMH,
+which people had been studying and looking at for decades,
+following first the work in Katz,
+the famous Nobel Prize winning work of Walter Hess,
+and then followed by work done by Meno Crook
+in the Netherlands in rats
+where they would stick electrical wires into the brain
+and send electric currents into the brain,
+and they could trigger a placid cat
+to suddenly bare its teeth, hiss,
+and almost strike out at the experimenter,
+and they could trigger rats to fight with each other.
+And even in Hess's original experiments,
+he describes two types of aggression
+that he evokes from Katz
+depending on where in the hypothalamus
+he puts his electrode,
+one of which he calls defensive rage,
+that's the ears laid back, teeth bared and hissing,
+and the other one is predatory aggression
+where the cat has its ears forward
+and it's like batting with its paw at a mouse-like object
+like it wants to catch it and eat it.
+So he already had at that stage some information
+about segregation in the brain
+of different forms of aggression.
+So fast forward to 2008, 2009
+when Dayu came to the lab
+and we had started working on aggression in fruit flies
+and I wanted to bring it into mice
+so that we could apply genetic tools.
+And we started by having Dayu,
+who was an electrophysiologist,
+just repeat the electrical stimulation
+of the ventromedial hypothalamus in the mouse,
+just like people had done in rats, in cats, in hamsters,
+even in monkeys.
+And she could not get that experiment to work
+over 40 different trials.
+It just didn't work.
+What she got instead was fear behaviors.
+She got freezing, cornering, and crouching.
+And finally in desperation,
+and we got a lot of input from Meno Crook on this,
+he really was mystified.
+Why doesn't it work in mice?
+We realized why there had been no paper
+on brain stimulated aggression in mice in 50 years
+because the experiment doesn't work.
+And the one bit of credit I can claim there
+is I convinced Dayu to try optogenetics
+because it just had sort of come into use deep in the brain
+from Carl Deiss-Roth and others' work.
+And I thought maybe because it could be directed
+more specifically to a region of the brain
+and types of cells and optogenetic stimulation,
+than electrical stimulation,
+it might work.
+And Dayu said, never, never gonna work.
+If it doesn't work with electricity,
+why should it work with optogenetics?
+And the fact is that it did work
+and we were able to trigger aggression in this region
+using optogenetic stimulation of ventromedial hypothalamus.
+And in retrospect, I think the reason
+that we were seeing all these fear behaviors
+is because right at the upper part,
+if you think of ventromedial hypothalamus
+like a pear sitting on the ground,
+the fat part of the pear near the ground
+is where the aggression neurons are,
+but the upper part of the pear has fear neurons.
+And it could be because it's so small in a mouse,
+when you inject electrical current anywhere in the pear,
+it flows up through the entire pear
+and it activates the fear circuits
+and those totally dominate aggression.
+And so that's why we were never able to see
+any fighting with electrical stimulation.
+Whereas when you use optogenetics,
+you confine the stimulation just to the region
+where you've implanted the channelrhodopsin gene
+into those neurons.
+And so fast forward from that,
+from a lot of work from Dayu now on her own at NYU
+and with her postdoc, Anna-Gret Faulkner,
+there's, as well as work of other people,
+there's evidence that the type of fighting
+that we elicit when we stimulate VMH
+is offensive aggression that is actually rewarding
+to male mice. They like it.
+They like it.
+Male mice will press, learn to poke their nose
+or press a bar to get the opportunity
+to beat up a subordinate male mouse.
+And in more recent experiments,
+if you activate those neurons and the mouse has a chance
+to be in one of two compartments in a box,
+they will gravitate towards the compartment
+where those neurons are activated.
+It has a positive valence.
+And when I went into this field and I was thinking,
+well, what goes on in my brain and my body when I'm furious?
+It certainly doesn't feel like a rewarding experience.
+It's not something that I would want to repeat
+because it feels good when I'm in that state.
+It doesn't feel good at all when I'm in that state.
+And it is still, I think, a mystery
+as to where that type of aggression,
+which is more defensive aggression,
+the kind of aggression you feel if you're being attacked
+or if you've been cheated by somebody,
+where that is encoded in the brain and how that works still,
+I think, is a very important mystery
+that we haven't solved.
+And predatory aggression there has been some progress on.
+So mice show predatory aggression.
+They use that to catch crickets that they eat,
+and that involves different circuits
+than the ventromedial hypothalamic circuits.
+So it's become clear that if you want to call it
+the state of aggressiveness is multifaceted.
+It depends on the type of aggression,
+and it involves different sorts of circuits.
+There is, there's a paper suggesting
+that there might be a final common pathway
+for all aggression in a region,
+which is one of my favorites.
+It's called the substantia in naminata,
+the substance with no name.
+You know, I like-
+Anatomists are so creative.
+Or the nucleus ambiguous, you know, or the zona inserta.
+These are places that no one can think of what they are.
+Anyhow, that might be a final common pathway
+for predatory aggression and offensive
+and defensive aggression.
+But it can be really hard to tell
+just from looking at a mouse fight,
+whether it's engaged in offensive or defensive aggression.
+We've tried to take that apart
+using machine learning analysis of behavior.
+But in rats, for example, it's much clearer
+when the animal is engaged in offensive
+versus defensive aggression.
+They direct their bites at different parts
+of the opponent's body.
+In particular-
+Neck versus, offensive aggression is flank directed.
+Defensive aggression goes for the neck,
+goes for the throat.
+I've seen some nature specials
+where in a very barbaric way, at least to me,
+it seems like hyenas will try and go after
+the reproductive axis.
+They'll go after testicles and penis.
+And they basically want to,
+it seems they want to limit future breeding potential.
+Or create pain.
+Or create pain or both.
+Yeah, I mean, in terms of offensive aggression
+and your reflection that it doesn't feel good,
+I mean, I can say,
+I know some people who really enjoy fighting.
+I have a relative who is a lawyer.
+He loves to argue and fight.
+I don't think of him as physically aggressive.
+In fact, he's not,
+but loves to fight and loves to prosecute
+and go after people and he's pretty effective at it.
+I have a friend, former military special operations
+and very calm guy,
+had a great career in military special operations.
+And he'll quite plainly say, I love to fight.
+It's one of my great joys.
+He really enjoyed his work.
+And also respected the other side
+because they offered the opportunity to test that
+and to experience that joy.
+So in a kind of bizarre way to somebody like me
+who I'll certainly defend my stance if I need to,
+but I certainly don't consider myself
+somebody who offensively goes after people
+just to go after them.
+There's no quote unquote dopamine hit here,
+acknowledging that dopamine does many things, of course.
+I have a couple of questions
+about the way you describe the circuitry.
+I should say the way the circuitry is arranged.
+And of course we don't know
+because we weren't consulted at the design phase,
+but why do you think there would be such a close positioning
+of neurons that can elicit
+such divergent states and behaviors?
+I mean, you're talking about this pear shaped structure
+where the neurons that generate fear
+are cheek to jowl with the neurons
+that generate offensive aggression of all things.
+It's like putting the neurons that control swallowing
+next to the neurons that control vomiting.
+It just seems to me that on the one hand,
+this is the way that neural circuits are often arranged.
+And yet to me, it's always been perplexing
+as to why this would be the case.
+Yeah, I think that is a very profound question.
+And I've wondered about that a lot.
+If you think from an evolutionary perspective,
+it might have been the case that defensive behaviors
+and fear arose before offensive aggression,
+because animals first and foremost
+have to defend themselves from predation by other animals.
+And maybe it's only when they're comfortable
+with having warded off predation and made themselves safe
+that they can start to think about
+who's gonna be the alpha male in my group here.
+And so it could be that if you think that brain regions
+and cell populations evolved by duplication
+and modification of preexisting cell populations,
+that might be the way that those regions
+wound up next to each other.
+And developmentally, they start out
+from a common pool of precursors
+that expresses the same gene,
+the fear neurons and the aggression neurons.
+And then with development,
+it gets shut off in the aggression neurons
+and maintained in the fear neurons.
+Now that view says, oh, it's an accident
+of evolution and development,
+but I think there must be a functional part as well.
+So one thing we know about offensive aggression
+is that strong fear shuts it down.
+Whereas defensive aggression, at least in rats,
+is actually enhanced by fear.
+It's one of the big differences between defensive aggression
+and offensive aggression.
+And you think about it, if you think about it,
+if offensive aggression is rewarding and pleasurable,
+if you start to get really scared,
+that tends to take the fun out of it.
+And maybe these two regions are close to each other
+to facilitate inhibition of aggression by the fear neurons.
+We know for a fact that if we deliberately stimulate
+those fear neurons at the top of the pair,
+when two animals are involved in a fight,
+it just stops the fight dead in its tracks
+and they go off into the corner and freeze.
+So at least hierarchically,
+it seems like fear is the dominant behavior
+over offensive aggression.
+And how that inhibition would work is not clear
+because all these neurons are pretty much excitatory.
+They're almost all glutamatergic.
+And so one of the interesting questions for the future
+is how exactly does fear dominate over
+and shut down offensive aggression in the brain?
+How does that work?
+Is it all circuitry?
+Are there chemicals involved?
+What's the mechanism and when is it called into play?
+But I think that's the way I tend to think about
+why these neurons are all mixed up together.
+And it's not just fight and freezing or fight and flight.
+There are also metabolic neurons
+that are mixed together in VMH as well.
+Controlling body-wide metabolism?
+Yeah, there are neurons there that respond to glucose.
+When glucose goes up in your bloodstream,
+they're activated.
+And VMH has a whole history in the field of obesity
+because if you destroy it in a rat, you get a fat rat.
+So the way most of the world thinks about VMH
+is they think about,
+oh, that's the thing that keeps you from getting fat.
+It's the anti-obesity area.
+But in the area of social behavior,
+we see it as a center for control of aggression
+and fear behaviors.
+And again, why these neurons and these functions,
+I like to call them the four Fs,
+feeding, freezing, fighting, and mating,
+that they all seem to be closely intermingled
+with each other, maybe because crosstalk between them
+is very important to help the animal's brain
+decide what behavior to prioritize
+and what behavior to shut down at any given moment.
+One of the things that we will do
+is link to the incredible videos of these mice
+that have selective stimulation of neurons in the VMH,
+DAUs and the other studies that you've done.
+Whenever I teach, I show those videos at some point
+with the caveats and warnings that are required
+when one is about to see a video of a mouse
+trying to mate with another mouse
+or mating with another mouse.
+And they seem both to be quite happy
+about the mating experience,
+at least as far as we know as observers of mice.
+And then upon stimulation of those VMH neurons,
+one of the mice essentially tries to kill the other mouse.
+And then when that stimulation is stopped,
+they basically go back to hanging out.
+They don't go right back to mating.
+There's some reconciliation clearly
+that needs to happen first, we assume.
+But it's just so striking.
+I think equally striking is the video
+where the mouse is alone in there with the glove.
+The VMH neurons are stimulated and the mouse goes into a rage
+it looks like it wants to kill the glove basically.
+So striking, I encourage people to go watch those
+because it really puts a tremendous amount of color
+on what we're describing.
+And it's just the idea that there are switches in the brain
+to me really became clear upon seeing that.
+One of the concepts, excuse me,
+one of the concepts that you've raised
+in your lectures before and that I think was Hess's idea
+is this idea of a sort of hydraulic pressure,
+or maybe it was Conrad, I can't speak now, excuse me,
+Conrad Lorenz, Martin, who talked about
+a kind of hydraulic pressure towards behavior.
+I'm fascinated by this idea of hydraulic pressure
+because I don't consider myself a hot tempered person,
+but I am familiar with the fact that when I lose my temper,
+it takes quite a while for me to simmer down.
+I can't think about anything else.
+I don't want to think about anything else.
+In fact, trying to think about anything else
+becomes aversive to me,
+which to me underscores this notion of prioritization
+of the different states and potentially conflicting states.
+What do you think funnels into this idea
+of hydraulic pressure toward a state?
+And why is it perhaps that sometimes we can be very angry
+and if we succeed in winning an argument,
+all of a sudden it will subside?
+Because clearly that means that there are external influences
+it's a complex space here that we're creating.
+I realize I'm creating a bit of a cloud
+and I'm doing it on purpose because to me,
+the idea of a hydraulic pressure towards a state like sleep,
+there's a sleep pressure, there's a pressure towards,
+that all makes sense, but what's involved?
+Is it too multifactorial to actually separate out
+the variables, but what's really driving hydraulic pressure
+toward a given state?
+Yeah, so a really important question.
+I think one way that is helpful, at least for me,
+to break this question apart and think about it
+is to distinguish homeostatic behaviors
+that is need-based behaviors where the pressure is built up
+because of a need, like I'm hungry, I need to eat,
+I'm thirsty, I need to drink, I'm hot,
+I need to get to a cold place.
+It's basically the thermostat model of your brain.
+You have a set point and then if the temperature
+gets too hot, you turn on the AC
+and if the temperature gets too cold,
+you turn on the heater and you put yourself
+back to the set point.
+I don't think that's how aggression works.
+That is, it's not that we all go around,
+at least subjectively, I don't go around
+with an accumulating need to fight,
+which I then look for something to,
+an excuse to release it.
+Now, maybe there are people that do that
+and they go out and look for bar fights to get into.
+Or Twitter.
+Yeah, or Twitter.
+Twitter seems to, I'm sort of half joking
+because Twitter seems to draw a reasonably sized crowd
+of people that are there for combat of some sort,
+even though the total intellectual power
+of any of their comments is about that of a cap gun.
+They seem to really like to fire off that cap gun.
+But I agree.
+Before we continue with today's discussion,
+I'd like to just briefly acknowledge our sponsor,
+Athletic Greens, now called AG1.
+Athletic Greens, AKA AG1, is an all-in-one
+vitamin mineral probiotic drink
+that also has adaptogens and digestive enzymes.
+I've been taking Athletic Greens since way back in 2012,
+so I'm delighted that they're sponsoring the podcast.
+The reason I started taking Athletic Greens
+and the reason I still drink Athletic Greens twice a day
+is that it supplies total foundational coverage
+of my vitamin mineral needs,
+and it supplies important nutrients
+that I need to support my gut microbiome.
+The gut microbiome, as many of you know,
+supports the immune system.
+It also supports the so-called gut-brain axis,
+which is vital for mood, for energy levels,
+for regulating focus,
+and many other features of our mental health
+and physical health that impact our daily performance
+and high performance in any endeavors
+we might be involved in.
+If you'd like to try Athletic Greens,
+you can go to athleticgreens.com slash Huberman
+and claim a special offer.
+They're giving away five free travel packs
+plus a year supply of vitamin D3K2 with every order.
+And of course, vitamin D3K2 are vital
+for all sorts of things like hormone health
+and metabolic health and K2 for cardiovascular health
+and calcium regulation.
+Again, you can go to athleticgreens.com slash Huberman
+to claim that special offer.
+So you can think of this accumulated hydraulic pressure
+either being based on something that you were deprived of,
+creating an accumulating need,
+or something that you want to do,
+building up a drive or a pressure to do that.
+And the natural way to think about that, at least for me,
+is as gradual increases in neural activity
+in a particular region of the brain.
+And so for example, in the area of the hypothalamus
+that controls feeding, Scott Stearnsen and others
+have shown that the hungrier you get,
+the higher the level of activity in that region
+in the brain.
+And then when you eat, boom,
+the activity goes right back down again.
+And that state is actually negatively valence.
+So it's like the animal, quote unquote,
+feels increasingly uncomfortable,
+just like we feel increasingly uncomfortable
+the hungrier we are.
+And then when we eat, it taps it down.
+But there is this increased activity.
+And I think in the case of aggression,
+our data and others show that the more strongly
+you drive this region of the brain optogenetically,
+the more of just a hair trigger you need
+to set the animal off to get it to fight.
+Now, the interesting thing is that if there is nothing
+for the animal to attack, it doesn't really do much
+when you're stimulating this region.
+It sort of wanders around the cage a little bit more,
+but it will not actually show overt attack
+unless you put something in front of it.
+And the same thing is true for the areas we've described
+that control mating behavior.
+This is what Lindsay is working on.
+You can stimulate those areas till you're blue in the face
+and the mouse just sort of wanders around.
+But if you put another mouse in, wham,
+he will try to mount that mouse.
+If you put a kumquat in the cage,
+he'll try to mount the kumquat.
+And so it becomes a sort of any port in the storm.
+So there is this idea that the drive is building up pressure
+that somehow needs to be released
+where that pressure is actually being exerted.
+If you accept that it's increased activity
+in some circuit or circuits someplace,
+what is it pushing up against that needs something else
+to sort of unplug it in the Lorentz hydraulic model?
+That is, you don't see the behavior
+until you release a valve on this bucket
+and let the accumulated pressure flow out.
+And that's one of the things we're trying to study
+in the context of the mating behavior as well.
+How does the information that there's an object
+in front of you come together with this drive state
+that is generated by stimulating these neurons
+in the hypothalamus to say, okay, pull the trigger and go,
+it's time to mate, it's time to attack.
+And we're just starting to get some insights into that now.
+Fascinating, and I should mention to people,
+Dr. Anderson mentioned Lindsay.
+Lindsay is a former graduate student of mine
+that's now a postdoc in David's lab.
+And I haven't caught up with her recently
+to hear about these experiments, but they sound fascinating.
+I would love to spend some time on this issue
+of why is it that a mouse won't attack nothing,
+but it'll attack even a glove or,
+and why, well, we'll only try and mate
+if there's another mouse to mate with.
+It's actually, I think fortunately for you,
+you're not spending a lot of time
+on Twitter and Instagram or YouTube,
+but there's this whole online community that exists now.
+As far as I know, it's almost exclusively young males
+who are obsessed with this idea.
+I'll just say it has a name,
+it's called NoFap of no masturbation
+as a way to maintain their motivation to go out
+and actually seek mates because of the ready availability
+of online pornography.
+There's probably a much larger population of young males
+that are never actually going out and seeking mates
+because they're getting porn addicted, et cetera.
+There's actually a serious issue that came up
+in our episode with Anna Lemke who wrote the book,
+Dopamine Nation, because the availability of pornography,
+there's a whole social context that's being created
+around this and genuine addiction.
+So humans are not like the mice
+or mice are not like the humans.
+Humans seem to resolve the issue on their own
+in ways that might actually impede seeking and finding
+of sexual partners and or long-term mates.
+So serious issue there.
+I raise it as a serious issue that I hear a lot about
+because I get asked hundreds, if not thousands
+of questions about this.
+Is there any physiological basis for what they call NoFap?
+And I never actually replied because there's no data,
+but what you're raising here is a very interesting
+mechanistic scenario that can,
+as you mentioned, is being explored.
+So what do we know about the internal state
+of a mouse whose VMH is being stimulated
+or a mouse whose other brain region
+that can stimulate the desire to mate?
+What do we know about the internal state of that mouse
+if it's just alone in the cage wandering around?
+Is it wandering around really wanting to mate
+and really wanting to fight?
+We of course don't know, but is its heart rate up?
+Is its blood pressure up?
+Is it wishing that there was pornography?
+Is it, something's going on presumably
+that's different than prior to that stimulation
+and is it arousal?
+And what do you think it is about the visual
+or olfactory perception of a conspecific
+that ungates this tremendous repertoire of behaviors?
+Right, that is the central question.
+I can say at least with respect to the fear neurons
+that sit on top of the aggression neurons,
+we know that when those neurons are activated
+optogenetically in the same way we would activate
+the aggression neurons that there's clearly an arousal
+process that's occurring.
+You can see the pupils dilate in the animal.
+There is an increase in stress hormone release
+into the bloodstream.
+We've shown that heart rate goes up.
+So in addition to the drive to actually freeze
+which is what those animals do,
+there is autonomic arousal and neuroendocrine activation
+of stress responses.
+And some of that is probably shared
+by the aggression neurons and the mating neurons
+although we haven't investigated it in as much detail.
+But I wouldn't be surprised because they project
+to many of the same regions that the fear neurons
+project to which is a interesting issue in the context
+to discuss later maybe in the context of why
+we're comfortable with mental illnesses that are based
+on maladaptations of fear but not mental illnesses
+that are based on maladaptations of aggression
+if they have pretty similar circuits in the brain.
+But that's how I would imagine there is
+an arousal dimension as you say.
+There are stress hormones that are activated.
+These regions, VMH projects to about 30 different regions
+in the brain and it gets input
+from about 30 different regions.
+So I kind of see it as both an antenna
+and a broadcasting center.
+It's like a satellite dish that takes in information
+from different sensory modalities, smell,
+maybe vision, mechanosensation and then it sort
+of synthesizes and integrates that into
+a fairly low dimensional as the computational people
+call it representation of this pressure to attack
+and it broadcasts that all over the brain
+to trigger all these systems that have to be brought
+into play if the animal is gonna engage in aggression
+because aggression is a very risky thing
+for an animal to engage in.
+It could wind up losing and it could wind up getting killed
+and so its brain constantly has to make
+a cost benefit analysis of whether to continue
+on that path or to back off as well.
+And I think that part of this broadcasting function
+of this region is engaging all these other brain domains
+that play a role in this kind of cost benefit analysis.
+I wanna talk more about mating behavior,
+but as a segue to that, as we're talking about aggression
+and mating behavior, I think hormones.
+And whenever there's an opportunity on this podcast
+to shatter a common myth, I grab it.
+One of the common myths that's out there
+and I think that persists is that testosterone
+makes animals and humans aggressive
+and estrogen makes animals placid and kind or emotional.
+And as we both know, nothing could be further
+from the truth, although there's some truth to the idea
+that these hormones are all involved.
+Robert Sapolsky supplied some information to me
+when he came on this podcast that if you give people
+exogenous testosterone, it tends to make them more
+of the way they were before.
+If they were a jerk before, they'll become more of a jerk.
+If they were very altruistic, they'll become more altruistic.
+And then eventually I pointed out you'll aromatize
+that testosterone and estrogen
+and you'll start getting opposite effects.
+So it's a murky space, it's not straightforward.
+But if I'm not mistaken, testosterone plays a role
+in generating aggression.
+However, the specific hormones that are involved
+in generating aggression via VMH are things other
+than testosterone.
+Can you tell us a little bit more about that?
+Because there's some interesting surprises in there.
+Yeah, that's a really important question.
+So when we finally identified the neurons in VMH
+that control aggression with a molecular marker,
+we found out that that marker was the estrogen receptor.
+So that might strike you as a little strange.
+Why should aggression promoting neurons in male mice
+be labeled with the estrogen receptor?
+Other labs have shown that the estrogen receptor
+in adult male mice is necessary for aggression.
+If you knock out the gene in VMH, they don't fight.
+And it's been shown, and a lot of this is work
+from your colleague Nirav Shah at Stanford,
+who is one of my former PhD students,
+that if you castrate a mouse and it loses the ability
+to fight, not only can you rescue fighting
+with a testosterone implant, but you can rescue it
+with an estrogen implant.
+So you can bypass completely the requirement
+for testosterone to restore aggressiveness to the mice.
+And as you say, it's because many of the effects
+of testosterone, although not all, many of them
+are mediated by its conversion to estrogen
+by a process called aromatization.
+It's carried out by an enzyme called aromatase.
+In fact, people may have, most of your listeners
+may have heard of aromatase, because aromatase inhibitors
+are widely used in female humans
+as adjuvant chemotherapy for breast cancer.
+They are a way of reducing the production of estrogen
+by preventing testosterone
+from being converted into estrogen.
+And in fact, there are a lot of animal experiments
+showing if you give males aromatase inhibitors,
+they stop fighting as well as also stop
+being sexually active.
+And so that's one of the counterintuitive ideas.
+And Nirao has shown that progesterone also seems
+to play a role in aggression,
+because these aggression neurons also express
+the progesterone receptor.
+So here are two hormones that are classically thought of
+as female reproductive hormones.
+This is what goes up and goes down during the estrus cycle,
+estrogen and progesterone,
+and yet they're playing a very important role
+in controlling aggression in male mice,
+and presumably in male humans as well.
+Fascinating.
+So estrogen is doing many more things
+than I think most people believe,
+and testosterone is doing maybe different
+and fewer things in some cases and more in others.
+I've known some aggressive females
+over the time I've been alive.
+What's involved in female aggression that's unique
+from the pathways that generate male aggression?
+Great, great question.
+So we and other labs have studied this
+in both mice and also in fruit flies.
+So one thing in mice that distinguishes aggression
+in females from males is that male mice
+are pretty much ready to fight at the drop of a hat.
+Female mice only fight when they are nurturing
+and nursing their pups after they've delivered a litter,
+and there's a window there
+where they become hyper aggressive,
+and then after their pups are weaned,
+that aggressiveness goes away.
+So this is pretty remarkable
+that you take a virgin female mouse
+and expose it to a male,
+and her response is to become sexually receptive
+and to mate with him,
+and now you let her have her pups
+and you put the same male or another male mouse
+in the cage with her,
+and instead of trying to mate with him, she attacks him.
+So there is some presumably hormonal
+and also neuronal switch that's occurring in the brain
+that switches the response of the female
+from sex to aggression
+when she goes from virginity to maternity,
+and we recently showed in a paper,
+this is work from one of my students, Mungu Liu,
+that within VMH in females,
+there are two clearly divisible subsets
+of estrogen receptor neurons,
+and she showed that one of those subsets controls fighting
+and the other one controls mating,
+and in fact, if you stimulate
+the fighting-specific subset in a virgin,
+you can get the virgin to attack,
+which is something that we were never able to do before,
+and if you stimulate the mating one, you enhance mating.
+The reason we could never get these results
+when we stimulated the whole population
+of estrogen receptor neurons
+is that these effects are opposite and they cancel out,
+and so it turns out that if you measure the activity
+of the fighting and the mating neurons
+going from a virgin to a maternal female,
+the aggression neurons are very low
+in their activity in the virgin,
+but once the female has pups,
+the activation ability of those neurons goes way up
+and the mating neurons stay the same,
+so if you think of the balance between them like a seesaw,
+in the virgin, there is more activity in the mating neurons
+than in the fighting neurons,
+whereas in the nursing mother,
+there's more activity or more activation
+in the other way around, the fighting neurons in the mating.
+Did I say fighting and mating in the first?
+Mating neurons dominate fighting in the virgin,
+fighting neurons dominate mating in the mother,
+so that's a really cool observation,
+and it's not something that happens in males,
+and we don't know what causes that or controls that.
+Interestingly, this gets into the whole issue
+of neurons that are present in females but not in males,
+so we've known for, the field has known for a long time
+that male and female fruit flies have sex-specific neurons,
+and most of the neurons that we've identified
+in fruit flies that control fighting in males
+are male-specific.
+They're not found in the female brain,
+but recently, we discovered a set of female-specific
+fighting neurons in the female brain,
+together with a couple of other laboratories.
+Now, they do share one common population of neurons
+in both male and female flies
+that in females activates the female-specific
+fighting neurons and in males activates
+the male-specific fighting neurons,
+so it's kind of a hierarchy with this common neuron on top,
+and in mice, we discovered that there are
+male-specific neurons in VMH,
+and those neurons are activated during male aggression.
+Now, the neurons that are active in females
+when females fight in VMH are not sex-specific,
+so they are also found in males,
+so this is already showing you some complexity.
+The male mouse VMH has both male-specific
+aggression neurons and generic aggression neurons,
+and then the female VMH, the mating cells,
+are only found in females.
+They are female-specific and not found in the male brain,
+and so we're trying to find out
+what these sex-specific populations of neurons are doing,
+but that indicates that that is some of the mechanism
+by which different sexes show different behaviors.
+I'm fixated on this transition
+from the virgin female mouse to the maternal female mouse,
+I have a couple of questions about whether or not,
+for instance, the transition is governed
+by the presence of pups.
+So for instance, if you take a virgin female,
+she'll mate with a male.
+Once she's had pups, she'll try and fight that male
+or presumably another intruder female, right?
+Equally towards females and male intruders.
+Does that require the presence of her pups,
+meaning if you were to take those pups
+and give them to another mother,
+does she revert to the more virgin-like behavior?
+Is it related to, is it triggered by lactation
+or could it actually be triggered
+by the mating behavior itself?
+Because it's possible for the virgin to become a non-virgin,
+but not actually have a litter of pups.
+Right, those are all great questions
+and we don't know the answer to most of them.
+What I can say is that a nursing mother
+doesn't have to have her pups with her in the cage
+in order to attack an intruder male or an intruder female.
+She is just in a state of brain
+that makes her aggressive to any intruder.
+And those aggression neurons in that female's brain
+are activated by both male and female intruders equally.
+Whereas in male mice, the aggression neurons
+are only ever activated by males, not by females,
+because males are never supposed to attack females.
+They're only supposed to mate with them.
+So that's another difference in how those neurons
+are tuned to signals from different conspecifics.
+Does it require lactation?
+I don't know the answer to that.
+I think there are some experiments
+where people have tried to, classical experiments,
+people have tried to reproduce the changes in hormones
+that occur during pregnancy in female rats
+to see if it can make them aggressive.
+And some of those manipulations do to some extent,
+but there's a whole biology there
+that remains to be explored
+about how much of this is hormones,
+how much of this is circuitry and electricity,
+and how much of it is other factors
+that we haven't identified yet.
+I don't want to anthropomorphize,
+but well, I'll just ask the question.
+So the other day I was watching ferrets mate, right?
+Mustelids, they're mustelids and they're mating behavior.
+I guess I didn't say why I was watching this.
+Doesn't matter, it simply doesn't matter.
+But if one observes the mating behaviors
+of different animals,
+we know that there's a tremendous range
+of mating behaviors in humans.
+There can be no aggressive component,
+there could be aggressive component.
+Humans have all sorts of kinks and fetishes and behaviors,
+and most of which probably has never been documented
+because most of this happens in private.
+And here I always say on this podcast,
+anytime we're talking about sexual behavior in humans,
+we're always making the presumption
+that it's consensual, age appropriate,
+context appropriate, and species appropriate.
+Let's say we're talking about a lot of different species.
+With that said, just to set context,
+I was watching this video of ferrets mating
+and it's quite violent actually.
+There's a lot of neck biting, there's a lot of squealing.
+If I were going to project an anthropomorphize,
+I'd say it's not really clear they both want to be there.
+One would make that assumption.
+And of course we don't know, we have no idea.
+This could be the ritual.
+But it seems to me that there is some crossover
+of aggression and mating behavior circuitry
+during the act of mating.
+And do you think that reflects this sort of
+stew of competing neurons
+that are prioritizing in real time?
+Because of course, as states, they have persistence,
+as you point out.
+And you can imagine that states overlapping
+in four different states, the motivational drive to mate,
+the motivational drive to get away from this experience,
+the motivational drive to eat at some point,
+to defecate at some point,
+all of these things are competing.
+And what we're really seeing is a bias in probabilities.
+But when you look at mating behavior of various animals,
+you see an aggressive component sometimes, but not always.
+Is it species specific?
+Is it context specific?
+And more generally, do you think that there is crosstalk
+between these different neuronal populations
+and the animal itself might be kind of confused
+about what's going on?
+Right, great, great questions.
+I can't really speak to the issue
+of whether this is species specific
+because I'm not a naturalist or a zoologist.
+I've seen, like you have, in the wild,
+for example, lions when they mate.
+I've seen them in Africa.
+There's often a biting component of that as well.
+One of the things that surprised us
+when we identified neurons in VMHVL
+that control aggression in males
+is that within that population,
+there is a subset of neurons that is activated by females
+during male-female mating encounters.
+Now, you don't generally think of mouse sex as rough sex,
+but there is a lot of what superficially looks
+like violent behavior sometimes,
+especially if the female rejects the male and runs away.
+And there's some evidence
+that those female selective neurons in VMH
+are part of the mating behavior.
+If you shut them down, the animals don't mate
+as effectively as they otherwise would.
+What happens when you stimulate them?
+We don't yet know because we don't have a way
+to specifically do that without activating
+the male aggression neurons.
+But I think they must be there for a reason
+because VMH is not traditionally the brain region
+to which male sexual behavior has been assigned.
+That's another area called the medial preoptic area.
+And there we have shown that there are neurons
+that definitely stimulate mating behavior.
+In fact, if we activate those mating neurons
+in a male while it's in the middle
+of attacking another male, it will stop fighting,
+start singing to that male and start to try
+to mount that male until we shut those neurons off.
+So those are the make love not war neurons
+and VMH are the make war not love neurons.
+And there are dense interconnections
+between these two nuclei,
+which are very close to each other in the brain.
+And we've shown that some of those connections
+are mutually inhibitory to prevent the animal
+from attacking a mate that it's supposed to be mating with
+or to prevent it from mating with an animal
+it's supposed to be attacking.
+But it's also possible that there are
+some cooperative interactions between those structures
+as well as antagonistic interactions
+and the balance of whether it's the cooperative
+or antagonistic interactions that are firing
+at any given moment in a mating encounter,
+as you suggest, may determine whether a moment
+of coital bliss among two lions may suddenly turn
+into a snap or a growl and a bearing of fangs.
+We don't know that, but certainly the substrate,
+the wiring is there for that to happen.
+I'm sure people's minds are running wild with all this.
+I'll just use this as an opportunity to raise something
+I've wondered about for far too long,
+which is I have a friend who's a psychiatrist
+who works on the treatment of fetishes.
+This is not a psychiatrist that I was treated by.
+I'll just point that out.
+But they mentioned something very interesting to me
+long ago, which is that when you look at true fetishes
+and what meets the criteria for fetish,
+that there does seem to be some,
+what one would think would be competing circuitry
+that suddenly becomes aligned.
+For instance, avoidance of feces, dead bodies, feet,
+things that are very infectious.
+Typically, those states of disgust are antagonistic
+to states of desire, as one would hope is present
+during sexual behavior.
+Fetishes often involve exactly those things
+that are aversive, feet, dead bodies,
+disgusting things to most people.
+And true fetishes in the pathologic sense
+exist when people have basically a requirement
+for thinking about, or even the presence
+of those ordinarily disgusting things
+in order to become sexually aroused,
+as if the circuitry has crossed over.
+And the statement that rung in my mind was
+people don't develop fetishes to mailboxes
+or to the color red or to random objects and things.
+They develop fetishes to things that are highly infectious
+and counter reproductive, repetitive states.
+So I find that interesting.
+I don't know if you have any reflections on that
+as to why that might be.
+I'm tempted to ask whether or not you've ever observed
+fetish-like behavior in mice,
+but I find it fascinating that you have this area
+of the brain that's so highly conserved, the hypothalamus,
+which you have these dense populations intermixed
+and that the addition of a forebrain,
+especially in humans that can think and make decisions
+could in some ways facilitate the expression
+of these primitive behaviors,
+but could also complicate the expression
+of primitive behaviors.
+Right, I would agree.
+I think one way of looking at fetishes
+from a neurobiological standpoint
+is that they represent a kind of repetitive conditioning
+where something that is natively aversive or disgusting
+by being repeatedly paired with a rewarding experience
+changes its valence, its sign,
+so that now it somehow produces the anticipation of reward
+the next time a person sees it.
+Now, I don't know how,
+I don't know that literature in animals,
+so I don't know if you could condition a mouse
+to eat feces, for example,
+although there are animals that are naturally coprophagic.
+That is, and maybe mice do that occasionally, I'm not sure,
+but that is one way to think about it,
+and that could certainly involve in humans
+the more recently evolved parts of the brain,
+the cortex that is sort of orchestrating
+both what behaviors are happening
+and whether reward states are turning on
+in association with those behaviors that are happening,
+and that's the part that I think is difficult
+and challenging to study in a mouse,
+but certainly bears thinking about
+because it's a really interesting,
+again, sort of counterintuitive aspect,
+again, like rough sex,
+people that want to have fighting or violence
+or aggressiveness in order to be sexually aroused
+and fetishes, and in fact,
+when we made that discovery initially,
+it raised the question in my mind
+whether some people that are serial rapists,
+for example, and engage in sexual violence
+might in some level have their wires crossed in some way
+that these states that are supposed to be
+pretty much separated and mutually antagonistic
+are not and are actually more rewarding and reinforcing.
+I think it's gonna be a long time
+before we have figured it out,
+but when you think about it,
+there is no treatment that we have
+for a violent sexual offender that eliminates the violence,
+but not the sexual desire and sexual urge,
+whether it's physical castration or chemical castration,
+it eliminates both.
+Definitely an area that I think,
+well, human neuroscience in general needs a lot of tools,
+in terms of how to probe and manipulate neural circuitry.
+I'd love to turn to this area that you mentioned,
+the medial preoptic area.
+I'm fascinated by it because just as within the VMH,
+you have these neurons for mating and fighting or aggression,
+my understanding is medial preoptic area
+contains neurons for mating, but also for
+temperature regulation.
+And perhaps I'm making too much of a leap here,
+but I've always wondered about this phrase in heat.
+As certainly the menstrual or estrous cycle in females
+is related to changes in body temperature.
+In fact, measuring body temperature is one way
+that women can fairly reliably predict ovulation, et cetera.
+Although additional, this is not a show about contraception,
+please rely on multiple methods as necessary.
+Don't use this discussion as your guide for contraception
+based on temperature.
+But if you stimulate certain neurons
+in the medial preoptic area,
+you can trigger dramatic changes in body temperature
+and or mating behavior.
+What's the relationship, if any,
+between temperature and mating, or do we simply not know?
+I don't know what the relationship is
+between temperature and mating neurons
+in the preoptic area.
+I suspect that they are different populations of neurons
+because it's become pretty clear that the preoptic area
+has many different subsets of neurons
+that are specifically active during different behaviors,
+even different phases of mating behavior.
+So there are mounting neurons,
+there are intermission, thrusting neurons,
+and ejaculation neurons, and sniffing neurons.
+Wait, wait, so I think I've heard this before,
+but I just wanna make sure that people get this,
+and I wanna make sure I get this.
+So you're telling me within the medial preoptic area,
+there are specific neurons that if you stimulate them
+will make males thrust as if they're mating?
+No, so this is not based on stimulation experiments.
+It's based on imaging experiments right now
+that we see when we look in the preoptic area
+at what neurons are active
+during different phases of aggression,
+we see that there are different neurons
+that are active during sniffing,
+mounting, thrusting, and ejaculation,
+and they become repeatedly activated
+each time the animal goes through that cycle.
+During mating.
+During the mating cycle.
+There are also some neurons there
+that are active during aggression, which are distinct,
+and we don't know whether those neurons are there
+to promote aggression or to inhibit mating
+when animals are fighting.
+We have some evidence that suggests it may be the latter,
+but we don't know for sure yet.
+The thermosensitive neurons are really interesting
+because you mentioned the phrase in heat,
+and then in the context of aggression,
+you talk about hot-blooded people or hotheads.
+There's just recently a paper showing
+there are thermoregulatory neurons in VMH as well.
+So all of these homeostatic systems for metabolic control
+and temperature control are intermingled in these nuclei,
+these zones that control these basic survival behaviors
+like mating and aggression and predator defense.
+And I would imagine that the thermoregulation
+is tightly connected to energy expenditure
+and that, again, these neurons are mixed together
+to facilitate integration of all these signals
+by the brain in some way that we don't understand
+to maintain the proper balance
+between energy conservation and energy consumption
+during this particular behavior or that behavior.
+I mean, I've always been fascinated by the question,
+why is it that violence goes up in the summertime
+when the temperatures are high?
+Does it really have something to do with the idea
+that increased temperature increases violence?
+Seems hard to believe because we're homeothermic
+and we pretty much stay around 98.6 Fahrenheit.
+Could be other social reasons why that happens.
+People are outside out on the street
+bumping into each other.
+But I think there could well be something
+that ties thermoregulation to aggressiveness
+as well as to mating behavior.
+Fascinating, Gal.
+I asked in the hopes that maybe in the years to come,
+your lab will parse some of the temperature relationships.
+And I realized it could be also regulated
+by hormones in general.
+So it's tapping into two systems
+for completely different reasons.
+But anyway, an area that intrigues me
+because of this notion of hotheadedness
+or cool, common, collected.
+And also the fact that,
+I probably should have asked about this earlier,
+that arousal itself is tethered
+to the whole mating and reproductive process.
+I mean, without a sort of seesawing back
+between the sympathetic and parasympathetic arousal,
+relaxed states, there is no mating that will take place.
+So it's fascinating the way these different competing forces
+and seesaws operate.
+Several times during the discussion so far,
+we've hit on this idea that the same behavior
+can reflect different states
+and different states can converge on multiple behaviors
+as well.
+You had a paper not long ago about mounting behavior,
+which I found fascinating.
+Maybe you could tell us about that result
+because to me, it really speaks to the fact
+that mounting behavior can in one context be sexual
+and in another context actually be related
+to we presume dominance.
+And I think that my friends who practice jujitsu
+will say they, when I talk about that result,
+they say, of course, you know,
+mounting the other person and dominating them,
+there's nothing sexual about it.
+It's about overtaking them physically,
+literally being on their next side
+as opposed to on their own, lying on their own back.
+Just fascinating, very primitive.
+And yet I think speaks to this idea
+that mounting behavior might be one
+of the most fundamental ways in which animals
+and perhaps even humans express dominance
+and or sexual interactions.
+Yep, that's a fascinating question.
+And it was harder to figure out
+than you might've thought.
+So we've, there's been this debate for a long time
+in the field when you see two male mice mounting each other,
+is this homosexual behavior?
+Is this a case of mistaken sexual identification
+or is this dominance behavior?
+And if you train an AI algorithm
+to try to distinguish male-male mounting
+from male-female mounting, it does not do a very good job
+because motorically those behaviors look so similar.
+And so how did we wind up figuring out
+that most male-male mounting is dominance mounting?
+There are two important clues.
+One is the context.
+And so male-male mounting tends
+to be more prominent among mice
+when they haven't had a lot of fighting experience.
+And then as they become more experienced in fighting,
+they will show relatively less mounting
+towards the other male and more attack.
+And they'll transition quickly from mounting to attack.
+And so the mounting is always seen in this context
+of an overall aggressive interaction.
+And then the second thing, which believe it or not,
+was suggested by a computational theoretical person
+in my lab, Anne Kennedy,
+who now has her own lab at Northwestern.
+She said, well, males are known to sing
+when they mount females, ultrasonic vocalizations.
+Why don't you see what kinds of songs they're singing
+when they're mounting males?
+Maybe it's a different kind of song.
+Well, what we found out is they don't sing at all
+when they're mounting a male.
+So you can easily distinguish whether mounting behavior
+by a male mouse is reproductive or agonistic,
+aggressive according to whether it's accompanied
+by ultrasonic vocalizations or not.
+And it turns out that different brain regions
+are maximally active
+during these different types of mounting.
+So VMH, the aggression locus,
+is actually active during dominance mounting,
+and you can stimulate mounting if you,
+dominance mounting, if you weakly activate VMH,
+whereas MPOA is most strongly activated
+during sexual mounting,
+and that's always accompanied
+by the ultrasonic vocalization.
+So this shows how difficult and dangerous it can be
+to try to infer an animal's state or intent or emotion
+from the behavior that it's exhibiting,
+because the same behavior can mean very different things
+depending on the context
+or the interaction with the animal.
+And I would say even more so
+with when that animal is a human or is multiple humans.
+That's right.
+And there are many examples.
+Animals show chasing to obtain food,
+a prey animal that they're gonna kill and eat,
+and they show chasing to obtain a mate
+that they're gonna have sex with.
+And so the intent of the chasing is completely different,
+and we don't know in all these cases
+whether there are separate circuits
+or common circuits that are being activated.
+I'm obsessed with dogs and dog breeds
+and et cetera, et cetera.
+And one thing I can tell you
+is that female dogs will mount and thrust.
+We had a female pit bull mix, very sweet dog,
+but in observing her, it convinced me
+that one can never assume
+that male dogs are more aggressive than female dogs.
+There's a, it turns out in talking to people
+who are quite skilled at dog genetics and dog breeding,
+that there's a dominance hierarchy within a litter,
+and it crosses over male-female delineations.
+So you can get a female in the litter
+that's very dominant, a male that's very subordinate,
+and no one really knows what relates to.
+This is also why little dogs sometimes
+will get right up in the face of a big Doberman Pinscher
+and just start barking,
+which is an idiotic thing for it to do,
+but they can be dominant over a much larger dog.
+Very strange, to me anyway.
+Female-female mounting, do you observe it in mice?
+Are there known circuits?
+And what evokes female-female mounting,
+or female-to-male mounting, if it occurs?
+Good.
+Yes, there is female,
+there are clear examples of females
+displaying male-type mounting behavior
+towards other females.
+We see this most commonly in the lab
+where we are housing females with their sister,
+say three or four in a cage.
+We take one out and we have her mate with a male
+where the male's doing the mounting.
+Now we take that female and we put her back in the cage
+with her litter mates and she starts mounting them.
+Now what the function of that is,
+if it has any function or what it means,
+what's driving it, we don't know.
+But we do know that if we stimulate the mount,
+the neurons that control mounting in males
+in the medial preoptic area,
+if we stimulate that same population in females,
+it evokes male-type mounting
+towards either a male or a female target.
+In fact, we have a movie where we have a female
+that has just been mounted by a male.
+So the male's on top and she's underneath
+and we stimulate that region of MPOA in the female
+and she crawls out from underneath the male
+who has just mounted her, circles around behind him
+and climbs up on top of him
+and starts to try to mount him and thrust at him.
+That has a name online, it's called a switch.
+Is that right?
+Don't ask me how I know that.
+Okay.
+But it's a pretty, yeah, it's a term that you hear.
+You also hear the term topping from the bottom,
+which it sounds like that is a literal topping
+from the bottom. I see.
+That's more of a psychological phrase from what I hear.
+I have friends that are educating me in this language,
+mostly because I find this kind
+of neurobiological discussion fascinating.
+At some point, right, I attempt in my mind
+to superimpose observations from the online communities
+that I've been told about and asked about to this,
+but I should point out it's always dangerous
+and in fact, inappropriate to make a one-to-one link.
+Humans are, they maintain all the same neural circuitry
+and pathways that we're talking about today in mice,
+but that forebrain does allow for context, et cetera.
+Yep.
+So what the function is of female mounting,
+I don't know, it could be a type of dominance display.
+It's hard to measure that because people haven't worked
+on female dominance hierarchies to the same extent
+that they've worked on male dominance hierarchies,
+but it indicates that the circuits for male type mounting
+are there in females as early work
+from Catherine Dulock suggested some years ago.
+Fascinating, fascinating.
+I love that paper because as you pointed out for Chase,
+you know, for mounting behavior, you know,
+we see it and we think one thing specifically.
+And after hearing this result, actually,
+I'm not a big fan of fight sports.
+I watch them occasionally because friends are into them,
+but I've seen boxing matches, MMA matches,
+where at the end of a round,
+if someone felt that they dominated,
+they will do the unsportsmanlike thing of the thrusting
+on the back of the other person before they get off,
+almost like I dominated you.
+And so mimicking sexual like behavior,
+but there's no reason to think that it's sexual,
+but they're sending a message of dominance is what implies.
+I'd love to talk about something slightly off
+from this circuitry, but I think that's related
+to the circuitry, at least in some way,
+which is this structure that I've always been fascinated by
+and I can't figure out what the hell it's for
+because it seems to be involved in everything,
+which is the PAG, the periaqueductal gray,
+which is a little bit further back in the brain
+for people that don't know.
+It's been studied in the context of pain.
+It's been studied in the context
+of the so-called lordosis response,
+the receptivity or arching of the back of the female
+to receive intromission and mating from the male.
+How should we think about PAG?
+Clearly it can't be involved in everything.
+I'm guessing it's at least as complex
+as some of these other regions
+that we've been talking about,
+different types of neurons controlling different things,
+but how does PAG play into this?
+In particular, I wanna know,
+is there some mechanism of pain modulation and control
+during fighting and or mating?
+And the reason I ask is that,
+while I'm not a combat sports person,
+years ago I did a little bit of martial arts
+and it always was impressive to me
+how little it hurt to get punched during a fight
+and how much it hurt afterwards, right?
+So there clearly is some endogenous pain control
+that then wears off and then you feel beat up,
+at least in my case, I felt beat up.
+What's PAG doing vis-a-vis pain and vis-a-vis,
+and what's pain doing vis-a-vis these other behaviors?
+Good, good.
+So I think of PAG like a old fashioned telephone switchboard
+where there are calls coming in
+and then the cables have to be punched into the right hole
+to get the information to be routed to the right recipient
+on the other end of it,
+because pretty much every type of innate behavior
+you can think of has had the PAG implicated.
+There's a whole literature showing the involvement
+of the PAG in fear, different regions of the PAG.
+The dorsal PAG is involved in panic-like behavior,
+running away.
+The ventral PAG is involved in freezing behavior.
+Both the MPOA and VMH send projections to the PAG,
+to different regions of the PAG.
+So in cross-section, I hate to say this,
+but in cross-section,
+the PAG kind of looks like the water in a toilet
+when you're standing over an open toilet bowl.
+And if you imagine a clock face projected onto that,
+it's like the PAG has sectors from one to 12,
+maybe even more of them.
+And in each of those sectors,
+you find different neurons from the hypothalamus
+are projecting.
+So could turn out that there is a topographic arrangement
+along the dorsal ventral axis of the PAG
+and the medial lateral axis of the PAG
+that determines the type of behavior
+that will be emitted when neurons in that region
+are stimulated.
+And I think sort of all of the evidence
+is pointing in that direction,
+but by no means has it been mapped out.
+Now, the thing that you mentioned about it not hurting
+when you got beat up during martial arts,
+there is a well-known phenomenon
+called fear-induced analgesia,
+where when an animal is in a high state of fear,
+like if it's trying to defend itself,
+there is a suppression of pain responses.
+And I'm not sure completely about the mechanisms
+and how well that's understood.
+But for example, the adrenal gland has a peptide in it
+that is released from the adrenal medulla,
+which controls the fight or flight responses.
+And that peptide has analgesic activities.
+Now whether- Ask what that peptide is.
+It's called bovine adrenal medullary peptide
+of 22 amino acid residues.
+And I only know about it because it activates a receptor
+that we discovered many years ago
+that's involved in pain, and we thought it promoted pain,
+but it turns out that this actually inhibits pain.
+It's like an endogenous analgesic.
+Whether this is happening, this type of analgesia
+is happening when an animal is engaged
+in offensive aggression or in mating behavior,
+I don't know, but it certainly is possible.
+And I don't know whether these analgesic mechanisms
+are happening in the PAG.
+They could also be happening a little further down
+in the spinal cord.
+The PAG is really continuous with the spinal cord.
+If you just follow it down towards the tail of an animal,
+you will wind up in the spinal cord.
+And so it could be that there are influences
+acting at many levels on pain in the PAG
+and in the spinal cord as well.
+And it may well be known, I just don't know it.
+I wanna distinguish clearly between things
+that are not known, that I know are unknown,
+which is in a fairly small area where I have expertise
+from things that may be known, but I'm ignorant of them
+because I just don't have a broad enough knowledge base
+to know that.
+Sure, we appreciate those delineations.
+Thank you, PAG.
+I think this description of it
+is an old-fashioned telephone switchboard.
+And now every time I look into the toilet,
+I'll think about the periaqueductal gray.
+And every time I see an image of periaqueductal gray,
+I'll think about a toilet.
+That is an excellent description
+because in fact, I drew a circle
+with a little thing at the bottom.
+Well, I'll put a link to a picture of PAG
+and you'll understand why David and I are chuckling here
+because indeed it looks like a toilet
+when staring into a toilet.
+Tell us about tachykinin.
+I've talked about this a couple of times
+on different podcast episodes
+because of its relationship to social isolation.
+And in part because the podcast was launched
+during a time when there was more social isolation.
+My understanding is that tachykinin,
+and you'll tell us what it is in a moment,
+is present in flies and mice and in humans
+and may do similar things in those species.
+That's right.
+So, tachykinin is,
+refers to a family of related neuropeptides.
+So these are brain chemicals.
+They're different from dopamine and serotonin
+in that they're not small organic molecules.
+They're actually short pieces of protein
+that are directly encoded by genes
+that are active in specific neurons and not in others.
+And when those neurons are active,
+those neuropeptides are released together
+with classical transmitters like glutamate, whatever.
+Tachykinins have been famously implicated in pain,
+particularly tachykinin-1, which is called substance P,
+one of the original pain modulating.
+This is something that promotes inflammatory pain.
+But there are other tachykinin genes.
+In mice, there are two.
+In humans, I think there are three.
+And in Drosophila, there is one.
+And the way we got into tachykinins
+is from studying aggression in flies.
+We thought, since neuropeptides have this remarkable
+parallel evolutionary conservation of structure
+and function, like neuropeptide Y controls feeding
+in worms, in flies, and mice, and in people,
+oxytocin-like peptides control reproduction
+in worms and mice and in people,
+we thought we might find peptides
+that control aggression in flies and in people.
+And so we did a screen, unbiased screen of peptides
+and found indeed that one of the tachykinins,
+Drosophila tachykinin, those neurons,
+when you activate them, strongly promote aggression
+and it depends on the release of tachykinin.
+Now, the interesting thing is that in flies,
+just like in people and practically any other social animal
+that shows aggression,
+social isolation increases aggressiveness.
+So putting a violent prisoner in solitary confinement
+is absolutely the worst,
+most counterproductive thing you could do to them.
+And indeed we found in flies that social isolation
+increases the level of tachykinin in the brain.
+And if we shut that gene down,
+it prevents the isolation from increasing aggression.
+So since my lab also works on mice,
+it was natural to see whether tachykinins
+might be upregulated in social isolation
+and whether they play a role in aggression.
+And this is work done by a former postdoc,
+Moriel Zelikovsky,
+now at University of Salt Lake City in Utah.
+And she found remarkably that when mice
+are socially isolated for two weeks,
+there is this massive upregulation of tachykinin II
+in their brain.
+In fact, if you tag the peptide
+with a green fluorescent protein from a jellyfish,
+genetically, the brain looks green
+when the mice are socially isolated
+because there's so much of this stuff released.
+And she went on to show that that increase in tachykinin
+is responsible for the effect of social isolation
+to increase aggressiveness and to increase fear
+and to increase anxiety.
+And in fact, there are drugs that block the receptor
+for tachykinin, which were tested in humans and abandoned
+because they had no efficacy in the tests
+that they were analyzed for.
+If you give those drugs to a socially isolated mouse,
+it blocks all of the effects of social isolation.
+It blocks the aggression,
+it blocks the increased fear and the increased anxiety.
+And that Moriel described it, the mice just look chill.
+It's not a sedative, which is really important.
+It's not that the mice are going to sleep.
+Most remarkably is once you socially isolate a mouse
+and it becomes aggressive,
+you can never put it back in its cage with its brothers
+from its litter because it will kill them all overnight.
+But if you give it this drug, which is called Osanatant,
+that blocks tachykinin II,
+that mouse can be returned to the cage with its brothers
+and will not attack them and seems to be happy about that
+for the rest of the time.
+So this is an incredibly powerful effect of this drug.
+And I've been really interested
+in trying to get pharmaceutical companies
+to test this drug,
+which has a really good safety profile in humans,
+in testing it in people who are subjected
+to social isolation stress or bereavement stress.
+And this is one of the areas
+where I learned an eye-opening lesson
+as a basic scientist who naively thought
+that if you make a discovery
+and it has translational applications to humans,
+that pharmaceutical companies are going to be falling
+all over themselves to try it.
+And they're not interested because once burned, twice shy.
+These drugs were tested for efficacy in schizophrenia.
+I have no idea why.
+There's very little preclinical data to suggest that.
+Not surprisingly, they failed.
+When a drug fails in clinical trials in phase three,
+it costs $100 million to the company
+that carried out that clinical trial.
+So there's a huge slag heap of discarded pharmaceuticals.
+Many of them inhibitors of neuropeptide action
+that could be useful in other indications,
+such as the one we discovered.
+But there's a huge economic disincentive
+for pharmaceutical companies to test them again,
+because the conclusion that they drew
+from all these failed tests,
+particularly in the 2010s and before that,
+is that the reason they failed
+is because animal experiments with drugs
+don't predict how humans will respond to the drugs.
+And therefore, we shouldn't try to extrapolate
+from any other data that we get from animal experiments,
+mouse or rat experiments, to humans,
+because they'll lead us down the wrong track.
+And I think that that is probably wrong.
+In some cases, it may be right,
+but in other cases, there's good reason to think,
+because these brain regions and molecules
+are so evolutionarily conserved
+that they ought to be playing a similar role in humans.
+In fact, there is a paper showing
+that in humans that have borderline personality disorder,
+there's a strong correlation
+between their self-reported level of aggressiveness
+and serum levels of a tachykinin,
+in this case, tachykinin-1,
+as detected by radioimmunoassay.
+This is work of Emil Coccaro,
+who's a clinical psychiatrist at the University of Chicago.
+So there is a smoking gun in the case of humans as well.
+And I was actually trying
+to interest a pharmaceutical company
+that was testing these drugs,
+actually for treatment of hot flashes in females, in humans,
+where there is actually good animal data
+to think that it might be useful.
+But I realized that this clinical trial
+was going on during the COVID pandemic.
+And I approached them and said,
+look, nature may have actually done for you
+the experiment that I want you to do,
+because some of the people who are getting drug or placebo
+are gonna have been socially isolated,
+and some of them will have not.
+Why don't you get them to fill out questionnaires
+and see whether the ones who are given the drug
+and socially isolated felt less stressed and less anxious
+than the ones who were not socially isolated,
+and they would not touch it
+because they're in the middle of a clinical trial
+for a different indication for this drug,
+and they have to report any observation
+that they make about that drug in their patient population.
+So if they were to ask these questions
+and get an unfavorable answer,
+oh my God, I felt even worse when I took this drug
+and I was isolated,
+they would be obliged to report that to the FDA,
+and that could torpedo the chances
+for the drug being approved
+in the thing that it was in clinical trials for.
+So it's better not to ask and not to know
+than it is to try to find out more information
+that could lead to another clinical indication.
+So I remain convinced that this family of drugs
+could have very powerful uses in treating some forms
+of stress-induced anxiety or aggressiveness in humans,
+but it's just very difficult for economic reasons
+to find a way to get somebody to test that.
+Yeah, a true shame that these companies won't do this,
+and especially given the fact
+that many of these drugs exist
+and their safety profiles are established,
+because that's always a serious consideration
+when embarking on a clinical trial.
+And perhaps in hearing this discussion,
+someone out there will understand
+the key importance of this and will reach out to us,
+will provide ways to do that
+to get such a study going in humans.
+Because I think if enough laboratories
+ran small-scale clinical trials,
+pharma certainly would perk up their ears, right?
+I mean, they're so strategic sometimes to their own.
+I mean, I would like to say also,
+I'd like to see this tested on pets.
+I mean, there's a huge number of pets right now
+that are suffering separation anxiety
+because humans bought them to keep them company
+during the COVID pandemic.
+And now they're home alone.
+And now they're home alone, okay?
+And if this thing works in mice,
+there's certainly a higher chance
+it's gonna work in dogs or in cats
+than it is gonna work in humans.
+And if it did, that would be even more encouragement
+to continue along those lines.
+People sometimes forget that although we work on animals
+and we ultimately wanna understand humans,
+we care about how our results apply
+to the welfare of animals as well,
+and particularly domestic pets,
+which is a billion, multi-billion dollar industry
+in this country.
+So if there's ways that they can be made to feel better
+when they're separated from their owners,
+that would certainly be a good thing.
+Absolutely.
+We will put out the call.
+We are putting out the call.
+And I know for sure there will be a response.
+Just underscoring what we've been talking about even more,
+every time we hear about a school shooting,
+like in Texas recently,
+or I happened to be in New York during the time
+when there was a subway shooting,
+for whatever reason, I listened to the book about Columbine
+that went into a very detailed way
+about the origin of those boys and that committed that.
+And every single time the person who commits those acts
+is socially isolated, as far as I know.
+There might be some exceptions there.
+And sometimes this crosses over
+with other mental health issues, but sometimes no,
+no apparent mental health issues.
+So social isolation clearly drives powerful neurochemical
+and neurobiological changes.
+I really hope that tachykinin 1 and 2,
+those are the main ones in humans,
+will be explored in more detail.
+Also, I didn't know that tachykinin 1
+is substance P and substance P is tachykinin 1.
+Tachykinin 1 is the gene name
+and tachykinin 2 in humans is called neurokinin B.
+That's the name of the protein.
+I just referred to it by the gene name
+because it makes it easier
+and I don't have to keep remembering
+two names for each thing.
+And I, if I'm not mistaken,
+you put yourself in the company of geneticists
+because of your original training
+was in genetics, immunology and areas related to that.
+It was in cell biology
+and I didn't actually have formal training in genetics
+as a graduate student,
+but I think I'm a geneticist at heart.
+That's just the way I like to think about things.
+And when I started working on flies,
+that sort of, I came out of the closet
+as a geneticist, as it were.
+Wonderful.
+As long as we're talking about humans,
+I'd love to get your thoughts
+about human studies of emotion.
+I know you wrote this book with Ralph Adol.
+So you have this new book,
+which we'll provide a link to,
+which I've read front to back twice.
+It's phenomenal.
+I've mentioned it before on the podcast.
+It's really, there are books that are worth reading
+and then there are books that are important.
+And I think this book is truly important
+for the general population to read and understand.
+And neuroscientists should read and understand the contents
+because we, as a culture,
+are way off in terms of how we think about emotions
+and states and behaviors.
+So we'll put a link to that.
+It's really worth the time and energy to read it.
+And it's written beautifully, I should say.
+Very accessible, even for non-scientists.
+There's a heat map diagram in that book that I think about.
+This is a heat map diagram of subjective reports
+that people gave of where they experience an emotion
+or a feeling, a somatic feeling in their body
+or in their head or both when they are angry, sad, calm,
+lonely, et cetera, et cetera.
+And I wouldn't want people to think that those heat maps
+were generated by any physiological measurement
+because they were not.
+And yet, I don't think we can have a discussion
+about emotions and states and the sorts of behaviors
+that we're talking about today
+without thinking about the body also.
+And I'm not coming to this
+as a Northern California mind body.
+I've been to Esalen once.
+I didn't go in the baths.
+I went there, I gave a talk and I left.
+It is very beautiful.
+If anyone wants to know what it looks like,
+I think that final scene of Mad Men is shot at Esalen.
+It's a very beautiful place.
+And yet, mind body to me is a neurobiological construct
+because the nervous system extends
+through the out of the cranial vault
+and into the spinal cord and body and back and forth.
+Okay, how should we think about the body
+and in terms of states?
+And at some point, I'd love for you to comment
+on that heat map experiment
+because it does seem that there's some regularity
+as to where people experience emotions.
+When people are in a rage, for instance,
+they seem to feel it both in their gut and in their head,
+it seems, on average.
+And people love to extrapolate to gut intuition
+or that the chakras or anger is in the stomach
+and this goes to Eastern medicine, et cetera.
+How should we think about mind body in the context of states
+and think about it as scientists,
+maybe even as neuroscientists or geneticists?
+Good.
+So for the answer to the first question about the heat maps
+and people associating certain parts of their body
+with certain emotional feelings,
+this goes back to something called
+the somatic marker hypothesis
+that was proposed by Antonio Damasio,
+who is a neurologist at USC.
+The idea that our subjective feeling
+of a particular emotion is in part associated
+with a sensation of something happening
+in a particular part of our body.
+The gut, the heart, I don't see the liver invoked very much
+in emotional characterization.
+But gall and the gallbladder?
+Yes.
+Somebody having a lot of gall.
+That's right.
+I don't know why I make a fist when I say that,
+but I'm guessing the gallbladder is shaped like a fist.
+That's right.
+And if there is a physiology underlying these heat maps,
+it could reflect increased blood flow
+to these different structures.
+And that in turn reflects what you were talking about,
+that is emotion definitely involves communication
+between the brain and the body,
+and it's bi-directional communication.
+And it's mediated by the peripheral nervous system,
+the sympathetic and the parasympathetic nervous system,
+which control heart rate, for example,
+blood vessel, blood pressure,
+and those neurons receive input from the hypothalamus
+and other blood brain regions, central brain regions,
+that control their activity.
+And when the brain is put in a particular state,
+it activates sympathetic and parasympathetic neurons,
+which have effects on the heart and on blood pressure.
+And these in turn feed back onto the brain
+through the sensory system.
+And a large part of this bi-directional communication
+is also mediated through the vagus nerve,
+which many of your listeners and viewers
+may have heard about,
+because it's become a topic of intense activity now.
+People have known for a long time.
+So the vagus nerve is a bundle of nerve fibers
+that comes out basically of your skull,
+out of the central nervous system,
+and then sends fibers in to your heart,
+your gut, all sorts of visceral organs.
+So when you have, and that information is both,
+you used the words earlier in our discussion,
+afferent and efferent.
+So the vagal fibers sense things
+that are happening in the body.
+So when you're, the reason you feel your stomach
+hide up in knots if you're tense
+is that those vagal fibers are sensing
+the contraction of the gut muscles.
+And they're also afferents,
+which means that information coming out of the brain
+can influence those peripheral organs as well.
+And there's work from a number of labs
+just in the last six months or so
+where people are starting to decode
+the components of the different fibers in the vagus nerve.
+And it's amazing how much specificity is.
+There are specific vagal nerves that go to the lung,
+that control breathing responses,
+that go to the gut, that go to other organs.
+It's almost like a set of color-coded lines,
+labeled lines for those things.
+And now how those vagal afferents play a role
+in the playing out of emotion states
+is a fascinating question that people
+are just beginning to scrape the surface of.
+But I think what's exciting now
+is that people are gonna be developing tools
+that will allow us to turn on or turn off
+specific subsets of fibers within the vagus nerve
+and ask how that affects particular emotional behaviors.
+So you're absolutely right.
+This brain-body connection is critical,
+not just for the gut, but for the heart, for the lungs,
+for all kinds of other parts of your body.
+And Darwin recognized that as well.
+And I think it's a central feature of emotion state.
+And I think what underlies
+are subjective feelings of an emotion.
+Incredible.
+David, I have to say, as a true fan of the work
+that your lab has been doing over so many decades,
+and first of all, I was delighted
+when you stopped working on stem cells,
+not because you weren't doing incredible work there,
+but because I saw a talk where you showed a movie
+of an octopus spitting out, or not spitting,
+but squirting out a bunch of ink and escaping.
+And you said you were gonna work on things of the sort
+that we're talking about today,
+fear, aggression, mating behaviors, social behaviors.
+It's been incredible to see the work that your lab has done.
+And I know I speak on behalf of a tremendous number of people
+when I say thank you for taking time
+out of your important schedule
+to share with us what you've learned.
+My last question is a simple one,
+which is will you come back and talk to us again
+in the future about the additional work that's sure to come?
+I would be happy to do that.
+And I really have appreciated your questions.
+They've all been right on the money.
+You've hit all of the critical,
+important issues in this field,
+and you've uncovered what is known,
+the little bit is known, and how much is not known.
+And I think it's important to emphasize the unknown things
+because that's what the next generation
+of neuroscientists has to solve.
+And so I hope this will help to attract young people
+into this field because it's so important,
+particularly for our understanding of mental illness
+and mental health and psychiatry,
+we've got to figure out how emotion systems are controlled
+in a causal way if we ever want to improve
+on the psychiatric treatments that we have now.
+And that's gonna require the next generation
+of people coming into the field.
+Absolutely, I second that.
+Well, thank you, it's been a delight.
+Thank you, great, really appreciate it.
+Thank you for joining me today
+for my discussion with Dr. David Anderson.
+Please also be sure to check out his new book,
+The Nature of the Beast, How Emotions Guide Us.
+It's a truly masterful exploration of the biology
+and psychology behind what we call emotions
+and states of mind and body.
+If you're learning from and are enjoying this podcast,
+please subscribe to our YouTube channel.
+That's a simple zero cost way to support us.
+Please also subscribe to the podcast on Spotify and Apple.
+And on both Spotify and Apple,
+you have the opportunity to leave us
+up to a five-star review.
+If you have questions or comments or suggestions
+about topics you'd like us to cover,
+or guests you'd like us to interview
+on the Huberman Lab podcast,
+please put those in the comment section on YouTube.
+We do read all those comments and we do take them to heart.
+Please also check out the sponsors mentioned
+at the beginning of today's podcast.
+And check out Momentous Supplements,
+our new partners in the supplement space,
+and check out Athletic Greens.
+That's the best way to support this podcast.
+If you're not already following us on social media,
+please do so.
+We are Huberman Lab on Twitter,
+and we are also Huberman Lab on Instagram.
+In both places, I cover science and science-related tools,
+some of which overlap with the content
+of the Huberman Lab podcast,
+but much of which is unique from the content
+covered on the Huberman Lab podcast.
+Again, that's Huberman Lab on Instagram
+and Huberman Lab on Twitter.
+Please also check out our Neural Network monthly newsletter.
+This is a newsletter that has summaries of podcast episodes.
+It also includes a lot of actionable protocols.
+It's very easy to sign up for the newsletter.
+You go to HubermanLab.com, click on the menu,
+go to newsletter, you supply your email,
+but we do not share your email with anybody.
+We have a very clear and rigorous privacy policy,
+which is we do not share your email with anybody.
+And the newsletter comes out once a month,
+and it is completely zero cost.
+Again, just go to HubermanLab.com
+and go to the Neural Network newsletter.
+I'd also like to point out that the Huberman Lab podcast
+has a clips channel, so these are brief clips,
+anywhere from three to 10 minutes
+that encompass single concepts and actionable protocols
+related to sleep, to focus,
+interviews with various guests.
+We talk about things like caffeine,
+when to drink caffeine relative to sleep, alcohol,
+when and how and if anyone should ingest it
+relative to sleep, dopamine, serotonin, mental health,
+physical health, and on and on,
+all the things that relate to the topics
+most of interest to you.
+You can find that easily by going to YouTube,
+look for Huberman Lab clips in the search area,
+and it will take you there, subscribe,
+and we are constantly updating those with new clips.
+This is especially useful, I believe,
+for people that have missed some of the earlier episodes
+or you're still working through the back catalog
+of Huberman Lab podcasts,
+which admittedly can be rather long.
+And last, but certainly not least,
+thank you for your interest in science.
+I'll see you in the next one.

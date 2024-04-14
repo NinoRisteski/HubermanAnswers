@@ -1,5 +1,5 @@
 directories:
-  data_directory: docs/data/
+  data_directory: data/docs
   persist_directory: data/vectordb/processed/chroma/
   custom_persist_directory: data/vectordb/uploaded/chroma/
 
@@ -35,8 +35,8 @@ summarizer_config:
 
 
 splitter_config:
-  chunk_size: 1500
-  chunk_overlap: 500
+  chunk_size: 1000
+  chunk_overlap: 200
 
 retrieval_config:
   k: 1
