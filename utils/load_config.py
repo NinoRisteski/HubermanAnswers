@@ -29,7 +29,6 @@ class LoadConfig:
         self.embedding_model_engine = app_config["embedding_model_config"]["engine"]
         self.chunk_size = app_config["splitter_config"]["chunk_size"]
         self.chunk_overlap = app_config["splitter_config"]["chunk_overlap"]
-        self.separator = app_config["splitter_config"]["separator"]
 
         # Summarizer Config
         self.max_final_token = app_config["summarizer_config"]["max_final_token"]

@@ -13,7 +13,6 @@ def upload_data_manually() -> None:
         embedding_model_engine=CONFIG.embedding_model_engine,
         chunk_size=CONFIG.chunk_size,
         chunk_overlap=CONFIG.chunk_overlap,
-        separator=CONFIG.separator
     )
     if not len(os.listdir(CONFIG.persist_directory)) != 0:
         prepare_vectordb_instance.prepare_and_save_vectordb()

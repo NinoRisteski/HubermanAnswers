@@ -16,7 +16,7 @@ class PrepareVectorDB:
             embedding_model_engine: str,
             chunk_size: int,
             chunk_overlap: int,
-            separator: str
+            
     ) -> None:
         
         self.embedding_model_engine = embedding_model_engine
