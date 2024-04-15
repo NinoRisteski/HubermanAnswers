@@ -4,7 +4,7 @@ import glob
 from typing import List
 from langchain.vectorstores.chroma import Chroma
 from langchain_core.documents import Document
-from langchain_text_splitters.base import TokenTextSplitter
+from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_openai import OpenAIEmbeddings
 
 
@@ -15,13 +15,15 @@ class PrepareVectorDB:
             persist_directory: str,
             embedding_model_engine: str,
             chunk_size: int,
-            chunk_overlap: int
+            chunk_overlap: int,
+            separator: str
     ) -> None:
         
         self.embedding_model_engine = embedding_model_engine
-        self.text_splitter = TokenTextSplitter(
+        self.text_splitter = RecursiveCharacterTextSplitter(
             chunk_size=chunk_size,
-            chunk_overlap=chunk_overlap
+            chunk_overlap=chunk_overlap,
+            separators=["\n\n", "\n", " "]
         )
 
         self.data_directory = data_directory
