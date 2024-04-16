@@ -140,3 +140,4 @@ cython_debug/
 .bashrc.save
 .zshrc
 
+template.py
