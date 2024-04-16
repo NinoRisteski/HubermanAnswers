@@ -76,10 +76,10 @@ class Chatbot:
                 content = re.sub(r'â', '∈', content)
                 content = re.sub(r'Ã', '×', content)
                 content = re.sub(r'ï¬', 'fi', content)
-                content = re.sub(r'â', '∈', content)
+                content = re.sub(r'â', '+', content)
                 content = re.sub(r'Â·', '·', content)
                 content = re.sub(r'â©', '∩', content)
-                content = re.sub(r'â', '∈', content)
+                content = re.sub(r'â', '$', content)
 
                 txt_url = f"{server_url}/{os.path.basename(metadata_dict['source'])}"
 

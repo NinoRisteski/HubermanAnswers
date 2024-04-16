@@ -23,7 +23,7 @@ class Summarizer:
             max_final_token/len(docs)) - token_threshold
         full_summary = ""
         counter = 1
-        print("Generating the summary..")
+        print("Generating the summary...")
         
         full_summary = docs[0].page_content
 
