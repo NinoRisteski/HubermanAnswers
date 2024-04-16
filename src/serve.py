@@ -11,10 +11,9 @@ PORT = app_config["serve"]["port"]
 DIRECTORY = app_config["directories"]["data_directory"]
 
 class SingleDirectoryHTTPRequestHandler(http.server.SimpleHTTPRequestHandler):
-    def __init__(self, *args, **kwargs):
-        super().__init__(*args, directory=DIRECTORY, **kwargs)
+    pass
 
 if __name__ == "__main__":
-    with socketserver.TCPServer(("", PORT), MultiDirectoryHTTPRequestHandler) as httpd:
+    with socketserver.TCPServer(("", PORT), SingleDirectoryHTTPRequestHandler) as httpd:
         print(f"Serving at port {PORT}")
         httpd.serve_forever()
