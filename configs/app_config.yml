@@ -1,7 +1,6 @@
 directories:
   data_directory: data/docs
   persist_directory: data/vectordb/processed/chroma/
-  custom_persist_directory: data/vectordb/uploaded/chroma/
 
 embedding_model_config:
   engine: "text-embedding-ada-002"
@@ -44,3 +43,6 @@ retrieval_config:
 
 serve:
   port: 8000
+
+memory:
+  number_of_q_a_pairs: 2
