@@ -1,3 +1,6 @@
+import sys
+sys.path.append('/Users/fliprise/HubermanAnswers')
+
 import os
 import yaml
 import openai
