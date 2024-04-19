@@ -35,7 +35,7 @@ summarizer_config:
 
 splitter_config:
   chunk_size: 50
-  chunk_overlap: 50
+  chunk_overlap: 10
   separator: ["\n\n", "\n", " ", ""]
 
 retrieval_config:

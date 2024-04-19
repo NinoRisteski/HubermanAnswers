@@ -47,7 +47,7 @@ with gr.Blocks() as demo:
             # Third ROW:
             ##############
             with gr.Row() as row_two:
-                text_submit_btn = gr.Button(value="Submit text")
+                text_submit_btn = gr.Button(value="Submit")
                 sidebar_state = gr.State(False)
                 btn_toggle_sidebar = gr.Button(
                     value="References")
