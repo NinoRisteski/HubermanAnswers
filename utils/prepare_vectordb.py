@@ -48,6 +48,14 @@ class PrepareVectorDB:
             print("Data directory should be a single string path.")
 
         return docs
+
+    def __extract_text_from_vtt(self, content: str) -> str:
+        lines = content.split('\n')
+        text = []
+        for line in lines:
+            if not line.startswith(('NOTE', 'WEBVTT', 'STYLE')) and '-->' not in line:
+                text.append(line.strip())
+        return ' '.join(text).replace('  ', ' ')
     
     def __chunk_documents(self, docs: List) -> List:
         print("Chunking documents")
