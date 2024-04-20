@@ -1,0 +1,6785 @@
+WEBVTT
+
+00:00.000 --> 00:02.280
+ Welcome to the Huberman Lab Podcast,
+
+00:02.280 --> 00:04.920
+ where we discuss science and science-based tools
+
+00:04.920 --> 00:05.920
+ for everyday life.
+
+00:09.620 --> 00:10.800
+ I'm Andrew Huberman,
+
+00:10.800 --> 00:13.860
+ and I'm a professor of neurobiology and ophthalmology
+
+00:13.860 --> 00:15.960
+ at Stanford School of Medicine.
+
+00:15.960 --> 00:17.840
+ This podcast is separate from my teaching
+
+00:17.840 --> 00:19.720
+ and research roles at Stanford.
+
+00:19.720 --> 00:21.840
+ It is, however, part of my desire and effort
+
+00:21.840 --> 00:24.120
+ to bring zero cost to consumer information
+
+00:24.120 --> 00:27.000
+ about science and science-related tools.
+
+00:27.000 --> 00:28.200
+ In keeping with that theme,
+
+00:28.200 --> 00:31.300
+ I'd like to thank the sponsors of today's podcast.
+
+00:31.300 --> 00:34.000
+ Our first sponsor is InsideTracker.
+
+00:34.000 --> 00:36.600
+ InsideTracker is a personalized nutrition platform
+
+00:36.600 --> 00:39.400
+ that analyzes data from your blood and DNA
+
+00:39.400 --> 00:41.080
+ to help you better understand your body
+
+00:41.080 --> 00:43.240
+ and help you reach your health goals.
+
+00:43.240 --> 00:45.880
+ I'm a big believer in blood tests and DNA tests
+
+00:45.880 --> 00:48.660
+ for the simple reason that many of the factors
+
+00:48.660 --> 00:51.420
+ that are important for your short-term and long-term health
+
+00:51.420 --> 00:54.100
+ and overall wellbeing can only be analyzed
+
+00:54.100 --> 00:55.880
+ from blood and DNA tests,
+
+00:55.880 --> 00:58.680
+ things like metabolic factors and hormone levels
+
+00:58.680 --> 01:02.920
+ really can only be assessed accurately from blood and DNA.
+
+01:02.920 --> 01:04.440
+ The thing I like about InsideTracker
+
+01:04.440 --> 01:07.320
+ is you don't just get back levels of different hormones
+
+01:07.320 --> 01:09.700
+ and metabolic factors and so forth,
+
+01:09.700 --> 01:10.920
+ you also get directives.
+
+01:10.920 --> 01:13.240
+ It has a dashboard that's very easy to use
+
+01:13.240 --> 01:15.440
+ that tells you based on your data
+
+01:15.440 --> 01:17.720
+ what sorts of foods you might want to eat more of
+
+01:17.720 --> 01:18.600
+ or less of,
+
+01:18.600 --> 01:21.560
+ what forms of exercise you might want to do more of
+
+01:21.560 --> 01:22.640
+ or less of.
+
+01:22.640 --> 01:24.680
+ It's really a wonderful way to assess
+
+01:24.680 --> 01:27.000
+ how your behaviors and lifestyle choices
+
+01:27.000 --> 01:29.060
+ are interacting with what's going on
+
+01:29.060 --> 01:31.140
+ deep within your biology.
+
+01:31.140 --> 01:34.680
+ InsideTracker makes all of that super easy to understand.
+
+01:34.680 --> 01:36.920
+ It's also really easy to get the blood tests
+
+01:36.920 --> 01:38.160
+ and DNA tests taken.
+
+01:38.160 --> 01:39.920
+ You can go to a local location
+
+01:39.920 --> 01:43.220
+ or they can send somebody to your home if you prefer that.
+
+01:43.220 --> 01:44.760
+ If you'd like to try InsideTracker,
+
+01:44.760 --> 01:48.080
+ you can visit insidetracker.com slash Huberman
+
+01:48.080 --> 01:51.360
+ to get 25% off any of InsideTracker's plans.
+
+01:51.360 --> 01:53.440
+ Use the code Huberman at checkout.
+
+01:53.440 --> 01:56.600
+ That's insidetracker.com slash Huberman
+
+01:56.600 --> 01:59.480
+ to get 25% off any of InsideTracker's plans
+
+01:59.480 --> 02:02.000
+ and use the code Huberman at checkout.
+
+02:02.000 --> 02:04.880
+ Today's episode is also brought to you by Helix Sleep.
+
+02:04.880 --> 02:07.140
+ Helix Sleep makes mattresses and pillows
+
+02:07.140 --> 02:09.660
+ that are designed to meet your sleep needs
+
+02:09.660 --> 02:11.800
+ in order to optimize your sleep.
+
+02:11.800 --> 02:13.840
+ I've done several episodes of this podcast
+
+02:13.840 --> 02:15.860
+ and there's a ton of information out there
+
+02:15.860 --> 02:17.880
+ pointing to the fact that getting really deep
+
+02:17.880 --> 02:19.920
+ restful sleep each night is vital
+
+02:19.920 --> 02:21.640
+ for mental and physical health.
+
+02:21.640 --> 02:23.780
+ And the mattress that you sleep on and the pillow
+
+02:23.780 --> 02:27.280
+ that you use is very important for getting optimal sleep.
+
+02:27.280 --> 02:30.680
+ Helix Sleep has a brief two minute quiz that you can take.
+
+02:30.680 --> 02:32.800
+ It asks you questions like, do you sleep on your side
+
+02:32.800 --> 02:34.920
+ or your back or your stomach, or maybe you don't know,
+
+02:34.920 --> 02:37.240
+ do you tend to run hot or cold as you sleep
+
+02:37.240 --> 02:38.960
+ or maybe you don't know.
+
+02:38.960 --> 02:42.980
+ That two minute quiz matches you to a mattress and pillow
+
+02:42.980 --> 02:45.260
+ that's ideal for your sleep needs.
+
+02:45.260 --> 02:47.600
+ I took this quiz, I matched to the mattress
+
+02:47.600 --> 02:49.400
+ they call the Dusk D-U-S-K
+
+02:49.400 --> 02:51.740
+ and I've been sleeping on the Dusk mattress for many months
+
+02:51.740 --> 02:54.480
+ now and I've been sleeping better than I ever have before.
+
+02:54.480 --> 02:57.120
+ It's really wonderful to have a really good night's sleep
+
+02:57.120 --> 02:59.900
+ on a consistent basis, it's a total game changer.
+
+02:59.900 --> 03:01.760
+ So if you're interested in upgrading your mattress,
+
+03:01.760 --> 03:04.960
+ you can go to helixsleep.com slash Huberman,
+
+03:04.960 --> 03:06.520
+ take their two minute sleep quiz
+
+03:06.520 --> 03:08.880
+ and they'll match you to a customized mattress
+
+03:08.880 --> 03:12.000
+ and you'll get up to $200 off any of their mattress orders
+
+03:12.000 --> 03:13.560
+ and two free pillows.
+
+03:13.560 --> 03:16.720
+ So that's helixsleep.com slash Huberman,
+
+03:16.720 --> 03:18.220
+ take the two minute sleep quiz,
+
+03:18.220 --> 03:19.760
+ they'll match you to a mattress
+
+03:19.760 --> 03:21.060
+ and if you order one of their mattresses,
+
+03:21.060 --> 03:23.880
+ you'll get up to $200 off any of their mattresses
+
+03:23.880 --> 03:25.560
+ and two free pillows.
+
+03:25.560 --> 03:26.800
+ They have a 10 year warranty
+
+03:26.800 --> 03:28.440
+ and you get to try out the mattress
+
+03:28.440 --> 03:30.240
+ for a hundred nights risk-free
+
+03:30.240 --> 03:31.560
+ and if you don't like it, they'll pick it up
+
+03:31.560 --> 03:32.680
+ and take it away.
+
+03:32.680 --> 03:34.560
+ If you love it, then you keep it
+
+03:34.560 --> 03:36.140
+ and I think there's a very good chance
+
+03:36.140 --> 03:38.320
+ that you're going to love it, I certainly love mine.
+
+03:38.320 --> 03:40.320
+ And today's episode is also brought to you
+
+03:40.320 --> 03:41.920
+ by Athletic Greens.
+
+03:41.920 --> 03:43.800
+ Athletic Greens is an all-in-one
+
+03:43.800 --> 03:46.420
+ vitamin mineral probiotic drink.
+
+03:46.420 --> 03:49.960
+ I started using Athletic Greens way back in 2012
+
+03:49.960 --> 03:52.680
+ and so I'm delighted that they're sponsoring the podcast.
+
+03:52.680 --> 03:54.160
+ I started using Athletic Greens
+
+03:54.160 --> 03:56.620
+ because I found it rather confusing
+
+03:56.620 --> 03:59.560
+ to figure out what vitamins and minerals to take.
+
+03:59.560 --> 04:02.200
+ And Athletic Greens, I get all the vitamins and minerals
+
+04:02.200 --> 04:04.060
+ I need to cover my bases.
+
+04:04.060 --> 04:06.600
+ As well, probiotics are really important.
+
+04:06.600 --> 04:08.680
+ Probiotics have been shown now in numerous studies
+
+04:08.680 --> 04:11.000
+ to be important for the gut microbiome,
+
+04:11.000 --> 04:13.000
+ which impacts the gut brain axis
+
+04:13.000 --> 04:16.040
+ as well as various aspects of bodily health.
+
+04:16.040 --> 04:18.220
+ So in Athletic Greens, I get vitamins,
+
+04:18.220 --> 04:19.960
+ minerals and probiotics.
+
+04:19.960 --> 04:21.820
+ I also really liked the way it tastes.
+
+04:21.820 --> 04:24.400
+ It's a greens drink, so you mix it with some water.
+
+04:24.400 --> 04:26.360
+ You could mix it with something else like juice if you like.
+
+04:26.360 --> 04:28.340
+ I mix mine with water and lemon juice
+
+04:28.340 --> 04:30.380
+ and I drink it once or twice a day.
+
+04:30.380 --> 04:31.840
+ If you want to try Athletic Greens,
+
+04:31.840 --> 04:35.040
+ you can go to athleticgreens.com slash Huberman.
+
+04:35.040 --> 04:38.080
+ And if you do that, you'll claim their special offer,
+
+04:38.080 --> 04:41.700
+ which is to get a year supply of vitamin D3K2.
+
+04:41.700 --> 04:43.240
+ There's now also a wealth of data
+
+04:43.240 --> 04:45.300
+ showing that vitamin D3 is important
+
+04:45.300 --> 04:48.440
+ for various aspects of brain and body health.
+
+04:48.440 --> 04:51.760
+ So that's athleticgreens.com slash Huberman
+
+04:51.760 --> 04:55.480
+ for Athletic Greens and the year supply of vitamin D3K2.
+
+04:55.480 --> 04:58.160
+ You'll also get five free travel packets.
+
+04:58.160 --> 05:00.760
+ The travel packets are just a really convenient way
+
+05:00.760 --> 05:03.480
+ to take Athletic Greens when you're on the road,
+
+05:03.480 --> 05:06.320
+ in the car or on a plane, or just moving around.
+
+05:06.320 --> 05:09.160
+ You just empty one of the packets into a water bottle
+
+05:09.160 --> 05:11.020
+ or a glass and mix it up really quickly.
+
+05:11.020 --> 05:13.860
+ It saves any kind of mess or anything of that sort.
+
+05:13.860 --> 05:17.100
+ So once again, athleticgreens.com slash Huberman
+
+05:17.100 --> 05:19.600
+ to get vitamin D3K2, that's a year supply
+
+05:19.600 --> 05:21.760
+ and the five free travel packs.
+
+05:21.760 --> 05:24.440
+ It's a new month, which means it's a new topic
+
+05:24.440 --> 05:26.980
+ here at the Huberman Lab Podcast.
+
+05:26.980 --> 05:29.120
+ For the next four or so episodes,
+
+05:29.120 --> 05:32.280
+ we're going to be talking all about hormone effects
+
+05:32.280 --> 05:34.380
+ on the brain and body.
+
+05:34.380 --> 05:37.040
+ So that's a huge number of different topics.
+
+05:37.040 --> 05:39.040
+ We're going to talk about sex.
+
+05:39.040 --> 05:41.280
+ We're going to talk about reproduction.
+
+05:41.280 --> 05:43.900
+ We're going to talk about puberty a little bit more.
+
+05:43.900 --> 05:46.000
+ We talked about that in the previous episode.
+
+05:46.000 --> 05:47.680
+ We're going to talk about menopause.
+
+05:47.680 --> 05:49.280
+ We're going to talk about birth control.
+
+05:49.280 --> 05:53.560
+ We are going to talk about aggression, competition,
+
+05:53.560 --> 05:55.520
+ winning, losing.
+
+05:55.520 --> 05:57.920
+ Basically, we're going to cover as much about hormones
+
+05:57.920 --> 06:00.980
+ as we possibly can in this month.
+
+06:00.980 --> 06:03.800
+ And in doing so, we are going to go deep
+
+06:03.800 --> 06:06.140
+ into tools and protocols.
+
+06:06.140 --> 06:08.800
+ We are also going to talk about a lot of tools
+
+06:08.800 --> 06:11.360
+ that relate to things that you might not want to do
+
+06:11.360 --> 06:14.840
+ in order to optimize hormone health,
+
+06:14.840 --> 06:17.720
+ regardless of stage of life or your goals, et cetera.
+
+06:17.720 --> 06:21.120
+ So it's sure to be a month rich with discussion,
+
+06:21.120 --> 06:23.000
+ rich with tools, and you're going to learn
+
+06:23.000 --> 06:26.300
+ a lot of neuroscience and endocrinology.
+
+06:26.300 --> 06:28.680
+ There's actually a field of neuroendocrinology.
+
+06:28.680 --> 06:30.520
+ It's actually where I started my graduate work.
+
+06:30.520 --> 06:31.960
+ I did a master's in it,
+
+06:31.960 --> 06:34.920
+ which is only to say that I love the topic.
+
+06:34.920 --> 06:36.560
+ I have a lot of friends that work on this topic,
+
+06:36.560 --> 06:38.640
+ many of whom I've consulted for these episodes,
+
+06:38.640 --> 06:41.400
+ and I'm really excited to share the information with you.
+
+06:41.400 --> 06:43.680
+ Before we dive into today's episode,
+
+06:43.680 --> 06:45.640
+ all about emotions and sex,
+
+06:45.640 --> 06:48.240
+ I want to just have a few announcements
+
+06:48.240 --> 06:51.720
+ that are designed to point you to some useful resources.
+
+06:51.720 --> 06:54.440
+ Last episode, talking about the science of emotions
+
+06:54.440 --> 06:57.800
+ and relationships, I mentioned the Mood Meter app.
+
+06:57.800 --> 07:00.720
+ The Mood Meter app was developed by people out
+
+07:00.720 --> 07:03.120
+ at Yale University who study the biology
+
+07:03.120 --> 07:04.420
+ and psychology of emotions.
+
+07:04.420 --> 07:06.100
+ It's a really wonderful app.
+
+07:06.100 --> 07:09.360
+ However, many of you quickly told me
+
+07:09.360 --> 07:12.920
+ that the Mood Meter app isn't available in your area.
+
+07:12.920 --> 07:14.080
+ You went to the link we posted
+
+07:14.080 --> 07:16.100
+ and it just was saying not available in your area.
+
+07:16.100 --> 07:17.920
+ The situation was actually a lot worse than that.
+
+07:17.920 --> 07:20.800
+ The situation was that when we recorded the episode,
+
+07:20.800 --> 07:22.080
+ the Mood Meter app was working.
+
+07:22.080 --> 07:25.280
+ I know because I downloaded a fresh copy of it to my phone.
+
+07:25.280 --> 07:27.320
+ And then in the ensuing weekend,
+
+07:27.320 --> 07:30.240
+ they took the Mood Meter app down for some repairs.
+
+07:30.240 --> 07:32.440
+ The Mood Meter app is now up.
+
+07:32.440 --> 07:33.600
+ It is available.
+
+07:33.600 --> 07:35.440
+ I want to be really clear.
+
+07:35.440 --> 07:37.760
+ It's not an app I'm affiliated with.
+
+07:37.760 --> 07:38.960
+ I'm just mentioning it to you.
+
+07:38.960 --> 07:39.800
+ They don't know me.
+
+07:39.800 --> 07:41.500
+ I know them, but they don't know me.
+
+07:41.500 --> 07:43.860
+ So we don't have any kind of business relationship.
+
+07:43.860 --> 07:46.720
+ They do charge 99 cents for the app.
+
+07:46.720 --> 07:48.560
+ I think the free version has disappeared
+
+07:48.560 --> 07:50.180
+ in the last year or so.
+
+07:50.180 --> 07:51.360
+ So that's Mood Meter app.
+
+07:51.360 --> 07:53.040
+ We'll provide the link again
+
+07:53.040 --> 07:54.640
+ and the link should be working.
+
+07:54.640 --> 07:56.420
+ Hopefully they won't take it down again
+
+07:56.420 --> 07:57.760
+ in between this announcement
+
+07:57.760 --> 07:59.600
+ and the release of this episode.
+
+07:59.600 --> 08:02.080
+ Also just want to take a step back for a moment
+
+08:02.080 --> 08:04.480
+ and talk a little bit about the logic
+
+08:04.480 --> 08:07.260
+ of how to make the most of the information
+
+08:07.260 --> 08:09.380
+ on the Huberman Lab Podcast.
+
+08:09.380 --> 08:11.400
+ I tend to throw out a lot of information
+
+08:11.400 --> 08:12.660
+ about a given topic.
+
+08:12.660 --> 08:14.420
+ Many of you have pointed out, however,
+
+08:14.420 --> 08:16.680
+ that I don't cover certain things.
+
+08:16.680 --> 08:19.080
+ And once again, I'll just say,
+
+08:19.080 --> 08:21.440
+ the goal is always to be accurate,
+
+08:21.440 --> 08:24.120
+ but there's no way I can be exhaustive.
+
+08:24.120 --> 08:25.480
+ There's no way I can cover everything
+
+08:25.480 --> 08:26.700
+ for a particular topic.
+
+08:26.700 --> 08:28.600
+ The good news is we have time.
+
+08:28.600 --> 08:30.440
+ My goal, at least in the first year
+
+08:30.440 --> 08:32.160
+ of the Huberman Lab Podcast,
+
+08:32.160 --> 08:33.480
+ is to give you a basis,
+
+08:33.480 --> 08:35.260
+ a foundation in these different topics
+
+08:35.260 --> 08:40.260
+ of neuroplasticity, focus, sleep, hormones, et cetera.
+
+08:40.840 --> 08:43.520
+ And of course, to provide tools along the way.
+
+08:43.520 --> 08:44.840
+ We are going to host guests.
+
+08:44.840 --> 08:45.920
+ I've actually started recording
+
+08:45.920 --> 08:47.640
+ with some of these guests already.
+
+08:47.640 --> 08:49.600
+ And even those episodes will include a little,
+
+08:49.600 --> 08:50.920
+ what we call primer,
+
+08:50.920 --> 08:54.220
+ a little description of the basics of a given topic
+
+08:54.220 --> 08:56.820
+ so that you can get more information from those topics.
+
+08:56.820 --> 09:00.000
+ My goal really is to educate you in these topics,
+
+09:00.000 --> 09:01.800
+ give you a foundation in these topics
+
+09:01.800 --> 09:04.720
+ and allow you to start exploring them here in the episodes
+
+09:04.720 --> 09:06.260
+ with our future guests,
+
+09:06.260 --> 09:08.360
+ but also in other podcasts and books
+
+09:08.360 --> 09:10.200
+ and other sources of information.
+
+09:10.200 --> 09:11.520
+ So for those of you that are saying
+
+09:11.520 --> 09:13.080
+ it's too much information,
+
+09:14.160 --> 09:16.640
+ I just encourage you to remind yourself
+
+09:16.640 --> 09:17.840
+ that you have a pause button,
+
+09:17.840 --> 09:19.920
+ you can return to it, everything's timestamp.
+
+09:19.920 --> 09:21.940
+ For those of you who feel it's not enough information,
+
+09:21.940 --> 09:23.200
+ I'm not covering enough,
+
+09:23.200 --> 09:25.440
+ just know that this is just the beginning.
+
+09:25.440 --> 09:27.440
+ We intend to do this for a very long time
+
+09:27.440 --> 09:30.120
+ and we will be thorough over time.
+
+09:30.120 --> 09:31.700
+ So thanks for your patience.
+
+09:31.700 --> 09:33.240
+ And please be patient with yourselves.
+
+09:33.240 --> 09:35.480
+ There's no reason why you have to digest
+
+09:35.480 --> 09:38.160
+ all the information in one swoop.
+
+09:38.160 --> 09:39.640
+ The other thing is that I've been told
+
+09:39.640 --> 09:42.320
+ both that I speak too fast and speak too slow.
+
+09:42.320 --> 09:44.440
+ So there's a wonderful solution to this.
+
+09:44.440 --> 09:46.940
+ If I speak too fast or too slow,
+
+09:46.940 --> 09:49.160
+ you can adjust the speed in YouTube.
+
+09:49.160 --> 09:50.460
+ If you're listening in a different format,
+
+09:50.460 --> 09:52.920
+ I think you also can adjust the speed of playback.
+
+09:52.920 --> 09:55.040
+ So that's something that wouldn't be possible
+
+09:55.040 --> 09:57.960
+ in the classroom, but you may find useful.
+
+09:57.960 --> 09:59.980
+ And then last but not least,
+
+09:59.980 --> 10:03.000
+ I want to point people again to this NSDR,
+
+10:03.000 --> 10:04.720
+ non-sleep deep rest protocol
+
+10:04.720 --> 10:06.160
+ that the folks over at Made For
+
+10:06.160 --> 10:08.160
+ have put out as a free resource.
+
+10:08.160 --> 10:10.200
+ It does, as many of you pointed out,
+
+10:10.200 --> 10:12.320
+ bear resemblance to things like yoga nidra,
+
+10:12.320 --> 10:13.520
+ other forms of meditation.
+
+10:13.520 --> 10:16.400
+ But what we've done is we've stripped out intentions
+
+10:16.400 --> 10:19.560
+ or any kind of the verbiage related
+
+10:19.560 --> 10:23.020
+ to what some people might perceive
+
+10:23.020 --> 10:25.440
+ as kind of related to the yoga community
+
+10:25.440 --> 10:29.840
+ or specific to kind of new agey type techniques,
+
+10:29.840 --> 10:31.320
+ not because we don't like yoga nidra.
+
+10:31.320 --> 10:33.040
+ In fact, I've done yoga nidra daily
+
+10:33.040 --> 10:36.660
+ for almost the last, goodness, eight years of my life.
+
+10:36.660 --> 10:37.960
+ I love yoga nidra,
+
+10:37.960 --> 10:42.720
+ but sometimes the complicated language can be a separator
+
+10:42.720 --> 10:45.300
+ and can discourage people from taking on these protocols
+
+10:45.300 --> 10:46.440
+ that are extremely useful.
+
+10:46.440 --> 10:49.640
+ So NSDR is intentionally generic.
+
+10:49.640 --> 10:53.720
+ It's designed to bring you into a state of deep relaxation
+
+10:53.720 --> 10:56.140
+ through a combination of breathing and body scan.
+
+10:56.140 --> 10:58.800
+ There's the YouTube script over at Made For,
+
+10:58.800 --> 11:00.800
+ which is linked in the caption.
+
+11:00.800 --> 11:03.340
+ And many people find that they prefer that
+
+11:03.340 --> 11:05.480
+ to scripts like yoga nidra scripts
+
+11:05.480 --> 11:06.880
+ where they're doing intentions
+
+11:06.880 --> 11:10.320
+ and they're hearing a lot of kind of unusual language
+
+11:10.320 --> 11:11.200
+ around the process.
+
+11:11.200 --> 11:14.660
+ This is just very basic and I hope you'll enjoy it.
+
+11:14.660 --> 11:17.060
+ And if you prefer the more typical yoga nidra scripts,
+
+11:17.060 --> 11:18.080
+ then go with those.
+
+11:18.080 --> 11:19.220
+ There are many of them available
+
+11:19.220 --> 11:21.320
+ on the internet and elsewhere.
+
+11:21.320 --> 11:22.480
+ And last but not least,
+
+11:22.480 --> 11:25.160
+ I want to point out that all our episodes now
+
+11:25.160 --> 11:27.800
+ are subtitled both in English and in Spanish.
+
+11:27.800 --> 11:29.040
+ So for those of you that prefer
+
+11:29.040 --> 11:31.620
+ to digest this information in Spanish,
+
+11:31.620 --> 11:34.320
+ that's now available to you in the subtitles.
+
+11:34.320 --> 11:37.420
+ Today, we're going to talk about the science of sex,
+
+11:37.420 --> 11:40.520
+ in particular sexual differentiation.
+
+11:40.520 --> 11:42.600
+ Now that's a complicated topic
+
+11:42.600 --> 11:47.600
+ because sex is both a adjective, a noun, and a verb,
+
+11:47.800 --> 11:49.960
+ depending on the context.
+
+11:49.960 --> 11:53.500
+ Today, we're going to talk about the hormonal effects
+
+11:53.500 --> 11:57.060
+ and the neural effects of particular events
+
+11:57.060 --> 11:58.320
+ that happen during development
+
+11:58.320 --> 12:02.720
+ and how those guide adolescent and adult behavior,
+
+12:02.720 --> 12:04.700
+ including sexual preference.
+
+12:04.700 --> 12:06.560
+ It's an area that's fascinating
+
+12:06.560 --> 12:08.520
+ and for which there are actually
+
+12:08.520 --> 12:10.880
+ very solid textbook findings.
+
+12:10.880 --> 12:14.260
+ So textbook findings means that there are many studies
+
+12:14.260 --> 12:16.480
+ that have been aggregated over decades
+
+12:16.480 --> 12:20.580
+ that point to what we now know to be absolute truths
+
+12:20.580 --> 12:23.720
+ in terms of how hormones affect brain development,
+
+12:23.720 --> 12:26.040
+ how the brain impacts hormonal development,
+
+12:26.040 --> 12:29.780
+ and how those interact to control behavior, for instance.
+
+12:30.820 --> 12:34.480
+ We are also going to talk about reproduction, the verb sex.
+
+12:34.480 --> 12:36.900
+ And of course, sex, the verb,
+
+12:36.900 --> 12:39.600
+ can also be carried out independent of reproduction.
+
+12:39.600 --> 12:42.400
+ It's not always in particular in humans
+
+12:42.400 --> 12:44.200
+ just to produce offspring.
+
+12:44.200 --> 12:46.040
+ So that's going to be covered in the next episode,
+
+12:46.040 --> 12:49.000
+ but you absolutely need to understand the information
+
+12:49.000 --> 12:51.960
+ in this episode in order to make sense of the information
+
+12:51.960 --> 12:53.440
+ in the next episode.
+
+12:53.440 --> 12:56.640
+ So today we're going to explore hormones,
+
+12:56.640 --> 12:58.040
+ what they are, how they work,
+
+12:58.040 --> 13:01.440
+ what leads to masculinization or feminization
+
+13:01.440 --> 13:03.160
+ of the brain and body.
+
+13:03.160 --> 13:05.120
+ I'll just throw out one really interesting fact
+
+13:05.120 --> 13:07.160
+ that perhaps most of you didn't realize
+
+13:07.160 --> 13:10.940
+ that hormones have direct effects on the body.
+
+13:10.940 --> 13:14.440
+ Most people know that because there are hormone differences
+
+13:14.440 --> 13:16.440
+ and sex differences in bodies
+
+13:16.440 --> 13:18.920
+ in terms of genitalia and body hair,
+
+13:18.920 --> 13:21.280
+ distribution of body hair, et cetera.
+
+13:21.280 --> 13:25.140
+ But there are also effects of hormones on the brain directly
+
+13:25.140 --> 13:25.980
+ and believe it or not,
+
+13:25.980 --> 13:28.720
+ there are also effects on the spinal cord,
+
+13:28.720 --> 13:31.560
+ on the neurons and structures within the spinal cord
+
+13:31.560 --> 13:33.920
+ that impact in a very direct way
+
+13:33.920 --> 13:36.620
+ what sorts of behaviors are possible.
+
+13:36.620 --> 13:39.140
+ So it's a fascinating area.
+
+13:39.140 --> 13:41.880
+ You might notice I'm going to go a little bit more slowly
+
+13:41.880 --> 13:43.720
+ through this topic than I normally do.
+
+13:43.720 --> 13:46.700
+ I want to be extremely careful with my language.
+
+13:46.700 --> 13:48.500
+ Some of these topics,
+
+13:48.500 --> 13:51.940
+ some of you may be thinking are extremely sensitive, right?
+
+13:51.940 --> 13:52.880
+ And of course,
+
+13:52.880 --> 13:54.960
+ any discussion about sex and reproduction
+
+13:54.960 --> 13:56.200
+ is a sensitive one,
+
+13:56.200 --> 13:58.320
+ but today we're just talking about the biology.
+
+13:58.320 --> 14:00.240
+ We're not getting into the cultural constraints
+
+14:00.240 --> 14:02.060
+ or the cultural dialogue.
+
+14:02.060 --> 14:06.220
+ What we're trying to do today is really get to the biology,
+
+14:06.220 --> 14:10.000
+ the physiology, the endocrinology and the behavior.
+
+14:10.000 --> 14:14.200
+ So let's start by talking about what hormones are
+
+14:14.200 --> 14:17.040
+ just to remind you and what they do.
+
+14:17.040 --> 14:20.000
+ Hormones by definition are a substance,
+
+14:20.000 --> 14:22.800
+ a chemical that's released in one area of the body,
+
+14:22.800 --> 14:25.000
+ typically from something we call a gland,
+
+14:25.000 --> 14:28.440
+ although they can also be released from neurons,
+
+14:28.440 --> 14:30.840
+ but they're released often from glands
+
+14:30.840 --> 14:35.160
+ that travel and have effects both on that gland,
+
+14:35.160 --> 14:38.480
+ but also on other organs and tissues in the body.
+
+14:38.480 --> 14:40.140
+ And that differentiates hormones
+
+14:40.140 --> 14:41.880
+ from things like neurotransmitters,
+
+14:41.880 --> 14:44.160
+ which tend to act more locally.
+
+14:44.160 --> 14:45.360
+ So that's important.
+
+14:45.360 --> 14:47.400
+ A hormone is a substance secreted at one location,
+
+14:47.400 --> 14:49.160
+ the body travels and has impact
+
+14:49.160 --> 14:51.640
+ on things elsewhere in the body.
+
+14:51.640 --> 14:54.720
+ Examples of tissues that produce hormones
+
+14:54.720 --> 14:59.160
+ would be the thyroid, the testes, the ovaries, et cetera.
+
+14:59.160 --> 15:00.780
+ And then of course there are areas of the brain
+
+15:00.780 --> 15:03.880
+ like the hypothalamus and the pituitary,
+
+15:03.880 --> 15:06.600
+ which are closely related to one another
+
+15:06.600 --> 15:08.680
+ and release hormones that cause the release
+
+15:08.680 --> 15:10.320
+ of yet other hormones out in the body.
+
+15:10.320 --> 15:11.320
+ So we're going to cover all this.
+
+15:11.320 --> 15:13.360
+ If you don't know anything about endocrinology,
+
+15:13.360 --> 15:15.280
+ you're still going to be able to understand
+
+15:15.280 --> 15:16.660
+ today's discussion.
+
+15:16.660 --> 15:19.280
+ And we're going to start with a discussion
+
+15:19.280 --> 15:23.260
+ about what hormones actually do to create this thing
+
+15:23.260 --> 15:26.240
+ that we call masculinization or feminization.
+
+15:26.240 --> 15:29.200
+ So let's start with development.
+
+15:29.200 --> 15:30.480
+ Sperm meets egg.
+
+15:30.480 --> 15:31.700
+ Everything that happens before that
+
+15:31.700 --> 15:34.080
+ is a topic of the next episode.
+
+15:34.080 --> 15:37.400
+ But sperm meets egg, this is mammalian reproduction.
+
+15:37.400 --> 15:39.040
+ And that egg starts to duplicate.
+
+15:39.040 --> 15:40.740
+ It starts to make more of itself.
+
+15:40.740 --> 15:41.840
+ It makes more cells.
+
+15:41.840 --> 15:43.660
+ And eventually some of those cells become skin.
+
+15:43.660 --> 15:45.200
+ Some of those cells become brain.
+
+15:45.200 --> 15:46.620
+ Some of those cells become muscle.
+
+15:46.620 --> 15:48.560
+ Some of those cells become fingers.
+
+15:48.560 --> 15:51.680
+ All the stuff that makes up the brain and body plan.
+
+15:53.400 --> 15:57.000
+ In addition, there are hormones that come both
+
+15:57.000 --> 16:01.080
+ from the mother and from the developing baby,
+
+16:01.080 --> 16:03.480
+ the developing fetus that impact
+
+16:03.480 --> 16:05.120
+ whether or not the brain will be
+
+16:05.120 --> 16:08.780
+ what they call organized masculine or organized feminine.
+
+16:08.780 --> 16:10.480
+ And as I say this,
+
+16:10.480 --> 16:12.160
+ I want you to try and discard
+
+16:12.160 --> 16:13.920
+ with the cultural connotations
+
+16:13.920 --> 16:15.720
+ or your psychological connotations
+
+16:15.720 --> 16:18.760
+ of what masculinization and feminization are
+
+16:18.760 --> 16:22.120
+ because we're only centering on the biology.
+
+16:22.120 --> 16:27.120
+ So typically people have either two X chromosomes
+
+16:28.480 --> 16:30.200
+ and the traditional language around that
+
+16:30.200 --> 16:33.000
+ is that person is female, right?
+
+16:33.000 --> 16:35.620
+ Or an X chromosome and a Y chromosome
+
+16:35.620 --> 16:37.880
+ and that person will become male.
+
+16:37.880 --> 16:39.600
+ Now it's not always the case.
+
+16:39.600 --> 16:42.320
+ There are cases where it's XXY
+
+16:42.320 --> 16:45.040
+ where there are two X chromosomes plus a Y chromosome.
+
+16:45.040 --> 16:47.580
+ There are also cases where it's XYY
+
+16:47.580 --> 16:49.240
+ where there are two Y chromosomes
+
+16:49.240 --> 16:51.520
+ and these have important biological
+
+16:51.520 --> 16:53.280
+ and psychological impacts.
+
+16:54.520 --> 16:56.080
+ So the first thing we need to establish
+
+16:56.080 --> 16:59.140
+ is that there is something called chromosomal sex.
+
+16:59.140 --> 17:00.800
+ Whether or not there are two X chromosomes
+
+17:00.800 --> 17:05.800
+ or an X and Y chromosome is what we call chromosomal sex.
+
+17:05.800 --> 17:10.120
+ But the next stage of separating out the sexes
+
+17:10.120 --> 17:12.240
+ is what we call gonadal sex.
+
+17:12.240 --> 17:14.000
+ Typically, not always,
+
+17:14.000 --> 17:18.640
+ but typically if somebody has testes for their gonads
+
+17:18.640 --> 17:21.040
+ we think of them as male.
+
+17:21.040 --> 17:24.940
+ And if somebody has ovaries, we think of them as female.
+
+17:24.940 --> 17:27.300
+ Although that's not always the case either
+
+17:27.300 --> 17:29.960
+ but let's just explore the transition
+
+17:29.960 --> 17:32.000
+ from chromosomal sex to gonadal sex
+
+17:32.000 --> 17:33.800
+ because it's a fascinating one
+
+17:33.800 --> 17:37.120
+ that we all went through in some form or another.
+
+17:37.120 --> 17:40.800
+ So this XY that we typically think of
+
+17:40.800 --> 17:44.000
+ as promoting masculinization of the fetus.
+
+17:45.120 --> 17:50.120
+ We say that because on the Y chromosome, there are genes
+
+17:50.400 --> 17:52.860
+ and those genes have particular functions
+
+17:52.860 --> 17:57.240
+ that suppress female reproductive organs.
+
+17:57.240 --> 18:00.400
+ So on the Y chromosome, there's a gene
+
+18:00.400 --> 18:02.380
+ which encodes for something called
+
+18:02.380 --> 18:04.660
+ a Mullerian inhibiting hormone.
+
+18:04.660 --> 18:06.920
+ So there's actually a hormone
+
+18:06.920 --> 18:09.180
+ that's programmed by the Y chromosome
+
+18:09.180 --> 18:12.040
+ that inhibits the formation of Mullerian ducts
+
+18:12.040 --> 18:13.200
+ which are an important part
+
+18:13.200 --> 18:15.460
+ of the female reproductive apparatus.
+
+18:16.760 --> 18:19.680
+ That's critical because already we're seeing the transition
+
+18:19.680 --> 18:23.140
+ between chromosome Y chromosome and gonad.
+
+18:23.140 --> 18:26.180
+ And other genes on the Y chromosome
+
+18:26.180 --> 18:28.400
+ promote the formation of testes.
+
+18:28.400 --> 18:30.440
+ So there are genes like the SRY gene
+
+18:30.440 --> 18:33.000
+ and other genes that promote the formation of testes
+
+18:33.000 --> 18:37.360
+ while they also inhibit the formation of the Mullerian ducts.
+
+18:37.360 --> 18:40.960
+ So the transition from chromosomal sex to gonadal sex
+
+18:40.960 --> 18:43.320
+ is a very important distinction.
+
+18:43.320 --> 18:44.920
+ It's kind of a fork in the road
+
+18:44.920 --> 18:46.800
+ that happens very early in development
+
+18:46.800 --> 18:49.480
+ while fetuses are still in the embryo.
+
+18:49.480 --> 18:52.560
+ Now, what's interesting as well
+
+18:52.560 --> 18:55.440
+ is that just because there's a Y chromosome
+
+18:55.440 --> 18:57.480
+ that can suppress Mullerian duct formation
+
+18:57.480 --> 18:59.480
+ and there are other genes on the Y chromosome
+
+18:59.480 --> 19:02.080
+ that promote teste development,
+
+19:02.080 --> 19:05.360
+ the placenta itself is an endocrine organ.
+
+19:05.360 --> 19:06.480
+ I think most people don't know this
+
+19:06.480 --> 19:08.760
+ but the placenta is an endocrine organ.
+
+19:08.760 --> 19:12.200
+ As well, the mother, which of course is carrying the fetus,
+
+19:12.200 --> 19:16.640
+ has an adrenal gland which can produce testosterone.
+
+19:16.640 --> 19:19.160
+ There are instances, for example,
+
+19:19.160 --> 19:21.400
+ where a mother has either a tumor
+
+19:21.400 --> 19:24.320
+ or for some other reason is secreting large levels
+
+19:24.320 --> 19:28.600
+ of testosterone while carrying a fetus that is XX
+
+19:28.600 --> 19:31.640
+ and that leads to what we would call masculinization
+
+19:31.640 --> 19:33.040
+ of certain aspects of the fetus.
+
+19:33.040 --> 19:35.780
+ Typically, that would be enlarged clitoris.
+
+19:35.780 --> 19:39.120
+ There are also some examples of other phenotypes on the body
+
+19:39.120 --> 19:40.560
+ that are created even though
+
+19:40.560 --> 19:44.080
+ it's a purely XX chromosomal baby.
+
+19:44.080 --> 19:45.840
+ So we have to distinguish
+
+19:45.840 --> 19:48.480
+ between chromosomal sex, gonadal sex,
+
+19:48.480 --> 19:51.520
+ and then there's what we call hormonal sex
+
+19:51.520 --> 19:55.160
+ which is the effects of the steroid hormones,
+
+19:55.160 --> 19:57.960
+ estrogen and testosterone and their derivatives
+
+19:57.960 --> 20:00.800
+ on what we call morphological sex
+
+20:00.800 --> 20:03.620
+ or the shape of the baby and the human and the genitalia
+
+20:03.620 --> 20:05.480
+ and the jaw and all these other things.
+
+20:05.480 --> 20:07.780
+ And so it actually is quite complicated.
+
+20:07.780 --> 20:11.980
+ So it's a long distance from chromosomes to gender identity
+
+20:11.980 --> 20:15.560
+ and gender identity has a lot of social influences and roles.
+
+20:15.560 --> 20:17.760
+ This is an area that right now is very dynamic
+
+20:17.760 --> 20:19.960
+ and in the discussion out there, as you know,
+
+20:19.960 --> 20:21.980
+ but just getting from chromosomal sex
+
+20:21.980 --> 20:24.920
+ to what we would call gonadal sex
+
+20:24.920 --> 20:27.480
+ and hormonal sex and morphological sex
+
+20:27.480 --> 20:28.760
+ involves a number of steps.
+
+20:28.760 --> 20:31.020
+ So today we're going to talk about those steps
+
+20:31.020 --> 20:32.800
+ and there's some fascinating things
+
+20:32.800 --> 20:35.480
+ that do indeed relate to tools,
+
+20:35.480 --> 20:39.400
+ do indeed relate to some important behavioral choices,
+
+20:39.400 --> 20:43.160
+ important choices about things to avoid while pregnant.
+
+20:43.160 --> 20:44.940
+ And for those of you that are not pregnant,
+
+20:44.940 --> 20:46.500
+ things to avoid if you're thinking
+
+20:46.500 --> 20:48.540
+ about eventually having children
+
+20:48.540 --> 20:50.480
+ and that is not to drive development
+
+20:50.480 --> 20:51.760
+ in one direction or another,
+
+20:51.760 --> 20:54.600
+ but there are examples where there are some deleterious
+
+20:54.600 --> 20:55.880
+ things in our environment
+
+20:55.880 --> 20:58.160
+ that can actually negatively impact
+
+20:58.160 --> 21:00.320
+ what we call sexual development overall,
+
+21:00.320 --> 21:02.440
+ regardless of chromosomal background.
+
+21:02.440 --> 21:04.120
+ So let's get started with that.
+
+21:04.120 --> 21:07.200
+ Let's talk a little bit more about what hormones do.
+
+21:07.200 --> 21:09.800
+ Hormones generally have two categories of effects.
+
+21:09.800 --> 21:12.500
+ They can either be very fast or they can be very slow.
+
+21:12.500 --> 21:15.240
+ There are hormones like cortisol and adrenaline,
+
+21:15.240 --> 21:16.800
+ which act very fast.
+
+21:16.800 --> 21:20.280
+ Adrenaline can increase your heart rate very fast
+
+21:20.280 --> 21:21.480
+ when it's secreted into the body.
+
+21:21.480 --> 21:23.180
+ Cortisol can be a little bit slower,
+
+21:23.180 --> 21:25.120
+ but it also can have some very fast effects.
+
+21:25.120 --> 21:29.120
+ And then there are hormones like testosterone and estrogen,
+
+21:29.120 --> 21:32.080
+ which we refer to as the sex steroid hormones.
+
+21:33.140 --> 21:36.600
+ The sex steroid hormones can have quick effects
+
+21:36.600 --> 21:38.980
+ through signaling, meaning they can attach to cells
+
+21:38.980 --> 21:40.960
+ and make those cells do different things.
+
+21:40.960 --> 21:43.440
+ They can have actually quite quick effects on the brain.
+
+21:43.440 --> 21:44.800
+ A lot of people don't know this,
+
+21:44.800 --> 21:46.580
+ but there are some very fast effects
+
+21:46.580 --> 21:50.360
+ of estrogen and testosterone, as well as long-term effects.
+
+21:50.360 --> 21:53.200
+ These molecules, for those of you that are interested,
+
+21:53.200 --> 21:54.520
+ are what are called lipophilic,
+
+21:54.520 --> 21:56.240
+ which just means that they like fatty stuff.
+
+21:56.240 --> 21:58.160
+ They can actually pass through fatty membranes.
+
+21:58.160 --> 22:00.480
+ And because the outside of cells,
+
+22:00.480 --> 22:02.560
+ as well as what's called the nuclear envelope,
+
+22:02.560 --> 22:05.720
+ where all the DNA contents and stuff are stuffed inside,
+
+22:05.720 --> 22:09.240
+ are made of lipid, of fat,
+
+22:09.240 --> 22:12.120
+ these steroid hormones can actually travel into cells
+
+22:12.120 --> 22:14.720
+ and then get into the,
+
+22:14.720 --> 22:16.880
+ basically interact with the DNA of cells
+
+22:16.880 --> 22:18.560
+ in order to control gene expression.
+
+22:18.560 --> 22:21.160
+ So they can change the sorts of things
+
+22:21.160 --> 22:22.480
+ that cells will become,
+
+22:22.480 --> 22:24.400
+ and they can change the way that cells function
+
+22:24.400 --> 22:25.600
+ in a long-term way.
+
+22:25.600 --> 22:28.860
+ And that's actually how the presence of these genes,
+
+22:28.860 --> 22:31.640
+ like SRY and molarion-inhibiting hormone,
+
+22:31.640 --> 22:35.800
+ lead to reductions or elimination, I should say,
+
+22:35.800 --> 22:37.440
+ of things like the molarion ducts
+
+22:37.440 --> 22:39.400
+ and promote instead what's called in males,
+
+22:39.400 --> 22:41.180
+ the Wolfian ducts,
+
+22:41.180 --> 22:44.520
+ or promote the development of testes rather than ovaries.
+
+22:44.520 --> 22:47.600
+ So all you need to know is that hormones have short-term
+
+22:47.600 --> 22:48.600
+ and long-term effects,
+
+22:48.600 --> 22:51.000
+ and the long-term effects are actually related
+
+22:51.000 --> 22:52.840
+ to their effects on genes
+
+22:52.840 --> 22:56.200
+ and how those genes are expressed or repressed
+
+22:56.200 --> 22:57.380
+ in order to prevent them
+
+22:57.380 --> 23:00.280
+ from having particular proteins made.
+
+23:00.280 --> 23:03.040
+ So these hormones, these steroid hormones,
+
+23:03.040 --> 23:05.280
+ are exceedingly powerful.
+
+23:05.280 --> 23:07.160
+ And if we're going to have a discussion
+
+23:07.160 --> 23:09.980
+ about masculinization or feminization, et cetera,
+
+23:09.980 --> 23:11.520
+ you also need to think about the counterpart.
+
+23:11.520 --> 23:13.480
+ It's not just about masculinizing the body
+
+23:13.480 --> 23:15.020
+ or feminizing the body and brain,
+
+23:15.020 --> 23:19.280
+ it's also about demasculinizing the brain in many cases
+
+23:19.280 --> 23:21.680
+ as a normal biological function
+
+23:21.680 --> 23:25.000
+ of typically of XX females,
+
+23:25.000 --> 23:27.960
+ and defeminization, the suppression of certain pathways
+
+23:27.960 --> 23:31.340
+ that are related to feminization of the body and brain.
+
+23:31.340 --> 23:35.520
+ But there are some really fascinating twists in this story.
+
+23:35.520 --> 23:37.980
+ So I've just thrown a lot of biology at you,
+
+23:37.980 --> 23:42.540
+ but this is where it all starts to get incredibly surprising.
+
+23:43.620 --> 23:47.160
+ You would think that it's straightforward, right?
+
+23:47.160 --> 23:49.280
+ You have a Y chromosome,
+
+23:49.280 --> 23:53.400
+ you suppress the female reproductive pathway
+
+23:53.400 --> 23:55.660
+ like the malaria ducts,
+
+23:55.660 --> 23:58.400
+ you promote the development of testes,
+
+23:58.400 --> 24:00.580
+ and then testes make testosterone,
+
+24:00.580 --> 24:02.700
+ and then it organizes the brain male,
+
+24:02.700 --> 24:04.200
+ and it wants to do male-like things,
+
+24:04.200 --> 24:06.720
+ and then in females, you get estrogen,
+
+24:06.720 --> 24:08.800
+ and it wants to do female-like things,
+
+24:08.800 --> 24:11.120
+ and air quotes here for all of this.
+
+24:11.120 --> 24:15.460
+ And it turns out that isn't how it works at all.
+
+24:15.460 --> 24:16.480
+ Here's where it's interesting.
+
+24:16.480 --> 24:19.020
+ We have to understand that there are effects
+
+24:19.020 --> 24:22.640
+ of these hormones, testosterone and estrogen,
+
+24:22.640 --> 24:25.700
+ on what are called primary sexual characteristics,
+
+24:25.700 --> 24:28.500
+ which are the ones that you're born with,
+
+24:28.500 --> 24:30.520
+ secondary sexual characteristics,
+
+24:30.520 --> 24:32.240
+ which are the ones that show up in puberty,
+
+24:32.240 --> 24:34.040
+ and these are happening in the brain,
+
+24:34.040 --> 24:35.880
+ and body, and spinal cord.
+
+24:35.880 --> 24:37.500
+ And so I'm going to disentangle all this for you
+
+24:37.500 --> 24:39.760
+ by giving you some examples.
+
+24:39.760 --> 24:41.260
+ First, let's talk about the development
+
+24:41.260 --> 24:43.120
+ of primary sexual characteristics,
+
+24:43.120 --> 24:46.320
+ the ones that show up at birth.
+
+24:46.320 --> 24:49.680
+ And one of the more dramatic examples of this
+
+24:49.680 --> 24:53.160
+ comes from the role of testosterone
+
+24:53.160 --> 24:56.280
+ in creating the external genitalia.
+
+24:56.280 --> 24:58.400
+ Now, you might think it's just straightforward.
+
+24:58.400 --> 25:01.240
+ If there's testes, because there's a Y chromosome,
+
+25:01.240 --> 25:05.360
+ you've got a gene that codes for the development of testes,
+
+25:05.360 --> 25:08.120
+ you get testosterone, and the penis grows,
+
+25:08.120 --> 25:09.600
+ and the baby is born with a penis.
+
+25:09.600 --> 25:10.540
+ One of the first things that happens
+
+25:10.540 --> 25:12.960
+ when the baby comes out is they look at the genitalia,
+
+25:12.960 --> 25:14.320
+ and they try and make an assessment
+
+25:14.320 --> 25:16.000
+ on whether or not it's a, quote, boy,
+
+25:16.000 --> 25:18.060
+ or it's a, quote, girl, right?
+
+25:18.060 --> 25:20.520
+ That's been done for a very long time
+
+25:20.520 --> 25:22.080
+ throughout human history.
+
+25:24.360 --> 25:27.240
+ It turns out that it's not testosterone
+
+25:27.240 --> 25:30.600
+ that's responsible for the development of the penis
+
+25:30.600 --> 25:34.700
+ in a baby that has an X chromosome and a Y chromosome.
+
+25:35.560 --> 25:37.600
+ It's a different androgen.
+
+25:37.600 --> 25:40.720
+ Androgen is just a category of hormones
+
+25:40.720 --> 25:42.960
+ that includes testosterone,
+
+25:42.960 --> 25:47.380
+ but testosterone is converted in the fetus
+
+25:47.380 --> 25:50.000
+ to something called dihydrotestosterone,
+
+25:50.000 --> 25:52.240
+ and that's accomplished through an enzyme
+
+25:52.240 --> 25:53.920
+ called 5-alpha reductase.
+
+25:53.920 --> 25:56.880
+ Now, dihydrotestosterone has important effects
+
+25:56.880 --> 25:58.220
+ later in life too.
+
+25:58.220 --> 25:59.160
+ We will talk about those.
+
+25:59.160 --> 26:00.840
+ In fact, if you just want to know,
+
+26:00.840 --> 26:03.120
+ dihydrotestosterone is what we would call
+
+26:03.120 --> 26:05.600
+ the dominant androgen in males.
+
+26:05.600 --> 26:07.120
+ It's responsible for aggression.
+
+26:07.120 --> 26:10.980
+ It's responsible for a lot of muscular strength.
+
+26:10.980 --> 26:14.440
+ It's involved in beard growth and male pattern baldness.
+
+26:14.440 --> 26:15.840
+ We're going to talk about all of that.
+
+26:15.840 --> 26:19.360
+ But dihydrotestosterone has powerful effects
+
+26:19.360 --> 26:21.340
+ in determining the genitalia
+
+26:21.340 --> 26:23.480
+ while the baby is still in the embryo.
+
+26:23.480 --> 26:26.640
+ So this ends, there's testosterone that's made,
+
+26:27.780 --> 26:30.100
+ and that testosterone gets converted
+
+26:30.100 --> 26:32.620
+ by this enzyme, 5-alpha reductase,
+
+26:32.620 --> 26:34.940
+ in a little structure called the tubercle.
+
+26:34.940 --> 26:37.920
+ That tubercle will eventually become the penis.
+
+26:37.920 --> 26:39.660
+ So you say, okay, straightforward.
+
+26:39.660 --> 26:42.700
+ This testosterone's converted to dihydrotestosterone,
+
+26:42.700 --> 26:44.960
+ and then if there's dihydrotestosterone,
+
+26:44.960 --> 26:46.600
+ it controls penis growth.
+
+26:46.600 --> 26:48.600
+ And indeed, that's the case.
+
+26:48.600 --> 26:51.120
+ So that's a primary sexual characteristic.
+
+26:51.120 --> 26:56.120
+ That baby will then grow up, and later, during puberty,
+
+26:56.400 --> 26:58.040
+ there will be the release of a molecule,
+
+26:58.040 --> 26:59.420
+ I talked about this last episode,
+
+26:59.420 --> 27:04.160
+ called kispeptin, K-I-S-S-P-E-P-T-I-N, kispeptin,
+
+27:04.160 --> 27:06.120
+ which will cause the release of some other hormones,
+
+27:06.120 --> 27:08.040
+ canadotropin-releasing hormone, luteinizing hormone,
+
+27:08.040 --> 27:10.080
+ will stimulate the testes to make testosterone.
+
+27:10.080 --> 27:13.720
+ So in puberty, testosterone leads to further growth
+
+27:13.720 --> 27:15.200
+ and development of the penis,
+
+27:15.200 --> 27:19.940
+ as well as the accumulation or growth of pubic hair,
+
+27:19.940 --> 27:20.920
+ deepening of the voice,
+
+27:20.920 --> 27:24.280
+ all the secondary sexual characteristics, okay?
+
+27:24.280 --> 27:28.400
+ So dihydrotestosterone creates what we would call
+
+27:28.400 --> 27:30.780
+ the typical masculine phenotype
+
+27:30.780 --> 27:33.960
+ for primary sexual characteristics,
+
+27:33.960 --> 27:37.240
+ and produces, testosterone, excuse me,
+
+27:37.240 --> 27:40.400
+ produces secondary sexual characteristics during puberty.
+
+27:41.700 --> 27:43.660
+ There's a very interesting phenomenon
+
+27:43.660 --> 27:46.800
+ that was published in the journal Science in the 1970s,
+
+27:46.800 --> 27:50.160
+ for which now there's a wealth of scientific data.
+
+27:50.160 --> 27:53.040
+ And this relates to a genetic mutation
+
+27:53.040 --> 27:55.320
+ where 5-alpha reductase,
+
+27:55.320 --> 27:57.740
+ the enzyme that converts testosterone
+
+27:57.740 --> 28:00.580
+ to dihydrotestosterone, doesn't exist.
+
+28:00.580 --> 28:04.160
+ It's mutated in a way in a genome that it doesn't exist.
+
+28:04.160 --> 28:06.400
+ And this actually was first identified
+
+28:06.400 --> 28:07.920
+ in the Dominican Republic.
+
+28:07.920 --> 28:10.000
+ It has shown up elsewhere.
+
+28:10.000 --> 28:13.460
+ It's quite rare, but where it shows up, it's robust.
+
+28:14.480 --> 28:17.300
+ What happens is baby is born.
+
+28:17.300 --> 28:19.080
+ Typically, when a baby is born,
+
+28:19.080 --> 28:20.600
+ they don't measure chromosomes.
+
+28:20.600 --> 28:22.960
+ They don't look at chromosomal sex, XX or XY.
+
+28:22.960 --> 28:25.240
+ That's not typically done nowadays.
+
+28:25.240 --> 28:26.460
+ Baby is born.
+
+28:26.460 --> 28:30.080
+ If you were to look at that baby, it would look female.
+
+28:30.080 --> 28:34.300
+ There would be very little or no external penis.
+
+28:34.300 --> 28:35.760
+ And so people would say, it's a girl,
+
+28:35.760 --> 28:38.160
+ and they might have the celebration, it's a girl.
+
+28:38.160 --> 28:40.760
+ And I guess now they call them gender reveal parties
+
+28:40.760 --> 28:41.600
+ or something like that.
+
+28:41.600 --> 28:42.420
+ I don't know about this.
+
+28:42.420 --> 28:47.420
+ But anyway, the baby would reveal its external genitalia
+
+28:49.680 --> 28:52.200
+ simply by being there and being naked when it's born.
+
+28:52.200 --> 28:53.600
+ Has nothing to do with gender.
+
+28:53.600 --> 28:56.800
+ It has to do with genitalia and sex.
+
+28:56.800 --> 28:58.580
+ That baby would be born.
+
+28:58.580 --> 29:02.920
+ And what was observed is that from time to time,
+
+29:02.920 --> 29:06.020
+ that baby, after being raised as a girl,
+
+29:06.020 --> 29:08.100
+ perfectly happy as a girl,
+
+29:08.100 --> 29:12.800
+ would, around the age of 11 or 12 or 13,
+
+29:12.800 --> 29:15.520
+ would suddenly start to sprout a penis.
+
+29:15.520 --> 29:16.680
+ There's actually a name for this.
+
+29:16.680 --> 29:18.280
+ It's called huevidosis,
+
+29:18.280 --> 29:23.040
+ which the translation is more or less penis at 12.
+
+29:23.040 --> 29:25.640
+ And as strange as this might sound,
+
+29:25.640 --> 29:28.520
+ it makes sense if you understand the underlying mutation.
+
+29:28.520 --> 29:32.640
+ What happens in these children, these huevidosis,
+
+29:32.640 --> 29:35.480
+ is that the child is born.
+
+29:35.480 --> 29:40.080
+ It has testes, which are not descended, so up in the body.
+
+29:40.080 --> 29:44.120
+ They're not making a lot of testosterone early on.
+
+29:44.120 --> 29:46.520
+ They weren't able to convert testosterone
+
+29:46.520 --> 29:47.720
+ to dihydrotestosterone
+
+29:47.720 --> 29:50.400
+ because they lack this enzyme, 5-alpha reductase.
+
+29:51.360 --> 29:54.440
+ As a consequence, the primary sexual characteristic
+
+29:54.440 --> 29:59.440
+ of external male genitalia, penis, doesn't develop.
+
+29:59.480 --> 30:02.440
+ And then what happens is the baby grows up
+
+30:02.440 --> 30:05.760
+ as a young child, essentially as treated as a girl.
+
+30:05.760 --> 30:08.860
+ Generally, they report being pretty comfortable as girls,
+
+30:08.860 --> 30:10.320
+ although not always.
+
+30:10.320 --> 30:13.700
+ And then testosterone starts getting secreted
+
+30:13.700 --> 30:16.440
+ from the testes because kispeptin in the brain
+
+30:16.440 --> 30:18.760
+ signals through gonadotropin and luteinizing hormone,
+
+30:18.760 --> 30:20.000
+ travels down to the testes.
+
+30:20.000 --> 30:22.120
+ The testes start churning out testosterone
+
+30:22.120 --> 30:24.560
+ and there's a secondary growth of the penis.
+
+30:24.560 --> 30:25.800
+ And all of a sudden there's a penis.
+
+30:25.800 --> 30:28.640
+ And this leads to some very complicated situations
+
+30:28.640 --> 30:30.660
+ in families and culturally.
+
+30:30.660 --> 30:33.960
+ And actually the outcomes in terms of whether or not
+
+30:33.960 --> 30:37.680
+ these children decide to self-identify as males or females
+
+30:37.680 --> 30:40.540
+ and how people treat them actually varies quite a lot.
+
+30:40.540 --> 30:43.220
+ There's actually been a kind of an adopting
+
+30:43.220 --> 30:48.080
+ of a third category of sex and gender in the suavodosis
+
+30:48.080 --> 30:51.040
+ in order to just offer them the opportunity
+
+30:51.040 --> 30:55.880
+ to explore not just what would be a typical kind of girl
+
+30:55.880 --> 30:59.480
+ or woman or boy or man phenotype, but something in between,
+
+30:59.480 --> 31:01.160
+ something that some people call intersex,
+
+31:01.160 --> 31:03.680
+ although intersex and pseudohermaphroditism
+
+31:03.680 --> 31:05.820
+ is actually a separate thing altogether.
+
+31:05.820 --> 31:06.660
+ So it's fascinating.
+
+31:06.660 --> 31:11.660
+ And the point here is that dihydrotestosterone,
+
+31:11.720 --> 31:15.520
+ not testosterone is responsible for this primary growth
+
+31:15.520 --> 31:19.100
+ of the penis and that testosterone later is involved
+
+31:19.100 --> 31:21.420
+ in the secondary sexual characteristics,
+
+31:21.420 --> 31:23.920
+ deepening in the voice, et cetera.
+
+31:23.920 --> 31:25.960
+ Now, this is where the information gets even more
+
+31:25.960 --> 31:30.920
+ interesting and applies to essentially everybody.
+
+31:30.920 --> 31:34.040
+ You might think that testosterone,
+
+31:34.040 --> 31:37.400
+ because it masculinizes the body
+
+31:37.400 --> 31:40.240
+ in the secondary sexual characteristic way
+
+31:41.200 --> 31:45.300
+ and because dihydrotestosterone, another androgen,
+
+31:45.300 --> 31:48.800
+ masculinizes the primary sexual characteristics,
+
+31:48.800 --> 31:50.400
+ the growth of the penis early on,
+
+31:50.400 --> 31:53.880
+ that testosterone must masculinize the brain.
+
+31:53.880 --> 31:58.360
+ And there are in fact aspects of masculinization
+
+31:58.360 --> 32:02.700
+ of the brain and body that are independent of genitalia.
+
+32:02.700 --> 32:03.940
+ Now it might be obvious to some of you,
+
+32:03.940 --> 32:05.880
+ but some people probably don't realize that.
+
+32:05.880 --> 32:10.880
+ Yes, indeed, the brain has receptors for testosterone.
+
+32:11.840 --> 32:14.120
+ It also has receptors for estrogen.
+
+32:15.420 --> 32:20.260
+ But the fascinating thing is that if you look at the brains
+
+32:20.260 --> 32:22.880
+ of people that have Y chromosomes
+
+32:22.880 --> 32:25.180
+ and that have testes and that make testosterone,
+
+32:25.180 --> 32:27.080
+ and you look at the brains of people
+
+32:27.080 --> 32:29.760
+ that don't have Y chromosomes or testes
+
+32:29.760 --> 32:33.360
+ and therefore make far less testosterone in general,
+
+32:36.000 --> 32:39.100
+ what you realize is that the cells in the brain
+
+32:39.100 --> 32:42.020
+ that differ between what I'll call males and females,
+
+32:42.020 --> 32:47.020
+ but between XY and XX have receptors for testosterone,
+
+32:48.880 --> 32:51.440
+ but the masculinization of the brain
+
+32:51.440 --> 32:54.720
+ is not accomplished by testosterone.
+
+32:54.720 --> 32:55.560
+ I want to repeat this.
+
+32:55.560 --> 32:57.360
+ The masculinization of the brain
+
+32:57.360 --> 32:59.760
+ is not accomplished by testosterone.
+
+32:59.760 --> 33:02.860
+ It is accomplished by estrogen.
+
+33:04.080 --> 33:06.960
+ Testosterone can be converted into estrogen
+
+33:06.960 --> 33:09.680
+ by an enzyme called aromatase.
+
+33:09.680 --> 33:11.440
+ This is vitally important to understand.
+
+33:11.440 --> 33:13.560
+ Testosterone can be converted into estrogen
+
+33:13.560 --> 33:15.520
+ by something called aromatase.
+
+33:15.520 --> 33:19.040
+ I'll give an example of where this happens later in life
+
+33:19.040 --> 33:20.540
+ to just illustrate the principle
+
+33:20.540 --> 33:22.240
+ and really embedded in your mind.
+
+33:23.640 --> 33:28.640
+ During puberty in boys, XY chromosome individuals,
+
+33:28.840 --> 33:31.400
+ it's not uncommon for there to be transient
+
+33:31.400 --> 33:34.560
+ or sometimes long lasting breast bud development.
+
+33:34.560 --> 33:36.840
+ Testosterone goes up during puberty
+
+33:36.840 --> 33:39.240
+ for the reasons we talked about before,
+
+33:39.240 --> 33:43.060
+ and some of that testosterone gets converted into estrogen
+
+33:43.060 --> 33:46.000
+ by an enzyme called aromatase.
+
+33:46.000 --> 33:49.280
+ Aromatase is made by several sources in the body.
+
+33:49.280 --> 33:51.880
+ One of the main sources is body fat.
+
+33:51.880 --> 33:53.640
+ So it can make a lot of aromatase.
+
+33:53.640 --> 33:56.440
+ Sometimes you'll even see a fairly dramatic
+
+33:56.440 --> 33:58.520
+ breast development in males during puberty.
+
+33:58.520 --> 34:00.600
+ Sometimes it's transient, sometimes it's not.
+
+34:00.600 --> 34:02.080
+ The other place where you see this
+
+34:02.080 --> 34:04.840
+ is in athletes and bodybuilders
+
+34:04.840 --> 34:06.920
+ that take a lot of anabolic steroids
+
+34:06.920 --> 34:09.240
+ that take high levels of androgens.
+
+34:09.240 --> 34:11.040
+ So they'll be taking testosterone
+
+34:11.040 --> 34:12.780
+ at super physiological doses.
+
+34:13.640 --> 34:15.000
+ Sometimes not always,
+
+34:15.000 --> 34:17.820
+ they will convert some of that testosterone into estrogen
+
+34:17.820 --> 34:20.080
+ and they'll get what's called gynecomastia,
+
+34:20.080 --> 34:23.120
+ which is the development of male breast tissue.
+
+34:23.120 --> 34:25.480
+ Sometimes they'll get it cut out surgically.
+
+34:25.480 --> 34:27.800
+ Other times they'll start trying to take estrogen blockers
+
+34:27.800 --> 34:29.440
+ in order to try and suppress it,
+
+34:29.440 --> 34:31.140
+ or they'll try and block prolactin.
+
+34:31.140 --> 34:33.560
+ It's a topic that we're going to get into in more detail,
+
+34:33.560 --> 34:35.480
+ but what's important here is to understand
+
+34:35.480 --> 34:36.840
+ that testosterone can be converted
+
+34:36.840 --> 34:39.080
+ into the estrogen by aromatase.
+
+34:39.080 --> 34:41.560
+ Aromatase is not just made in body fat.
+
+34:41.560 --> 34:44.880
+ There are neurons in the brain that make aromatase
+
+34:44.880 --> 34:47.280
+ and convert testosterone into estrogen,
+
+34:47.280 --> 34:52.280
+ and it is testosterone converted into estrogen.
+
+34:52.360 --> 34:53.760
+ In other words, it's estrogen
+
+34:53.760 --> 34:58.060
+ that masculinizes the XY individual,
+
+34:58.060 --> 35:00.080
+ that masculinizes the brain.
+
+35:00.080 --> 35:03.560
+ And this has profound effects on all sorts of things,
+
+35:03.560 --> 35:07.800
+ on behavior, on outlook in the world, et cetera.
+
+35:07.800 --> 35:09.180
+ But I think most people don't realize
+
+35:09.180 --> 35:12.080
+ that it's estrogen that comes from testosterone
+
+35:12.080 --> 35:15.400
+ that masculinizes the male brain, the XY brain,
+
+35:15.400 --> 35:19.260
+ not testosterone nor dihydrotestosterone.
+
+35:19.260 --> 35:21.340
+ So I just want to mention some tools.
+
+35:21.340 --> 35:22.640
+ You might be asking yourself,
+
+35:22.640 --> 35:24.520
+ how could tools possibly come up
+
+35:24.520 --> 35:26.000
+ at this stage of the conversation
+
+35:26.000 --> 35:28.240
+ where we're talking about sexual development
+
+35:28.240 --> 35:30.440
+ and we're talking about the differentiation
+
+35:30.440 --> 35:32.560
+ of tissues in the body?
+
+35:32.560 --> 35:35.880
+ Well, this is true both for children and parents and adults.
+
+35:35.880 --> 35:39.800
+ I want to emphasize that there are things
+
+35:39.800 --> 35:44.100
+ that are environmental and there are things that people use
+
+35:44.100 --> 35:46.040
+ that in their homes sometimes
+
+35:46.040 --> 35:49.040
+ that actually can impact hormone levels
+
+35:49.040 --> 35:52.800
+ and can impact sexual development in fairly profound ways.
+
+35:52.800 --> 35:54.640
+ And I want to be very clear.
+
+35:54.640 --> 35:58.520
+ This is not me pulling from some rare journal
+
+35:58.520 --> 35:59.640
+ I've never heard of it.
+
+35:59.640 --> 36:01.880
+ This is pulling from textbooks.
+
+36:01.880 --> 36:04.400
+ In particular, today, I'm guiding a lot of the conversation
+
+36:04.400 --> 36:08.540
+ on work on behavioral endocrinology.
+
+36:08.540 --> 36:12.240
+ This is a book by Randy Nelson and Lance Crigfield,
+
+36:12.240 --> 36:14.060
+ true experts in the field.
+
+36:14.060 --> 36:16.520
+ I'm going to talk about some of the work from Tyrone Hayes
+
+36:16.520 --> 36:20.000
+ from UC Berkeley about environmental toxins
+
+36:20.000 --> 36:21.760
+ and their impacts on some of these things
+
+36:21.760 --> 36:23.820
+ like testosterone and estrogen.
+
+36:23.820 --> 36:25.320
+ I'm going to touch into them.
+
+36:25.320 --> 36:27.320
+ I'm going to give some anecdotal evidence
+
+36:27.320 --> 36:28.720
+ that's grounded in studies,
+
+36:28.720 --> 36:30.580
+ which we will provide in the caption
+
+36:30.580 --> 36:32.320
+ or that I'll reference here.
+
+36:32.320 --> 36:34.760
+ One of those that's actually really interesting
+
+36:34.760 --> 36:36.740
+ but helps illustrate the principle
+
+36:36.740 --> 36:39.120
+ that we've been talking about is a few years ago,
+
+36:39.120 --> 36:41.960
+ there was a lot of excitement about evening primrose oil.
+
+36:41.960 --> 36:45.460
+ Evening primrose oil is in a lot of products
+
+36:45.460 --> 36:47.720
+ that typically are associated with skin beauty
+
+36:47.720 --> 36:48.720
+ and skin health.
+
+36:48.720 --> 36:51.040
+ And so I'm generalizing here,
+
+36:51.040 --> 36:55.360
+ but typically it was mothers or sisters that were using it.
+
+36:55.360 --> 36:58.160
+ And there were actually examples starting to crop up
+
+36:58.160 --> 37:02.460
+ of young boys getting accelerated breast bud development
+
+37:02.460 --> 37:06.400
+ from skin contact with women
+
+37:06.400 --> 37:08.320
+ who were using evening primrose oil.
+
+37:08.320 --> 37:12.600
+ So evening primrose oil is chemically a lot like estrogen
+
+37:12.600 --> 37:14.840
+ and it has a lot of estrogenic compounds.
+
+37:14.840 --> 37:17.560
+ There are a number of things out there like this.
+
+37:17.560 --> 37:19.840
+ So believe it or not, things like pine pollen
+
+37:19.840 --> 37:21.660
+ look very much like testosterone.
+
+37:21.660 --> 37:24.760
+ Structurally, they are more or less are testosterone.
+
+37:24.760 --> 37:27.540
+ Their bioavailability in humans isn't as clear.
+
+37:27.540 --> 37:31.900
+ Evening primrose oil has a lot of estrogenic elements to it,
+
+37:31.900 --> 37:33.560
+ just structurally how it's built.
+
+37:33.560 --> 37:37.280
+ And so there were cases where boys were understandably
+
+37:37.280 --> 37:39.720
+ being hugged by their mom or maybe even like showering
+
+37:39.720 --> 37:43.760
+ and taking a, using the evening primrose oil solution.
+
+37:43.760 --> 37:47.400
+ Those things will actually change levels of estrogens
+
+37:47.400 --> 37:48.880
+ in boys and girls.
+
+37:48.880 --> 37:50.880
+ And so this wasn't just an issue for young boys.
+
+37:50.880 --> 37:52.320
+ This was also an issue for young girls.
+
+37:52.320 --> 37:55.700
+ So it's not that evening primrose oil is bad.
+
+37:55.700 --> 37:58.060
+ It's just that many of you have probably heard
+
+37:58.060 --> 38:00.560
+ about the dangers of soy and isoflavones
+
+38:00.560 --> 38:01.740
+ and things like that.
+
+38:01.740 --> 38:04.040
+ The impact of soy on estrogen levels
+
+38:04.040 --> 38:07.400
+ is there are some decent evidence to support that.
+
+38:07.400 --> 38:09.600
+ However, there's a lot of other factors
+
+38:09.600 --> 38:10.480
+ that are more severe.
+
+38:10.480 --> 38:13.120
+ And one of those is this evening primrose oil.
+
+38:13.120 --> 38:16.400
+ So regardless of age, let's just put it this way
+
+38:16.400 --> 38:18.960
+ because people might be wanting to drive their hormones
+
+38:18.960 --> 38:21.600
+ more estrogenic or more androgenic.
+
+38:22.560 --> 38:24.360
+ How could I know what your preference is?
+
+38:24.360 --> 38:25.240
+ I don't know.
+
+38:25.240 --> 38:29.360
+ But in any case, things like evening primrose oil
+
+38:29.360 --> 38:32.480
+ can actually promote estrogenic pathways in the body
+
+38:32.480 --> 38:34.160
+ and some of it can go transdermal.
+
+38:34.160 --> 38:37.680
+ Likewise, because testosterone replacement therapy
+
+38:37.680 --> 38:39.520
+ is fairly widespread nowadays
+
+38:39.520 --> 38:41.480
+ and some people accomplish that through cream,
+
+38:41.480 --> 38:44.760
+ it's pretty well understood that if someone's taking that,
+
+38:44.760 --> 38:48.060
+ that they want to avoid contact with anyone,
+
+38:48.060 --> 38:51.660
+ skin contact with anyone that is trying to promote
+
+38:52.600 --> 38:55.360
+ more estrogenic activity in their body
+
+38:56.360 --> 38:57.640
+ and especially in children.
+
+38:57.640 --> 38:58.520
+ So that's one.
+
+38:58.520 --> 39:02.240
+ The other is this issue of environmental factors.
+
+39:02.240 --> 39:05.040
+ Now this, again, I'm just going to highlight
+
+39:05.040 --> 39:07.720
+ when one starts talking about environmental factors
+
+39:07.720 --> 39:10.240
+ and how they're poisoning us or disrupting growth
+
+39:10.240 --> 39:11.600
+ or fertility rates,
+
+39:11.600 --> 39:13.880
+ it can start to sound a little bit crazy
+
+39:13.880 --> 39:15.560
+ except when you start to actually look
+
+39:15.560 --> 39:17.080
+ at some of the real data,
+
+39:17.080 --> 39:19.120
+ data from quality research labs
+
+39:19.120 --> 39:21.060
+ funded by federal government,
+
+39:21.060 --> 39:23.780
+ funded not from companies or other sources
+
+39:23.780 --> 39:25.120
+ that are really aimed at understanding
+
+39:25.120 --> 39:26.760
+ what the underlying biology is.
+
+39:26.760 --> 39:30.600
+ And for that, we should all be grateful
+
+39:30.600 --> 39:33.280
+ to Tyrone Hayes at UC Berkeley.
+
+39:33.280 --> 39:35.800
+ I remember way back when I was a graduate student
+
+39:35.800 --> 39:39.780
+ in the late 90s, goodness, at UC Berkeley.
+
+39:39.780 --> 39:41.980
+ And I remember him, he was studying frogs.
+
+39:41.980 --> 39:45.040
+ He was talking about developmental defects
+
+39:45.040 --> 39:47.920
+ in these frogs that live in different waters around,
+
+39:47.920 --> 39:50.600
+ it was California, but also elsewhere.
+
+39:50.600 --> 39:53.260
+ And he identified a substance which is present
+
+39:53.260 --> 39:55.540
+ in a lot of waterways throughout this country
+
+39:55.540 --> 39:58.360
+ and other countries, so US and beyond,
+
+39:58.360 --> 40:00.400
+ certainly not just restricted to California,
+
+40:00.400 --> 40:04.840
+ which is atrazine, this is A-T-R-A-Z-I-N-E.
+
+40:04.840 --> 40:06.520
+ Again, this is the stuff of textbooks
+
+40:06.520 --> 40:10.260
+ and it causes severe testicular malformations.
+
+40:10.260 --> 40:13.400
+ So again, atrazine exposure is serious.
+
+40:13.400 --> 40:16.800
+ And what's interesting is if you look at the data,
+
+40:17.640 --> 40:20.380
+ what you find is that at sites in Western
+
+40:20.380 --> 40:22.480
+ and Midwestern sections of the United States,
+
+40:22.480 --> 40:27.120
+ 10 to 92% of male frogs, these were frogs mind you,
+
+40:27.120 --> 40:29.160
+ had testicular abnormalities.
+
+40:29.160 --> 40:32.280
+ And the most severe testicular malformations
+
+40:32.280 --> 40:35.040
+ were in the testes rather than in the sperm.
+
+40:35.040 --> 40:37.940
+ So it's actually the organ itself, the gonad itself.
+
+40:37.940 --> 40:42.680
+ Now, it's very well known now that atrazine
+
+40:42.680 --> 40:44.360
+ is in many herbicides.
+
+40:44.360 --> 40:47.860
+ And so, whereas I would say in the 80s and 90s,
+
+40:47.860 --> 40:51.320
+ the discussion around herbicides and their negative effects
+
+40:51.320 --> 40:53.300
+ was considered kind of like hippie dippie stuff
+
+40:53.300 --> 40:54.800
+ or the stuff you hear about it,
+
+40:56.120 --> 40:57.720
+ your local community markets
+
+40:57.720 --> 40:59.520
+ and these kind of new age communities,
+
+40:59.520 --> 41:04.360
+ now there's very solid data from federally funded labs
+
+41:04.360 --> 41:06.860
+ at major universities that have been peer reviewed
+
+41:06.860 --> 41:09.000
+ and published in excellent journals,
+
+41:09.000 --> 41:11.200
+ showing that indeed many of these herbicides
+
+41:11.200 --> 41:15.460
+ can have negative effects primarily by impacting
+
+41:15.460 --> 41:19.820
+ the ratios of these hormones in either the mothers
+
+41:19.820 --> 41:24.820
+ or in the testes, altering the testes of the fathers
+
+41:24.820 --> 41:29.260
+ or direct effects on developing young animals
+
+41:29.260 --> 41:30.340
+ and potentially humans.
+
+41:30.340 --> 41:32.140
+ And so you ask, well, what about humans?
+
+41:32.140 --> 41:35.140
+ Frogs are wonderful, but what about humans?
+
+41:35.140 --> 41:38.780
+ So here are the data on what's happening.
+
+41:38.780 --> 41:41.380
+ And this isn't all going to be scary stuff.
+
+41:41.380 --> 41:43.700
+ We're also going to talk about tools to ameliorate
+
+41:43.700 --> 41:45.700
+ and offset some of these effects.
+
+41:45.700 --> 41:47.700
+ One would be be cautious with evening primrose
+
+41:47.700 --> 41:49.220
+ as well as testosterone creams,
+
+41:49.220 --> 41:51.740
+ depending on whether or not you want to be more androgenic
+
+41:51.740 --> 41:54.940
+ or estrogenic, depending on your needs.
+
+41:54.940 --> 41:57.080
+ But across human populations,
+
+41:57.080 --> 41:59.700
+ sperm counts are indeed declining, okay?
+
+41:59.700 --> 42:04.580
+ So in 1940, the average density of human sperm
+
+42:04.580 --> 42:08.740
+ was 113 million per milliliter of semen.
+
+42:08.740 --> 42:09.560
+ That's how it's measured.
+
+42:09.560 --> 42:11.880
+ How many sperm per milliliter of semen?
+
+42:11.880 --> 42:15.060
+ In 1990, this figure has dropped to 66.
+
+42:15.060 --> 42:18.460
+ It went from 113 million per milliliter
+
+42:18.460 --> 42:21.340
+ to 66 million per milliliter in the United States
+
+42:21.340 --> 42:22.640
+ and Western Europe.
+
+42:22.640 --> 42:24.140
+ So it's not just a US thing.
+
+42:24.140 --> 42:26.940
+ Researchers also estimated that the volume of semen
+
+42:26.940 --> 42:29.680
+ produced by men has dropped 20% in that time,
+
+42:29.680 --> 42:32.660
+ reduced sperm count per ejaculation even further.
+
+42:32.660 --> 42:35.920
+ So between 1981 and 1991,
+
+42:35.920 --> 42:38.400
+ the ratio of normal spermatogenesis has decreased
+
+42:38.400 --> 42:43.400
+ from 56.4% to 26.9%.
+
+42:43.620 --> 42:46.740
+ So there's a lot that's happening,
+
+42:46.740 --> 42:49.520
+ primarily because of these herbicides
+
+42:49.520 --> 42:52.340
+ that are in widespread use to reduce sperm counts.
+
+42:52.340 --> 42:54.220
+ And these are going to have profound effects,
+
+42:54.220 --> 42:57.180
+ not just on sperm counts, but on development,
+
+42:57.180 --> 43:00.160
+ sexual development at the level of the gonads and the brain,
+
+43:00.160 --> 43:03.160
+ because you need testosterone to get you
+
+43:03.160 --> 43:05.980
+ dihydrotestosterone for primary sexual characteristics.
+
+43:05.980 --> 43:08.840
+ You need estrogen that's come from testosterone
+
+43:08.840 --> 43:09.980
+ to masculinize the brain.
+
+43:09.980 --> 43:13.180
+ And of course, we're not just focusing on sperm
+
+43:13.180 --> 43:14.500
+ and testosterone.
+
+43:14.500 --> 43:18.180
+ You of course also know that many of these herbicides
+
+43:18.180 --> 43:21.740
+ are disrupting estrogens in a similar way,
+
+43:21.740 --> 43:26.500
+ or are leading to hyper estrogenic states,
+
+43:26.500 --> 43:30.120
+ which might explain why puberty is happening
+
+43:30.120 --> 43:33.420
+ so much earlier in young girls these days.
+
+43:33.420 --> 43:35.220
+ So there are a lot of things that are happening.
+
+43:35.220 --> 43:37.480
+ Now, does this mean that you have to run around
+
+43:37.480 --> 43:41.180
+ and neurotically avoid anything that includes
+
+43:41.180 --> 43:42.620
+ things like atrazine,
+
+43:42.620 --> 43:46.160
+ and should you be avoiding all kinds of herbicides?
+
+43:46.160 --> 43:47.820
+ I don't know, that's up to you,
+
+43:47.820 --> 43:51.000
+ but it does seem that these have pretty marked effects
+
+43:51.000 --> 43:54.640
+ in both the animal studies and in the human studies.
+
+43:54.640 --> 43:58.100
+ You can open up a textbook like the endocrinology textbook
+
+43:58.100 --> 44:00.460
+ and find things like vinclozolin.
+
+44:00.460 --> 44:04.840
+ This is V-I-N-C-L-O-Z-O-L-I-N,
+
+44:04.840 --> 44:07.860
+ which is a fungicide and it's an anti-androgen.
+
+44:07.860 --> 44:09.680
+ You give it to animals, to rats,
+
+44:09.680 --> 44:12.140
+ and instead of forming a penis, they don't form a penis.
+
+44:12.140 --> 44:16.180
+ They basically, it's not that they form a clitoris,
+
+44:16.180 --> 44:17.700
+ they just don't form a penis.
+
+44:17.700 --> 44:20.960
+ So let's talk about female sexual development.
+
+44:20.960 --> 44:22.780
+ And as always,
+
+44:22.780 --> 44:24.640
+ what we'll do is we'll talk about the normal biology.
+
+44:24.640 --> 44:28.900
+ Then we'll talk a little bit about a kind of extraordinary
+
+44:28.900 --> 44:30.780
+ or unusual set of cases,
+
+44:30.780 --> 44:33.140
+ but we'll talk about them
+
+44:33.140 --> 44:35.700
+ because they illustrate an important principle
+
+44:35.700 --> 44:39.660
+ about how things work under typical circumstances.
+
+44:39.660 --> 44:44.180
+ So there is a mutation
+
+44:44.180 --> 44:46.920
+ called androgen insensitivity syndrome.
+
+44:46.920 --> 44:50.980
+ And understanding how androgen insensitivity syndrome works
+
+44:50.980 --> 44:52.700
+ can help you really understand
+
+44:52.700 --> 44:55.760
+ how hormones impact sexual development.
+
+44:55.760 --> 44:57.460
+ So here's how it works.
+
+44:57.460 --> 45:00.060
+ There are individuals who are XY,
+
+45:00.060 --> 45:01.440
+ so they have a Y chromosome,
+
+45:01.440 --> 45:06.260
+ that are born, that make testosterone,
+
+45:06.260 --> 45:10.180
+ they have testes, and they don't have molarion ducts
+
+45:10.180 --> 45:12.180
+ because on the Y chromosome
+
+45:12.180 --> 45:14.340
+ is this molarion inhibiting hormone.
+
+45:14.340 --> 45:18.560
+ However, these individuals look completely female.
+
+45:18.560 --> 45:21.740
+ And in general, they report feeling
+
+45:21.740 --> 45:25.280
+ like girls when they're young, women when they're older.
+
+45:25.280 --> 45:27.900
+ But there's something unusual that's happening
+
+45:27.900 --> 45:28.840
+ in these individuals
+
+45:28.840 --> 45:33.840
+ because they have an XY chromosomal type and not XX.
+
+45:34.260 --> 45:35.540
+ So what's happening?
+
+45:35.540 --> 45:37.620
+ Well, what's happening is
+
+45:37.620 --> 45:39.940
+ the testes are making testosterone,
+
+45:39.940 --> 45:43.460
+ but the receptor for testosterone is mutated.
+
+45:43.460 --> 45:46.700
+ And therefore, the testes never descend.
+
+45:46.700 --> 45:49.100
+ They don't have ovaries, they have testes,
+
+45:49.100 --> 45:50.940
+ but the testes are internal.
+
+45:50.940 --> 45:53.920
+ And so typically, these individuals find out
+
+45:53.920 --> 45:55.900
+ that they are actually XY chromosomes
+
+45:55.900 --> 46:00.860
+ so that their chromosomal sex is male, if you will,
+
+46:00.860 --> 46:03.580
+ and their gonadal sex is male,
+
+46:03.580 --> 46:05.960
+ but the gonads, the testes are inside the body,
+
+46:05.960 --> 46:07.940
+ they don't actually develop a scrotum,
+
+46:07.940 --> 46:09.020
+ they don't make ovaries,
+
+46:09.020 --> 46:12.180
+ and when they don't menstruate around the time of puberty,
+
+46:12.180 --> 46:15.180
+ that's a sign that something is different.
+
+46:15.180 --> 46:16.860
+ And so they never menstruate around puberty,
+
+46:16.860 --> 46:19.300
+ and if they look into this deeply enough,
+
+46:19.300 --> 46:22.340
+ what you find is that they are actually XY,
+
+46:22.340 --> 46:23.360
+ they make testosterone,
+
+46:23.360 --> 46:25.420
+ but their body can't make use of the testosterone
+
+46:25.420 --> 46:27.880
+ because they don't have the receptors.
+
+46:27.880 --> 46:29.920
+ And the receptors are vitally important
+
+46:29.920 --> 46:34.140
+ for most all of the secondary sexual characteristics
+
+46:34.140 --> 46:35.020
+ that we talked about,
+
+46:35.020 --> 46:38.880
+ body hair, penis growth during puberty, et cetera.
+
+46:38.880 --> 46:42.100
+ They live fairly happy lives as females,
+
+46:42.100 --> 46:44.060
+ although, of course, they can't conceive, right?
+
+46:44.060 --> 46:47.260
+ They don't have a uterus, they don't have ovaries.
+
+46:47.260 --> 46:50.580
+ They also, in general, don't produce sperm
+
+46:50.580 --> 46:51.500
+ in quantities enough
+
+46:51.500 --> 46:54.020
+ that they could actually reproduce with somebody else,
+
+46:54.020 --> 46:55.580
+ although sometimes they can.
+
+46:55.580 --> 46:58.300
+ And believe it or not, and I'm not going to name names,
+
+46:58.300 --> 47:02.380
+ but there are actually reports of several people,
+
+47:02.380 --> 47:04.540
+ fairly prominent people throughout history,
+
+47:04.540 --> 47:07.200
+ who have had this androgen insensitivity syndrome,
+
+47:07.200 --> 47:09.860
+ or people suspected they did.
+
+47:09.860 --> 47:11.340
+ And the reason to not name names
+
+47:11.340 --> 47:13.380
+ is that it gets right to the heart
+
+47:13.380 --> 47:16.180
+ of whether or not they are male or female.
+
+47:16.180 --> 47:17.560
+ How could you say, right?
+
+47:17.560 --> 47:19.380
+ They have XY chromosomes,
+
+47:19.380 --> 47:22.420
+ but gonadally, they have testes that are inside.
+
+47:22.420 --> 47:24.740
+ And yet, if you looked at their bodies,
+
+47:24.740 --> 47:26.700
+ if you looked at their faces,
+
+47:26.700 --> 47:29.660
+ you would say, almost with certainty,
+
+47:29.660 --> 47:31.900
+ that they appeared female.
+
+47:31.900 --> 47:35.160
+ And that naturally occurring experiment
+
+47:36.100 --> 47:38.700
+ points to the fact that testosterone
+
+47:38.700 --> 47:40.060
+ that shows up in the body
+
+47:40.060 --> 47:42.800
+ and impacts the things at the levels of the receptor
+
+47:42.800 --> 47:44.740
+ has a profound effect on phenotype,
+
+47:44.740 --> 47:47.940
+ on the external or body plan.
+
+47:47.940 --> 47:49.700
+ So again, we're talking about this
+
+47:49.700 --> 47:51.020
+ in order to illustrate the principle
+
+47:51.020 --> 47:53.180
+ that in order to have its effects,
+
+47:53.180 --> 47:55.560
+ a hormone doesn't just have to be present,
+
+47:55.560 --> 47:58.820
+ that hormone actually has to be able to bind its receptor
+
+47:58.820 --> 48:01.920
+ and take action on the target cells.
+
+48:01.920 --> 48:04.540
+ And once again, I'll just throw out the example
+
+48:04.540 --> 48:08.060
+ of where people are using performance-enhancing drugs,
+
+48:08.060 --> 48:09.700
+ although that's a pretty broad statement.
+
+48:09.700 --> 48:11.100
+ Nowadays, there's a lot of excitement
+
+48:11.100 --> 48:12.780
+ about the so-called SARMs,
+
+48:12.780 --> 48:16.140
+ which are more on the receptor side.
+
+48:16.140 --> 48:19.460
+ And so we'll talk about this in a future episode.
+
+48:19.460 --> 48:20.780
+ And I just say that as a teaser
+
+48:20.780 --> 48:23.020
+ because the SARMs and what's happening right now
+
+48:23.020 --> 48:25.160
+ in augmenting sports performance,
+
+48:25.160 --> 48:26.660
+ both with testosterone directly,
+
+48:26.660 --> 48:28.120
+ but also testosterone derivatives,
+
+48:28.120 --> 48:31.300
+ and then also altering things at the level of the receptor
+
+48:31.300 --> 48:32.780
+ is exceedingly interesting
+
+48:32.780 --> 48:36.300
+ and is revealing to us the many ways
+
+48:36.300 --> 48:40.360
+ in which hormones can impact brain and body in ways
+
+48:40.360 --> 48:41.540
+ that we didn't suspect.
+
+48:41.540 --> 48:43.980
+ Perhaps the simplest way to understand
+
+48:43.980 --> 48:48.260
+ how estrogen and testosterone impact masculinization
+
+48:48.260 --> 48:50.700
+ or feminization of the brain and behavior
+
+48:50.700 --> 48:52.620
+ is from a statement.
+
+48:52.620 --> 48:55.020
+ It's actually the closing sentence of an abstract
+
+48:55.020 --> 48:56.460
+ that my colleague Narao Shah
+
+48:56.460 --> 48:59.960
+ at Stanford School of Medicine published,
+
+48:59.960 --> 49:02.500
+ which is that estrogen,
+
+49:02.500 --> 49:06.860
+ again, it's estrogen that is aromatized from testosterone
+
+49:06.860 --> 49:11.860
+ by aromatase, sets up the masculine repertoire of sexual
+
+49:12.160 --> 49:15.580
+ and in animals and in humans, territorial behaviors.
+
+49:15.580 --> 49:17.900
+ So it sets up the circuitry in the brain.
+
+49:17.900 --> 49:19.400
+ Estrogen does that.
+
+49:19.400 --> 49:23.600
+ Estrogen sets up the masculine circuitry in the brain.
+
+49:23.600 --> 49:28.420
+ And testosterone is then what controls the display
+
+49:28.420 --> 49:30.860
+ of those behaviors later in life.
+
+49:30.860 --> 49:33.020
+ And I find that incredibly interesting.
+
+49:33.020 --> 49:35.020
+ You would think it was just testosterone did one thing
+
+49:35.020 --> 49:36.440
+ and estrogen did another,
+
+49:36.440 --> 49:38.040
+ but it turns out that nature
+
+49:38.040 --> 49:40.340
+ is far more interesting than that.
+
+49:40.340 --> 49:41.700
+ Okay, so what are some things
+
+49:41.700 --> 49:45.500
+ that impact sexual development early in life
+
+49:45.500 --> 49:46.700
+ and later in life?
+
+49:47.980 --> 49:51.320
+ Let's talk about cannabis.
+
+49:51.320 --> 49:53.580
+ Let's talk about alcohol.
+
+49:53.580 --> 49:56.700
+ And dare I say, let's talk about cell phones.
+
+49:56.700 --> 49:59.400
+ Something that I never thought I would ever do
+
+49:59.400 --> 50:01.260
+ either in this podcast or in the classroom,
+
+50:01.260 --> 50:04.660
+ but these days there are really interesting data
+
+50:04.660 --> 50:06.340
+ and I think you should be aware of them.
+
+50:06.340 --> 50:10.420
+ First of all, cannabis, marijuana, THC.
+
+50:10.420 --> 50:12.900
+ I realize that there are now
+
+50:12.900 --> 50:15.720
+ a lot of different variants on this.
+
+50:15.720 --> 50:18.520
+ There are a lot of different strains of cannabis.
+
+50:18.520 --> 50:20.940
+ I personally am not a pot smoker.
+
+50:20.940 --> 50:23.060
+ It's just not for me.
+
+50:23.060 --> 50:25.780
+ I'm not talking about the moral or legal implications.
+
+50:25.780 --> 50:27.500
+ In some states it's decriminalized,
+
+50:27.500 --> 50:29.140
+ in other places it's really illegal,
+
+50:29.140 --> 50:31.280
+ in other places it's basically legal.
+
+50:32.140 --> 50:35.900
+ You have to check where you live and understand the laws.
+
+50:35.900 --> 50:37.660
+ That's not what this is about.
+
+50:37.660 --> 50:39.760
+ What we do know, however,
+
+50:39.760 --> 50:42.660
+ is that with the exception of one study,
+
+50:43.620 --> 50:46.780
+ there are many studies that point to the fact
+
+50:46.780 --> 50:51.060
+ that THC and other things in cannabis
+
+50:51.060 --> 50:56.060
+ promote significant increases in aromatase activity.
+
+50:57.140 --> 50:58.660
+ Pot smokers aren't going to like this,
+
+50:58.660 --> 51:00.840
+ especially male pot smokers aren't going to like this,
+
+51:00.840 --> 51:02.140
+ but it's the reality.
+
+51:02.140 --> 51:04.980
+ Remember, what you're hearing in the background
+
+51:04.980 --> 51:06.740
+ is Costello snoring really loud.
+
+51:06.740 --> 51:08.140
+ Should we put him on screen?
+
+51:08.140 --> 51:10.820
+ He's not a cannabis smoker, but you can imagine why.
+
+51:10.820 --> 51:13.340
+ Here, come here Costello, come here buddy, come here.
+
+51:13.340 --> 51:15.060
+ He's asleep, come here.
+
+51:15.060 --> 51:16.100
+ He's like, come here.
+
+51:16.100 --> 51:16.940
+ There you go.
+
+51:20.220 --> 51:23.820
+ This dog definitely does not need cannabis.
+
+51:23.820 --> 51:25.420
+ This is his state for most of the time.
+
+51:25.420 --> 51:27.620
+ He is highly, apparently he's asleep still.
+
+51:27.620 --> 51:30.140
+ So some of you have asked to see Costello.
+
+51:30.140 --> 51:31.460
+ If you're just listening on audio,
+
+51:31.460 --> 51:33.220
+ maybe he'll give us something.
+
+51:33.220 --> 51:34.380
+ That's a, oh, okay.
+
+51:34.380 --> 51:36.260
+ We're going to let him get back to sleep.
+
+51:36.260 --> 51:37.180
+ He's always here.
+
+51:37.180 --> 51:39.060
+ Some of you have asked to see him.
+
+51:39.060 --> 51:40.920
+ Costello is not a pot smoker either.
+
+51:42.460 --> 51:47.460
+ He did have a dog sitter that was a pot smoker years ago.
+
+51:47.860 --> 51:52.860
+ It was his favorite dog sitter, but I'm not a pot smoker.
+
+51:52.980 --> 51:55.980
+ Again, no judgment, but here's the deal.
+
+51:55.980 --> 51:59.980
+ That cannabis, and it's not clear if it's THC itself
+
+51:59.980 --> 52:02.740
+ or other elements in the marijuana plant,
+
+52:02.740 --> 52:05.860
+ promote aromatase activity.
+
+52:05.860 --> 52:09.500
+ Now, this has been observed anecdotally
+
+52:09.500 --> 52:12.040
+ where pot smokers have a higher incidence
+
+52:12.040 --> 52:13.900
+ of developing something I mentioned before,
+
+52:13.900 --> 52:15.940
+ gynecomastia, breast bud development,
+
+52:15.940 --> 52:19.520
+ or full-blown breast development in males.
+
+52:19.520 --> 52:20.540
+ There may be some women
+
+52:20.540 --> 52:24.060
+ who want to increase their estrogenic activity.
+
+52:24.060 --> 52:27.060
+ Remember, females make testosterone.
+
+52:27.060 --> 52:28.960
+ It comes from the adrenals, right?
+
+52:28.960 --> 52:31.900
+ They don't have testes, so it comes from the adrenals,
+
+52:31.900 --> 52:34.420
+ and that testosterone can also be aromatized,
+
+52:34.420 --> 52:37.520
+ although typically most of the aromatase activity
+
+52:37.520 --> 52:39.800
+ that we're referring to in these examples is in males.
+
+52:39.800 --> 52:42.940
+ So testosterone can increase estrogenic activity.
+
+52:42.940 --> 52:44.780
+ So you might say, oh, therefore,
+
+52:44.780 --> 52:49.300
+ does testosterone reduce sexual behavior?
+
+52:49.300 --> 52:51.580
+ Does it create all sorts of things
+
+52:51.580 --> 52:54.980
+ that are related to low testosterone?
+
+52:54.980 --> 52:58.060
+ Not necessarily, not necessarily, and here's why.
+
+52:59.500 --> 53:03.620
+ Estrogen itself in males and females
+
+53:03.620 --> 53:07.640
+ is important for things like libido and sexual behavior.
+
+53:08.940 --> 53:10.120
+ I'm going to repeat that.
+
+53:10.120 --> 53:12.120
+ If estrogen is too low in males,
+
+53:12.120 --> 53:15.820
+ it can actually inhibit libido and sexual behavior.
+
+53:15.820 --> 53:19.740
+ So you don't want estrogen too high or too low,
+
+53:19.740 --> 53:21.660
+ whether or not you're male or female.
+
+53:21.660 --> 53:23.520
+ Now, of course, in females,
+
+53:23.520 --> 53:26.900
+ estrogen levels tend to be higher than in males.
+
+53:26.900 --> 53:28.600
+ I'm speaking very generally here.
+
+53:28.600 --> 53:30.420
+ You just think back to the chromosomal sex.
+
+53:30.420 --> 53:33.260
+ That's what I'm referring to when I say male or female,
+
+53:33.260 --> 53:35.540
+ although there's nuance there, of course.
+
+53:35.540 --> 53:39.900
+ In females, the testosterone that comes from the adrenals
+
+53:39.900 --> 53:44.660
+ has a powerful effect on libido and desire to reproduce,
+
+53:44.660 --> 53:45.540
+ and in the next episode,
+
+53:45.540 --> 53:47.100
+ we're going to talk about how that works
+
+53:47.100 --> 53:48.860
+ in its relationship to birth control,
+
+53:48.860 --> 53:50.500
+ its relationship to menopause.
+
+53:50.500 --> 53:52.780
+ We're also going to talk about how that whole thing works
+
+53:52.780 --> 53:54.440
+ in males as well.
+
+53:54.440 --> 53:59.400
+ But cannabis and other aspects of the marijuana plant
+
+53:59.400 --> 54:02.780
+ can impact levels of testosterone and estrogen
+
+54:02.780 --> 54:04.220
+ by increasing aromatase,
+
+54:04.220 --> 54:06.780
+ and so people should be aware of that.
+
+54:06.780 --> 54:08.540
+ As well, there are good data.
+
+54:08.540 --> 54:10.460
+ I was able to find several studies on PubMed
+
+54:10.460 --> 54:13.180
+ pointing to the fact that smoking marijuana
+
+54:13.180 --> 54:18.140
+ during pregnancy can shift the pattern of hormones
+
+54:18.140 --> 54:20.240
+ in the developing fetus,
+
+54:20.240 --> 54:24.020
+ such that it promotes more estrogenic outcomes.
+
+54:24.020 --> 54:25.900
+ Now, earlier I said that estrogen
+
+54:25.900 --> 54:27.900
+ is what masculinizes the male brain.
+
+54:27.900 --> 54:29.480
+ In utero, that's true,
+
+54:29.480 --> 54:31.420
+ but the way that cannabis seems to work,
+
+54:31.420 --> 54:33.940
+ at least from the studies I was able to identify,
+
+54:33.940 --> 54:38.500
+ is that it promotes circulating estrogen in the body
+
+54:38.500 --> 54:40.460
+ and therefore can counteract
+
+54:40.460 --> 54:42.500
+ some of the masculinizing effects
+
+54:42.500 --> 54:46.900
+ of things like testosterone and dihydrotestosterone
+
+54:46.900 --> 54:49.660
+ on primary and secondary sexual characteristics.
+
+54:49.660 --> 54:52.560
+ So I mention this because, you know,
+
+54:52.560 --> 54:55.980
+ I think nowadays marijuana use is far more widespread
+
+54:55.980 --> 54:57.260
+ and certainly during puberty,
+
+54:57.260 --> 55:01.020
+ it can have profound effects on these hormonal systems.
+
+55:01.020 --> 55:03.020
+ And so we'll do another episode
+
+55:03.020 --> 55:04.180
+ that goes really deep into this,
+
+55:04.180 --> 55:07.540
+ but yes, cannabis promotes estrogenic activity
+
+55:07.540 --> 55:09.840
+ by increasing aromatase.
+
+55:09.840 --> 55:13.260
+ Most everyone can appreciate that drinking during pregnancy
+
+55:13.260 --> 55:15.100
+ is not good for the developing fetus.
+
+55:15.100 --> 55:17.540
+ Fetal alcohol syndrome is a well-established
+
+55:18.440 --> 55:21.240
+ negative outcome of pregnancy.
+
+55:21.240 --> 55:24.100
+ And it's something that there are cognitive effects
+
+55:24.100 --> 55:25.420
+ that are really bad.
+
+55:25.420 --> 55:29.020
+ There's actually physical malformation, et cetera.
+
+55:29.020 --> 55:31.700
+ So drinking during pregnancy, not good.
+
+55:31.700 --> 55:33.900
+ Probably drinking during puberty, not good either
+
+55:33.900 --> 55:38.260
+ because alcohol, in particular, certain things like beer,
+
+55:38.260 --> 55:43.260
+ but other grain alcohols can increase estrogenic activity.
+
+55:43.260 --> 55:48.260
+ Now, this isn't just about protecting young boys
+
+55:49.780 --> 55:51.480
+ from estrogenic activity.
+
+55:51.480 --> 55:56.000
+ It's also protecting girls from excessive
+
+55:56.000 --> 56:01.000
+ or even hypoestrogenic effects of alcohol in puberty.
+
+56:02.000 --> 56:05.900
+ Now, many teenagers drink, college students drink,
+
+56:05.900 --> 56:07.740
+ and it's important to point out that puberty
+
+56:07.740 --> 56:10.980
+ doesn't start on one day and end on another day.
+
+56:10.980 --> 56:13.220
+ Puberty has a beginning, a middle, and an end.
+
+56:13.220 --> 56:16.100
+ But development is really our entire lifespan.
+
+56:16.100 --> 56:20.100
+ This idea that puberty has us open and close,
+
+56:20.100 --> 56:21.460
+ that's just false.
+
+56:21.460 --> 56:23.100
+ Okay, so we talked about cannabis.
+
+56:23.100 --> 56:24.860
+ We talked about alcohol.
+
+56:24.860 --> 56:26.860
+ Let's talk about cell phones.
+
+56:26.860 --> 56:29.860
+ First of all, I use a cell phone.
+
+56:29.860 --> 56:32.240
+ I use it very often,
+
+56:32.240 --> 56:34.380
+ and I do not think they are evil devices.
+
+56:34.380 --> 56:37.920
+ I think that they require some discipline
+
+56:37.920 --> 56:40.820
+ in order to make sure that it does not become
+
+56:40.820 --> 56:42.220
+ a negative force in one's life.
+
+56:42.220 --> 56:44.220
+ So I personally restrict the number of hours
+
+56:44.220 --> 56:47.020
+ that I'm on the phone and in particular on social media.
+
+56:47.020 --> 56:49.860
+ I only answer email at particular times of day.
+
+56:49.860 --> 56:52.520
+ But what about the cell phone itself?
+
+56:53.740 --> 56:56.380
+ When I was a junior professor,
+
+56:56.380 --> 56:58.980
+ I was a pre-tenure, early professor,
+
+56:58.980 --> 57:01.300
+ I taught this class on neural circuits
+
+57:01.300 --> 57:02.700
+ and health and disease.
+
+57:02.700 --> 57:04.860
+ And one of the students asked me,
+
+57:04.860 --> 57:07.140
+ are cell phones safe for the brain?
+
+57:07.140 --> 57:11.860
+ And all the data pointed to the fact that they were,
+
+57:11.860 --> 57:14.980
+ or at least there were no data showing that it wasn't.
+
+57:14.980 --> 57:16.780
+ I still don't have the answer on that, frankly.
+
+57:16.780 --> 57:18.180
+ I don't see a lot of studies about it.
+
+57:18.180 --> 57:20.460
+ I'm not personally aware of any evidence
+
+57:20.460 --> 57:22.220
+ in quality peer-reviewed studies
+
+57:22.220 --> 57:24.520
+ showing that cell phones are bad for the brain
+
+57:24.520 --> 57:26.520
+ or that holding the phone to the ear is bad
+
+57:26.520 --> 57:28.360
+ or that Bluetooth is bad or any of that.
+
+57:28.360 --> 57:30.340
+ I'm just not aware of any quality studies.
+
+57:30.340 --> 57:33.340
+ If you are aware of quality studies, peer-reviewed studies,
+
+57:33.340 --> 57:36.580
+ please reference them, put them in the comment section,
+
+57:36.580 --> 57:38.580
+ send them to me, however you like.
+
+57:38.580 --> 57:39.800
+ I'd love to see them.
+
+57:39.800 --> 57:40.640
+ I'm not aware of them.
+
+57:40.640 --> 57:45.640
+ However, I was very interested in a particular study
+
+57:45.680 --> 57:50.680
+ that was published back in 2013 on rats.
+
+57:51.740 --> 57:53.200
+ It was basically took a cell phone
+
+57:53.200 --> 57:54.820
+ and put it under a cage of rats
+
+57:54.820 --> 57:57.180
+ and looked at basically testicular
+
+57:57.180 --> 57:58.580
+ and ovarian development in rats
+
+57:58.580 --> 58:03.580
+ and saw minor but still statistically significant defects
+
+58:03.900 --> 58:06.640
+ in ovarian and testicular development.
+
+58:06.640 --> 58:11.020
+ Since then, and now returning to the literature,
+
+58:11.020 --> 58:16.020
+ I've seen a absolute explosion of studies,
+
+58:16.060 --> 58:18.260
+ some of which are in quality journals,
+
+58:18.260 --> 58:19.940
+ some of which are in what I would call
+
+58:19.940 --> 58:22.380
+ not blue ribbon journals,
+
+58:22.380 --> 58:27.380
+ identifying defects in testicular and or ovarian development
+
+58:27.900 --> 58:32.900
+ by mere exposure to cell phone emitted waves.
+
+58:33.160 --> 58:34.000
+ Let's just call that.
+
+58:34.000 --> 58:34.980
+ We don't know what they are.
+
+58:34.980 --> 58:37.520
+ And this sounds almost crazy, right?
+
+58:37.520 --> 58:39.420
+ Anytime somebody starts talking about EMFs
+
+58:39.420 --> 58:40.660
+ and things like that, you kind of worry like,
+
+58:40.660 --> 58:41.880
+ is this person okay?
+
+58:41.880 --> 58:45.240
+ But look, the literature are pointing in a direction
+
+58:45.240 --> 58:50.240
+ where chronic exposure of the gonads to cell phones
+
+58:50.580 --> 58:52.420
+ could be creating serious issues
+
+58:52.420 --> 58:55.500
+ in terms of the health at the cellular level
+
+58:55.500 --> 58:56.900
+ and in terms of the output.
+
+58:56.900 --> 59:00.900
+ So the output for the testes would be sperm production.
+
+59:00.900 --> 59:03.560
+ Swimming speed in sperm is an important feature
+
+59:03.560 --> 59:05.380
+ of sperm health. In the ovaries,
+
+59:05.380 --> 59:07.620
+ it would be estrogenic output,
+
+59:07.620 --> 59:10.980
+ how regular the cycles are.
+
+59:10.980 --> 59:13.120
+ So in animals, the cycles are a little bit different
+
+59:13.120 --> 59:15.140
+ than in humans. They don't have a menstrual cycle.
+
+59:15.140 --> 59:16.580
+ They have an estrous cycle,
+
+59:16.580 --> 59:18.460
+ which is generally around four days.
+
+59:20.040 --> 59:23.420
+ I think that it's fair to say based on the literature
+
+59:23.420 --> 59:27.980
+ that there are effects of cell phone emitted waves
+
+59:27.980 --> 59:29.580
+ on gonadal development.
+
+59:29.580 --> 59:33.000
+ The question is, what is the proximity of the cell phone
+
+59:33.000 --> 59:33.840
+ to the gonads?
+
+59:33.840 --> 59:38.020
+ Now I've taken the literature as I observe it.
+
+59:38.020 --> 59:40.940
+ And then of course, we'll point you to in the captions.
+
+59:40.940 --> 59:45.260
+ And I don't like to have my cell phone on and in my pocket.
+
+59:45.260 --> 59:47.180
+ I'm well past puberty, but nonetheless,
+
+59:47.180 --> 59:49.500
+ some of these effects were seen in adult animals.
+
+59:49.500 --> 59:52.500
+ There are effects now that have been demonstrated in humans.
+
+59:52.500 --> 59:55.260
+ So let's just talk about a couple of those effects.
+
+59:55.260 --> 59:58.620
+ So a paper published in the journal Clinical Biochemistry
+
+59:58.620 --> 1:00:03.220
+ from Eskander et al, looked at hormone profiles
+
+1:00:03.220 --> 1:00:08.080
+ in people based on proximity to their phone
+
+1:00:08.080 --> 1:00:09.420
+ and frequency of phone use,
+
+1:00:09.420 --> 1:00:11.460
+ where they stored their phone on their body,
+
+1:00:11.460 --> 1:00:15.660
+ as well as proximity of where they lived to,
+
+1:00:15.660 --> 1:00:19.140
+ I guess they're called these radio frequency towers,
+
+1:00:19.140 --> 1:00:20.760
+ so the base stations.
+
+1:00:20.760 --> 1:00:23.680
+ And they were looking at effects of radio frequency,
+
+1:00:23.680 --> 1:00:27.780
+ radiation, RFR on human hormone profiles.
+
+1:00:27.780 --> 1:00:31.600
+ And they show significant decreases in cortisol.
+
+1:00:31.600 --> 1:00:33.060
+ You might say, well, that might be good,
+
+1:00:33.060 --> 1:00:35.740
+ but you need that morning cortisol bump
+
+1:00:35.740 --> 1:00:38.400
+ in order to wake up, morning cortisol is good.
+
+1:00:38.400 --> 1:00:41.060
+ But also thyroid hormones were significantly reduced.
+
+1:00:41.060 --> 1:00:45.720
+ Prolactin in young females, that's definitely concerning.
+
+1:00:45.720 --> 1:00:48.300
+ And testosterone levels in males and females.
+
+1:00:48.300 --> 1:00:51.340
+ And so there are now quite good data showing
+
+1:00:51.340 --> 1:00:55.220
+ that being close to the phone too much of the day
+
+1:00:55.220 --> 1:00:58.140
+ and how close is an interesting question,
+
+1:00:58.140 --> 1:01:00.620
+ or living near one of these base stations
+
+1:01:00.620 --> 1:01:04.660
+ apparently can have effects on hormone profiles.
+
+1:01:04.660 --> 1:01:08.460
+ And when you see a study like this, one should always ask,
+
+1:01:08.460 --> 1:01:11.040
+ well, what are the other things that could also have effects
+
+1:01:11.040 --> 1:01:12.660
+ on these hormone profiles, right?
+
+1:01:12.660 --> 1:01:15.660
+ Because you could imagine that if you ran the same study
+
+1:01:15.660 --> 1:01:17.660
+ of people that live close to a waterway
+
+1:01:17.660 --> 1:01:20.660
+ or close to a highway where there's a lot of exhaust
+
+1:01:20.660 --> 1:01:23.340
+ from buses and cars, you might see similar effects.
+
+1:01:23.340 --> 1:01:24.920
+ So you have to take these sorts of studies
+
+1:01:24.920 --> 1:01:25.980
+ with a grain of salt.
+
+1:01:25.980 --> 1:01:27.220
+ But I think it's very interesting.
+
+1:01:27.220 --> 1:01:29.620
+ And given that the last time I looked into these data
+
+1:01:29.620 --> 1:01:33.100
+ were way back when I was a junior professor
+
+1:01:33.100 --> 1:01:35.740
+ and there was like one or two studies that I could find,
+
+1:01:35.740 --> 1:01:39.180
+ one of the studies pointed to increases in testosterone
+
+1:01:39.180 --> 1:01:41.420
+ in rats where they had close proximity
+
+1:01:41.420 --> 1:01:45.300
+ to these radio frequency radiation waves.
+
+1:01:45.300 --> 1:01:46.920
+ And then in the other case,
+
+1:01:46.920 --> 1:01:49.500
+ it showed decreases in testosterone.
+
+1:01:49.500 --> 1:01:52.340
+ So there really wasn't any conclusion to take away
+
+1:01:52.340 --> 1:01:53.180
+ from that.
+
+1:01:53.180 --> 1:01:57.220
+ So now there's pretty impressive amount of data
+
+1:01:57.220 --> 1:01:59.360
+ pointing to the fact that there are effects
+
+1:01:59.360 --> 1:02:00.920
+ of these things on hormones.
+
+1:02:00.920 --> 1:02:02.420
+ I don't know what to do with that information.
+
+1:02:02.420 --> 1:02:04.020
+ I'm not going to stop using my phone,
+
+1:02:04.020 --> 1:02:08.500
+ but in light of the work from Tyrone Hayes and others
+
+1:02:08.500 --> 1:02:13.020
+ looking at sperm counts and looking at the decrease
+
+1:02:13.020 --> 1:02:16.140
+ in testosterone levels and sperm counts and fertility
+
+1:02:16.140 --> 1:02:18.420
+ over the last 20, 30 years,
+
+1:02:18.420 --> 1:02:20.840
+ perhaps it's not surprising.
+
+1:02:20.840 --> 1:02:24.580
+ Although there again, cell phones and smartphones
+
+1:02:24.580 --> 1:02:26.380
+ have really been in prominent use
+
+1:02:26.380 --> 1:02:28.460
+ mostly within the last 10 or 11 years.
+
+1:02:28.460 --> 1:02:31.140
+ And so it's hard to explain all of those declines
+
+1:02:31.140 --> 1:02:33.740
+ simply on the basis of cell phone use.
+
+1:02:33.740 --> 1:02:35.540
+ There's some interesting effects of hormones
+
+1:02:35.540 --> 1:02:38.940
+ that actually you can observe on the outside of people
+
+1:02:38.940 --> 1:02:41.300
+ that tell you something about
+
+1:02:41.300 --> 1:02:43.240
+ not just their level of hormones,
+
+1:02:43.240 --> 1:02:45.700
+ but also about their underlying genetics.
+
+1:02:45.700 --> 1:02:48.220
+ And these relate to beard growth and baldness.
+
+1:02:48.220 --> 1:02:49.440
+ And it's fascinating.
+
+1:02:49.440 --> 1:02:52.460
+ The molecule, the hormone,
+
+1:02:52.460 --> 1:02:55.380
+ dihydrotestosterone made from testosterone
+
+1:02:56.580 --> 1:03:00.100
+ is the hormone primarily responsible for facial hair,
+
+1:03:00.100 --> 1:03:01.080
+ for beard growth.
+
+1:03:02.720 --> 1:03:05.100
+ As well, it's the molecule,
+
+1:03:05.100 --> 1:03:08.780
+ the hormone primarily responsible for lack of hair
+
+1:03:08.780 --> 1:03:11.340
+ on the head for hair loss.
+
+1:03:11.340 --> 1:03:12.560
+ So how does that work?
+
+1:03:12.560 --> 1:03:15.620
+ Well, DHT circulates in the body
+
+1:03:15.620 --> 1:03:19.060
+ and it binds to DHT receptors in the face
+
+1:03:19.060 --> 1:03:21.340
+ to promote hair growth.
+
+1:03:21.340 --> 1:03:24.440
+ But it binds to DHT receptors on the scalp
+
+1:03:24.440 --> 1:03:26.140
+ to promote hair loss.
+
+1:03:27.300 --> 1:03:29.620
+ Not incidentally,
+
+1:03:29.620 --> 1:03:33.940
+ the drugs that are designed to prevent hair loss
+
+1:03:33.940 --> 1:03:37.520
+ are 5-alpha reductase inhibitors.
+
+1:03:37.520 --> 1:03:40.140
+ So remember 5-alpha reductase from the huevadosis?
+
+1:03:40.140 --> 1:03:42.540
+ Well, the people that discovered the huevadosis
+
+1:03:42.540 --> 1:03:44.260
+ went on to do a lot of research
+
+1:03:44.260 --> 1:03:46.120
+ on the underlying biochemistry
+
+1:03:46.120 --> 1:03:49.540
+ of this really interesting molecule, dihydrotestosterone.
+
+1:03:49.540 --> 1:03:51.760
+ They identified 5-alpha reductase
+
+1:03:51.760 --> 1:03:55.340
+ and 5-alpha reductase inhibitors
+
+1:03:55.340 --> 1:03:59.140
+ are the basis of most of the anti-hair loss treatments
+
+1:03:59.140 --> 1:04:00.700
+ that are out there.
+
+1:04:00.700 --> 1:04:02.300
+ And so there are some interesting things here.
+
+1:04:02.300 --> 1:04:05.040
+ First of all, the side effect profiles
+
+1:04:05.040 --> 1:04:08.100
+ of those treatments for hair loss
+
+1:04:08.100 --> 1:04:10.240
+ are quite severe in many individuals.
+
+1:04:10.240 --> 1:04:13.820
+ Remember DHT is the primary androgen for libido,
+
+1:04:13.820 --> 1:04:17.540
+ for strength and connective tissue repair,
+
+1:04:17.540 --> 1:04:19.940
+ for aggression,
+
+1:04:19.940 --> 1:04:22.600
+ even if that aggression of course is held in check,
+
+1:04:22.600 --> 1:04:24.540
+ but just sort of ambition and aggression
+
+1:04:24.540 --> 1:04:25.620
+ is related to dopamine,
+
+1:04:25.620 --> 1:04:27.980
+ but within the testosterone pathway,
+
+1:04:27.980 --> 1:04:30.100
+ less so pure testosterone,
+
+1:04:30.100 --> 1:04:31.860
+ although pure testosterone has its effects,
+
+1:04:31.860 --> 1:04:36.380
+ but DHT is at least in primate species including humans
+
+1:04:36.380 --> 1:04:38.080
+ is the dominant androgen
+
+1:04:38.080 --> 1:04:40.640
+ for most of those sorts of effects.
+
+1:04:40.640 --> 1:04:43.560
+ And if you look at somebody,
+
+1:04:43.560 --> 1:04:46.060
+ everyone can predict whether or not
+
+1:04:46.060 --> 1:04:48.300
+ they're going to go bald based on looking at their,
+
+1:04:48.300 --> 1:04:50.260
+ we're always taught our mother's father.
+
+1:04:50.260 --> 1:04:52.620
+ So if your mother's father was bald,
+
+1:04:52.620 --> 1:04:55.500
+ there's a higher probability that you're going to go bald.
+
+1:04:56.420 --> 1:04:58.960
+ The pattern of DHT receptors on the scalp
+
+1:04:58.960 --> 1:04:59.860
+ will dictate whether or not
+
+1:04:59.860 --> 1:05:01.560
+ you're going to go bald everywhere
+
+1:05:01.560 --> 1:05:05.220
+ or just in the front or so called crown type baldness.
+
+1:05:05.220 --> 1:05:06.800
+ And the density of the beard
+
+1:05:06.800 --> 1:05:08.920
+ tells you about the density of DHT receptors.
+
+1:05:08.920 --> 1:05:13.180
+ Now this varies by background, by genetic background.
+
+1:05:13.180 --> 1:05:15.260
+ And actually around the world nowadays,
+
+1:05:15.260 --> 1:05:18.100
+ because people travel and people form couples
+
+1:05:18.100 --> 1:05:20.980
+ and have kids with so many different people
+
+1:05:20.980 --> 1:05:22.420
+ of different mixed cultures,
+
+1:05:22.420 --> 1:05:23.860
+ you're seeing this starting to disappear.
+
+1:05:23.860 --> 1:05:26.080
+ But there are areas of the world
+
+1:05:26.080 --> 1:05:28.740
+ where all the men seem to be,
+
+1:05:28.740 --> 1:05:30.020
+ have the same pattern of baldness,
+
+1:05:30.020 --> 1:05:31.780
+ like a strip of baldness down the center
+
+1:05:31.780 --> 1:05:34.060
+ with hair still on the sides and full beards.
+
+1:05:34.060 --> 1:05:37.180
+ That's because these patterns of DHT receptors
+
+1:05:37.180 --> 1:05:39.020
+ are genetically determined.
+
+1:05:39.020 --> 1:05:42.740
+ Elsewhere, testosterone levels can still be very high.
+
+1:05:42.740 --> 1:05:45.560
+ DHT levels in the blood can be very high.
+
+1:05:45.560 --> 1:05:48.300
+ And yet people will have very light beards or no beards.
+
+1:05:48.300 --> 1:05:49.940
+ And that's because they don't have
+
+1:05:49.940 --> 1:05:52.260
+ a lot of DHT receptors in the face.
+
+1:05:52.260 --> 1:05:53.420
+ And still other cultures,
+
+1:05:53.420 --> 1:05:55.980
+ you'll see people with huge beards,
+
+1:05:55.980 --> 1:05:57.180
+ tons of beard grow like their beards
+
+1:05:57.180 --> 1:05:58.500
+ are growing all the way up to their eyes
+
+1:05:58.500 --> 1:05:59.780
+ and they have huge heads of hair.
+
+1:05:59.780 --> 1:06:01.460
+ And that's because they have a lot of DHT receptors
+
+1:06:01.460 --> 1:06:03.840
+ on the face and not on the scalp.
+
+1:06:03.840 --> 1:06:06.260
+ So there are a lot of effects of DHT
+
+1:06:06.260 --> 1:06:09.380
+ that you can just see in male phenotypes.
+
+1:06:09.380 --> 1:06:12.260
+ And it's interesting that these hair loss drugs
+
+1:06:12.260 --> 1:06:15.920
+ that are, or to prevent hair loss drugs
+
+1:06:15.920 --> 1:06:19.900
+ are directly aimed at preventing the conversion
+
+1:06:19.900 --> 1:06:22.860
+ of testosterone into dihydrotestosterone.
+
+1:06:22.860 --> 1:06:25.960
+ And that's why they, to some extent prevent hair loss,
+
+1:06:25.960 --> 1:06:29.380
+ but also to some extent have a bunch of side effects
+
+1:06:29.380 --> 1:06:31.820
+ that are associated with low DHT.
+
+1:06:31.820 --> 1:06:35.260
+ Along these lines, there's a particular sports supplement
+
+1:06:35.260 --> 1:06:37.780
+ that a lot of people use called creatine.
+
+1:06:37.780 --> 1:06:39.820
+ Creatine now, there's a lot of research
+
+1:06:39.820 --> 1:06:43.700
+ showing that creatine can bring more water into the muscle.
+
+1:06:43.700 --> 1:06:45.820
+ It can support strength.
+
+1:06:45.820 --> 1:06:47.700
+ It does a number of other things.
+
+1:06:47.700 --> 1:06:50.180
+ Might even have some important cognitive promoting,
+
+1:06:50.180 --> 1:06:53.180
+ cognitive enhancement effects, although mild.
+
+1:06:53.180 --> 1:06:56.740
+ The studies there show that it can be significant.
+
+1:06:56.740 --> 1:06:59.660
+ Some people, not all, it's more anecdotal,
+
+1:06:59.660 --> 1:07:01.980
+ report that creatine promotes hair loss.
+
+1:07:03.060 --> 1:07:04.540
+ It differs by individual.
+
+1:07:04.540 --> 1:07:07.340
+ For some people that's true, for others, no.
+
+1:07:07.340 --> 1:07:09.620
+ But yes, it does appear based on the studies
+
+1:07:09.620 --> 1:07:10.920
+ I was able to find on PubMed
+
+1:07:10.920 --> 1:07:15.300
+ that creatine does promote 5-alpha reductase activity
+
+1:07:15.300 --> 1:07:17.420
+ and therefore the conversion of testosterone
+
+1:07:17.420 --> 1:07:19.140
+ into dihydrotestosterone.
+
+1:07:19.140 --> 1:07:21.760
+ And so it makes sense that it might promote
+
+1:07:21.760 --> 1:07:24.980
+ some degree of hair loss, as well as beard growth,
+
+1:07:24.980 --> 1:07:27.220
+ as well as the other effects of DHT.
+
+1:07:28.260 --> 1:07:31.380
+ I recall in junior high school and middle school,
+
+1:07:31.380 --> 1:07:33.140
+ going home one summer, it was seventh grade,
+
+1:07:33.140 --> 1:07:34.100
+ coming back in the eighth grade,
+
+1:07:34.100 --> 1:07:36.000
+ and a kid that I knew that I was friends with
+
+1:07:36.000 --> 1:07:38.380
+ went from being like a young kid to,
+
+1:07:38.380 --> 1:07:40.400
+ he was like a grown man, he had a full beard.
+
+1:07:40.400 --> 1:07:41.240
+ It was amazing.
+
+1:07:41.240 --> 1:07:42.780
+ It was like he would completely transform.
+
+1:07:42.780 --> 1:07:44.420
+ I mean, puberty, as I've said before,
+
+1:07:44.420 --> 1:07:48.220
+ is without a doubt the most accelerated
+
+1:07:48.220 --> 1:07:50.180
+ rate of development that we will go through
+
+1:07:50.180 --> 1:07:53.180
+ at any point in our lives, even faster than infancy,
+
+1:07:53.180 --> 1:07:54.900
+ just in terms of the huge number
+
+1:07:54.900 --> 1:07:58.180
+ of different cognitive changes and physical changes.
+
+1:07:58.180 --> 1:08:00.640
+ Not surprisingly, that same individual
+
+1:08:00.640 --> 1:08:04.820
+ was mostly or bald by his early 20s.
+
+1:08:04.820 --> 1:08:06.000
+ And that's because he must've had
+
+1:08:06.000 --> 1:08:08.020
+ just exceedingly high levels of DHT.
+
+1:08:08.020 --> 1:08:09.380
+ I also played soccer with this kid,
+
+1:08:09.380 --> 1:08:11.180
+ and he was basically like dribbling past everybody.
+
+1:08:11.180 --> 1:08:12.520
+ He was like a grown man playing soccer
+
+1:08:12.520 --> 1:08:13.940
+ with a bunch of little kids.
+
+1:08:13.940 --> 1:08:16.060
+ Full beard, bald at 20.
+
+1:08:16.060 --> 1:08:18.440
+ And so the rate of maturation,
+
+1:08:18.440 --> 1:08:20.940
+ the rate of aging is very interesting.
+
+1:08:20.940 --> 1:08:22.380
+ It's hard to know rate of aging.
+
+1:08:22.380 --> 1:08:24.620
+ There's some genetic tests that now can allow you to do that.
+
+1:08:24.620 --> 1:08:27.540
+ Things like Horvath clocks and things of that sort.
+
+1:08:27.540 --> 1:08:29.500
+ Beautiful work of David Sinclair at Harvard
+
+1:08:29.500 --> 1:08:31.480
+ and others has pointed to this.
+
+1:08:31.480 --> 1:08:36.480
+ The speed of entry and exit from puberty might be,
+
+1:08:36.480 --> 1:08:38.400
+ I'm putting it out there as a hypothesis,
+
+1:08:38.400 --> 1:08:40.100
+ might be an interesting window
+
+1:08:40.100 --> 1:08:42.640
+ into how fast one is going through
+
+1:08:42.640 --> 1:08:44.520
+ their aging or developmental arc,
+
+1:08:44.520 --> 1:08:46.020
+ because development, of course,
+
+1:08:46.020 --> 1:08:48.440
+ doesn't just start at birth and end after puberty.
+
+1:08:48.440 --> 1:08:50.560
+ It continues your entire life.
+
+1:08:50.560 --> 1:08:52.600
+ So I think it's interesting.
+
+1:08:52.600 --> 1:08:57.520
+ You will often see that people, boys and girls,
+
+1:08:57.520 --> 1:08:59.180
+ I should say boys or girls,
+
+1:08:59.180 --> 1:09:02.640
+ will develop secondary sexual characteristics
+
+1:09:02.640 --> 1:09:03.620
+ at different rates.
+
+1:09:03.620 --> 1:09:05.320
+ And sometimes it's sequential.
+
+1:09:05.320 --> 1:09:07.720
+ You might see a kid will,
+
+1:09:07.720 --> 1:09:10.920
+ she'll grow very tall or she'll have a big growth spurt,
+
+1:09:10.920 --> 1:09:13.920
+ but then breast development will come a little bit later.
+
+1:09:13.920 --> 1:09:16.680
+ And then other features will come a little bit later.
+
+1:09:16.680 --> 1:09:17.980
+ You can also see this in boys.
+
+1:09:17.980 --> 1:09:19.680
+ The person that I referred to earlier,
+
+1:09:19.680 --> 1:09:22.800
+ my friend that developed full beard, went bald.
+
+1:09:22.800 --> 1:09:24.000
+ He was also quite muscular.
+
+1:09:24.000 --> 1:09:25.240
+ He's a great athlete.
+
+1:09:25.240 --> 1:09:27.400
+ So he went through puberty exceedingly fast.
+
+1:09:27.400 --> 1:09:29.120
+ Other people go through it more slowly.
+
+1:09:29.120 --> 1:09:32.700
+ Some people will go through puberty at age 14,
+
+1:09:32.700 --> 1:09:35.000
+ but they won't start to accumulate facial hair
+
+1:09:35.000 --> 1:09:36.960
+ until much, much later.
+
+1:09:36.960 --> 1:09:40.040
+ Or their voice will change first very early,
+
+1:09:40.040 --> 1:09:43.240
+ and then they won't get the other secondary
+
+1:09:43.240 --> 1:09:45.720
+ sexual characteristics until much later.
+
+1:09:45.720 --> 1:09:48.280
+ And so we don't really know how that impacts
+
+1:09:48.280 --> 1:09:51.440
+ or relates to overall trajectory or rate of aging,
+
+1:09:51.440 --> 1:09:53.760
+ but it's an interesting thing to think about
+
+1:09:53.760 --> 1:09:55.280
+ for each and every one of us.
+
+1:09:55.280 --> 1:09:56.720
+ I'm going to offer you the opportunity
+
+1:09:56.720 --> 1:10:00.200
+ to do an experiment today while listening to the podcast.
+
+1:10:00.200 --> 1:10:05.200
+ But first I want to tell you a story about hyenas,
+
+1:10:05.540 --> 1:10:10.540
+ professional baseball, and clitorises the size of penises.
+
+1:10:10.920 --> 1:10:15.400
+ So when I was a graduate student at UC Berkeley,
+
+1:10:15.400 --> 1:10:17.740
+ we had a professor in our department,
+
+1:10:17.740 --> 1:10:21.480
+ phenomenal scientist named Steve Glickman.
+
+1:10:21.480 --> 1:10:26.480
+ Steve Glickman had a colony of hyenas, spotted hyenas,
+
+1:10:26.480 --> 1:10:30.540
+ that lived within caged enclosures, of course,
+
+1:10:30.540 --> 1:10:33.180
+ in Tilden Park behind the UC Berkeley campus.
+
+1:10:33.180 --> 1:10:34.920
+ The enclosures are actually still there.
+
+1:10:34.920 --> 1:10:36.960
+ I run past there fairly often.
+
+1:10:36.960 --> 1:10:39.020
+ The hyenas are no longer there.
+
+1:10:39.020 --> 1:10:41.360
+ This was a federally funded field station.
+
+1:10:41.360 --> 1:10:44.600
+ These animals were brought over from Africa
+
+1:10:44.600 --> 1:10:46.480
+ or were bred there.
+
+1:10:46.480 --> 1:10:50.040
+ And the reason why there were hyenas in Tilden Park,
+
+1:10:51.480 --> 1:10:53.480
+ enclosed in Tilden Park,
+
+1:10:53.480 --> 1:10:56.880
+ was because hyenas exhibit an incredible feature
+
+1:10:56.880 --> 1:11:00.600
+ to their body, their hormones, and their social structure.
+
+1:11:02.040 --> 1:11:05.640
+ Hyenas, unlike many species,
+
+1:11:05.640 --> 1:11:08.000
+ have a situation with their genitalia
+
+1:11:08.000 --> 1:11:12.440
+ where the male penis is actually smaller
+
+1:11:12.440 --> 1:11:14.940
+ than the female clitoris.
+
+1:11:14.940 --> 1:11:17.200
+ And I should say that the male penis itself,
+
+1:11:17.200 --> 1:11:20.840
+ having seen a fair number of hyena penises,
+
+1:11:20.840 --> 1:11:22.700
+ is not particularly small,
+
+1:11:22.700 --> 1:11:26.720
+ which means that the hyena clitorises are extremely large.
+
+1:11:27.840 --> 1:11:30.220
+ This was well-known for some time.
+
+1:11:30.220 --> 1:11:33.760
+ It turns out that in these spotted hyenas,
+
+1:11:34.800 --> 1:11:37.000
+ the females are dominant.
+
+1:11:37.000 --> 1:11:39.540
+ So after a kill, the females will eat,
+
+1:11:39.540 --> 1:11:41.240
+ then their young will eat,
+
+1:11:41.240 --> 1:11:43.840
+ and then the male hyenas will eat.
+
+1:11:44.840 --> 1:11:49.040
+ As well, when the female hyena gives birth,
+
+1:11:49.040 --> 1:11:53.080
+ she gives birth not through the vaginal canal
+
+1:11:53.080 --> 1:11:56.440
+ that we're accustomed to seeing,
+
+1:11:56.440 --> 1:12:01.440
+ but through a very enlarged clitoris-like phallus,
+
+1:12:03.140 --> 1:12:05.680
+ although it's not a phallus, it's a clitoris,
+
+1:12:05.680 --> 1:12:07.680
+ and it literally splits open.
+
+1:12:07.680 --> 1:12:09.360
+ So many fetuses die
+
+1:12:09.360 --> 1:12:13.240
+ during the course of hyena development and birth.
+
+1:12:14.440 --> 1:12:16.360
+ These animals have this,
+
+1:12:16.360 --> 1:12:17.920
+ what could only be described
+
+1:12:17.920 --> 1:12:19.960
+ as a very large sort of giant clitoris,
+
+1:12:19.960 --> 1:12:22.280
+ although for a hyena, it's not giant, it's normal.
+
+1:12:22.280 --> 1:12:25.240
+ And it splits open, and the baby actually comes through.
+
+1:12:25.240 --> 1:12:29.100
+ The baby hyena actually comes through the tissue,
+
+1:12:29.100 --> 1:12:31.640
+ and it's a very traumatic birth.
+
+1:12:31.640 --> 1:12:33.880
+ A lot of tissue is torn away, et cetera.
+
+1:12:33.880 --> 1:12:36.840
+ And as I mentioned, a lot of baby hyenas die.
+
+1:12:36.840 --> 1:12:41.840
+ It was a mystery as to how the female hyenas have this,
+
+1:12:42.600 --> 1:12:44.000
+ we'll call it masculinization,
+
+1:12:44.000 --> 1:12:47.000
+ but it's really a androgen, excuse me,
+
+1:12:47.000 --> 1:12:52.000
+ androgenization of the periphery of the genitalia.
+
+1:12:52.480 --> 1:12:55.440
+ And it turns out through a lot of careful research
+
+1:12:55.440 --> 1:13:00.000
+ done by Steve Glickman, Christine Dre, and others,
+
+1:13:00.000 --> 1:13:03.720
+ that it's androstenedione,
+
+1:13:03.720 --> 1:13:06.620
+ what is essentially a pro-hormone to testosterone,
+
+1:13:07.820 --> 1:13:10.520
+ it's androstenedione at very high levels
+
+1:13:10.520 --> 1:13:13.600
+ that's produced in female hyenas
+
+1:13:13.600 --> 1:13:16.640
+ that creates this enlargement of their genitalia.
+
+1:13:16.640 --> 1:13:19.280
+ So if you want to read up on androstenedione,
+
+1:13:19.280 --> 1:13:22.020
+ androstenedione is made into testosterone
+
+1:13:22.020 --> 1:13:27.020
+ through this enzyme, 17-beta hydroxysteroid dehydrogenase.
+
+1:13:29.320 --> 1:13:32.320
+ It's a complicated pathway to pronounce.
+
+1:13:32.320 --> 1:13:35.600
+ It's a fairly straightforward pathway biochemically.
+
+1:13:35.600 --> 1:13:39.240
+ You may recall during the 90s and 2000s,
+
+1:13:39.240 --> 1:13:42.600
+ there were a lot of performance enhancing drug scandals,
+
+1:13:42.600 --> 1:13:45.040
+ in particular in major league baseball.
+
+1:13:45.040 --> 1:13:47.660
+ And it was purported,
+
+1:13:47.660 --> 1:13:49.660
+ although I don't know that it was ever verified,
+
+1:13:49.660 --> 1:13:51.920
+ but it was purported that the major
+
+1:13:53.020 --> 1:13:55.960
+ performance enhancing drug of abuse at that time,
+
+1:13:55.960 --> 1:13:58.000
+ in particular players whose names we won't mention,
+
+1:13:58.000 --> 1:14:00.380
+ but you can Google it if you want to find out,
+
+1:14:00.380 --> 1:14:01.760
+ was androstenedione.
+
+1:14:01.760 --> 1:14:03.480
+ And I actually recall long ago
+
+1:14:03.480 --> 1:14:07.540
+ when you could buy androstenedione in the health food stores.
+
+1:14:07.540 --> 1:14:10.080
+ And so it was sold over the counter.
+
+1:14:10.080 --> 1:14:13.120
+ So a lot's changed since then,
+
+1:14:13.120 --> 1:14:15.360
+ but it's interesting that these hyenas
+
+1:14:15.360 --> 1:14:19.000
+ with these highly androgenized genitalia
+
+1:14:20.440 --> 1:14:24.080
+ accomplish that through high levels of androstenedione
+
+1:14:24.080 --> 1:14:24.920
+ in the females.
+
+1:14:24.920 --> 1:14:27.160
+ Now, if that's unusual,
+
+1:14:27.160 --> 1:14:28.960
+ what might be even more unusual
+
+1:14:28.960 --> 1:14:31.400
+ is that a graduate student that I was working with
+
+1:14:31.400 --> 1:14:34.220
+ at the time, alongside, we didn't share research.
+
+1:14:34.220 --> 1:14:36.520
+ Her name was Nicola Sipka.
+
+1:14:36.520 --> 1:14:40.360
+ She is actually a trained animal behavioral expert.
+
+1:14:40.360 --> 1:14:43.760
+ She had trained ferrets for that show, The Beastmaster,
+
+1:14:43.760 --> 1:14:46.680
+ and she would train wolves for television shows
+
+1:14:46.680 --> 1:14:47.760
+ and was a dog trainer.
+
+1:14:47.760 --> 1:14:49.440
+ She had these two large dogs that,
+
+1:14:49.440 --> 1:14:51.320
+ unlike my dog, would actually listen to her
+
+1:14:51.320 --> 1:14:53.680
+ when she would give them commands.
+
+1:14:53.680 --> 1:14:55.080
+ A remarkable scientist.
+
+1:14:55.080 --> 1:14:58.340
+ She was studying a species of mole
+
+1:14:58.340 --> 1:14:59.860
+ that also lived in Tilden Park.
+
+1:14:59.860 --> 1:15:01.720
+ People are going to start to wonder about Tilden Park.
+
+1:15:01.720 --> 1:15:03.040
+ What's in Tilden Park?
+
+1:15:03.040 --> 1:15:06.640
+ But this particular mole that lived there
+
+1:15:06.640 --> 1:15:09.060
+ had testes for part of the year
+
+1:15:09.060 --> 1:15:12.520
+ and had the capacity to transdifferentiate its testes
+
+1:15:12.520 --> 1:15:15.400
+ into ovaries in order to balance out the ratio
+
+1:15:15.400 --> 1:15:17.260
+ of males and females in the population
+
+1:15:17.260 --> 1:15:20.440
+ to keep reproduction at appropriate levels
+
+1:15:20.440 --> 1:15:22.260
+ for that certain population.
+
+1:15:22.260 --> 1:15:26.200
+ So some animals are actually able to adjust
+
+1:15:26.200 --> 1:15:31.200
+ whether or not they have androgenized or estrogenized gonads
+
+1:15:32.080 --> 1:15:36.840
+ in order to adjust the ratios of offspring
+
+1:15:36.840 --> 1:15:39.840
+ or the males and females in there for promote offspring.
+
+1:15:39.840 --> 1:15:41.960
+ And the last little anecdote about this,
+
+1:15:41.960 --> 1:15:45.120
+ which is also published in the scientific literature,
+
+1:15:45.120 --> 1:15:47.360
+ which is weird, but I do find interesting.
+
+1:15:47.360 --> 1:15:48.680
+ Hormones are so fascinating.
+
+1:15:48.680 --> 1:15:50.480
+ They're just incredible to me,
+
+1:15:50.480 --> 1:15:54.880
+ is going back to the marijuana plant.
+
+1:15:54.880 --> 1:15:57.760
+ The marijuana plant has these estrogenic properties.
+
+1:15:58.860 --> 1:16:02.240
+ And I asked a plant biologist whether or not
+
+1:16:02.240 --> 1:16:03.380
+ this was unusual.
+
+1:16:03.380 --> 1:16:07.500
+ And I asked, because there's all this stuff out there
+
+1:16:07.500 --> 1:16:09.300
+ about, oh, soy does this,
+
+1:16:09.300 --> 1:16:12.940
+ and these plants are highly estrogenic, et cetera,
+
+1:16:12.940 --> 1:16:13.920
+ although we should probably point out
+
+1:16:13.920 --> 1:16:15.820
+ that a lot of factory meats are also estrogenic.
+
+1:16:15.820 --> 1:16:18.020
+ So this isn't a meat versus plants thing.
+
+1:16:18.020 --> 1:16:19.280
+ But this plant biologist told me,
+
+1:16:19.280 --> 1:16:22.640
+ oh yeah, there are plants that make
+
+1:16:22.640 --> 1:16:26.000
+ what is essentially the equivalent of testosterone,
+
+1:16:26.000 --> 1:16:28.520
+ like pine pollen, it looks a lot like testosterone.
+
+1:16:28.520 --> 1:16:30.340
+ And there are other plants that make
+
+1:16:30.340 --> 1:16:33.020
+ what is essentially estrogen.
+
+1:16:33.020 --> 1:16:34.740
+ And I said, well, why would they do that?
+
+1:16:34.740 --> 1:16:37.620
+ And plants, at least as far as I know,
+
+1:16:37.620 --> 1:16:38.580
+ don't have a consciousness.
+
+1:16:38.580 --> 1:16:39.540
+ They don't have a brain.
+
+1:16:39.540 --> 1:16:41.180
+ They don't have neurons even.
+
+1:16:41.180 --> 1:16:45.220
+ But his answer was fascinating.
+
+1:16:45.220 --> 1:16:48.020
+ He said that one of the reasons
+
+1:16:48.020 --> 1:16:51.080
+ why some plants have evolved this capacity
+
+1:16:51.080 --> 1:16:56.080
+ to increase estrogen levels in animals that smoke,
+
+1:16:56.420 --> 1:16:58.680
+ not smoke it, but then animals that consume them,
+
+1:16:58.680 --> 1:17:00.540
+ I'm guessing that animals aren't smoking marijuana,
+
+1:17:00.540 --> 1:17:03.060
+ although, I don't know, send me the paper
+
+1:17:03.060 --> 1:17:04.000
+ if you've heard of this,
+
+1:17:04.000 --> 1:17:06.840
+ is that plants have figured out ways,
+
+1:17:06.840 --> 1:17:10.060
+ they've adapted ways to push back on populations
+
+1:17:10.060 --> 1:17:13.060
+ of rodents and other species of animals that eat them.
+
+1:17:13.060 --> 1:17:17.660
+ So plants are engaged in a kind of plant to animal warfare
+
+1:17:17.660 --> 1:17:19.340
+ where they increase the estrogen
+
+1:17:19.340 --> 1:17:22.140
+ of the males in that population to lower the sperm counts
+
+1:17:22.140 --> 1:17:25.420
+ to keep those populations clamped at certain levels
+
+1:17:25.420 --> 1:17:28.300
+ so that those plants can continue to flourish
+
+1:17:28.300 --> 1:17:33.140
+ even if those animals are reproducing very robustly.
+
+1:17:33.140 --> 1:17:35.180
+ And I find this just fascinating.
+
+1:17:35.180 --> 1:17:37.740
+ And hormones, therefore,
+
+1:17:37.740 --> 1:17:41.860
+ aren't just impacting tissue growth and development
+
+1:17:41.860 --> 1:17:44.340
+ within the individual and between the mother.
+
+1:17:44.340 --> 1:17:46.380
+ Remember, the placenta is an endocrine organ
+
+1:17:46.380 --> 1:17:47.340
+ and the offspring.
+
+1:17:47.340 --> 1:17:49.840
+ But plants and animals are in this communication.
+
+1:17:49.840 --> 1:17:51.360
+ And today we're in this communication.
+
+1:17:51.360 --> 1:17:53.540
+ I'm telling you that there are certain herbicides
+
+1:17:53.540 --> 1:17:56.020
+ that humans are using for which there's very good data
+
+1:17:56.020 --> 1:17:59.360
+ are disrupting the endocrine pathways.
+
+1:17:59.360 --> 1:18:03.140
+ And so it's fascinating that humans and other animals
+
+1:18:03.140 --> 1:18:05.340
+ were always in this interplay with plants
+
+1:18:05.340 --> 1:18:07.900
+ and the other things in our environment.
+
+1:18:07.900 --> 1:18:10.940
+ And hormones and adjusting the hormone levels
+
+1:18:10.940 --> 1:18:14.100
+ of animals and plants is one way in which the environment
+
+1:18:14.100 --> 1:18:17.180
+ kind of pushes back or pushes forward, if you will,
+
+1:18:17.180 --> 1:18:20.740
+ in terms of promoting their wellbeing and longevity
+
+1:18:20.740 --> 1:18:21.960
+ as well as you trying to promote
+
+1:18:21.960 --> 1:18:23.800
+ your wellbeing and longevity.
+
+1:18:23.800 --> 1:18:25.940
+ If anyone wants to see the incredible paper
+
+1:18:25.940 --> 1:18:27.900
+ by Steve Glickman and colleagues,
+
+1:18:27.900 --> 1:18:30.020
+ it was published in the Prosthenes of the National Academy
+
+1:18:30.020 --> 1:18:32.260
+ first in 1987.
+
+1:18:32.260 --> 1:18:33.380
+ That's Glickman et al.
+
+1:18:33.380 --> 1:18:35.860
+ That was the hypothesis that it was androstenedione.
+
+1:18:35.860 --> 1:18:40.860
+ And then if you just Google Glickman Hyenas Science Magazine,
+
+1:18:41.100 --> 1:18:43.620
+ there's a beautiful cover article
+
+1:18:43.620 --> 1:18:45.820
+ and feature all about that important discovery.
+
+1:18:45.820 --> 1:18:47.220
+ It's a fascinating one.
+
+1:18:47.220 --> 1:18:50.300
+ And I should mention also that those discoveries,
+
+1:18:50.300 --> 1:18:54.260
+ both the moles and the hyenas weren't just impactful
+
+1:18:54.260 --> 1:18:56.460
+ for the world of animal behavior and endocrinology.
+
+1:18:56.460 --> 1:18:59.460
+ They've also strongly impacted understanding
+
+1:18:59.460 --> 1:19:01.620
+ of conditions that show up in the clinic,
+
+1:19:01.620 --> 1:19:03.580
+ which we haven't talked about today,
+
+1:19:03.580 --> 1:19:06.040
+ which is actually pseudo hermaphroditism.
+
+1:19:06.040 --> 1:19:09.140
+ Occasionally babies will be born where it is unclear
+
+1:19:09.140 --> 1:19:13.220
+ if they are boys or girls based on the genitalia.
+
+1:19:13.220 --> 1:19:17.900
+ And this has a very important ethical and other issues.
+
+1:19:17.900 --> 1:19:19.980
+ Do you raise them as a boy or a girl?
+
+1:19:19.980 --> 1:19:23.580
+ It's not super uncommon for this to happen.
+
+1:19:23.580 --> 1:19:27.160
+ And there've been terrible cases where people have gone
+
+1:19:27.160 --> 1:19:32.160
+ against the chromosomal sex and the person was very unhappy
+
+1:19:32.780 --> 1:19:34.900
+ with the choice that their parents had made for them.
+
+1:19:34.900 --> 1:19:36.620
+ There were also cases where they've gone
+
+1:19:36.620 --> 1:19:39.100
+ with the chromosomal sex and the person was very happy
+
+1:19:39.100 --> 1:19:39.940
+ about the outcome.
+
+1:19:39.940 --> 1:19:41.340
+ There've been cases where they've been treated
+
+1:19:41.340 --> 1:19:43.100
+ with hormones and there've been cases
+
+1:19:43.100 --> 1:19:44.620
+ where they have not been treated with hormones.
+
+1:19:44.620 --> 1:19:49.620
+ It's a complicated literature and it has to be sorted out
+
+1:19:50.860 --> 1:19:52.380
+ on kind of a case by case basis,
+
+1:19:52.380 --> 1:19:54.060
+ but it is something that does happen.
+
+1:19:54.060 --> 1:19:56.940
+ And the studies on androstenedione and hyenas
+
+1:19:56.940 --> 1:19:59.860
+ and in these very interesting moles,
+
+1:19:59.860 --> 1:20:02.820
+ pseudo hermaphroditic moles that live in Tilden Park
+
+1:20:02.820 --> 1:20:05.040
+ have impacted not just the science,
+
+1:20:05.040 --> 1:20:08.260
+ but the therapeutics around those important issues.
+
+1:20:08.260 --> 1:20:10.520
+ So now last but not least,
+
+1:20:10.520 --> 1:20:13.860
+ I want to discuss the effects of hormones
+
+1:20:13.860 --> 1:20:18.580
+ while you and I were separately in utero
+
+1:20:18.580 --> 1:20:22.300
+ and the effects that that had on who we are,
+
+1:20:24.060 --> 1:20:28.980
+ who we select as mates, so mate choice, sexual preference,
+
+1:20:28.980 --> 1:20:31.620
+ and all other aspects
+
+1:20:31.620 --> 1:20:35.380
+ of what you would call sexual development.
+
+1:20:35.380 --> 1:20:38.620
+ Now, this is something that's gotten a lot of popular press
+
+1:20:38.620 --> 1:20:42.260
+ and it has to do with how exposure to androgens
+
+1:20:42.260 --> 1:20:46.380
+ in particular while we were in utero impacted
+
+1:20:46.380 --> 1:20:50.180
+ whether or not people report as homosexual, heterosexual,
+
+1:20:50.180 --> 1:20:52.720
+ identify as male or female.
+
+1:20:52.720 --> 1:20:54.220
+ I'm very familiar with this work
+
+1:20:54.220 --> 1:20:56.100
+ because I was a graduate student in the department
+
+1:20:56.100 --> 1:20:57.300
+ that first published this work
+
+1:20:57.300 --> 1:20:59.580
+ and I'm an author on the paper.
+
+1:20:59.580 --> 1:21:01.620
+ I was not the main driver of the work,
+
+1:21:01.620 --> 1:21:03.540
+ but I was involved in the work
+
+1:21:03.540 --> 1:21:06.100
+ and I certainly know the people that did this work.
+
+1:21:07.780 --> 1:21:09.420
+ First, it starts with a story.
+
+1:21:10.680 --> 1:21:13.760
+ There was a researcher who's still going now.
+
+1:21:13.760 --> 1:21:16.460
+ His name is Dennis McFadden.
+
+1:21:16.460 --> 1:21:19.060
+ I believe he was at UT Austin back then
+
+1:21:19.060 --> 1:21:22.220
+ and he was studying the auditory system
+
+1:21:22.220 --> 1:21:23.540
+ and people would come into his clinic
+
+1:21:23.540 --> 1:21:25.700
+ and he would, or his laboratory,
+
+1:21:25.700 --> 1:21:28.560
+ and he would look at hearing
+
+1:21:28.560 --> 1:21:30.120
+ and he would explore different aspects
+
+1:21:30.120 --> 1:21:31.740
+ of what they call the psychophysics of hearing
+
+1:21:31.740 --> 1:21:33.300
+ and understanding hearing thresholds
+
+1:21:33.300 --> 1:21:34.820
+ and frequency thresholds.
+
+1:21:34.820 --> 1:21:36.800
+ And he made several observations
+
+1:21:38.060 --> 1:21:43.060
+ and those observations were that young males
+
+1:21:43.060 --> 1:21:47.060
+ tended to have what are called autoacoustic emissions
+
+1:21:47.060 --> 1:21:49.780
+ more often than young females did.
+
+1:21:49.780 --> 1:21:52.180
+ Autoacoustic emissions, as the name suggests,
+
+1:21:52.180 --> 1:21:54.620
+ are the ears actually making sounds.
+
+1:21:54.620 --> 1:21:56.100
+ Now, these sounds have to be picked up
+
+1:21:56.100 --> 1:21:57.420
+ by a special apparatus
+
+1:21:57.420 --> 1:21:58.880
+ because they can hear into that frequency,
+
+1:21:58.880 --> 1:22:00.220
+ but it turns out that your ears
+
+1:22:00.220 --> 1:22:02.440
+ don't just take sound waves
+
+1:22:02.440 --> 1:22:04.220
+ and convert them into these things,
+
+1:22:04.220 --> 1:22:05.280
+ this thing we call hearing,
+
+1:22:05.280 --> 1:22:07.500
+ but they also, in some cases, make sounds.
+
+1:22:07.500 --> 1:22:10.360
+ So your ears are making sounds, strange, right?
+
+1:22:10.360 --> 1:22:14.420
+ So it turns out that there's a sex difference
+
+1:22:14.420 --> 1:22:16.740
+ in autoacoustic emissions.
+
+1:22:16.740 --> 1:22:20.460
+ Turns out also that people that self-report as lesbians,
+
+1:22:21.820 --> 1:22:24.180
+ they also have autoacoustic emissions
+
+1:22:24.180 --> 1:22:26.460
+ significantly more than females
+
+1:22:26.460 --> 1:22:29.460
+ that don't self-report as lesbian.
+
+1:22:29.460 --> 1:22:33.520
+ And Dennis noticed this and published this,
+
+1:22:33.520 --> 1:22:35.340
+ and it was an important discovery
+
+1:22:35.340 --> 1:22:38.360
+ because it was one of the first discoveries
+
+1:22:38.360 --> 1:22:43.360
+ that pointed to the fact that there are sex differences
+
+1:22:44.140 --> 1:22:46.900
+ in biology that are independent of sex.
+
+1:22:46.900 --> 1:22:49.140
+ I mean, this is hearing in autoacoustic emissions.
+
+1:22:49.140 --> 1:22:54.100
+ And just to really illustrate what the former problem was
+
+1:22:54.100 --> 1:22:56.600
+ and why this study was so important,
+
+1:22:56.600 --> 1:22:58.640
+ a lot of people had explored, for instance,
+
+1:22:58.640 --> 1:23:03.640
+ whether or not homosexuals had lower testosterone,
+
+1:23:03.840 --> 1:23:04.740
+ for instance, in males.
+
+1:23:04.740 --> 1:23:06.740
+ And actually the result often was the opposite,
+
+1:23:06.740 --> 1:23:09.980
+ that gay men or men that self-report as gay
+
+1:23:09.980 --> 1:23:12.420
+ often had much higher testosterone.
+
+1:23:12.420 --> 1:23:15.040
+ And those studies then became controversial
+
+1:23:15.040 --> 1:23:16.860
+ because people said, well,
+
+1:23:16.860 --> 1:23:19.460
+ sexual behavior can relate to testosterone, et cetera.
+
+1:23:19.460 --> 1:23:21.220
+ And so it became very controversial.
+
+1:23:21.220 --> 1:23:22.660
+ And then there were some studies
+
+1:23:22.660 --> 1:23:25.500
+ that attempted to look at the equivalent phenomenon
+
+1:23:25.500 --> 1:23:28.100
+ in people that self-report as lesbian
+
+1:23:28.100 --> 1:23:30.260
+ or self-report as heterosexual.
+
+1:23:30.260 --> 1:23:31.820
+ And so it became very complicated,
+
+1:23:31.820 --> 1:23:36.160
+ but this was an identification of a phenomenon,
+
+1:23:36.160 --> 1:23:39.020
+ autoacoustic emissions, that was independent of anything
+
+1:23:39.020 --> 1:23:41.580
+ that had to do with sexual or even social behavior.
+
+1:23:43.140 --> 1:23:44.940
+ 1998 rolls around,
+
+1:23:45.820 --> 1:23:48.900
+ and I'm a graduate student at UC Berkeley
+
+1:23:48.900 --> 1:23:50.900
+ and a guy by the name of Mark Breedlove,
+
+1:23:50.900 --> 1:23:54.000
+ kind of an ironic name given that he worked
+
+1:23:54.000 --> 1:23:57.320
+ and still works on sexual dimorphism in the brain
+
+1:23:57.320 --> 1:23:59.380
+ and in the spinal cord and nervous system.
+
+1:23:59.380 --> 1:24:02.360
+ And Mark, who's a phenomenal scientist,
+
+1:24:03.260 --> 1:24:05.600
+ comes running down the hall, I'll never forget this,
+
+1:24:05.600 --> 1:24:06.980
+ and he said, give me your hands.
+
+1:24:06.980 --> 1:24:08.220
+ I was like, give me your hands.
+
+1:24:08.220 --> 1:24:10.560
+ And he pulls out a ruler and he starts measuring my fingers.
+
+1:24:10.560 --> 1:24:11.860
+ And he takes down a couple of measurements
+
+1:24:11.860 --> 1:24:13.620
+ and then he goes away.
+
+1:24:13.620 --> 1:24:15.500
+ And I'm like, what was that?
+
+1:24:15.500 --> 1:24:18.340
+ Well, I was in a course that Mark was teaching
+
+1:24:18.340 --> 1:24:19.820
+ at that point.
+
+1:24:19.820 --> 1:24:24.820
+ And soon after we did a study that Mark directed,
+
+1:24:26.060 --> 1:24:29.020
+ exploring the finger length ratios,
+
+1:24:29.020 --> 1:24:30.660
+ and I'll explain what those are,
+
+1:24:30.660 --> 1:24:34.020
+ of males and females
+
+1:24:34.020 --> 1:24:35.780
+ and people that self-reported
+
+1:24:35.780 --> 1:24:38.480
+ as homosexual or heterosexual.
+
+1:24:38.480 --> 1:24:40.780
+ So let's just get to the basic,
+
+1:24:40.780 --> 1:24:43.520
+ what we'll call sex differences first.
+
+1:24:43.520 --> 1:24:45.380
+ These are averages I want to point out.
+
+1:24:45.380 --> 1:24:46.980
+ Anytime you get into this kind of topic,
+
+1:24:46.980 --> 1:24:49.340
+ people assume it's causal, but it's not causal.
+
+1:24:49.340 --> 1:24:51.580
+ These are averages that I'm about to report.
+
+1:24:52.820 --> 1:24:55.520
+ It is the case that the ratio
+
+1:24:55.520 --> 1:24:57.980
+ of what's called the D2 to D4 digits.
+
+1:24:57.980 --> 1:24:59.860
+ So the D2 is your index finger.
+
+1:24:59.860 --> 1:25:01.100
+ So your thumb is D1,
+
+1:25:01.100 --> 1:25:03.580
+ then D2 would be your index finger that you would point with.
+
+1:25:03.580 --> 1:25:06.300
+ Middle finger is D3, which you whatever with.
+
+1:25:06.300 --> 1:25:10.500
+ And then D4 is the so-called ring finger, okay?
+
+1:25:10.500 --> 1:25:11.760
+ And D5 is the pinky.
+
+1:25:12.860 --> 1:25:17.860
+ It is the case that the D2 to D4 ratio
+
+1:25:18.060 --> 1:25:23.060
+ is greater in self-reported females than it is in males.
+
+1:25:23.620 --> 1:25:24.460
+ What does that mean?
+
+1:25:24.460 --> 1:25:29.460
+ It means that digit D2 and D4 are more similar in length
+
+1:25:29.940 --> 1:25:31.700
+ in females than in males.
+
+1:25:31.700 --> 1:25:34.760
+ And the effect is particularly, excuse me,
+
+1:25:34.760 --> 1:25:39.180
+ pronounced on the right hand, although not always, okay?
+
+1:25:39.180 --> 1:25:41.420
+ And it does not have to do with handedness.
+
+1:25:41.420 --> 1:25:45.820
+ This D2 to D4 difference has to be measured correctly.
+
+1:25:45.820 --> 1:25:47.680
+ You can't just look at somebody's hands and say,
+
+1:25:47.680 --> 1:25:51.960
+ oh, their ring finger and index finger are very similar
+
+1:25:51.960 --> 1:25:54.260
+ and therefore they are female
+
+1:25:55.640 --> 1:25:58.880
+ or they were exposed to very little testosterone in utero.
+
+1:25:58.880 --> 1:26:00.260
+ You can't look at somebody
+
+1:26:00.260 --> 1:26:02.200
+ and see that their index finger is much shorter
+
+1:26:02.200 --> 1:26:04.040
+ than their ring finger and say,
+
+1:26:04.040 --> 1:26:06.740
+ oh, they must've been exposed to a lot of androgen.
+
+1:26:06.740 --> 1:26:07.900
+ You have to actually measure it
+
+1:26:07.900 --> 1:26:09.860
+ and you have to measure it correctly.
+
+1:26:09.860 --> 1:26:12.380
+ You have to measure it from the base of the finger
+
+1:26:12.380 --> 1:26:15.220
+ where there's that first crease all the way to the tip
+
+1:26:15.220 --> 1:26:17.660
+ past the, you can't include the fingernails
+
+1:26:17.660 --> 1:26:18.580
+ if you're growing fingernails,
+
+1:26:18.580 --> 1:26:20.180
+ it would be logical here, folks.
+
+1:26:21.620 --> 1:26:24.940
+ So you can't normally see it from the back of the hand,
+
+1:26:24.940 --> 1:26:26.900
+ although I don't know if this will show up here,
+
+1:26:26.900 --> 1:26:29.260
+ but if you look at the back of the hand,
+
+1:26:29.260 --> 1:26:30.580
+ sometimes you can see it.
+
+1:26:30.580 --> 1:26:33.980
+ In my case, for instance, let me see if I can do this.
+
+1:26:33.980 --> 1:26:37.720
+ So my D4 is a little bit longer than my D2.
+
+1:26:37.720 --> 1:26:39.380
+ In some people it's more pronounced
+
+1:26:39.380 --> 1:26:40.300
+ and that's on my right hand.
+
+1:26:40.300 --> 1:26:41.120
+ On the other hand,
+
+1:26:41.120 --> 1:26:42.620
+ the difference actually is far less pronounced.
+
+1:26:42.620 --> 1:26:47.160
+ It's a little bit pronounced there, but not so much.
+
+1:26:47.160 --> 1:26:50.600
+ So that's sort of the typical ratio that you would see.
+
+1:26:51.600 --> 1:26:54.740
+ Turns out that in mice and in humans,
+
+1:26:54.740 --> 1:26:59.180
+ the more androgen that you were exposed to in utero,
+
+1:27:00.140 --> 1:27:01.980
+ the smaller the D4, D2 ratio,
+
+1:27:01.980 --> 1:27:05.780
+ meaning that the ring finger tends to be slightly longer
+
+1:27:05.780 --> 1:27:07.460
+ than the pointer finger.
+
+1:27:07.460 --> 1:27:08.440
+ And in females,
+
+1:27:08.440 --> 1:27:13.120
+ because they're exposed to less androgen in utero typically,
+
+1:27:13.120 --> 1:27:15.320
+ then those fingers tend to be more equal in length.
+
+1:27:15.320 --> 1:27:18.040
+ And these are subtle differences and these are averages.
+
+1:27:18.040 --> 1:27:19.920
+ I invite you to look up the paper.
+
+1:27:19.920 --> 1:27:21.800
+ This was published in Nature in 2000
+
+1:27:21.800 --> 1:27:26.400
+ and it's been replicated six times.
+
+1:27:26.400 --> 1:27:28.640
+ Now here's where it gets even more interesting
+
+1:27:30.020 --> 1:27:31.520
+ and potentially precarious.
+
+1:27:31.520 --> 1:27:33.480
+ So we're going to step cautiously here.
+
+1:27:34.760 --> 1:27:37.260
+ If you look at the finger length ratios
+
+1:27:37.260 --> 1:27:40.640
+ of men that self-report as homosexual,
+
+1:27:40.640 --> 1:27:43.320
+ they have either the typical male pattern
+
+1:27:43.320 --> 1:27:45.600
+ of D2 to D4 ratio
+
+1:27:45.600 --> 1:27:49.200
+ or a hyper masculinized D4 to D2 ratio.
+
+1:27:49.200 --> 1:27:51.600
+ Now this can't be something that's established
+
+1:27:51.600 --> 1:27:53.680
+ or modified by behavior.
+
+1:27:53.680 --> 1:27:56.040
+ This has to be something that was established in utero.
+
+1:27:56.040 --> 1:28:00.480
+ And in fact, it's present at birth, okay?
+
+1:28:00.480 --> 1:28:03.720
+ So it completely divorces the interactions
+
+1:28:03.720 --> 1:28:05.280
+ between hormones and behavior.
+
+1:28:05.280 --> 1:28:07.160
+ And that's an important theme that we've been talking about
+
+1:28:07.160 --> 1:28:08.900
+ and we're going to talk about even more next episode
+
+1:28:08.900 --> 1:28:10.400
+ is that hormones impact behavior
+
+1:28:10.400 --> 1:28:12.100
+ but behavior also impact hormones.
+
+1:28:12.100 --> 1:28:14.860
+ But this is a case of hormones impacting
+
+1:28:14.860 --> 1:28:16.340
+ what really should be considered
+
+1:28:16.340 --> 1:28:18.780
+ a primary sexual characteristic
+
+1:28:18.780 --> 1:28:20.240
+ because it doesn't show up in puberty.
+
+1:28:20.240 --> 1:28:21.400
+ It shows up before puberty.
+
+1:28:21.400 --> 1:28:23.880
+ It's actually established in utero.
+
+1:28:23.880 --> 1:28:27.040
+ And in people that self-reported lesbians,
+
+1:28:27.040 --> 1:28:29.160
+ and I remember going out there and collecting these data
+
+1:28:29.160 --> 1:28:31.860
+ with the collaborators on this work.
+
+1:28:31.860 --> 1:28:33.620
+ Again, I wasn't the main driver on the work
+
+1:28:33.620 --> 1:28:36.200
+ but I participated in some of the analysis.
+
+1:28:36.200 --> 1:28:38.160
+ People that self-report as lesbians
+
+1:28:38.160 --> 1:28:43.160
+ also tend to have a smaller D2 to D4 ratio.
+
+1:28:43.560 --> 1:28:46.400
+ So this is consistent with the autocoustic emissions study
+
+1:28:46.400 --> 1:28:48.200
+ that Dennis McFadden had published.
+
+1:28:48.200 --> 1:28:51.860
+ And it points to the fact that early exposure to androgens
+
+1:28:51.860 --> 1:28:54.600
+ may have an impact,
+
+1:28:54.600 --> 1:28:59.540
+ not just on androgenization of the body plan
+
+1:28:59.540 --> 1:29:04.540
+ but also separately on sexual preference.
+
+1:29:04.660 --> 1:29:06.940
+ Now, this raises all sorts of interesting questions
+
+1:29:06.940 --> 1:29:08.960
+ about biological basis of sexual preference.
+
+1:29:08.960 --> 1:29:10.800
+ I'll tell you about another study,
+
+1:29:10.800 --> 1:29:13.780
+ a guy named Simon LeVay who was at UCLA
+
+1:29:13.780 --> 1:29:16.560
+ who trained under Hubel and Wiesel.
+
+1:29:16.560 --> 1:29:18.720
+ If any of you remember early episodes on plasticity,
+
+1:29:18.720 --> 1:29:20.280
+ David Hubel and Torrance and Wiesel,
+
+1:29:20.280 --> 1:29:22.860
+ my scientific great-grandparents won the Nobel Prize
+
+1:29:22.860 --> 1:29:26.620
+ for discovery of critical periods for brain plasticity.
+
+1:29:26.620 --> 1:29:28.600
+ They defined some of the most important aspects
+
+1:29:28.600 --> 1:29:31.600
+ of how we see and brain plasticity.
+
+1:29:31.600 --> 1:29:33.840
+ Simon LeVay trained with them.
+
+1:29:33.840 --> 1:29:36.300
+ And then Simon went on to discover
+
+1:29:36.300 --> 1:29:40.620
+ that in the brains of people that self-report homosexual,
+
+1:29:40.620 --> 1:29:42.400
+ there is a brain difference.
+
+1:29:42.400 --> 1:29:43.960
+ And the brain difference is in an area
+
+1:29:43.960 --> 1:29:45.520
+ called the interstitial nucleus
+
+1:29:45.520 --> 1:29:47.560
+ of the anterior hypothalamus.
+
+1:29:47.560 --> 1:29:50.440
+ So it's the INAH.
+
+1:29:50.440 --> 1:29:54.720
+ And so there are published reports
+
+1:29:54.720 --> 1:29:56.340
+ that was published in Science.
+
+1:29:56.340 --> 1:29:58.120
+ The other work I refer to as published in Nature
+
+1:29:58.120 --> 1:30:00.680
+ and then replicated no fewer than six times
+
+1:30:00.680 --> 1:30:02.600
+ and the McFadden results that point
+
+1:30:02.600 --> 1:30:07.600
+ to strong biological correlates of mate choice
+
+1:30:09.480 --> 1:30:11.560
+ of sexual preference.
+
+1:30:11.560 --> 1:30:16.560
+ And these tie directly to things like androgenization
+
+1:30:17.420 --> 1:30:20.280
+ or estrogenization, meaning we could call it maleness
+
+1:30:20.280 --> 1:30:22.600
+ or femaleness, but that's sort of tricky territory
+
+1:30:22.600 --> 1:30:24.700
+ because of the way that we described the huge range
+
+1:30:24.700 --> 1:30:27.000
+ in which sex can be defined earlier.
+
+1:30:27.000 --> 1:30:31.800
+ So if you want to measure D2, D4 ratio, you're welcome to,
+
+1:30:31.800 --> 1:30:33.960
+ but you also have to understand
+
+1:30:33.960 --> 1:30:36.720
+ that it's not predictive of anything, right?
+
+1:30:36.720 --> 1:30:40.000
+ It's just a window into the possible androgen exposure
+
+1:30:40.000 --> 1:30:41.560
+ that you had early in life.
+
+1:30:41.560 --> 1:30:44.680
+ There are plenty of men who report themselves
+
+1:30:44.680 --> 1:30:46.360
+ as heterosexual who are out there
+
+1:30:46.360 --> 1:30:50.320
+ who have similar or have D2, D4 ratios to females.
+
+1:30:50.320 --> 1:30:52.800
+ And there are plenty of females whose index fingers
+
+1:30:52.800 --> 1:30:54.480
+ are shorter than their ring fingers
+
+1:30:54.480 --> 1:30:55.760
+ and they're perfectly happy
+
+1:30:55.760 --> 1:30:57.540
+ or they say they're perfectly happy
+
+1:30:57.540 --> 1:31:00.120
+ and we are inclined to believe them being heterosexual.
+
+1:31:00.120 --> 1:31:01.080
+ So there's variation.
+
+1:31:01.080 --> 1:31:03.080
+ In fact, Mark tells a really good joke.
+
+1:31:04.400 --> 1:31:07.240
+ If you want to know whether or not somebody is homosexual
+
+1:31:07.240 --> 1:31:10.780
+ or heterosexual, simply look at their hands,
+
+1:31:10.780 --> 1:31:15.240
+ look at their D2, D4 ratio and guess heterosexual
+
+1:31:15.240 --> 1:31:17.520
+ and you'll be right 96% of the time
+
+1:31:17.520 --> 1:31:20.560
+ because 96% of the time people report themselves
+
+1:31:20.560 --> 1:31:23.680
+ as heterosexual on average, those numbers might be changing.
+
+1:31:23.680 --> 1:31:26.120
+ So the joke really is a joke on science
+
+1:31:26.120 --> 1:31:28.420
+ because that falls within the realm
+
+1:31:28.420 --> 1:31:29.960
+ of statistical significance
+
+1:31:29.960 --> 1:31:31.820
+ and yet it really illustrates the fact
+
+1:31:31.820 --> 1:31:33.800
+ that none of this is causal,
+
+1:31:33.800 --> 1:31:35.600
+ but it's nonetheless very interesting
+
+1:31:35.600 --> 1:31:37.840
+ because it means that hormones are organizing
+
+1:31:37.840 --> 1:31:39.280
+ the brain early in development
+
+1:31:39.280 --> 1:31:42.840
+ in ways that can potentially impact same
+
+1:31:42.840 --> 1:31:45.940
+ or opposite sex partner choice later in life.
+
+1:31:45.940 --> 1:31:47.080
+ Now, of course, there are other things
+
+1:31:47.080 --> 1:31:48.800
+ that can impact opposite sex
+
+1:31:48.800 --> 1:31:51.200
+ or same sex partner choice later in life.
+
+1:31:51.200 --> 1:31:54.600
+ The study did not look at people who reported bisexual.
+
+1:31:54.600 --> 1:31:57.760
+ There hasn't been a lot of studies on that yet.
+
+1:31:57.760 --> 1:31:59.400
+ One thing that's very interesting
+
+1:31:59.400 --> 1:32:01.960
+ for which there are some good scientific data
+
+1:32:01.960 --> 1:32:03.720
+ but there's also some controversy
+
+1:32:03.720 --> 1:32:07.600
+ is that it appears that the probability
+
+1:32:07.600 --> 1:32:11.840
+ of a male human self-reporting as homosexual
+
+1:32:11.840 --> 1:32:16.400
+ increases with the number of older brothers that he has.
+
+1:32:16.400 --> 1:32:18.240
+ Now, that doesn't mean if you have an older brother
+
+1:32:18.240 --> 1:32:19.800
+ even if you have 10 older brothers
+
+1:32:19.800 --> 1:32:22.860
+ that you are sure to self-report as homosexual,
+
+1:32:22.860 --> 1:32:26.840
+ but statistically it becomes more likely
+
+1:32:26.840 --> 1:32:30.360
+ that somebody will with each successive older brother
+
+1:32:30.360 --> 1:32:31.520
+ that they have.
+
+1:32:31.520 --> 1:32:33.160
+ And the idea that's starting to emerge
+
+1:32:33.160 --> 1:32:37.120
+ in the developmental neuroendocrinology landscape
+
+1:32:37.120 --> 1:32:41.120
+ is that there's a record within the mother
+
+1:32:41.120 --> 1:32:43.400
+ of how many male fetuses she's carried
+
+1:32:43.400 --> 1:32:46.360
+ because male fetuses are secreting certain things,
+
+1:32:46.360 --> 1:32:48.680
+ dihydrotestosterone, other things
+
+1:32:48.680 --> 1:32:51.840
+ that can feed back onto the genome.
+
+1:32:51.840 --> 1:32:53.360
+ So these could be epigenomic effects
+
+1:32:53.360 --> 1:32:55.700
+ or onto the placenta itself
+
+1:32:55.700 --> 1:32:57.640
+ so that there's a higher probability
+
+1:32:57.640 --> 1:32:59.480
+ in subsequent pregnancies
+
+1:32:59.480 --> 1:33:02.880
+ that offspring will self-report as homosexual.
+
+1:33:02.880 --> 1:33:05.040
+ So it's a fascinating area of biology.
+
+1:33:05.040 --> 1:33:06.500
+ And as you've noticed today,
+
+1:33:06.500 --> 1:33:09.680
+ none of this deals with the current controversies
+
+1:33:09.680 --> 1:33:12.980
+ around gender and how many genders and sex, et cetera.
+
+1:33:12.980 --> 1:33:16.460
+ That's a separate conversation that is by definition
+
+1:33:16.460 --> 1:33:18.260
+ grounded in the kind of concepts
+
+1:33:18.260 --> 1:33:19.680
+ we've been talking about today
+
+1:33:19.680 --> 1:33:22.760
+ and needs to take place taking into consideration
+
+1:33:22.760 --> 1:33:26.200
+ all of the aspects of sex and the effects of hormones
+
+1:33:26.200 --> 1:33:28.560
+ both on the body, on the brain.
+
+1:33:28.560 --> 1:33:30.000
+ We didn't talk a lot about spinal cord
+
+1:33:30.000 --> 1:33:32.120
+ but we will in the next episode
+
+1:33:32.120 --> 1:33:34.720
+ but we can just say on the brain and the periphery
+
+1:33:34.720 --> 1:33:38.080
+ early effects, late effects, acute effects
+
+1:33:38.080 --> 1:33:40.160
+ meaning effects that are very fast
+
+1:33:40.160 --> 1:33:42.240
+ of levels of hormones going up or down
+
+1:33:42.240 --> 1:33:43.700
+ something that absolutely happens
+
+1:33:43.700 --> 1:33:46.340
+ during and across the menstrual cycle
+
+1:33:46.340 --> 1:33:47.920
+ as well as long-term effects
+
+1:33:47.920 --> 1:33:51.680
+ like the effects of these hormones on gene expression.
+
+1:33:51.680 --> 1:33:55.480
+ So today, as always, we weren't able to cover
+
+1:33:55.480 --> 1:33:59.640
+ all things related to sex and hormones
+
+1:33:59.640 --> 1:34:02.820
+ and sexual differentiation or development.
+
+1:34:02.820 --> 1:34:04.120
+ There's no way we could
+
+1:34:04.120 --> 1:34:06.320
+ but we have covered a lot of material.
+
+1:34:06.320 --> 1:34:10.360
+ We talked about some effects of environmental toxins.
+
+1:34:10.360 --> 1:34:12.920
+ We talked about potential effects of cell phone radiation
+
+1:34:12.920 --> 1:34:15.720
+ something I never thought that I would be talking about
+
+1:34:15.720 --> 1:34:17.380
+ especially not in a podcast
+
+1:34:17.380 --> 1:34:19.420
+ but for which there are interesting emerging data.
+
+1:34:19.420 --> 1:34:23.340
+ We talked about considerations about evening primrose oil
+
+1:34:23.340 --> 1:34:25.460
+ and its estrogenic effects, about creatine
+
+1:34:25.460 --> 1:34:29.140
+ and its pro DHT effects, about cannabis alcohol
+
+1:34:29.140 --> 1:34:31.760
+ about plants exerting warfare on animals
+
+1:34:31.760 --> 1:34:33.160
+ by increasing aromatase
+
+1:34:33.160 --> 1:34:35.160
+ the conversion of testosterone to estrogen.
+
+1:34:35.160 --> 1:34:37.360
+ We talked about hyenas with giant clitorises
+
+1:34:37.360 --> 1:34:40.200
+ and we talked about moles that can convert
+
+1:34:40.200 --> 1:34:43.520
+ from having ovaries to testicles.
+
+1:34:43.520 --> 1:34:46.480
+ And throughout this Costello has been snoring nonstop.
+
+1:34:46.480 --> 1:34:48.000
+ He missed all of it
+
+1:34:48.000 --> 1:34:50.300
+ although he might be learning it in his sleep
+
+1:34:50.300 --> 1:34:51.840
+ for all I know.
+
+1:34:51.840 --> 1:34:54.960
+ And I do understand it's a lot of information
+
+1:34:54.960 --> 1:34:57.320
+ a lot of detail as always, I just want to remind you
+
+1:34:57.320 --> 1:35:00.040
+ you don't have to absorb all the information at once.
+
+1:35:00.040 --> 1:35:02.640
+ Next episode, we are going to be talking about
+
+1:35:02.640 --> 1:35:06.720
+ the science of sex, the verb, actual reproduction.
+
+1:35:06.720 --> 1:35:09.480
+ We're also going to be talking about effects of hormones
+
+1:35:09.480 --> 1:35:11.700
+ on various aspects of behavior
+
+1:35:11.700 --> 1:35:14.160
+ and ways to modulate hormones
+
+1:35:14.160 --> 1:35:19.160
+ through the use of behavior, supplementation.
+
+1:35:19.240 --> 1:35:22.040
+ Also, we'll touch on diet and nutrition a bit.
+
+1:35:22.040 --> 1:35:24.040
+ And we're going to talk about interactions
+
+1:35:24.040 --> 1:35:26.120
+ between those things and behavior
+
+1:35:26.120 --> 1:35:28.240
+ as they relate to important themes
+
+1:35:28.240 --> 1:35:32.280
+ like sex and reproduction, like workplace performance
+
+1:35:32.280 --> 1:35:34.860
+ like motivation and drive, and even anxiety.
+
+1:35:34.860 --> 1:35:36.840
+ There's a very interesting relationship
+
+1:35:36.840 --> 1:35:39.200
+ between hormones and anxiety
+
+1:35:39.200 --> 1:35:42.400
+ and the desire to explore novelty.
+
+1:35:42.400 --> 1:35:44.240
+ So just remember as we go forward
+
+1:35:44.240 --> 1:35:46.400
+ that hormones affect behavior
+
+1:35:46.400 --> 1:35:48.760
+ and behavior affects hormones
+
+1:35:48.760 --> 1:35:51.000
+ but that doesn't mean that cutting off your index finger
+
+1:35:51.000 --> 1:35:53.120
+ will increase your testosterone.
+
+1:35:53.120 --> 1:35:55.920
+ Many of you have asked how you can help support the podcast
+
+1:35:55.920 --> 1:35:57.700
+ and we thank you for the question.
+
+1:35:57.700 --> 1:35:59.020
+ There are several ways to do that.
+
+1:35:59.020 --> 1:36:01.080
+ The first one is to subscribe on YouTube.
+
+1:36:01.080 --> 1:36:03.040
+ If you haven't subscribed to the YouTube channel already
+
+1:36:03.040 --> 1:36:04.280
+ please do so.
+
+1:36:04.280 --> 1:36:06.040
+ As well, please hit the subscribe button
+
+1:36:06.040 --> 1:36:08.400
+ so you're sure not to miss any of the episodes.
+
+1:36:08.400 --> 1:36:10.520
+ We do release episodes every Monday
+
+1:36:10.520 --> 1:36:14.400
+ but we also occasionally release short clips in between.
+
+1:36:14.400 --> 1:36:17.720
+ As well, if you could subscribe on Apple and or Spotify
+
+1:36:17.720 --> 1:36:18.800
+ that's very helpful.
+
+1:36:18.800 --> 1:36:20.960
+ And on Apple, you have the opportunity to leave us
+
+1:36:20.960 --> 1:36:24.360
+ up to a five-star review and to leave a comment.
+
+1:36:24.360 --> 1:36:27.240
+ On YouTube, please do leave us comments and suggestions
+
+1:36:27.240 --> 1:36:28.560
+ for future episodes.
+
+1:36:28.560 --> 1:36:30.100
+ We really appreciate the feedback
+
+1:36:30.100 --> 1:36:32.200
+ and we appreciate those suggestions.
+
+1:36:32.200 --> 1:36:35.120
+ Also ask us any questions you have about the material.
+
+1:36:35.120 --> 1:36:37.780
+ Those questions help guide our office hours,
+
+1:36:37.780 --> 1:36:39.440
+ this discussion about your questions
+
+1:36:39.440 --> 1:36:40.840
+ that we hold from time to time
+
+1:36:40.840 --> 1:36:43.420
+ as well as inform future content.
+
+1:36:43.420 --> 1:36:45.500
+ Also, if you could tell people about the podcast
+
+1:36:45.500 --> 1:36:48.040
+ please tell your family, your friends, your coworkers
+
+1:36:48.040 --> 1:36:50.460
+ anyone that you think might benefit from the material.
+
+1:36:50.460 --> 1:36:52.700
+ That really helps us get the word out.
+
+1:36:52.700 --> 1:36:55.180
+ As well, if you're interested in supplements
+
+1:36:55.180 --> 1:36:58.860
+ we've partnered with Thorne, T-H-O-R-N-E.
+
+1:36:58.860 --> 1:36:59.940
+ And we've partnered with Thorne
+
+1:36:59.940 --> 1:37:02.400
+ because Thorne has the highest level of stringency
+
+1:37:02.400 --> 1:37:04.120
+ with respect to the ingredients
+
+1:37:04.120 --> 1:37:05.800
+ that they put in their products
+
+1:37:05.800 --> 1:37:09.480
+ as well as the precise amounts of those contents.
+
+1:37:09.480 --> 1:37:10.840
+ A lot of supplement brands out there
+
+1:37:10.840 --> 1:37:13.480
+ claim to have X amount of some supplement
+
+1:37:13.480 --> 1:37:15.520
+ but then when people have measured
+
+1:37:15.520 --> 1:37:17.000
+ the amount in capsules and tablets
+
+1:37:17.000 --> 1:37:18.120
+ it's turned out to be very different.
+
+1:37:18.120 --> 1:37:19.520
+ Thorne is very precise about this.
+
+1:37:19.520 --> 1:37:23.160
+ They partnered with important and stringent institutions
+
+1:37:23.160 --> 1:37:25.260
+ like the Mayo Clinic, all the major sports teams.
+
+1:37:25.260 --> 1:37:27.300
+ So that's why we partnered with Thorne.
+
+1:37:27.300 --> 1:37:29.160
+ If you want to try any of Thorne's products
+
+1:37:29.160 --> 1:37:31.380
+ if you want to see what I take, you can go to Thorne
+
+1:37:31.380 --> 1:37:36.380
+ that's thorne.com slash the letter U slash Huberman.
+
+1:37:36.760 --> 1:37:37.600
+ And if you do that
+
+1:37:37.600 --> 1:37:39.080
+ you can see any of the products that I take
+
+1:37:39.080 --> 1:37:41.500
+ you can get 20% off any of those
+
+1:37:41.500 --> 1:37:43.800
+ as well as 20% off any of the other products
+
+1:37:43.800 --> 1:37:45.040
+ that Thorne makes.
+
+1:37:45.040 --> 1:37:48.720
+ So that's thorne.com slash U slash Huberman.
+
+1:37:48.720 --> 1:37:50.440
+ Please also check out our sponsors
+
+1:37:50.440 --> 1:37:51.680
+ check out the sponsor links.
+
+1:37:51.680 --> 1:37:54.400
+ That's perhaps the best way to support us.
+
+1:37:54.400 --> 1:37:56.060
+ And of course, I want to point out
+
+1:37:56.060 --> 1:37:58.160
+ that any of the ways that support us
+
+1:37:58.160 --> 1:37:59.440
+ whether or not they are cost-free
+
+1:37:59.440 --> 1:38:00.940
+ like subscribing and leaving comments
+
+1:38:00.940 --> 1:38:03.200
+ or whether or not you're interested in the products
+
+1:38:03.200 --> 1:38:05.840
+ that I've referred to, those all help us.
+
+1:38:05.840 --> 1:38:07.880
+ And so we really appreciate it.
+
+1:38:07.880 --> 1:38:09.520
+ So once again, I want to thank you
+
+1:38:09.520 --> 1:38:12.140
+ for embarking on this journey through neuroscience
+
+1:38:12.140 --> 1:38:15.160
+ and today neuroendocrinology with me.
+
+1:38:15.160 --> 1:38:17.800
+ And as always, thank you for your interest in science.
+
+1:38:17.800 --> 1:38:19.720
+ I'll see you next time.
+

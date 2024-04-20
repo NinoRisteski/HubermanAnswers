@@ -1,0 +1,7229 @@
+WEBVTT
+
+00:00.000 --> 00:02.260
+ Welcome to the Huberman Lab Podcast,
+
+00:02.260 --> 00:04.900
+ where we discuss science and science-based tools
+
+00:04.900 --> 00:05.900
+ for everyday life.
+
+00:09.140 --> 00:11.620
+ I'm Andrew Huberman, and I'm a professor of neurobiology
+
+00:11.620 --> 00:14.740
+ and ophthalmology at Stanford School of Medicine.
+
+00:14.740 --> 00:17.280
+ Today, my guest is Dr. Wendy Suzuki.
+
+00:17.280 --> 00:20.100
+ Dr. Suzuki is a professor of neuroscience and psychology
+
+00:20.100 --> 00:23.100
+ at New York University, and one of the leading researchers
+
+00:23.100 --> 00:25.380
+ in the area of learning and memory.
+
+00:25.380 --> 00:27.540
+ Her laboratory has contributed fundamental
+
+00:27.540 --> 00:29.980
+ textbook understanding of how brain areas,
+
+00:29.980 --> 00:32.940
+ such as the hippocampus, which you will learn about today,
+
+00:32.940 --> 00:36.440
+ how the hippocampus and related brain circuits allow us
+
+00:36.440 --> 00:39.180
+ to take certain experiences and commit them to memory
+
+00:39.180 --> 00:41.740
+ so that we can use that information in the future.
+
+00:41.740 --> 00:45.060
+ Dr. Suzuki is also an expert public educator
+
+00:45.060 --> 00:46.660
+ in the realm of science.
+
+00:46.660 --> 00:49.220
+ A few years back, she had a TED Talk
+
+00:49.220 --> 00:50.740
+ that essentially went viral.
+
+00:50.740 --> 00:51.860
+ If you haven't seen it already,
+
+00:51.860 --> 00:53.680
+ you should absolutely check it out.
+
+00:53.680 --> 00:57.820
+ In which she describes her experience using exercise
+
+00:57.820 --> 01:00.260
+ as a way to enhance learning and memory.
+
+01:00.260 --> 01:02.640
+ And on the basis of that personal experience,
+
+01:02.640 --> 01:05.620
+ she reshaped her laboratory to explore how things
+
+01:05.620 --> 01:09.160
+ like meditation, exercise, and other things that we can do
+
+01:09.160 --> 01:12.100
+ with our physiology and our psychology can allow us
+
+01:12.100 --> 01:15.700
+ to learn faster, to commit things to memory longer,
+
+01:15.700 --> 01:18.440
+ and indeed to reshape our cognitive performance
+
+01:18.440 --> 01:20.360
+ in a variety of settings.
+
+01:20.360 --> 01:22.300
+ As such, I am delighted to announce
+
+01:22.300 --> 01:25.460
+ that Dr. Suzuki is now not only running a laboratory
+
+01:25.460 --> 01:28.300
+ at New York University, but she is the incoming Dean
+
+01:28.300 --> 01:30.860
+ of Arts and Science at New York University.
+
+01:30.860 --> 01:32.660
+ And of course, she was selected for that role
+
+01:32.660 --> 01:35.980
+ for her many talents, but one of the important aspects
+
+01:35.980 --> 01:38.460
+ of her program, she tells me, is going to be
+
+01:38.460 --> 01:42.140
+ to incorporate the incredible power of exercise,
+
+01:42.140 --> 01:44.540
+ meditation, and other behavioral practices
+
+01:44.540 --> 01:48.260
+ for enhancing learning, for improving stress management,
+
+01:48.260 --> 01:50.740
+ and other things to optimize student performance.
+
+01:50.740 --> 01:52.660
+ Today, you are going to get access
+
+01:52.660 --> 01:55.140
+ to much of that information so that you can apply
+
+01:55.140 --> 01:58.060
+ those tools in your daily life as well.
+
+01:58.060 --> 02:01.900
+ Dr. Suzuki is also an author of several important books.
+
+02:01.900 --> 02:04.260
+ The most recent one is entitled Good Anxiety,
+
+02:04.260 --> 02:07.620
+ Harnessing the Power of the Most Misunderstood Emotion,
+
+02:07.620 --> 02:10.300
+ and a previous book entitled Healthy Brain, Happy Life,
+
+02:10.300 --> 02:12.300
+ A Personal Program to Activate Your Brain
+
+02:12.300 --> 02:14.100
+ and Do Everything Better.
+
+02:14.100 --> 02:18.560
+ And while that is admittedly a very pop science type title,
+
+02:18.560 --> 02:21.380
+ I will remind you that she is one of the preeminent
+
+02:21.380 --> 02:23.540
+ memory researchers in the world
+
+02:23.540 --> 02:25.980
+ and has been for quite a while.
+
+02:25.980 --> 02:28.540
+ So the information that you'll glean from those books
+
+02:28.540 --> 02:32.140
+ is both rich in depth and breadth and is highly applicable.
+
+02:32.140 --> 02:33.760
+ By the end of today's discussion,
+
+02:33.760 --> 02:36.020
+ you will have learned from Dr. Suzuki
+
+02:36.020 --> 02:38.960
+ a large amount of knowledge about how memories are formed,
+
+02:38.960 --> 02:42.340
+ how they are lost, and you will have a much larger kit
+
+02:42.340 --> 02:46.180
+ of tools to apply for your efforts to learn better,
+
+02:46.180 --> 02:48.580
+ to remember better, and to apply that information
+
+02:48.580 --> 02:50.420
+ in the ways that best serve you.
+
+02:50.420 --> 02:52.940
+ Before we begin, I'd like to emphasize that this podcast
+
+02:52.940 --> 02:55.860
+ is separate from my teaching and research roles at Stanford.
+
+02:55.860 --> 02:58.040
+ It is, however, part of my desire and effort
+
+02:58.040 --> 03:00.500
+ to bring zero cost to consumer information about science
+
+03:00.500 --> 03:03.340
+ and science-related tools to the general public.
+
+03:03.340 --> 03:04.380
+ In keeping with that theme,
+
+03:04.380 --> 03:07.160
+ I'd like to thank the sponsors of today's podcast.
+
+03:07.160 --> 03:09.380
+ Our first sponsor is Athletic Greens.
+
+03:09.380 --> 03:10.980
+ Athletic Greens is an all-in-one
+
+03:10.980 --> 03:13.420
+ vitamin mineral probiotic drink.
+
+03:13.420 --> 03:16.140
+ I've been taking Athletic Greens since 2012,
+
+03:16.140 --> 03:18.580
+ so I'm delighted that they're sponsoring the podcast.
+
+03:18.580 --> 03:20.460
+ The reason I started taking Athletic Greens
+
+03:20.460 --> 03:22.000
+ and the reason I still take Athletic Greens
+
+03:22.000 --> 03:24.260
+ once or twice a day is that it meets
+
+03:24.260 --> 03:27.660
+ all my foundational vitamin mineral and probiotic needs.
+
+03:27.660 --> 03:29.740
+ In fact, whenever people ask me
+
+03:29.740 --> 03:31.540
+ if I were to only take one supplement,
+
+03:31.540 --> 03:32.820
+ which supplement should I take?
+
+03:32.820 --> 03:35.460
+ I tell them Athletic Greens for the simple reason
+
+03:35.460 --> 03:37.140
+ that it covers your base of vitamins,
+
+03:37.140 --> 03:38.640
+ minerals, and probiotics.
+
+03:38.640 --> 03:40.500
+ It also has important adaptogens,
+
+03:40.500 --> 03:42.740
+ digestive enzymes for gut health.
+
+03:42.740 --> 03:45.300
+ All of this is very important because we now know
+
+03:45.300 --> 03:48.860
+ that gut health and the so-called gut-brain axis
+
+03:48.860 --> 03:52.100
+ is very important for things like mood and brain function,
+
+03:52.100 --> 03:54.940
+ and also contributes to immune system function.
+
+03:54.940 --> 03:57.900
+ With Athletic Greens, you're covering all those bases,
+
+03:57.900 --> 04:00.060
+ and of course, you need to eat a nutrition
+
+04:00.060 --> 04:01.940
+ and healthy diet that's right for you.
+
+04:01.940 --> 04:04.080
+ But by taking Athletic Greens once or twice a day,
+
+04:04.080 --> 04:05.760
+ you can be sure that there are going to be no gaps
+
+04:05.760 --> 04:07.820
+ or deficiencies in your vitamin, mineral,
+
+04:07.820 --> 04:09.900
+ or probiotic needs.
+
+04:09.900 --> 04:11.940
+ I mix mine with water and a little bit of lemon juice
+
+04:11.940 --> 04:14.780
+ or lime juice, and I personally find it delicious.
+
+04:14.780 --> 04:16.100
+ If you'd like to try Athletic Greens,
+
+04:16.100 --> 04:19.040
+ you can go to athleticgreens.com slash Huberman
+
+04:19.040 --> 04:20.220
+ to claim a special offer.
+
+04:20.220 --> 04:21.980
+ They'll give you five free travel packs
+
+04:21.980 --> 04:24.980
+ plus a year supply of vitamin D3K2,
+
+04:24.980 --> 04:26.380
+ both of which are also vital
+
+04:26.380 --> 04:28.300
+ for immediate and long-term health.
+
+04:28.300 --> 04:31.500
+ So once again, if you go to athleticgreens.com slash Huberman
+
+04:31.500 --> 04:34.420
+ you can get a special offer of five free travel packs
+
+04:34.420 --> 04:36.340
+ to make it easy to mix up Athletic Greens
+
+04:36.340 --> 04:38.780
+ while you're in the car or otherwise traveling.
+
+04:38.780 --> 04:42.180
+ Plus, they'll give you the year supply of vitamin D3K2.
+
+04:42.180 --> 04:44.980
+ Today's episode is also brought to us by Inside Tracker.
+
+04:44.980 --> 04:47.540
+ Inside Tracker is a personalized nutrition platform
+
+04:47.540 --> 04:50.100
+ that analyzes data from your blood and DNA
+
+04:50.100 --> 04:51.700
+ to help you better understand your body
+
+04:51.700 --> 04:53.880
+ and help you reach your health goals.
+
+04:53.880 --> 04:56.820
+ I've long been a believer in getting regular blood work done
+
+04:56.820 --> 04:59.100
+ for the simple reason that many of the factors
+
+04:59.100 --> 05:01.380
+ that impact your immediate and long-term health
+
+05:01.380 --> 05:03.960
+ can only be analyzed from a quality blood test.
+
+05:03.960 --> 05:06.760
+ And nowadays with the advent of modern DNA tests,
+
+05:06.760 --> 05:08.820
+ you can also get insight into, for instance,
+
+05:08.820 --> 05:10.300
+ what your biological age is
+
+05:10.300 --> 05:11.960
+ and compare that to your chronological age.
+
+05:11.960 --> 05:13.500
+ And of course, your biological age
+
+05:13.500 --> 05:16.260
+ is the number that really matters.
+
+05:16.260 --> 05:18.720
+ With Inside Tracker, there's a distinct advantage.
+
+05:18.720 --> 05:21.140
+ And the advantage is that while there are many blood tests
+
+05:21.140 --> 05:22.180
+ and DNA tests out there,
+
+05:22.180 --> 05:24.540
+ Inside Tracker's blood and DNA tests
+
+05:24.540 --> 05:28.460
+ come also with a platform, meaning a website platform
+
+05:28.460 --> 05:32.340
+ that allows you to see exactly what you could or should do
+
+05:32.340 --> 05:35.700
+ in order to adjust the numbers on things like hormone levels,
+
+05:35.700 --> 05:38.180
+ metabolic factors, and lipids, and so on.
+
+05:38.180 --> 05:39.340
+ It's a little pop-up window.
+
+05:39.340 --> 05:41.860
+ It points to nutritional, supplementation,
+
+05:41.860 --> 05:43.620
+ and behavioral regimens that you can take
+
+05:43.620 --> 05:45.540
+ in order to put those numbers in the ranges
+
+05:45.540 --> 05:46.940
+ that are optimal for you.
+
+05:46.940 --> 05:48.420
+ If you'd like to try Inside Tracker,
+
+05:48.420 --> 05:51.260
+ you can visit insidetracker.com slash Huberman
+
+05:51.260 --> 05:54.060
+ to get 20% off any of Inside Tracker's plans.
+
+05:54.060 --> 05:57.900
+ That's insidetracker.com slash Huberman to get 20% off.
+
+05:57.900 --> 06:00.540
+ Today's episode is also brought to us by Blinkist.
+
+06:00.540 --> 06:03.660
+ Blinkist is an app that has thousands of nonfiction books,
+
+06:03.660 --> 06:05.580
+ each condensed down to just 15 minutes
+
+06:05.580 --> 06:07.780
+ of key takeaways for those books.
+
+06:07.780 --> 06:10.160
+ I love reading books from front to back.
+
+06:10.160 --> 06:11.580
+ I like the actual physical book.
+
+06:11.580 --> 06:12.940
+ I'm sort of old fashioned in that way.
+
+06:12.940 --> 06:15.100
+ And I do also listen to audio books.
+
+06:15.100 --> 06:18.480
+ It's very rare that I don't finish a book that I've started.
+
+06:18.480 --> 06:21.020
+ Nonetheless, I like to revisit some of my favorite books.
+
+06:21.020 --> 06:23.260
+ I also like to write down key takeaways from those books,
+
+06:23.260 --> 06:26.620
+ sometimes even before I listen to the full length book.
+
+06:26.620 --> 06:28.980
+ So I don't mind spoiling the takeaways
+
+06:28.980 --> 06:30.120
+ because when I read nonfiction,
+
+06:30.120 --> 06:31.380
+ generally I'm trying to extract
+
+06:31.380 --> 06:33.260
+ the most valuable knowledge from them.
+
+06:33.260 --> 06:36.180
+ So I often listen to a Blinkist 15 minute version,
+
+06:36.180 --> 06:39.480
+ then the full length book, or sometimes the full length book
+
+06:39.480 --> 06:41.500
+ and then the Blinkist 15 minute version,
+
+06:41.500 --> 06:44.500
+ either way, Blinkist is a great way to get through any book
+
+06:44.500 --> 06:46.920
+ and to extract the best from those books.
+
+06:46.920 --> 06:48.960
+ I've used it for, for instance, Matt Walker's,
+
+06:48.960 --> 06:51.980
+ Why We Sleep, an excellent book on why we sleep,
+
+06:51.980 --> 06:55.020
+ as well as Tim Ferriss's, The Four Hour Body,
+
+06:55.020 --> 06:59.100
+ Nassim Taleb's, The Black Swan, and so on and so on.
+
+06:59.100 --> 07:01.580
+ With Blinkist, you get unlimited access to read or listen
+
+07:01.580 --> 07:04.180
+ to a massive library of nonfiction books.
+
+07:04.180 --> 07:06.540
+ It really is a treasure trove of information.
+
+07:06.540 --> 07:08.120
+ Right now, Blinkist has a special offer
+
+07:08.120 --> 07:10.020
+ just for Huberman Lab podcast listeners.
+
+07:10.020 --> 07:12.540
+ If you go to blinkist.com slash Huberman,
+
+07:12.540 --> 07:14.660
+ you can get a free seven day trial
+
+07:14.660 --> 07:18.120
+ and 25% off a Blinkist premium membership.
+
+07:18.120 --> 07:21.060
+ Once again, go to blinkist.com slash Huberman
+
+07:21.060 --> 07:24.260
+ to get a seven day free trial and 25% off.
+
+07:24.260 --> 07:27.980
+ And now for my discussion with Dr. Wendy Suzuki.
+
+07:27.980 --> 07:30.340
+ Wendy, great to see you again and to have you here.
+
+07:30.340 --> 07:31.560
+ It's been a little while.
+
+07:31.560 --> 07:32.620
+ It's been a while.
+
+07:32.620 --> 07:33.940
+ So great to be here, Andrew.
+
+07:33.940 --> 07:35.260
+ Thank you so much for having me.
+
+07:35.260 --> 07:36.160
+ Yeah, delighted.
+
+07:36.160 --> 07:40.840
+ I'd like to start off by talking about memory generally.
+
+07:40.840 --> 07:44.780
+ And then I'd love to chat about your incredible work,
+
+07:44.780 --> 07:48.000
+ discovering how exercise and memory interface
+
+07:48.000 --> 07:49.960
+ and what people can do to improve their memory
+
+07:49.960 --> 07:51.840
+ and brain function generally.
+
+07:51.840 --> 07:55.000
+ But for those that are not familiar,
+
+07:55.000 --> 07:56.460
+ maybe you could just step us through
+
+07:56.460 --> 07:58.880
+ the basic elements of memory.
+
+07:58.880 --> 08:01.200
+ A few brain structures, perhaps.
+
+08:01.200 --> 08:02.640
+ What happens when I, for instance,
+
+08:02.640 --> 08:07.200
+ this mug of tea is pretty unremarkable,
+
+08:07.200 --> 08:09.700
+ but the fact that now I've talked about it,
+
+08:09.700 --> 08:11.680
+ I don't know that I'll ever forget about it.
+
+08:11.680 --> 08:12.960
+ Maybe I will, maybe I won't.
+
+08:12.960 --> 08:15.740
+ So what happens when I look at this mug
+
+08:15.740 --> 08:19.920
+ and decide that it's something special for whatever reason?
+
+08:19.920 --> 08:22.860
+ Yeah, well, I like to see there are four things
+
+08:22.860 --> 08:25.040
+ that make things memorable.
+
+08:25.040 --> 08:28.040
+ Number one is novelty.
+
+08:28.040 --> 08:30.920
+ If it's something new, the very first thing,
+
+08:30.920 --> 08:32.720
+ the very first time we've seen something
+
+08:32.720 --> 08:35.640
+ or experienced something, our brains are drawn to that.
+
+08:35.640 --> 08:37.920
+ Our attentional systems draw us to that.
+
+08:37.920 --> 08:40.020
+ And when you are paying attention to something,
+
+08:40.020 --> 08:43.480
+ that's part of what makes things memorable.
+
+08:43.480 --> 08:45.220
+ Second is repetition.
+
+08:45.220 --> 08:48.440
+ If you see that cup of tea every single day
+
+08:48.440 --> 08:50.320
+ and every single time you do an interview,
+
+08:50.320 --> 08:52.480
+ you talk about your cup of tea, you're gonna remember it.
+
+08:52.480 --> 08:57.120
+ That's just how our brains work, repetition works.
+
+08:57.120 --> 08:59.800
+ Third is association.
+
+08:59.800 --> 09:04.200
+ So if you meet somebody new
+
+09:04.200 --> 09:07.040
+ that knows lots of people that you know,
+
+09:07.040 --> 09:09.980
+ so you and I share many, many, many, many people
+
+09:09.980 --> 09:12.760
+ that we both know, it's easy to remember,
+
+09:12.760 --> 09:14.440
+ it's easier to remember you,
+
+09:14.440 --> 09:16.220
+ especially if you were somebody new
+
+09:16.220 --> 09:18.680
+ that I hadn't met before, we have met before.
+
+09:18.680 --> 09:20.100
+ So association.
+
+09:21.140 --> 09:24.720
+ And then the fourth one is emotional resonance.
+
+09:24.720 --> 09:28.240
+ So we remember the happiest and the saddest moments
+
+09:28.240 --> 09:31.680
+ of our lives, and that also includes funny,
+
+09:31.680 --> 09:35.160
+ surprising things, that is the interaction
+
+09:35.160 --> 09:39.840
+ between two key brain structures, the amygdala,
+
+09:39.840 --> 09:43.960
+ which is important for processing lots of emotional,
+
+09:43.960 --> 09:46.300
+ particularly threatening kinds of situations.
+
+09:46.300 --> 09:50.340
+ But those threatening, surprising kinds of situations,
+
+09:50.340 --> 09:52.120
+ the amygdala takes that information
+
+09:52.120 --> 09:56.600
+ and makes another key structure called the hippocampus
+
+09:56.600 --> 10:01.600
+ work better to put new long-term memories in your brain.
+
+10:02.640 --> 10:06.600
+ So that, in fact, is the key structure for long-term memory,
+
+10:06.600 --> 10:08.960
+ the structure called the hippocampus.
+
+10:08.960 --> 10:11.760
+ Fantastic, so novelty, repetition, association,
+
+10:11.760 --> 10:13.160
+ and emotional resonance.
+
+10:13.160 --> 10:14.160
+ Yes.
+
+10:14.160 --> 10:16.120
+ You can tell us a bit more about the hippocampus.
+
+10:16.120 --> 10:19.200
+ I think, at least for my generation,
+
+10:19.200 --> 10:20.140
+ well, I'm a neuroscientist,
+
+10:20.140 --> 10:21.680
+ but for most people in my generation,
+
+10:21.680 --> 10:23.600
+ I think they first heard about the hippocampus
+
+10:23.600 --> 10:24.880
+ from the movie Memento.
+
+10:24.880 --> 10:25.720
+ Oh, yeah.
+
+10:25.720 --> 10:27.080
+ That guy says hippocampus.
+
+10:27.080 --> 10:28.120
+ Yeah.
+
+10:28.120 --> 10:29.760
+ And for those of you that haven't seen that movie,
+
+10:29.760 --> 10:32.120
+ it's a bizarrely constructed movie,
+
+10:32.120 --> 10:36.160
+ but an interesting one, nonetheless, about memory.
+
+10:36.160 --> 10:38.280
+ But even as a neuroscientist,
+
+10:38.280 --> 10:43.280
+ sometimes I'm perplexed at how the hippocampus works.
+
+10:43.520 --> 10:47.400
+ Maybe you could, if you would, step us through
+
+10:47.400 --> 10:49.700
+ what this structure is, what it looks like,
+
+10:49.700 --> 10:51.320
+ maybe a few of its sub-regions,
+
+10:51.320 --> 10:55.760
+ because unlike vision, the topic that I've worked
+
+10:55.760 --> 10:58.200
+ most of my career on, where we know,
+
+10:58.200 --> 10:59.480
+ okay, the eye does this part,
+
+10:59.480 --> 11:00.320
+ and the thalamus does this part,
+
+11:00.320 --> 11:01.860
+ and the cortex does that part,
+
+11:01.860 --> 11:03.020
+ I've always been a little perplexed
+
+11:03.020 --> 11:04.560
+ about the hippocampus, frankly.
+
+11:04.560 --> 11:05.500
+ Okay.
+
+11:05.500 --> 11:07.400
+ And I've read the textbooks, and I've heard the lectures,
+
+11:07.400 --> 11:09.160
+ but I'd love to get the update.
+
+11:09.160 --> 11:11.180
+ What are the general themes of the hippocampus
+
+11:11.180 --> 11:13.840
+ as a structure and its function?
+
+11:13.840 --> 11:16.560
+ What do you think everyone, including neuroscientists,
+
+11:16.560 --> 11:18.040
+ should know about the hippocampus?
+
+11:18.040 --> 11:21.220
+ Absolutely, so let's start with the basics.
+
+11:21.220 --> 11:24.200
+ The word hippocampus means seahorse.
+
+11:24.200 --> 11:26.240
+ It is shaped, the structure is shaped
+
+11:26.240 --> 11:30.520
+ like a kind of curly-Q seahorse, that is accurate.
+
+11:31.840 --> 11:33.720
+ Everybody, including neuroscientists,
+
+11:33.720 --> 11:35.160
+ should know it's a beautiful structure.
+
+11:35.160 --> 11:38.880
+ It is visually anatomically beautiful
+
+11:38.880 --> 11:42.200
+ with these kind of intertwining,
+
+11:42.200 --> 11:45.560
+ twirly sub-regions within it.
+
+11:45.560 --> 11:49.100
+ And I think that's one of the reasons why early anatomists,
+
+11:49.100 --> 11:50.940
+ who were the very first neuroscientists,
+
+11:50.940 --> 11:51.940
+ got attracted to it,
+
+11:51.940 --> 11:54.920
+ because it's this interesting kind of twirly structure
+
+11:54.920 --> 11:56.980
+ deep in the heart of the brain.
+
+11:56.980 --> 11:58.800
+ So that's anatomically.
+
+11:58.800 --> 12:01.600
+ Functionally, what does it do?
+
+12:01.600 --> 12:05.840
+ Well, it's easiest to understand what it does
+
+12:05.840 --> 12:08.680
+ when you look at what happens
+
+12:08.680 --> 12:10.560
+ when you don't have a hippocampus anymore.
+
+12:10.560 --> 12:14.200
+ What if you, what if by some disease
+
+12:14.200 --> 12:18.300
+ or you have your hippocampus removed by accident,
+
+12:18.300 --> 12:19.260
+ what happens?
+
+12:19.260 --> 12:23.000
+ Well, we know this from the most famous
+
+12:23.000 --> 12:26.160
+ neurological patient of all time.
+
+12:26.160 --> 12:28.000
+ His initials were H.M.,
+
+12:28.000 --> 12:32.640
+ so all psychology and neuroscience students know him.
+
+12:32.640 --> 12:37.040
+ He was operated in 1954,
+
+12:37.040 --> 12:40.560
+ and the paper was published in 1957.
+
+12:40.560 --> 12:42.760
+ They removed both his hippocampi
+
+12:42.760 --> 12:45.680
+ because he had very terrible epilepsy.
+
+12:45.680 --> 12:48.000
+ And they knew that the hippocampus
+
+12:48.000 --> 12:50.280
+ was the genesis of epilepsy,
+
+12:50.280 --> 12:51.700
+ and this was experimental.
+
+12:51.700 --> 12:54.900
+ His epilepsy was so bad that they decided
+
+12:54.900 --> 12:57.840
+ not just to remove one hippocampus, but both.
+
+12:57.840 --> 13:00.200
+ And what happened was immediate,
+
+13:01.740 --> 13:06.320
+ immediate loss of all ability to form new memories
+
+13:06.320 --> 13:07.840
+ for facts and events.
+
+13:07.840 --> 13:09.980
+ Think about that for a second.
+
+13:09.980 --> 13:13.480
+ All facts or events you're not able to remember.
+
+13:13.480 --> 13:16.620
+ I can't remember this interaction between us.
+
+13:16.620 --> 13:18.360
+ I can't remember any of the facts
+
+13:18.360 --> 13:22.420
+ that we were just chatting about in our neuroscience lives.
+
+13:22.420 --> 13:27.420
+ None of that can move into our long-term memory.
+
+13:27.480 --> 13:29.920
+ So this hippocampus does something
+
+13:29.920 --> 13:32.920
+ with all of these perceptions that are coming at us
+
+13:32.920 --> 13:35.360
+ every single day, every minute of the day,
+
+13:35.360 --> 13:37.480
+ and not for all of them,
+
+13:37.480 --> 13:39.760
+ but for some of them that have these features
+
+13:39.760 --> 13:40.880
+ that we just talked about.
+
+13:40.880 --> 13:42.880
+ Maybe they're novel, maybe they have associations,
+
+13:42.880 --> 13:44.580
+ maybe they're emotionally relevant,
+
+13:44.580 --> 13:48.160
+ maybe they've been repeated.
+
+13:48.160 --> 13:51.520
+ Some of those things in the realm of facts or events
+
+13:51.520 --> 13:55.800
+ get encoded in our long-term memory.
+
+13:55.800 --> 14:00.040
+ And that's the textbook of why the hippocampus
+
+14:00.040 --> 14:01.320
+ is so important.
+
+14:01.320 --> 14:03.400
+ I like to always add, and I mean,
+
+14:03.400 --> 14:06.400
+ this is why I studied it for so many years,
+
+14:06.400 --> 14:09.440
+ the hippocampus and what it does really defines
+
+14:09.440 --> 14:11.360
+ our own personal histories.
+
+14:11.360 --> 14:13.660
+ It means it defines who we are,
+
+14:13.660 --> 14:16.920
+ because if we can't remember what we've done,
+
+14:16.920 --> 14:19.100
+ the information we've learned,
+
+14:19.100 --> 14:22.560
+ and the events of our lives, it changes us.
+
+14:22.560 --> 14:24.640
+ That's what really defines us.
+
+14:24.640 --> 14:27.560
+ That's why I wanted to study the hippocampus.
+
+14:27.560 --> 14:32.560
+ And I think the exciting new ideas about the hippocampus
+
+14:33.760 --> 14:37.560
+ is that hippocampus is important for memory.
+
+14:37.560 --> 14:39.640
+ So if you say that, you'll be impressed,
+
+14:39.640 --> 14:42.760
+ all your people at your cocktail party.
+
+14:42.760 --> 14:46.040
+ But what people have started to realize
+
+14:46.040 --> 14:49.000
+ that it's not just memory,
+
+14:49.000 --> 14:51.960
+ it's not just putting together associations
+
+14:51.960 --> 14:54.800
+ for what, where, and when of events
+
+14:54.800 --> 14:56.680
+ that happened in our past,
+
+14:56.680 --> 14:58.640
+ but it's putting together information
+
+14:58.640 --> 15:01.480
+ that is in our long-term memory banks
+
+15:01.480 --> 15:04.200
+ in interesting new ways.
+
+15:04.200 --> 15:06.160
+ I'm talking about imagination.
+
+15:06.160 --> 15:09.620
+ So without the hippocampus, yes, you can't remember things,
+
+15:09.620 --> 15:13.880
+ but actually you're not able to imagine events
+
+15:13.880 --> 15:17.640
+ or situations that you've never experienced before.
+
+15:17.640 --> 15:21.680
+ So what that says is the hippocampus is important for memory
+
+15:21.680 --> 15:24.060
+ is a too simple a way to think about it.
+
+15:24.060 --> 15:26.480
+ What the hippocampus is important for
+
+15:26.480 --> 15:28.060
+ is what we've already talked about,
+
+15:28.060 --> 15:30.760
+ associating things together writ large.
+
+15:30.760 --> 15:33.540
+ Anytime you need to associate something together,
+
+15:33.540 --> 15:37.080
+ either for your past, your present, or your future,
+
+15:37.080 --> 15:38.760
+ you are using your hippocampus.
+
+15:38.760 --> 15:43.040
+ And it takes on this much more important role
+
+15:43.040 --> 15:45.920
+ in our cognitive lives when we think about it like that.
+
+15:45.920 --> 15:49.520
+ That is kind of the new, the new hippocampus
+
+15:49.520 --> 15:52.400
+ that neuroscientists are studying these days.
+
+15:52.400 --> 15:53.240
+ That's fantastic.
+
+15:53.240 --> 15:55.720
+ So it sounds like it really sets context,
+
+15:55.720 --> 15:58.120
+ but it can do that with elements from the past,
+
+15:58.120 --> 15:59.800
+ the present, or the future.
+
+15:59.800 --> 16:00.620
+ Yes.
+
+16:01.500 --> 16:04.440
+ Well, for neuroscientists, the phrase is domain.
+
+16:04.440 --> 16:05.960
+ We say the time domain,
+
+16:05.960 --> 16:08.360
+ meaning as opposed to just evaluating things in space.
+
+16:08.360 --> 16:11.720
+ It sounds like the time domain of hippocampal functioning
+
+16:11.720 --> 16:13.100
+ is incredibly interesting.
+
+16:13.100 --> 16:13.940
+ It is.
+
+16:13.940 --> 16:15.920
+ And even the fact that we can have short-term,
+
+16:15.920 --> 16:17.120
+ medium-term, and long-term memories,
+
+16:17.120 --> 16:19.800
+ and we could go down any of these rabbit holes.
+
+16:19.800 --> 16:21.080
+ I'll ask you a true or false,
+
+16:21.080 --> 16:23.960
+ mostly because I just really want to know the answer.
+
+16:23.960 --> 16:27.400
+ A few years ago, the theme in various high-profile reviews
+
+16:27.400 --> 16:30.800
+ seemed to be that the hippocampus was involved in encoding,
+
+16:30.800 --> 16:33.760
+ in creating memories, but not in storing memories,
+
+16:33.760 --> 16:36.400
+ and that the memory storage was in the neocortex
+
+16:36.400 --> 16:38.620
+ or the other overlying areas of the brain.
+
+16:38.620 --> 16:40.620
+ Is that too general a statement?
+
+16:43.240 --> 16:45.760
+ That's a tricky statement
+
+16:45.760 --> 16:49.940
+ because I think that ultimately, yes,
+
+16:49.940 --> 16:53.320
+ that long-term memories are stored in the cortex,
+
+16:53.320 --> 16:55.640
+ but those memories are stored in the hippocampus
+
+16:55.640 --> 16:58.520
+ sometimes for a very, very long time.
+
+16:58.520 --> 17:01.920
+ So how long is too long,
+
+17:01.920 --> 17:03.720
+ where you say, oh, it's not the hippocampus anymore?
+
+17:03.720 --> 17:06.360
+ If it's four years, is that?
+
+17:06.360 --> 17:09.920
+ Does that mean that it's not stored in the hippocampus?
+
+17:09.920 --> 17:12.200
+ I think that's a tricky question.
+
+17:12.200 --> 17:13.820
+ And yes, it was coming up a lot
+
+17:13.820 --> 17:15.600
+ because people were debating it,
+
+17:15.600 --> 17:18.320
+ and some people did think that you shouldn't think
+
+17:18.320 --> 17:20.760
+ about the hippocampus as a storage area.
+
+17:20.760 --> 17:23.480
+ But I think it's a long, long, long-term
+
+17:23.480 --> 17:26.360
+ kind of intermediate storage area,
+
+17:26.360 --> 17:28.640
+ maybe not the long-term storage area.
+
+17:28.640 --> 17:30.460
+ That's why it's hard to answer that question.
+
+17:30.460 --> 17:31.600
+ Great.
+
+17:31.600 --> 17:33.120
+ As I recall,
+
+17:33.120 --> 17:37.280
+ HM could remember facts from before his surgery.
+
+17:37.280 --> 17:39.280
+ He couldn't form new memories.
+
+17:39.280 --> 17:40.960
+ And given that he had no hippocampus,
+
+17:40.960 --> 17:43.380
+ it would at least partially support the idea
+
+17:43.380 --> 17:47.120
+ that some memories are retained outside the hippocampus.
+
+17:47.120 --> 17:51.720
+ However, he did have part of his posterior hippocampus
+
+17:51.720 --> 17:54.800
+ intact, so that's the tricky thing.
+
+17:54.800 --> 17:59.800
+ I think initially, in fact, Scoville, the neurosurgeon,
+
+17:59.800 --> 18:03.640
+ overestimated the number of millimeters
+
+18:03.640 --> 18:07.360
+ he intended to remove of the hippocampus.
+
+18:07.360 --> 18:09.080
+ And then when they did this,
+
+18:09.080 --> 18:14.080
+ the very historic MRI of HM later in his life,
+
+18:14.520 --> 18:15.920
+ they showed that, in fact,
+
+18:15.920 --> 18:17.880
+ he did have that posterior hippocampus,
+
+18:17.880 --> 18:19.960
+ part of the posterior hippocampus intact.
+
+18:19.960 --> 18:24.120
+ So now it makes it a little bit more complicated
+
+18:24.120 --> 18:25.600
+ to interpret what's going on.
+
+18:25.600 --> 18:28.460
+ Not that it was never uncomplicated.
+
+18:28.460 --> 18:31.440
+ Any interpretation of a lesion in a patient,
+
+18:31.440 --> 18:33.300
+ as you know, is complicated.
+
+18:33.300 --> 18:37.300
+ But, you know, HM had this mythical role
+
+18:37.300 --> 18:39.520
+ in neuroscience and neurology,
+
+18:39.520 --> 18:42.320
+ and now it was complicated
+
+18:42.320 --> 18:45.640
+ because he does have more of the hippocampus intact.
+
+18:45.640 --> 18:46.860
+ I did not know that.
+
+18:48.400 --> 18:52.840
+ There are some memories that can be formed very quickly,
+
+18:52.840 --> 18:54.600
+ so-called one-trial learning.
+
+18:54.600 --> 18:56.320
+ And I'm just looking at this list again,
+
+18:56.320 --> 18:58.260
+ novelty, repetition, association,
+
+18:58.260 --> 19:00.200
+ and emotional resonance.
+
+19:00.200 --> 19:03.600
+ It seems like some experiences
+
+19:03.600 --> 19:06.040
+ can bypass the need for multiple repetitions.
+
+19:06.040 --> 19:06.880
+ Yeah, absolutely.
+
+19:06.880 --> 19:10.000
+ So, and unfortunately,
+
+19:10.000 --> 19:12.200
+ it seems that our nervous system is skewed
+
+19:12.200 --> 19:16.720
+ toward creating one-trial memories for negative events,
+
+19:16.720 --> 19:18.960
+ which has a survival-adaptive mechanism.
+
+19:19.800 --> 19:23.200
+ What is the neural connection that allows that to happen?
+
+19:23.200 --> 19:25.740
+ Is it the amygdala to hippocampus connection?
+
+19:25.740 --> 19:26.580
+ I mean, as you and I know,
+
+19:26.580 --> 19:28.700
+ it seems like every brain area ultimately
+
+19:28.700 --> 19:29.800
+ is connected to everything else.
+
+19:29.800 --> 19:31.880
+ It's just a question of through how many nodes,
+
+19:31.880 --> 19:33.840
+ just like every city is connected to another city.
+
+19:33.840 --> 19:35.840
+ It's just a question of how many flights and roads
+
+19:35.840 --> 19:40.800
+ do you have to traverse before you get there?
+
+19:40.800 --> 19:42.820
+ What is it about one-trial learning?
+
+19:42.820 --> 19:45.880
+ I mean, at a kind of top contour level,
+
+19:45.880 --> 19:49.760
+ how can we learn certain things so fast?
+
+19:49.760 --> 19:51.360
+ And other things are tricky.
+
+19:51.360 --> 19:52.960
+ And now every time I look at this white mug,
+
+19:52.960 --> 19:54.320
+ it's queuing up something special
+
+19:54.320 --> 19:56.480
+ that simply by virtue of saying it.
+
+19:56.480 --> 19:58.320
+ So is that one-trial memory?
+
+19:58.320 --> 20:03.320
+ But what is it about very emotionally salient events
+
+20:03.680 --> 20:06.360
+ that allow memories to get stamped in?
+
+20:06.360 --> 20:10.240
+ Yeah, I mean, I think you've already alluded to it.
+
+20:10.240 --> 20:15.040
+ That is, there is this protective function of our brains
+
+20:15.040 --> 20:18.280
+ that has evolved over the last 2.5 million years
+
+20:18.280 --> 20:20.400
+ that you need to pay attention
+
+20:20.400 --> 20:24.000
+ and remember certain things for your survival.
+
+20:24.000 --> 20:27.560
+ So some things that get stamped in, you know,
+
+20:27.560 --> 20:30.640
+ they're memories, but they're fear memories.
+
+20:30.640 --> 20:33.840
+ You know, if I get mugged on the subway
+
+20:33.840 --> 20:35.880
+ or, you know, there are terrible things
+
+20:35.880 --> 20:38.900
+ that could happen on the subway, as we just learned.
+
+20:38.900 --> 20:40.160
+ But if something terrible happens,
+
+20:40.160 --> 20:43.920
+ if something very scary happens, you remember that.
+
+20:43.920 --> 20:48.400
+ And that fear and that memory of all those things.
+
+20:48.400 --> 20:52.240
+ I mean, I have one, when I lived in Washington, DC,
+
+20:52.240 --> 20:54.840
+ I went to work at NIH on a Sunday afternoon
+
+20:54.840 --> 20:57.360
+ and I came back and when I rounded the corner
+
+20:57.360 --> 21:01.640
+ to my door of my apartment, it was crowbarred in.
+
+21:01.640 --> 21:04.740
+ Somebody had taken a crowbar, opened up my door
+
+21:04.740 --> 21:09.740
+ and stole all of my, the nicest things in my apartment,
+
+21:09.920 --> 21:10.840
+ which wasn't that nice
+
+21:10.840 --> 21:13.320
+ because I wasn't making that much money.
+
+21:13.320 --> 21:18.320
+ But ever since then, whenever I rounded that corner,
+
+21:18.580 --> 21:19.720
+ I still had that memory.
+
+21:19.720 --> 21:22.320
+ It was terrible because it put me in a terrible state
+
+21:22.320 --> 21:24.460
+ when I was just coming home.
+
+21:24.460 --> 21:26.800
+ And that's a survival mechanism.
+
+21:26.800 --> 21:30.480
+ Do you want to be alert to possible danger?
+
+21:30.480 --> 21:31.760
+ Absolutely, yes.
+
+21:31.760 --> 21:35.440
+ So part of those one trial memories,
+
+21:35.440 --> 21:38.000
+ I think is often taking advantage
+
+21:38.000 --> 21:41.460
+ of this evolutionarily developed system
+
+21:41.460 --> 21:45.360
+ to tamp in things that could be potentially dangerous to you
+
+21:45.360 --> 21:46.540
+ into your memory.
+
+21:46.540 --> 21:51.200
+ So you forever will remember this particular corner
+
+21:51.200 --> 21:54.520
+ or this hallway because that is where something
+
+21:54.520 --> 21:56.640
+ really bad happened to you.
+
+21:56.640 --> 21:58.360
+ It seems like a location.
+
+21:58.360 --> 22:00.680
+ We talk about conditioned place aversion,
+
+22:00.680 --> 22:03.640
+ which is just a geek speak for wanting to avoid the place
+
+22:03.640 --> 22:04.680
+ where something bad happened
+
+22:04.680 --> 22:06.280
+ or conditioned place preference,
+
+22:06.280 --> 22:07.420
+ wanting to go back to a place
+
+22:07.420 --> 22:08.880
+ where something positive happened.
+
+22:08.880 --> 22:10.160
+ We've been looking at a photograph
+
+22:10.160 --> 22:12.520
+ of where you had a wonderful time with somebody
+
+22:12.520 --> 22:16.020
+ and that can evoke all sorts of positive sensations.
+
+22:16.020 --> 22:20.640
+ It seems like at some level, as complex as the brain is,
+
+22:20.640 --> 22:24.240
+ the basic elements of feeling good or feeling lousy
+
+22:24.240 --> 22:26.480
+ are states within the brain and body.
+
+22:26.480 --> 22:27.720
+ And linking those to places
+
+22:27.720 --> 22:30.400
+ seems like it's a pretty straightforward formula.
+
+22:31.280 --> 22:34.240
+ Link place to state, link state to place, et cetera,
+
+22:34.240 --> 22:36.980
+ as your description just provided.
+
+22:36.980 --> 22:39.640
+ When we learn more complex information,
+
+22:40.640 --> 22:45.520
+ a poem, a concept, or we have to ratchet
+
+22:45.520 --> 22:49.720
+ through a set of ideas, that also involves memory.
+
+22:51.240 --> 22:53.520
+ I'm sure that we'll talk more about this,
+
+22:53.520 --> 22:57.160
+ but is there any way that you're aware of
+
+22:57.160 --> 23:01.380
+ that state, bodily state, can be leveraged
+
+23:01.380 --> 23:06.000
+ to enhance the speed or the quality
+
+23:06.000 --> 23:09.240
+ of memories and memory formation?
+
+23:09.240 --> 23:12.760
+ Because, you know, so to be clear about it,
+
+23:12.760 --> 23:14.520
+ it seems there's something very important
+
+23:14.520 --> 23:16.120
+ about this fourth, you know,
+
+23:16.120 --> 23:19.380
+ this emotional resonance component, right?
+
+23:19.380 --> 23:22.080
+ Novelty, the crowbar into the door is,
+
+23:22.080 --> 23:24.080
+ thank goodness, sounds like it was novel,
+
+23:24.080 --> 23:26.220
+ it wasn't a repeated theme, thank goodness.
+
+23:26.220 --> 23:28.020
+ So repetition is out and the association
+
+23:28.020 --> 23:30.040
+ is very, very strong.
+
+23:30.040 --> 23:32.900
+ But for people trying to learn information
+
+23:32.900 --> 23:35.040
+ that they're not that excited about,
+
+23:35.040 --> 23:38.200
+ or that repetition is hard,
+
+23:38.200 --> 23:42.480
+ or the novelty is simply that it's painful.
+
+23:42.480 --> 23:45.240
+ Yes, I've been there, absolutely.
+
+23:45.240 --> 23:47.680
+ Yeah, as have I.
+
+23:47.680 --> 23:49.840
+ Is there something that we can do
+
+23:49.840 --> 23:52.500
+ to leverage knowledge of how the memory system
+
+23:52.500 --> 23:55.440
+ works naturally to make that a more
+
+23:55.440 --> 23:57.720
+ straightforward process?
+
+23:57.720 --> 24:02.720
+ So I immediately turned to the things
+
+24:03.060 --> 24:05.240
+ that I've studied that you talk about
+
+24:05.240 --> 24:07.220
+ so beautifully on your podcast,
+
+24:07.220 --> 24:12.220
+ which are strategies, generally,
+
+24:12.220 --> 24:14.180
+ to make your brain work better.
+
+24:14.180 --> 24:17.500
+ I was just reminding myself of your podcast
+
+24:17.500 --> 24:21.780
+ about cold, because I use that every morning.
+
+24:21.780 --> 24:22.780
+ Oh, you do call it? I do.
+
+24:22.780 --> 24:24.740
+ Just take a moment and just tell us
+
+24:24.740 --> 24:26.060
+ what is your cold exposure protocol,
+
+24:26.060 --> 24:27.420
+ then I'll take you back to what you're saying.
+
+24:27.420 --> 24:31.220
+ So my cold exposure protocol is at the end
+
+24:31.220 --> 24:35.060
+ of every morning shower that I take,
+
+24:35.060 --> 24:37.520
+ you know, the shower is warm,
+
+24:37.520 --> 24:40.540
+ but I give myself a big blast of cold
+
+24:40.540 --> 24:45.540
+ at the end of that, and it makes me feel so good,
+
+24:45.740 --> 24:48.140
+ and because I've been doing it for several years,
+
+24:48.140 --> 24:49.620
+ it's so much less painful.
+
+24:49.620 --> 24:53.600
+ Okay, I admit, it was really painful at the beginning,
+
+24:53.600 --> 24:55.820
+ but it's much less painful.
+
+24:55.820 --> 24:57.900
+ I could handle the cold water,
+
+24:57.900 --> 25:01.300
+ and my pipes give nice, really cold water,
+
+25:02.220 --> 25:06.820
+ and I could feel the awakeness
+
+25:06.820 --> 25:09.540
+ kind of come up in me after that,
+
+25:09.540 --> 25:12.100
+ and I miss it if I forget to do it.
+
+25:12.100 --> 25:16.100
+ Sometimes I run back in and give myself that cold blast,
+
+25:16.100 --> 25:20.220
+ because it is upping, you know,
+
+25:20.220 --> 25:21.940
+ I think you talked about this on your podcast,
+
+25:21.940 --> 25:23.660
+ what's happening in the brain?
+
+25:23.660 --> 25:26.860
+ Basically, the cold stimulus, that shock,
+
+25:26.860 --> 25:28.980
+ that, you know, catching your breath, et cetera,
+
+25:28.980 --> 25:31.480
+ is adrenaline from the adrenals,
+
+25:31.480 --> 25:33.540
+ but also, from what we understand now,
+
+25:33.540 --> 25:35.220
+ some new neuroimaging.
+
+25:35.220 --> 25:37.580
+ There's epinephrine and norepinephrine released
+
+25:37.580 --> 25:39.780
+ from locus coeruleus, which again is a brain structure
+
+25:39.780 --> 25:40.740
+ in the back of the brain,
+
+25:40.740 --> 25:42.620
+ got sprinklers the rest of the brain
+
+25:42.620 --> 25:44.820
+ with a kind of a wake-up chemical,
+
+25:44.820 --> 25:47.580
+ and there's a long arc on dopamine release.
+
+25:47.580 --> 25:51.500
+ This paper back in 2000 showed that it's a steady increase
+
+25:51.500 --> 25:54.100
+ up to about 2.5 X of circulating dopamine,
+
+25:54.100 --> 25:56.500
+ so they weren't looking directly in the brain, admittedly,
+
+25:56.500 --> 25:58.980
+ but it goes on for four or five hours,
+
+25:58.980 --> 26:02.060
+ so the improved mood and the feeling of alertness
+
+26:02.060 --> 26:02.940
+ is a real thing.
+
+26:02.940 --> 26:07.940
+ Yeah, yeah, so I use that, I mean, so basically I use
+
+26:08.180 --> 26:10.220
+ my morning routine, what is my morning routine?
+
+26:10.220 --> 26:15.220
+ I get up, I do a 45-minute tea meditation,
+
+26:15.300 --> 26:18.660
+ so meditating over the brewing and drinking of tea
+
+26:18.660 --> 26:23.300
+ that I learned from a monk who has an institute in Taiwan
+
+26:23.300 --> 26:25.660
+ where he teaches tea meditation, love it.
+
+26:25.660 --> 26:29.380
+ I've learned all about tea, different kinds of tea,
+
+26:29.380 --> 26:34.380
+ and then I do a 30-minute cardio weights workout.
+
+26:36.660 --> 26:39.820
+ Then I take my shower with a hot, cold contrast.
+
+26:41.940 --> 26:45.620
+ And before that, key thing, if I wanna learn something
+
+26:45.620 --> 26:50.620
+ and I want to be able to get over the difficulty
+
+26:52.020 --> 26:55.660
+ of repeating things or just push myself to do stuff,
+
+26:55.660 --> 26:59.780
+ sleep, so good, good sleep, I've learned that
+
+26:59.780 --> 27:03.700
+ over the pandemic, I did sleep experiments on myself
+
+27:03.700 --> 27:05.980
+ and I learned that I was sleeping an hour less
+
+27:05.980 --> 27:07.060
+ than I really needed.
+
+27:07.060 --> 27:09.620
+ So I really need seven and a half to eight hours of sleep
+
+27:09.620 --> 27:11.220
+ and I was getting six and a half.
+
+27:11.220 --> 27:16.220
+ And so now, I get that seven and a half to eight hours
+
+27:16.780 --> 27:18.980
+ every single night and guess what?
+
+27:18.980 --> 27:23.180
+ I come to different difficult tasks and I am more willing
+
+27:23.180 --> 27:26.540
+ to give it a try, to try longer, to try harder,
+
+27:26.540 --> 27:28.180
+ and my brain works better.
+
+27:28.180 --> 27:30.260
+ And so I think probably if you go back
+
+27:30.260 --> 27:32.660
+ to all of your podcasts, you'll learn exactly
+
+27:32.660 --> 27:34.940
+ why each one of those things that I do,
+
+27:34.940 --> 27:37.740
+ which I would bet that you probably do too,
+
+27:37.740 --> 27:39.660
+ is helping my brain.
+
+27:39.660 --> 27:42.660
+ I guarantee they are and I'm impressed
+
+27:42.660 --> 27:44.700
+ that you do all these things, although not surprised.
+
+27:44.700 --> 27:47.060
+ And I should say that the extra hour of sleep
+
+27:47.060 --> 27:50.380
+ is really impressive and extremely beneficial.
+
+27:50.380 --> 27:53.300
+ I'm curious, do you get that in the early part of the night
+
+27:53.300 --> 27:54.300
+ by going to bed earlier?
+
+27:54.300 --> 27:55.380
+ Yeah, yeah.
+
+27:55.380 --> 27:56.220
+ Terrific.
+
+27:56.220 --> 27:58.140
+ And I should just mention,
+
+27:58.140 --> 27:59.340
+ because you're too humble to do it,
+
+27:59.340 --> 28:01.420
+ but I'll say it again, that yes,
+
+28:01.420 --> 28:03.900
+ not only are you a full professor running,
+
+28:03.900 --> 28:06.380
+ a tenured full professor and running a laboratory,
+
+28:06.380 --> 28:07.420
+ you teach undergraduates,
+
+28:07.420 --> 28:10.460
+ you have an important role in public education,
+
+28:10.460 --> 28:11.820
+ multiple books, and you're now Dean
+
+28:11.820 --> 28:14.820
+ of the College of Arts and Sciences at NYU.
+
+28:14.820 --> 28:17.420
+ So the extra hour of sleep is benefiting you
+
+28:17.420 --> 28:21.940
+ and as a consequence, benefiting everybody else as well.
+
+28:21.940 --> 28:23.660
+ Thanks for sharing with us your protocol.
+
+28:23.660 --> 28:26.500
+ I took you off the trajectory of what one can do,
+
+28:26.500 --> 28:31.100
+ but I think that people and I appreciate knowing,
+
+28:31.100 --> 28:32.900
+ kind of what the practical steps are.
+
+28:32.900 --> 28:34.660
+ Because knowing the science is important,
+
+28:34.660 --> 28:36.540
+ mechanism I do believe is important
+
+28:36.540 --> 28:38.740
+ for embedding protocols in people's minds
+
+28:38.740 --> 28:39.900
+ and why they might want to do them,
+
+28:39.900 --> 28:43.660
+ but really hearing that the mechanics of it is useful.
+
+28:43.660 --> 28:45.700
+ It sounds like everything together takes about an hour.
+
+28:45.700 --> 28:47.540
+ It's not an excessive amount of time,
+
+28:47.540 --> 28:50.820
+ but it probably gives you an outsized positive effect
+
+28:50.820 --> 28:51.660
+ on your day.
+
+28:51.660 --> 28:56.380
+ Absolutely, I definitely notice it if I'm not able to do it.
+
+28:57.300 --> 29:00.420
+ And when I don't, so I do this seven days a week.
+
+29:00.420 --> 29:04.260
+ It's also not just, you know, five days, seven days a week.
+
+29:04.260 --> 29:06.060
+ And when I can't do it,
+
+29:06.060 --> 29:09.380
+ it's usually early morning flights or things like that.
+
+29:09.380 --> 29:13.980
+ And I get over it, but it's critical,
+
+29:13.980 --> 29:16.100
+ critical for the working of my brain.
+
+29:16.100 --> 29:16.940
+ I love it.
+
+29:16.940 --> 29:18.660
+ And I'll just highlight one thing that you said
+
+29:18.660 --> 29:20.140
+ before we move on, which is that you said,
+
+29:20.140 --> 29:22.740
+ when sometimes if you get out of the shower before the cold,
+
+29:22.740 --> 29:24.020
+ you'll get back in.
+
+29:24.020 --> 29:26.620
+ That's to me, a really beautiful example
+
+29:26.620 --> 29:28.820
+ of condition place preference.
+
+29:28.820 --> 29:30.580
+ Now the cold showers become something
+
+29:30.580 --> 29:32.180
+ that you sort of look forward to.
+
+29:32.180 --> 29:34.620
+ I should say that nobody is immune
+
+29:34.620 --> 29:36.820
+ from the adrenaline increase of cold,
+
+29:36.820 --> 29:39.300
+ no matter how cold, this is what's interesting about cold.
+
+29:39.300 --> 29:41.780
+ It's one of the reasons why it's such an important part
+
+29:41.780 --> 29:43.620
+ of the screening for special operations.
+
+29:43.620 --> 29:44.700
+ You know, sort of SEAL teams,
+
+29:44.700 --> 29:47.340
+ but other branches of military too,
+
+29:47.340 --> 29:50.620
+ which is that there are very few stimuli
+
+29:50.620 --> 29:52.620
+ that you can give anyone
+
+29:52.620 --> 29:57.620
+ and consistently get an adrenaline release from that
+
+29:57.620 --> 29:58.660
+ without harming them.
+
+29:58.660 --> 29:59.500
+ You know, with heat,
+
+29:59.500 --> 30:00.940
+ eventually you need to use so much heat
+
+30:00.940 --> 30:02.180
+ that you damage tissue.
+
+30:02.180 --> 30:03.620
+ Or with exercise, you have to use,
+
+30:03.620 --> 30:06.060
+ once you exercise it, you can damage joints.
+
+30:06.060 --> 30:11.060
+ And it's this very kind of brilliant,
+
+30:11.100 --> 30:13.020
+ I don't know if it was intentional or not.
+
+30:13.020 --> 30:14.620
+ It's sort of an unintentional genius
+
+30:14.620 --> 30:16.620
+ that special operations has figured out
+
+30:16.620 --> 30:19.420
+ that by sending people back into the cold over and over,
+
+30:19.420 --> 30:21.100
+ it never really gets easier.
+
+30:21.100 --> 30:23.660
+ But over time, people actually start to crave it.
+
+30:23.660 --> 30:26.620
+ And it provides this reduction in inflammation, et cetera.
+
+30:26.620 --> 30:28.340
+ So anyway, beautiful practice.
+
+30:28.340 --> 30:29.180
+ Thank you.
+
+30:29.180 --> 30:30.500
+ I want to learn more about your tea meditation
+
+30:30.500 --> 30:31.500
+ later in the episode.
+
+30:31.500 --> 30:33.580
+ But in any event,
+
+30:33.580 --> 30:38.580
+ returning to ways that we can improve memory formation.
+
+30:38.580 --> 30:43.420
+ Maybe, if you would, tell us your story around this.
+
+30:43.420 --> 30:44.860
+ I know you've told it before,
+
+30:44.860 --> 30:47.180
+ but I think a lot of members of the audience
+
+30:47.180 --> 30:49.460
+ and I would love to hear how you came to this.
+
+30:49.460 --> 30:51.300
+ Because growing up in neuroscience,
+
+30:51.300 --> 30:53.260
+ I knew you as one of the,
+
+30:53.260 --> 30:55.340
+ I would say one of the three or four,
+
+30:55.340 --> 30:57.420
+ and they're all alongside one another.
+
+30:57.420 --> 30:59.860
+ Not, this isn't a hierarchical statement,
+
+30:59.860 --> 31:03.060
+ a three or four top memory researchers in the world, right?
+
+31:03.060 --> 31:05.140
+ Textbook materials, Suzuki.
+
+31:05.140 --> 31:08.580
+ My textbooks are filled with the word Suzuki,
+
+31:08.580 --> 31:09.780
+ your last name,
+
+31:09.780 --> 31:14.780
+ according to the information on memory and memory formation.
+
+31:15.220 --> 31:17.100
+ So you were doing that
+
+31:17.100 --> 31:19.260
+ and doing the things that academics do.
+
+31:19.260 --> 31:21.420
+ And then you're still doing that,
+
+31:21.420 --> 31:24.460
+ but still at a very high level,
+
+31:24.460 --> 31:26.140
+ but then things took a different direction.
+
+31:26.140 --> 31:28.380
+ And then maybe we could talk about your story
+
+31:28.380 --> 31:32.780
+ and how you came to the place you are at now,
+
+31:32.780 --> 31:34.380
+ because I think it provides a number of tools
+
+31:34.380 --> 31:36.780
+ that people could implement themselves.
+
+31:36.780 --> 31:37.900
+ Yeah, yeah.
+
+31:37.900 --> 31:40.540
+ So this story happened
+
+31:40.540 --> 31:44.620
+ as I was working to get tenure at NYU.
+
+31:44.620 --> 31:48.420
+ And as you know, it's a stress-filled process.
+
+31:48.420 --> 31:51.580
+ They give you six years to show your stuff
+
+31:51.580 --> 31:53.860
+ and you are judged in front of all your colleagues.
+
+31:53.860 --> 31:55.140
+ And either they say,
+
+31:55.140 --> 31:56.420
+ okay, you can join the club,
+
+31:56.420 --> 31:57.580
+ or they say, sorry,
+
+31:57.580 --> 32:00.620
+ you are humiliated in front of everybody.
+
+32:00.620 --> 32:01.460
+ This was what was going on.
+
+32:01.460 --> 32:03.140
+ They actually tell people to leave.
+
+32:03.140 --> 32:04.420
+ If you don't get tenure, you're gone.
+
+32:04.420 --> 32:06.620
+ You have to leave your institution.
+
+32:06.620 --> 32:09.900
+ And so you work really, really hard.
+
+32:09.900 --> 32:12.740
+ And so my strategy was,
+
+32:12.740 --> 32:14.540
+ I'm just gonna not do anything but work
+
+32:14.540 --> 32:15.700
+ and I'm just gonna work
+
+32:15.700 --> 32:19.340
+ and I'm going to just work as hard as I can
+
+32:19.340 --> 32:20.540
+ for the six years.
+
+32:20.540 --> 32:23.020
+ And what happens when you work
+
+32:23.020 --> 32:26.300
+ and you don't have any sort of life outside of work
+
+32:26.300 --> 32:27.980
+ and you live in New York
+
+32:27.980 --> 32:30.340
+ where there's all sorts of really good takeout,
+
+32:30.340 --> 32:32.620
+ you gain 25 pounds, which is exactly what I did.
+
+32:32.620 --> 32:34.180
+ And you get really, really stressed
+
+32:34.180 --> 32:35.540
+ and you start to ask yourself,
+
+32:35.540 --> 32:37.060
+ how come I'm living in New York City
+
+32:37.060 --> 32:38.300
+ and I love Broadway
+
+32:38.300 --> 32:41.980
+ and I haven't gone to a Broadway show in two years.
+
+32:43.020 --> 32:46.580
+ And so I,
+
+32:46.580 --> 32:47.940
+ 25 pounds overweight,
+
+32:49.780 --> 32:52.100
+ I decided to go on vacation
+
+32:52.100 --> 32:53.900
+ and I went by myself
+
+32:53.900 --> 32:54.820
+ because I had no friends.
+
+32:54.820 --> 32:56.500
+ And I went to,
+
+32:56.500 --> 32:58.540
+ I did a adventure
+
+32:58.540 --> 33:02.580
+ on a river rafting trip in Peru.
+
+33:02.580 --> 33:04.380
+ And so I go by myself
+
+33:04.380 --> 33:06.860
+ and meet other interesting people.
+
+33:06.860 --> 33:10.660
+ And I was the weakest person on this whole trip.
+
+33:10.660 --> 33:12.220
+ Like I was,
+
+33:12.220 --> 33:15.660
+ they were so much in better shape,
+
+33:15.660 --> 33:17.060
+ it was embarrassing.
+
+33:17.060 --> 33:18.340
+ And they won't say this,
+
+33:18.340 --> 33:19.420
+ they won't admit this to me,
+
+33:19.420 --> 33:20.420
+ but it was true.
+
+33:20.420 --> 33:21.780
+ And I kind of came back and I said,
+
+33:21.780 --> 33:24.940
+ okay, I cannot be the weakest person.
+
+33:24.940 --> 33:26.180
+ I'm in my late thirties,
+
+33:26.180 --> 33:27.500
+ I have to do something.
+
+33:27.500 --> 33:28.700
+ So I went to the gym
+
+33:28.700 --> 33:30.180
+ and I said,
+
+33:30.180 --> 33:31.860
+ oh my God, I'm 25 pounds overweight.
+
+33:31.860 --> 33:35.020
+ Let's try at least to lose this weight.
+
+33:35.020 --> 33:37.020
+ And so I go to the gym.
+
+33:37.020 --> 33:39.060
+ I notice how much better I feel
+
+33:39.060 --> 33:40.700
+ when I go to just a single class.
+
+33:40.700 --> 33:42.180
+ I remember the very first class I went to
+
+33:42.180 --> 33:43.500
+ was a hip hop dance class.
+
+33:43.500 --> 33:45.260
+ I'm a terrible hip hop dancer,
+
+33:45.260 --> 33:48.820
+ but I still felt good after that class.
+
+33:48.820 --> 33:52.260
+ And then fast forward year and a half,
+
+33:52.260 --> 33:53.780
+ I've lost the 25 pounds.
+
+33:53.780 --> 33:55.620
+ So proud of myself,
+
+33:55.620 --> 33:57.140
+ so much happier.
+
+33:57.140 --> 33:59.420
+ And I'm sitting in my office doing what
+
+33:59.420 --> 34:00.420
+ you and I do a lot,
+
+34:00.420 --> 34:02.100
+ which is writing an NIH grant,
+
+34:02.100 --> 34:04.100
+ which is our lifeblood, right?
+
+34:04.100 --> 34:06.420
+ And writing, writing, writing,
+
+34:06.420 --> 34:08.340
+ and this thought goes through my mind
+
+34:08.340 --> 34:10.580
+ that had never gone through my mind before,
+
+34:10.580 --> 34:12.660
+ which was during this six years
+
+34:12.660 --> 34:15.060
+ of frantic grant writing
+
+34:15.060 --> 34:16.500
+ when I was trying to get tenure.
+
+34:16.500 --> 34:18.460
+ And that thought was,
+
+34:18.460 --> 34:20.540
+ grant writing went well today.
+
+34:20.540 --> 34:22.700
+ You know, that felt good.
+
+34:22.700 --> 34:24.060
+ I was like,
+
+34:24.060 --> 34:25.460
+ I've never had that thought before.
+
+34:25.460 --> 34:26.460
+ What's going on here?
+
+34:26.460 --> 34:27.740
+ This is really weird.
+
+34:27.740 --> 34:29.980
+ I don't know that anyone has had that thought before.
+
+34:29.980 --> 34:32.020
+ No, I'm sure people have had that thought.
+
+34:32.020 --> 34:36.580
+ But I thought maybe I'm just having a good day.
+
+34:36.580 --> 34:38.140
+ But when I thought about it,
+
+34:38.140 --> 34:40.620
+ I thought it's not just today.
+
+34:40.620 --> 34:44.820
+ My grant writing seems to have been getting smoother.
+
+34:44.820 --> 34:47.380
+ Like I'm able to focus longer.
+
+34:47.380 --> 34:50.500
+ The sessions feel better to me.
+
+34:50.500 --> 34:52.140
+ And you know, at that point,
+
+34:52.140 --> 34:53.860
+ the only thing that I changed in my life,
+
+34:53.860 --> 34:54.700
+ it was a huge thing,
+
+34:54.700 --> 34:56.740
+ but I had become a gym rat
+
+34:56.740 --> 34:59.060
+ rather than a workaholic.
+
+34:59.060 --> 35:04.060
+ And that's when my spidey sense for neuroscientists
+
+35:04.100 --> 35:04.940
+ popped up.
+
+35:04.940 --> 35:05.860
+ And I said,
+
+35:05.860 --> 35:08.860
+ what do we know about the effects of exercise on your brain?
+
+35:08.860 --> 35:10.820
+ Because if I think about it,
+
+35:10.820 --> 35:12.860
+ what was better about my writing is
+
+35:12.860 --> 35:14.940
+ I could focus longer and deeper,
+
+35:14.940 --> 35:16.140
+ very important.
+
+35:16.140 --> 35:19.060
+ And I could remember those little details
+
+35:19.060 --> 35:20.300
+ that you try and pull together
+
+35:20.300 --> 35:22.620
+ for your million dollar NIH grant
+
+35:22.620 --> 35:25.900
+ from 30 different articles that you have open on your screen
+
+35:25.900 --> 35:27.180
+ all at the same time.
+
+35:27.180 --> 35:28.980
+ That's the hippocampal memory.
+
+35:28.980 --> 35:29.900
+ I was studying that.
+
+35:29.900 --> 35:32.820
+ I was writing the grants on hippocampal memory.
+
+35:32.820 --> 35:37.260
+ And so that's when I got really interested
+
+35:37.260 --> 35:39.540
+ in the effects of exercise
+
+35:39.540 --> 35:42.860
+ on both prefrontal focus and attention function
+
+35:42.860 --> 35:44.340
+ and hippocampal function
+
+35:44.340 --> 35:46.900
+ because of my own observation and this kind of,
+
+35:46.900 --> 35:48.820
+ I still remember where I was sitting,
+
+35:48.820 --> 35:52.060
+ which office I was in when I had this revelation.
+
+35:52.060 --> 35:53.900
+ But the thing that really sealed it for me
+
+35:53.900 --> 35:55.660
+ that made me think,
+
+35:55.660 --> 35:57.540
+ not just, oh, this is interesting,
+
+35:57.540 --> 35:59.980
+ but I wanna study this,
+
+35:59.980 --> 36:02.940
+ is right around that time,
+
+36:02.940 --> 36:04.620
+ I got a phone call from my mom
+
+36:05.900 --> 36:09.020
+ who said that my dad wasn't feeling well
+
+36:09.020 --> 36:13.340
+ and that he had told her that he got lost
+
+36:13.340 --> 36:14.940
+ driving back from the 7-Eleven,
+
+36:14.940 --> 36:17.900
+ which is literally seven blocks from our house
+
+36:17.900 --> 36:19.500
+ that I grew up in.
+
+36:19.500 --> 36:23.180
+ And I knew that was hippocampal function.
+
+36:23.180 --> 36:24.900
+ I suspected dementia.
+
+36:24.900 --> 36:27.220
+ I suspected, though didn't wanna admit,
+
+36:27.220 --> 36:29.780
+ Alzheimer's dementia, which he had.
+
+36:29.780 --> 36:32.140
+ And it was funny because,
+
+36:32.140 --> 36:33.100
+ I mean, it wasn't funny,
+
+36:33.100 --> 36:38.100
+ but my mom and dad are two sides of a very different coin.
+
+36:39.500 --> 36:43.940
+ My dad is the engineer,
+
+36:43.940 --> 36:45.460
+ not so active all his life,
+
+36:45.460 --> 36:48.900
+ but loved and sit and read books all day.
+
+36:48.900 --> 36:50.580
+ My mom was the athlete.
+
+36:50.580 --> 36:54.580
+ She played tennis, team tennis into her 80s.
+
+36:54.580 --> 36:59.020
+ And it started to show at that point.
+
+36:59.020 --> 37:04.020
+ And so then I had even a more pressing reason
+
+37:05.820 --> 37:08.100
+ to think about what the effects of exercise were
+
+37:08.100 --> 37:10.460
+ because I noticed that all the things
+
+37:10.460 --> 37:12.540
+ that were improving in my brain
+
+37:12.540 --> 37:14.660
+ suddenly went away in my dad's brain.
+
+37:14.660 --> 37:18.140
+ Really, really smart guy, engineer in Silicon Valley
+
+37:18.140 --> 37:22.700
+ helped that push in Silicon Valley in the 70s happen.
+
+37:23.740 --> 37:24.860
+ He had no more memory.
+
+37:24.860 --> 37:26.620
+ He couldn't focus his attention.
+
+37:26.620 --> 37:28.980
+ His mood was rock bottom.
+
+37:28.980 --> 37:31.100
+ He's a very happy guy.
+
+37:31.100 --> 37:33.060
+ And everything was the opposite in me.
+
+37:33.060 --> 37:34.420
+ And I started thinking,
+
+37:34.420 --> 37:36.620
+ this isn't just something to help
+
+37:36.620 --> 37:38.300
+ somebody who wants to get tenure.
+
+37:39.340 --> 37:41.660
+ This is something that could help
+
+37:41.660 --> 37:43.620
+ millions and millions of people.
+
+37:43.620 --> 37:46.900
+ Most importantly, our aging population.
+
+37:46.900 --> 37:49.300
+ What's happening?
+
+37:49.300 --> 37:53.020
+ And so the thing that makes me wake up in the morning
+
+37:53.020 --> 37:58.020
+ is when I realized that every single time you move your body
+
+37:58.540 --> 38:02.300
+ you are releasing a whole bunch of neurochemicals.
+
+38:02.300 --> 38:04.060
+ And some of them we've talked about
+
+38:04.060 --> 38:06.180
+ that the good mood comes from dopamine
+
+38:06.180 --> 38:08.340
+ and serotonin and noradrenaline.
+
+38:08.340 --> 38:10.060
+ But the thing that gets released also,
+
+38:10.060 --> 38:11.860
+ particularly with aerobic exercise
+
+38:11.860 --> 38:16.660
+ is a growth factor called brain-derived neurotrophic factor
+
+38:16.660 --> 38:18.340
+ or BDNF.
+
+38:18.340 --> 38:20.860
+ And that is so important because what it does
+
+38:20.860 --> 38:23.180
+ is it goes directly to your hippocampus
+
+38:23.180 --> 38:27.300
+ and it helps brand new brain cells grow in your hippocampus.
+
+38:27.300 --> 38:28.140
+ We all have that.
+
+38:28.140 --> 38:29.140
+ Even if you're a couch potato
+
+38:29.140 --> 38:31.620
+ you can get new brain cells in your hippocampus to grow.
+
+38:31.620 --> 38:35.580
+ But it's like giving your hippocampus a boost
+
+38:35.580 --> 38:39.420
+ with this regular BDNF if you are exercising.
+
+38:39.420 --> 38:42.300
+ Which means that we all have the capacity
+
+38:42.300 --> 38:46.460
+ to grow a bigger, fatter, fluffier hippocampus.
+
+38:46.460 --> 38:48.900
+ And so what I like to give people
+
+38:48.900 --> 38:51.660
+ is this image of every single time you move your body
+
+38:51.660 --> 38:54.500
+ it's like giving your brain this wonderful bubble bath
+
+38:54.500 --> 38:55.820
+ of neurochemicals.
+
+38:55.820 --> 38:56.660
+ What's going on?
+
+38:56.660 --> 38:58.900
+ I need my bubble bath of noradrenaline
+
+38:58.900 --> 39:02.620
+ and dopamine and serotonin and growth factors.
+
+39:02.620 --> 39:05.860
+ And with regular bubble baths, what am I doing?
+
+39:05.860 --> 39:09.100
+ I'm growing a big, fat, fluffy hippocampus.
+
+39:09.100 --> 39:12.540
+ And I'm not gonna cure my father's dementia,
+
+39:12.540 --> 39:13.980
+ Alzheimer's dementia.
+
+39:13.980 --> 39:14.820
+ But you know what?
+
+39:14.820 --> 39:19.060
+ If I go into my 70s with a big, fat, fluffy hippocampus,
+
+39:19.060 --> 39:23.020
+ even if I had that in my genes and it starts to kick in,
+
+39:23.020 --> 39:26.380
+ it's gonna take longer for that disease to start to affect
+
+39:26.380 --> 39:29.220
+ my ability to form and retain new long-term memories
+
+39:29.220 --> 39:31.780
+ for facts and events, which is my motivation
+
+39:31.780 --> 39:34.300
+ for getting up and doing my 30 to 45 minutes
+
+39:34.300 --> 39:36.060
+ of aerobic exercise every day.
+
+39:36.060 --> 39:36.900
+ Fantastic.
+
+39:39.220 --> 39:41.100
+ Quick question about your protocol,
+
+39:41.100 --> 39:44.940
+ just because, and then we'll discuss a few mechanistic
+
+39:44.940 --> 39:47.460
+ things related to what signals the body
+
+39:47.460 --> 39:49.060
+ might be sending the brain,
+
+39:49.060 --> 39:54.060
+ and a little bit more detail on BDNF and some circuitry.
+
+39:54.860 --> 39:59.660
+ So 30 to 45 minutes, it sounds like cardiovascular exercise
+
+39:59.660 --> 40:01.860
+ might be special.
+
+40:01.860 --> 40:05.140
+ But as I say that, and I think about the literature
+
+40:05.140 --> 40:08.100
+ that I'm aware of in mice and some in monkeys
+
+40:08.100 --> 40:11.620
+ and certainly in humans, looking at the effects of exercise
+
+40:11.620 --> 40:13.900
+ on brain function and typically the outcome
+
+40:13.900 --> 40:15.540
+ is improvement almost always.
+
+40:15.540 --> 40:16.940
+ I don't think I've ever seen a paper showing
+
+40:16.940 --> 40:19.900
+ that when animals or humans exercise more
+
+40:19.900 --> 40:22.100
+ that their brain gets worse.
+
+40:22.100 --> 40:24.020
+ I just can't think of a single paper.
+
+40:24.020 --> 40:25.300
+ It doesn't mean it doesn't exist.
+
+40:25.300 --> 40:27.620
+ I'm sure someone will put one in the comment section.
+
+40:27.620 --> 40:30.340
+ They'll find that one and thank you if you can find that.
+
+40:30.340 --> 40:34.380
+ But it seems like it's always cardiovascular exercise
+
+40:34.380 --> 40:36.220
+ and experimentally in a lab, it's a lot easier
+
+40:36.220 --> 40:38.100
+ to get a mouse to run on a treadmill
+
+40:38.100 --> 40:39.540
+ than it is to get a mouse to lift weights.
+
+40:39.540 --> 40:41.180
+ Although people have put a little ankle weights
+
+40:41.180 --> 40:42.460
+ on mice and done.
+
+40:42.460 --> 40:44.800
+ And the ways of getting mice to do resistance work
+
+40:44.800 --> 40:46.180
+ is actually a little bit barbaric
+
+40:46.180 --> 40:49.100
+ because oftentimes they'll incapacitate a limb
+
+40:49.100 --> 40:50.500
+ to overload another limb.
+
+40:50.500 --> 40:51.780
+ So it's an asymmetric thing.
+
+40:51.780 --> 40:55.100
+ It's not the same as sending them in to do squats
+
+40:55.100 --> 40:56.500
+ or deadlifts or something.
+
+40:56.500 --> 41:00.220
+ So, but cardiovascular exercise might be special.
+
+41:00.220 --> 41:03.060
+ And what are your thoughts on that?
+
+41:03.060 --> 41:06.420
+ And please first though, tell us your routine.
+
+41:06.420 --> 41:08.960
+ Your routine is 30 to 45 minutes of,
+
+41:08.960 --> 41:11.420
+ are you a Peloton cycler?
+
+41:11.420 --> 41:13.300
+ Does it matter?
+
+41:13.300 --> 41:15.740
+ I think that the data suggests
+
+41:15.740 --> 41:18.200
+ that as long as your heart rate is getting up
+
+41:18.200 --> 41:20.820
+ for these long-term effects on your hippocampus
+
+41:20.820 --> 41:24.260
+ and prefrontal cortex, you also get better
+
+41:24.260 --> 41:26.940
+ at shifting and focusing your attention.
+
+41:27.920 --> 41:30.040
+ For that you need cardiovascular.
+
+41:30.040 --> 41:32.340
+ And what I use is a video workout
+
+41:32.340 --> 41:33.940
+ that I started even before the pandemic
+
+41:33.940 --> 41:35.140
+ is called Daily Burn.
+
+41:35.140 --> 41:38.020
+ And it's just thousands of different workouts.
+
+41:38.020 --> 41:42.420
+ But I love, they are 30 minutes that I sometimes add on
+
+41:42.420 --> 41:46.140
+ a 10 to 15 minute stretch at the beginning or at the end.
+
+41:46.140 --> 41:47.940
+ But I love the variety.
+
+41:47.940 --> 41:49.160
+ Sometimes I do it with weights.
+
+41:49.160 --> 41:51.460
+ Sometimes I do it without weights.
+
+41:51.460 --> 41:52.400
+ I love kickboxing.
+
+41:52.400 --> 41:54.260
+ So they have a lot of kickboxing in there.
+
+41:54.260 --> 41:58.060
+ It just fits my routine.
+
+41:58.060 --> 41:59.600
+ And it's always there.
+
+41:59.600 --> 42:02.620
+ And I don't have to get all dressed up to go to the gym
+
+42:02.620 --> 42:04.340
+ to work out.
+
+42:04.340 --> 42:05.540
+ So that's what I do.
+
+42:05.540 --> 42:07.820
+ And that's a daily thing, seven days a week.
+
+42:07.820 --> 42:09.400
+ Seven days a week, fantastic.
+
+42:10.660 --> 42:13.220
+ So in terms of the way that some of these changes
+
+42:13.220 --> 42:16.540
+ are being conveyed from the body to the brain,
+
+42:16.540 --> 42:17.740
+ that fascinates me.
+
+42:17.740 --> 42:18.940
+ I mean, as you and I know,
+
+42:18.940 --> 42:22.340
+ and I'm sort of a repeating record on the podcast,
+
+42:22.340 --> 42:24.340
+ always saying, you got a brain,
+
+42:24.340 --> 42:25.460
+ but you also have a spinal cord
+
+42:25.460 --> 42:27.100
+ and then your nervous system connects everything.
+
+42:27.100 --> 42:30.060
+ Every organ in your body is basically signaled
+
+42:30.060 --> 42:32.680
+ to by the nervous system and back to the nervous system,
+
+42:32.680 --> 42:34.120
+ your spleen, everything.
+
+42:34.120 --> 42:37.300
+ But so let's imagine your morning routine,
+
+42:37.300 --> 42:39.580
+ you do your cardiovascular exercise.
+
+42:39.580 --> 42:41.380
+ Okay, so you're pumping more blood.
+
+42:41.380 --> 42:43.220
+ That's the definition of a higher heart rate.
+
+42:43.220 --> 42:46.260
+ Stroke volume of the heart goes up over time.
+
+42:46.260 --> 42:47.420
+ You're getting fitter.
+
+42:47.420 --> 42:49.580
+ So blood flow to the brain is increasing.
+
+42:49.580 --> 42:53.420
+ Do we know how that gets translated to a signal
+
+42:53.420 --> 42:54.980
+ to release more BDNF?
+
+42:54.980 --> 42:57.700
+ And then it raises this other question,
+
+42:57.700 --> 42:59.780
+ which is, does it matter where your mind is
+
+42:59.780 --> 43:01.380
+ when you exercise?
+
+43:01.380 --> 43:03.700
+ Because ultimately the brain, of course,
+
+43:03.700 --> 43:05.420
+ you can anchor your attention to the exercise
+
+43:05.420 --> 43:07.740
+ or you can be listening to a podcast or something else.
+
+43:07.740 --> 43:09.800
+ I've always wondered about this.
+
+43:09.800 --> 43:11.440
+ Can we enhance the effects of exercise
+
+43:11.440 --> 43:13.800
+ by combining the enhanced blood flow
+
+43:13.800 --> 43:16.540
+ with cognitive work during exercise?
+
+43:16.540 --> 43:18.560
+ Or is it simply a matter of just getting more blood flow
+
+43:18.560 --> 43:19.820
+ up to the hippocampus?
+
+43:19.820 --> 43:23.040
+ Yeah, I wish I had the answer to that question too.
+
+43:23.040 --> 43:26.660
+ My instinct is, yes, it matters,
+
+43:26.660 --> 43:29.060
+ partially because of the work of your colleague,
+
+43:29.060 --> 43:33.620
+ Alia Crum, on mindset and the power of that to change
+
+43:33.620 --> 43:37.360
+ how physiologically our body is responding.
+
+43:37.360 --> 43:41.140
+ So how could it not work in her experiments
+
+43:41.140 --> 43:43.100
+ and, or work in her experiments
+
+43:43.100 --> 43:48.100
+ and not work for my morning or our morning exercise routine?
+
+43:48.300 --> 43:49.660
+ But are there studies?
+
+43:49.660 --> 43:51.180
+ Point to a study, I don't know of one.
+
+43:51.180 --> 43:55.380
+ So exercise neuroscientists out there,
+
+43:55.380 --> 43:59.100
+ I'd love to see that study done.
+
+43:59.100 --> 44:00.900
+ So yes, it works.
+
+44:00.900 --> 44:03.900
+ Before I go into the aerobic thing,
+
+44:03.900 --> 44:07.560
+ I always like to start with the least amount of exercise
+
+44:07.560 --> 44:10.140
+ to get something really useful
+
+44:10.140 --> 44:12.060
+ because I don't want people to say,
+
+44:12.060 --> 44:16.060
+ oh God, I hate sweating and I don't wanna listen anymore.
+
+44:16.060 --> 44:20.400
+ So I always like to start with studies have shown
+
+44:20.400 --> 44:24.720
+ that just 10 minutes of walking outside can shift your mood.
+
+44:24.720 --> 44:26.980
+ That is part of that neurochemical bubble bath
+
+44:26.980 --> 44:30.060
+ that you're getting, dopamine, serotonin, noradrenaline.
+
+44:30.060 --> 44:33.380
+ And 10 minutes, and anybody can walk for 10 minutes.
+
+44:34.300 --> 44:38.600
+ And so that is, for all of you thinking that out there,
+
+44:38.600 --> 44:40.120
+ what is the minimum that I could get
+
+44:40.120 --> 44:41.060
+ some of these brain effects?
+
+44:41.060 --> 44:43.380
+ 10 minutes of walking, anybody can do it.
+
+44:43.380 --> 44:44.420
+ Is outside important?
+
+44:44.420 --> 44:47.440
+ I'm a big believer in getting photons into the eyes.
+
+44:47.440 --> 44:52.440
+ It, I think that that study was done indoors on a treadmill.
+
+44:53.520 --> 44:56.040
+ So, and the comparison wasn't done,
+
+44:56.040 --> 44:58.200
+ but moving your, which is great.
+
+44:58.200 --> 45:00.540
+ I, you know, some in the middle of the pandemic,
+
+45:00.540 --> 45:03.260
+ I walked around my apartment for 30 minutes sometimes
+
+45:03.260 --> 45:05.600
+ just for some variety.
+
+45:05.600 --> 45:09.480
+ Felt like a rat on a running wheel, but yes.
+
+45:09.480 --> 45:14.480
+ So that minimum amount of movement in your body
+
+45:14.480 --> 45:17.320
+ can get you those mood effects.
+
+45:17.320 --> 45:20.960
+ But what about the big, fat, fluffy hippocampus?
+
+45:20.960 --> 45:23.400
+ What about the better performing prefrontal cortex?
+
+45:23.400 --> 45:28.400
+ That's where you start to need the cardio workout.
+
+45:28.400 --> 45:30.920
+ And from my reading of the literature,
+
+45:30.920 --> 45:33.520
+ there haven't been enough studies, you know,
+
+45:33.520 --> 45:37.360
+ directly comparing, contrasting, kickboxing with running
+
+45:37.360 --> 45:41.360
+ with whatever other cardio that you need to do.
+
+45:41.360 --> 45:44.840
+ But any cardio workout that is done
+
+45:44.840 --> 45:46.200
+ has these positive effects.
+
+45:46.200 --> 45:48.260
+ So I'm gonna say, my interpretation of that
+
+45:48.260 --> 45:51.320
+ is that whatever way you get your heart rate up,
+
+45:51.320 --> 45:53.400
+ including a power walk,
+
+45:53.400 --> 45:55.280
+ a power walk can get your heart rate up,
+
+45:55.280 --> 45:57.260
+ that is beneficial.
+
+45:57.260 --> 45:59.900
+ And what is happening, there are two pathways
+
+45:59.900 --> 46:02.420
+ that have been studied about how you go
+
+46:02.420 --> 46:05.320
+ from moving your body to more BDNF,
+
+46:05.320 --> 46:09.520
+ that neurotrophin that's increasing the growth
+
+46:09.520 --> 46:11.360
+ of new hippocampal brain cells.
+
+46:11.360 --> 46:12.800
+ The two pathways are the following.
+
+46:12.800 --> 46:16.540
+ One is a myokine, which is a protein released
+
+46:16.540 --> 46:18.960
+ by the muscles, and not your heart.
+
+46:18.960 --> 46:21.760
+ These are striated muscles in your body.
+
+46:21.760 --> 46:25.480
+ And so by running, these were studies done in rats
+
+46:25.480 --> 46:29.040
+ on running wheels, they showed that the running rats
+
+46:29.040 --> 46:32.320
+ had more of this myokine released,
+
+46:32.320 --> 46:34.880
+ the myokine passed the blood-brain barrier,
+
+46:34.880 --> 46:39.640
+ so got into the rarefied, very protected bloodstream
+
+46:39.640 --> 46:41.480
+ of inside the brain.
+
+46:41.480 --> 46:44.600
+ And that myokine stimulated the release
+
+46:44.600 --> 46:47.120
+ of BDNF in the brain.
+
+46:47.120 --> 46:48.680
+ That's pathway number one.
+
+46:48.680 --> 46:52.080
+ Pathway number two comes through the liver,
+
+46:52.080 --> 46:56.400
+ because exercise is a stress generally.
+
+46:56.400 --> 46:57.240
+ How do we know that?
+
+46:57.240 --> 47:00.000
+ Well, cortisol is released whenever we exercise.
+
+47:00.000 --> 47:03.700
+ We need that sugar in our blood,
+
+47:03.700 --> 47:07.800
+ and so that's how the physiological mechanisms work.
+
+47:07.800 --> 47:12.800
+ And so there is a ketone, beta-hydroxybutyrate,
+
+47:14.000 --> 47:15.900
+ that we've known for a very long time
+
+47:15.900 --> 47:19.240
+ that gets released by the liver during exercise.
+
+47:19.240 --> 47:22.640
+ And we also know that that particular ketone
+
+47:22.640 --> 47:24.240
+ passes that blood-brain barrier,
+
+47:24.240 --> 47:26.120
+ and it's another stimulant for BDNF.
+
+47:26.120 --> 47:29.880
+ So kind of the final common pathway seems to be
+
+47:29.880 --> 47:34.160
+ BDNF stimulation in the hippocampus.
+
+47:34.160 --> 47:35.780
+ Is it the only one?
+
+47:35.780 --> 47:37.240
+ Probably not, but that's the one
+
+47:37.240 --> 47:39.380
+ that has been studied most clearly.
+
+47:39.380 --> 47:42.840
+ So it comes from all of our physiological systems,
+
+47:42.840 --> 47:45.960
+ our muscles working, our liver responding
+
+47:45.960 --> 47:49.480
+ to the stress of exercise, and what is it doing?
+
+47:49.480 --> 47:54.480
+ It is making our, giving more BDNF precursors
+
+47:54.560 --> 47:59.040
+ to get into our brain to cause the up-spike of BDNF,
+
+47:59.040 --> 48:00.360
+ which is part of your bubble bath
+
+48:00.360 --> 48:02.200
+ that you're getting every time you move.
+
+48:02.200 --> 48:05.200
+ I love that description of a factor from muscle
+
+48:05.200 --> 48:06.200
+ and a factor from liver,
+
+48:06.200 --> 48:09.960
+ because anytime we're thinking about movement of the body
+
+48:09.960 --> 48:12.360
+ and translating that to the brain,
+
+48:12.360 --> 48:14.560
+ as you so clearly pointed out,
+
+48:14.560 --> 48:17.700
+ that needs to be, it needs to traverse
+
+48:17.700 --> 48:18.720
+ the blood-brain barrier.
+
+48:18.720 --> 48:20.240
+ Not everything that happens in the body
+
+48:20.240 --> 48:21.960
+ is communicated to the brain,
+
+48:21.960 --> 48:25.040
+ and these seem like really important signals.
+
+48:25.040 --> 48:28.720
+ Beta-hydroxybutyrate, you mentioned, is a ketone.
+
+48:28.720 --> 48:31.360
+ I just want to underscore, that doesn't mean, folks,
+
+48:31.360 --> 48:33.380
+ that you need to be on a ketogenic diet.
+
+48:33.380 --> 48:35.840
+ I think people hear ketone and they think,
+
+48:35.840 --> 48:38.920
+ I know some people are, most people are not, I imagine.
+
+48:40.040 --> 48:42.280
+ There are ketones that are released in your brain and body
+
+48:42.280 --> 48:45.640
+ that can function, even if you're ingesting carbohydrates
+
+48:45.640 --> 48:48.600
+ and not ketogenic, just for a point of clarification.
+
+48:49.520 --> 48:53.920
+ This issue of new neurons is one that you hear a lot.
+
+48:53.920 --> 48:56.560
+ Neurogenesis, you're going to grow new neurons, new neurons.
+
+48:56.560 --> 49:00.020
+ And my understanding is that the rodent literature
+
+49:00.020 --> 49:04.160
+ is very clear, that animals that run on wheels more often,
+
+49:04.160 --> 49:05.840
+ it turns out rodents love to run on wheels.
+
+49:05.840 --> 49:07.480
+ Do you know these studies by Hoppe Hofster,
+
+49:07.480 --> 49:08.880
+ which are pretty funny?
+
+49:08.880 --> 49:10.840
+ They're very cool, by the way, Hoppe,
+
+49:10.840 --> 49:14.380
+ how a huge investigator, I'm not making light of them.
+
+49:14.380 --> 49:17.400
+ They put running wheels in a field
+
+49:17.400 --> 49:20.800
+ and wild rodents will run to the running wheel
+
+49:20.800 --> 49:22.440
+ and run on that running wheel.
+
+49:22.440 --> 49:25.640
+ So they really enjoy it, which I find amusing
+
+49:25.640 --> 49:27.640
+ for reasons that probably only a neuroscientist
+
+49:27.640 --> 49:29.420
+ would find amusing.
+
+49:29.420 --> 49:33.640
+ In any case, in rodents, it seems that running more
+
+49:33.640 --> 49:36.640
+ on a wheel can trigger neurogenesis,
+
+49:36.640 --> 49:39.280
+ literally the birth of new neurons
+
+49:39.280 --> 49:41.960
+ and the addition of new neurons to the hippocampus.
+
+49:41.960 --> 49:44.740
+ In monkeys, this has been controversial.
+
+49:44.740 --> 49:46.640
+ It seems it does happen in the hippocampus
+
+49:46.640 --> 49:49.920
+ and in the olfactory bulb, probably not in the neocortex.
+
+49:49.920 --> 49:52.840
+ Thinking back to the decades or more controversy
+
+49:52.840 --> 49:55.040
+ between Liz Gould and Pashko Rakesh,
+
+49:55.040 --> 49:57.560
+ I hope they settled their differences there.
+
+49:57.560 --> 50:01.460
+ Neuroscientists love to argue, it's what we do.
+
+50:02.720 --> 50:05.920
+ And in humans, I think it's been a bit controversial.
+
+50:05.920 --> 50:07.920
+ Some people say absolutely yes,
+
+50:07.920 --> 50:09.280
+ other people say absolutely no,
+
+50:09.280 --> 50:12.020
+ there are new neurons added to the adult brain.
+
+50:13.480 --> 50:17.040
+ I haven't followed that literature down to the detail,
+
+50:17.040 --> 50:21.200
+ but I do remember one study that I don't think is contested,
+
+50:21.200 --> 50:24.380
+ which is the work of Rusty Gage at the Salk Institute,
+
+50:24.380 --> 50:28.800
+ where they actually injected a sort of dye type marker
+
+50:28.800 --> 50:31.720
+ into the brains of terminally ill humans
+
+50:31.720 --> 50:34.920
+ who very graciously offered to have their brains removed
+
+50:34.920 --> 50:36.880
+ and dissected after death.
+
+50:36.880 --> 50:40.880
+ And in these, in some cases, very old,
+
+50:40.880 --> 50:43.280
+ terminally ill humans, they did see evidence
+
+50:43.280 --> 50:46.600
+ for new neurons being born in the hippocampus.
+
+50:46.600 --> 50:48.780
+ Can I trust that idea still?
+
+50:48.780 --> 50:50.480
+ Is that generally accepted?
+
+50:50.480 --> 50:54.840
+ Well, so after that study, which was quite a while ago,
+
+50:54.840 --> 50:58.000
+ there are more recent studies, still controversial,
+
+50:58.000 --> 51:01.820
+ but showing and demonstrating using even new
+
+51:01.820 --> 51:03.560
+ and better techniques than were used
+
+51:03.560 --> 51:05.460
+ in that original Rusty Gage study,
+
+51:05.460 --> 51:07.680
+ which was groundbreaking at the time,
+
+51:07.680 --> 51:12.680
+ that suggest and I think show that there are new neurons
+
+51:13.480 --> 51:18.480
+ born in adult human brains into the ninth decade of life.
+
+51:18.480 --> 51:20.200
+ So they not only did this,
+
+51:20.200 --> 51:22.400
+ I think those patients were in their 60s,
+
+51:22.400 --> 51:24.480
+ then they died of cancer,
+
+51:25.480 --> 51:29.080
+ but these new studies looking across the timeline,
+
+51:29.080 --> 51:30.960
+ can we see, because the other thing was,
+
+51:30.960 --> 51:33.200
+ yeah, maybe you have some when you're 20,
+
+51:33.200 --> 51:34.800
+ but by the time you're older
+
+51:34.800 --> 51:36.920
+ and you might need these new neurons,
+
+51:36.920 --> 51:38.880
+ you have no new neuron growth.
+
+51:38.880 --> 51:43.680
+ And so these studies seem to suggest that yes, yes, you did.
+
+51:43.680 --> 51:47.440
+ Yes, you do, and we all do, even into old age.
+
+51:47.440 --> 51:48.440
+ So, yeah.
+
+51:48.440 --> 51:50.680
+ Great, and I'll just take a moment to say that
+
+51:50.680 --> 51:54.800
+ I am personally not aware of any studies looking at
+
+51:54.800 --> 51:57.680
+ other forms of exercise besides cardiovascular exercise
+
+51:57.680 --> 51:59.280
+ for sake of brain health.
+
+51:59.280 --> 52:02.080
+ And this I think is an important gap in the literature
+
+52:02.080 --> 52:04.400
+ that ought to be filled, whether or not, for instance,
+
+52:04.400 --> 52:06.320
+ high intensity interval training,
+
+52:06.320 --> 52:08.640
+ or whether or not weight training,
+
+52:09.520 --> 52:11.640
+ which has other effects on the musculature.
+
+52:11.640 --> 52:14.480
+ So you can imagine perhaps the myokine to BDNF pathway,
+
+52:14.480 --> 52:16.480
+ the pathway one that you mentioned might be signaled,
+
+52:16.480 --> 52:18.120
+ but maybe not the liver pathway.
+
+52:18.120 --> 52:19.920
+ Maybe, yes, I'm speculating here.
+
+52:19.920 --> 52:21.120
+ Those studies need to be done.
+
+52:21.120 --> 52:24.120
+ To my knowledge, they just haven't been done yet,
+
+52:24.120 --> 52:25.200
+ but they should be done.
+
+52:26.320 --> 52:28.360
+ If you would, could you tell us about some of the more
+
+52:28.360 --> 52:33.360
+ specific effects of exercise on memory?
+
+52:33.920 --> 52:37.760
+ Memory is a broad category of effects and phenomena.
+
+52:37.760 --> 52:40.600
+ So things like, what comes to mind is short-term,
+
+52:40.600 --> 52:42.920
+ medium and long-term memory, reaction time,
+
+52:42.920 --> 52:44.920
+ learning math, at least for me,
+
+52:44.920 --> 52:48.560
+ is quite a bit different than learning history,
+
+52:48.560 --> 52:50.280
+ although there's certainly overlap
+
+52:50.280 --> 52:52.440
+ in the neural underpinnings.
+
+52:52.440 --> 52:55.160
+ What has been demonstrated in the laboratory
+
+52:55.160 --> 52:57.800
+ in animal models, but especially in humans?
+
+52:57.800 --> 53:00.320
+ And if you want to share with us any results
+
+53:00.320 --> 53:02.920
+ from your lab, published or unpublished,
+
+53:02.920 --> 53:04.520
+ I'm sure that the audience would be delighted
+
+53:04.520 --> 53:05.360
+ to learn about them.
+
+53:05.360 --> 53:09.320
+ Absolutely, let me start with kind of the immediate effects,
+
+53:09.320 --> 53:11.160
+ acute effects as they're called,
+
+53:11.160 --> 53:13.000
+ of exercise on the brain.
+
+53:13.000 --> 53:16.840
+ So this is asking, what does a one-off exercise session
+
+53:16.840 --> 53:18.760
+ do for your brain?
+
+53:18.760 --> 53:23.760
+ And there are three major effects that have been reproduced.
+
+53:24.640 --> 53:27.840
+ I've seen it in my lab, many labs have reproduced this.
+
+53:27.840 --> 53:30.000
+ So what do you get with a one-off?
+
+53:30.000 --> 53:33.520
+ This is usually an aerobic type exercise session,
+
+53:33.520 --> 53:35.360
+ 30 to 45 minutes.
+
+53:35.360 --> 53:39.240
+ What you get is that mood boost, very, very consistent.
+
+53:39.240 --> 53:44.240
+ You get improved prefrontal function,
+
+53:44.240 --> 53:47.480
+ typically tested with a Stroop test,
+
+53:47.480 --> 53:49.840
+ which is a test that asks you to shift
+
+53:49.840 --> 53:52.800
+ and focus your attention in specific ways.
+
+53:52.800 --> 53:55.280
+ It's a challenging task and clearly dependent
+
+53:55.280 --> 53:57.600
+ on the prefrontal cortex, largely.
+
+53:57.600 --> 54:01.200
+ And significant improvements in reaction time.
+
+54:01.200 --> 54:05.800
+ So your speed at responding, often a motor kind of,
+
+54:05.800 --> 54:09.920
+ but cognitive motor response is improved.
+
+54:09.920 --> 54:12.400
+ Over the pandemic, one of the unpublished studies
+
+54:12.400 --> 54:16.040
+ that I did, looking at the effects of 30 minutes
+
+54:16.040 --> 54:21.040
+ of age-appropriate workout in subjects ranging in age
+
+54:21.880 --> 54:25.120
+ from their 20s all the way up to their 90s.
+
+54:25.120 --> 54:29.880
+ So what are the things that I saw most consistently?
+
+54:29.880 --> 54:34.160
+ Irrespective of your age, everybody got a decrease
+
+54:34.160 --> 54:37.920
+ anxiety and depression and a hostility score,
+
+54:37.920 --> 54:39.760
+ which is very important, you know?
+
+54:39.760 --> 54:42.640
+ So it's not just decreasing your anxiety and depression,
+
+54:42.640 --> 54:45.080
+ but decreasing your hostility levels.
+
+54:45.080 --> 54:45.920
+ Making the world a better place.
+
+54:45.920 --> 54:48.480
+ Making the world a better place.
+
+54:49.480 --> 54:52.440
+ Energy, the feeling of energy went up.
+
+54:52.440 --> 54:56.360
+ And what we found is in the older population,
+
+54:56.360 --> 54:58.920
+ even more than in the younger population,
+
+54:58.920 --> 55:02.200
+ we saw improved performance on both Stroop
+
+55:02.200 --> 55:06.240
+ and Erikson-Flanker task, which is another task
+
+55:06.240 --> 55:10.560
+ dependent on really focusing in on different letters
+
+55:10.560 --> 55:13.360
+ and paying attention to what letter is being shown.
+
+55:13.360 --> 55:17.080
+ So these are consistent effects.
+
+55:17.080 --> 55:18.200
+ How long do they last?
+
+55:18.200 --> 55:19.960
+ One of the studies that I did publish in my lab
+
+55:19.960 --> 55:22.840
+ showed that the immediate effects of exercise
+
+55:22.840 --> 55:25.600
+ lasted up to two hours.
+
+55:25.600 --> 55:27.400
+ Unfortunately, that was the longest that we lasted.
+
+55:27.400 --> 55:29.800
+ We're still there at two hours.
+
+55:29.800 --> 55:33.320
+ So that's, you know, that's a pretty big bang
+
+55:33.320 --> 55:34.160
+ for your buck.
+
+55:34.160 --> 55:35.480
+ One 30 minute.
+
+55:35.480 --> 55:36.320
+ Sorry to interrupt.
+
+55:36.320 --> 55:37.160
+ I just want to make sure I understand.
+
+55:37.160 --> 55:40.400
+ So if, when you say the effects lasted up to two hours,
+
+55:40.400 --> 55:43.840
+ does that mean up to two hours after you finished exercise
+
+55:43.840 --> 55:48.040
+ or up to two hours of memory challenging work?
+
+55:51.040 --> 55:52.600
+ Yeah, just to be clear.
+
+55:52.600 --> 55:53.760
+ Yeah, that's a great question.
+
+55:53.760 --> 55:57.200
+ So my study looked at,
+
+55:57.200 --> 56:00.320
+ two hours after you finish your workout,
+
+56:00.320 --> 56:01.960
+ we gave you these cognitive tests.
+
+56:01.960 --> 56:03.880
+ During that two hour period,
+
+56:03.880 --> 56:06.920
+ you were free to do anything except exercise or eat.
+
+56:06.920 --> 56:11.440
+ And so there was no extra load on people.
+
+56:11.440 --> 56:14.640
+ But two hours later, you did do significantly better
+
+56:14.640 --> 56:17.120
+ on these focused attention tasks
+
+56:17.120 --> 56:21.800
+ compared to a group that watched videos
+
+56:21.800 --> 56:23.520
+ for the exercise period.
+
+56:23.520 --> 56:25.160
+ This was an hour and a half.
+
+56:25.160 --> 56:29.160
+ For the exercise period, this was an hour of cycling
+
+56:29.160 --> 56:30.000
+ that they did.
+
+56:30.000 --> 56:31.920
+ These were young subjects in their 20s.
+
+56:31.920 --> 56:36.920
+ Okay, so if I finish my exercise at 9 a.m.,
+
+56:36.960 --> 56:39.480
+ even if I start this cognitive work,
+
+56:39.480 --> 56:42.680
+ this mental work at 11, I'll still see benefits.
+
+56:42.680 --> 56:44.400
+ Yes, at least by 11,
+
+56:44.400 --> 56:47.440
+ because I didn't go farther than two hours.
+
+56:47.440 --> 56:49.440
+ So it could last even longer than that.
+
+56:49.440 --> 56:51.960
+ But I have evidence that it lasts for two hours.
+
+56:51.960 --> 56:54.680
+ And perhaps if I had started the cognitive work
+
+56:54.680 --> 56:57.360
+ and 45 minutes after my exercise ended,
+
+56:57.360 --> 56:59.160
+ it would also be helpful.
+
+56:59.160 --> 57:01.560
+ So there's no reason I think that you have to wait
+
+57:01.560 --> 57:02.400
+ before starting cognitive work.
+
+57:02.400 --> 57:03.600
+ Yeah, no reason at all.
+
+57:03.600 --> 57:06.240
+ I'm asking questions of the sort that I get in the comments
+
+57:06.240 --> 57:07.920
+ that we are going to get in the comments section.
+
+57:07.920 --> 57:10.200
+ We always strive for clarity here.
+
+57:10.200 --> 57:14.560
+ So what this tells me is that exercising early in the day
+
+57:15.520 --> 57:18.000
+ may have a special effect.
+
+57:18.000 --> 57:20.080
+ I realize that some people cannot exercise
+
+57:20.080 --> 57:21.760
+ until later in the evening,
+
+57:21.760 --> 57:23.720
+ but you mentioned something earlier
+
+57:23.720 --> 57:25.000
+ that I want to cue people to.
+
+57:25.000 --> 57:26.040
+ It's very, very important.
+
+57:26.040 --> 57:27.800
+ I don't think I've ever mentioned this on the podcast,
+
+57:27.800 --> 57:30.720
+ which is any kind of physical activity
+
+57:30.720 --> 57:34.000
+ will increase cortisol to varying degrees.
+
+57:34.000 --> 57:35.520
+ And so sometimes it's a healthy increase.
+
+57:35.520 --> 57:36.920
+ Sometimes it's an unhealthy increase.
+
+57:36.920 --> 57:39.040
+ If you do two hours of really intense exercise
+
+57:39.040 --> 57:40.520
+ and you're not prepared for it,
+
+57:40.520 --> 57:42.000
+ that's a big spike in cortisol,
+
+57:42.000 --> 57:45.120
+ probably not a good thing for most people.
+
+57:45.120 --> 57:47.560
+ But if you are going to do your cardiovascular
+
+57:47.560 --> 57:50.080
+ or weight training later in the day,
+
+57:50.080 --> 57:51.640
+ that increase in cortisol
+
+57:51.640 --> 57:54.640
+ can promote too much wakefulness for sleep, et cetera.
+
+57:55.520 --> 57:57.480
+ Shifting that cortisol spike early in the day
+
+57:57.480 --> 57:59.200
+ is associated with a number of important things
+
+57:59.200 --> 58:02.000
+ related to mood, et cetera.
+
+58:02.000 --> 58:05.080
+ But more and more what I'm thinking and hearing
+
+58:05.080 --> 58:07.080
+ is that exercise early in the day is key.
+
+58:07.080 --> 58:10.080
+ Our former dean of the medical school, Phil Pizzo,
+
+58:10.080 --> 58:11.840
+ was and is kind of famous still
+
+58:11.840 --> 58:16.200
+ for jogging between the hours of like four and 5 a.m.
+
+58:16.200 --> 58:19.040
+ or five and six and then running the medical school.
+
+58:19.040 --> 58:22.040
+ So, and you're up early doing your exercise
+
+58:22.040 --> 58:23.680
+ and cold shower and meditation.
+
+58:23.680 --> 58:25.040
+ We'll talk about meditation.
+
+58:25.040 --> 58:28.240
+ But this is more and more of a push, I feel like,
+
+58:28.240 --> 58:31.200
+ or a stimulus for us to think about
+
+58:31.200 --> 58:33.240
+ moving our exercise earlier in the day.
+
+58:33.240 --> 58:35.840
+ Yeah, I mean, I like to say that,
+
+58:35.840 --> 58:39.600
+ I know there are moms and dads out there
+
+58:39.600 --> 58:41.840
+ and they just say, look, I have a kid.
+
+58:41.840 --> 58:44.400
+ The kid's more important than my doing my exercise.
+
+58:44.400 --> 58:47.160
+ So you will get benefits
+
+58:47.160 --> 58:49.520
+ if you do it whenever you can.
+
+58:49.520 --> 58:52.040
+ So that's great, more power to you.
+
+58:52.040 --> 58:55.160
+ But what all the neuroscience data suggests
+
+58:55.160 --> 58:58.320
+ is the best time to do your exercise
+
+58:58.320 --> 59:01.120
+ is right before you need to use your brain
+
+59:01.120 --> 59:04.160
+ in the most important way that you need to use it every day.
+
+59:04.160 --> 59:07.960
+ And so that is why the morning, for most of us,
+
+59:07.960 --> 59:08.800
+ is beneficial.
+
+59:08.800 --> 59:10.000
+ That's why I do it in the morning.
+
+59:10.000 --> 59:12.840
+ I'm lucky enough to be able to do that.
+
+59:12.840 --> 59:17.080
+ But yeah, it makes sense with everything we know about.
+
+59:17.080 --> 59:20.120
+ How this works and how it benefits our brain.
+
+59:20.120 --> 59:23.920
+ I think about our colleague, Eric Kandel,
+
+59:23.920 --> 59:27.520
+ who not incidentally has a Nobel Prize in studies memory.
+
+59:27.520 --> 59:32.160
+ And rumor has it that he's been a swimmer
+
+59:32.160 --> 59:33.760
+ for a lot of years that he put in,
+
+59:33.760 --> 59:35.720
+ I think nowadays he's in his 90s.
+
+59:35.720 --> 59:38.280
+ Now he'll put in half a mile,
+
+59:38.280 --> 59:41.000
+ but he used to swim a mile a day or something of that sort.
+
+59:41.000 --> 59:42.880
+ I heard that too, that he was a swimmer
+
+59:42.880 --> 59:44.800
+ and he does it very, very religiously.
+
+59:44.800 --> 59:46.720
+ Okay, so there are a few other neuroscientists
+
+59:46.720 --> 59:47.560
+ that do that.
+
+59:47.560 --> 59:48.560
+ I can think of a lot of neuroscientists
+
+59:48.560 --> 59:50.000
+ that probably should exercise more.
+
+59:50.000 --> 59:51.320
+ And I don't say that to poke at them.
+
+59:51.320 --> 59:53.680
+ I just would love to see them doing their incredible work
+
+59:53.680 --> 59:55.080
+ for many more decades.
+
+59:55.080 --> 59:56.280
+ And everything that we're talking about today
+
+59:56.280 --> 59:58.160
+ indicates that if one doesn't,
+
+59:59.200 --> 1:00:02.240
+ unless you have incredible genetics,
+
+1:00:02.240 --> 1:00:05.040
+ we all experience age-related dementia, right?
+
+1:00:05.040 --> 1:00:09.280
+ I mean, the story of your father is a salient one.
+
+1:00:09.280 --> 1:00:11.800
+ And we should remember that as we go forward.
+
+1:00:11.800 --> 1:00:13.680
+ But I also want to emphasize,
+
+1:00:13.680 --> 1:00:15.760
+ I'd love to get your thoughts on just memory
+
+1:00:15.760 --> 1:00:17.800
+ and memory loss in general.
+
+1:00:17.800 --> 1:00:22.080
+ It seems we all get worse at remembering and learning things
+
+1:00:22.080 --> 1:00:24.520
+ even if we don't get Alzheimer's.
+
+1:00:24.520 --> 1:00:27.560
+ When does that typically start for humans?
+
+1:00:27.560 --> 1:00:30.560
+ You know, I think there's so much variability,
+
+1:00:31.480 --> 1:00:34.600
+ not only because we are individuals,
+
+1:00:34.600 --> 1:00:39.280
+ but because our stress levels are different
+
+1:00:39.280 --> 1:00:42.560
+ and everybody's anxiety level has gone up
+
+1:00:42.560 --> 1:00:44.900
+ in the last couple of years.
+
+1:00:44.900 --> 1:00:46.800
+ But that also has an effect.
+
+1:00:46.800 --> 1:00:50.280
+ We don't remember as much in a highly stressful,
+
+1:00:50.280 --> 1:00:52.360
+ highly anxious situation.
+
+1:00:52.360 --> 1:00:56.080
+ So, you know, as you know, it's hard to answer that question.
+
+1:00:56.080 --> 1:00:57.520
+ People say, okay, just tell me
+
+1:00:57.520 --> 1:00:58.760
+ how much exercise I have to do.
+
+1:00:58.760 --> 1:00:59.600
+ Okay, just-
+
+1:00:59.600 --> 1:01:00.720
+ 30 to 40 miles, it's a day.
+
+1:01:00.720 --> 1:01:02.880
+ But I love that per day.
+
+1:01:02.880 --> 1:01:04.600
+ You know, I've been doing this whole thing
+
+1:01:04.600 --> 1:01:07.880
+ of telling people, oh, the data say 150 to 200 minutes
+
+1:01:07.880 --> 1:01:10.520
+ or zone two cardio, which is kind of, you know,
+
+1:01:10.520 --> 1:01:12.920
+ moderately hard, but not excessively hard.
+
+1:01:12.920 --> 1:01:17.440
+ But I love this every day theme because whenever I do that,
+
+1:01:17.440 --> 1:01:18.480
+ the questions that come back are,
+
+1:01:18.480 --> 1:01:20.520
+ well, what if I take a long hike on the weekends?
+
+1:01:20.520 --> 1:01:22.080
+ And so people start negotiating.
+
+1:01:22.080 --> 1:01:23.280
+ There's something that's very powerful
+
+1:01:23.280 --> 1:01:24.920
+ about non-negotiable every day.
+
+1:01:24.920 --> 1:01:27.520
+ Sun in your eyes every day, even through cloud cover.
+
+1:01:27.520 --> 1:01:29.680
+ Exercise for 30, 45 minutes.
+
+1:01:29.680 --> 1:01:30.800
+ Cold shower every day.
+
+1:01:30.800 --> 1:01:31.880
+ Every day, yeah.
+
+1:01:33.780 --> 1:01:36.020
+ You know, my understanding of the literature
+
+1:01:36.020 --> 1:01:38.800
+ is that somewhere in our 50s or 60s,
+
+1:01:38.800 --> 1:01:41.720
+ we start noticing little hiccups in memory.
+
+1:01:41.720 --> 1:01:43.120
+ Yeah.
+
+1:01:43.120 --> 1:01:45.620
+ For some people younger, for some people later.
+
+1:01:45.620 --> 1:01:46.460
+ Yeah.
+
+1:01:46.460 --> 1:01:49.880
+ But I have to imagine that doing the exercise
+
+1:01:49.880 --> 1:01:51.320
+ throughout one's entire life
+
+1:01:51.320 --> 1:01:53.200
+ is going to help offset some of this,
+
+1:01:53.200 --> 1:01:56.560
+ simply because of the BDNF and other downstream effects.
+
+1:01:56.560 --> 1:01:57.400
+ Yeah, yeah.
+
+1:01:57.400 --> 1:01:59.760
+ I mean, that's what it suggests.
+
+1:01:59.760 --> 1:02:01.280
+ One of my favorite studies,
+
+1:02:01.280 --> 1:02:03.720
+ and then I want to get back to you wanted,
+
+1:02:03.720 --> 1:02:06.680
+ you invited me to share some of my unpublished data
+
+1:02:06.680 --> 1:02:08.920
+ on the effects of long-term exercise.
+
+1:02:08.920 --> 1:02:11.580
+ But first I want to share one of my favorite studies,
+
+1:02:11.580 --> 1:02:16.520
+ which is a longitudinal study done in Swedish women.
+
+1:02:16.520 --> 1:02:18.920
+ And this was published in 2018.
+
+1:02:18.920 --> 1:02:22.760
+ And what they did was, back in the 1960s,
+
+1:02:22.760 --> 1:02:27.760
+ they found Swedish women, 300 Swedish women in their 40s.
+
+1:02:27.840 --> 1:02:31.520
+ And they characterized them as low fit, mid fit, high fit.
+
+1:02:31.520 --> 1:02:32.360
+ Okay?
+
+1:02:32.360 --> 1:02:33.560
+ And then 40 years later,
+
+1:02:33.560 --> 1:02:34.880
+ they came back and found these women.
+
+1:02:34.880 --> 1:02:36.840
+ They let them live their lives.
+
+1:02:36.840 --> 1:02:39.560
+ And they asked what happened to these women
+
+1:02:39.560 --> 1:02:42.320
+ as a function of whether they were low fit, mid fit,
+
+1:02:42.320 --> 1:02:44.640
+ high fit in their 40s.
+
+1:02:44.640 --> 1:02:46.160
+ They're now in their 80s.
+
+1:02:46.160 --> 1:02:51.160
+ And what they found was that relative to the low fit
+
+1:02:51.520 --> 1:02:55.960
+ or mid fit women, the women that were high fit
+
+1:02:55.960 --> 1:03:00.960
+ gained nine more years of good cognition later in life.
+
+1:03:03.120 --> 1:03:06.240
+ Now, this is not a randomized control study.
+
+1:03:06.240 --> 1:03:08.440
+ This is a correlational study.
+
+1:03:08.440 --> 1:03:10.280
+ But does it agree with everything
+
+1:03:10.280 --> 1:03:12.600
+ that we've been talking about today?
+
+1:03:12.600 --> 1:03:13.440
+ Yes.
+
+1:03:13.440 --> 1:03:15.240
+ Does it agree with this idea that, you know,
+
+1:03:15.240 --> 1:03:16.280
+ the women that were high fit
+
+1:03:16.280 --> 1:03:19.400
+ were giving their brains this bubble bath,
+
+1:03:19.400 --> 1:03:21.360
+ you know, maybe not every day,
+
+1:03:21.360 --> 1:03:24.440
+ but very, very regularly for that entire 40 years.
+
+1:03:24.440 --> 1:03:28.000
+ And that built up their big, fat, beautiful hippocampi.
+
+1:03:28.000 --> 1:03:29.000
+ Yes, it does.
+
+1:03:29.000 --> 1:03:31.200
+ So that's one of my favorite studies.
+
+1:03:31.200 --> 1:03:32.020
+ Yeah.
+
+1:03:32.020 --> 1:03:37.020
+ Another cause for getting the exercise in consistently.
+
+1:03:37.440 --> 1:03:38.280
+ Yes.
+
+1:03:38.280 --> 1:03:42.120
+ You know, I am impressed by this 10 minute walk
+
+1:03:42.120 --> 1:03:45.720
+ and the improvements in mood from just a 10 minute walk.
+
+1:03:45.720 --> 1:03:49.480
+ But again, I think that daily repetition.
+
+1:03:49.480 --> 1:03:54.480
+ Also, I have to imagine has effects on the very pathways
+
+1:03:54.800 --> 1:03:56.080
+ that allow plasticity.
+
+1:03:56.080 --> 1:03:58.640
+ This is something we, in the realm of neuroplasticity,
+
+1:03:58.640 --> 1:04:00.520
+ we don't often hear about or think about,
+
+1:04:00.520 --> 1:04:01.480
+ even as neuroscientists,
+
+1:04:01.480 --> 1:04:04.120
+ which is that the pathways for engaging plasticity
+
+1:04:04.120 --> 1:04:07.440
+ probably can be, probably, I'm speculating here,
+
+1:04:07.440 --> 1:04:09.080
+ can be made better
+
+1:04:09.080 --> 1:04:11.120
+ by engaging in the sorts of behavior
+
+1:04:11.120 --> 1:04:12.440
+ that stimulate plasticity.
+
+1:04:12.440 --> 1:04:13.520
+ In other words, if one gets better
+
+1:04:13.520 --> 1:04:15.560
+ at calming themselves down under stress,
+
+1:04:15.560 --> 1:04:18.040
+ those circuits get better at doing that, right?
+
+1:04:18.040 --> 1:04:20.680
+ There's a neural circuits gain proficiency.
+
+1:04:20.680 --> 1:04:23.560
+ And so, because blood vessels can grow,
+
+1:04:23.560 --> 1:04:25.400
+ capillaries can grow in the brain,
+
+1:04:25.400 --> 1:04:29.280
+ you can imagine that more pumping of blood to the brain,
+
+1:04:29.280 --> 1:04:33.520
+ delivery of these various muscle and liver factors
+
+1:04:33.520 --> 1:04:37.960
+ would also establish larger or more efficient portals
+
+1:04:37.960 --> 1:04:39.480
+ to getting that stuff there.
+
+1:04:39.480 --> 1:04:42.600
+ So you could imagine a kind of an amplifying effect
+
+1:04:42.600 --> 1:04:43.440
+ of exercise.
+
+1:04:43.440 --> 1:04:44.400
+ And again, I'm speculating here,
+
+1:04:44.400 --> 1:04:47.360
+ but I've seen this over and over again in colleagues,
+
+1:04:47.360 --> 1:04:50.360
+ the ones who exercise consistently
+
+1:04:50.360 --> 1:04:53.360
+ seem to be really, really smart and doing amazing work
+
+1:04:53.360 --> 1:04:55.200
+ well into their eighties and nineties.
+
+1:04:55.200 --> 1:04:56.680
+ And the ones who aren't,
+
+1:04:56.680 --> 1:04:58.720
+ some of whom actually pride themselves
+
+1:04:58.720 --> 1:05:03.120
+ on how little they exercise, they get worse over time.
+
+1:05:03.120 --> 1:05:05.360
+ You see them each meeting each decade
+
+1:05:05.360 --> 1:05:06.680
+ and I'm not poking fun at them at all.
+
+1:05:06.680 --> 1:05:08.920
+ It's actually quite hard to see.
+
+1:05:08.920 --> 1:05:10.320
+ And they're kind of a fading light.
+
+1:05:10.320 --> 1:05:12.280
+ They're starting to flicker.
+
+1:05:12.280 --> 1:05:13.920
+ So there is this incredible relationship
+
+1:05:13.920 --> 1:05:16.960
+ between body vitality and brain vitality.
+
+1:05:16.960 --> 1:05:18.640
+ That is, of course, is not an excuse
+
+1:05:18.640 --> 1:05:20.640
+ for spending all day in the gym, right?
+
+1:05:20.640 --> 1:05:24.280
+ The gym rats, I enjoy working out,
+
+1:05:24.280 --> 1:05:25.560
+ so I could imagine doing that.
+
+1:05:25.560 --> 1:05:28.800
+ But that doesn't make us smarter, unfortunately.
+
+1:05:28.800 --> 1:05:31.360
+ You actually have to do the cognitive work also, right?
+
+1:05:31.360 --> 1:05:33.120
+ It's not just exercise.
+
+1:05:33.120 --> 1:05:33.960
+ So I'd love to hear about
+
+1:05:33.960 --> 1:05:35.800
+ some of these new unpublished data.
+
+1:05:35.800 --> 1:05:36.720
+ Yeah, yeah.
+
+1:05:36.720 --> 1:05:40.800
+ Okay, so when I jumped into the exercise work,
+
+1:05:40.800 --> 1:05:44.800
+ everybody was studying people 65 or older
+
+1:05:44.800 --> 1:05:47.360
+ because that's when cognitive decline begins.
+
+1:05:47.360 --> 1:05:49.760
+ And if the idea is exercise can help you
+
+1:05:49.760 --> 1:05:52.280
+ with your cognition, then it makes sense.
+
+1:05:52.280 --> 1:05:56.880
+ However, I thought, well, you know, it's great.
+
+1:05:56.880 --> 1:05:58.720
+ There's lots of work there.
+
+1:05:58.720 --> 1:06:01.800
+ I wanted to know what happens in people
+
+1:06:01.800 --> 1:06:03.120
+ in their 40s and their 50s,
+
+1:06:03.120 --> 1:06:06.320
+ maybe even their 30s and their 20s.
+
+1:06:06.320 --> 1:06:07.160
+ Why?
+
+1:06:07.160 --> 1:06:10.600
+ Because that's when we as humans are able,
+
+1:06:10.600 --> 1:06:14.120
+ ready, willing, and able to increase our exercise
+
+1:06:14.120 --> 1:06:18.480
+ and gets us set up to build our brains
+
+1:06:18.480 --> 1:06:20.480
+ as we go into our 60s.
+
+1:06:20.480 --> 1:06:23.400
+ And so the first study that I did
+
+1:06:23.400 --> 1:06:27.200
+ looked at low-fit participants
+
+1:06:27.200 --> 1:06:30.640
+ from their 30s to mid-50s.
+
+1:06:30.640 --> 1:06:34.120
+ And we wanted to ask this question, you know,
+
+1:06:34.120 --> 1:06:35.680
+ how much exercise do you really need
+
+1:06:35.680 --> 1:06:37.040
+ to start seeing benefits?
+
+1:06:37.040 --> 1:06:37.880
+ Do you see benefits?
+
+1:06:37.880 --> 1:06:39.280
+ Or maybe you have to wait
+
+1:06:39.280 --> 1:06:42.120
+ until you start seeing cognitive decline to get benefits.
+
+1:06:42.120 --> 1:06:44.400
+ That was one of the theories out there.
+
+1:06:44.400 --> 1:06:46.360
+ And so that's what I wanted to do.
+
+1:06:46.360 --> 1:06:49.280
+ And so what we did was three months
+
+1:06:49.280 --> 1:06:52.400
+ of two to three times a week cardio.
+
+1:06:52.400 --> 1:06:53.840
+ It was a spin class.
+
+1:06:53.840 --> 1:06:56.480
+ So spin classes are great for cardio.
+
+1:06:56.480 --> 1:06:59.800
+ And the comparison group was two to three times a week
+
+1:06:59.800 --> 1:07:02.520
+ of competitive video scrabble.
+
+1:07:02.520 --> 1:07:05.040
+ So no heart rate change,
+
+1:07:05.040 --> 1:07:07.920
+ but they had to come into my lab and be in a group
+
+1:07:07.920 --> 1:07:11.880
+ just like they were in a group for the spin class.
+
+1:07:12.880 --> 1:07:14.960
+ We tested them cognitively
+
+1:07:14.960 --> 1:07:16.960
+ at the beginning of the end of the session.
+
+1:07:16.960 --> 1:07:21.440
+ What we found was two to three times a week of cardio.
+
+1:07:21.440 --> 1:07:22.920
+ In these people, they were low-fit,
+
+1:07:22.920 --> 1:07:24.960
+ which means specifically
+
+1:07:24.960 --> 1:07:28.520
+ that they were exercising less than 30 minutes a week
+
+1:07:28.520 --> 1:07:31.560
+ for the three months previous to the experiment.
+
+1:07:31.560 --> 1:07:32.800
+ So they went from that
+
+1:07:32.800 --> 1:07:35.200
+ to two to three times a week of spin class.
+
+1:07:35.200 --> 1:07:39.880
+ And what we found was changes in baseline rates
+
+1:07:39.880 --> 1:07:42.520
+ of their positive mood states went up
+
+1:07:42.520 --> 1:07:45.280
+ relative to the video scrabble group.
+
+1:07:45.280 --> 1:07:48.720
+ Their body image got more positive
+
+1:07:48.720 --> 1:07:50.800
+ because they were exercising, which is great.
+
+1:07:50.800 --> 1:07:52.520
+ And really important,
+
+1:07:52.520 --> 1:07:56.280
+ their motivation to exercise went up significantly
+
+1:07:56.280 --> 1:07:59.600
+ compared to the video scrabble group, which is great.
+
+1:07:59.600 --> 1:08:01.040
+ So the more you exercise,
+
+1:08:01.040 --> 1:08:03.800
+ the more motivated you are to exercise.
+
+1:08:03.800 --> 1:08:04.720
+ What about cognition?
+
+1:08:04.720 --> 1:08:07.960
+ What changed in the cognitive circuits of their brain?
+
+1:08:07.960 --> 1:08:11.880
+ Number one, we got improved performance on the Stroop task,
+
+1:08:11.880 --> 1:08:15.280
+ but we're headed towards my favorite structure,
+
+1:08:15.280 --> 1:08:16.960
+ which is the hippocampus.
+
+1:08:16.960 --> 1:08:19.880
+ What we found was improved performance
+
+1:08:19.880 --> 1:08:22.800
+ on both a recognition memory task,
+
+1:08:22.800 --> 1:08:26.040
+ which was a memory encoding task.
+
+1:08:26.040 --> 1:08:31.040
+ And that is, can you differentiate similar items
+
+1:08:32.240 --> 1:08:34.360
+ that we're asking you to remember?
+
+1:08:34.360 --> 1:08:37.800
+ And an spatial episodic memory task
+
+1:08:37.800 --> 1:08:40.800
+ where we had them play one of those Doom-like games
+
+1:08:40.800 --> 1:08:42.840
+ when they went into this spatial maze
+
+1:08:42.840 --> 1:08:45.440
+ and they had to do things in a virtual city.
+
+1:08:45.440 --> 1:08:47.040
+ Their performance there got better,
+
+1:08:47.040 --> 1:08:49.520
+ which is very, very classically dependent
+
+1:08:49.520 --> 1:08:51.240
+ on the hippocampus.
+
+1:08:51.240 --> 1:08:55.960
+ So this, it was so satisfying to do this study
+
+1:08:55.960 --> 1:08:59.480
+ because I've been wanting to answer this question.
+
+1:08:59.480 --> 1:09:04.480
+ What is a minimum amount or doable amount of exercise
+
+1:09:05.200 --> 1:09:07.600
+ that will get you these cognitive benefits?
+
+1:09:07.600 --> 1:09:11.600
+ And now I can say in 30 to 50 year olds
+
+1:09:11.600 --> 1:09:14.640
+ that are low fit two to three times a week,
+
+1:09:14.640 --> 1:09:15.640
+ is that doable?
+
+1:09:15.640 --> 1:09:16.640
+ Absolutely.
+
+1:09:16.640 --> 1:09:18.200
+ Will it be hard if you're low fit?
+
+1:09:18.200 --> 1:09:22.000
+ Yeah, it's gonna be challenging, but absolutely doable.
+
+1:09:22.000 --> 1:09:27.000
+ And so that is, it makes sense with all of the mechanisms
+
+1:09:28.520 --> 1:09:31.480
+ that we are, I didn't study the mechanisms just to be clear,
+
+1:09:31.480 --> 1:09:34.720
+ but with all the mechanisms we are imagining
+
+1:09:34.720 --> 1:09:37.840
+ are playing a role here, that absolutely makes sense
+
+1:09:37.840 --> 1:09:39.480
+ and it is doable.
+
+1:09:39.480 --> 1:09:43.200
+ This is not like you have to become marathon runner
+
+1:09:43.200 --> 1:09:45.520
+ to get any of these benefits.
+
+1:09:45.520 --> 1:09:48.560
+ You have to start moving your body on a regular basis
+
+1:09:48.560 --> 1:09:50.520
+ two to three times a week.
+
+1:09:50.520 --> 1:09:54.720
+ And so I love that for its realness.
+
+1:09:54.720 --> 1:09:56.360
+ How long are those sessions again?
+
+1:09:56.360 --> 1:09:57.200
+ 45 minutes.
+
+1:09:57.200 --> 1:09:58.040
+ 45 minutes.
+
+1:09:58.040 --> 1:09:59.200
+ Yeah, 45 minutes.
+
+1:09:59.200 --> 1:10:02.280
+ It's a typical spin kind of class.
+
+1:10:02.280 --> 1:10:03.720
+ There's a warmup for five minutes
+
+1:10:03.720 --> 1:10:05.000
+ and a cool down for five minutes.
+
+1:10:05.000 --> 1:10:09.400
+ So it's really 35 minutes,
+
+1:10:09.400 --> 1:10:12.320
+ 35 minutes of, you know, they're really pushing you.
+
+1:10:12.320 --> 1:10:13.160
+ Yeah.
+
+1:10:13.160 --> 1:10:15.240
+ And so they're breathing reasonably hard,
+
+1:10:15.240 --> 1:10:16.560
+ heart rate is up.
+
+1:10:16.560 --> 1:10:19.120
+ Heart rate is definitely up, yeah.
+
+1:10:19.120 --> 1:10:22.400
+ I find that all of those results are really interesting
+
+1:10:22.400 --> 1:10:27.120
+ that the result showing improvement in motivation
+
+1:10:27.120 --> 1:10:29.320
+ to exercise is interesting because it gets back
+
+1:10:29.320 --> 1:10:31.960
+ to this issue of kind of a self-amplifying effect.
+
+1:10:31.960 --> 1:10:36.480
+ And the neuroscientist in me wants to think about
+
+1:10:36.480 --> 1:10:39.400
+ kind of pre-motor circuits and the fact that, you know,
+
+1:10:39.400 --> 1:10:42.200
+ we have a motor system that can obviously do things
+
+1:10:42.200 --> 1:10:45.760
+ like lift cups and walk and run if we want to or need to,
+
+1:10:45.760 --> 1:10:50.280
+ but that it's possible to create a kind of anticipatory
+
+1:10:50.280 --> 1:10:51.720
+ activity in our nervous system
+
+1:10:51.720 --> 1:10:55.280
+ where our body craves a certain stimulus.
+
+1:10:55.280 --> 1:10:57.640
+ You mentioned the cold and how you crave the cold.
+
+1:10:57.640 --> 1:10:59.440
+ Now, whether or not that's the adrenaline
+
+1:10:59.440 --> 1:11:01.160
+ and the dopamine, et cetera,
+
+1:11:01.160 --> 1:11:04.440
+ or whether or not somebody who exercises
+
+1:11:04.440 --> 1:11:07.240
+ started going from zero, less than 30 minutes per week
+
+1:11:07.240 --> 1:11:09.080
+ to two to three times a week,
+
+1:11:09.080 --> 1:11:12.240
+ 45 minutes as you described for this study,
+
+1:11:12.240 --> 1:11:16.720
+ I've had that experience before of if I'm,
+
+1:11:16.720 --> 1:11:19.080
+ the cardio that I tend to battle the most,
+
+1:11:19.080 --> 1:11:23.360
+ and I love lifting heavy objects, at least heavy for me.
+
+1:11:23.360 --> 1:11:26.000
+ I'm happy to go to the gym every other day
+
+1:11:26.000 --> 1:11:27.600
+ and just lift heavy objects for an hour.
+
+1:11:27.600 --> 1:11:28.480
+ It just makes me happy.
+
+1:11:28.480 --> 1:11:29.760
+ I like the way it feels.
+
+1:11:29.760 --> 1:11:32.120
+ And I've been doing it since I was in my teens,
+
+1:11:32.120 --> 1:11:33.440
+ so 30 years.
+
+1:11:33.440 --> 1:11:34.640
+ Cardio is a little bit trickier.
+
+1:11:34.640 --> 1:11:38.360
+ I like to run, but if I stop running for a little while,
+
+1:11:38.360 --> 1:11:40.160
+ I find it very hard to get back into.
+
+1:11:40.160 --> 1:11:42.240
+ But if I start running three times a week
+
+1:11:42.240 --> 1:11:43.680
+ for 30 to 45 minutes,
+
+1:11:43.680 --> 1:11:45.240
+ and I do this pretty consistently
+
+1:11:45.240 --> 1:11:46.760
+ on the days I don't weight train,
+
+1:11:46.760 --> 1:11:48.640
+ I find that I start to crave it.
+
+1:11:48.640 --> 1:11:52.320
+ It's almost as if my body needs that in order to,
+
+1:11:52.320 --> 1:11:53.840
+ I always say clear out the cobwebs,
+
+1:11:53.840 --> 1:11:56.040
+ but it's like, my mind doesn't function as well, clearly.
+
+1:11:56.040 --> 1:11:59.760
+ Now I understand why and why exercise helps.
+
+1:11:59.760 --> 1:12:01.600
+ But also physically,
+
+1:12:01.600 --> 1:12:04.160
+ I almost feel like my body needs to engage in that movement.
+
+1:12:04.160 --> 1:12:06.720
+ Like the pre-motor circuits are kind of revving,
+
+1:12:06.720 --> 1:12:09.240
+ kind of like revving the engine or car while it's in park.
+
+1:12:09.240 --> 1:12:12.800
+ So the motivation to exercise obviously
+
+1:12:12.800 --> 1:12:14.720
+ could be multifaceted.
+
+1:12:14.720 --> 1:12:16.480
+ It could be purely psychological,
+
+1:12:16.480 --> 1:12:19.320
+ but do you think there's any reason to speculate at least
+
+1:12:19.320 --> 1:12:23.800
+ or believe that we can build an anticipatory,
+
+1:12:23.800 --> 1:12:26.120
+ reverberatory activity in our nervous system?
+
+1:12:26.120 --> 1:12:27.640
+ Yeah, yeah.
+
+1:12:27.640 --> 1:12:30.520
+ You know, I agree with that
+
+1:12:30.520 --> 1:12:35.040
+ because I also have those same kinds of thoughts
+
+1:12:35.040 --> 1:12:40.040
+ and I do have anticipatory exercise when I can't do it.
+
+1:12:40.600 --> 1:12:44.720
+ So I just got back from a week and a half in Paris
+
+1:12:44.720 --> 1:12:47.520
+ where I got to do a book launch of my last book,
+
+1:12:47.520 --> 1:12:48.600
+ Good Anxiety.
+
+1:12:48.600 --> 1:12:53.600
+ And I walked around a lot,
+
+1:12:54.000 --> 1:12:57.800
+ but I did not do my exercise for that whole week and a half.
+
+1:12:59.520 --> 1:13:00.760
+ But there was a lot of stress
+
+1:13:00.760 --> 1:13:02.240
+ because I had to do all these interviews in French.
+
+1:13:02.240 --> 1:13:03.400
+ So I gave myself a break.
+
+1:13:03.400 --> 1:13:04.240
+ You speak French?
+
+1:13:04.240 --> 1:13:05.080
+ I speak French, yes.
+
+1:13:05.080 --> 1:13:05.920
+ I was gonna say otherwise it would be really stressful.
+
+1:13:05.920 --> 1:13:07.360
+ Yeah, that would be really stressful.
+
+1:13:07.360 --> 1:13:09.200
+ Now then I'd be really impressed.
+
+1:13:09.200 --> 1:13:11.560
+ Then I would definitely start exercising.
+
+1:13:11.560 --> 1:13:14.000
+ Actually, I would follow your morning routine to a T,
+
+1:13:14.000 --> 1:13:16.640
+ but okay, very impressive nonetheless.
+
+1:13:16.640 --> 1:13:21.640
+ But I got back and coming back this direction from Paris,
+
+1:13:22.000 --> 1:13:25.320
+ I live in New York, is much easier.
+
+1:13:25.320 --> 1:13:28.480
+ And so I was able to get up at a normal time the next day.
+
+1:13:28.480 --> 1:13:30.640
+ And that exercise session that first day,
+
+1:13:30.640 --> 1:13:32.120
+ it's like, okay, I'm back in my home,
+
+1:13:32.120 --> 1:13:34.200
+ I'm back in my environment.
+
+1:13:34.200 --> 1:13:36.200
+ And it felt so good.
+
+1:13:36.200 --> 1:13:38.720
+ It's like I wanted to come back.
+
+1:13:38.720 --> 1:13:43.720
+ And I know it's because I worked up over years.
+
+1:13:44.280 --> 1:13:46.960
+ Now I could truthfully say seven days a week,
+
+1:13:46.960 --> 1:13:50.200
+ but it was, you know, first it was four to five,
+
+1:13:50.200 --> 1:13:54.360
+ then it was five to six and yeah, seven,
+
+1:13:54.360 --> 1:13:56.120
+ but that includes a yoga day
+
+1:13:56.120 --> 1:13:58.480
+ or sometimes I have to do it for 10 minutes instead of 30
+
+1:13:58.480 --> 1:14:00.000
+ because I have to leave.
+
+1:14:00.000 --> 1:14:04.880
+ But that habit of you do that even for five minutes,
+
+1:14:04.880 --> 1:14:08.000
+ you do either the wait 10 minute thing
+
+1:14:08.000 --> 1:14:11.120
+ or a five minute thing or a stretch.
+
+1:14:11.120 --> 1:14:14.040
+ That is a tiny habit.
+
+1:14:14.040 --> 1:14:15.360
+ Is that somebody at Stanford
+
+1:14:15.360 --> 1:14:17.760
+ that invented this idea of tiny habits?
+
+1:14:17.760 --> 1:14:18.760
+ I thought it was.
+
+1:14:18.760 --> 1:14:20.320
+ Well, we've got a number of people there.
+
+1:14:20.320 --> 1:14:22.680
+ There's, and I apologize in advance
+
+1:14:22.680 --> 1:14:25.320
+ to all the people I neglect in this statement,
+
+1:14:25.320 --> 1:14:28.360
+ but I'm happy to put in the comments, folks.
+
+1:14:28.360 --> 1:14:30.000
+ BJ Fogg is there, has done-
+
+1:14:30.000 --> 1:14:31.640
+ Yes, that's who I-
+
+1:14:31.640 --> 1:14:34.560
+ Yeah, BJ's done really great work.
+
+1:14:34.560 --> 1:14:38.080
+ And then James Clear wrote a book about habits
+
+1:14:38.080 --> 1:14:40.840
+ and has a very popular newsletter about habits.
+
+1:14:40.840 --> 1:14:42.080
+ We've done an episode about habits
+
+1:14:42.080 --> 1:14:44.240
+ that covers some of their work
+
+1:14:44.240 --> 1:14:47.160
+ and some of the more laboratory-ish,
+
+1:14:47.160 --> 1:14:50.480
+ not ish, laboratory science, peer-reviewed work on it.
+
+1:14:50.480 --> 1:14:52.720
+ Daily behaviors, also daily behaviors
+
+1:14:52.720 --> 1:14:55.320
+ performed at roughly the same time of day.
+
+1:14:55.320 --> 1:14:56.720
+ I mean, one thing we know for sure
+
+1:14:56.720 --> 1:14:59.040
+ is that the circadian system
+
+1:14:59.040 --> 1:15:02.840
+ is part of our nervous system's way of anticipating
+
+1:15:02.840 --> 1:15:05.320
+ when things will happen, not just what will happen.
+
+1:15:05.320 --> 1:15:07.880
+ I'm telling you things you obviously know already,
+
+1:15:07.880 --> 1:15:10.600
+ but for the audience, performing your exercise
+
+1:15:10.600 --> 1:15:14.040
+ at roughly the same time each day will make it easier.
+
+1:15:14.040 --> 1:15:14.880
+ As opposed to just saying,
+
+1:15:14.880 --> 1:15:17.040
+ I'm going to do it seven days a week sometime today.
+
+1:15:17.040 --> 1:15:18.880
+ But of course getting it done sometime
+
+1:15:18.880 --> 1:15:20.080
+ is better than not getting it done.
+
+1:15:20.080 --> 1:15:22.720
+ Yes, absolutely, absolutely.
+
+1:15:22.720 --> 1:15:24.720
+ Well, those are impressive effects.
+
+1:15:24.720 --> 1:15:27.120
+ And I love that you're starting to look in populations
+
+1:15:27.120 --> 1:15:27.960
+ that are a bit younger,
+
+1:15:27.960 --> 1:15:30.920
+ not because some of these older populations
+
+1:15:30.920 --> 1:15:34.840
+ aren't important, but I think that building good habits
+
+1:15:34.840 --> 1:15:37.480
+ across one's entire life is really what it's about.
+
+1:15:38.360 --> 1:15:41.360
+ As I always say, with anything related to longevity
+
+1:15:41.360 --> 1:15:45.040
+ or offsetting an age-related decline,
+
+1:15:45.040 --> 1:15:47.240
+ we don't know, it's hard to know if things work
+
+1:15:47.240 --> 1:15:50.480
+ because there's no within-subject control.
+
+1:15:50.480 --> 1:15:52.380
+ But what we also know for sure
+
+1:15:52.380 --> 1:15:55.640
+ is that you don't want to be the control experiment.
+
+1:15:55.640 --> 1:15:57.800
+ You absolutely don't want to be the control experiment,
+
+1:15:57.800 --> 1:16:00.480
+ especially for something that's purely behavioral.
+
+1:16:00.480 --> 1:16:02.240
+ I mean, you're not talking about ingesting
+
+1:16:02.240 --> 1:16:03.320
+ a particular supplement.
+
+1:16:03.320 --> 1:16:06.080
+ You're not talking about changing your diet in any way.
+
+1:16:06.080 --> 1:16:11.080
+ But I am curious, diet is a very barbed wire topic
+
+1:16:11.400 --> 1:16:14.120
+ on the internet, which diets,
+
+1:16:14.120 --> 1:16:15.600
+ whether or not they work, et cetera.
+
+1:16:15.600 --> 1:16:18.640
+ But in general, in any of these studies,
+
+1:16:18.640 --> 1:16:19.760
+ do they evaluate whether or not
+
+1:16:19.760 --> 1:16:21.280
+ people change their eating habits
+
+1:16:21.280 --> 1:16:22.920
+ when they start to exercise more?
+
+1:16:22.920 --> 1:16:23.760
+ Yeah.
+
+1:16:24.680 --> 1:16:29.300
+ I think I've seen one study that controlled for that,
+
+1:16:29.300 --> 1:16:32.220
+ but I feel for them because it's hard enough
+
+1:16:32.220 --> 1:16:35.240
+ to get people to exercise at the level
+
+1:16:35.240 --> 1:16:40.060
+ and at the time that you need for your study.
+
+1:16:40.060 --> 1:16:42.440
+ If you also ask them, okay, fill out this survey
+
+1:16:42.440 --> 1:16:44.800
+ to tell us exactly what you ate all day,
+
+1:16:44.800 --> 1:16:46.660
+ they're going to say, forget you.
+
+1:16:46.660 --> 1:16:48.640
+ I'm not joining your study.
+
+1:16:48.640 --> 1:16:51.260
+ So it's a critical question.
+
+1:16:51.260 --> 1:16:55.320
+ And again, there's only been one that I've seen.
+
+1:16:55.320 --> 1:16:59.140
+ And the evidence was that diets got better
+
+1:16:59.140 --> 1:17:01.120
+ when they, less processed foods,
+
+1:17:01.120 --> 1:17:03.800
+ when they did adhere to this exercise.
+
+1:17:03.800 --> 1:17:07.120
+ But a lot more information needs to be gathered
+
+1:17:07.120 --> 1:17:08.520
+ in that realm.
+
+1:17:08.520 --> 1:17:10.540
+ The second study that I wanted to share,
+
+1:17:10.540 --> 1:17:13.160
+ unpublished, we're writing it up right now,
+
+1:17:13.160 --> 1:17:16.520
+ is part two of that study that I just described,
+
+1:17:16.520 --> 1:17:18.440
+ which was the low-fit people.
+
+1:17:18.440 --> 1:17:20.120
+ Next we moved to mid-fit people.
+
+1:17:20.120 --> 1:17:21.260
+ Like, what about us?
+
+1:17:21.260 --> 1:17:23.220
+ We're already exercising.
+
+1:17:23.220 --> 1:17:27.600
+ How am I going to benefit from increasing my exercise?
+
+1:17:27.600 --> 1:17:31.840
+ So here again, we collaborated with a great spin studio
+
+1:17:31.840 --> 1:17:33.680
+ that had a whole bunch of mid-fit people
+
+1:17:33.680 --> 1:17:37.400
+ that by our definition were exercising
+
+1:17:37.400 --> 1:17:39.680
+ two to three times a week on a regular basis.
+
+1:17:39.680 --> 1:17:40.520
+ That's great.
+
+1:17:40.520 --> 1:17:42.220
+ All you people out there that are doing that,
+
+1:17:42.220 --> 1:17:45.240
+ you should know you're already benefiting your brain.
+
+1:17:45.240 --> 1:17:48.240
+ But our question was, what if we invited them
+
+1:17:48.240 --> 1:17:51.640
+ to exercise as much as they wanted at the spin studio
+
+1:17:51.640 --> 1:17:54.440
+ for three months from two to three times
+
+1:17:54.440 --> 1:17:56.440
+ all the way up to seven times a week?
+
+1:17:56.440 --> 1:17:58.120
+ And let's just see what happened.
+
+1:17:58.120 --> 1:18:00.240
+ And the control group,
+
+1:18:00.240 --> 1:18:04.280
+ we asked them not to change their exercise.
+
+1:18:04.280 --> 1:18:09.200
+ And so what we ended up with was a nice big array
+
+1:18:09.200 --> 1:18:12.340
+ of starting with mid-fit people
+
+1:18:12.340 --> 1:18:15.240
+ that exercise between staying at two to three times a week
+
+1:18:15.240 --> 1:18:17.460
+ all the way up to seven times a week.
+
+1:18:17.460 --> 1:18:21.480
+ And the bottom line from that study is
+
+1:18:21.480 --> 1:18:23.520
+ every drop of sweat counted.
+
+1:18:23.520 --> 1:18:27.400
+ That is, the more you change and you increase your workout
+
+1:18:27.400 --> 1:18:31.040
+ up to seven times a week, the better your mood was.
+
+1:18:31.040 --> 1:18:35.880
+ You had lower amounts of depression and anxiety,
+
+1:18:35.880 --> 1:18:39.640
+ higher amounts of good affect,
+
+1:18:39.640 --> 1:18:43.140
+ and the better your hippocampal memory was
+
+1:18:43.140 --> 1:18:45.000
+ with the more you worked out.
+
+1:18:45.000 --> 1:18:46.940
+ Again, this was for three months.
+
+1:18:46.940 --> 1:18:50.140
+ So I love that too, because it gives power
+
+1:18:50.140 --> 1:18:54.500
+ to those of us that are regularly exercising and wondering,
+
+1:18:54.500 --> 1:18:57.520
+ do I really need to, I mean, is it really gonna help me?
+
+1:18:57.520 --> 1:18:58.600
+ And the answer is yes.
+
+1:18:58.600 --> 1:19:00.600
+ I mean, not all of us can exercise,
+
+1:19:00.600 --> 1:19:03.220
+ go to a spin class seven times a week.
+
+1:19:03.220 --> 1:19:08.220
+ But I love the message that our body's responsive to that.
+
+1:19:08.320 --> 1:19:11.600
+ And you can get better hippocampal function,
+
+1:19:11.600 --> 1:19:16.460
+ better overall baseline mood affect with a higher level.
+
+1:19:16.460 --> 1:19:19.460
+ So it works for the mid-fit people as well.
+
+1:19:20.400 --> 1:19:21.240
+ Fantastic.
+
+1:19:21.240 --> 1:19:22.720
+ The more I learned from you,
+
+1:19:22.720 --> 1:19:25.200
+ the more I've been starting to conceptualize the brain
+
+1:19:25.200 --> 1:19:28.560
+ as an organ that is privileged in so many ways,
+
+1:19:28.560 --> 1:19:31.360
+ has this unique blood-brain barrier,
+
+1:19:31.360 --> 1:19:35.160
+ has this incredible quality of being able to predict things.
+
+1:19:35.160 --> 1:19:36.760
+ And its job mainly is, of course,
+
+1:19:36.760 --> 1:19:40.160
+ to predict things among other functions, of course.
+
+1:19:40.160 --> 1:19:45.160
+ But that our brain isn't necessarily going to stay stable
+
+1:19:45.160 --> 1:19:47.160
+ or get better over time.
+
+1:19:47.160 --> 1:19:48.660
+ That it needs a signal.
+
+1:19:49.760 --> 1:19:52.580
+ That it isn't sufficient to just say
+
+1:19:52.580 --> 1:19:53.840
+ that we can't take it for granted.
+
+1:19:53.840 --> 1:19:58.600
+ That our brain is actually an organ that requires a signal
+
+1:19:58.600 --> 1:20:01.000
+ in order to maintain its own function.
+
+1:20:01.000 --> 1:20:03.200
+ And it sounds like enhanced blood flow
+
+1:20:03.200 --> 1:20:05.180
+ and these pathways that you described earlier,
+
+1:20:05.180 --> 1:20:06.740
+ these two pathways,
+
+1:20:06.740 --> 1:20:10.460
+ are at least among the more critical signals.
+
+1:20:10.460 --> 1:20:13.400
+ I'm tempted now to move my frequency
+
+1:20:13.400 --> 1:20:15.680
+ of cardiovascular exercise from, I confess,
+
+1:20:15.680 --> 1:20:18.920
+ it's about three days, 35 minutes lately,
+
+1:20:18.920 --> 1:20:22.080
+ and it should be more, to daily.
+
+1:20:22.080 --> 1:20:24.320
+ There's something, again, really special about daily
+
+1:20:24.320 --> 1:20:25.480
+ because it's non-negotiable.
+
+1:20:25.480 --> 1:20:26.320
+ You just do it.
+
+1:20:28.320 --> 1:20:29.940
+ And it sounds like if one were to do
+
+1:20:29.940 --> 1:20:32.280
+ higher intensity exercise,
+
+1:20:32.280 --> 1:20:33.960
+ in a spin class, I've never taken a spin class,
+
+1:20:33.960 --> 1:20:35.760
+ but I've seen there are times when they're standing up
+
+1:20:35.760 --> 1:20:37.360
+ on the bike and pedaling very hard.
+
+1:20:37.360 --> 1:20:39.480
+ So that is included in these kinds of workouts, right?
+
+1:20:39.480 --> 1:20:40.700
+ Absolutely, yeah.
+
+1:20:40.700 --> 1:20:43.560
+ I mean, that's what the instructor is doing.
+
+1:20:43.560 --> 1:20:45.700
+ I cannot control.
+
+1:20:45.700 --> 1:20:49.160
+ We did not monitor heart rate of all the subjects.
+
+1:20:49.160 --> 1:20:52.680
+ And it was clearly, compared to the video Scrabble,
+
+1:20:52.680 --> 1:20:54.000
+ it was highly significant.
+
+1:20:54.000 --> 1:20:54.900
+ I would hope so.
+
+1:20:54.900 --> 1:20:55.740
+ Yes.
+
+1:20:55.740 --> 1:20:58.200
+ I guess it depends on how intense that game of Scrabble is.
+
+1:20:59.920 --> 1:21:04.360
+ Could we just briefly talk about mindset and affirmations?
+
+1:21:04.360 --> 1:21:05.200
+ Yeah, sure.
+
+1:21:05.200 --> 1:21:09.060
+ You've talked a bit before about affirmations.
+
+1:21:09.060 --> 1:21:11.820
+ And as you mentioned that the beautiful work
+
+1:21:11.820 --> 1:21:14.520
+ of my colleague at Stanford, Alia Crum,
+
+1:21:14.520 --> 1:21:16.940
+ and we can summarize her work pretty simply,
+
+1:21:16.940 --> 1:21:18.560
+ although we won't do it complete justice,
+
+1:21:18.560 --> 1:21:19.780
+ she's already been on the podcast,
+
+1:21:19.780 --> 1:21:24.120
+ that just to say that one's beliefs about a behavior
+
+1:21:24.120 --> 1:21:26.640
+ also impact the outcomes of that behavior.
+
+1:21:26.640 --> 1:21:29.800
+ If you learn a lot of true facts
+
+1:21:29.800 --> 1:21:32.120
+ about stress being good for you,
+
+1:21:32.120 --> 1:21:35.120
+ then you will experience stress as better for you
+
+1:21:35.120 --> 1:21:37.120
+ than if you only focus on or learn
+
+1:21:37.120 --> 1:21:38.540
+ about the negative effects of stress.
+
+1:21:38.540 --> 1:21:40.920
+ If you learn about the positive effects of exercise,
+
+1:21:40.920 --> 1:21:44.000
+ you actually derive greater benefit from exercise,
+
+1:21:44.000 --> 1:21:45.240
+ believe it or not.
+
+1:21:45.240 --> 1:21:47.920
+ It's incredible effects, but they make sense
+
+1:21:47.920 --> 1:21:49.520
+ when you understand what the brain is doing,
+
+1:21:49.520 --> 1:21:51.300
+ which is a lot of this predictive coding
+
+1:21:51.300 --> 1:21:54.840
+ and mindsets don't seem as mysterious and woo anymore
+
+1:21:54.840 --> 1:21:56.980
+ once you understand what the brain is really doing.
+
+1:21:56.980 --> 1:22:01.980
+ But what is, if any, the value of affirmation,
+
+1:22:03.400 --> 1:22:06.640
+ of telling yourself something positive about yourself
+
+1:22:06.640 --> 1:22:10.280
+ or of exercise on, not the exercise itself,
+
+1:22:10.280 --> 1:22:14.220
+ but on mood, self-image, memory, and brain function.
+
+1:22:14.220 --> 1:22:18.680
+ Yeah, so I looked into this
+
+1:22:18.680 --> 1:22:22.720
+ because I am also a certified exercise instructor
+
+1:22:22.720 --> 1:22:26.400
+ and the form of exercise that I teach is called Intensati.
+
+1:22:26.400 --> 1:22:29.000
+ That it's a form of exercise that was developed
+
+1:22:29.000 --> 1:22:33.120
+ by this amazing instructor, Patricia Moreno,
+
+1:22:33.120 --> 1:22:35.360
+ and she combined physical movements
+
+1:22:35.360 --> 1:22:38.600
+ from kickbox and dance and yoga and martial arts
+
+1:22:38.600 --> 1:22:41.080
+ with positive spoken affirmations.
+
+1:22:41.080 --> 1:22:43.000
+ So each move, if you're punching back and forth,
+
+1:22:43.000 --> 1:22:46.360
+ as you would do in a kickbox class, you don't just punch,
+
+1:22:46.360 --> 1:22:49.520
+ you say something like, I am strong now,
+
+1:22:49.520 --> 1:22:52.080
+ which every punch is associated with a word.
+
+1:22:52.080 --> 1:22:57.080
+ And you can create your own series of affirmations
+
+1:22:57.080 --> 1:22:59.160
+ with the moves that you put together.
+
+1:22:59.160 --> 1:23:01.320
+ And the first time I did it,
+
+1:23:01.320 --> 1:23:04.040
+ I just wandered into her class, I didn't know what it was,
+
+1:23:04.040 --> 1:23:06.800
+ and I felt idiotic.
+
+1:23:06.800 --> 1:23:09.080
+ It's like, I came into the wrong class.
+
+1:23:09.080 --> 1:23:11.480
+ I clearly, I don't want to come into this class.
+
+1:23:11.480 --> 1:23:14.000
+ But then I saw, they didn't care
+
+1:23:14.000 --> 1:23:16.800
+ whether I thought they were, they looked silly,
+
+1:23:16.800 --> 1:23:20.840
+ saying these, not saying, yelling these affirmations
+
+1:23:20.840 --> 1:23:24.480
+ out loud while doing the choreography at the same time.
+
+1:23:24.480 --> 1:23:27.080
+ And then I tried it, you know, okay, I didn't yell out.
+
+1:23:27.080 --> 1:23:29.240
+ I kind of whispered it at first.
+
+1:23:29.240 --> 1:23:32.380
+ And then, but by the end, I was really yelling it out.
+
+1:23:32.380 --> 1:23:34.680
+ There's something about the declaration,
+
+1:23:34.680 --> 1:23:39.440
+ using your own voice, of saying things that you, you know,
+
+1:23:39.440 --> 1:23:43.000
+ don't often say to yourself, like, I'm strong, I'm inspired,
+
+1:23:43.000 --> 1:23:44.520
+ I believe I will succeed,
+
+1:23:44.520 --> 1:23:47.020
+ are all the kinds of affirmations you say.
+
+1:23:47.020 --> 1:23:48.640
+ And you walk out of that class,
+
+1:23:48.640 --> 1:23:50.320
+ or I walked out of that class,
+
+1:23:50.320 --> 1:23:54.960
+ thinking, oh, I feel really good now, man.
+
+1:23:54.960 --> 1:23:57.360
+ I can't wait to come back to this class,
+
+1:23:57.360 --> 1:24:00.280
+ which is why I ultimately took teacher training
+
+1:24:00.280 --> 1:24:02.360
+ to be able to teach that class.
+
+1:24:02.360 --> 1:24:06.480
+ And so I started to look into
+
+1:24:06.480 --> 1:24:08.200
+ what was known about affirmations.
+
+1:24:08.200 --> 1:24:11.960
+ And they were never combined with physical activity.
+
+1:24:11.960 --> 1:24:15.520
+ But it was clear that there was a literature showing
+
+1:24:15.520 --> 1:24:20.520
+ that positive affirmations, saying them or reading them,
+
+1:24:20.540 --> 1:24:23.540
+ could change mood in the same way as we're talking about,
+
+1:24:23.540 --> 1:24:25.400
+ you know, Aliyah Crum's work.
+
+1:24:25.400 --> 1:24:29.120
+ If you have this, it's a belief.
+
+1:24:29.120 --> 1:24:30.840
+ Once you start saying these things,
+
+1:24:30.840 --> 1:24:34.520
+ these are not, you know, difficult things to believe,
+
+1:24:34.520 --> 1:24:38.080
+ but it's amazing how much you don't say
+
+1:24:38.080 --> 1:24:41.620
+ these kinds of things to yourself or with your own voice.
+
+1:24:41.620 --> 1:24:43.200
+ You might say them about somebody else.
+
+1:24:43.200 --> 1:24:45.740
+ Oh, you're strong, you're so smart.
+
+1:24:45.740 --> 1:24:47.280
+ Do you say that about yourself?
+
+1:24:47.280 --> 1:24:50.680
+ And that's the thing about the self affirmations.
+
+1:24:50.680 --> 1:24:54.120
+ It really gets you into a habit
+
+1:24:54.120 --> 1:24:56.760
+ of saying good things about yourself.
+
+1:24:56.760 --> 1:24:59.760
+ And then you start to realize, oh my God,
+
+1:24:59.760 --> 1:25:01.720
+ I'm so mean to myself.
+
+1:25:01.720 --> 1:25:04.840
+ I have lots of negative thoughts going on
+
+1:25:04.840 --> 1:25:07.520
+ about myself in my head.
+
+1:25:07.520 --> 1:25:09.160
+ And which was part of the other reason
+
+1:25:09.160 --> 1:25:13.360
+ why I loved this particular form of exercise.
+
+1:25:13.360 --> 1:25:18.360
+ So what you get in Tenzati is the mood boost
+
+1:25:18.400 --> 1:25:20.880
+ from the positive spoken affirmations
+
+1:25:20.880 --> 1:25:25.280
+ together with all the other brain and affect boosts
+
+1:25:25.280 --> 1:25:28.760
+ that we've been talking about for this whole podcast
+
+1:25:28.760 --> 1:25:32.400
+ from the exercise, because it's a sweaty workout as well.
+
+1:25:32.400 --> 1:25:33.520
+ Interesting.
+
+1:25:33.520 --> 1:25:35.640
+ There's a book, I confess I haven't read it,
+
+1:25:35.640 --> 1:25:38.120
+ but I have had the pleasure of having a discussion
+
+1:25:38.120 --> 1:25:39.660
+ with a psychologist from, I believe he's at
+
+1:25:39.660 --> 1:25:43.400
+ University of Michigan in Ann Arbor, Ethan Cross,
+
+1:25:43.400 --> 1:25:47.480
+ wrote a book called Chatter, which focuses on the fact
+
+1:25:47.480 --> 1:25:50.840
+ that so much of our inner dialogue is indeed negative.
+
+1:25:50.840 --> 1:25:54.360
+ He certainly wasn't the first to point that out,
+
+1:25:54.360 --> 1:25:57.640
+ but that explicit statements to counter
+
+1:25:57.640 --> 1:26:00.700
+ that negative chatter, I believe is one of the hallmarks
+
+1:26:00.700 --> 1:26:05.160
+ of readjusting one's own, not just internal reference frame,
+
+1:26:05.160 --> 1:26:07.320
+ but actually self-image generally.
+
+1:26:07.320 --> 1:26:11.560
+ And it's a fascinating, and I think a very important area
+
+1:26:11.560 --> 1:26:15.360
+ of psychology and neuroscience, and I acknowledge this,
+
+1:26:15.360 --> 1:26:17.800
+ we're talking about this too, laboratory neuroscientists
+
+1:26:17.800 --> 1:26:20.300
+ who record from neurons and label neurons
+
+1:26:20.300 --> 1:26:22.020
+ and look at stuff down the microscope.
+
+1:26:22.020 --> 1:26:24.000
+ We are now deep in the territory,
+
+1:26:24.000 --> 1:26:26.800
+ in the deep water of what some of our colleagues
+
+1:26:26.800 --> 1:26:29.720
+ and people who think about neuroscience would consider
+
+1:26:29.720 --> 1:26:33.280
+ like really out there on the kind of subjective edges.
+
+1:26:33.280 --> 1:26:38.040
+ And yet I think it's worth pointing out that
+
+1:26:38.040 --> 1:26:39.480
+ the brain does all these things.
+
+1:26:39.480 --> 1:26:41.900
+ It's responsible for simple reflexes and motor behaviors,
+
+1:26:41.900 --> 1:26:46.200
+ but also high-level conceptual ideas about the universe
+
+1:26:46.200 --> 1:26:48.280
+ and what it might look like in 10 years or 100 years
+
+1:26:48.280 --> 1:26:52.000
+ or 1,000 years, but also high-level conceptual understanding
+
+1:26:52.000 --> 1:26:54.960
+ of who we are and what we are about.
+
+1:26:54.960 --> 1:26:57.180
+ And so even though it might seem a little bit out
+
+1:26:57.180 --> 1:27:00.640
+ on the fringes, dare I say, I think that these are some
+
+1:27:00.640 --> 1:27:04.400
+ of the more important untried landscapes of neuroscience.
+
+1:27:04.400 --> 1:27:07.460
+ And I just want to acknowledge my appreciation
+
+1:27:07.460 --> 1:27:11.400
+ for the fact that I'm going to connect the dots here
+
+1:27:11.400 --> 1:27:13.680
+ and say, you went from somebody who didn't exercise,
+
+1:27:13.680 --> 1:27:16.600
+ who went on this rafting trip that discovered exercise
+
+1:27:16.600 --> 1:27:18.720
+ and its benefits for your grant writing
+
+1:27:18.720 --> 1:27:20.680
+ and then on and on and on,
+
+1:27:20.680 --> 1:27:22.400
+ and then became a certified-
+
+1:27:22.400 --> 1:27:23.880
+ Yeah, exercise instructor.
+
+1:27:23.880 --> 1:27:25.000
+ Instructor.
+
+1:27:25.000 --> 1:27:28.960
+ So you don't do anything halfway either, as it's clear.
+
+1:27:30.440 --> 1:27:33.580
+ I'd like to touch on something you mentioned earlier,
+
+1:27:33.580 --> 1:27:37.440
+ but we haven't dove into it all in any depth,
+
+1:27:37.440 --> 1:27:38.600
+ which is meditation.
+
+1:27:40.920 --> 1:27:42.760
+ You mentioned this tea meditation.
+
+1:27:42.760 --> 1:27:47.360
+ You had a publication recently on a 10-minute meditation.
+
+1:27:48.200 --> 1:27:50.160
+ Maybe you could tell us about this 10-minute meditation
+
+1:27:50.160 --> 1:27:53.080
+ because it seems like such a tractable amount of time.
+
+1:27:53.080 --> 1:27:53.920
+ Right.
+
+1:27:53.920 --> 1:27:55.680
+ And then if you would maybe tell us a little bit
+
+1:27:55.680 --> 1:27:56.680
+ about the tea meditation,
+
+1:27:56.680 --> 1:27:59.120
+ but it sounds like you've discovered
+
+1:27:59.120 --> 1:28:03.280
+ a close to minimum threshold of meditation
+
+1:28:03.280 --> 1:28:04.320
+ that can really benefit us.
+
+1:28:04.320 --> 1:28:07.640
+ So maybe you could tell us about that study.
+
+1:28:07.640 --> 1:28:12.640
+ So the study was, as you very astutely pointed out,
+
+1:28:12.720 --> 1:28:16.920
+ very practical study, just 10 minutes, not 30 minutes,
+
+1:28:16.920 --> 1:28:19.280
+ not an hour of meditation, that's too hard.
+
+1:28:19.280 --> 1:28:21.720
+ 10 minutes guided meditation.
+
+1:28:21.720 --> 1:28:24.400
+ They logged into a site so we can tell that they logged in
+
+1:28:24.400 --> 1:28:28.240
+ and they listened to a, it's a body scan,
+
+1:28:28.240 --> 1:28:32.160
+ very basic but easy to follow kind of meditation.
+
+1:28:32.160 --> 1:28:35.520
+ And we asked them to do it how often?
+
+1:28:35.520 --> 1:28:39.240
+ Daily, seven days a week, just 10 minutes a day.
+
+1:28:39.240 --> 1:28:41.680
+ And the most shocking thing about this study
+
+1:28:41.680 --> 1:28:45.600
+ is that we got more adherence
+
+1:28:45.600 --> 1:28:47.820
+ to the 10-minute daily meditation
+
+1:28:47.820 --> 1:28:50.680
+ than the 10-minute daily podcast listening,
+
+1:28:50.680 --> 1:28:51.880
+ which was our control.
+
+1:28:51.880 --> 1:28:54.520
+ So the highest retention rate I've ever gotten
+
+1:28:54.520 --> 1:28:57.140
+ in any, this kind of study that I've done,
+
+1:28:57.140 --> 1:29:00.240
+ exercise or meditation, they wanted to do it.
+
+1:29:00.240 --> 1:29:02.480
+ 10 minutes a day, it was great.
+
+1:29:02.480 --> 1:29:04.720
+ I'm gonna just start leading meditations
+
+1:29:04.720 --> 1:29:08.080
+ for three hours as I was doing three-hour podcasts.
+
+1:29:08.080 --> 1:29:13.080
+ So we looked at cognitive effects
+
+1:29:13.120 --> 1:29:15.080
+ before and after this.
+
+1:29:15.080 --> 1:29:18.080
+ It was eight weeks of daily, it was actually
+
+1:29:18.080 --> 1:29:22.160
+ 12-minute meditation, 12 minutes of body scan meditation.
+
+1:29:22.160 --> 1:29:26.600
+ And what we found was significant decreases
+
+1:29:26.600 --> 1:29:27.720
+ in stress response.
+
+1:29:27.720 --> 1:29:32.720
+ So we did the stress test to see how you responded
+
+1:29:32.760 --> 1:29:35.320
+ to an unexpected stressful situation.
+
+1:29:35.320 --> 1:29:37.780
+ The meditators did much better.
+
+1:29:37.780 --> 1:29:41.840
+ Their mood was better and their cognitive performance
+
+1:29:41.840 --> 1:29:43.480
+ was also better.
+
+1:29:43.480 --> 1:29:47.480
+ And this was my first little foray into meditation
+
+1:29:47.480 --> 1:29:51.820
+ after I had started my personal team meditation
+
+1:29:53.040 --> 1:29:58.040
+ that really shifted my relationship with meditation.
+
+1:30:00.840 --> 1:30:03.800
+ But it's consistent with many other studies
+
+1:30:03.800 --> 1:30:08.080
+ showing the beneficial effects of meditation.
+
+1:30:08.080 --> 1:30:11.200
+ But the unique thing was we tried to make it doable
+
+1:30:11.200 --> 1:30:14.360
+ that many, many people out there could actually follow
+
+1:30:14.360 --> 1:30:17.160
+ this typical regimen.
+
+1:30:17.160 --> 1:30:21.120
+ And so we're continuing that.
+
+1:30:21.120 --> 1:30:24.240
+ In fact, my research in my lab right now
+
+1:30:24.240 --> 1:30:28.800
+ is all about those doable, short things
+
+1:30:28.800 --> 1:30:32.320
+ that NYU college students will do,
+
+1:30:32.320 --> 1:30:34.240
+ not just at the beginning of the semester
+
+1:30:34.240 --> 1:30:36.260
+ but at the end of the semester
+
+1:30:36.260 --> 1:30:38.520
+ when the stress and anxiety levels
+
+1:30:38.520 --> 1:30:41.560
+ are now at record-breaking high levels.
+
+1:30:41.560 --> 1:30:44.640
+ And they need something to bring that level down
+
+1:30:44.640 --> 1:30:46.800
+ so that they could show their professors
+
+1:30:46.800 --> 1:30:49.000
+ what their brains can actually do.
+
+1:30:49.000 --> 1:30:51.440
+ And so it includes very short meditations,
+
+1:30:51.440 --> 1:30:56.300
+ sound meditations, visual meditations, walking,
+
+1:30:56.300 --> 1:30:58.400
+ things that any college student,
+
+1:30:58.400 --> 1:31:03.400
+ but we're obviously focused on NYU students, will do too.
+
+1:31:03.440 --> 1:31:06.200
+ And I wanna get at graduation rates.
+
+1:31:06.200 --> 1:31:09.000
+ I wanna get at class performance
+
+1:31:09.000 --> 1:31:11.720
+ with these kinds of interventions.
+
+1:31:11.720 --> 1:31:12.920
+ But it started with that study
+
+1:31:12.920 --> 1:31:14.880
+ that I just described, meditation.
+
+1:31:17.160 --> 1:31:21.320
+ If you would, and here's where we can highlight this again
+
+1:31:21.320 --> 1:31:25.680
+ as some highly educated speculation, it's coming from you.
+
+1:31:26.680 --> 1:31:29.280
+ What do you think is going on during meditation?
+
+1:31:29.280 --> 1:31:33.400
+ So a body scan involves a kind of an interoceptive awareness
+
+1:31:33.400 --> 1:31:34.840
+ like interoception, of course,
+
+1:31:34.840 --> 1:31:37.760
+ being an attention to what's going on on the surface of
+
+1:31:37.760 --> 1:31:39.220
+ and within the confines of our skin
+
+1:31:39.220 --> 1:31:40.980
+ as opposed to the outside world.
+
+1:31:42.840 --> 1:31:46.360
+ Drawing our attention to anything inside us or outside us
+
+1:31:46.360 --> 1:31:48.800
+ involves forebrain function, prefrontal cortex,
+
+1:31:48.800 --> 1:31:50.600
+ presumably and other things.
+
+1:31:50.600 --> 1:31:53.840
+ Typically eyes are closed, typically it's relaxing.
+
+1:31:53.840 --> 1:31:55.120
+ So there are a lot of variables
+
+1:31:55.120 --> 1:31:58.480
+ that could be feeding into a number of different effects.
+
+1:31:58.480 --> 1:32:03.440
+ But as a neuroscientist, what do you think is going on
+
+1:32:03.440 --> 1:32:07.680
+ that this period of kind of a self-induced,
+
+1:32:07.680 --> 1:32:09.240
+ somewhat unusual state,
+
+1:32:11.020 --> 1:32:13.940
+ what do you think is going on in terms of network behavior
+
+1:32:13.940 --> 1:32:16.400
+ and networks within the brain
+
+1:32:16.400 --> 1:32:18.560
+ that it can have these long-term effects?
+
+1:32:18.560 --> 1:32:19.680
+ Because we got to some of the ones
+
+1:32:19.680 --> 1:32:21.440
+ who relate downstream of exercise.
+
+1:32:22.420 --> 1:32:26.040
+ And I think there's so much evidence.
+
+1:32:26.040 --> 1:32:27.160
+ I know there's so much evidence
+
+1:32:27.160 --> 1:32:28.760
+ that meditation is beneficial.
+
+1:32:29.680 --> 1:32:31.200
+ How do you think it's working?
+
+1:32:31.200 --> 1:32:32.600
+ Or what do you think it's doing?
+
+1:32:32.600 --> 1:32:36.480
+ Yeah, I think that one of the most important things
+
+1:32:36.480 --> 1:32:41.400
+ that gets worked when we're doing a simple 10 minute
+
+1:32:41.400 --> 1:32:45.080
+ or 12 minute body scan meditation regularly,
+
+1:32:45.080 --> 1:32:47.720
+ this 10 minutes a day, 12 minutes a day,
+
+1:32:47.720 --> 1:32:52.680
+ is the habit building and the practice
+
+1:32:52.680 --> 1:32:56.400
+ of focusing on the present moment.
+
+1:32:56.400 --> 1:33:00.600
+ I think that is very hard for us modern humans to do
+
+1:33:00.600 --> 1:33:03.920
+ because I'm worrying about the thing that's due
+
+1:33:04.940 --> 1:33:07.760
+ at the end of the week that I need to do
+
+1:33:07.760 --> 1:33:10.800
+ and how many hours am I gonna have to be able to do that.
+
+1:33:10.800 --> 1:33:14.180
+ Or I'm worried about whatever the email
+
+1:33:14.180 --> 1:33:16.320
+ that wasn't as polite as it should be that I sent
+
+1:33:16.320 --> 1:33:19.340
+ and what were the repercussions for that.
+
+1:33:19.340 --> 1:33:24.340
+ Instead of focusing on this moment, which is fun,
+
+1:33:25.080 --> 1:33:26.880
+ I get to talk to you.
+
+1:33:26.880 --> 1:33:28.440
+ It's a beautiful day outside.
+
+1:33:28.440 --> 1:33:32.000
+ I'm feeling good right at this moment.
+
+1:33:32.000 --> 1:33:36.840
+ And I think that all of the meditative practices
+
+1:33:36.840 --> 1:33:40.760
+ that I've done, and this one also,
+
+1:33:41.920 --> 1:33:43.360
+ whether you know it or not,
+
+1:33:43.360 --> 1:33:48.200
+ is getting you to focus on this moment.
+
+1:33:48.200 --> 1:33:52.080
+ And I think it's even more important in this day and age
+
+1:33:52.080 --> 1:33:55.900
+ where anxiety levels and the next variant might come out
+
+1:33:55.900 --> 1:33:57.600
+ and what are the repercussions there.
+
+1:33:57.600 --> 1:33:59.680
+ And I have a mother who's older
+
+1:33:59.680 --> 1:34:01.440
+ and she's more susceptible to it,
+
+1:34:01.440 --> 1:34:04.400
+ and there's a war and what's gonna happen there.
+
+1:34:05.540 --> 1:34:09.120
+ Those are all future possibilities.
+
+1:34:09.120 --> 1:34:11.600
+ And we should be worried about that.
+
+1:34:11.600 --> 1:34:14.160
+ That is a possibility you need to plan for that.
+
+1:34:14.160 --> 1:34:19.080
+ But you also need to focus on this moment right now.
+
+1:34:19.080 --> 1:34:21.600
+ I'm healthy, I can breathe.
+
+1:34:21.600 --> 1:34:24.000
+ I get to have this interesting conversation
+
+1:34:24.000 --> 1:34:24.960
+ right in this moment.
+
+1:34:24.960 --> 1:34:26.900
+ If I start thinking about other things,
+
+1:34:26.900 --> 1:34:30.160
+ then it takes away from this moment.
+
+1:34:30.160 --> 1:34:33.740
+ Do I know what circuits are involved?
+
+1:34:34.680 --> 1:34:36.540
+ Not exactly, that is not my area.
+
+1:34:36.540 --> 1:34:39.080
+ I think there are some studies that have focused
+
+1:34:39.080 --> 1:34:44.080
+ on that present moment kind of activity.
+
+1:34:44.080 --> 1:34:46.680
+ But that is what I think is most important
+
+1:34:46.680 --> 1:34:49.000
+ about the practice of meditation,
+
+1:34:49.000 --> 1:34:52.880
+ or one of the important things that calms us down.
+
+1:34:52.880 --> 1:34:54.800
+ Because if you know how to do that,
+
+1:34:54.800 --> 1:34:58.800
+ that gives you this powerful tool for the rest of your day.
+
+1:34:58.800 --> 1:35:03.040
+ You're not locked into that fearful future thinking
+
+1:35:03.040 --> 1:35:04.240
+ that so many of us have,
+
+1:35:04.240 --> 1:35:08.200
+ or that just reliving of the terrible past,
+
+1:35:08.200 --> 1:35:12.280
+ but you could enjoy the present moment.
+
+1:35:12.280 --> 1:35:14.120
+ Yeah, that really resonates.
+
+1:35:14.120 --> 1:35:16.640
+ I think that going back to the earlier part
+
+1:35:16.640 --> 1:35:18.160
+ of our conversation,
+
+1:35:18.160 --> 1:35:22.360
+ the hippocampus has this incredible storage capacity
+
+1:35:22.360 --> 1:35:25.920
+ and ability to set context about past, present, and future.
+
+1:35:25.920 --> 1:35:27.640
+ And that's a beautiful thing,
+
+1:35:27.640 --> 1:35:29.840
+ because as much as I like to think
+
+1:35:29.840 --> 1:35:32.220
+ he had some semblance of a healthy life,
+
+1:35:32.220 --> 1:35:33.800
+ none of us want to be HM.
+
+1:35:33.800 --> 1:35:35.400
+ None of us want to be in the position
+
+1:35:35.400 --> 1:35:36.920
+ of not being able to form new memories
+
+1:35:36.920 --> 1:35:40.200
+ and have no context to the past or the present.
+
+1:35:40.200 --> 1:35:42.620
+ So we're grateful that we should all be grateful
+
+1:35:42.620 --> 1:35:46.160
+ that our hippocampus can draw from past, present, and future
+
+1:35:46.160 --> 1:35:47.320
+ in various combinations,
+
+1:35:47.320 --> 1:35:49.960
+ and we should support it through the daily exercise
+
+1:35:49.960 --> 1:35:52.900
+ and other habits, let's call them habits
+
+1:35:52.900 --> 1:35:55.440
+ so that people make them habits that you've highlighted.
+
+1:35:55.440 --> 1:35:58.840
+ But if we are not deliberately anchoring
+
+1:35:58.840 --> 1:36:03.320
+ within past, present, and future according to what we need,
+
+1:36:03.320 --> 1:36:06.360
+ and we're just shuffling between past, present, and future,
+
+1:36:06.360 --> 1:36:08.540
+ that is not a good way to live.
+
+1:36:08.540 --> 1:36:09.380
+ No.
+
+1:36:09.380 --> 1:36:10.200
+ It's not effective.
+
+1:36:10.200 --> 1:36:11.040
+ No.
+
+1:36:11.040 --> 1:36:13.300
+ It sounds like meditation can really help us
+
+1:36:13.300 --> 1:36:15.000
+ go to the right stacks.
+
+1:36:15.000 --> 1:36:17.000
+ I guess people don't go to libraries anymore,
+
+1:36:17.000 --> 1:36:18.240
+ but in the old days,
+
+1:36:18.240 --> 1:36:20.600
+ you would go to the right location library.
+
+1:36:20.600 --> 1:36:21.840
+ You actually can't get distracted
+
+1:36:21.840 --> 1:36:23.440
+ by the books that you're interested in
+
+1:36:23.440 --> 1:36:25.440
+ if you need to go just reflexively,
+
+1:36:25.440 --> 1:36:27.360
+ if you need to go study a particular topic.
+
+1:36:27.360 --> 1:36:29.320
+ So that's kind of how I think about it.
+
+1:36:29.320 --> 1:36:33.040
+ It makes us more linear perhaps in our way of being.
+
+1:36:33.040 --> 1:36:33.880
+ I think so.
+
+1:36:33.880 --> 1:36:35.460
+ And it actually counteracts,
+
+1:36:36.720 --> 1:36:38.580
+ not that I'm against technology,
+
+1:36:38.580 --> 1:36:41.960
+ but having our phones and being connected
+
+1:36:41.960 --> 1:36:46.960
+ to every good and bad thing going on in the world today
+
+1:36:46.960 --> 1:36:48.840
+ is incredibly distracting
+
+1:36:48.840 --> 1:36:52.120
+ and takes you away from the present moment
+
+1:36:52.120 --> 1:36:54.000
+ virtually 24 hours a day.
+
+1:36:54.000 --> 1:36:56.600
+ And so we have to work extra hard right now
+
+1:36:56.600 --> 1:36:58.480
+ compared to in the 40s
+
+1:36:58.480 --> 1:37:00.280
+ when we didn't have all this technology
+
+1:37:00.280 --> 1:37:01.600
+ or at the same level.
+
+1:37:01.600 --> 1:37:05.400
+ So yeah, it becomes even more important practice,
+
+1:37:05.400 --> 1:37:07.000
+ I think, for everyday life.
+
+1:37:07.000 --> 1:37:09.080
+ Yeah, or even 10, 15 years ago,
+
+1:37:10.080 --> 1:37:12.440
+ it felt like smartphones weren't as intrusive.
+
+1:37:13.800 --> 1:37:15.000
+ One final question,
+
+1:37:15.000 --> 1:37:20.000
+ and maybe a request as the new incoming dean
+
+1:37:20.840 --> 1:37:22.200
+ of College of Letters and Sciences.
+
+1:37:22.200 --> 1:37:25.680
+ And I must say, I'm delighted, thrilled actually to hear
+
+1:37:25.680 --> 1:37:28.840
+ that a lot of the practices that we've been discussing today
+
+1:37:28.840 --> 1:37:31.040
+ and that you've pioneered are going to be incorporated
+
+1:37:31.040 --> 1:37:32.520
+ into undergraduate education.
+
+1:37:32.520 --> 1:37:34.600
+ I predict, and I'd be willing to wager
+
+1:37:34.600 --> 1:37:36.360
+ that that will become a template
+
+1:37:36.360 --> 1:37:40.080
+ for how universities and non-university systems
+
+1:37:40.080 --> 1:37:40.920
+ should function.
+
+1:37:40.920 --> 1:37:43.920
+ Because if indeed, and it is true
+
+1:37:43.920 --> 1:37:46.520
+ that there's this incredible relationship
+
+1:37:46.520 --> 1:37:48.240
+ between physical movement
+
+1:37:48.240 --> 1:37:51.720
+ and mental deliberate practices and performance,
+
+1:37:51.720 --> 1:37:56.160
+ any corporation, school, household would be crazy,
+
+1:37:56.160 --> 1:37:59.480
+ would be self-limiting and even self-destructive
+
+1:37:59.480 --> 1:38:00.840
+ to not incorporate those.
+
+1:38:00.840 --> 1:38:04.320
+ So I'm so happy that you're gonna do this and collect data.
+
+1:38:04.320 --> 1:38:06.200
+ Please, we'll have to touch back with you
+
+1:38:06.200 --> 1:38:08.720
+ and hear what comes of that.
+
+1:38:08.720 --> 1:38:12.280
+ But one of the main things that I hear so much about today
+
+1:38:12.280 --> 1:38:14.560
+ are issues with attention.
+
+1:38:14.560 --> 1:38:15.560
+ And we haven't talked about attention.
+
+1:38:15.560 --> 1:38:18.120
+ We've mainly been talking about memory and cognition,
+
+1:38:18.120 --> 1:38:20.120
+ but you know a lot about attention.
+
+1:38:22.120 --> 1:38:23.400
+ And here, I'm not being disparaging.
+
+1:38:23.400 --> 1:38:25.840
+ I think people have done what I'm about to say
+
+1:38:25.840 --> 1:38:30.000
+ as a consequence of need and lack of other resources.
+
+1:38:30.000 --> 1:38:33.080
+ There's an immense amount of Adderall use, Ritalin use,
+
+1:38:33.080 --> 1:38:35.560
+ and modafinil use, and caffeine abuse.
+
+1:38:35.560 --> 1:38:37.080
+ Now, I happen to like caffeine.
+
+1:38:37.080 --> 1:38:39.880
+ I don't use the other compounds I described,
+
+1:38:39.880 --> 1:38:44.320
+ but it's just incredible to me how the data on this,
+
+1:38:44.320 --> 1:38:46.600
+ a colleague of mine at Stanford claims that
+
+1:38:46.600 --> 1:38:49.480
+ something like two-thirds or more of college students
+
+1:38:49.480 --> 1:38:52.360
+ use these without prescription for ADHD.
+
+1:38:54.680 --> 1:38:58.480
+ What can we expect in terms of the effects
+
+1:38:58.480 --> 1:39:00.520
+ of regular exercise on attention?
+
+1:39:00.520 --> 1:39:03.000
+ And are there any other things besides exercise
+
+1:39:03.000 --> 1:39:05.280
+ and meditation that you would like to see people do
+
+1:39:05.280 --> 1:39:07.960
+ in terms of trying to increase their powers of attention?
+
+1:39:07.960 --> 1:39:11.400
+ Because I think the ability to focus and attend
+
+1:39:11.400 --> 1:39:13.640
+ is really the distinguishing feature
+
+1:39:13.640 --> 1:39:16.400
+ between those that will succeed in any endeavor
+
+1:39:16.400 --> 1:39:18.000
+ and those that won't.
+
+1:39:18.000 --> 1:39:19.920
+ And that's a scary thing for a lot of people to hear
+
+1:39:19.920 --> 1:39:22.240
+ because a lot of people think they have ADHD.
+
+1:39:22.240 --> 1:39:23.680
+ They may, they may not.
+
+1:39:23.680 --> 1:39:26.320
+ But I bet that a number of students at both Stanford
+
+1:39:26.320 --> 1:39:30.960
+ and NYU feel challenged with holding their attention
+
+1:39:30.960 --> 1:39:32.920
+ to the thing that they need to hold their attention to.
+
+1:39:32.920 --> 1:39:34.040
+ Yeah, yeah.
+
+1:39:34.040 --> 1:39:39.040
+ So I would say the top three tools that everybody
+
+1:39:39.280 --> 1:39:44.000
+ right this minute today can use to up their capacity
+
+1:39:44.000 --> 1:39:48.040
+ to attend where they want to include exercise
+
+1:39:48.040 --> 1:39:49.320
+ for the reasons we've talked about.
+
+1:39:49.320 --> 1:39:50.680
+ It has a direct effect on
+
+1:39:50.680 --> 1:39:53.480
+ functioning of the prefrontal cortex, meditation also,
+
+1:39:53.480 --> 1:39:58.240
+ clear clinical studies showing improved ability to focus
+
+1:39:58.240 --> 1:40:01.560
+ and particularly focus on the present moment.
+
+1:40:01.560 --> 1:40:03.720
+ And the third has to be sleep.
+
+1:40:03.720 --> 1:40:08.720
+ So sleep is, you can't, it's out of the three,
+
+1:40:08.720 --> 1:40:10.960
+ it is the most physiological.
+
+1:40:10.960 --> 1:40:13.520
+ I mean, I could live my whole life
+
+1:40:13.520 --> 1:40:15.600
+ without meditating one minute.
+
+1:40:15.600 --> 1:40:17.660
+ Could I survive without sleep?
+
+1:40:17.660 --> 1:40:19.240
+ No, none of us could.
+
+1:40:19.240 --> 1:40:22.280
+ So it's more basic physiological.
+
+1:40:22.280 --> 1:40:27.280
+ But it is so important for all core cognitive functions,
+
+1:40:30.180 --> 1:40:32.760
+ including attention, including creativity,
+
+1:40:32.760 --> 1:40:37.760
+ including just good basic brain function.
+
+1:40:41.680 --> 1:40:46.680
+ That is why it's so critical to get that information,
+
+1:40:47.440 --> 1:40:49.560
+ that basic neuroscience information
+
+1:40:49.560 --> 1:40:51.680
+ into the heads of these students
+
+1:40:51.680 --> 1:40:55.680
+ that are trying their best to show us how their brain work,
+
+1:40:55.680 --> 1:41:00.320
+ but being hampered because they're not moving enough,
+
+1:41:00.320 --> 1:41:02.280
+ they're not meditating.
+
+1:41:02.280 --> 1:41:04.720
+ And there's all these distracting things
+
+1:41:04.720 --> 1:41:06.760
+ that they include in their lives,
+
+1:41:06.760 --> 1:41:09.320
+ some of which a little bit is good,
+
+1:41:09.320 --> 1:41:14.320
+ but 24 hours a day on your phone and LinkedIn,
+
+1:41:14.360 --> 1:41:16.820
+ not LinkedIn, but linked to your phone,
+
+1:41:18.080 --> 1:41:20.840
+ is damaging to your attention.
+
+1:41:20.840 --> 1:41:25.840
+ So exercise, meditation, sleep can help you learn,
+
+1:41:27.200 --> 1:41:30.520
+ retain and perform better
+
+1:41:30.520 --> 1:41:34.000
+ than if you do not have these three things in your life.
+
+1:41:34.000 --> 1:41:36.120
+ Wonderful, music to my ears,
+
+1:41:36.120 --> 1:41:40.520
+ and also either very low cost or zero cost,
+
+1:41:40.520 --> 1:41:43.840
+ considering that the exercise doesn't require a class.
+
+1:41:43.840 --> 1:41:48.840
+ One could use the freely available resource of gravity
+
+1:41:49.120 --> 1:41:52.880
+ to do jumping jacks or burpees or push-ups or whatever,
+
+1:41:52.880 --> 1:41:54.160
+ or sit-ups or all of those in combination.
+
+1:41:54.160 --> 1:41:55.240
+ And don't forget YouTube,
+
+1:41:55.240 --> 1:41:59.340
+ the freely accessible millions of YouTube videos.
+
+1:41:59.340 --> 1:42:02.360
+ If you don't want to do your jumping jacks by yourself,
+
+1:42:02.360 --> 1:42:03.440
+ I always say this.
+
+1:42:03.440 --> 1:42:08.180
+ I talk about breath meditation for my book, Good Anxiety.
+
+1:42:08.180 --> 1:42:11.120
+ And if you don't like the one that I suggest,
+
+1:42:11.120 --> 1:42:13.120
+ there's only about a million more on YouTube
+
+1:42:13.120 --> 1:42:16.040
+ with ratings from one star to five stars.
+
+1:42:16.040 --> 1:42:18.340
+ So use that resource.
+
+1:42:18.340 --> 1:42:20.140
+ It is a wonderful resource.
+
+1:42:20.140 --> 1:42:23.040
+ And you are an amazing resource.
+
+1:42:23.040 --> 1:42:26.000
+ Wendy, thank you so much for coming here today
+
+1:42:26.000 --> 1:42:28.880
+ to have this discussion and share your knowledge
+
+1:42:28.880 --> 1:42:33.440
+ about not just existing data, but new data coming out soon.
+
+1:42:33.440 --> 1:42:37.500
+ And for your leadership in the university system,
+
+1:42:37.500 --> 1:42:39.320
+ for your leadership in public education,
+
+1:42:39.320 --> 1:42:42.280
+ for the decades of important work on memory
+
+1:42:42.280 --> 1:42:43.280
+ and neural circuitry,
+
+1:42:43.280 --> 1:42:46.760
+ which we got to learn about today as well.
+
+1:42:46.760 --> 1:42:48.320
+ Thank you ever so much.
+
+1:42:48.320 --> 1:42:49.480
+ Thank you, Andrew.
+
+1:42:49.480 --> 1:42:51.120
+ Fun conversation.
+
+1:42:51.120 --> 1:42:52.140
+ Thank you for joining me today
+
+1:42:52.140 --> 1:42:54.160
+ for my discussion about learning and memory
+
+1:42:54.160 --> 1:42:56.280
+ and how to get better at learning and remembering
+
+1:42:56.280 --> 1:42:57.920
+ with Dr. Wendy Suzuki.
+
+1:42:57.920 --> 1:43:00.200
+ If you'd like to learn more about Dr. Suzuki's work,
+
+1:43:00.200 --> 1:43:02.960
+ you can go to wendysizuki.com.
+
+1:43:02.960 --> 1:43:04.840
+ There you will also find titles and links
+
+1:43:04.840 --> 1:43:08.060
+ to her popular books, as well as her social media handles.
+
+1:43:08.060 --> 1:43:10.880
+ We've also placed those in the show note captions.
+
+1:43:10.880 --> 1:43:13.340
+ If you're learning from and or enjoying this podcast,
+
+1:43:13.340 --> 1:43:14.980
+ please subscribe to us on YouTube.
+
+1:43:14.980 --> 1:43:17.580
+ That's a terrific zero cost way to support us.
+
+1:43:17.580 --> 1:43:19.700
+ In addition, please subscribe to the podcast
+
+1:43:19.700 --> 1:43:21.880
+ on Spotify and or Apple.
+
+1:43:21.880 --> 1:43:23.840
+ And on both Spotify and Apple,
+
+1:43:23.840 --> 1:43:26.320
+ you can leave us up to a five star review.
+
+1:43:26.320 --> 1:43:28.640
+ If you have suggestions about guests or topics
+
+1:43:28.640 --> 1:43:31.020
+ that you'd like us to cover on the Huberman Lab Podcast,
+
+1:43:31.020 --> 1:43:33.080
+ or you'd like to give us feedback of any kind,
+
+1:43:33.080 --> 1:43:35.880
+ please leave that in the comment section on YouTube.
+
+1:43:35.880 --> 1:43:37.960
+ That's the best place to give us feedback.
+
+1:43:37.960 --> 1:43:39.640
+ Please also check out the sponsors mentioned
+
+1:43:39.640 --> 1:43:41.220
+ at the beginning of today's episode.
+
+1:43:41.220 --> 1:43:43.720
+ That's the best way to support this podcast.
+
+1:43:43.720 --> 1:43:46.600
+ We also have a Patreon, it's patreon.com slash
+
+1:43:46.600 --> 1:43:49.520
+ Andrew Huberman, and there you can support the podcast
+
+1:43:49.520 --> 1:43:51.080
+ at any level that you like.
+
+1:43:51.080 --> 1:43:53.020
+ On many episodes of the Huberman Lab Podcast,
+
+1:43:53.020 --> 1:43:54.480
+ we discuss supplements.
+
+1:43:54.480 --> 1:43:56.240
+ While supplements are certainly not necessary
+
+1:43:56.240 --> 1:43:58.960
+ for everybody, many people derive tremendous benefit
+
+1:43:58.960 --> 1:44:01.940
+ from them for things like accelerating the transition
+
+1:44:01.940 --> 1:44:04.600
+ into sleep and getting better, deeper sleep,
+
+1:44:04.600 --> 1:44:06.960
+ as well as enhancing focus and learning
+
+1:44:06.960 --> 1:44:10.080
+ and other aspects of human performance and health.
+
+1:44:10.080 --> 1:44:11.820
+ We're excited to announce that we've partnered
+
+1:44:11.820 --> 1:44:13.720
+ with Momentous Supplements.
+
+1:44:13.720 --> 1:44:16.520
+ The reason we partnered with Momentous is several fold.
+
+1:44:16.520 --> 1:44:19.000
+ First of all, we wanted to have one location
+
+1:44:19.000 --> 1:44:21.020
+ where Huberman Lab Podcast listeners could go
+
+1:44:21.020 --> 1:44:24.240
+ in order to find all the supplements that we talk about
+
+1:44:24.240 --> 1:44:26.760
+ and to find those in a form where they could
+
+1:44:26.760 --> 1:44:28.920
+ systematically try one or the other.
+
+1:44:28.920 --> 1:44:30.580
+ This is a real issue in the supplement industry.
+
+1:44:30.580 --> 1:44:32.480
+ A lot of supplement brands out there combine
+
+1:44:32.480 --> 1:44:35.000
+ different ingredients in ways that don't really allow you
+
+1:44:35.000 --> 1:44:38.100
+ to pinpoint exactly what you need and what you don't need.
+
+1:44:38.100 --> 1:44:41.960
+ So getting supplements that have low doses
+
+1:44:41.960 --> 1:44:45.340
+ or just the minimal effective dose of particular ingredients
+
+1:44:45.340 --> 1:44:47.960
+ and being able to mix and match those ingredients yourself
+
+1:44:47.960 --> 1:44:51.240
+ and really establish what's best for you is really key.
+
+1:44:51.240 --> 1:44:53.500
+ In addition, we came to realize that a lot of our listeners
+
+1:44:53.500 --> 1:44:55.440
+ want supplements, but they reside outside
+
+1:44:55.440 --> 1:44:56.740
+ of the United States.
+
+1:44:56.740 --> 1:44:58.600
+ So we're pleased to tell you that Momentous ships
+
+1:44:58.600 --> 1:45:01.080
+ both within the US and internationally.
+
+1:45:01.080 --> 1:45:04.040
+ And of course, Momentous Supplements are of the very highest
+
+1:45:04.040 --> 1:45:06.760
+ quality ingredients and the precision of the amounts
+
+1:45:06.760 --> 1:45:09.360
+ of those ingredients is tightly regulated.
+
+1:45:09.360 --> 1:45:11.360
+ If you're interested in Momentous Supplements,
+
+1:45:11.360 --> 1:45:13.080
+ the catalog of supplements related
+
+1:45:13.080 --> 1:45:16.440
+ to the Huberman Lab Podcast are growing all the time.
+
+1:45:16.440 --> 1:45:18.080
+ A good number of them are already there.
+
+1:45:18.080 --> 1:45:20.840
+ You can go to livemomentous.com slash Huberman
+
+1:45:20.840 --> 1:45:22.120
+ in order to find them.
+
+1:45:22.120 --> 1:45:24.440
+ And there will be additional supplements added
+
+1:45:24.440 --> 1:45:26.360
+ to that site as we go forward.
+
+1:45:26.360 --> 1:45:28.260
+ If you're not already following Huberman Lab
+
+1:45:28.260 --> 1:45:31.460
+ on Twitter and Instagram, I post neuroscience
+
+1:45:31.460 --> 1:45:33.520
+ and other science related information
+
+1:45:33.520 --> 1:45:35.720
+ and tools on a regular basis.
+
+1:45:35.720 --> 1:45:37.820
+ Some of that information overlaps with the content
+
+1:45:37.820 --> 1:45:40.320
+ of the Huberman Lab Podcast, but a lot of it is distinct
+
+1:45:40.320 --> 1:45:43.040
+ from the information contained on the Huberman Lab Podcast.
+
+1:45:43.040 --> 1:45:45.320
+ So again, that's Huberman Lab on Instagram
+
+1:45:45.320 --> 1:45:47.280
+ and Huberman Lab on Twitter.
+
+1:45:47.280 --> 1:45:50.100
+ We also have a neural network newsletter.
+
+1:45:50.100 --> 1:45:53.600
+ What that is is a monthly newsletter in which I distill
+
+1:45:53.600 --> 1:45:56.120
+ critical points from different podcast episodes,
+
+1:45:56.120 --> 1:45:57.920
+ provide links to useful resources.
+
+1:45:57.920 --> 1:45:59.360
+ If you want to sign up for that newsletter,
+
+1:45:59.360 --> 1:46:01.000
+ I should mention it is zero cost
+
+1:46:01.000 --> 1:46:02.920
+ and we do not share your email with anybody.
+
+1:46:02.920 --> 1:46:05.960
+ And we have a very clear privacy policy posted
+
+1:46:05.960 --> 1:46:07.120
+ at HubermanLab.com.
+
+1:46:07.120 --> 1:46:10.280
+ Just go to HubermanLab.com, click on the menu,
+
+1:46:10.280 --> 1:46:11.880
+ you'll see the neural network newsletter.
+
+1:46:11.880 --> 1:46:13.840
+ You can also look at examples of newsletters
+
+1:46:13.840 --> 1:46:15.200
+ without having to sign up to make sure
+
+1:46:15.200 --> 1:46:17.400
+ that you actually do want to sign up.
+
+1:46:17.400 --> 1:46:20.080
+ But if you are interested, the signup is there.
+
+1:46:20.080 --> 1:46:22.880
+ It's very easy and you can receive our monthly newsletter.
+
+1:46:22.880 --> 1:46:25.080
+ So once again, thank you for joining me today
+
+1:46:25.080 --> 1:46:28.480
+ for our voyage into the neuroscience of learning and memory
+
+1:46:28.480 --> 1:46:31.020
+ and tools to get better at learning and memory.
+
+1:46:31.020 --> 1:46:34.080
+ And as always, thank you for your interest in science.
+
+1:46:34.080 --> 1:46:51.080
+ And as always, thank you for your interest in technology.
+

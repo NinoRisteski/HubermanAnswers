@@ -1,0 +1,8189 @@
+WEBVTT
+
+00:00.000 --> 00:02.240
+ Welcome to the Huberman Lab Podcast,
+
+00:02.240 --> 00:04.880
+ where we discuss science and science-based tools
+
+00:04.880 --> 00:05.920
+ for everyday life.
+
+00:09.280 --> 00:10.240
+ I'm Andrew Huberman,
+
+00:10.240 --> 00:13.020
+ and I'm a professor of neurobiology and ophthalmology
+
+00:13.020 --> 00:14.920
+ at Stanford School of Medicine.
+
+00:14.920 --> 00:17.160
+ Today, my guest is Dr. David Berson,
+
+00:17.160 --> 00:19.480
+ professor of medical science, neurobiology,
+
+00:19.480 --> 00:22.240
+ and ophthalmology at Brown University.
+
+00:22.240 --> 00:24.020
+ Dr. Berson's laboratory is credited
+
+00:24.020 --> 00:25.960
+ with discovering the cells in the eye
+
+00:25.960 --> 00:28.180
+ that set your circadian rhythms.
+
+00:28.180 --> 00:30.080
+ These are the so-called intrinsically
+
+00:30.080 --> 00:32.020
+ photosensitive melanopsin cells,
+
+00:32.020 --> 00:33.720
+ and while that's a mouthful,
+
+00:33.720 --> 00:36.140
+ all you need to know for sake of this introduction
+
+00:36.140 --> 00:38.760
+ is that those are the cells that inform your brain and body
+
+00:38.760 --> 00:40.560
+ about the time of day.
+
+00:40.560 --> 00:42.480
+ Dr. Berson's laboratory has also made
+
+00:42.480 --> 00:44.240
+ a number of other important discoveries
+
+00:44.240 --> 00:47.880
+ about how we convert our perceptions of the outside world
+
+00:47.880 --> 00:50.080
+ into motor action.
+
+00:50.080 --> 00:53.240
+ More personally, Dr. Berson has been my go-to resource
+
+00:53.240 --> 00:57.160
+ for all things neuroscience for nearly two decades.
+
+00:57.160 --> 01:00.180
+ I knew of his reputation as a spectacular researcher
+
+01:00.180 --> 01:01.680
+ for a long period of time,
+
+01:01.680 --> 01:05.080
+ and then many years ago, I cold-called him out of the blue.
+
+01:05.080 --> 01:08.220
+ I basically corralled him into a long conversation
+
+01:08.220 --> 01:10.920
+ over the phone, after which he invited me out to Brown,
+
+01:10.920 --> 01:13.040
+ and we've been discussing neuroscience
+
+01:13.040 --> 01:16.720
+ and how the brain works and the emerging new technologies
+
+01:16.720 --> 01:19.440
+ and the emerging new concepts in neuroscience
+
+01:19.440 --> 01:22.020
+ for a very long time now.
+
+01:22.020 --> 01:23.080
+ You're going to realize today
+
+01:23.080 --> 01:25.600
+ why Dr. Berson is my go-to source.
+
+01:25.600 --> 01:29.260
+ He has an exceptionally clear and organized view
+
+01:29.260 --> 01:31.360
+ of how the nervous system works.
+
+01:31.360 --> 01:33.520
+ Now, there are many, many parts of the nervous system,
+
+01:33.520 --> 01:36.420
+ different nuclei and connections and circuits and chemicals
+
+01:36.420 --> 01:39.180
+ and so forth, but it takes a special kind of person
+
+01:39.180 --> 01:41.240
+ to be able to organize that information
+
+01:41.240 --> 01:43.860
+ into a structured and logical framework
+
+01:43.860 --> 01:46.980
+ that can allow us to make sense of how we function
+
+01:46.980 --> 01:49.140
+ in terms of what we feel, what we experience,
+
+01:49.140 --> 01:51.020
+ how we move through the world.
+
+01:51.020 --> 01:53.080
+ Dr. Berson is truly one of a kind
+
+01:53.080 --> 01:55.600
+ in his ability to synthesize and organize
+
+01:55.600 --> 01:57.360
+ and communicate that information.
+
+01:57.360 --> 02:00.120
+ And I give him credit as one of my mentors
+
+02:00.120 --> 02:02.260
+ and one of the people that I respect most
+
+02:02.260 --> 02:05.220
+ in the field of science and medical science generally.
+
+02:05.220 --> 02:07.560
+ Today, Dr. Berson takes us on a journey
+
+02:07.560 --> 02:09.320
+ from the periphery of the nervous system,
+
+02:09.320 --> 02:12.720
+ meaning from the outside, deep into the nervous system,
+
+02:12.720 --> 02:16.660
+ layer by layer, structure by structure, circuit by circuit,
+
+02:16.660 --> 02:19.540
+ making clear to us how each of these individual circuits
+
+02:19.540 --> 02:22.440
+ work and how they work together as a whole.
+
+02:22.440 --> 02:24.480
+ It's a really magnificent description
+
+02:24.480 --> 02:27.440
+ that you simply cannot get from any textbook,
+
+02:27.440 --> 02:30.280
+ from any popular book, and frankly, as far as I know,
+
+02:30.280 --> 02:33.120
+ from any podcast that currently exists out there.
+
+02:33.120 --> 02:34.880
+ So it's a real gift to have this opportunity
+
+02:34.880 --> 02:36.540
+ to learn from Dr. Berson.
+
+02:36.540 --> 02:39.340
+ Again, I consider him my mentor in the field
+
+02:39.340 --> 02:41.440
+ of learning and teaching neuroscience,
+
+02:41.440 --> 02:43.760
+ and I'm excited for you to learn from him.
+
+02:43.760 --> 02:46.680
+ One thing is for certain, by the end of this podcast,
+
+02:46.680 --> 02:49.560
+ you will know far more about how your nervous system works
+
+02:49.560 --> 02:51.620
+ than the vast majority of people out there,
+
+02:51.620 --> 02:55.320
+ including many expert biologists and neuroscientists.
+
+02:55.320 --> 02:58.000
+ Before we begin, I'd like to emphasize that this podcast
+
+02:58.000 --> 03:00.960
+ is separate from my teaching and research roles at Stanford.
+
+03:00.960 --> 03:02.880
+ It is, however, part of my desire and effort
+
+03:02.880 --> 03:05.480
+ to bring zero cost to consumer information about science
+
+03:05.480 --> 03:08.200
+ and science-related tools to the general public.
+
+03:08.200 --> 03:09.240
+ In keeping with that theme,
+
+03:09.240 --> 03:12.000
+ I'd like to thank the sponsors of today's podcast.
+
+03:12.000 --> 03:14.260
+ Our first sponsor is Athletic Greens.
+
+03:14.260 --> 03:15.860
+ Athletic Greens is an all-in-one
+
+03:15.860 --> 03:18.280
+ vitamin mineral probiotic drink.
+
+03:18.280 --> 03:21.500
+ I've been taking Athletic Greens every day since 2012,
+
+03:21.500 --> 03:23.920
+ so I'm delighted that they're sponsoring the podcast.
+
+03:23.920 --> 03:25.720
+ The reason I started taking Athletic Greens
+
+03:25.720 --> 03:27.660
+ and the reason I still take Athletic Greens
+
+03:27.660 --> 03:29.720
+ is that it covers all of my vitamin mineral
+
+03:29.720 --> 03:31.480
+ and probiotic needs.
+
+03:31.480 --> 03:33.560
+ Nowadays, there's a lot of data out there
+
+03:33.560 --> 03:36.240
+ pointing to the fact that a healthy gut microbiome,
+
+03:36.240 --> 03:38.280
+ literally little microbes that live in our gut
+
+03:38.280 --> 03:40.720
+ that are good for us, is important to support
+
+03:40.720 --> 03:43.640
+ our immune system, our nervous system, our endocrine system,
+
+03:43.640 --> 03:46.920
+ and various aspects of our immediate and long-term health.
+
+03:46.920 --> 03:47.760
+ With Athletic Greens,
+
+03:47.760 --> 03:49.800
+ I get all the vitamins and minerals that I need,
+
+03:49.800 --> 03:53.520
+ plus the probiotics ensure a healthy gut microbiome.
+
+03:53.520 --> 03:54.640
+ It also tastes really good.
+
+03:54.640 --> 03:56.900
+ I mix mine up with some water, a little bit of lemon juice.
+
+03:56.900 --> 03:58.240
+ I'll have that early in the day
+
+03:58.240 --> 04:00.720
+ and sometimes a second time later in the day as well.
+
+04:00.720 --> 04:02.600
+ It's compatible with intermittent fasting.
+
+04:02.600 --> 04:05.960
+ It's compatible with vegan diets, with keto diets,
+
+04:05.960 --> 04:07.120
+ and essentially every diet
+
+04:07.120 --> 04:09.840
+ that you could possibly imagine out there.
+
+04:09.840 --> 04:12.180
+ It's also filled with adaptogens for recovery.
+
+04:12.180 --> 04:14.040
+ It has digestive enzymes for gut health
+
+04:14.040 --> 04:15.120
+ and has a number of other things
+
+04:15.120 --> 04:16.640
+ that support the immune system.
+
+04:17.520 --> 04:18.900
+ If you'd like to try Athletic Greens,
+
+04:18.900 --> 04:21.440
+ you can go to athleticgreens.com slash Huberman
+
+04:21.440 --> 04:22.960
+ to claim their special offer.
+
+04:22.960 --> 04:24.440
+ They'll give you five free travel packs
+
+04:24.440 --> 04:26.320
+ that make it really easy to mix up Athletic Greens
+
+04:26.320 --> 04:27.440
+ while you're on the road,
+
+04:27.440 --> 04:30.960
+ and they'll give you a year's supply of vitamin D3K2.
+
+04:30.960 --> 04:33.800
+ There's now a lot of evidence that vitamin D3
+
+04:33.800 --> 04:37.520
+ supports a huge number of metabolic factors,
+
+04:37.520 --> 04:39.640
+ immune system factors, endocrine factors.
+
+04:39.640 --> 04:41.360
+ Basically, we need vitamin D3.
+
+04:41.360 --> 04:42.680
+ We can get it from the sun,
+
+04:42.680 --> 04:45.200
+ but many people are deficient in vitamin D3
+
+04:45.200 --> 04:47.080
+ even if they are getting what they think
+
+04:47.080 --> 04:48.320
+ is sufficient sunlight.
+
+04:48.320 --> 04:50.720
+ And K2 is important for cardiovascular health.
+
+04:50.720 --> 04:53.600
+ So again, if you go to athleticgreens.com slash Huberman,
+
+04:53.600 --> 04:55.140
+ you can claim their special offer,
+
+04:55.140 --> 04:56.320
+ the five free travel packs,
+
+04:56.320 --> 04:59.160
+ plus the year supply of vitamin D3K2.
+
+04:59.160 --> 05:02.360
+ Today's podcast is also brought to us by InsideTracker.
+
+05:02.360 --> 05:04.840
+ InsideTracker is a personalized nutrition platform
+
+05:04.840 --> 05:07.280
+ that analyzes data from your blood and DNA
+
+05:07.280 --> 05:08.820
+ to help you better understand your body
+
+05:08.820 --> 05:10.720
+ and help you reach your health goals.
+
+05:10.720 --> 05:13.640
+ I've long been a believer in getting regular blood work done
+
+05:13.640 --> 05:16.240
+ for the simple reason that many of the factors
+
+05:16.240 --> 05:18.540
+ that impact your immediate and long-term health
+
+05:18.540 --> 05:21.120
+ can only be analyzed from a quality blood test.
+
+05:21.120 --> 05:23.600
+ And now with the advent of modern DNA tests,
+
+05:23.600 --> 05:26.180
+ you can also get information about how your specific genes
+
+05:26.180 --> 05:28.740
+ are impacting your immediate and long-term health.
+
+05:28.740 --> 05:30.240
+ Now, a problem with a lot of blood tests
+
+05:30.240 --> 05:32.680
+ and DNA tests out there is you get the numbers back,
+
+05:32.680 --> 05:34.720
+ but you don't know what to do with those numbers.
+
+05:34.720 --> 05:37.400
+ With InsideTracker, they make it very simple
+
+05:37.400 --> 05:39.620
+ to figure out what to do to bring those numbers
+
+05:39.620 --> 05:41.560
+ into the ranges that are right for you.
+
+05:41.560 --> 05:44.300
+ They have a dashboard that's very easy to use.
+
+05:44.300 --> 05:47.800
+ You can see the numbers from your blood and or DNA tests,
+
+05:47.800 --> 05:50.420
+ and it will point to specific lifestyle factors,
+
+05:50.420 --> 05:53.280
+ nutritional factors, as well as supplementation,
+
+05:53.280 --> 05:55.920
+ maybe even prescription factors that would be right for you
+
+05:55.920 --> 05:57.960
+ to bring the numbers into range that are ideal
+
+05:57.960 --> 06:00.360
+ for your immediate and long-term health goals.
+
+06:00.360 --> 06:02.040
+ Another feature that InsideTracker has
+
+06:02.040 --> 06:03.920
+ is their inner age test.
+
+06:03.920 --> 06:06.200
+ This test shows you what your biological age is
+
+06:06.200 --> 06:08.520
+ and compares that to your chronological age
+
+06:08.520 --> 06:11.220
+ and what you can do to improve your biological age,
+
+06:11.220 --> 06:13.100
+ which of course is the important number.
+
+06:13.100 --> 06:14.460
+ If you'd like to try InsideTracker,
+
+06:14.460 --> 06:17.080
+ you can visit insidetracker.com slash Huberman
+
+06:17.080 --> 06:20.040
+ to get 25% off any of InsideTracker's plans.
+
+06:20.040 --> 06:23.360
+ Also, an interview I did with longevity research doctor
+
+06:23.360 --> 06:25.840
+ and InsideTracker's founder, Dr. Gil Blander,
+
+06:25.840 --> 06:27.560
+ is out now on their podcast,
+
+06:27.560 --> 06:29.560
+ the Longevity by Design podcast,
+
+06:29.560 --> 06:31.360
+ and a link to that interview can be found
+
+06:31.360 --> 06:32.800
+ in today's show notes.
+
+06:32.800 --> 06:35.920
+ Today's episode is also brought to us by Magic Spoon.
+
+06:35.920 --> 06:37.720
+ Magic Spoon is a zero-sugar,
+
+06:37.720 --> 06:40.140
+ grain-free, keto-friendly cereal.
+
+06:40.140 --> 06:41.880
+ I don't follow a ketogenic diet.
+
+06:41.880 --> 06:44.120
+ The way that I eat is basically geared toward
+
+06:44.120 --> 06:46.080
+ feeling alert when I want to be alert
+
+06:46.080 --> 06:48.000
+ and feeling sleepy when I want to go to sleep,
+
+06:48.000 --> 06:50.600
+ which for me means fasting until about 11 a.m. or noon,
+
+06:50.600 --> 06:51.720
+ most days.
+
+06:51.720 --> 06:53.920
+ Then I eat low-carb during the day.
+
+06:53.920 --> 06:56.560
+ So I'll have some meat or fish or chicken and some salad.
+
+06:56.560 --> 06:57.480
+ That's what works for me.
+
+06:57.480 --> 06:58.320
+ And in the afternoon,
+
+06:58.320 --> 07:00.920
+ I remain on a more or less low-carb-ish diet.
+
+07:00.920 --> 07:02.160
+ And then in the evening,
+
+07:02.160 --> 07:03.960
+ I eat pastas and things primarily,
+
+07:03.960 --> 07:05.400
+ and I throttle back on the protein,
+
+07:05.400 --> 07:07.140
+ and that's what allows me to fall asleep at night.
+
+07:07.140 --> 07:08.680
+ That's just what works for me.
+
+07:08.680 --> 07:10.740
+ So if I want a snack in the afternoon,
+
+07:10.740 --> 07:14.080
+ I want that to be a ketogenic or low-carb snack.
+
+07:14.080 --> 07:16.820
+ And that snack these days is Magic Spoon.
+
+07:16.820 --> 07:18.160
+ Magic Spoon is really terrific.
+
+07:18.160 --> 07:21.120
+ It has zero grams of sugar, 13 to 14 grams of protein,
+
+07:21.120 --> 07:24.200
+ and only four net grams of carbohydrates in each serving.
+
+07:24.200 --> 07:25.120
+ It's really delicious.
+
+07:25.120 --> 07:27.200
+ They have a number of different flavors like cocoa,
+
+07:27.200 --> 07:29.280
+ fruity, peanut butter, and frosted.
+
+07:29.280 --> 07:30.720
+ I particularly like frosted.
+
+07:30.720 --> 07:33.240
+ It tastes like donuts, and I really like donuts,
+
+07:33.240 --> 07:36.540
+ although I try not to eat donuts too often, if ever.
+
+07:36.540 --> 07:38.560
+ What I do lately is I take Magic Spoon,
+
+07:38.560 --> 07:40.960
+ I put it in some Bulgarian yogurt, which is really good,
+
+07:40.960 --> 07:41.840
+ and I mix that up.
+
+07:41.840 --> 07:42.680
+ I put those in there,
+
+07:42.680 --> 07:43.980
+ and sometimes I put some cinnamon on them,
+
+07:43.980 --> 07:44.840
+ and as I'm describing this,
+
+07:44.840 --> 07:46.160
+ I'm getting hungry for Magic Spoon.
+
+07:46.160 --> 07:47.960
+ So if you want to try Magic Spoon,
+
+07:47.960 --> 07:50.920
+ you can go to magicspoon.com slash Huberman
+
+07:50.920 --> 07:52.160
+ to get their variety pack.
+
+07:52.160 --> 07:54.600
+ Just use the promo code Huberman at checkout
+
+07:54.600 --> 07:56.280
+ to get $5 off your order.
+
+07:56.280 --> 07:58.960
+ Again, that's magicspoon.com slash Huberman,
+
+07:58.960 --> 08:01.760
+ and use the code Huberman to get $5 off.
+
+08:01.760 --> 08:05.160
+ And now for my discussion with Dr. David Berson.
+
+08:05.160 --> 08:06.000
+ Welcome.
+
+08:06.000 --> 08:08.640
+ Thank you, yeah, so nice to be here.
+
+08:08.640 --> 08:11.880
+ Great to have you for more than 20 years.
+
+08:11.880 --> 08:14.260
+ You've been my go-to source for all things,
+
+08:14.260 --> 08:17.120
+ nervous system, how it works, how it's structured.
+
+08:17.120 --> 08:20.120
+ So today I want to ask you some questions about that.
+
+08:20.120 --> 08:22.880
+ I think people would gain a lot of insight
+
+08:22.880 --> 08:24.940
+ into this machine that makes them think,
+
+08:24.940 --> 08:27.180
+ and feel, and see, et cetera.
+
+08:28.320 --> 08:31.760
+ If you would, could you tell us how we see?
+
+08:31.760 --> 08:36.760
+ You know, a photon of light enters the eye, what happens?
+
+08:37.480 --> 08:38.320
+ Right.
+
+08:38.320 --> 08:40.020
+ I mean, how is it that I look outside,
+
+08:40.020 --> 08:42.200
+ I see a truck drive by, or I look on the wall,
+
+08:42.200 --> 08:46.320
+ I see a photo of my dog, how does that work?
+
+08:46.320 --> 08:49.120
+ Right, so this is an old question, obviously.
+
+08:49.120 --> 08:50.880
+ And clearly in the end,
+
+08:50.880 --> 08:52.780
+ the reason you have a visual experience
+
+08:52.780 --> 08:56.120
+ is that your brain has got some pattern of activity
+
+08:56.120 --> 08:59.100
+ that it associates with the input from the periphery.
+
+08:59.100 --> 09:00.760
+ But you can have a visual experience
+
+09:00.760 --> 09:02.600
+ with no input from the periphery as well.
+
+09:02.600 --> 09:06.040
+ When you're dreaming, you're seeing things
+
+09:06.040 --> 09:07.480
+ that aren't coming through your eyes.
+
+09:07.480 --> 09:08.540
+ Are those memories?
+
+09:09.560 --> 09:10.740
+ I would say in a sense,
+
+09:10.740 --> 09:13.180
+ they may reflect your visual experience.
+
+09:13.180 --> 09:15.160
+ They're not necessarily specific visual memories,
+
+09:15.160 --> 09:16.760
+ but of course they can be.
+
+09:16.760 --> 09:18.920
+ But the point is that the experience of seeing
+
+09:18.920 --> 09:21.420
+ is actually a brain phenomenon.
+
+09:22.340 --> 09:24.560
+ But of course, under normal circumstances,
+
+09:24.560 --> 09:26.500
+ we see the world because we're looking at it,
+
+09:26.500 --> 09:28.560
+ and we're using our eyes to look at it.
+
+09:28.560 --> 09:32.280
+ And fundamentally, when we're looking at the exterior world,
+
+09:32.280 --> 09:35.060
+ it's what the retina is telling the brain that matters.
+
+09:35.060 --> 09:37.900
+ So there are cells called ganglion cells.
+
+09:37.900 --> 09:40.520
+ These are neurons that are the key cells
+
+09:40.520 --> 09:43.140
+ for communicating between eye and brain.
+
+09:43.140 --> 09:44.460
+ The eye is like the camera.
+
+09:44.460 --> 09:46.460
+ It's detecting the initial image,
+
+09:46.460 --> 09:47.700
+ doing some initial processing,
+
+09:47.700 --> 09:51.520
+ and then that signal gets sent back to the brain proper.
+
+09:51.520 --> 09:54.360
+ And of course, it's there at the level of the cortex
+
+09:54.360 --> 09:56.240
+ that we have this conscious visual experience.
+
+09:56.240 --> 09:57.760
+ There are many other places in the brain
+
+09:57.760 --> 09:59.740
+ that get visual input as well,
+
+09:59.740 --> 10:02.740
+ doing other things with that kind of information.
+
+10:02.740 --> 10:05.980
+ So I get a lot of questions about color vision.
+
+10:05.980 --> 10:09.060
+ If you would, could you explain how is it
+
+10:09.060 --> 10:12.320
+ that we can perceive reds and greens and blues
+
+10:12.320 --> 10:13.460
+ and things of that sort?
+
+10:13.460 --> 10:14.300
+ Right.
+
+10:14.300 --> 10:16.380
+ So the first thing to understand about light
+
+10:16.380 --> 10:19.900
+ is that it's just a form of electromagnetic radiation.
+
+10:20.940 --> 10:23.400
+ It's vibrating, it's oscillating.
+
+10:23.400 --> 10:25.540
+ But when you say it's vibrating, it's oscillating,
+
+10:25.540 --> 10:28.500
+ you mean that photons are actually moving?
+
+10:28.500 --> 10:29.860
+ Well, in a sense, photons are,
+
+10:29.860 --> 10:31.880
+ they're certainly moving through space.
+
+10:31.880 --> 10:34.460
+ We think about photons as particles,
+
+10:34.460 --> 10:36.060
+ and that's one way of thinking about light,
+
+10:36.060 --> 10:39.240
+ but we can also think of it as a wave, like a radio wave.
+
+10:39.240 --> 10:40.900
+ Either way is acceptable.
+
+10:40.900 --> 10:42.580
+ And the radio waves have frequencies,
+
+10:42.580 --> 10:45.300
+ like the frequencies on your radio dial.
+
+10:45.300 --> 10:48.420
+ And certain frequencies in the electromagnetic spectrum
+
+10:48.420 --> 10:51.000
+ can be detected by neurons in the retina.
+
+10:51.000 --> 10:52.980
+ Those are the things we see.
+
+10:52.980 --> 10:54.660
+ But there are still different wavelengths
+
+10:54.660 --> 10:57.820
+ within the light that can be seen by the eye.
+
+10:57.820 --> 11:00.540
+ And those different wavelengths are unpacked in a sense,
+
+11:00.540 --> 11:03.560
+ or decoded by the nervous system
+
+11:03.560 --> 11:06.460
+ to lead to our experience of color.
+
+11:07.540 --> 11:10.500
+ Essentially, different wavelengths give us the sensation
+
+11:10.500 --> 11:13.700
+ of different colors through the auspices
+
+11:13.700 --> 11:15.900
+ of different neurons that are tuned
+
+11:15.900 --> 11:17.700
+ to different wavelengths of light.
+
+11:17.700 --> 11:22.380
+ So when a photon, so when a little bit of light hits my eye,
+
+11:22.380 --> 11:25.140
+ it goes in, the photoreceptors convert
+
+11:25.140 --> 11:26.500
+ that into electrical signal.
+
+11:26.500 --> 11:27.320
+ Right.
+
+11:27.320 --> 11:30.700
+ How is it that a given photon of light
+
+11:30.700 --> 11:33.160
+ gives me the perception, eventually leads to the perception
+
+11:33.160 --> 11:35.180
+ of red versus green versus blue?
+
+11:35.180 --> 11:36.020
+ Right.
+
+11:36.020 --> 11:40.660
+ So if you imagine that in the first layer of the retina,
+
+11:40.660 --> 11:42.300
+ where this transformation occurs
+
+11:42.300 --> 11:45.180
+ from electromagnetic radiation into neural signals,
+
+11:46.540 --> 11:49.740
+ that you have different kinds of sensitive cells
+
+11:49.740 --> 11:54.020
+ that are expressing, they're making different molecules
+
+11:54.020 --> 11:56.480
+ within themselves for this express purpose
+
+11:56.480 --> 11:59.360
+ of absorbing photons, which is the first step
+
+11:59.360 --> 12:01.340
+ in the process of seeing.
+
+12:01.340 --> 12:03.900
+ Now, it turns out that altogether,
+
+12:03.900 --> 12:06.700
+ there are about five proteins like this
+
+12:06.700 --> 12:09.700
+ that we need to think about in the typical retina.
+
+12:09.700 --> 12:11.900
+ But for seeing color, really, it's three of them.
+
+12:11.900 --> 12:13.340
+ So there are three different proteins.
+
+12:13.340 --> 12:17.580
+ Each absorbs light with a different preferred frequency.
+
+12:17.580 --> 12:20.640
+ And then the nervous system keeps track of those signals,
+
+12:22.660 --> 12:25.740
+ compares and contrasts them to extract some understanding
+
+12:25.740 --> 12:28.120
+ of the wavelength composition of light.
+
+12:28.120 --> 12:30.660
+ So you can see just by looking at a landscape,
+
+12:30.660 --> 12:33.380
+ oh, it must be late in the day
+
+12:33.380 --> 12:34.980
+ because things are looking golden.
+
+12:34.980 --> 12:38.580
+ That's all a function of our absorbing the light
+
+12:38.580 --> 12:39.940
+ that's coming from the world
+
+12:39.940 --> 12:41.700
+ and interpreting that with our brain
+
+12:41.700 --> 12:43.100
+ because of the different composition
+
+12:43.100 --> 12:46.020
+ of the light that's reaching our eyes.
+
+12:46.020 --> 12:48.200
+ Is it fair to assume that my perception of red
+
+12:48.200 --> 12:50.220
+ is the same as your perception of red?
+
+12:50.220 --> 12:51.380
+ Well, that's a great question.
+
+12:51.380 --> 12:52.580
+ And that mine is better.
+
+12:52.580 --> 12:55.260
+ No, I'm just kidding, I'm just kidding.
+
+12:55.260 --> 12:56.100
+ It's a great question.
+
+12:56.100 --> 12:57.460
+ It's a deep philosophical question.
+
+12:57.460 --> 12:59.780
+ It's a question that really probably can't even
+
+12:59.780 --> 13:01.140
+ ultimately be answered
+
+13:02.440 --> 13:05.180
+ by the usual empirical scientific processes
+
+13:05.180 --> 13:08.420
+ because it's really about an individual's experience.
+
+13:10.500 --> 13:14.340
+ What we can say is that the biological mechanisms
+
+13:14.340 --> 13:17.420
+ that we think are important for seeing color, for example,
+
+13:17.420 --> 13:19.500
+ seem to be very highly similar
+
+13:19.500 --> 13:20.980
+ from one individual to the next,
+
+13:20.980 --> 13:23.180
+ whether it be human beings or other animals.
+
+13:24.220 --> 13:27.500
+ And so we think that the physiological process
+
+13:27.500 --> 13:29.780
+ looks very similar on the front end,
+
+13:29.780 --> 13:32.220
+ but once you're at the level of perception
+
+13:32.220 --> 13:34.940
+ or understanding or experience,
+
+13:34.940 --> 13:38.500
+ that's something that's a little bit tougher to nail down
+
+13:38.500 --> 13:42.560
+ with the sorts of scientific approaches
+
+13:42.560 --> 13:46.100
+ that we approach, biological vision, let's say.
+
+13:46.100 --> 13:49.060
+ You mentioned that there are five different cone types,
+
+13:49.060 --> 13:50.860
+ essentially, the cones being the cells
+
+13:50.860 --> 13:53.820
+ that absorb light of different wavelengths.
+
+13:53.820 --> 13:57.460
+ I often wondered when I had my dog,
+
+13:57.460 --> 14:01.940
+ what he saw and how his vision differs from our vision.
+
+14:01.940 --> 14:04.220
+ And certainly there are animals that can see things
+
+14:04.220 --> 14:05.620
+ that we can't see.
+
+14:05.620 --> 14:09.140
+ What are some of the more outrageous examples of that?
+
+14:09.140 --> 14:10.960
+ Of seeing things that we can't?
+
+14:10.960 --> 14:13.540
+ And in the extreme, you know,
+
+14:13.540 --> 14:17.580
+ dogs, I'm guessing, see reds more as oranges, is that right?
+
+14:17.580 --> 14:21.340
+ Because they don't have the same array of neurons
+
+14:21.340 --> 14:22.900
+ that we have for seeing color.
+
+14:22.900 --> 14:24.460
+ Right, so the first thing is
+
+14:24.460 --> 14:26.980
+ it's not really five types of cones.
+
+14:26.980 --> 14:29.020
+ There are really three types of cones.
+
+14:29.020 --> 14:30.300
+ And if you look at the way
+
+14:30.300 --> 14:31.900
+ that color vision is thought to work,
+
+14:31.900 --> 14:32.740
+ you can sort of see
+
+14:32.740 --> 14:35.120
+ that it has to be three different signals.
+
+14:35.120 --> 14:37.300
+ There are a couple of other types of pigments.
+
+14:37.300 --> 14:40.660
+ One is really mostly for dim light vision.
+
+14:40.660 --> 14:42.780
+ When you're walking around in a moonless night
+
+14:42.780 --> 14:45.740
+ and you're seeing things with very low light,
+
+14:45.740 --> 14:49.220
+ that's the rod cell that uses its own pigment.
+
+14:49.220 --> 14:51.380
+ And then there's another class of pigments
+
+14:51.380 --> 14:52.960
+ we'll probably talk about a little bit later,
+
+14:52.960 --> 14:54.380
+ this melanopsin pigment.
+
+14:54.380 --> 14:56.260
+ I thought you were referring to like ultraviolet
+
+14:56.260 --> 14:58.500
+ and infrared and things of that sort.
+
+14:58.500 --> 15:01.660
+ Right, so in the case of a typical,
+
+15:01.660 --> 15:04.300
+ well, let's put it this way, in human beings,
+
+15:04.300 --> 15:06.540
+ most of us have three cone types
+
+15:06.540 --> 15:10.860
+ and we can see colors that stem from that.
+
+15:10.860 --> 15:15.860
+ In most mammals, including your dog or your cat,
+
+15:15.900 --> 15:18.540
+ there really are only two cone types
+
+15:18.540 --> 15:21.860
+ and that limits the kind of vision that they can have
+
+15:21.860 --> 15:25.080
+ in the domain of wavelength or color, as you would say.
+
+15:25.080 --> 15:26.940
+ So really a dog sees the world
+
+15:26.940 --> 15:30.460
+ kind of like a particular kind of colorblind human
+
+15:30.460 --> 15:31.740
+ might see the world,
+
+15:31.740 --> 15:33.300
+ because instead of having three channels
+
+15:33.300 --> 15:35.740
+ to compare and contrast, they only have two channels
+
+15:35.740 --> 15:37.020
+ and that makes it much more difficult
+
+15:37.020 --> 15:40.100
+ to figure out exactly which wavelength you're looking at.
+
+15:40.100 --> 15:42.300
+ Do colorblind people suffer much
+
+15:42.300 --> 15:44.420
+ as a consequence of being colorblind?
+
+15:44.420 --> 15:47.380
+ Well, you know, it's like so many other disabilities,
+
+15:47.380 --> 15:52.380
+ we are, you know, the world is built for people
+
+15:52.580 --> 15:54.820
+ of the most common type.
+
+15:54.820 --> 15:59.620
+ So in some cases, the expectation can be there
+
+15:59.620 --> 16:01.960
+ that somebody can see something that they won't be able to
+
+16:01.960 --> 16:04.420
+ if they're missing one of their cone types, let's say.
+
+16:04.420 --> 16:08.460
+ So in those moments, that can be a real problem.
+
+16:08.460 --> 16:11.220
+ You know, if there's a lack of contrast
+
+16:11.220 --> 16:13.980
+ to their visual system, they will be blind to that.
+
+16:13.980 --> 16:16.740
+ In general, it's a fairly modest
+
+16:16.740 --> 16:20.380
+ visual limitation as things go.
+
+16:20.380 --> 16:22.980
+ You know, for example, if not being able to see acutely
+
+16:22.980 --> 16:24.140
+ can be much more damaging,
+
+16:24.140 --> 16:26.860
+ not being able to read fine print, for example.
+
+16:26.860 --> 16:28.660
+ Yeah, I suppose if I had to give up
+
+16:29.980 --> 16:31.620
+ the ability to see certain colors
+
+16:31.620 --> 16:33.340
+ or give up the ability to see clearly,
+
+16:33.340 --> 16:37.480
+ I'd certainly trade out color for clarity.
+
+16:37.480 --> 16:39.540
+ Right, of course, color is very meaningful
+
+16:39.540 --> 16:41.620
+ to us as human beings, you know?
+
+16:41.620 --> 16:43.880
+ So we would hate to give it up,
+
+16:43.880 --> 16:46.540
+ but obviously dogs and cats and all kinds of other mammals
+
+16:46.540 --> 16:48.060
+ do perfectly well in the world.
+
+16:48.060 --> 16:49.240
+ Yeah, because we take care of them.
+
+16:49.240 --> 16:51.620
+ I spent most of my time taking care of that dog.
+
+16:53.100 --> 16:54.260
+ He took care of me too.
+
+16:55.240 --> 16:59.880
+ Let's talk about that odd photo pigment.
+
+17:00.900 --> 17:02.700
+ Photo pigment, of course, being the thing
+
+17:02.700 --> 17:05.060
+ that absorbs light of a particular wavelength.
+
+17:05.060 --> 17:09.060
+ And let's talk about these specialized ganglion cells
+
+17:09.940 --> 17:12.380
+ that communicate certain types of information
+
+17:12.380 --> 17:13.820
+ from eye to the brain
+
+17:13.820 --> 17:16.660
+ that are so important for so many things.
+
+17:16.660 --> 17:17.960
+ What I'm referring to here, of course,
+
+17:17.960 --> 17:20.100
+ is your co-discovery of the so-called
+
+17:20.100 --> 17:22.260
+ intrinsically photosensitive cells,
+
+17:22.260 --> 17:25.020
+ the neurons in the eye that do so many of the things
+
+17:25.020 --> 17:27.540
+ that don't actually have to do with perception,
+
+17:27.540 --> 17:30.260
+ but have to do with important biological functions.
+
+17:30.260 --> 17:31.180
+ What I would love for you to do
+
+17:31.180 --> 17:35.060
+ is explain to me why once I heard you say
+
+17:35.060 --> 17:38.860
+ we have a bit of fly eye in our eye.
+
+17:38.860 --> 17:42.180
+ And you showed this slide of like a giant fly
+
+17:42.180 --> 17:46.220
+ from a horror movie trying to attack this woman.
+
+17:46.220 --> 17:48.560
+ And maybe it was an eye also.
+
+17:48.560 --> 17:52.040
+ So what does it mean that we have a bit of a fly eye
+
+17:52.040 --> 17:53.100
+ in our eye?
+
+17:53.100 --> 18:00.080
+ Yeah, so this last pigment is a really peculiar one.
+
+18:00.080 --> 18:02.340
+ One can think about it as really
+
+18:02.340 --> 18:05.100
+ the initial sensitive element in a system
+
+18:05.100 --> 18:07.420
+ that's designed to tell your brain
+
+18:07.420 --> 18:09.700
+ about how bright things are in your world.
+
+18:11.580 --> 18:14.340
+ And the thing that's really peculiar about this pigment
+
+18:14.340 --> 18:17.580
+ is that it's in the wrong place, in a sense.
+
+18:17.580 --> 18:19.700
+ When you think about the structure of the retina,
+
+18:19.700 --> 18:21.660
+ you think about a layer cake, essentially.
+
+18:21.660 --> 18:24.420
+ You've got this thin membrane at the back of your eye,
+
+18:24.420 --> 18:26.940
+ but it's actually a stack of thin layers.
+
+18:26.940 --> 18:28.580
+ And the outermost of those layers
+
+18:28.580 --> 18:29.780
+ is where these photoreceptors
+
+18:29.780 --> 18:31.580
+ you were talking about earlier are sitting.
+
+18:31.580 --> 18:34.540
+ That's where the film of your camera is, essentially.
+
+18:34.540 --> 18:36.100
+ That's where the photons do their magic
+
+18:36.100 --> 18:38.260
+ with the photopigments and turn it into a neural signal.
+
+18:38.260 --> 18:39.100
+ I like that.
+
+18:39.100 --> 18:40.140
+ I've never really thought of the photoreceptors
+
+18:40.140 --> 18:41.980
+ as the film of the camera, but that makes sense.
+
+18:41.980 --> 18:46.380
+ Yeah, or like the sensitive CCD chip in your cell phone.
+
+18:46.380 --> 18:49.220
+ It's the surface on which the light pattern is imaged
+
+18:49.220 --> 18:51.860
+ by the optics of the eye.
+
+18:51.860 --> 18:53.780
+ And now you've got an array of sensors
+
+18:53.780 --> 18:55.860
+ that's capturing that information
+
+18:55.860 --> 18:58.700
+ and creating a bitmap, essentially.
+
+18:58.700 --> 19:00.180
+ But now it's in neural signals
+
+19:00.180 --> 19:02.860
+ distributed across the surface of the retina.
+
+19:02.860 --> 19:06.620
+ So all of that was known to be going on 150 years ago.
+
+19:07.940 --> 19:10.340
+ A couple of types of photoreceptors, cones and rods.
+
+19:10.340 --> 19:13.420
+ If you look a little bit more closely, three types of cones.
+
+19:13.420 --> 19:15.180
+ That's where the transformation
+
+19:15.180 --> 19:20.060
+ from electromagnetic radiation to neural signals
+
+19:20.060 --> 19:22.100
+ was thought to take place.
+
+19:22.100 --> 19:24.260
+ But it turns out that this last photopigment
+
+19:24.260 --> 19:26.620
+ is in the other end of the retina,
+
+19:26.620 --> 19:28.100
+ the innermost part of the retina.
+
+19:28.100 --> 19:30.140
+ That's where the so-called ganglion cells are.
+
+19:30.140 --> 19:31.740
+ Those are the cells that talk to the brain,
+
+19:31.740 --> 19:34.460
+ the ones that actually can communicate directly
+
+19:34.460 --> 19:37.820
+ what information comes to them from the photoreceptors.
+
+19:37.820 --> 19:40.740
+ And here you've got a case where actually
+
+19:40.740 --> 19:42.700
+ some of the output neurons
+
+19:42.700 --> 19:45.340
+ that we didn't think had any business being directly
+
+19:45.340 --> 19:49.700
+ sensitive to light were actually making this photopigment,
+
+19:49.700 --> 19:53.020
+ absorbing light and converting that to neural signals
+
+19:53.020 --> 19:54.500
+ and sending it to the brain.
+
+19:54.500 --> 19:58.260
+ So that made it pretty surprising and unexpected,
+
+19:58.260 --> 20:01.420
+ but there are many surprising things about these cells.
+
+20:01.420 --> 20:04.740
+ So, and what is the relationship to the fly eye?
+
+20:04.740 --> 20:07.780
+ Right, so the link there is that if you ask
+
+20:07.780 --> 20:11.900
+ how the photopigment now communicates
+
+20:11.900 --> 20:15.540
+ downstream from the initial absorption event
+
+20:15.540 --> 20:17.140
+ to get to the electrical signal,
+
+20:17.140 --> 20:19.100
+ that's a complex cellular process,
+
+20:19.100 --> 20:21.820
+ involves many chemical steps.
+
+20:21.820 --> 20:26.220
+ And if you look at how photoreceptors in our eyes work,
+
+20:26.220 --> 20:29.940
+ you can see what that cascade is, how that chain works.
+
+20:29.940 --> 20:34.180
+ If you look in the eyes of flies or other insects
+
+20:34.180 --> 20:36.260
+ or other invertebrates,
+
+20:36.260 --> 20:38.300
+ there's a very similar kind of chain,
+
+20:38.300 --> 20:41.060
+ but the specifics of how the signals get
+
+20:41.060 --> 20:43.180
+ from the absorption event by the pigment
+
+20:43.180 --> 20:44.460
+ to the electrical response
+
+20:44.460 --> 20:46.620
+ that the nervous system can understand
+
+20:46.620 --> 20:48.500
+ are characteristically different
+
+20:48.500 --> 20:53.300
+ between fuzzy furry creatures like us
+
+20:53.300 --> 20:56.500
+ and insects, for example, like the fly, I say.
+
+20:56.500 --> 21:00.220
+ So these funny extra photoreceptors
+
+21:00.220 --> 21:01.300
+ that are in the wrong layer
+
+21:01.300 --> 21:02.660
+ doing something completely different
+
+21:02.660 --> 21:06.340
+ are actually using a chemical cascade
+
+21:06.340 --> 21:07.900
+ that looks much more like what you would see
+
+21:07.900 --> 21:09.700
+ in a fly photoreceptor
+
+21:09.700 --> 21:12.500
+ than what you would see in a human photoreceptor,
+
+21:12.500 --> 21:14.180
+ a rod or a cone, for example.
+
+21:14.180 --> 21:17.420
+ So it sounds like it's a very primitive part of,
+
+21:17.420 --> 21:19.980
+ a primitive aspect of biology that we maintain.
+
+21:19.980 --> 21:21.740
+ Exactly right, exactly right.
+
+21:21.740 --> 21:22.900
+ And despite the fact that dogs
+
+21:22.900 --> 21:24.700
+ can't see as many colors as we can,
+
+21:24.700 --> 21:26.460
+ and cats can't see as many colors as we can,
+
+21:26.460 --> 21:29.380
+ we have all this extravagant stuff for seeing color.
+
+21:29.380 --> 21:31.180
+ And then you've got this other pigment
+
+21:31.180 --> 21:33.300
+ sitting in the wrong, not wrong,
+
+21:33.300 --> 21:36.580
+ but in a different part of the eye,
+
+21:36.580 --> 21:40.300
+ sending, processing light very differently
+
+21:40.300 --> 21:42.460
+ and sending that information into the brain.
+
+21:42.460 --> 21:45.580
+ So what do these cells do?
+
+21:45.580 --> 21:47.820
+ I mean, presumably they're there for a reason.
+
+21:47.820 --> 21:51.340
+ They are, and the interesting thing
+
+21:51.340 --> 21:54.740
+ is that one cell type like this
+
+21:54.740 --> 21:56.300
+ carrying one kind of signal,
+
+21:56.300 --> 22:00.220
+ which I would call a brightness signal essentially,
+
+22:00.220 --> 22:02.100
+ can do many things in the brain.
+
+22:02.100 --> 22:03.180
+ When you say brightness signal,
+
+22:03.180 --> 22:05.060
+ you mean that it, like right now,
+
+22:05.060 --> 22:06.660
+ I have these cells, do I have these cells?
+
+22:06.660 --> 22:07.500
+ You do. Of course not.
+
+22:07.500 --> 22:09.740
+ I'm joking, I hope I have these cells in my eye.
+
+22:09.740 --> 22:12.740
+ And they're paying attention to how bright it is overall,
+
+22:12.740 --> 22:14.060
+ but they're not paying attention, for instance,
+
+22:14.060 --> 22:15.140
+ to the edge of your ear
+
+22:15.140 --> 22:16.740
+ or what else is going on in the room.
+
+22:16.740 --> 22:18.460
+ Right, so it's the difference
+
+22:18.460 --> 22:21.740
+ between knowing what the objects are on the table
+
+22:21.740 --> 22:23.180
+ and knowing whether it's bright enough
+
+22:23.180 --> 22:25.820
+ to be daylight right now.
+
+22:25.820 --> 22:28.500
+ So why does your nervous system
+
+22:28.500 --> 22:30.700
+ need to know whether it's daylight right now?
+
+22:30.700 --> 22:31.980
+ Well, one thing that needs to know,
+
+22:31.980 --> 22:33.980
+ that is your circadian clock.
+
+22:33.980 --> 22:37.420
+ If you travel across time zones to Europe,
+
+22:37.420 --> 22:41.940
+ now your internal clock thinks it's California time,
+
+22:41.940 --> 22:44.300
+ but the rotation of the earth
+
+22:44.300 --> 22:46.660
+ is for a different part of the planet.
+
+22:46.660 --> 22:47.840
+ The rising and setting of the sun
+
+22:47.840 --> 22:50.260
+ is not at all what your body is anticipating.
+
+22:50.260 --> 22:52.060
+ So you've got an internal representation
+
+22:52.060 --> 22:54.620
+ of the rotation of the earth in your own brain.
+
+22:54.620 --> 22:56.140
+ That's your circadian system.
+
+22:56.140 --> 22:58.640
+ It's keeping time.
+
+22:58.640 --> 23:00.860
+ But now you've played a trick on your nervous system.
+
+23:00.860 --> 23:02.340
+ You put yourself in a different place
+
+23:02.340 --> 23:05.660
+ where the sun is rising at the, quote, wrong time.
+
+23:05.660 --> 23:07.580
+ Well, that's not good for you, right?
+
+23:07.580 --> 23:08.940
+ So you've got to get back on track.
+
+23:08.940 --> 23:11.980
+ One of the things this system does is sends a,
+
+23:11.980 --> 23:14.940
+ oh, it's daylight now signal to the brain,
+
+23:14.940 --> 23:16.820
+ which compares with its internal clock.
+
+23:16.820 --> 23:18.380
+ And if that's not right,
+
+23:18.380 --> 23:20.420
+ it tweaks the clock gradually
+
+23:20.420 --> 23:21.800
+ until you get over your jet lag
+
+23:21.800 --> 23:24.060
+ and you feel back on track again.
+
+23:24.060 --> 23:26.940
+ So the jet lag case makes a lot of sense to me,
+
+23:26.940 --> 23:31.360
+ but presumably these elements didn't evolve for jet lag.
+
+23:31.360 --> 23:32.200
+ Right.
+
+23:32.200 --> 23:35.860
+ So what are they doing on a day-to-day basis?
+
+23:35.860 --> 23:37.420
+ Right, well, one way to think about this
+
+23:37.420 --> 23:42.420
+ is that the clock that you have in not just your brain,
+
+23:42.940 --> 23:45.620
+ in all the cells, or almost all of the cells of your body,
+
+23:45.620 --> 23:47.760
+ they're all oscillating.
+
+23:47.760 --> 23:48.980
+ They're all, you know-
+
+23:48.980 --> 23:49.820
+ They got little clocks in them.
+
+23:49.820 --> 23:51.620
+ They got little clocks in them themselves.
+
+23:51.620 --> 23:52.760
+ They're all clocks.
+
+23:54.620 --> 23:58.800
+ You know, they need to be synchronized appropriately.
+
+23:58.800 --> 24:03.800
+ And the whole thing has to be built in biological machinery.
+
+24:04.600 --> 24:07.320
+ This is actually a beautiful story
+
+24:07.320 --> 24:10.920
+ about how gene expression can control gene expression.
+
+24:10.920 --> 24:12.040
+ And if you set it up right,
+
+24:12.040 --> 24:15.440
+ you can set up a little thing that just sort of hums along
+
+24:15.440 --> 24:16.880
+ at a particular frequency.
+
+24:16.880 --> 24:19.280
+ In our case, it's humming along at 24 hours,
+
+24:19.280 --> 24:21.000
+ because that's how our earth rotates
+
+24:21.000 --> 24:23.420
+ and it's all built into our biology.
+
+24:23.420 --> 24:24.800
+ So this is great,
+
+24:24.800 --> 24:28.000
+ but the reality is that the clock can only be so good.
+
+24:28.000 --> 24:29.560
+ I mean, we're talking about biology here.
+
+24:29.560 --> 24:32.320
+ It's not precision engineering.
+
+24:32.320 --> 24:34.120
+ And so it can be a little bit off.
+
+24:34.120 --> 24:35.880
+ Well, also it doesn't, it's in our brain,
+
+24:35.880 --> 24:39.560
+ so it doesn't have access to any regular unerring signal.
+
+24:39.560 --> 24:42.020
+ Well, if in the absence of the rising
+
+24:42.020 --> 24:43.440
+ and setting of the sun, it doesn't,
+
+24:43.440 --> 24:45.520
+ if you put someone in a cave,
+
+24:45.520 --> 24:47.780
+ their biological clock will keep time
+
+24:47.780 --> 24:51.820
+ to within a handful of minutes of 24 hours.
+
+24:51.820 --> 24:54.960
+ That's no problem for one day.
+
+24:54.960 --> 24:57.240
+ But if this went on without any correction,
+
+24:57.240 --> 24:59.200
+ eventually you'd be out of phase.
+
+24:59.200 --> 25:00.480
+ And this is actually one of the things
+
+25:00.480 --> 25:03.560
+ that blind patients often complain about.
+
+25:03.560 --> 25:08.540
+ They've got retinal blindness, is insomnia, and-
+
+25:08.540 --> 25:10.120
+ Because their brains are awake in the middle of the night.
+
+25:10.120 --> 25:11.760
+ Exactly, they're not synchronized.
+
+25:11.760 --> 25:14.720
+ Their clock is there, but they're drifting out of phase
+
+25:14.720 --> 25:19.720
+ because their clock's only good to 24.2 hours
+
+25:19.720 --> 25:21.920
+ or 23.8 hours.
+
+25:21.920 --> 25:24.120
+ Little by little, they're drifting.
+
+25:24.120 --> 25:26.040
+ So you need a synchronization signal.
+
+25:26.040 --> 25:27.840
+ So even if you never cross time zones,
+
+25:27.840 --> 25:29.680
+ and of course we didn't back on the savanna,
+
+25:29.680 --> 25:32.600
+ we stayed within walking distance of where we were,
+
+25:34.080 --> 25:35.600
+ you still need a synchronizer
+
+25:35.600 --> 25:39.140
+ because otherwise you have nothing to actually confirm
+
+25:39.140 --> 25:41.580
+ when the rising and the setting of the sun is.
+
+25:41.580 --> 25:44.360
+ That's what you're trying to synchronize yourself to.
+
+25:44.360 --> 25:47.120
+ I'm fascinated by the circadian clock
+
+25:47.120 --> 25:50.080
+ and the fact that all the cells of our body
+
+25:50.080 --> 25:53.340
+ have essentially a 24-hour-ish clock in them.
+
+25:53.340 --> 25:54.440
+ Right.
+
+25:54.440 --> 25:56.160
+ We hear a lot about these circadian rhythms
+
+25:56.160 --> 25:57.240
+ and circadian clocks,
+
+25:57.240 --> 26:00.580
+ the fact that we need light input from these special neurons
+
+26:00.580 --> 26:02.300
+ in order to set the clock,
+
+26:02.300 --> 26:04.320
+ but I've never really heard it described
+
+26:04.320 --> 26:06.480
+ how the clock itself works
+
+26:06.480 --> 26:10.200
+ and how the clock signals to all the rest of the body
+
+26:10.200 --> 26:12.880
+ when the liver should be doing one thing
+
+26:12.880 --> 26:15.620
+ and when the stomach should be doing another.
+
+26:15.620 --> 26:18.200
+ I know you've done some work on the clock.
+
+26:18.200 --> 26:21.620
+ So if you would just maybe briefly describe
+
+26:21.620 --> 26:24.520
+ where the clock is, what it does,
+
+26:24.520 --> 26:26.880
+ and some of the top contour
+
+26:26.880 --> 26:29.800
+ of how it tells the cells of the body what to do.
+
+26:29.800 --> 26:30.640
+ Right.
+
+26:30.640 --> 26:32.880
+ So the first thing to say is that, as you said,
+
+26:32.880 --> 26:34.640
+ the clock is all over the place.
+
+26:34.640 --> 26:38.000
+ Most of the tissues in your body have clocks.
+
+26:38.000 --> 26:39.880
+ We probably have, what, millions of clocks in our body.
+
+26:39.880 --> 26:42.000
+ Yeah, I would say that's probably fair.
+
+26:42.000 --> 26:43.340
+ You have millions of cell types,
+
+26:43.340 --> 26:45.140
+ you probably have millions of clocks.
+
+26:46.100 --> 26:48.920
+ That the role of the central pacemaker
+
+26:48.920 --> 26:52.760
+ for the circadian system is to coordinate all of these.
+
+26:52.760 --> 26:55.900
+ And there's a little nucleus,
+
+26:55.900 --> 26:59.520
+ a little collection of nerve cells in your brain.
+
+26:59.520 --> 27:02.720
+ It's called the suprachiasmatic nucleus, the SCN,
+
+27:03.620 --> 27:05.760
+ and it is sitting in a funny place
+
+27:05.760 --> 27:07.680
+ for the rest of the structures in the nervous system
+
+27:07.680 --> 27:09.600
+ that get direct retinal input.
+
+27:09.600 --> 27:12.000
+ It's sitting in the hypothalamus,
+
+27:12.000 --> 27:15.480
+ which you can think about as sort of the great coordinator
+
+27:15.480 --> 27:19.760
+ of drives and- The source of all our pleasures
+
+27:19.760 --> 27:21.080
+ and all our problems. Right.
+
+27:21.080 --> 27:22.120
+ Or most our problems.
+
+27:22.120 --> 27:24.000
+ Yes, it really is.
+
+27:24.000 --> 27:26.220
+ But it's sort of deep in your brain,
+
+27:26.220 --> 27:28.040
+ things that drive you to do things.
+
+27:28.040 --> 27:31.480
+ If you're freezing cold, you put on a coat, you shivery,
+
+27:31.480 --> 27:34.160
+ all these things are coordinated by the hypothalamus.
+
+27:34.160 --> 27:37.600
+ So this pathway that we're talking about from the retina
+
+27:37.600 --> 27:39.680
+ and from these peculiar cells
+
+27:39.680 --> 27:41.840
+ that are encoding light intensity
+
+27:41.840 --> 27:45.420
+ are sending signals directly into a center
+
+27:45.420 --> 27:47.960
+ that's surrounded by all of these centers
+
+27:47.960 --> 27:51.040
+ that control autonomic nervous system
+
+27:51.040 --> 27:55.020
+ and your hormonal systems.
+
+27:55.020 --> 27:57.240
+ So this is a part of your visual system
+
+27:57.240 --> 27:59.440
+ that doesn't really reach the level of consciousness.
+
+27:59.440 --> 28:01.860
+ It's not something you think about.
+
+28:01.860 --> 28:05.840
+ It's happening under the radar kind of all the time.
+
+28:05.840 --> 28:07.480
+ And the signal is working its way
+
+28:07.480 --> 28:12.340
+ into this central clock coordinating center.
+
+28:12.340 --> 28:16.500
+ Now, what happens then is not that well understood,
+
+28:16.500 --> 28:19.100
+ but it's clear that this is a neural center
+
+28:19.100 --> 28:20.740
+ that has the same ability to communicate
+
+28:20.740 --> 28:24.700
+ with other parts of your brain as any other neural center.
+
+28:24.700 --> 28:27.900
+ And clearly there are circuits
+
+28:27.900 --> 28:30.340
+ that involve connections between neurons
+
+28:30.340 --> 28:33.220
+ that are conventional.
+
+28:33.220 --> 28:34.460
+ But in addition, it's quite clear
+
+28:34.460 --> 28:36.620
+ that there are also sort of humoral effects
+
+28:36.620 --> 28:41.180
+ that things are oozing out of the cells in the center
+
+28:41.180 --> 28:43.580
+ and maybe into the circulation
+
+28:43.580 --> 28:47.620
+ or just diffusing through the brain to some extent
+
+28:47.620 --> 28:50.660
+ that can also affect neurons all square.
+
+28:50.660 --> 28:52.780
+ But the hypothalamus uses everything
+
+28:52.780 --> 28:54.260
+ to control the rest of the bodies.
+
+28:54.260 --> 28:56.620
+ And that's true of the suprachiasmatic nucleus,
+
+28:56.620 --> 28:59.020
+ this circadian center as well.
+
+29:00.380 --> 29:03.380
+ It can get its fingers into the autonomic nervous system,
+
+29:03.380 --> 29:04.740
+ the humoral system,
+
+29:04.740 --> 29:07.140
+ and of course up to the centers of the brain
+
+29:07.140 --> 29:12.140
+ that organize coordinated rational behavior.
+
+29:12.180 --> 29:14.300
+ So if I understand correctly,
+
+29:14.300 --> 29:16.620
+ we have this group of cells, the suprachiasmatic nucleus,
+
+29:16.620 --> 29:18.500
+ it's got a 24 hour rhythm.
+
+29:19.940 --> 29:21.620
+ That rhythm is more or less matched
+
+29:21.620 --> 29:23.840
+ to what's going on in our external world
+
+29:23.840 --> 29:26.460
+ by the specialized set of neurons in our eye.
+
+29:26.460 --> 29:30.500
+ But then the master clock itself, the SCN,
+
+29:30.500 --> 29:33.120
+ releases things in the blood, humoral signals,
+
+29:33.120 --> 29:37.840
+ that go out various places in the body.
+
+29:37.840 --> 29:39.360
+ And then you said to the autonomic system,
+
+29:39.360 --> 29:42.120
+ which is regulating more or less how alert or calm we are,
+
+29:42.120 --> 29:44.240
+ as well as our thinking and our cognition.
+
+29:45.240 --> 29:49.200
+ So I'd love to talk to you about the autonomic part.
+
+29:49.200 --> 29:52.200
+ Presumably that's through melatonin,
+
+29:52.200 --> 29:55.640
+ it's through adrenaline.
+
+29:55.640 --> 29:58.360
+ How is it that this clock is impacting
+
+29:58.360 --> 30:02.080
+ how the autonomic system, how alert or calm we feel?
+
+30:02.080 --> 30:05.160
+ Right, so there are pathways
+
+30:05.160 --> 30:09.320
+ by which the suprachiasmatic nucleus can access
+
+30:09.320 --> 30:12.300
+ both the parasympathetic and sympathetic nervous system.
+
+30:12.300 --> 30:14.440
+ Just so people know, the sympathetic nervous system
+
+30:14.440 --> 30:16.200
+ is the one that tends to make us more alert,
+
+30:16.200 --> 30:18.140
+ and the parasympathetic nervous system
+
+30:18.140 --> 30:20.920
+ is the portion of the autonomic nervous system
+
+30:20.920 --> 30:24.160
+ makes us feel more calm in broad context.
+
+30:24.160 --> 30:25.800
+ To first approximation, right.
+
+30:25.800 --> 30:28.920
+ So this is, both of these systems
+
+30:28.920 --> 30:33.080
+ are within the grasp of the circadian system
+
+30:33.080 --> 30:35.240
+ through hypothalamic circuits.
+
+30:35.240 --> 30:37.360
+ One of the circuits that will be,
+
+30:37.360 --> 30:40.080
+ I think, of particular interest to some of your listeners,
+
+30:40.080 --> 30:44.120
+ is a pathway that involves this sympathetic branch
+
+30:44.120 --> 30:47.780
+ of the autonomic nervous system, the fight or flight system,
+
+30:47.780 --> 30:50.920
+ that is actually through a very circuitous route,
+
+30:50.920 --> 30:52.820
+ innervating the pineal gland,
+
+30:52.820 --> 30:55.420
+ which is sitting in the middle of your brain.
+
+30:55.420 --> 30:57.020
+ The so-called third eye.
+
+30:57.020 --> 30:58.400
+ Right, so this is the-
+
+30:58.400 --> 31:00.640
+ We'll have to get back to why it's called the third eye,
+
+31:00.640 --> 31:01.600
+ because, yeah.
+
+31:01.600 --> 31:02.440
+ That's an interesting history.
+
+31:02.440 --> 31:04.080
+ You can't call something the third eye and not,
+
+31:04.080 --> 31:05.280
+ and just, you know.
+
+31:05.280 --> 31:06.100
+ Just leave it there.
+
+31:06.100 --> 31:06.940
+ Just leave it there.
+
+31:06.940 --> 31:08.480
+ Right. Right.
+
+31:08.480 --> 31:11.540
+ Anyway, this is the major source of melatonin in your body.
+
+31:11.540 --> 31:14.140
+ So light comes into my eye.
+
+31:14.140 --> 31:15.240
+ Yes.
+
+31:15.240 --> 31:17.640
+ Passed off to the suprachiasmatic nucleus,
+
+31:17.640 --> 31:18.920
+ essentially not the light itself,
+
+31:18.920 --> 31:21.280
+ but the signal representing the light.
+
+31:21.280 --> 31:22.120
+ Sure.
+
+31:22.120 --> 31:24.340
+ Then the SCN, the suprachiasmatic nucleus,
+
+31:24.340 --> 31:27.840
+ can impact the melatonin system
+
+31:27.840 --> 31:28.920
+ via the pineal.
+
+31:28.920 --> 31:30.640
+ Right, the way this is seen is that
+
+31:30.640 --> 31:33.920
+ if you were to measure your melatonin level
+
+31:33.920 --> 31:35.620
+ over the course of the day,
+
+31:35.620 --> 31:38.180
+ if you could do this, you know, hour by hour,
+
+31:38.180 --> 31:40.520
+ you'd see that it's really low during the day,
+
+31:40.520 --> 31:42.200
+ very high at night.
+
+31:42.200 --> 31:44.120
+ But if you get up in the middle of the night
+
+31:44.120 --> 31:44.960
+ and go to the bathroom
+
+31:44.960 --> 31:47.120
+ and turn on the bright fluorescent light,
+
+31:47.120 --> 31:49.480
+ your melatonin level is slammed to the floor.
+
+31:49.480 --> 31:53.360
+ Light is directly impacting your hormonal levels
+
+31:54.360 --> 31:57.180
+ through this mechanism that we just described.
+
+31:57.180 --> 32:00.560
+ So this is one of the routes by which light can act
+
+32:00.560 --> 32:04.440
+ on your hormonal status through pathways
+
+32:04.440 --> 32:06.440
+ that are completely beyond
+
+32:06.440 --> 32:08.440
+ what you normally would think about, right?
+
+32:08.440 --> 32:10.540
+ You're thinking about the things in the bathroom.
+
+32:10.540 --> 32:12.080
+ Oh, there's the toothbrush.
+
+32:12.080 --> 32:13.840
+ You know, there's the tube of toothpaste.
+
+32:13.840 --> 32:17.680
+ But meanwhile, this other system is just counting photons
+
+32:17.680 --> 32:20.120
+ and saying, oh, wow, there's a lot of photons right now.
+
+32:20.120 --> 32:22.480
+ Let's shut down the melatonin release.
+
+32:22.480 --> 32:25.600
+ This is one of the main reasons why I've encouraged people
+
+32:25.600 --> 32:28.280
+ to avoid bright light exposure in the middle of the night,
+
+32:28.280 --> 32:32.080
+ not just blue light, but bright light of any wavelength.
+
+32:32.080 --> 32:34.780
+ Because there's this myth out there that blue light,
+
+32:34.780 --> 32:37.680
+ because it's the optimal signal for activating this pathway
+
+32:37.680 --> 32:39.500
+ and shutting down melatonin,
+
+32:39.500 --> 32:43.380
+ is the only wavelength of light that can shut it down.
+
+32:43.380 --> 32:45.880
+ But am I correct in thinking that if a light
+
+32:45.880 --> 32:48.760
+ is bright enough, it doesn't matter if it's blue light,
+
+32:48.760 --> 32:51.680
+ green light, purple light, even red light,
+
+32:51.680 --> 32:54.680
+ you're going to slam melatonin down to the ground,
+
+32:54.680 --> 32:56.960
+ which is not a good thing to happen
+
+32:56.960 --> 32:58.360
+ in the middle of the night, correct?
+
+32:58.360 --> 32:59.280
+ Right, yeah.
+
+32:59.280 --> 33:03.440
+ I mean, any light will affect the system to some extent.
+
+33:03.440 --> 33:06.400
+ The blue light is somewhat more effective,
+
+33:06.400 --> 33:08.960
+ but don't fool yourself into thinking
+
+33:08.960 --> 33:09.880
+ that if you use red light,
+
+33:09.880 --> 33:12.600
+ that means you're avoiding the effect.
+
+33:12.600 --> 33:14.440
+ It's certainly still there.
+
+33:14.440 --> 33:15.640
+ And certainly if it's very bright,
+
+33:15.640 --> 33:18.400
+ it'll be more effective in driving the system
+
+33:18.400 --> 33:20.020
+ than dim blue light would be.
+
+33:20.020 --> 33:20.860
+ Interesting.
+
+33:20.860 --> 33:22.480
+ A lot of people wear blue blockers.
+
+33:22.480 --> 33:27.480
+ And in a kind of odd twist of misinformation out there,
+
+33:27.480 --> 33:28.760
+ a lot of people wear blue blockers
+
+33:28.760 --> 33:30.120
+ during the middle of the day,
+
+33:30.120 --> 33:31.880
+ which basically makes no sense
+
+33:31.880 --> 33:33.000
+ because during the middle of the day
+
+33:33.000 --> 33:35.800
+ is when you want to get a lot of bright light
+
+33:35.800 --> 33:38.360
+ and including blue light into your eyes, correct?
+
+33:38.360 --> 33:39.200
+ Absolutely.
+
+33:39.200 --> 33:41.560
+ And not just for the reasons we've been talking about
+
+33:41.560 --> 33:43.440
+ in terms of circadian effects.
+
+33:43.440 --> 33:46.080
+ There are major effects of light on mood.
+
+33:47.240 --> 33:49.960
+ And seasonal affective disorder
+
+33:49.960 --> 33:52.640
+ apparently is essentially a reflection
+
+33:52.640 --> 33:54.760
+ of this same system in reverse.
+
+33:54.760 --> 33:57.600
+ If you're living in the Northern climes
+
+33:57.600 --> 33:59.520
+ and you're not getting that much light
+
+33:59.520 --> 34:02.560
+ during the middle of the winter in Stockholm,
+
+34:04.000 --> 34:05.520
+ you might be prone to depression
+
+34:05.520 --> 34:08.320
+ and phototherapy might be just the ticket for you.
+
+34:08.320 --> 34:12.480
+ And that's because there's a direct effect of light on mood.
+
+34:12.480 --> 34:15.400
+ There's an example where if you don't have enough light,
+
+34:15.400 --> 34:16.600
+ it's a problem.
+
+34:16.600 --> 34:17.600
+ So I think you're exactly right.
+
+34:17.600 --> 34:20.080
+ It's not about, is light good or bad for you?
+
+34:20.080 --> 34:22.360
+ It's about what kind of light and when
+
+34:22.360 --> 34:25.400
+ that makes the difference.
+
+34:25.400 --> 34:27.240
+ Yeah, the general rule of thumb that I've been living by
+
+34:27.240 --> 34:29.080
+ is to get as much bright light in my eyes,
+
+34:29.080 --> 34:32.840
+ ideally from sunlight, anytime I want to be alert
+
+34:32.840 --> 34:36.240
+ and doing exactly the opposite when I want to be asleep
+
+34:36.240 --> 34:37.080
+ or getting drowsy.
+
+34:37.080 --> 34:40.840
+ And there are aspects of this that spin out
+
+34:40.840 --> 34:42.640
+ way beyond the conversation we're having now
+
+34:42.640 --> 34:44.320
+ to things like this.
+
+34:44.320 --> 34:47.560
+ It turns out that the incidence of myopia,
+
+34:47.560 --> 34:48.640
+ nearsightedness.
+
+34:48.640 --> 34:52.680
+ Nearsightedness, right, is strongly related
+
+34:52.680 --> 34:56.160
+ to the amount of time that kids spend outdoors.
+
+34:56.160 --> 34:57.760
+ In what direction of effect?
+
+34:57.760 --> 34:59.800
+ The more they spend time outdoors,
+
+34:59.800 --> 35:02.120
+ the less nearsightedness they have.
+
+35:02.120 --> 35:02.960
+ So this is all about-
+
+35:02.960 --> 35:04.480
+ And is that because they're viewing things at a distance
+
+35:04.480 --> 35:07.080
+ or because they're getting a lot of blue light, sunlight?
+
+35:07.080 --> 35:08.280
+ It's a great question.
+
+35:08.280 --> 35:11.600
+ It is not fully resolved what the epidemiological,
+
+35:11.600 --> 35:14.360
+ what the basis of that epidemiological finding is.
+
+35:14.360 --> 35:16.160
+ One possibility is the amount of light,
+
+35:16.160 --> 35:17.680
+ which would make me think about this
+
+35:17.680 --> 35:19.960
+ melanopsin system again,
+
+35:19.960 --> 35:22.720
+ but it might very well be a question of accommodation.
+
+35:22.720 --> 35:24.240
+ That is the process by which you focus
+
+35:24.240 --> 35:25.960
+ on near or far things.
+
+35:25.960 --> 35:28.360
+ If you're never outdoors, everything is nearby.
+
+35:28.360 --> 35:30.320
+ If you're outdoors, you're focusing far.
+
+35:30.320 --> 35:31.560
+ So this is- Unless you're on your phone.
+
+35:31.560 --> 35:32.880
+ Right, exactly.
+
+35:32.880 --> 35:36.040
+ There's a tremendous amount of interest these days
+
+35:36.040 --> 35:39.560
+ in watches and things that count steps.
+
+35:39.560 --> 35:42.160
+ I'm beginning to realize that we should probably have
+
+35:42.160 --> 35:45.920
+ a device that can count photons during the day.
+
+35:45.920 --> 35:47.960
+ And can also count photons at night and tell us,
+
+35:47.960 --> 35:49.440
+ hey, you're getting too many photons.
+
+35:49.440 --> 35:51.040
+ You're going to shut down your melatonin at night
+
+35:51.040 --> 35:52.360
+ or you're not getting enough photons.
+
+35:52.360 --> 35:53.920
+ Today you didn't get enough bright light,
+
+35:53.920 --> 35:56.760
+ whether or not it's from artificial light or from sunlight.
+
+35:56.760 --> 35:58.040
+ I guess the, where would you put it?
+
+35:58.040 --> 35:59.480
+ I guess you put it on the top of your head or something.
+
+35:59.480 --> 36:02.640
+ You'd probably want it someplace outward facing.
+
+36:02.640 --> 36:05.600
+ Right, probably what you need is as many photons
+
+36:05.600 --> 36:07.280
+ over as much of the retina as possible
+
+36:07.280 --> 36:11.360
+ to recruit as much of this system as possible.
+
+36:11.360 --> 36:12.640
+ In thinking about other effects
+
+36:12.640 --> 36:16.080
+ of this non-image forming pathway
+
+36:16.080 --> 36:19.760
+ that involves these special cells in the eye and the SCN,
+
+36:19.760 --> 36:21.560
+ you had a paper a few years ago
+
+36:21.560 --> 36:26.560
+ looking at retinal input to an area of the brain,
+
+36:27.880 --> 36:30.760
+ which has a fancy name, the perihabenula,
+
+36:30.760 --> 36:33.000
+ but names don't necessarily matter,
+
+36:33.000 --> 36:36.400
+ that had some important effects on mood
+
+36:36.400 --> 36:39.440
+ and other aspects of light.
+
+36:39.440 --> 36:40.720
+ Maybe you could tell us a little bit about
+
+36:40.720 --> 36:42.800
+ what is the perihabenula.
+
+36:42.800 --> 36:45.120
+ Oh, wow, so that's a fancy term,
+
+36:45.120 --> 36:47.080
+ but I think the way to think about this
+
+36:47.080 --> 36:49.680
+ is as a chunk of the brain
+
+36:49.680 --> 36:52.720
+ that is sitting as part of a bigger chunk
+
+36:52.720 --> 36:57.160
+ that's really the linker between peripheral sensory input
+
+36:57.160 --> 36:59.800
+ of all kinds, virtually all kinds,
+
+37:01.100 --> 37:04.600
+ whether it's auditory input or tactile input
+
+37:05.640 --> 37:08.520
+ or visual input to the region of your brain,
+
+37:08.520 --> 37:11.160
+ the cortex that allows you to think about these things
+
+37:11.160 --> 37:12.720
+ and make plans around them
+
+37:12.720 --> 37:15.080
+ and to integrate them and that kind of thing.
+
+37:16.960 --> 37:21.960
+ So, we've known about a pathway
+
+37:22.440 --> 37:25.320
+ that gets from the retina
+
+37:25.320 --> 37:27.960
+ through this sort of linker center,
+
+37:27.960 --> 37:31.560
+ it's called the thalamus, and then on up to the cortex.
+
+37:31.560 --> 37:34.520
+ Exactly, but you wanna arrive at the destination, right?
+
+37:34.520 --> 37:35.480
+ Now you're at Grand Central
+
+37:35.480 --> 37:38.360
+ and now you can do your thing as you're up at the cortex.
+
+37:38.360 --> 37:40.120
+ So, this is the standard pattern.
+
+37:40.120 --> 37:41.880
+ You have the sensory input coming from the periphery.
+
+37:41.880 --> 37:43.400
+ You've got these peripheral elements
+
+37:43.400 --> 37:46.000
+ that are doing the initial stages of-
+
+37:46.000 --> 37:47.520
+ The eye, the ear, the nose.
+
+37:47.520 --> 37:49.800
+ The skin of your fingertips, right?
+
+37:49.800 --> 37:51.520
+ You know, the taste buds on your tongue.
+
+37:51.520 --> 37:53.480
+ They're taking this raw information in
+
+37:54.920 --> 37:56.860
+ and they're doing some pre-processing maybe,
+
+37:56.860 --> 37:58.900
+ or the early circuits are,
+
+37:58.900 --> 38:00.400
+ but eventually most of these signals
+
+38:00.400 --> 38:02.660
+ have to pass through the gateway to the cortex,
+
+38:02.660 --> 38:04.680
+ which is the thalamus.
+
+38:04.680 --> 38:09.160
+ And we've known for years, for decades, many decades,
+
+38:09.160 --> 38:11.120
+ what the major throughput pathway
+
+38:11.120 --> 38:13.560
+ from the retina to the cortex is,
+
+38:13.560 --> 38:14.500
+ and where it ends up.
+
+38:14.500 --> 38:15.840
+ It ends up in the visual cortex.
+
+38:15.840 --> 38:17.280
+ You know, you pat the back of your head.
+
+38:17.280 --> 38:20.800
+ That's where the receiving center is
+
+38:20.800 --> 38:23.840
+ for the main pathway from retina to cortex.
+
+38:23.840 --> 38:25.720
+ But wait a minute, there's more.
+
+38:25.720 --> 38:27.560
+ There's this little side pathway
+
+38:27.560 --> 38:28.680
+ that goes through a different part
+
+38:28.680 --> 38:31.720
+ of that linking thalamus center,
+
+38:31.720 --> 38:32.560
+ the gateway to the cortex.
+
+38:32.560 --> 38:34.120
+ It's like a local train
+
+38:34.120 --> 38:34.960
+ from Grand Central to-
+
+38:34.960 --> 38:37.600
+ It's in a weird part of the neighborhood, right?
+
+38:37.600 --> 38:39.000
+ It's a completely different,
+
+38:39.000 --> 38:41.560
+ it's like a little trunk line that branches off
+
+38:41.560 --> 38:43.640
+ and goes out into the hinterlands.
+
+38:43.640 --> 38:46.460
+ And it's going to the part of this linker center
+
+38:46.460 --> 38:48.800
+ that's talking to a completely different part of cortex,
+
+38:48.800 --> 38:51.320
+ way up front, frontal lobe,
+
+38:51.320 --> 38:54.120
+ which is much more involved in things like planning
+
+38:54.120 --> 38:57.680
+ or self-image or-
+
+38:57.680 --> 38:59.240
+ Self-image, literally how one thinks about-
+
+38:59.240 --> 39:00.800
+ Refuse oneself.
+
+39:00.800 --> 39:02.920
+ You know, do you feel good about yourself?
+
+39:02.920 --> 39:06.480
+ Or, you know, what's your plan for next Thursday?
+
+39:07.920 --> 39:11.040
+ You know, it's a very high level center
+
+39:11.040 --> 39:13.600
+ in the highest level of your nervous system.
+
+39:13.600 --> 39:16.080
+ And this is the region that is getting input
+
+39:16.080 --> 39:17.200
+ from this pathway,
+
+39:17.200 --> 39:19.820
+ which is mostly worked out in its function
+
+39:19.820 --> 39:21.360
+ by Samir Hatara's lab.
+
+39:21.360 --> 39:23.200
+ I know you had him on the podcast.
+
+39:23.200 --> 39:24.240
+ We didn't talk about this pathway.
+
+39:24.240 --> 39:25.660
+ This pathway at all, right.
+
+39:25.660 --> 39:30.160
+ So, Diego Fernandez and Samir
+
+39:30.160 --> 39:32.120
+ and the folks that work with them
+
+39:32.120 --> 39:35.040
+ were able to show that this pathway doesn't just exist
+
+39:35.040 --> 39:37.160
+ and get you to a weird place.
+
+39:37.160 --> 39:41.940
+ But if you activate it at kind of the wrong time of day,
+
+39:43.040 --> 39:45.360
+ animals can become depressed.
+
+39:45.360 --> 39:48.760
+ And if you silence it under the right circumstances,
+
+39:48.760 --> 39:52.000
+ then weird lighting cycles that would normally
+
+39:52.000 --> 39:55.560
+ make them act sort of depressed
+
+39:55.560 --> 39:57.560
+ no longer have that effect.
+
+39:57.560 --> 39:59.280
+ So, it sounds to me like there's this pathway
+
+39:59.280 --> 40:03.760
+ from I to this unusual train route
+
+40:03.760 --> 40:06.760
+ through the structure we call the thalamus,
+
+40:06.760 --> 40:08.120
+ then up to the front of the brain
+
+40:08.120 --> 40:11.600
+ that relates to things of self-perception,
+
+40:11.600 --> 40:13.360
+ kind of higher level functions.
+
+40:13.360 --> 40:14.460
+ I find that really interesting
+
+40:14.460 --> 40:15.600
+ because most of what I think about
+
+40:15.600 --> 40:17.760
+ when I think about these fancy,
+
+40:17.760 --> 40:20.280
+ well, or these primitive, rather,
+
+40:20.280 --> 40:22.840
+ neurons that don't pay attention to the shapes of things,
+
+40:22.840 --> 40:24.220
+ but instead to brightness,
+
+40:24.220 --> 40:26.240
+ I think of, well, it regulates melatonin,
+
+40:26.240 --> 40:28.780
+ circadian clock, mood, hunger,
+
+40:28.780 --> 40:32.520
+ the really kind of vegetative stuff, if you will.
+
+40:32.520 --> 40:34.240
+ And this is interesting
+
+40:34.240 --> 40:37.840
+ because I think a lot of people experience depression,
+
+40:37.840 --> 40:40.640
+ not just people that live in Scandinavia
+
+40:40.640 --> 40:42.120
+ in the middle of winter.
+
+40:42.120 --> 40:45.080
+ And we are very much divorced
+
+40:45.080 --> 40:47.800
+ from our normal interactions with light.
+
+40:48.840 --> 40:49.780
+ It also makes me realize
+
+40:49.780 --> 40:52.220
+ that these intrinsically photosensitive cells
+
+40:52.220 --> 40:53.780
+ that set the clock, et cetera,
+
+40:53.780 --> 40:56.600
+ are involved in a lot of things.
+
+40:56.600 --> 40:59.280
+ I mean, they seem to regulate
+
+40:59.280 --> 41:01.500
+ a dozen or more different basic functions.
+
+41:02.920 --> 41:04.440
+ I want to ask you about
+
+41:04.440 --> 41:06.880
+ a different aspect of the visual system now,
+
+41:06.880 --> 41:10.880
+ which is the one that relates to our sense of balance.
+
+41:10.880 --> 41:13.680
+ So I love boats, but I hate being on them.
+
+41:13.680 --> 41:15.380
+ I love the ocean from shore
+
+41:15.380 --> 41:17.720
+ because I get incredibly seasick.
+
+41:19.160 --> 41:20.460
+ It's awful, I think I'm going to get seasick
+
+41:20.460 --> 41:22.080
+ if I think about it too much.
+
+41:22.080 --> 41:23.280
+ And once I went on a boat trip,
+
+41:23.280 --> 41:27.400
+ I came back and I actually got motion sick
+
+41:27.400 --> 41:30.280
+ or wasn't seasick because I went rafting.
+
+41:30.280 --> 41:32.680
+ So there's a system that somehow gets messed up.
+
+41:33.560 --> 41:34.760
+ They always tell us if you're feeling sick
+
+41:34.760 --> 41:37.360
+ to look at the horizon, et cetera, et cetera.
+
+41:37.360 --> 41:39.520
+ So what is the link between our visual system
+
+41:39.520 --> 41:40.720
+ and our balance system?
+
+41:40.720 --> 41:43.360
+ And why does it make us nauseous sometimes
+
+41:43.360 --> 41:45.680
+ when the world is moving in a way
+
+41:45.680 --> 41:47.360
+ that we're not accustomed to?
+
+41:47.360 --> 41:48.920
+ I realize this is a big question
+
+41:48.920 --> 41:51.640
+ because it involves eye movement, et cetera,
+
+41:51.640 --> 41:56.360
+ but let's maybe just walk in at the simplest layers
+
+41:56.360 --> 42:01.360
+ of vision, vestibular, so-called balance system,
+
+42:01.360 --> 42:04.360
+ and then maybe we can piece the system together for people
+
+42:04.360 --> 42:05.200
+ so that they can understand.
+
+42:05.200 --> 42:06.920
+ And then also we should give them some tools
+
+42:06.920 --> 42:08.680
+ for adjusting their nausea
+
+42:08.680 --> 42:12.040
+ when their vestibular system is out of whack.
+
+42:12.040 --> 42:14.500
+ Cool, so I mean, the first thing to think about
+
+42:14.500 --> 42:19.040
+ is that the vestibular system is designed
+
+42:19.040 --> 42:24.040
+ to allow you to see how your, or detect, sense,
+
+42:25.720 --> 42:29.000
+ how you're moving in the world, through the world.
+
+42:31.040 --> 42:34.360
+ It's a funny one because it's about your movement
+
+42:34.360 --> 42:36.300
+ in relationship to the world in a sense,
+
+42:36.300 --> 42:39.440
+ and yet it's sort of interoceptive in the sense
+
+42:39.440 --> 42:44.320
+ that it is really in the end sensing
+
+42:44.320 --> 42:46.160
+ the movement of your own body.
+
+42:46.160 --> 42:48.120
+ Okay, so interoception we should probably delineate
+
+42:48.120 --> 42:50.640
+ for people is when you're focusing on your internal state
+
+42:50.640 --> 42:52.140
+ as opposed to something outside you.
+
+42:52.140 --> 42:52.980
+ Right.
+
+42:52.980 --> 42:55.280
+ But it's a gravity sensing system.
+
+42:55.280 --> 42:57.520
+ Well, it's partly a gravity sensing system
+
+42:57.520 --> 43:02.520
+ in the sense that gravity is a force that's acting on you
+
+43:02.760 --> 43:05.380
+ as if you were moving through the world
+
+43:05.380 --> 43:06.860
+ in the opposite direction.
+
+43:06.860 --> 43:10.440
+ All right, now you got to explain that one to me.
+
+43:10.440 --> 43:12.920
+ Okay, so basically the idea is that
+
+43:14.580 --> 43:16.840
+ if we leave gravity aside,
+
+43:16.840 --> 43:21.800
+ we're just sitting in a car in the passenger seat
+
+43:21.800 --> 43:24.480
+ and the driver hits the accelerator
+
+43:24.480 --> 43:26.720
+ and you start moving forward, you sense that.
+
+43:26.720 --> 43:28.400
+ If your eyes were closed, you'd sense it.
+
+43:28.400 --> 43:30.560
+ If your ears were plugged and your eyes were closed,
+
+43:30.560 --> 43:31.720
+ you'd still know it.
+
+43:31.720 --> 43:33.880
+ Yeah, many people take off on the plane like this,
+
+43:33.880 --> 43:35.080
+ they're dreading the flight
+
+43:35.080 --> 43:36.880
+ and they know when the plane is taking off.
+
+43:36.880 --> 43:38.920
+ Sure, that's your vestibular system talking
+
+43:38.920 --> 43:40.900
+ because anything that jostles you
+
+43:40.900 --> 43:43.080
+ out of the current position you're in right now
+
+43:43.080 --> 43:46.660
+ will be detected by the vestibular system, pretty much.
+
+43:47.800 --> 43:49.600
+ So this is a complicated system,
+
+43:49.600 --> 43:52.860
+ but it's basically in your inner ear,
+
+43:52.860 --> 43:54.360
+ very close to where you're hearing.
+
+43:54.360 --> 43:55.360
+ I can put it there.
+
+43:57.040 --> 43:57.880
+ And I don't know who they is.
+
+43:57.880 --> 44:00.280
+ I don't really know, they're starting to ride.
+
+44:00.280 --> 44:01.400
+ I'm just kidding.
+
+44:01.400 --> 44:03.960
+ To steal our friend Russ Van Gelder's explanation,
+
+44:03.960 --> 44:06.560
+ we weren't consulted the design phase and no one-
+
+44:06.560 --> 44:07.560
+ That's a great line.
+
+44:07.560 --> 44:08.800
+ That's a great line.
+
+44:10.020 --> 44:11.880
+ But it's interesting, it's in the ear.
+
+44:11.880 --> 44:14.640
+ Yeah, it's deep in there
+
+44:14.640 --> 44:18.520
+ and it's served by the same nerve, actually,
+
+44:18.520 --> 44:20.620
+ that serves the hearing system.
+
+44:20.620 --> 44:23.420
+ One way to think about it is both the hearing system
+
+44:23.420 --> 44:26.880
+ and the vestibular self-motion sensing system
+
+44:26.880 --> 44:29.320
+ are really detecting the signal in the same way.
+
+44:29.320 --> 44:32.680
+ They're hairy cells and they're excited.
+
+44:32.680 --> 44:33.520
+ Hairy cells?
+
+44:33.520 --> 44:34.640
+ Yeah, sort of, they got little cilia
+
+44:34.640 --> 44:36.820
+ sticking up off the surfaces.
+
+44:36.820 --> 44:38.720
+ And depending on which way you bend those,
+
+44:38.720 --> 44:41.080
+ the cells will either be inhibited or excited.
+
+44:41.080 --> 44:44.080
+ They're not even neurons, but then they talk to neurons
+
+44:44.080 --> 44:46.140
+ with a neuron-like process and off you go.
+
+44:46.140 --> 44:47.560
+ Now you've got an auditory signal
+
+44:47.560 --> 44:51.480
+ if you're sensing things bouncing around in your cochlea,
+
+44:51.480 --> 44:53.120
+ which is- Sound waves.
+
+44:53.120 --> 44:55.760
+ Sympathetically, the bouncing of your eardrum,
+
+44:55.760 --> 44:58.800
+ which is sympathetically the sound waves in the world.
+
+44:58.800 --> 45:01.280
+ But in the case of the vestibular apparatus,
+
+45:01.280 --> 45:04.500
+ evolution has built a system that detects the motion
+
+45:04.500 --> 45:07.880
+ of say fluid going by those hairs.
+
+45:07.880 --> 45:11.320
+ And if you put a sensor like that in a tube
+
+45:11.320 --> 45:14.040
+ that's fluid-filled, now you've got a sensor
+
+45:14.040 --> 45:17.960
+ that will be activated when you rotate that tube
+
+45:17.960 --> 45:20.020
+ around the axis that passes through the middle of it.
+
+45:20.020 --> 45:21.120
+ Those, you know, we're just listening,
+
+45:21.120 --> 45:22.440
+ won't be able to visualize that.
+
+45:22.440 --> 45:23.360
+ No, I think that makes sense.
+
+45:23.360 --> 45:25.420
+ I was thinking of it as three hula hoops.
+
+45:25.420 --> 45:26.260
+ Right, three hula hoops.
+
+45:26.260 --> 45:28.320
+ One standing up, one lying down on the ground.
+
+45:28.320 --> 45:30.320
+ Right, one the other way.
+
+45:30.320 --> 45:31.680
+ Three directions.
+
+45:32.680 --> 45:35.080
+ The people who fly will talk about roll, pitch, and yaw,
+
+45:35.080 --> 45:35.920
+ that kind of thing.
+
+45:35.920 --> 45:39.280
+ So the three axes of encoding,
+
+45:39.280 --> 45:40.120
+ just like in the cones of the retina.
+
+45:40.120 --> 45:43.240
+ Sort of the yes, the no, and then I always say it's,
+
+45:43.240 --> 45:44.400
+ and then the puppy head tilt.
+
+45:44.400 --> 45:45.600
+ Yeah, the puppy head tilt.
+
+45:45.600 --> 45:46.720
+ That's the other one.
+
+45:46.720 --> 45:50.160
+ So the point is that your brain is eventually going
+
+45:50.160 --> 45:54.640
+ to be able to unpack what these sensors are telling you
+
+45:54.640 --> 45:58.040
+ about how you just rotated your head in very much the way
+
+45:58.040 --> 46:01.520
+ that the three types of cones we were talking about before
+
+46:01.520 --> 46:04.920
+ are reading the incoming photons
+
+46:04.920 --> 46:06.880
+ in the wavelength domain differently.
+
+46:06.880 --> 46:07.880
+ Red, green, and blue.
+
+46:07.880 --> 46:09.960
+ Yeah, you can compare and trust, you get red, green, and blue.
+
+46:09.960 --> 46:11.720
+ So it's the same basic idea.
+
+46:11.720 --> 46:14.640
+ If you have three sensors and you array them properly,
+
+46:14.640 --> 46:17.320
+ now you can tell if you're rotating your head left or right,
+
+46:17.320 --> 46:18.500
+ up or down.
+
+46:18.500 --> 46:22.480
+ That's the sensory signal coming back into your brain,
+
+46:23.320 --> 46:26.600
+ confirming that you've just made a movement that you will.
+
+46:26.600 --> 46:27.720
+ But what about on the plane?
+
+46:27.720 --> 46:29.760
+ Because when I'm on the plane, I'm completely stationary.
+
+46:29.760 --> 46:32.460
+ The plane's moving, but my head hasn't moved.
+
+46:32.460 --> 46:35.460
+ So I'm just moving forward, gravity is constant.
+
+46:35.460 --> 46:36.300
+ Exactly.
+
+46:36.300 --> 46:37.920
+ How do I know I'm accelerating?
+
+46:37.920 --> 46:41.120
+ So what's happening now is your brain is sensing the motion
+
+46:42.440 --> 46:45.960
+ and the brain is smart enough also to ask itself,
+
+46:45.960 --> 46:50.580
+ did I will that movement or did that come from the outside?
+
+46:50.580 --> 46:52.560
+ So now in terms of sort of understanding
+
+46:52.560 --> 46:54.720
+ what the distributor signal means,
+
+46:54.720 --> 46:56.340
+ it's gotta be embedded in the context
+
+46:56.340 --> 46:57.920
+ of what you tried to do
+
+46:57.920 --> 47:01.760
+ or what your other sensory systems are telling you
+
+47:01.760 --> 47:02.720
+ about what's happening right now.
+
+47:02.720 --> 47:03.560
+ I see.
+
+47:03.560 --> 47:06.640
+ So it's very interesting, but it's not conscious.
+
+47:06.640 --> 47:09.440
+ Or at least if it's conscious, it's not conscious,
+
+47:09.440 --> 47:11.560
+ it's definitely very fast, right?
+
+47:11.560 --> 47:12.860
+ The moment that plane starts moving,
+
+47:12.860 --> 47:14.520
+ I know that I didn't get up out of my chair
+
+47:14.520 --> 47:15.360
+ and run forward.
+
+47:15.360 --> 47:16.180
+ Right.
+
+47:16.180 --> 47:18.600
+ But I'm not really thinking about getting up out of my chair
+
+47:18.600 --> 47:19.440
+ I just know.
+
+47:19.440 --> 47:21.560
+ I guess the way I think about it is that
+
+47:21.560 --> 47:26.440
+ the nervous system is quote, aware at many levels.
+
+47:27.480 --> 47:29.020
+ When it gets all the way up to the cortex
+
+47:29.020 --> 47:32.320
+ and we're thinking about it, you're talking about it.
+
+47:32.320 --> 47:34.160
+ You know, that's cortical,
+
+47:34.160 --> 47:37.360
+ but the lower levels of the brain
+
+47:37.360 --> 47:40.400
+ that don't require you to actually actively think about it,
+
+47:40.400 --> 47:44.040
+ they're just doing their thing, are also made aware, right?
+
+47:44.040 --> 47:45.880
+ A lot of this is happening under the surface
+
+47:45.880 --> 47:47.080
+ of what you're thinking.
+
+47:47.080 --> 47:48.760
+ These are reflexes.
+
+47:48.760 --> 47:49.600
+ Okay.
+
+47:50.440 --> 47:52.440
+ So we've got this gravity sensing system.
+
+47:52.440 --> 47:53.280
+ Right.
+
+47:55.640 --> 47:57.080
+ I'm nodding for those that are listening
+
+47:57.080 --> 48:00.360
+ for a yes movement of the head, a no movement of the head,
+
+48:00.360 --> 48:02.720
+ or the tilting of the head from side to side.
+
+48:02.720 --> 48:03.560
+ Right.
+
+48:03.560 --> 48:06.160
+ And then you said that knowledge about whether or not
+
+48:06.160 --> 48:08.960
+ activation of that system comes from my own movements
+
+48:08.960 --> 48:12.520
+ or something acting upon me, like the plane moving,
+
+48:12.520 --> 48:15.640
+ has to be combined with other signals.
+
+48:15.640 --> 48:19.580
+ And so how is the visual information
+
+48:19.580 --> 48:21.040
+ or information about the visual world
+
+48:21.040 --> 48:22.880
+ combined with balance information?
+
+48:22.880 --> 48:23.700
+ Right.
+
+48:23.700 --> 48:26.560
+ So, yeah, I mean, I guess maybe the best way
+
+48:26.560 --> 48:29.960
+ to think about how these two systems work together
+
+48:29.960 --> 48:31.080
+ is to think about what happens
+
+48:31.080 --> 48:34.020
+ when you suddenly rotate your head to the left.
+
+48:35.160 --> 48:36.620
+ When you suddenly rotate your head to the left,
+
+48:36.620 --> 48:40.840
+ your eyes are actually rotating to the right automatically.
+
+48:40.840 --> 48:43.240
+ You do this in complete darkness.
+
+48:43.240 --> 48:48.080
+ If you had an infrared camera and watched yourself
+
+48:48.080 --> 48:49.760
+ in complete darkness, you can't see anything.
+
+48:49.760 --> 48:50.800
+ Rotating your head to the left,
+
+48:50.800 --> 48:52.480
+ your eyes would rotate to the right.
+
+48:52.480 --> 48:54.420
+ That's your vestibular system saying,
+
+48:54.420 --> 48:59.420
+ it's, I'm going to try to compensate for the head rotation,
+
+48:59.820 --> 49:02.980
+ so my eyes are still looking in the same place.
+
+49:02.980 --> 49:04.220
+ Why is that useful?
+
+49:04.220 --> 49:07.460
+ Well, if it's always doing that,
+
+49:07.460 --> 49:09.300
+ then the image of the world on your retina
+
+49:09.300 --> 49:11.820
+ will be pretty stable most of the time.
+
+49:11.820 --> 49:13.860
+ And that actually helps vision.
+
+49:13.860 --> 49:17.340
+ Have they built this into cameras for image stabilization?
+
+49:17.340 --> 49:19.460
+ Because when I move, when I take a picture with my phone,
+
+49:19.460 --> 49:21.500
+ it's blurry, it's not clear.
+
+49:21.500 --> 49:24.620
+ Well, actually, you might want to get a better phone
+
+49:24.620 --> 49:28.700
+ because now what they have is software in the better abs
+
+49:28.700 --> 49:31.620
+ that will do a kind of image stabilization post hoc
+
+49:31.620 --> 49:33.460
+ by doing a registration of the images
+
+49:33.460 --> 49:34.780
+ that are bouncing around.
+
+49:34.780 --> 49:37.260
+ They say the edge of the house was here,
+
+49:37.260 --> 49:39.580
+ so let's get that aligned in each of your images.
+
+49:39.580 --> 49:43.740
+ So you may not be aware if you're using a good new phone,
+
+49:43.740 --> 49:48.740
+ that if you walk around a landscape and hold your phone,
+
+49:48.740 --> 49:51.860
+ that there's all this image stabilization going on.
+
+49:51.860 --> 49:56.860
+ But it's built into standard cinematic technology now,
+
+49:57.100 --> 49:58.980
+ because if you tried to do a handheld camera,
+
+49:58.980 --> 50:01.620
+ things would be bouncing around, things would be unwatchable,
+
+50:01.620 --> 50:02.940
+ you wouldn't be able to really understand
+
+50:02.940 --> 50:04.340
+ what's going on in the scene.
+
+50:04.340 --> 50:09.140
+ So the brain works really hard to mostly stabilize
+
+50:09.140 --> 50:10.900
+ the image of the world on your retina.
+
+50:10.900 --> 50:12.340
+ Now, of course, you're moving through the world,
+
+50:12.340 --> 50:13.780
+ so you can't stabilize everything.
+
+50:13.780 --> 50:16.580
+ But the more you can stabilize most of the time,
+
+50:16.580 --> 50:19.060
+ the better you can see.
+
+50:19.060 --> 50:21.980
+ And that's why when we're scanning a scene,
+
+50:22.860 --> 50:24.620
+ looking around at things,
+
+50:24.620 --> 50:26.860
+ we're making very rapid eye movements
+
+50:26.860 --> 50:30.460
+ for very short periods of time, and then we just rest.
+
+50:30.460 --> 50:31.940
+ But we're not the only ones that do that.
+
+50:31.940 --> 50:33.100
+ If you ever watch a hummingbird,
+
+50:33.100 --> 50:35.540
+ it does exactly the same thing in a feeder, right?
+
+50:35.540 --> 50:38.640
+ But it's with its body, it's gonna make a quick movement,
+
+50:39.900 --> 50:41.460
+ and then it's gonna be stable.
+
+50:41.460 --> 50:44.540
+ And when you watch a pigeon walking on the sidewalk,
+
+50:44.540 --> 50:46.160
+ it does this funny head bobbing thing.
+
+50:46.160 --> 50:48.820
+ But what it's really doing is racking its head back
+
+50:48.820 --> 50:51.260
+ on its neck while its body goes forward,
+
+50:51.260 --> 50:54.380
+ so that the image of the visual world stays static.
+
+50:54.380 --> 50:55.880
+ Is that why they're doing it?
+
+50:55.880 --> 50:56.820
+ Yes.
+
+50:56.820 --> 50:59.540
+ And you've seen the funny chicken videos on YouTube, right?
+
+50:59.540 --> 51:01.060
+ You take a chicken, move it up and down,
+
+51:01.060 --> 51:02.140
+ the head stays in one place.
+
+51:02.140 --> 51:03.700
+ It's all the same thing.
+
+51:03.700 --> 51:06.220
+ All of these animals are trying hard
+
+51:06.220 --> 51:08.820
+ to keep the image of the world stable on their retina
+
+51:08.820 --> 51:10.860
+ as much of the time as they possibly can.
+
+51:10.860 --> 51:13.340
+ And then when they've gotta move, make it fast,
+
+51:13.340 --> 51:15.460
+ make it quick, and then stabilize again.
+
+51:15.460 --> 51:16.860
+ So are the pigeons have their head back?
+
+51:16.860 --> 51:18.020
+ It is, yeah.
+
+51:18.020 --> 51:19.300
+ Wow.
+
+51:19.300 --> 51:20.140
+ Yeah.
+
+51:20.140 --> 51:22.180
+ I think I just need to pause there for a second
+
+51:22.180 --> 51:23.180
+ and digest that.
+
+51:23.180 --> 51:24.020
+ Amazing.
+
+51:25.600 --> 51:29.080
+ In case people aren't, well, there's no reason
+
+51:29.080 --> 51:30.860
+ why people would know what we're doing here,
+
+51:30.860 --> 51:32.740
+ but essentially what we're doing is we're building up
+
+51:32.740 --> 51:36.780
+ from sensory, light onto the eye, color,
+
+51:36.780 --> 51:40.520
+ to what the brain does with that, the integration of that,
+
+51:40.520 --> 51:42.100
+ circadian clock, melatonin, et cetera.
+
+51:42.100 --> 51:43.460
+ And now what we're doing is we're talking about
+
+51:43.460 --> 51:48.460
+ multi-sensory or multimodal, combining one sense, vision,
+
+51:48.560 --> 51:50.580
+ with another sense, balance.
+
+51:50.580 --> 51:53.580
+ And it turns out that pigeons know more about this
+
+51:53.580 --> 51:56.260
+ than I do because pigeons know to keep their head back
+
+51:56.260 --> 51:57.940
+ as they walk forward.
+
+51:57.940 --> 52:02.520
+ All right, so that gets us to this issue of motion sickness.
+
+52:02.520 --> 52:05.660
+ And you don't have to go out on a boat.
+
+52:05.660 --> 52:08.100
+ Anytime I go to New York, I sit in an Uber
+
+52:08.100 --> 52:11.820
+ or in a cab in the back, and if I'm looking at my phone
+
+52:11.820 --> 52:14.580
+ while the car is driving, I feel nauseous
+
+52:14.580 --> 52:17.020
+ by time I arrive at my destination.
+
+52:17.020 --> 52:19.380
+ I always try and look out the front of the windshield
+
+52:19.380 --> 52:22.800
+ because I'm told that helps, but it's a little tiny window.
+
+52:22.800 --> 52:26.960
+ And I end up feeling slightly less sick if I do that.
+
+52:26.960 --> 52:31.960
+ So what's going on with the vision and the balance system
+
+52:32.240 --> 52:34.300
+ that causes a kind of a nausea?
+
+52:34.300 --> 52:35.820
+ And actually, if I keep talking about this,
+
+52:35.820 --> 52:37.220
+ I probably will get sick.
+
+52:37.220 --> 52:40.700
+ I don't throw up easily, but for some reason,
+
+52:40.700 --> 52:42.540
+ motion sickness is a real thing for me.
+
+52:42.540 --> 52:44.300
+ It's a problem for a lot of people.
+
+52:44.300 --> 52:47.080
+ I mean, I think the fundamental problem typically
+
+52:47.080 --> 52:49.900
+ when you get motion sick is what they call
+
+52:49.900 --> 52:52.720
+ visual vestibular conflict.
+
+52:52.720 --> 52:55.300
+ That is, you have two sensory systems
+
+52:55.300 --> 52:56.460
+ that are talking to your brain
+
+52:56.460 --> 52:58.460
+ about how you're moving through the world.
+
+52:58.460 --> 53:02.380
+ And as long as they agree, you're fine.
+
+53:02.380 --> 53:06.260
+ So if you're driving, your body senses
+
+53:06.260 --> 53:07.100
+ that you're moving forward.
+
+53:07.100 --> 53:10.680
+ Your vestibular systems is picking up this acceleration
+
+53:10.680 --> 53:14.900
+ of the car, and your visual system is seeing the consequences
+
+53:14.900 --> 53:19.340
+ of forward motion in the sweeping of the scene past you.
+
+53:19.340 --> 53:20.860
+ Everything is honky-dory, right?
+
+53:20.860 --> 53:22.140
+ No problem.
+
+53:22.140 --> 53:25.580
+ But when you are headed forward,
+
+53:25.580 --> 53:26.860
+ but you're looking at your cell phone,
+
+53:26.860 --> 53:28.020
+ what is your retina seeing?
+
+53:28.020 --> 53:30.300
+ Your retina is seeing the stable image of the screen.
+
+53:30.300 --> 53:33.540
+ There's absolutely no motion in that screen.
+
+53:33.540 --> 53:35.740
+ Or the motion is, or some other motion,
+
+53:35.740 --> 53:36.580
+ like a movie or, yeah. Or it's a motion
+
+53:36.580 --> 53:37.940
+ you're watching if you're playing a game
+
+53:37.940 --> 53:40.380
+ or you're watching a video, a football game.
+
+53:40.380 --> 53:41.700
+ Or the motion is uncoupled
+
+53:41.700 --> 53:44.340
+ with what's actually happening to your body.
+
+53:44.340 --> 53:45.620
+ Your brain doesn't like that.
+
+53:45.620 --> 53:48.320
+ Your brain likes everything to be aligned.
+
+53:48.320 --> 53:50.620
+ And if it's not, it's going to complain to you.
+
+53:50.620 --> 53:51.460
+ By making me feel nauseous.
+
+53:51.460 --> 53:52.460
+ By making you feel nauseous,
+
+53:52.460 --> 53:53.900
+ and maybe you'll change your behavior.
+
+53:53.900 --> 53:54.820
+ So you're getting-
+
+53:54.820 --> 53:55.860
+ I'm getting punished.
+
+53:55.860 --> 53:58.020
+ Yeah, for setting it up
+
+53:58.020 --> 53:59.780
+ so you're a signal second flick, right.
+
+53:59.780 --> 54:04.780
+ By the vestibular visuals in time.
+
+54:05.060 --> 54:06.440
+ I love it.
+
+54:06.440 --> 54:08.580
+ I love the idea of reward signals.
+
+54:08.580 --> 54:10.700
+ And we've done a lot of discussion about this
+
+54:10.700 --> 54:13.120
+ on this podcast of things like dopamine reward and things,
+
+54:13.120 --> 54:14.560
+ but also punishment signals.
+
+54:14.560 --> 54:17.120
+ And I love this example.
+
+54:17.980 --> 54:20.420
+ Well, maybe marching a little bit further
+
+54:20.420 --> 54:21.580
+ along this pathway,
+
+54:22.860 --> 54:25.880
+ visual input is combined with balance input.
+
+54:26.880 --> 54:28.340
+ Where does that occur?
+
+54:28.340 --> 54:32.140
+ And maybe, because I have some hint of where it occurs,
+
+54:32.140 --> 54:34.220
+ you could tell us a little bit about this
+
+54:34.220 --> 54:37.540
+ kind of mysterious little mini brain
+
+54:37.540 --> 54:38.700
+ that they call the cerebellum.
+
+54:38.700 --> 54:40.100
+ Cerebellum, yeah.
+
+54:40.100 --> 54:43.780
+ So, you know, the way I tried to describe the cerebellum
+
+54:43.780 --> 54:48.780
+ to my students is that it serves sort of like
+
+54:49.100 --> 54:53.320
+ the air traffic control system functions in air travel.
+
+54:54.500 --> 54:57.560
+ So that it's a system that's very complicated
+
+54:57.560 --> 55:01.060
+ and it's really dependent on great information.
+
+55:01.060 --> 55:02.620
+ So it's taking in the information
+
+55:02.620 --> 55:04.620
+ about everything that's happening everywhere,
+
+55:04.620 --> 55:07.660
+ not only through your sensory systems,
+
+55:07.660 --> 55:10.100
+ but it's listening into all the little centers
+
+55:10.100 --> 55:11.700
+ elsewhere in your brain that are computing
+
+55:11.700 --> 55:13.580
+ what you're gonna be doing next and so forth.
+
+55:13.580 --> 55:15.780
+ So it's just ravenous for that kind of information.
+
+55:15.780 --> 55:17.700
+ So it really is like a little mini brain.
+
+55:17.700 --> 55:21.740
+ It is, it's got access to all of the signals
+
+55:23.580 --> 55:25.460
+ and it really has an important role
+
+55:25.460 --> 55:29.860
+ in coordinating and shaping movements.
+
+55:29.860 --> 55:34.540
+ But, you know, if you suddenly eliminated the air traffic
+
+55:34.540 --> 55:38.940
+ control system, planes could still take off and land,
+
+55:38.940 --> 55:43.940
+ but you might have some unhappy accidents in the process.
+
+55:44.100 --> 55:45.860
+ So the cerebellum is kind of like that.
+
+55:45.860 --> 55:48.140
+ It's not that you would be paralyzed
+
+55:48.140 --> 55:49.900
+ if your cerebellum was gone
+
+55:49.900 --> 55:51.380
+ because you still have motor neurons,
+
+55:51.380 --> 55:54.100
+ you still have ways to talk to your muscles,
+
+55:54.100 --> 55:56.420
+ you still have reflex centers,
+
+55:56.420 --> 55:59.800
+ and it's not like you would have any sensory loss
+
+55:59.800 --> 56:01.460
+ because you still have your cortex
+
+56:01.460 --> 56:03.020
+ getting all of those beautiful signals
+
+56:03.020 --> 56:05.020
+ that you can think about,
+
+56:05.020 --> 56:09.420
+ but you wouldn't be coordinating things so well anymore.
+
+56:09.420 --> 56:12.900
+ The timing between input and output might be off.
+
+56:12.900 --> 56:16.700
+ Or if you were trying to practice a new athletic move,
+
+56:16.700 --> 56:19.300
+ like an overhead serve in tennis,
+
+56:19.300 --> 56:21.420
+ you'd be just terrible at learning.
+
+56:22.660 --> 56:25.260
+ But all of the sequences of muscle movements
+
+56:25.260 --> 56:27.360
+ and the feedback from your sensory apparatus
+
+56:27.360 --> 56:29.380
+ that would let you really get that ball
+
+56:29.380 --> 56:33.140
+ exactly where you want it to after the nth rep, right now,
+
+56:33.140 --> 56:36.060
+ the thousandth rep or something, you get much better at it.
+
+56:36.060 --> 56:38.460
+ So the cerebellum is all involved in things like
+
+56:40.000 --> 56:44.340
+ motor learning and refining the precisions of movement
+
+56:44.340 --> 56:47.180
+ so that they get you where you want to go.
+
+56:47.180 --> 56:49.900
+ If you reach for a glass of champagne
+
+56:49.900 --> 56:52.160
+ that you don't knock it over or stop short.
+
+56:53.620 --> 56:54.540
+ You know, that's what it's good at.
+
+56:54.540 --> 56:57.260
+ People who have selective damage to the cerebellum.
+
+56:57.260 --> 56:58.100
+ Absolutely.
+
+56:58.100 --> 57:00.660
+ And what I come familiar with,
+
+57:01.980 --> 57:04.420
+ well, Korsakoff's is different, right?
+
+57:04.420 --> 57:06.220
+ Isn't that a B vitamin deficiency from,
+
+57:06.220 --> 57:07.540
+ in chronic alcoholics?
+
+57:07.540 --> 57:08.380
+ Right.
+
+57:08.380 --> 57:10.100
+ And they have a, they tend to walk kind of bow-legged
+
+57:10.100 --> 57:11.820
+ and they can't coordinate their movements.
+
+57:11.820 --> 57:13.420
+ Is that, that has some that-
+
+57:13.420 --> 57:14.240
+ Not sure about the cerebellar.
+
+57:14.240 --> 57:16.420
+ Mammary bodies, but also cerebellum.
+
+57:16.420 --> 57:19.020
+ I'm not sure about the cerebellar involvement there,
+
+57:19.020 --> 57:21.980
+ but you know, the typical thing would be
+
+57:23.420 --> 57:26.660
+ a patient who has a cerebellar stroke or a tumor,
+
+57:26.660 --> 57:31.660
+ for example, might be not that steady on their feet.
+
+57:32.580 --> 57:37.340
+ You know, if the, you know, dynamics of the situation
+
+57:37.340 --> 57:40.840
+ is standing on a street car with no pole to hold onto,
+
+57:40.840 --> 57:42.980
+ they might not be as good at adjusting
+
+57:42.980 --> 57:45.380
+ all of the little movements of the car.
+
+57:47.000 --> 57:49.340
+ You know, there's a kind of tremor that can occur
+
+57:49.340 --> 57:50.940
+ as they're reaching for things
+
+57:52.020 --> 57:53.580
+ because they reach a little too far
+
+57:53.580 --> 57:57.500
+ and then they over-correct and come back, things like that.
+
+57:57.500 --> 58:02.500
+ So it's very common neurological phenomenon, actually.
+
+58:03.700 --> 58:07.260
+ Cerebellar ataxia, this is what the neurologists call it.
+
+58:07.260 --> 58:09.140
+ And it can happen not just with cerebellar damage,
+
+58:09.140 --> 58:11.420
+ but damage to the tracks that feed the information
+
+58:11.420 --> 58:12.260
+ into the cerebellum.
+
+58:12.260 --> 58:13.340
+ Right, just to provide the structure.
+
+58:13.340 --> 58:15.500
+ Exactly, or output from the cerebellum.
+
+58:15.500 --> 58:17.860
+ And so the cerebellum is where a lot of visual
+
+58:17.860 --> 58:19.900
+ and balance information is combined.
+
+58:19.900 --> 58:21.940
+ In a very key place in the cerebellum,
+
+58:21.940 --> 58:26.280
+ which is, it's really one of the oldest parts
+
+58:26.280 --> 58:27.120
+ in terms of evolution.
+
+58:27.120 --> 58:27.940
+ Talking about the flocculus.
+
+58:27.940 --> 58:28.780
+ The flocculus, right.
+
+58:28.780 --> 58:32.180
+ This is a, it's a critical place in the cerebellum
+
+58:32.180 --> 58:35.140
+ where visual and vestibular information comes together
+
+58:35.140 --> 58:37.260
+ recording just the kinds of movements
+
+58:37.260 --> 58:40.360
+ we were talking about, this image stabilizing network.
+
+58:40.360 --> 58:41.860
+ It's all happening there.
+
+58:41.860 --> 58:43.620
+ And there's learning happening there as well.
+
+58:43.620 --> 58:45.900
+ So that if your vestibular apparatus
+
+58:45.900 --> 58:48.840
+ is a little bit damaged somehow,
+
+58:48.840 --> 58:52.800
+ your visual system is actually talking to your cerebellum
+
+58:52.800 --> 58:55.860
+ saying there's a problem here, there's an error.
+
+58:55.860 --> 58:58.820
+ And your cerebellum is learning to do better
+
+58:58.820 --> 59:01.260
+ by increasing the output of the vestibular system
+
+59:01.260 --> 59:03.680
+ to compensate for whatever that loss was.
+
+59:03.680 --> 59:05.340
+ So it's a little error correction system.
+
+59:05.340 --> 59:08.380
+ That's sort of typical of a cerebellar function.
+
+59:08.380 --> 59:10.180
+ And it can happen in many, many different domains.
+
+59:10.180 --> 59:11.900
+ This is just one of the domains
+
+59:11.900 --> 59:15.300
+ of sensory motor integration that takes place there.
+
+59:16.320 --> 59:18.700
+ So I should stay off my phone in the Ubers.
+
+59:18.700 --> 59:22.300
+ If I'm on a boat, I should essentially look
+
+59:22.300 --> 59:25.760
+ and as much as possible act as if I'm driving the machine.
+
+59:25.760 --> 59:26.600
+ Right.
+
+59:26.600 --> 59:28.180
+ That'd be weird if I was in the passenger seat
+
+59:28.180 --> 59:29.480
+ pretending I was driving the machine,
+
+59:29.480 --> 59:30.660
+ but I do always feel better
+
+59:30.660 --> 59:32.700
+ if I'm sitting in the front seat passenger.
+
+59:32.700 --> 59:33.540
+ Right.
+
+59:33.540 --> 59:35.780
+ The more of the visual world that you can see
+
+59:35.780 --> 59:38.380
+ as if you were actually the one doing the motion,
+
+59:38.380 --> 59:39.420
+ I would think.
+
+59:39.420 --> 59:41.020
+ Let's stay in the inner ear for a minute
+
+59:41.020 --> 59:44.400
+ as we continue to march around the nervous system.
+
+59:46.380 --> 59:48.500
+ When you take off in the plane or when you land
+
+59:48.500 --> 59:50.060
+ or sometimes in the middle of there,
+
+59:50.060 --> 59:53.260
+ your ears get clogged, or at least my ears get clogged.
+
+59:54.480 --> 59:56.300
+ That's because of pressure buildup
+
+59:56.300 --> 59:59.340
+ in the various tubes of the inner ear, et cetera.
+
+59:59.340 --> 1:00:00.220
+ We'll get into this.
+
+1:00:00.220 --> 1:00:05.100
+ But years ago, our good friend, Harvey Carton,
+
+1:00:05.100 --> 1:00:08.220
+ who's another world-class neuroanatomist,
+
+1:00:09.900 --> 1:00:12.140
+ gave a lecture and it talked about
+
+1:00:12.140 --> 1:00:14.420
+ how plugging your nose and blowing out
+
+1:00:14.420 --> 1:00:17.420
+ versus plugging your nose and sucking in
+
+1:00:17.420 --> 1:00:20.100
+ can, should be done at different times
+
+1:00:20.100 --> 1:00:23.600
+ depending on whether or not you're taking off or landing.
+
+1:00:23.600 --> 1:00:26.380
+ And I always see people trying to un-pop their ears.
+
+1:00:26.380 --> 1:00:27.220
+ Right.
+
+1:00:27.220 --> 1:00:28.340
+ And when you do scuba diving,
+
+1:00:28.340 --> 1:00:30.300
+ you learn how to do this without necessarily,
+
+1:00:30.300 --> 1:00:32.860
+ I can do it by just kind of moving my jaw now
+
+1:00:32.860 --> 1:00:35.480
+ because I've done a little bit of diving.
+
+1:00:35.480 --> 1:00:37.700
+ But what's the story there?
+
+1:00:37.700 --> 1:00:39.740
+ We don't have to get into all the differences
+
+1:00:39.740 --> 1:00:41.140
+ in atmospheric pressure, et cetera.
+
+1:00:41.140 --> 1:00:44.300
+ But if I'm taking off and my ears are plugged,
+
+1:00:44.300 --> 1:00:46.460
+ or I've recently ascended, plane took off,
+
+1:00:46.460 --> 1:00:47.300
+ my ears are plugged.
+
+1:00:47.300 --> 1:00:48.540
+ Do I plug my nose and blow out
+
+1:00:48.540 --> 1:00:49.960
+ or do I plug my nose and suck in?
+
+1:00:49.960 --> 1:00:54.960
+ Right, so the basic idea is that if your ears feel bad
+
+1:00:55.100 --> 1:00:58.620
+ because you're going into an area of higher pressure,
+
+1:00:59.540 --> 1:01:01.980
+ so if they pressurize the cabin more than the pressure
+
+1:01:01.980 --> 1:01:03.760
+ that you have on the surface of the planet,
+
+1:01:03.760 --> 1:01:07.020
+ your eardrums will be bending in and they don't like that.
+
+1:01:07.020 --> 1:01:08.660
+ If you push them more, they'll hurt even more.
+
+1:01:08.660 --> 1:01:11.620
+ That's a good description that the pressure goes up,
+
+1:01:11.620 --> 1:01:12.580
+ then they're gonna bend in.
+
+1:01:12.580 --> 1:01:14.660
+ Bend in, and then the reverse would be true
+
+1:01:14.660 --> 1:01:16.640
+ if you go into an area of low pressure.
+
+1:01:16.640 --> 1:01:20.180
+ So if you started to drive up the mountainside,
+
+1:01:20.180 --> 1:01:22.160
+ the pressure is getting lower and lower outside.
+
+1:01:22.160 --> 1:01:26.900
+ Now the air behind your eardrum is blooming out, right?
+
+1:01:26.900 --> 1:01:28.720
+ So it's just a question of are you trying to get
+
+1:01:28.720 --> 1:01:31.500
+ more pressure or less pressure behind the eardrum?
+
+1:01:31.500 --> 1:01:32.820
+ And there's a little tube that does that
+
+1:01:32.820 --> 1:01:35.580
+ and comes down into the back of your throat there.
+
+1:01:35.580 --> 1:01:37.620
+ And if you force pressure up that tube,
+
+1:01:37.620 --> 1:01:39.540
+ you're gonna be putting more air pressure
+
+1:01:39.540 --> 1:01:44.540
+ into the compartment to counter it, if it's not enough.
+
+1:01:44.740 --> 1:01:46.500
+ And if you're sucking, you're going the other way.
+
+1:01:46.500 --> 1:01:49.100
+ In reality, I think as long as you open the passageway,
+
+1:01:49.100 --> 1:01:50.780
+ I think the pressure differential
+
+1:01:50.780 --> 1:01:52.220
+ is gonna solve your problem.
+
+1:01:52.220 --> 1:01:54.220
+ So I think you could actually blow in
+
+1:01:54.220 --> 1:01:55.960
+ when you're not, quote, supposed to.
+
+1:01:55.960 --> 1:02:00.180
+ Okay, so you could just hold your nose and blow air out
+
+1:02:00.180 --> 1:02:04.100
+ or hold your nose and suck in the effect.
+
+1:02:04.100 --> 1:02:05.020
+ Either way is fine.
+
+1:02:05.020 --> 1:02:05.860
+ I think so.
+
+1:02:05.860 --> 1:02:09.100
+ Excellent, I just won $100 from Harvey Carton.
+
+1:02:09.100 --> 1:02:10.500
+ Thank you very much.
+
+1:02:10.500 --> 1:02:12.800
+ Harvey and I used to teach in our anatomy together.
+
+1:02:12.800 --> 1:02:14.900
+ And I'll say, I don't think it matters, but thank you.
+
+1:02:14.900 --> 1:02:16.780
+ I'll split that with you.
+
+1:02:16.780 --> 1:02:17.600
+ Okay.
+
+1:02:18.540 --> 1:02:21.940
+ This is important stuff, but it's true.
+
+1:02:21.940 --> 1:02:25.140
+ You hear this, so it doesn't matter either way.
+
+1:02:25.140 --> 1:02:26.860
+ Yeah, I'm no expert in this area.
+
+1:02:26.860 --> 1:02:27.860
+ Don't worry. Don't quote me.
+
+1:02:27.860 --> 1:02:30.540
+ He's not gonna, well, I'm going to quote you, but okay.
+
+1:02:30.540 --> 1:02:32.140
+ So we've talked about the inner ear
+
+1:02:32.140 --> 1:02:33.960
+ and we've talked about the cerebellum.
+
+1:02:33.960 --> 1:02:35.740
+ I want to talk about an area of the brain
+
+1:02:35.740 --> 1:02:39.340
+ that is rarely discussed, which is the midbrain.
+
+1:02:39.340 --> 1:02:40.180
+ Yeah.
+
+1:02:40.180 --> 1:02:42.820
+ And for those that don't know,
+
+1:02:42.820 --> 1:02:45.620
+ the midbrain is an area beneath the cortex.
+
+1:02:45.620 --> 1:02:47.180
+ I guess we never really defined cortex.
+
+1:02:47.180 --> 1:02:48.500
+ It was just kind of the outer layers
+
+1:02:48.500 --> 1:02:52.740
+ or the outer layers of the least mammalian brain
+
+1:02:52.740 --> 1:02:53.580
+ or human brain.
+
+1:02:54.500 --> 1:02:57.140
+ But the midbrain is super interesting
+
+1:02:57.140 --> 1:03:02.140
+ because it controls a lot of unconscious stuff,
+
+1:03:02.420 --> 1:03:03.860
+ reflexes, et cetera.
+
+1:03:05.060 --> 1:03:07.900
+ And then there's this phenomenon even called blindsight.
+
+1:03:07.900 --> 1:03:11.320
+ So could you please tell us about the midbrain,
+
+1:03:11.320 --> 1:03:15.660
+ about what it does and what in the world is blindsight?
+
+1:03:15.660 --> 1:03:19.500
+ Yeah, so there's a lot of pieces there.
+
+1:03:19.500 --> 1:03:22.700
+ I think the first thing to say is if you imagine
+
+1:03:22.700 --> 1:03:25.260
+ the nervous system in your mind's eye,
+
+1:03:25.260 --> 1:03:27.100
+ you see this big honking brain
+
+1:03:27.100 --> 1:03:32.100
+ and then there's this little wand that dangles down
+
+1:03:32.260 --> 1:03:34.540
+ into your vertebral column, the spinal cord,
+
+1:03:34.540 --> 1:03:36.600
+ and that's kind of your visual impression.
+
+1:03:37.780 --> 1:03:40.100
+ What you have to imagine is starting in the spinal cord
+
+1:03:40.100 --> 1:03:42.740
+ and working your way up into this big, magnificent brain.
+
+1:03:42.740 --> 1:03:46.440
+ And what you would do as you enter the skull
+
+1:03:46.440 --> 1:03:48.980
+ is get into a little place where the spinal cord
+
+1:03:48.980 --> 1:03:50.220
+ kind of thickens out.
+
+1:03:50.220 --> 1:03:54.860
+ It still has that sort of long, skinny, trunk-like feeling.
+
+1:03:54.860 --> 1:03:56.700
+ Sort of like a paddle or a spoon shape.
+
+1:03:56.700 --> 1:03:58.540
+ Right, it starts to spread out a little bit
+
+1:03:58.540 --> 1:04:00.520
+ and that's because your evolution has packed
+
+1:04:00.520 --> 1:04:02.100
+ more interesting goodies in there
+
+1:04:02.100 --> 1:04:05.340
+ for processing information and generating movement.
+
+1:04:05.340 --> 1:04:09.780
+ So beyond that is this tween brain.
+
+1:04:09.780 --> 1:04:12.220
+ You were talking about this link, this linker brain.
+
+1:04:12.220 --> 1:04:14.860
+ Diencephalon really means the between brain.
+
+1:04:14.860 --> 1:04:16.060
+ Oh, I thought you said tween.
+
+1:04:16.060 --> 1:04:16.900
+ Well, it is, yes.
+
+1:04:16.900 --> 1:04:18.420
+ No, no, between, between.
+
+1:04:18.420 --> 1:04:19.780
+ Sorry, I thought you said tween.
+
+1:04:19.780 --> 1:04:22.460
+ Yeah, it's the between, it's the between brain
+
+1:04:22.460 --> 1:04:24.340
+ is what the name means.
+
+1:04:24.340 --> 1:04:27.780
+ It's the linker from the spinal cord in the periphery
+
+1:04:27.780 --> 1:04:30.420
+ up to these grand centers of the cortex.
+
+1:04:30.420 --> 1:04:33.340
+ But this midbrain you're talking about
+
+1:04:33.340 --> 1:04:37.280
+ is the last bit of this enlarged sort of spinal cord-y thing
+
+1:04:37.280 --> 1:04:39.540
+ in your skull, which is really the brainstem
+
+1:04:39.540 --> 1:04:40.980
+ is what we call it.
+
+1:04:40.980 --> 1:04:43.900
+ The last bit of that before you get to this relay
+
+1:04:43.900 --> 1:04:46.980
+ up to the cortex is the midbrain.
+
+1:04:46.980 --> 1:04:49.580
+ And there's a really important visual center there.
+
+1:04:49.580 --> 1:04:51.540
+ It's called the superior colliculus.
+
+1:04:52.380 --> 1:04:54.580
+ There's a similar center in the brains
+
+1:04:54.580 --> 1:04:56.380
+ of other vertebrate animals.
+
+1:04:56.380 --> 1:04:59.060
+ A frog, for example, or a lizard would have this.
+
+1:04:59.060 --> 1:05:01.420
+ It's called the optic tectum there.
+
+1:05:01.420 --> 1:05:06.420
+ But it's a center that in these non-mammalian vertebrates
+
+1:05:06.420 --> 1:05:08.360
+ is really the main visual center.
+
+1:05:09.360 --> 1:05:11.960
+ They don't really have what we would call a visual cortex,
+
+1:05:11.960 --> 1:05:14.080
+ although there's something sort of like that.
+
+1:05:14.080 --> 1:05:15.560
+ But this is where most of the action is
+
+1:05:15.560 --> 1:05:17.680
+ in terms of interpreting visual input
+
+1:05:17.680 --> 1:05:20.560
+ and organizing behavior around that.
+
+1:05:22.040 --> 1:05:25.440
+ You can sort of think about this region of the brainstem
+
+1:05:25.440 --> 1:05:30.440
+ as a reflex center that can reorient the animal's gaze
+
+1:05:31.200 --> 1:05:34.600
+ or body, or maybe even attention,
+
+1:05:34.600 --> 1:05:39.400
+ or maybe even attention to particular regions of space
+
+1:05:39.400 --> 1:05:41.600
+ out there around the animal.
+
+1:05:41.600 --> 1:05:43.540
+ And that could be for all kinds of reasons.
+
+1:05:43.540 --> 1:05:45.780
+ I mean, it might be a predator just showed up
+
+1:05:45.780 --> 1:05:48.520
+ in one corner of the forest and you pick that up
+
+1:05:48.520 --> 1:05:50.000
+ and you're trying to avoid it.
+
+1:05:50.000 --> 1:05:51.040
+ Or just any movement.
+
+1:05:51.040 --> 1:05:52.400
+ Many movement, right?
+
+1:05:52.400 --> 1:05:57.320
+ It might be that suddenly something splats on the page
+
+1:05:57.320 --> 1:05:58.560
+ when you're reading a novel
+
+1:05:58.560 --> 1:06:02.080
+ and your eye reflexly looks at it.
+
+1:06:02.080 --> 1:06:03.240
+ You don't have to think about that.
+
+1:06:03.240 --> 1:06:04.200
+ That's a reflex.
+
+1:06:04.200 --> 1:06:07.320
+ What if you throw me a ball, but I'm not expecting it,
+
+1:06:07.320 --> 1:06:10.720
+ and I just reach up and try and grab it, catch it or not?
+
+1:06:10.720 --> 1:06:12.320
+ Is that handled by the midbrain?
+
+1:06:12.320 --> 1:06:14.960
+ Well, that's probably not the midbrain,
+
+1:06:14.960 --> 1:06:17.120
+ although, I mean, by itself,
+
+1:06:17.120 --> 1:06:19.720
+ because it's going to involve all these limb movements,
+
+1:06:19.720 --> 1:06:21.520
+ this movement of your arm and body.
+
+1:06:23.040 --> 1:06:25.680
+ What about ducking if something's suddenly thrown at my head?
+
+1:06:25.680 --> 1:06:26.500
+ Sure, right.
+
+1:06:26.500 --> 1:06:29.000
+ Things like that will certainly have a brainstem component,
+
+1:06:29.000 --> 1:06:30.760
+ a midbrain component.
+
+1:06:30.760 --> 1:06:32.300
+ Something looms and you duck.
+
+1:06:32.300 --> 1:06:35.740
+ It may not be the superior colliculus we're talking about.
+
+1:06:35.740 --> 1:06:38.140
+ Now, it might be another part of the visual midbrain,
+
+1:06:38.140 --> 1:06:40.700
+ but these are centers that emerged early
+
+1:06:40.700 --> 1:06:42.900
+ in the evolution of brains like ours
+
+1:06:42.900 --> 1:06:45.740
+ to handle complicated visual events
+
+1:06:45.740 --> 1:06:47.940
+ that have significance for the animal.
+
+1:06:47.940 --> 1:06:50.620
+ In terms of space, where is it in space?
+
+1:06:50.620 --> 1:06:53.340
+ And in fact, this same center actually gets input
+
+1:06:53.340 --> 1:06:55.220
+ from all kinds of other sensory systems
+
+1:06:55.220 --> 1:06:57.820
+ that take information from the external world,
+
+1:06:57.820 --> 1:06:59.540
+ from particular locations,
+
+1:06:59.540 --> 1:07:01.340
+ and where you might want to either avoid
+
+1:07:01.340 --> 1:07:04.660
+ or approach things according to their significance to you.
+
+1:07:04.660 --> 1:07:07.740
+ So, you get input from the touch system.
+
+1:07:07.740 --> 1:07:10.540
+ You get input from the auditory system.
+
+1:07:10.540 --> 1:07:12.460
+ I worked for a while in rattlesnakes.
+
+1:07:12.460 --> 1:07:16.740
+ They get input from a part of their warm sensors
+
+1:07:16.740 --> 1:07:17.580
+ on their face.
+
+1:07:17.580 --> 1:07:19.500
+ They're in these little pits on the face.
+
+1:07:19.500 --> 1:07:21.260
+ They used to work on baby rattlesnakes, right?
+
+1:07:21.260 --> 1:07:23.020
+ Well, they were adults, actually.
+
+1:07:23.020 --> 1:07:24.660
+ Oh, I wasn't trying to diminish the danger.
+
+1:07:24.660 --> 1:07:26.340
+ I thought for some reason they were little ones.
+
+1:07:26.340 --> 1:07:27.180
+ No.
+
+1:07:27.180 --> 1:07:29.300
+ Why in the world would you work on rattlesnakes?
+
+1:07:29.300 --> 1:07:32.780
+ Well, because they have a version
+
+1:07:32.780 --> 1:07:34.980
+ of an extra receptive sensory system.
+
+1:07:34.980 --> 1:07:38.020
+ That is, they're looking out into the world
+
+1:07:38.020 --> 1:07:40.060
+ using a completely different set of sensors.
+
+1:07:40.060 --> 1:07:41.300
+ They're using the same sensors
+
+1:07:41.300 --> 1:07:42.980
+ that would feel the warmth on your face
+
+1:07:42.980 --> 1:07:44.900
+ if you stood in front of a bonfire,
+
+1:07:44.900 --> 1:07:47.420
+ except evolution has given them
+
+1:07:47.420 --> 1:07:48.980
+ this very nice specialized system
+
+1:07:48.980 --> 1:07:51.260
+ that lets them image where the heat's coming from.
+
+1:07:51.260 --> 1:07:52.940
+ You can sort of do that anyway, right?
+
+1:07:52.940 --> 1:07:55.260
+ If you walk around the fire,
+
+1:07:55.260 --> 1:07:59.260
+ you can feel where the fire is from the heat coming in.
+
+1:07:59.260 --> 1:08:00.460
+ It's hitting your face.
+
+1:08:00.460 --> 1:08:04.300
+ Is that the primary way in which they detect prey?
+
+1:08:04.300 --> 1:08:06.660
+ It's one of the major ways.
+
+1:08:06.660 --> 1:08:09.100
+ And in fact, they use vision as well.
+
+1:08:09.100 --> 1:08:11.100
+ And they bring these two systems together
+
+1:08:11.100 --> 1:08:13.660
+ in the same place, in this tectum region,
+
+1:08:13.660 --> 1:08:15.340
+ this brain stem, midbrain region.
+
+1:08:15.340 --> 1:08:17.580
+ What's all the tongue jutting about when the snakes?
+
+1:08:17.580 --> 1:08:19.080
+ That I don't know.
+
+1:08:19.080 --> 1:08:20.380
+ That may be olfactory.
+
+1:08:20.380 --> 1:08:21.220
+ There may be-
+
+1:08:21.220 --> 1:08:22.220
+ They're sniffing the air with their tongue?
+
+1:08:22.220 --> 1:08:23.060
+ Yeah, there may be-
+
+1:08:23.060 --> 1:08:24.780
+ Early air in our drive,
+
+1:08:24.780 --> 1:08:27.020
+ you told me that flies actually taste things
+
+1:08:27.020 --> 1:08:27.860
+ with their feet.
+
+1:08:27.860 --> 1:08:28.700
+ They do, yeah.
+
+1:08:28.700 --> 1:08:29.540
+ That's so weird.
+
+1:08:29.540 --> 1:08:33.300
+ Yeah, they have taste receptors in lots of funny places.
+
+1:08:33.300 --> 1:08:34.920
+ I want to pause here just for one second
+
+1:08:34.920 --> 1:08:36.500
+ before we get back into the midbrain.
+
+1:08:36.500 --> 1:08:40.120
+ I think what's so interesting in all seriousness
+
+1:08:40.120 --> 1:08:45.040
+ about taste receptors on feet, heat sensors,
+
+1:08:45.040 --> 1:08:47.660
+ tongues jutting out of snakes,
+
+1:08:47.660 --> 1:08:49.360
+ and vision and all this integration
+
+1:08:49.360 --> 1:08:51.980
+ is that it really speaks to the fact
+
+1:08:51.980 --> 1:08:55.020
+ that all these sensory neurons
+
+1:08:55.020 --> 1:08:57.820
+ are trying to gather information
+
+1:08:57.820 --> 1:08:59.740
+ and stuff it into a system
+
+1:08:59.740 --> 1:09:03.300
+ that can make meaningful decisions and actions.
+
+1:09:03.300 --> 1:09:04.660
+ And that it really doesn't matter
+
+1:09:04.660 --> 1:09:06.720
+ whether or not it's coming from eyes or ears or nose
+
+1:09:06.720 --> 1:09:08.540
+ or bottoms of feet,
+
+1:09:08.540 --> 1:09:11.500
+ because in the end it's just electricity flowing in.
+
+1:09:11.500 --> 1:09:14.900
+ And so it sounds like it's placed on each animal.
+
+1:09:14.900 --> 1:09:17.340
+ It's always feels weird to call fly an animal,
+
+1:09:17.340 --> 1:09:19.540
+ but they are creatures.
+
+1:09:19.540 --> 1:09:20.440
+ They are animals.
+
+1:09:21.420 --> 1:09:23.780
+ It's placed in different locations on different animals,
+
+1:09:23.780 --> 1:09:26.700
+ depending on the particular needs of that animal.
+
+1:09:26.700 --> 1:09:29.180
+ Right, but how much more powerful
+
+1:09:29.180 --> 1:09:32.860
+ if the nervous systems can also cross-correlate
+
+1:09:32.860 --> 1:09:34.960
+ across sensory systems?
+
+1:09:34.960 --> 1:09:38.140
+ So if you've got a weak signal from one sensory system,
+
+1:09:38.140 --> 1:09:40.360
+ you're not quite sure there's something there.
+
+1:09:40.360 --> 1:09:43.020
+ And a weak signal from another sensory system
+
+1:09:43.020 --> 1:09:44.820
+ that's telling you the same locations
+
+1:09:44.820 --> 1:09:46.340
+ is a little bit interesting.
+
+1:09:46.340 --> 1:09:47.780
+ There might be something there.
+
+1:09:47.780 --> 1:09:50.540
+ If you've got those two together, you've got corroboration.
+
+1:09:50.540 --> 1:09:53.140
+ Your brain now says it's much more likely
+
+1:09:53.140 --> 1:09:55.720
+ that that's gonna be something
+
+1:09:55.720 --> 1:09:56.900
+ worth paying attention to.
+
+1:09:56.900 --> 1:09:59.580
+ Right, so maybe I'm feeling some heat
+
+1:09:59.580 --> 1:10:01.140
+ on one side of my face
+
+1:10:02.280 --> 1:10:05.860
+ and I also smell something baking in the oven.
+
+1:10:05.860 --> 1:10:08.220
+ So now neither is particularly strong,
+
+1:10:08.220 --> 1:10:10.420
+ but as you said, there's some corroboration
+
+1:10:10.420 --> 1:10:12.500
+ and that corroboration is occurring in the midbrain.
+
+1:10:12.500 --> 1:10:16.000
+ Right, and then if you throw things into conflict,
+
+1:10:16.000 --> 1:10:17.340
+ now the brain is confused
+
+1:10:17.340 --> 1:10:20.040
+ and that may be where your motion sickness comes from.
+
+1:10:20.040 --> 1:10:23.020
+ So it's great to have, as a brain,
+
+1:10:23.020 --> 1:10:24.780
+ it's great to have as many sources of information
+
+1:10:24.780 --> 1:10:28.580
+ as you can have, just like if you're a spy
+
+1:10:28.580 --> 1:10:30.620
+ or a journalist, you don't want as much information
+
+1:10:30.620 --> 1:10:33.080
+ as you can get about what's out there.
+
+1:10:33.080 --> 1:10:35.660
+ But if things conflict, that's problematic, right?
+
+1:10:35.660 --> 1:10:37.340
+ Your sources are giving you different information
+
+1:10:37.340 --> 1:10:38.520
+ about what's going on.
+
+1:10:38.520 --> 1:10:39.860
+ Now you've got a problem on your hands.
+
+1:10:39.860 --> 1:10:40.860
+ What do you publish?
+
+1:10:42.000 --> 1:10:43.540
+ The midbrain is so fascinating.
+
+1:10:43.540 --> 1:10:46.340
+ I don't wanna eject us from the midbrain
+
+1:10:46.340 --> 1:10:47.860
+ and go back to the vestibular system,
+
+1:10:47.860 --> 1:10:49.680
+ but I do have a question that I forgot to ask
+
+1:10:49.680 --> 1:10:50.780
+ about the vestibular system,
+
+1:10:50.780 --> 1:10:53.820
+ which is why is it that for many people, including me,
+
+1:10:53.820 --> 1:10:56.420
+ there's despite my motion sickness in cabs,
+
+1:10:56.420 --> 1:11:00.820
+ that there's a sense of pleasure in moving through space
+
+1:11:00.820 --> 1:11:02.260
+ and getting tilted relative
+
+1:11:02.260 --> 1:11:04.180
+ to the gravitational pull of the earth.
+
+1:11:04.180 --> 1:11:05.680
+ For me growing up, it was skateboarding,
+
+1:11:05.680 --> 1:11:08.800
+ but people like to corner in cars, corner on bikes.
+
+1:11:10.140 --> 1:11:13.340
+ It may be for some people it's done running or dance,
+
+1:11:13.340 --> 1:11:16.300
+ but what is it about moving through space
+
+1:11:16.300 --> 1:11:19.680
+ and getting tilted, a lot of surfers around here,
+
+1:11:19.680 --> 1:11:24.680
+ getting tilted that can tap into some of the pleasure centers?
+
+1:11:25.340 --> 1:11:26.900
+ Do we have any idea why that would feel good?
+
+1:11:26.900 --> 1:11:28.620
+ I have no clue.
+
+1:11:28.620 --> 1:11:31.460
+ Is there a dopaminergic input to this system?
+
+1:11:31.460 --> 1:11:36.220
+ Well, the dopaminergic system gets a lot of places.
+
+1:11:37.020 --> 1:11:40.300
+ It's pretty much, to some extent,
+
+1:11:40.300 --> 1:11:41.340
+ everywhere in the cortex,
+
+1:11:41.340 --> 1:11:43.500
+ a lot more in the frontal lobe, of course,
+
+1:11:43.500 --> 1:11:45.880
+ but that's just for starters.
+
+1:11:45.880 --> 1:11:47.900
+ I mean, there's basically dopaminergic innervation
+
+1:11:47.900 --> 1:11:50.300
+ in most places in the central nervous system,
+
+1:11:50.300 --> 1:11:52.720
+ so there's the potential for dopaminergic involvement,
+
+1:11:52.720 --> 1:11:55.820
+ but I really have no clue about the tilting phenomenon.
+
+1:11:55.820 --> 1:11:58.020
+ People pay money to go on roller coasters.
+
+1:11:58.020 --> 1:11:58.860
+ Right.
+
+1:11:58.860 --> 1:12:00.660
+ Well, I think that may be as much about the thrill
+
+1:12:00.660 --> 1:12:01.500
+ as anything else.
+
+1:12:01.500 --> 1:12:05.140
+ Sure, and the falling reflex is very robust in all of us.
+
+1:12:05.140 --> 1:12:07.180
+ When the visual world's going up very fast,
+
+1:12:07.180 --> 1:12:08.900
+ it usually means that we're falling,
+
+1:12:08.900 --> 1:12:10.740
+ but in some people like that, some people don't.
+
+1:12:10.740 --> 1:12:14.660
+ Right, and kids tolerate a lot more
+
+1:12:14.660 --> 1:12:16.740
+ sort of vestibular craziness spinning around
+
+1:12:16.740 --> 1:12:18.460
+ until they drop.
+
+1:12:18.460 --> 1:12:21.420
+ Well, I've friends, it always, you know,
+
+1:12:21.420 --> 1:12:23.620
+ worries me a little bit that they throw their kids.
+
+1:12:23.620 --> 1:12:25.000
+ I'm not recommending anyone do this.
+
+1:12:25.000 --> 1:12:25.860
+ When they're little kids, you know,
+
+1:12:25.860 --> 1:12:28.980
+ like throwing the kids really far back and forth,
+
+1:12:28.980 --> 1:12:30.420
+ some kids seem to love it.
+
+1:12:30.420 --> 1:12:31.260
+ Yeah.
+
+1:12:31.260 --> 1:12:33.900
+ Yeah, our son loved being shaken up and down
+
+1:12:33.900 --> 1:12:37.220
+ very, very vigorously.
+
+1:12:37.220 --> 1:12:39.280
+ That's the only thing that would calm him down sometimes.
+
+1:12:39.280 --> 1:12:40.280
+ Interesting.
+
+1:12:40.280 --> 1:12:43.820
+ Yeah, so I'm guessing, we can guess
+
+1:12:43.820 --> 1:12:47.460
+ that maybe there's some activation of the reward systems
+
+1:12:47.460 --> 1:12:50.220
+ from moving through space.
+
+1:12:50.220 --> 1:12:51.860
+ Well, I mean, if you think about, you know,
+
+1:12:51.860 --> 1:12:54.820
+ how rewarding it is to be able to move through space
+
+1:12:54.820 --> 1:12:57.940
+ and how unhappy people are who are used to that,
+
+1:12:57.940 --> 1:12:59.700
+ who suddenly aren't able to do that,
+
+1:12:59.700 --> 1:13:01.740
+ there is a sense of agency, right?
+
+1:13:01.740 --> 1:13:05.260
+ If you can choose to move through the world and to tilt,
+
+1:13:05.260 --> 1:13:06.800
+ that's not only you're moving through the world,
+
+1:13:06.800 --> 1:13:08.460
+ but you're doing it with a certain amount of finesse.
+
+1:13:08.460 --> 1:13:09.340
+ Maybe that's what it is.
+
+1:13:09.340 --> 1:13:13.280
+ You can feel like you're the master of your own movement
+
+1:13:13.280 --> 1:13:15.180
+ in a way that you wouldn't if you're going straight.
+
+1:13:15.180 --> 1:13:17.180
+ I'm just blowing smoke here, right?
+
+1:13:17.180 --> 1:13:18.460
+ Yeah, well, we can speculate.
+
+1:13:18.460 --> 1:13:19.300
+ That's fine.
+
+1:13:19.300 --> 1:13:21.440
+ I couldn't help but ask the question.
+
+1:13:21.440 --> 1:13:25.040
+ Okay, so if we move ourselves, pun intended,
+
+1:13:25.040 --> 1:13:27.260
+ back into the midbrain,
+
+1:13:27.260 --> 1:13:29.120
+ the midbrain's combining all these different signals
+
+1:13:29.120 --> 1:13:31.180
+ for reflexive action.
+
+1:13:31.180 --> 1:13:34.920
+ At what point does this become deliberate action?
+
+1:13:34.920 --> 1:13:36.780
+ Because if I look at something I want
+
+1:13:36.780 --> 1:13:39.180
+ and I want to pursue it, I'm going to go toward it.
+
+1:13:39.180 --> 1:13:42.360
+ And many times that's a deliberate decision.
+
+1:13:42.360 --> 1:13:43.200
+ Right.
+
+1:13:43.200 --> 1:13:46.700
+ So this gets very slippery, I think,
+
+1:13:46.700 --> 1:13:49.300
+ because what you have to try to imagine
+
+1:13:49.300 --> 1:13:51.020
+ is all these different parts of the brain
+
+1:13:51.020 --> 1:13:53.980
+ working on the problem of staying alive
+
+1:13:56.220 --> 1:13:59.020
+ and surviving in the world.
+
+1:13:59.020 --> 1:14:01.120
+ They're working on the problem simultaneously.
+
+1:14:01.120 --> 1:14:04.960
+ And there's not one right answer to how to do that.
+
+1:14:06.300 --> 1:14:09.880
+ But one way to think about it is that
+
+1:14:09.880 --> 1:14:11.760
+ you have high levels of your nervous system
+
+1:14:11.760 --> 1:14:16.100
+ that are very well designed to override
+
+1:14:16.100 --> 1:14:19.580
+ an otherwise automatic movement if it's inappropriate.
+
+1:14:19.580 --> 1:14:20.420
+ So if you've imagined,
+
+1:14:20.420 --> 1:14:23.740
+ you've been invited to tea with the queen
+
+1:14:23.740 --> 1:14:28.740
+ and she hands you a very fancy Wedgwood tea cup, very thin.
+
+1:14:29.740 --> 1:14:30.860
+ Wedgwood tea cup.
+
+1:14:30.860 --> 1:14:33.020
+ Yes, with very hot tea in it
+
+1:14:33.020 --> 1:14:34.100
+ and you're burning your hand,
+
+1:14:34.100 --> 1:14:36.160
+ you probably will try to find a way
+
+1:14:36.160 --> 1:14:37.620
+ to put that back down on the saucer
+
+1:14:37.620 --> 1:14:40.140
+ rather than just dropping it on the floor
+
+1:14:40.140 --> 1:14:42.780
+ because you're with the queen.
+
+1:14:42.780 --> 1:14:45.520
+ You're trying to be appropriate to that.
+
+1:14:45.520 --> 1:14:49.380
+ So you have ways of reining in automatic behaviors
+
+1:14:49.380 --> 1:14:51.180
+ if they're gonna be maladaptive.
+
+1:14:52.140 --> 1:14:54.580
+ But you also want the reflex to work quickly
+
+1:14:54.580 --> 1:14:56.060
+ if it's the only thing that's gonna save you,
+
+1:14:56.060 --> 1:14:58.340
+ the looming object coming at your head.
+
+1:14:58.340 --> 1:15:00.300
+ You don't have time to think about that.
+
+1:15:00.300 --> 1:15:01.900
+ So this is the interplay
+
+1:15:03.080 --> 1:15:05.260
+ in these hierarchically organized centers
+
+1:15:05.260 --> 1:15:06.100
+ of the nervous system.
+
+1:15:06.100 --> 1:15:09.500
+ At the lowest level, you've got the automatic sensors
+
+1:15:09.500 --> 1:15:14.460
+ and centers and reflex arcs that will keep you safe
+
+1:15:14.460 --> 1:15:16.700
+ even if you don't have time to think about it.
+
+1:15:16.700 --> 1:15:18.700
+ And then you've got the higher center saying,
+
+1:15:18.700 --> 1:15:20.600
+ well, maybe we could do this as well
+
+1:15:20.600 --> 1:15:23.460
+ or maybe we shouldn't do that at all, right?
+
+1:15:23.460 --> 1:15:25.660
+ So you have all of these different levels
+
+1:15:25.660 --> 1:15:27.500
+ operating simultaneously
+
+1:15:27.500 --> 1:15:30.580
+ and you need bi-directional communication
+
+1:15:30.580 --> 1:15:34.580
+ between high level cognitive centers,
+
+1:15:34.580 --> 1:15:37.700
+ decision-making on the one hand
+
+1:15:37.700 --> 1:15:40.260
+ and these low level, very helpful reflexive centers,
+
+1:15:40.260 --> 1:15:43.420
+ but they're a little bit rigid, a little hardwired,
+
+1:15:43.420 --> 1:15:44.500
+ so they need some nuance.
+
+1:15:44.500 --> 1:15:47.380
+ So both of these things are operating in tandem,
+
+1:15:47.380 --> 1:15:49.820
+ in real time, all the time in our brains.
+
+1:15:49.820 --> 1:15:51.740
+ And sometimes we listen more to one than the other.
+
+1:15:51.740 --> 1:15:53.940
+ You've heard people in sports talking about
+
+1:15:55.020 --> 1:15:57.520
+ messing up at the plate because they overthought it,
+
+1:15:57.520 --> 1:15:58.980
+ thinking too hard about it.
+
+1:15:58.980 --> 1:16:01.860
+ That's partly, you've already trained your cerebellum
+
+1:16:01.860 --> 1:16:04.940
+ how to hit a fastball right down the middle.
+
+1:16:04.940 --> 1:16:08.060
+ Right, and if you start looking for something new
+
+1:16:08.060 --> 1:16:11.100
+ or different, you're going to mess up your reflexive swing.
+
+1:16:11.100 --> 1:16:12.920
+ Right, if you're trying to think about the physics
+
+1:16:12.920 --> 1:16:14.980
+ of the ball as it's coming at you,
+
+1:16:14.980 --> 1:16:16.340
+ you've already missed, right?
+
+1:16:16.340 --> 1:16:18.740
+ Because you're not using your,
+
+1:16:18.740 --> 1:16:22.220
+ all those reps have built a kind of knowledge
+
+1:16:22.220 --> 1:16:23.660
+ is what you want to rely on
+
+1:16:23.660 --> 1:16:27.100
+ when you don't have enough time to contemplate.
+
+1:16:28.180 --> 1:16:30.300
+ This is important and a great segue
+
+1:16:30.300 --> 1:16:32.960
+ for what I'd like to discuss next,
+
+1:16:32.960 --> 1:16:35.880
+ which is the basal ganglia.
+
+1:16:35.880 --> 1:16:38.200
+ This really interesting area of the brain
+
+1:16:38.200 --> 1:16:43.200
+ that's involved in go type commands and behaviors,
+
+1:16:43.500 --> 1:16:46.460
+ instructing us to do things and no go,
+
+1:16:46.460 --> 1:16:47.760
+ preventing us from doing things.
+
+1:16:47.760 --> 1:16:50.700
+ Because so much of motor learning and skill execution
+
+1:16:50.700 --> 1:16:55.660
+ and not saying the wrong thing or sitting still in class
+
+1:16:55.660 --> 1:16:57.920
+ or as you used with the, you know,
+
+1:16:57.920 --> 1:16:59.480
+ tea with the queen example,
+
+1:16:59.480 --> 1:17:03.900
+ feeling discomfort involves suppressing behavior.
+
+1:17:03.900 --> 1:17:05.820
+ And sometimes it's activating behavior.
+
+1:17:05.820 --> 1:17:07.420
+ A tremendous amount of online attention
+
+1:17:07.420 --> 1:17:11.220
+ is devoted to trying to get people motivated.
+
+1:17:11.220 --> 1:17:13.320
+ You know, this isn't the main focus of our podcast.
+
+1:17:13.320 --> 1:17:15.060
+ We touch on some of the underlying neural circuits
+
+1:17:15.060 --> 1:17:17.420
+ of motivation, dopamine, and so forth.
+
+1:17:17.420 --> 1:17:20.840
+ But so much of what people struggle with out there
+
+1:17:20.840 --> 1:17:25.840
+ are elements around failure to pay attention
+
+1:17:26.320 --> 1:17:28.300
+ or challenges in paying attention,
+
+1:17:28.300 --> 1:17:30.400
+ which is essentially like putting the blinders on there,
+
+1:17:30.400 --> 1:17:32.660
+ you know, getting a soda straw view of the world
+
+1:17:32.660 --> 1:17:34.700
+ and maintaining that for a bout of work
+
+1:17:34.700 --> 1:17:38.900
+ or something of that sort and trying to get into action.
+
+1:17:38.900 --> 1:17:42.420
+ So of course, this is carried out by many neural circuits,
+
+1:17:42.420 --> 1:17:43.580
+ not just the basal ganglia,
+
+1:17:43.580 --> 1:17:45.820
+ but what are the basal ganglia
+
+1:17:45.820 --> 1:17:47.900
+ and what are their primary roles
+
+1:17:47.900 --> 1:17:51.920
+ in controlling go type behavior and no go type behavior?
+
+1:17:51.920 --> 1:17:55.460
+ Yeah, so I mean, the basal ganglia are sitting deep
+
+1:17:55.460 --> 1:17:57.900
+ in what you would call the forebrain.
+
+1:17:57.900 --> 1:18:00.540
+ So the highest levels of the brain,
+
+1:18:00.540 --> 1:18:05.460
+ they're sort of cousins to the cerebral cortex,
+
+1:18:05.460 --> 1:18:07.440
+ which we talked about is sort of the highest level
+
+1:18:07.440 --> 1:18:09.900
+ of your brain, the thing you're thinking with.
+
+1:18:09.900 --> 1:18:11.860
+ Cerebral cortex being the refined cousins,
+
+1:18:11.860 --> 1:18:14.220
+ and then you've got the, you know, the brutes.
+
+1:18:14.220 --> 1:18:17.300
+ Yeah, I mean, that's probably totally unfair,
+
+1:18:17.300 --> 1:18:18.620
+ but that's all right.
+
+1:18:18.620 --> 1:18:19.580
+ I like the basal ganglia.
+
+1:18:19.580 --> 1:18:22.700
+ I can relate to the brutish parts of the brain.
+
+1:18:22.700 --> 1:18:23.900
+ A little bit of hypothalamus,
+
+1:18:23.900 --> 1:18:25.620
+ a little bit of basal ganglia, sure.
+
+1:18:25.620 --> 1:18:27.820
+ We need it all, we need it all.
+
+1:18:27.820 --> 1:18:31.860
+ And, you know, this area of the brain
+
+1:18:31.860 --> 1:18:35.340
+ has gotten a lot bigger as the cortex has gotten bigger,
+
+1:18:35.340 --> 1:18:39.340
+ and it's deeply intertwined with cortical function.
+
+1:18:39.340 --> 1:18:41.580
+ The cortex can't really do what it needs to do
+
+1:18:41.580 --> 1:18:43.740
+ without the help of the basal ganglia and vice versa.
+
+1:18:43.740 --> 1:18:46.560
+ So they're really intertwined.
+
+1:18:48.800 --> 1:18:51.580
+ And in a way, you can think about this logically
+
+1:18:51.580 --> 1:18:54.180
+ as saying, you know, if you have the ability
+
+1:18:54.180 --> 1:18:57.340
+ to withhold behavior or to execute it,
+
+1:18:57.340 --> 1:18:58.900
+ how do you decide which to do?
+
+1:18:58.900 --> 1:19:01.720
+ Well, the cortex is gonna have to do that thinking for you.
+
+1:19:01.720 --> 1:19:04.340
+ You have to be looking at all the contingencies
+
+1:19:04.340 --> 1:19:07.700
+ of your situation to decide, is this a crazy move?
+
+1:19:07.700 --> 1:19:10.260
+ Or is this a really smart investment right now?
+
+1:19:10.260 --> 1:19:11.500
+ Or, you know, what?
+
+1:19:11.500 --> 1:19:13.100
+ I don't wanna go out for a run in the morning,
+
+1:19:13.100 --> 1:19:15.260
+ but I'm gonna make myself go out for a run.
+
+1:19:15.260 --> 1:19:17.820
+ Or I'm having a great time out on a run,
+
+1:19:17.820 --> 1:19:19.020
+ and I know I need to get back,
+
+1:19:19.020 --> 1:19:20.740
+ but I kind of wanna go another mile.
+
+1:19:20.740 --> 1:19:22.580
+ I mean, another great example is that, you know,
+
+1:19:22.580 --> 1:19:24.700
+ the marshmallow test for the little kids, you know,
+
+1:19:24.700 --> 1:19:28.740
+ they can get two marshmallows if they hold off, you know,
+
+1:19:28.740 --> 1:19:31.180
+ just 30 seconds initially, you know.
+
+1:19:31.180 --> 1:19:32.540
+ They can have one right away,
+
+1:19:32.540 --> 1:19:34.300
+ but if they can wait 30 seconds, they got two, you know.
+
+1:19:34.300 --> 1:19:37.200
+ So that's the no-go because their cortex is saying,
+
+1:19:37.200 --> 1:19:38.700
+ you know, I would really like to have two
+
+1:19:38.700 --> 1:19:40.020
+ more than having one,
+
+1:19:41.020 --> 1:19:42.500
+ but they're not gonna get the two
+
+1:19:42.500 --> 1:19:45.700
+ unless they can not reach for the one.
+
+1:19:45.700 --> 1:19:49.660
+ So they've got to hold off the action,
+
+1:19:49.660 --> 1:19:53.380
+ and that has to result from a cognitive process.
+
+1:19:53.380 --> 1:19:56.660
+ So the cortex is involved in this in a major way.
+
+1:19:57.780 --> 1:19:59.020
+ Yeah, as I recall in that experiment,
+
+1:19:59.020 --> 1:20:01.020
+ the kids used a variety of tools to,
+
+1:20:01.020 --> 1:20:03.020
+ some would distract themselves.
+
+1:20:03.020 --> 1:20:04.420
+ I particularly related to the kid
+
+1:20:04.420 --> 1:20:07.340
+ that would just put himself right next to the marshmallows,
+
+1:20:07.340 --> 1:20:09.980
+ and then some of the kids covered their eyes.
+
+1:20:09.980 --> 1:20:11.860
+ Some of them would count or sing.
+
+1:20:11.860 --> 1:20:13.320
+ Yeah, so that's all very cortical, right?
+
+1:20:13.320 --> 1:20:15.100
+ Coming up with a novel strategy.
+
+1:20:15.100 --> 1:20:16.600
+ Simple example that we're using here,
+
+1:20:16.600 --> 1:20:17.740
+ but of course, this is at play.
+
+1:20:17.740 --> 1:20:20.260
+ Anytime someone decides they wanna go watch
+
+1:20:20.260 --> 1:20:21.920
+ a motivational speech or something,
+
+1:20:21.920 --> 1:20:24.300
+ just, you know, a Steve Jobs commencement speech
+
+1:20:24.300 --> 1:20:26.500
+ just to get motivated to engage in their day.
+
+1:20:26.500 --> 1:20:28.420
+ Should I take this new job?
+
+1:20:28.420 --> 1:20:30.060
+ You know, it's got great benefits,
+
+1:20:30.060 --> 1:20:32.120
+ but it's in a lousy part of the country.
+
+1:20:32.120 --> 1:20:36.120
+ Why do you think that some people have a harder time
+
+1:20:36.120 --> 1:20:38.180
+ running these go-no-go circuits,
+
+1:20:38.180 --> 1:20:39.460
+ and other people seem to have
+
+1:20:39.460 --> 1:20:42.720
+ very low activation energy, we would say.
+
+1:20:42.720 --> 1:20:44.780
+ They can just, you know, they have a task,
+
+1:20:44.780 --> 1:20:46.100
+ they just lean into the task.
+
+1:20:46.100 --> 1:20:49.100
+ Whereas some people getting into task completion
+
+1:20:49.100 --> 1:20:52.500
+ or things of that sort is very challenging for them.
+
+1:20:52.500 --> 1:20:54.940
+ Yeah, I mean, I think it's really just another,
+
+1:20:54.940 --> 1:20:57.340
+ it's a special case of a very general phenomenon,
+
+1:20:57.340 --> 1:21:00.340
+ which is brains are complicated.
+
+1:21:00.340 --> 1:21:02.980
+ And brains, you know, the brains we have
+
+1:21:02.980 --> 1:21:07.060
+ are the result of genetics and experience.
+
+1:21:07.060 --> 1:21:08.860
+ And my genes are different from your genes,
+
+1:21:08.860 --> 1:21:11.060
+ and my experiences are different from your experiences.
+
+1:21:11.060 --> 1:21:13.620
+ So the things that will be easy or hard for us
+
+1:21:13.620 --> 1:21:15.380
+ won't necessarily be aligned.
+
+1:21:15.380 --> 1:21:18.700
+ They might just happen to be just because they are.
+
+1:21:18.700 --> 1:21:23.700
+ But the point is that you're dealt a certain set of cards,
+
+1:21:23.980 --> 1:21:27.660
+ you have a certain set of genes, you are handed a brain.
+
+1:21:27.660 --> 1:21:30.340
+ You don't choose your brain, it's handed to you.
+
+1:21:30.340 --> 1:21:32.340
+ But then there's all this stuff you can do with it.
+
+1:21:32.340 --> 1:21:37.340
+ You know, you can learn to have new skills
+
+1:21:38.360 --> 1:21:41.260
+ or to act differently or to show more restraint,
+
+1:21:41.260 --> 1:21:43.860
+ which is kind of relevant to what we're talking about here.
+
+1:21:43.860 --> 1:21:47.220
+ Or maybe show less restraint if your problem is
+
+1:21:47.220 --> 1:21:49.260
+ you're so buttoned down, you never have any fun in life
+
+1:21:49.260 --> 1:21:50.900
+ and you should loosen up a little bit.
+
+1:21:50.900 --> 1:21:51.740
+ Thank you.
+
+1:21:51.740 --> 1:21:52.740
+ I appreciate the insult.
+
+1:21:52.740 --> 1:21:53.580
+ Yeah.
+
+1:21:53.580 --> 1:21:54.400
+ Yeah.
+
+1:21:54.400 --> 1:21:55.240
+ Yeah.
+
+1:21:55.240 --> 1:21:56.460
+ David's always encouraged me
+
+1:21:56.460 --> 1:21:58.220
+ to have a little more fun in life.
+
+1:21:59.940 --> 1:22:04.120
+ So basal ganglia are, they're kind of the disciplinarian
+
+1:22:04.120 --> 1:22:07.660
+ or they're sort of the instructor or conductor of sorts.
+
+1:22:07.660 --> 1:22:08.500
+ Right?
+
+1:22:08.500 --> 1:22:11.460
+ Go, no go, you know, you be quiet, you start now.
+
+1:22:11.460 --> 1:22:14.940
+ I wish I knew more about the basal ganglia than I do.
+
+1:22:14.940 --> 1:22:19.380
+ My sense is that it, you know, this system is key
+
+1:22:19.380 --> 1:22:22.460
+ for implementing the plans that get cooked up
+
+1:22:22.460 --> 1:22:27.460
+ in the cortex, but they also influence the plans
+
+1:22:27.680 --> 1:22:30.580
+ that the cortex is dishing out
+
+1:22:30.580 --> 1:22:33.740
+ because this is a major source of information
+
+1:22:33.740 --> 1:22:34.580
+ to the cortex.
+
+1:22:34.580 --> 1:22:36.940
+ So it becomes almost impossible to figure out
+
+1:22:37.920 --> 1:22:40.680
+ where the computation begins and where it ends
+
+1:22:40.680 --> 1:22:42.820
+ and who's doing what because these things
+
+1:22:42.820 --> 1:22:45.820
+ are all interacting in a complex network.
+
+1:22:45.820 --> 1:22:47.620
+ And it's all of it, it's the whole network.
+
+1:22:47.620 --> 1:22:49.420
+ It's not, you know, one is the leader
+
+1:22:49.420 --> 1:22:50.540
+ and the other is the follower.
+
+1:22:50.540 --> 1:22:51.380
+ Right, of course.
+
+1:22:51.380 --> 1:22:53.360
+ Yeah, these are, all the structures that we're discussing
+
+1:22:53.360 --> 1:22:55.460
+ are working in parallel.
+
+1:22:55.460 --> 1:22:56.280
+ Right.
+
+1:22:56.280 --> 1:22:59.180
+ And there's a lot of changing crosstalk.
+
+1:22:59.180 --> 1:23:03.300
+ I have this somewhat sick habit, David,
+
+1:23:03.300 --> 1:23:06.220
+ every day I try and do 21 no-gos.
+
+1:23:06.220 --> 1:23:10.260
+ So if I want to reach for my phone, I try and not do it
+
+1:23:10.260 --> 1:23:12.100
+ just to see if I can prevent myself
+
+1:23:12.100 --> 1:23:13.620
+ from engaging in that behavior.
+
+1:23:13.620 --> 1:23:17.340
+ If it was reflexive, if it's something I want to do,
+
+1:23:17.340 --> 1:23:19.900
+ a deliberate choice, then I certainly allow myself
+
+1:23:19.900 --> 1:23:20.740
+ to do it. Right.
+
+1:23:20.740 --> 1:23:22.900
+ I don't tend to have too much trouble with motivation,
+
+1:23:22.900 --> 1:23:25.900
+ with go-type functions, mostly because I'm so busy
+
+1:23:25.900 --> 1:23:30.900
+ that I wish I had more time for more go's, so to speak.
+
+1:23:31.100 --> 1:23:33.140
+ But do you think these circuits
+
+1:23:33.140 --> 1:23:35.100
+ have genuine plasticity in them?
+
+1:23:35.100 --> 1:23:37.300
+ Absolutely, I mean, everybody knows
+
+1:23:37.300 --> 1:23:39.580
+ how they've learned over time
+
+1:23:39.580 --> 1:23:41.620
+ to wait for the two marshmallows, right?
+
+1:23:41.620 --> 1:23:43.100
+ You know, you don't have to have
+
+1:23:43.100 --> 1:23:44.900
+ instant gratification all the time.
+
+1:23:44.900 --> 1:23:48.420
+ You're willing to do a job sometimes
+
+1:23:48.420 --> 1:23:49.500
+ that isn't your favorite job
+
+1:23:49.500 --> 1:23:50.900
+ because it comes with the territory
+
+1:23:50.900 --> 1:23:52.840
+ and you want the salary that comes at the end of the week
+
+1:23:52.840 --> 1:23:54.220
+ or the end of the month, right?
+
+1:23:54.220 --> 1:23:57.280
+ So we can defer gratification.
+
+1:23:57.280 --> 1:23:59.940
+ You know, we can choose not to say the thing
+
+1:23:59.940 --> 1:24:01.940
+ that we know is gonna inflame our partner
+
+1:24:01.940 --> 1:24:05.020
+ and create a meltdown for the next week.
+
+1:24:05.020 --> 1:24:07.960
+ You know, we learn this control,
+
+1:24:07.960 --> 1:24:10.220
+ but I think these are skills like any other.
+
+1:24:10.220 --> 1:24:13.080
+ You can get better at them if you practice them.
+
+1:24:13.080 --> 1:24:15.960
+ So I think you're choosing to do that spontaneously.
+
+1:24:15.960 --> 1:24:18.020
+ It's kind of a, you know, it's a mental practice.
+
+1:24:18.020 --> 1:24:18.860
+ It's a discipline.
+
+1:24:18.860 --> 1:24:21.760
+ It's a way of building a skill that you wanna have.
+
+1:24:21.760 --> 1:24:23.520
+ Yeah, I find it to be something
+
+1:24:23.520 --> 1:24:28.260
+ that when I engage in a no-go type situation,
+
+1:24:29.860 --> 1:24:32.040
+ then the next time and the next time
+
+1:24:32.040 --> 1:24:34.640
+ that I find myself about to move reflexively,
+
+1:24:34.640 --> 1:24:36.320
+ there's a little gap in consciousness
+
+1:24:36.320 --> 1:24:38.240
+ that I can make a decision
+
+1:24:38.240 --> 1:24:40.820
+ whether or not this is really the best use of my time.
+
+1:24:40.820 --> 1:24:43.160
+ Because I sometimes wonder whether or not
+
+1:24:43.160 --> 1:24:45.440
+ all this business around attention,
+
+1:24:45.440 --> 1:24:46.960
+ certainly there's the case of ADHD
+
+1:24:46.960 --> 1:24:48.680
+ and clinical diagnosed ADHD,
+
+1:24:48.680 --> 1:24:51.200
+ but all these, the issue around focus and attention
+
+1:24:51.200 --> 1:24:53.440
+ is really that people just have not really learned
+
+1:24:53.440 --> 1:24:56.260
+ how to short circuit a reflex.
+
+1:24:56.260 --> 1:24:59.140
+ And so much of what makes us different than rattlesnakes
+
+1:24:59.140 --> 1:25:01.120
+ or, well, actually they could be deliberate,
+
+1:25:01.120 --> 1:25:03.240
+ but from the other animals
+
+1:25:03.240 --> 1:25:06.400
+ and is our ability to suppress reflex.
+
+1:25:06.400 --> 1:25:08.800
+ Yeah, well, that's the cortex.
+
+1:25:08.800 --> 1:25:10.040
+ Let's just say the forebrain.
+
+1:25:10.040 --> 1:25:12.600
+ Cortex and basal ganglia are working together,
+
+1:25:12.600 --> 1:25:15.600
+ sitting on top of this lizard brain
+
+1:25:15.600 --> 1:25:17.920
+ that's giving you all these great adaptive reflexes
+
+1:25:17.920 --> 1:25:19.440
+ that help you survive.
+
+1:25:19.440 --> 1:25:22.400
+ You just hope you don't get the surprising case
+
+1:25:22.400 --> 1:25:24.640
+ where the thing that your reflex is telling you
+
+1:25:24.640 --> 1:25:26.160
+ is actually exactly the wrong thing
+
+1:25:26.160 --> 1:25:28.280
+ and you make a mistake, right?
+
+1:25:28.280 --> 1:25:29.880
+ Right, so that's what the cortex is for.
+
+1:25:29.880 --> 1:25:33.760
+ It's adding nuance and context and experience,
+
+1:25:33.760 --> 1:25:36.720
+ past association and in human beings,
+
+1:25:36.720 --> 1:25:41.320
+ obviously learning from others through communication.
+
+1:25:41.320 --> 1:25:43.600
+ Well, I was, you went right to it
+
+1:25:44.480 --> 1:25:45.680
+ and it was where I was gonna go.
+
+1:25:45.680 --> 1:25:47.060
+ So let's talk about the cortex.
+
+1:25:47.060 --> 1:25:49.400
+ We've worked our way up the so-called neuroaxis
+
+1:25:49.400 --> 1:25:52.600
+ as the aficionados will know.
+
+1:25:52.600 --> 1:25:54.080
+ So we're in the cortex.
+
+1:25:54.080 --> 1:25:55.840
+ This is the seat of our higher consciousness,
+
+1:25:55.840 --> 1:25:58.200
+ self-image, planning and action.
+
+1:25:58.200 --> 1:26:00.480
+ But as you mentioned, the cortex isn't just about that.
+
+1:26:00.480 --> 1:26:02.920
+ It's got other regions that are involved in other things.
+
+1:26:02.920 --> 1:26:05.560
+ So maybe we should, staying with vision,
+
+1:26:05.560 --> 1:26:07.840
+ let's talk a little bit about visual cortex.
+
+1:26:07.840 --> 1:26:11.760
+ You told me a story, an amazing story about visual cortex.
+
+1:26:11.760 --> 1:26:13.800
+ And it was somewhat of a sad story, unfortunately,
+
+1:26:13.800 --> 1:26:17.000
+ about someone who had a stroke to visual cortex.
+
+1:26:17.900 --> 1:26:20.240
+ Maybe if you would share that story,
+
+1:26:20.240 --> 1:26:23.200
+ because I think it illustrates many important principles
+
+1:26:23.200 --> 1:26:25.040
+ about what the cortex does.
+
+1:26:25.040 --> 1:26:29.640
+ Right, so the visual cortex is,
+
+1:26:29.640 --> 1:26:31.560
+ you could say the projection screen,
+
+1:26:31.560 --> 1:26:35.720
+ the first place where this information streaming
+
+1:26:35.720 --> 1:26:39.240
+ from the retina through this thalamus,
+
+1:26:39.240 --> 1:26:43.360
+ connecting linker gets played out
+
+1:26:43.360 --> 1:26:47.600
+ for the highest level of your brain to see.
+
+1:26:47.600 --> 1:26:48.760
+ I mean, it's a representation.
+
+1:26:48.760 --> 1:26:52.520
+ It's a map of things going on in the visual world
+
+1:26:52.520 --> 1:26:54.020
+ that's in your brain.
+
+1:26:55.120 --> 1:27:00.120
+ And when we describe a scene to a friend,
+
+1:27:00.120 --> 1:27:02.400
+ we're using this chunk of our brain
+
+1:27:02.400 --> 1:27:03.520
+ to be able to put words,
+
+1:27:03.520 --> 1:27:06.360
+ which are coming from a different part of our cortex,
+
+1:27:06.360 --> 1:27:09.240
+ to the objects and movements and colors
+
+1:27:09.240 --> 1:27:10.640
+ that we see in the world.
+
+1:27:12.320 --> 1:27:16.520
+ So, you know, that's a key part of your visual experience.
+
+1:27:16.520 --> 1:27:19.320
+ When you can describe the things you're seeing,
+
+1:27:19.320 --> 1:27:22.120
+ you're looking at your visual cortex.
+
+1:27:22.120 --> 1:27:22.960
+ And this is-
+
+1:27:22.960 --> 1:27:23.800
+ Could I just ask a quick question?
+
+1:27:23.800 --> 1:27:26.160
+ So right now, because I'm looking at your face.
+
+1:27:26.160 --> 1:27:26.980
+ Right.
+
+1:27:26.980 --> 1:27:29.160
+ As we're talking, there are neurons
+
+1:27:29.160 --> 1:27:31.800
+ in my brain, more or less in the configuration
+
+1:27:31.800 --> 1:27:36.800
+ of your face that are active as you move about.
+
+1:27:36.840 --> 1:27:41.840
+ And what if I were to close my eyes and just imagine,
+
+1:27:42.560 --> 1:27:44.000
+ I do this all the time, by the way, David,
+
+1:27:44.000 --> 1:27:47.960
+ I close my eyes and I imagine David Berson's face.
+
+1:27:47.960 --> 1:27:50.160
+ I don't tend to do that as often, maybe I should,
+
+1:27:50.160 --> 1:27:51.280
+ but you get the point.
+
+1:27:51.280 --> 1:27:54.880
+ I'm now using visualization of what you look like
+
+1:27:54.880 --> 1:27:56.280
+ by way of memory.
+
+1:27:56.280 --> 1:27:58.680
+ If we were to image the neurons in my brain,
+
+1:27:58.680 --> 1:28:03.480
+ would the activity of neurons resemble the activity
+
+1:28:03.480 --> 1:28:07.640
+ of neurons that's present when I open my eyes
+
+1:28:07.640 --> 1:28:08.680
+ and look at your actual face?
+
+1:28:08.680 --> 1:28:10.040
+ This is a deep question.
+
+1:28:10.040 --> 1:28:12.960
+ We don't really have a full accounting yet.
+
+1:28:12.960 --> 1:28:13.960
+ Seems like an easy experiment to do.
+
+1:28:13.960 --> 1:28:17.120
+ Yes, except, you know, you're talking about looking
+
+1:28:17.120 --> 1:28:21.640
+ in detail at the activity of neurons in a human brain,
+
+1:28:21.640 --> 1:28:24.200
+ and that's not as easy to do as it would be
+
+1:28:24.200 --> 1:28:26.480
+ in some kind of animal model.
+
+1:28:26.480 --> 1:28:30.120
+ But, you know, the bottom line is that you have
+
+1:28:30.120 --> 1:28:33.360
+ a spatial representation of the visual world,
+
+1:28:33.360 --> 1:28:35.760
+ laid as a map of the visual world,
+
+1:28:35.760 --> 1:28:37.920
+ laid out on the surface of your cortex.
+
+1:28:37.920 --> 1:28:41.600
+ The thing that's surprising is that it's not one map.
+
+1:28:41.600 --> 1:28:43.880
+ It's actually dozens of maps.
+
+1:28:43.880 --> 1:28:45.440
+ What do each of those maps do?
+
+1:28:45.440 --> 1:28:47.800
+ Well, we don't really have a full accounting there either,
+
+1:28:47.800 --> 1:28:51.360
+ but it looks a little bit like the diversification
+
+1:28:51.360 --> 1:28:54.040
+ of the output neurons of the retina,
+
+1:28:54.040 --> 1:28:56.120
+ the ganglion cells we were talking about before.
+
+1:28:56.120 --> 1:28:58.040
+ There are different types of ganglion cells
+
+1:28:58.040 --> 1:29:00.160
+ that are encoding different kinds of information
+
+1:29:00.160 --> 1:29:01.160
+ about the visual world.
+
+1:29:01.160 --> 1:29:04.240
+ We talk about the ones that were encoding the brightness,
+
+1:29:04.240 --> 1:29:06.880
+ but other ones are encoding motion or color,
+
+1:29:06.880 --> 1:29:08.000
+ these kinds of things.
+
+1:29:08.000 --> 1:29:09.760
+ The same kinds of specializations
+
+1:29:09.760 --> 1:29:12.160
+ in different representations of the visual world
+
+1:29:12.160 --> 1:29:15.200
+ in the cortex seem to be true.
+
+1:29:15.200 --> 1:29:16.400
+ It's a complex story.
+
+1:29:16.400 --> 1:29:19.120
+ We don't have the whole picture yet,
+
+1:29:19.120 --> 1:29:21.000
+ but it does look as if some parts of the brain
+
+1:29:21.000 --> 1:29:24.680
+ are much more important for things like reaching
+
+1:29:24.680 --> 1:29:27.440
+ for things in the space around you,
+
+1:29:27.440 --> 1:29:29.320
+ and other parts of the cortex are really important
+
+1:29:29.320 --> 1:29:32.040
+ for making associations between particular visual things
+
+1:29:32.040 --> 1:29:35.080
+ you're looking at now and their significance.
+
+1:29:35.080 --> 1:29:36.840
+ What is that object?
+
+1:29:36.840 --> 1:29:37.680
+ What can it do for me?
+
+1:29:37.680 --> 1:29:38.880
+ How can I use it?
+
+1:29:38.880 --> 1:29:41.640
+ What about the really specialized areas of cortex,
+
+1:29:41.640 --> 1:29:45.720
+ like the neurons that respond to particular faces
+
+1:29:45.720 --> 1:29:48.920
+ or neurons that, I don't know,
+
+1:29:48.920 --> 1:29:51.560
+ can help me understand where I am
+
+1:29:51.560 --> 1:29:54.040
+ relative to some other specific object?
+
+1:29:54.040 --> 1:29:58.320
+ Right, so these are properties of neurons
+
+1:29:58.320 --> 1:30:03.320
+ that are extracted from, detected by,
+
+1:30:04.680 --> 1:30:06.880
+ recording the activity of single neurons
+
+1:30:06.880 --> 1:30:08.880
+ in some experimental system.
+
+1:30:08.880 --> 1:30:11.240
+ What's going on when you actually perceive
+
+1:30:11.240 --> 1:30:14.760
+ your grandmother's face is a much more complicated question.
+
+1:30:14.760 --> 1:30:16.840
+ It clearly involves hundreds and thousands
+
+1:30:16.840 --> 1:30:20.800
+ and probably millions of neurons acting in a cooperative way.
+
+1:30:20.800 --> 1:30:23.200
+ So you can pick out any one little element
+
+1:30:23.200 --> 1:30:25.360
+ in this very complicated system
+
+1:30:25.360 --> 1:30:27.440
+ and see that it's responding differentially
+
+1:30:27.440 --> 1:30:29.240
+ to certain kinds of visual patterns,
+
+1:30:29.240 --> 1:30:30.920
+ and you think you're seeing a glimpse
+
+1:30:30.920 --> 1:30:32.320
+ of some part of the process
+
+1:30:32.320 --> 1:30:35.440
+ by which you recognize your grandmother's face.
+
+1:30:35.440 --> 1:30:38.240
+ But that's a long way from a complete description,
+
+1:30:38.240 --> 1:30:40.240
+ and it certainly isn't gonna be at the level
+
+1:30:40.240 --> 1:30:43.440
+ of a magic single neuron that has the special stuff
+
+1:30:43.440 --> 1:30:44.640
+ to recognize your grandmother.
+
+1:30:44.640 --> 1:30:46.920
+ It's gonna be in some pattern of activity
+
+1:30:46.920 --> 1:30:49.560
+ across many, many cells,
+
+1:30:49.560 --> 1:30:52.160
+ resonating in some kind of special way
+
+1:30:52.160 --> 1:30:56.840
+ that will represent the internal memory of your mother.
+
+1:30:56.840 --> 1:30:57.680
+ So it was really-
+
+1:30:57.680 --> 1:30:58.520
+ She's really incredible.
+
+1:30:58.520 --> 1:30:59.360
+ Yeah.
+
+1:30:59.360 --> 1:31:00.880
+ I mean, every time we do this deep dive,
+
+1:31:00.880 --> 1:31:02.080
+ which we do from time to time,
+
+1:31:02.080 --> 1:31:04.520
+ you and I, we kind of like march into the nervous system
+
+1:31:04.520 --> 1:31:09.520
+ and explore how different aspects of our life experiences
+
+1:31:09.960 --> 1:31:13.200
+ is handled there and how it's organized.
+
+1:31:15.200 --> 1:31:16.920
+ After so many decades of doing this,
+
+1:31:16.920 --> 1:31:21.680
+ it still boggles my mind that the collection of neurons
+
+1:31:21.680 --> 1:31:26.400
+ one through seven active in a particular sequence
+
+1:31:26.400 --> 1:31:28.920
+ gives the memory of a particular face
+
+1:31:28.920 --> 1:31:32.600
+ and run backwards seven through to one.
+
+1:31:32.600 --> 1:31:33.640
+ It gives you a complete, you know,
+
+1:31:33.640 --> 1:31:38.520
+ could be rattlesnake, pit viper, heat-sensing organs-
+
+1:31:38.520 --> 1:31:39.360
+ Right.
+
+1:31:39.360 --> 1:31:40.960
+ As we were talking about earlier.
+
+1:31:40.960 --> 1:31:43.240
+ So it sounds, is it true that there's a lot
+
+1:31:43.240 --> 1:31:45.520
+ of multi-purposing of the circuitry?
+
+1:31:45.520 --> 1:31:49.280
+ Like we can't say one area of the brain does A
+
+1:31:49.280 --> 1:31:50.960
+ and another area of the brain does B,
+
+1:31:50.960 --> 1:31:55.560
+ so, you know, areas can multitask or have multiple jobs.
+
+1:31:55.560 --> 1:31:56.480
+ They can moonlight.
+
+1:31:56.480 --> 1:31:57.320
+ Right.
+
+1:31:57.320 --> 1:32:01.120
+ But I think in my career,
+
+1:32:01.120 --> 1:32:05.160
+ the hard problem has been to square that
+
+1:32:06.160 --> 1:32:10.880
+ with the fact that, you know, things are specialized,
+
+1:32:10.880 --> 1:32:14.840
+ that there are specific genes expressed in specific neurons
+
+1:32:14.840 --> 1:32:17.160
+ that make them make synaptic connections
+
+1:32:17.160 --> 1:32:19.240
+ with only certain other neurons.
+
+1:32:19.240 --> 1:32:21.880
+ And that particular synaptic arrangement
+
+1:32:21.880 --> 1:32:24.840
+ actually results in the processing of information
+
+1:32:24.840 --> 1:32:28.400
+ that's useful to the animal to survive, right?
+
+1:32:28.400 --> 1:32:31.200
+ So it's not as if it's either
+
+1:32:31.200 --> 1:32:34.640
+ a big undifferentiated network of cells
+
+1:32:34.640 --> 1:32:37.080
+ and looking at any one is never gonna tell you anything.
+
+1:32:37.080 --> 1:32:39.280
+ That's too extreme on the one hand,
+
+1:32:39.280 --> 1:32:41.040
+ nor is it the case that everything is hardwired
+
+1:32:41.040 --> 1:32:42.600
+ and every neuron has one function
+
+1:32:42.600 --> 1:32:45.760
+ and this all happens in one place in the brain.
+
+1:32:45.760 --> 1:32:47.960
+ It's way more complicated and interactive
+
+1:32:47.960 --> 1:32:49.560
+ and interconnected than that.
+
+1:32:49.560 --> 1:32:51.840
+ So we're not hardwired or softwired.
+
+1:32:51.840 --> 1:32:54.920
+ We're sort of, I don't know what the analogy should be.
+
+1:32:54.920 --> 1:32:57.120
+ What substance would work best, David?
+
+1:32:57.120 --> 1:32:58.960
+ No idea there, but you know,
+
+1:32:58.960 --> 1:33:03.440
+ the idea is that it's always network activity.
+
+1:33:03.440 --> 1:33:06.040
+ There's always many, many neurons involved
+
+1:33:06.040 --> 1:33:09.240
+ and yet there's tremendous specificity in the neurons
+
+1:33:09.240 --> 1:33:10.960
+ that might or might not be participating
+
+1:33:10.960 --> 1:33:13.880
+ in any distributed function like that, right?
+
+1:33:13.880 --> 1:33:15.400
+ So you have to get your mind around the fact
+
+1:33:15.400 --> 1:33:18.360
+ that it's both very specific and very nonspecific
+
+1:33:18.360 --> 1:33:19.360
+ at the same time.
+
+1:33:19.360 --> 1:33:20.600
+ It's a little tricky to do,
+
+1:33:20.600 --> 1:33:23.080
+ but I think that's kind of where the truth lies.
+
+1:33:23.080 --> 1:33:27.640
+ Yeah, and so this example that you mentioned to me once
+
+1:33:27.640 --> 1:33:30.640
+ before about a woman who had a stroke and visual cortex,
+
+1:33:30.640 --> 1:33:32.120
+ I think speaks to some of this.
+
+1:33:32.120 --> 1:33:33.340
+ Right.
+
+1:33:33.340 --> 1:33:34.760
+ Could you share with us that story?
+
+1:33:34.760 --> 1:33:38.480
+ Sure, so the point is that you all,
+
+1:33:38.480 --> 1:33:42.280
+ those of us who see have representations
+
+1:33:42.280 --> 1:33:44.680
+ of the visual world and our visual cortex.
+
+1:33:44.680 --> 1:33:49.680
+ What happens to somebody when they become blind
+
+1:33:49.760 --> 1:33:53.460
+ because of problems in the eye, the retina, perhaps?
+
+1:33:54.480 --> 1:33:56.440
+ You have a big chunk of the cortex,
+
+1:33:56.440 --> 1:33:59.540
+ this really valuable real estate for neural processing
+
+1:34:01.020 --> 1:34:05.040
+ that has come to expect input from the visual system
+
+1:34:05.040 --> 1:34:06.480
+ and there isn't any anymore.
+
+1:34:06.480 --> 1:34:08.940
+ So you might think about that as fallow land, right?
+
+1:34:08.940 --> 1:34:13.080
+ It's just, it's unused by the nervous system
+
+1:34:13.080 --> 1:34:13.920
+ and that would be a pity,
+
+1:34:13.920 --> 1:34:16.640
+ but it turns out that it is in fact used.
+
+1:34:18.560 --> 1:34:20.840
+ And the case that you're talking about
+
+1:34:20.840 --> 1:34:25.840
+ is of a woman who was blind from very early in her life
+
+1:34:28.080 --> 1:34:30.400
+ and who had risen through the ranks
+
+1:34:30.400 --> 1:34:33.720
+ to a very high level executive secretarial position
+
+1:34:33.720 --> 1:34:35.340
+ in a major corporation.
+
+1:34:36.180 --> 1:34:38.600
+ And she was extremely good at braille reading
+
+1:34:38.600 --> 1:34:39.720
+ and she had a braille typewriter
+
+1:34:39.720 --> 1:34:41.920
+ and that's how everything was done.
+
+1:34:41.920 --> 1:34:44.960
+ And apparently she had a stroke
+
+1:34:44.960 --> 1:34:46.600
+ and was discovered at work, collapsed,
+
+1:34:46.600 --> 1:34:48.440
+ and they brought her to the hospital.
+
+1:34:48.440 --> 1:34:51.960
+ And apparently the neurologist who saw her
+
+1:34:51.960 --> 1:34:54.480
+ when she finally came to said,
+
+1:34:54.480 --> 1:34:56.160
+ I've got good news and bad news.
+
+1:34:56.160 --> 1:34:57.920
+ Bad news is you've had a stroke.
+
+1:34:57.920 --> 1:35:00.240
+ The good news is that it was in an area of your brain
+
+1:35:00.240 --> 1:35:03.000
+ you're not even using, it's your visual cortex.
+
+1:35:03.000 --> 1:35:04.560
+ And I know you're blind from birth,
+
+1:35:04.560 --> 1:35:06.520
+ so there shouldn't be any issue here.
+
+1:35:06.520 --> 1:35:09.980
+ The problem was she lost her ability to read braille.
+
+1:35:09.980 --> 1:35:12.300
+ So what appears to have been the case,
+
+1:35:12.300 --> 1:35:15.180
+ and this has been confirmed in other ways
+
+1:35:15.180 --> 1:35:17.500
+ by imaging experiments in humans,
+
+1:35:17.500 --> 1:35:20.820
+ is that in people who are blind from very early in birth,
+
+1:35:20.820 --> 1:35:24.020
+ the visual cortex gets repurposed
+
+1:35:24.020 --> 1:35:27.580
+ as a center for processing tactile information.
+
+1:35:27.580 --> 1:35:30.340
+ And especially if you drain to be a good braille reader,
+
+1:35:30.340 --> 1:35:33.140
+ you're actually reallocating somehow
+
+1:35:33.140 --> 1:35:36.340
+ that real estate to your fingertips,
+
+1:35:36.340 --> 1:35:39.060
+ a part of the cortex that should be listening to the eyes.
+
+1:35:39.060 --> 1:35:41.500
+ So that's an extreme level of plasticity,
+
+1:35:41.500 --> 1:35:44.860
+ but what it shows is the visual cortex
+
+1:35:44.860 --> 1:35:47.820
+ is kind of a general purpose processing machine.
+
+1:35:47.820 --> 1:35:50.660
+ It's good at spatial information
+
+1:35:50.660 --> 1:35:52.100
+ and the skin of your fingers
+
+1:35:52.100 --> 1:35:54.100
+ is just another spatial sense
+
+1:35:54.100 --> 1:35:56.420
+ and deprived of any other input.
+
+1:35:56.420 --> 1:35:58.660
+ The brain seems smart enough,
+
+1:35:58.660 --> 1:36:00.140
+ if you want to put it that way,
+
+1:36:00.140 --> 1:36:02.900
+ to rewire itself to use that real estate
+
+1:36:02.900 --> 1:36:06.940
+ for something useful, in this case, reading braille.
+
+1:36:06.940 --> 1:36:10.340
+ Incredible, somewhat tragic, but incredible.
+
+1:36:10.340 --> 1:36:12.260
+ At least in that case, tragic.
+
+1:36:12.260 --> 1:36:13.100
+ Very informative.
+
+1:36:13.100 --> 1:36:14.060
+ Very informative.
+
+1:36:14.060 --> 1:36:16.060
+ And of course it can go the other way too,
+
+1:36:16.060 --> 1:36:20.180
+ where people can gain function in particular modalities
+
+1:36:20.180 --> 1:36:22.660
+ like improved hearing or tactile function
+
+1:36:22.660 --> 1:36:23.940
+ in the absence of vision.
+
+1:36:26.900 --> 1:36:29.340
+ Tell us about connectomes.
+
+1:36:29.340 --> 1:36:31.220
+ We hear about genomes, proteomes,
+
+1:36:31.220 --> 1:36:35.580
+ microbiomes, ohms, ohms, ohms these days.
+
+1:36:35.580 --> 1:36:38.180
+ What's a connectome and why is it valuable?
+
+1:36:38.180 --> 1:36:41.620
+ Yeah, so connectome actually now has two meanings.
+
+1:36:41.620 --> 1:36:46.540
+ So I'll only refer to the one that is my passion right now.
+
+1:36:46.540 --> 1:36:48.260
+ And that is really trying to understand
+
+1:36:48.260 --> 1:36:52.780
+ the structure of nervous tissue at a scale
+
+1:36:53.780 --> 1:36:55.820
+ that's very, very fine.
+
+1:36:56.820 --> 1:36:57.900
+ Smaller than a millimeter.
+
+1:36:57.900 --> 1:37:01.500
+ Way smaller than a millimeter, a nanometer or less.
+
+1:37:01.500 --> 1:37:03.380
+ That's a thousand times smaller.
+
+1:37:03.380 --> 1:37:08.380
+ Or it's actually, you know, a million times smaller.
+
+1:37:09.420 --> 1:37:13.620
+ So really, really tiny on the scale of individual synapses
+
+1:37:13.620 --> 1:37:15.700
+ between individual neurons or even smaller,
+
+1:37:15.700 --> 1:37:17.980
+ like the individual synaptic vesicles
+
+1:37:17.980 --> 1:37:19.660
+ containing little packets of neurotransmitter
+
+1:37:19.660 --> 1:37:22.180
+ that are going to get released to one neuron
+
+1:37:22.180 --> 1:37:23.980
+ to communicate to the next.
+
+1:37:23.980 --> 1:37:28.980
+ So very, very fine, but the notion here is that
+
+1:37:28.980 --> 1:37:33.980
+ you're doing this section after section at very fine scale.
+
+1:37:35.180 --> 1:37:37.620
+ So in theory, what you have is a complete description
+
+1:37:37.620 --> 1:37:41.660
+ of a chunk of nervous tissue that is so complete
+
+1:37:41.660 --> 1:37:43.860
+ that if you took enough time to identify
+
+1:37:43.860 --> 1:37:45.660
+ where the boundaries of all the cells are,
+
+1:37:45.660 --> 1:37:48.100
+ you could come up with a complete description
+
+1:37:48.100 --> 1:37:51.500
+ of the synaptic wiring of that chunk of nervous tissue
+
+1:37:51.500 --> 1:37:52.580
+ because you have a complete description
+
+1:37:52.580 --> 1:37:54.660
+ of where all the cells are and where all the synapses
+
+1:37:54.660 --> 1:37:55.500
+ begin to occur.
+
+1:37:55.500 --> 1:37:57.340
+ So you have a complete description
+
+1:37:57.340 --> 1:37:59.140
+ of where all the cells are and where all the synapses
+
+1:37:59.140 --> 1:38:00.380
+ begin where all the cells are.
+
+1:38:00.380 --> 1:38:02.700
+ So now you essentially have a wiring diagram
+
+1:38:02.700 --> 1:38:04.660
+ of this complicated piece of tissue.
+
+1:38:04.660 --> 1:38:08.540
+ So the omics part is the exhaustiveness of it.
+
+1:38:08.540 --> 1:38:10.620
+ Rather than looking at a couple of synapses
+
+1:38:10.620 --> 1:38:13.860
+ that are interesting to you from two different cell types,
+
+1:38:13.860 --> 1:38:17.980
+ you're looking at all the synapses of all of the cell types,
+
+1:38:17.980 --> 1:38:22.660
+ which of course is this massive avalanche of data, right?
+
+1:38:22.660 --> 1:38:25.340
+ So in genetics, you have genetics and then you have genomics,
+
+1:38:25.340 --> 1:38:27.060
+ which is the idea of getting the whole genome.
+
+1:38:27.060 --> 1:38:27.900
+ All of it.
+
+1:38:27.900 --> 1:38:30.900
+ And we don't really have an analogous word for genetics,
+
+1:38:30.900 --> 1:38:33.180
+ but it would be connectivity and kinomics.
+
+1:38:33.180 --> 1:38:34.020
+ Right.
+
+1:38:34.020 --> 1:38:38.020
+ Excuse me, connectomics, connectivity and connectomics.
+
+1:38:38.020 --> 1:38:40.340
+ Right, so it's wanting it all.
+
+1:38:40.340 --> 1:38:42.700
+ And of course it's crazy ambitious,
+
+1:38:42.700 --> 1:38:45.260
+ but that's where it gets fun.
+
+1:38:45.260 --> 1:38:48.540
+ Really it's a use of electron microscopy,
+
+1:38:48.540 --> 1:38:53.500
+ a very high resolution microscopic imaging system
+
+1:38:53.500 --> 1:38:57.300
+ on a new scale with way more payoff in terms
+
+1:38:57.300 --> 1:38:59.540
+ of understanding the connectivity of the nervous system.
+
+1:38:59.540 --> 1:39:01.540
+ And it's just emerging,
+
+1:39:01.540 --> 1:39:04.300
+ but I really think it's gonna revolutionize the field
+
+1:39:04.300 --> 1:39:07.260
+ because we're gonna be able to query these circuits.
+
+1:39:07.260 --> 1:39:08.580
+ How did they actually do it?
+
+1:39:08.580 --> 1:39:10.260
+ Look at the hardware in a way
+
+1:39:10.260 --> 1:39:12.460
+ that's never been possible before.
+
+1:39:12.460 --> 1:39:15.100
+ The way that I describe this to people is
+
+1:39:15.100 --> 1:39:18.340
+ if you were to take a chunk of kind of cooked
+
+1:39:18.340 --> 1:39:21.780
+ but cold spaghetti and slice it up very thin,
+
+1:39:21.780 --> 1:39:24.820
+ you're trying to connect up each image
+
+1:39:24.820 --> 1:39:28.060
+ of each slice of the edge of the spaghetti
+
+1:39:28.060 --> 1:39:30.820
+ as figure out which ropes of spaghetti belong to which.
+
+1:39:30.820 --> 1:39:32.220
+ And have a complete description
+
+1:39:32.220 --> 1:39:33.780
+ of where this piece of spaghetti touches
+
+1:39:33.780 --> 1:39:34.740
+ that piece of spaghetti
+
+1:39:34.740 --> 1:39:36.300
+ and is there something special there?
+
+1:39:36.300 --> 1:39:38.660
+ Where the meat sauce is and all the other cell types
+
+1:39:38.660 --> 1:39:43.660
+ and the pesto, where it all is around the spaghetti
+
+1:39:43.700 --> 1:39:44.740
+ because those are the other cells,
+
+1:39:44.740 --> 1:39:47.500
+ the blood vessels and the glial cells.
+
+1:39:47.500 --> 1:39:49.780
+ So what's it good for?
+
+1:39:49.780 --> 1:39:51.780
+ I mean, maps are great.
+
+1:39:52.940 --> 1:39:55.660
+ I always think of connectomics and genomics
+
+1:39:55.660 --> 1:40:00.060
+ and proteomics, et cetera, as necessary, but not sufficient.
+
+1:40:00.060 --> 1:40:01.340
+ Right, right.
+
+1:40:01.340 --> 1:40:02.500
+ So, I mean, in many cases,
+
+1:40:02.500 --> 1:40:05.820
+ what you do is you go out and probe the function
+
+1:40:05.820 --> 1:40:07.940
+ and you understand how the brain does the function
+
+1:40:07.940 --> 1:40:10.900
+ by finding neurons that seem to be firing
+
+1:40:10.900 --> 1:40:14.060
+ in association with this function that you're observing.
+
+1:40:14.060 --> 1:40:15.660
+ And little by little, you're working your way in
+
+1:40:15.660 --> 1:40:17.260
+ and now you wanna know what the connectivity is.
+
+1:40:17.260 --> 1:40:19.700
+ Maybe the anatomy could help you.
+
+1:40:19.700 --> 1:40:21.500
+ But this connectomics approach,
+
+1:40:21.500 --> 1:40:24.500
+ or at least the serial electron microscopy reconstruction
+
+1:40:24.500 --> 1:40:28.540
+ of neurons approach really is allowing us
+
+1:40:28.540 --> 1:40:31.620
+ to frame questions starting from the anatomy
+
+1:40:32.580 --> 1:40:35.100
+ and saying, I see a synaptic circuit here.
+
+1:40:35.100 --> 1:40:37.180
+ My prediction would be that these cell types
+
+1:40:37.180 --> 1:40:38.820
+ would interact in a particular way.
+
+1:40:38.820 --> 1:40:40.140
+ Is that right?
+
+1:40:40.140 --> 1:40:42.180
+ And then you can go and probe the physiology
+
+1:40:42.180 --> 1:40:43.740
+ and you might be right or you might be wrong,
+
+1:40:43.740 --> 1:40:45.340
+ but more often than not,
+
+1:40:45.340 --> 1:40:47.420
+ it looks like the structure is pointing us
+
+1:40:47.420 --> 1:40:48.740
+ in the right direction.
+
+1:40:48.740 --> 1:40:53.460
+ So in my case, I'm using this to try to understand a circuit
+
+1:40:53.460 --> 1:40:56.100
+ that is involved in this image stabilization network
+
+1:40:56.100 --> 1:41:00.220
+ we're talking about, keeping things stable on the retina.
+
+1:41:00.220 --> 1:41:02.500
+ And this thing will only respond
+
+1:41:02.500 --> 1:41:04.700
+ at certain speeds of motion.
+
+1:41:04.700 --> 1:41:07.260
+ These cells in the circuit, like slow motion,
+
+1:41:07.260 --> 1:41:09.140
+ they won't respond to fast motion.
+
+1:41:09.140 --> 1:41:10.300
+ How does that come about?
+
+1:41:10.300 --> 1:41:14.020
+ Well, I was able to probe the circuitry.
+
+1:41:14.020 --> 1:41:15.460
+ I knew what my cells looked like.
+
+1:41:15.460 --> 1:41:17.420
+ I could see which other cells were talking to it.
+
+1:41:17.420 --> 1:41:19.060
+ I could categorize all the cells
+
+1:41:19.060 --> 1:41:20.580
+ that might be the players here
+
+1:41:20.580 --> 1:41:22.220
+ that are involved in this mechanism
+
+1:41:22.220 --> 1:41:25.500
+ of tuning the thing for slow speeds.
+
+1:41:25.500 --> 1:41:27.820
+ And then we said, it looks like it's that cell type.
+
+1:41:27.820 --> 1:41:31.100
+ And we went and looked and the data bore that up.
+
+1:41:31.100 --> 1:41:33.300
+ But the anatomy drove the search
+
+1:41:33.300 --> 1:41:34.460
+ for the particular cell type
+
+1:41:34.460 --> 1:41:36.100
+ because we could see it connected
+
+1:41:36.100 --> 1:41:37.980
+ in the right place to the right cells.
+
+1:41:37.980 --> 1:41:40.060
+ So that creates the hypothesis
+
+1:41:40.060 --> 1:41:42.580
+ that lets you go query the physiology,
+
+1:41:42.580 --> 1:41:43.980
+ but it can go the other way as well.
+
+1:41:43.980 --> 1:41:45.140
+ So it's always the synergy
+
+1:41:45.140 --> 1:41:47.700
+ between these functional and structural approaches
+
+1:41:47.700 --> 1:41:51.260
+ that gives you the most lift.
+
+1:41:51.260 --> 1:41:53.620
+ But in many cases,
+
+1:41:53.620 --> 1:41:56.620
+ the anatomy has been a little bit the weak sister in this,
+
+1:41:56.620 --> 1:41:59.100
+ the structure, trying to work out the diagram
+
+1:41:59.100 --> 1:42:00.860
+ because we haven't had the methods.
+
+1:42:00.860 --> 1:42:02.620
+ Now the methods exist.
+
+1:42:02.620 --> 1:42:05.700
+ And this whole field is expanding very quickly
+
+1:42:05.700 --> 1:42:08.220
+ because people want these circuit diagrams
+
+1:42:08.220 --> 1:42:10.860
+ for the particular part of the nervous system
+
+1:42:10.860 --> 1:42:12.380
+ that they're working on.
+
+1:42:12.380 --> 1:42:14.260
+ If you don't know the cell types and the connections,
+
+1:42:14.260 --> 1:42:17.380
+ how do you really understand how the machine works?
+
+1:42:17.380 --> 1:42:18.820
+ Yeah, what I love about it is
+
+1:42:18.820 --> 1:42:20.580
+ we don't know what we don't know.
+
+1:42:20.580 --> 1:42:22.700
+ And as scientists, we don't ask questions.
+
+1:42:22.700 --> 1:42:25.460
+ We pose hypotheses, hypotheses being, of course,
+
+1:42:25.460 --> 1:42:29.260
+ some prediction that you wager your time on basically.
+
+1:42:29.260 --> 1:42:32.300
+ And it either turns out to be true or not true.
+
+1:42:33.220 --> 1:42:37.580
+ But if you don't know that a particular cell type is there,
+
+1:42:37.580 --> 1:42:42.540
+ you could never in any configuration of life
+
+1:42:42.540 --> 1:42:46.540
+ or a career or exploration of a nervous system
+
+1:42:46.540 --> 1:42:49.300
+ wager a hypothesis because you didn't know it was there.
+
+1:42:49.300 --> 1:42:50.140
+ So this allows you to say,
+
+1:42:50.140 --> 1:42:52.900
+ ah, there's a little interesting little connection
+
+1:42:52.900 --> 1:42:54.980
+ between this cell that I know is interesting
+
+1:42:54.980 --> 1:42:56.660
+ and another cell that's a little mysterious,
+
+1:42:56.660 --> 1:42:59.060
+ but interesting, I'm going to hypothesize
+
+1:42:59.060 --> 1:43:01.260
+ that it's doing blank, blank, and blank and go test that.
+
+1:43:01.260 --> 1:43:03.420
+ And in the absence of these connectomes,
+
+1:43:03.420 --> 1:43:04.540
+ you would never know that that cell
+
+1:43:04.540 --> 1:43:06.540
+ was lurking there in the shadows.
+
+1:43:06.540 --> 1:43:07.980
+ Right, right.
+
+1:43:07.980 --> 1:43:09.500
+ Yeah, and if you're just trying to understand
+
+1:43:09.500 --> 1:43:14.220
+ how information flows through this biological machine,
+
+1:43:14.220 --> 1:43:16.380
+ you want to know where things are.
+
+1:43:16.380 --> 1:43:18.620
+ Neuro-transmitters are dumped out of the terminals
+
+1:43:18.620 --> 1:43:21.860
+ of one cell and they diffuse across the space
+
+1:43:21.860 --> 1:43:24.580
+ between the two cells, which is kind of a liquidy space,
+
+1:43:24.580 --> 1:43:26.700
+ and they hit some receptors on the post-synaptic cell
+
+1:43:26.700 --> 1:43:28.060
+ and they have some impact.
+
+1:43:28.900 --> 1:43:31.380
+ Sometimes that's not through a regular synapse.
+
+1:43:31.380 --> 1:43:33.060
+ Sometimes it's through a neuromodulator,
+
+1:43:33.060 --> 1:43:35.820
+ like you often talk about on your podcast
+
+1:43:35.820 --> 1:43:38.180
+ that are sort of oozing dopamine, exactly,
+
+1:43:38.180 --> 1:43:40.500
+ oozing into the space between the cells,
+
+1:43:40.500 --> 1:43:42.660
+ and it may be acting at some distance
+
+1:43:42.660 --> 1:43:44.980
+ far from where it was released, right?
+
+1:43:44.980 --> 1:43:47.140
+ But if you don't know where the release is happening
+
+1:43:47.140 --> 1:43:49.140
+ and where other things are that might respond
+
+1:43:49.140 --> 1:43:52.460
+ to that release, you're groping around in the dark.
+
+1:43:52.460 --> 1:43:54.060
+ Well, I love that you are doing this,
+
+1:43:54.060 --> 1:43:57.740
+ and I have to share with the listeners
+
+1:43:57.740 --> 1:44:00.420
+ that the first time I ever met David,
+
+1:44:00.420 --> 1:44:03.180
+ and every time I've ever met with him in person,
+
+1:44:03.180 --> 1:44:06.180
+ at least at his laboratory at Brown,
+
+1:44:06.180 --> 1:44:08.700
+ he was in his office, door closed,
+
+1:44:08.700 --> 1:44:11.700
+ drawing neurons and their connections.
+
+1:44:11.700 --> 1:44:13.660
+ And this is somewhat unusual for somebody
+
+1:44:13.660 --> 1:44:16.460
+ who's a, you know, endowed full professor,
+
+1:44:16.460 --> 1:44:19.220
+ chairman of the department, et cetera, for many years,
+
+1:44:19.220 --> 1:44:20.860
+ to be doing the hands-on work.
+
+1:44:20.860 --> 1:44:22.740
+ Typically that's the stuff that's done by technicians
+
+1:44:22.740 --> 1:44:24.140
+ or graduate students or post-docs,
+
+1:44:24.140 --> 1:44:28.060
+ but I think it's fair to say that you really love
+
+1:44:28.060 --> 1:44:31.420
+ looking at nervous systems and drawing
+
+1:44:31.420 --> 1:44:34.900
+ the accurate renditions of how those nervous systems
+
+1:44:34.900 --> 1:44:37.300
+ are organized and thinking about how they work.
+
+1:44:37.300 --> 1:44:38.780
+ Yeah, it's pure joy for me.
+
+1:44:38.780 --> 1:44:40.420
+ I mean, I'm a very visual person.
+
+1:44:40.420 --> 1:44:41.540
+ My wife is an artist.
+
+1:44:41.540 --> 1:44:43.500
+ We look at a lot of art together.
+
+1:44:43.500 --> 1:44:47.540
+ Just the forms of things are gorgeous in their own right,
+
+1:44:47.540 --> 1:44:51.260
+ but to know that the form is, in a sense, the function,
+
+1:44:51.260 --> 1:44:55.540
+ that the architecture of the connectivity
+
+1:44:55.540 --> 1:44:59.420
+ is how the computation happens in the brain at some level,
+
+1:44:59.420 --> 1:45:02.820
+ even though we don't fully understand that in most contexts,
+
+1:45:02.820 --> 1:45:05.380
+ gives me great joy, because I'm working on something
+
+1:45:05.380 --> 1:45:09.860
+ that's both visually beautiful, but also deeply beautiful
+
+1:45:09.860 --> 1:45:14.860
+ and it's sort of a higher sort of knowledge context.
+
+1:45:15.220 --> 1:45:17.580
+ You know, what is it all about?
+
+1:45:17.580 --> 1:45:18.420
+ Love it.
+
+1:45:18.420 --> 1:45:21.540
+ Well, as a final question, I get asked very often
+
+1:45:21.540 --> 1:45:24.060
+ about how people should learn about neuroscience
+
+1:45:25.340 --> 1:45:27.260
+ or how they should go about pursuing
+
+1:45:27.260 --> 1:45:28.700
+ maybe an education in neuroscience
+
+1:45:28.700 --> 1:45:30.300
+ if they're at that stage of their life
+
+1:45:30.300 --> 1:45:34.020
+ or that's appropriate for their current trajectory.
+
+1:45:34.020 --> 1:45:37.060
+ Do you have any advice to young people, old people,
+
+1:45:37.060 --> 1:45:39.700
+ and anything in between about how to learn
+
+1:45:39.700 --> 1:45:42.460
+ about the nervous system, maybe in a more formal way?
+
+1:45:42.460 --> 1:45:43.860
+ I mean, obviously we have our podcast.
+
+1:45:43.860 --> 1:45:45.740
+ There are other sources
+
+1:45:45.740 --> 1:45:47.100
+ of neuroscience information out there,
+
+1:45:47.100 --> 1:45:49.340
+ but for the young person who thinks
+
+1:45:49.340 --> 1:45:51.580
+ they want to understand the brain,
+
+1:45:51.580 --> 1:45:53.780
+ they want to learn about the brain,
+
+1:45:53.780 --> 1:45:55.060
+ what should we tell them?
+
+1:45:55.060 --> 1:45:56.340
+ Well, that's a great question.
+
+1:45:56.340 --> 1:45:57.860
+ And there's so many sources out there.
+
+1:45:57.860 --> 1:45:59.260
+ It's almost a question of, you know,
+
+1:45:59.260 --> 1:46:01.060
+ how do you deal with this avalanche
+
+1:46:01.060 --> 1:46:02.820
+ of information out there?
+
+1:46:02.820 --> 1:46:04.540
+ I mean, I think our podcast is a great way
+
+1:46:04.540 --> 1:46:06.740
+ for people to learn more about the nervous system
+
+1:46:06.740 --> 1:46:08.260
+ in an accessible way.
+
+1:46:08.260 --> 1:46:09.740
+ But there's so much stuff out there.
+
+1:46:09.740 --> 1:46:10.940
+ And it's not just that.
+
+1:46:10.940 --> 1:46:13.940
+ I mean, the resources are becoming more and more available
+
+1:46:13.940 --> 1:46:16.980
+ for average folks to participate
+
+1:46:16.980 --> 1:46:19.260
+ in neuroscience research on some level.
+
+1:46:19.260 --> 1:46:20.940
+ There's this famous eye wire project
+
+1:46:20.940 --> 1:46:21.780
+ of Sebastian Sommer.
+
+1:46:21.780 --> 1:46:23.260
+ Oh yeah, maybe tell us about eye wire.
+
+1:46:23.260 --> 1:46:24.580
+ Yeah, so that's connectomics.
+
+1:46:24.580 --> 1:46:29.220
+ And that's a situation where a very clever scientist realized
+
+1:46:29.220 --> 1:46:33.860
+ that the physical work of doing all this reconstruction
+
+1:46:33.860 --> 1:46:37.260
+ of neurons from these electron micrographs,
+
+1:46:37.260 --> 1:46:39.940
+ there's a lot of time involved.
+
+1:46:39.940 --> 1:46:42.420
+ Many, many person hours have to go into that
+
+1:46:42.420 --> 1:46:46.380
+ to come up with the map that you want of where the cells are.
+
+1:46:46.380 --> 1:46:49.260
+ And he was very clever about setting up a context
+
+1:46:49.260 --> 1:46:51.380
+ in which he could crowdsource this.
+
+1:46:51.380 --> 1:46:52.220
+ And people who were interested
+
+1:46:52.220 --> 1:46:54.780
+ in getting a little experience looking at nervous tissue
+
+1:46:54.780 --> 1:46:57.460
+ and participating in a research project
+
+1:46:57.460 --> 1:46:59.660
+ could learn how to do this and do a little bit.
+
+1:46:59.660 --> 1:47:00.500
+ From their living room.
+
+1:47:00.500 --> 1:47:01.820
+ From their living room, their laptop.
+
+1:47:01.820 --> 1:47:03.460
+ We'll put a link to eye wire.
+
+1:47:03.460 --> 1:47:04.620
+ It also is a great bridge
+
+1:47:04.620 --> 1:47:06.500
+ between what we were just talking about, connectomics
+
+1:47:06.500 --> 1:47:08.900
+ and actually participating in research.
+
+1:47:08.900 --> 1:47:12.140
+ And you don't need a graduate mentor or anything like that.
+
+1:47:12.140 --> 1:47:14.660
+ Right, so more of this is coming.
+
+1:47:14.660 --> 1:47:17.380
+ And I'm actually interested in building more of this
+
+1:47:18.260 --> 1:47:20.180
+ so that people who are interested,
+
+1:47:20.180 --> 1:47:21.580
+ wanna participate at some level,
+
+1:47:21.580 --> 1:47:24.540
+ don't necessarily have the time or resources
+
+1:47:24.540 --> 1:47:27.220
+ to get involved in laboratory research
+
+1:47:27.220 --> 1:47:28.860
+ and can get exposed to it
+
+1:47:28.860 --> 1:47:30.980
+ and participate and actually contribute.
+
+1:47:32.060 --> 1:47:34.620
+ So I think that's one thing.
+
+1:47:34.620 --> 1:47:38.220
+ I mean, just asking questions of the people around you
+
+1:47:38.220 --> 1:47:39.340
+ who know a little bit more
+
+1:47:39.340 --> 1:47:41.180
+ and have them point you in the right direction.
+
+1:47:41.180 --> 1:47:42.580
+ Here's a book you might like to read.
+
+1:47:42.580 --> 1:47:45.780
+ There's lots of great popular books out there
+
+1:47:45.780 --> 1:47:48.700
+ that are accessible that will give you some more sense
+
+1:47:48.700 --> 1:47:51.700
+ of the full range of what's out there in the neurosciences
+
+1:47:51.700 --> 1:47:52.540
+ and how-
+
+1:47:52.540 --> 1:47:54.820
+ We can put some links to a few of those that we like
+
+1:47:54.820 --> 1:47:56.260
+ on basic neuroscience.
+
+1:47:56.260 --> 1:47:57.820
+ My good friend, Dick Masland,
+
+1:47:57.820 --> 1:48:00.380
+ the late Richard, people will call him Dick,
+
+1:48:00.380 --> 1:48:02.340
+ Dick Masland had a good book.
+
+1:48:03.820 --> 1:48:05.380
+ I forget the title at the moment.
+
+1:48:05.380 --> 1:48:07.380
+ It's sitting behind me somewhere over there on the shelf,
+
+1:48:07.380 --> 1:48:10.580
+ but about vision and how nervous systems work.
+
+1:48:10.580 --> 1:48:12.620
+ A pretty accessible book for the general public.
+
+1:48:12.620 --> 1:48:13.540
+ Right, right.
+
+1:48:13.540 --> 1:48:16.620
+ So that, and there's so many sources out there.
+
+1:48:16.620 --> 1:48:18.140
+ I mean, Wikipedia is a great way.
+
+1:48:18.140 --> 1:48:20.180
+ If you had a particular question about visual function,
+
+1:48:20.180 --> 1:48:21.900
+ I would say, by all means,
+
+1:48:21.900 --> 1:48:25.580
+ head to Wikipedia and get the first look
+
+1:48:25.580 --> 1:48:27.540
+ and follow the references from there
+
+1:48:27.540 --> 1:48:30.300
+ or go to your library or, you know,
+
+1:48:30.300 --> 1:48:31.980
+ there's so many ways to get into it.
+
+1:48:31.980 --> 1:48:33.940
+ It's such an exciting field now.
+
+1:48:33.940 --> 1:48:35.060
+ There's so many, I mean,
+
+1:48:35.060 --> 1:48:37.500
+ any particular realm that's special to you,
+
+1:48:37.500 --> 1:48:39.140
+ your experience, your, you know,
+
+1:48:39.140 --> 1:48:42.020
+ your strengths, your passions,
+
+1:48:42.020 --> 1:48:44.740
+ there's a field of neuroscience devoted to that.
+
+1:48:44.740 --> 1:48:45.580
+ You know, if you've got,
+
+1:48:45.580 --> 1:48:47.860
+ if you know somebody who's got a neurological problem
+
+1:48:47.860 --> 1:48:50.460
+ or a psychiatric problem,
+
+1:48:50.460 --> 1:48:53.020
+ there's a branch of neuroscience that is devoted
+
+1:48:53.020 --> 1:48:55.700
+ to trying to understand that and to solve
+
+1:48:55.700 --> 1:48:58.420
+ these kinds of problems down the line.
+
+1:48:58.420 --> 1:49:00.900
+ So feel the, feel the buzz.
+
+1:49:00.900 --> 1:49:03.340
+ It's an exciting time to get involved.
+
+1:49:03.340 --> 1:49:04.700
+ Great, those are great resources
+
+1:49:04.700 --> 1:49:06.500
+ that people can access from anywhere,
+
+1:49:06.500 --> 1:49:08.740
+ zero cost as you need an internet connection.
+
+1:49:08.740 --> 1:49:11.300
+ But aside from that, we'll put the links to some.
+
+1:49:11.300 --> 1:49:13.860
+ And I'm remembering Dick's book is called
+
+1:49:13.860 --> 1:49:15.260
+ We Know It When We See It.
+
+1:49:15.260 --> 1:49:16.900
+ Right, one of my heroes.
+
+1:49:16.900 --> 1:49:18.980
+ Yeah, a wonderful colleague who unfortunately
+
+1:49:18.980 --> 1:49:20.060
+ we lost a few years ago.
+
+1:49:20.060 --> 1:49:24.060
+ But listen, David, this has been wonderful.
+
+1:49:24.060 --> 1:49:24.900
+ It's been a blast.
+
+1:49:24.900 --> 1:49:26.780
+ We really appreciate you taking the time to do this.
+
+1:49:26.780 --> 1:49:29.300
+ As people probably realize by now,
+
+1:49:29.300 --> 1:49:31.020
+ you're an incredible wealth of knowledge
+
+1:49:31.020 --> 1:49:32.940
+ about the entire nervous system.
+
+1:49:32.940 --> 1:49:35.180
+ Today, we just hit this top contour
+
+1:49:35.180 --> 1:49:37.500
+ of a number of different areas to give a flavor
+
+1:49:37.500 --> 1:49:40.060
+ of the different ways that the nervous system works
+
+1:49:40.060 --> 1:49:43.300
+ and is organized and how that's put together,
+
+1:49:43.300 --> 1:49:45.180
+ how these areas are talking to one another.
+
+1:49:45.180 --> 1:49:46.620
+ What I love about you is that you're
+
+1:49:46.620 --> 1:49:49.980
+ such an incredible educator and I've taught so many students
+
+1:49:49.980 --> 1:49:54.180
+ over the years, but also for me personally as friends,
+
+1:49:54.180 --> 1:49:57.820
+ but also anytime that I want to touch into the beauty
+
+1:49:57.820 --> 1:50:00.700
+ of the nervous system, I rarely lose touch with it.
+
+1:50:00.700 --> 1:50:02.940
+ But anytime I want to touch into it and start thinking
+
+1:50:02.940 --> 1:50:05.900
+ about new problems and ways that the nervous system
+
+1:50:05.900 --> 1:50:08.340
+ is doing things that I hadn't thought about, I call you.
+
+1:50:08.340 --> 1:50:12.020
+ So please forgive me for the calls past, present,
+
+1:50:12.020 --> 1:50:13.860
+ and future, unless you change your number.
+
+1:50:13.860 --> 1:50:15.940
+ And even if you do, I'll be calling.
+
+1:50:15.940 --> 1:50:18.540
+ It's been such a blast, Andy.
+
+1:50:18.540 --> 1:50:21.020
+ This has been a great session
+
+1:50:21.020 --> 1:50:22.740
+ and it's always fun talking to you.
+
+1:50:22.740 --> 1:50:24.980
+ It always gets my brain racing.
+
+1:50:24.980 --> 1:50:27.900
+ So thank you.
+
+1:50:27.900 --> 1:50:28.800
+ Thank you.
+
+1:50:28.800 --> 1:50:29.920
+ Thank you for joining me today
+
+1:50:29.920 --> 1:50:32.320
+ for my discussion with Dr. David Berson.
+
+1:50:32.320 --> 1:50:35.220
+ By now, you should have a much clearer understanding
+
+1:50:35.220 --> 1:50:38.220
+ of how the brain is organized and how it works
+
+1:50:38.220 --> 1:50:40.820
+ to do all the incredible things that it does.
+
+1:50:40.820 --> 1:50:43.220
+ If you're enjoying and or learning from this podcast,
+
+1:50:43.220 --> 1:50:45.060
+ please subscribe to our YouTube channel.
+
+1:50:45.060 --> 1:50:47.860
+ That's a terrific zero cost way to support us.
+
+1:50:47.860 --> 1:50:50.340
+ In addition, please subscribe to our podcast
+
+1:50:50.340 --> 1:50:52.060
+ on Apple and Spotify.
+
+1:50:52.060 --> 1:50:54.220
+ And on Apple, you have the opportunity to leave us
+
+1:50:54.220 --> 1:50:56.180
+ up to a five-star review.
+
+1:50:56.180 --> 1:50:58.080
+ As well, if you'd like to make suggestions
+
+1:50:58.080 --> 1:51:00.480
+ for future podcast episode topics
+
+1:51:00.480 --> 1:51:02.940
+ or future podcast episode guests,
+
+1:51:02.940 --> 1:51:04.980
+ please put those in the comment section
+
+1:51:04.980 --> 1:51:06.700
+ on our YouTube channel.
+
+1:51:06.700 --> 1:51:08.420
+ Please also check out our sponsors mentioned
+
+1:51:08.420 --> 1:51:09.940
+ at the beginning of each podcast.
+
+1:51:09.940 --> 1:51:11.820
+ That's the best way to support us.
+
+1:51:11.820 --> 1:51:13.060
+ And we have a Patreon.
+
+1:51:13.060 --> 1:51:15.880
+ It's patreon.com slash Andrew Huberman.
+
+1:51:15.880 --> 1:51:18.580
+ There, you can support us at any level that you like.
+
+1:51:18.580 --> 1:51:21.580
+ While today's discussion did not focus on supplements,
+
+1:51:21.580 --> 1:51:24.220
+ many previous podcast episodes include discussions
+
+1:51:24.220 --> 1:51:25.220
+ about supplements.
+
+1:51:25.220 --> 1:51:28.220
+ And while supplements aren't necessary for everybody,
+
+1:51:28.220 --> 1:51:31.080
+ many people derive benefit from them for things like sleep
+
+1:51:31.080 --> 1:51:33.940
+ or focus or anxiety relief and so on.
+
+1:51:33.940 --> 1:51:36.140
+ One issue with the supplement industry, however,
+
+1:51:36.140 --> 1:51:38.060
+ is that oftentimes the quality
+
+1:51:38.060 --> 1:51:40.580
+ will really vary across brands.
+
+1:51:40.580 --> 1:51:43.060
+ That's why we partnered with Thorne, T-H-O-R-I-N-E,
+
+1:51:43.060 --> 1:51:44.740
+ because Thorne supplements are
+
+1:51:44.740 --> 1:51:46.220
+ of the absolute highest standards
+
+1:51:46.220 --> 1:51:48.480
+ in terms of the quality of the ingredients they include
+
+1:51:48.480 --> 1:51:49.980
+ and the precision of the amounts
+
+1:51:49.980 --> 1:51:51.380
+ of the ingredients they include.
+
+1:51:51.380 --> 1:51:53.100
+ In other words, what's listed on the bottle
+
+1:51:53.100 --> 1:51:54.860
+ is what's actually found in the bottle,
+
+1:51:54.860 --> 1:51:57.060
+ which is not true of many supplements out there
+
+1:51:57.060 --> 1:51:58.240
+ that have been tested.
+
+1:51:58.240 --> 1:52:00.100
+ If you'd like to see the supplements that I take,
+
+1:52:00.100 --> 1:52:04.980
+ you can go to thorne.com slash the letter U slash Huberman.
+
+1:52:04.980 --> 1:52:06.960
+ And there you can see the supplements that I take
+
+1:52:06.960 --> 1:52:09.560
+ and you can get 20% off any of those supplements.
+
+1:52:09.560 --> 1:52:11.660
+ And if you navigate deeper into the Thorne site
+
+1:52:11.660 --> 1:52:12.500
+ through that portal,
+
+1:52:12.500 --> 1:52:15.640
+ thorne.com slash the letter U slash Huberman,
+
+1:52:15.640 --> 1:52:18.580
+ you can also get 20% off any of the other supplements
+
+1:52:18.580 --> 1:52:20.060
+ that Thorne happens to make.
+
+1:52:20.060 --> 1:52:21.780
+ If you're not already following Huberman Lab
+
+1:52:21.780 --> 1:52:24.720
+ on Instagram and Twitter, feel free to do so.
+
+1:52:24.720 --> 1:52:27.860
+ Both places I regularly post short video posts
+
+1:52:27.860 --> 1:52:31.200
+ or text posts that give tools related to health
+
+1:52:31.200 --> 1:52:32.780
+ and neuroscience and so forth.
+
+1:52:32.780 --> 1:52:35.740
+ And most of the time that information is not overlapping
+
+1:52:35.740 --> 1:52:37.140
+ with the information on the podcast.
+
+1:52:37.140 --> 1:52:39.680
+ Again, it's just Huberman Lab on Instagram and Twitter.
+
+1:52:39.680 --> 1:52:41.260
+ And last but not least,
+
+1:52:41.260 --> 1:52:43.220
+ thank you for your interest in science.
+

@@ -1,0 +1,7229 @@
+WEBVTT
+
+00:00.000 --> 00:02.280
+ Welcome to the Huberman Lab Podcast,
+
+00:02.280 --> 00:04.900
+ where we discuss science and science-based tools
+
+00:04.900 --> 00:05.920
+ for everyday life.
+
+00:09.120 --> 00:10.160
+ I'm Andrew Huberman,
+
+00:10.160 --> 00:13.360
+ and I'm a professor of neurobiology and ophthalmology
+
+00:13.360 --> 00:15.300
+ at Stanford School of Medicine.
+
+00:15.300 --> 00:16.500
+ This podcast is separate
+
+00:16.500 --> 00:18.880
+ from my teaching and research roles at Stanford.
+
+00:18.880 --> 00:21.040
+ It is, however, part of my desire and effort
+
+00:21.040 --> 00:23.160
+ to bring zero cost to consumer information
+
+00:23.160 --> 00:25.560
+ about science and science-related tools
+
+00:25.560 --> 00:27.440
+ to the general public.
+
+00:27.440 --> 00:28.640
+ In keeping with that theme,
+
+00:28.640 --> 00:31.840
+ I'd like to thank the sponsors of today's podcast.
+
+00:31.840 --> 00:34.520
+ Our first sponsor is Inside Tracker.
+
+00:34.520 --> 00:37.920
+ Inside Tracker analyzes your blood and DNA
+
+00:37.920 --> 00:39.880
+ to give you an accurate assessment
+
+00:39.880 --> 00:42.920
+ of your health and your biological age.
+
+00:42.920 --> 00:44.520
+ There are many things about our health
+
+00:44.520 --> 00:47.720
+ that can only be analyzed from blood and DNA tests.
+
+00:47.720 --> 00:50.360
+ I've been getting my blood assessed for many years now,
+
+00:50.360 --> 00:53.460
+ and about a year ago, I switched to Inside Tracker.
+
+00:53.460 --> 00:55.080
+ What I like about Inside Tracker
+
+00:55.080 --> 00:57.360
+ is that you get all this information back
+
+00:57.360 --> 01:00.920
+ about metabolic factors, endocrine factors, et cetera,
+
+01:00.920 --> 01:02.720
+ that are really important to your health.
+
+01:02.720 --> 01:04.380
+ But unlike a lot of blood tests
+
+01:04.380 --> 01:05.660
+ where you just get all the numbers back
+
+01:05.660 --> 01:07.560
+ and it tells you whether or not things are high,
+
+01:07.560 --> 01:11.120
+ normal, or low, Inside Tracker also has this really useful
+
+01:11.120 --> 01:13.500
+ and really easy-to-use dashboard
+
+01:13.500 --> 01:16.560
+ that takes the information for your blood and DNA tests
+
+01:16.560 --> 01:20.440
+ and points you toward particular behavioral, nutritional,
+
+01:20.440 --> 01:22.140
+ and other sorts of protocols that you can use
+
+01:22.140 --> 01:25.680
+ to get the numbers where you want them for your health.
+
+01:25.680 --> 01:27.760
+ If you'd like to try Inside Tracker,
+
+01:27.760 --> 01:31.000
+ you can go to insidetracker.com slash Huberman,
+
+01:31.000 --> 01:34.320
+ and they will give you 25% off any of their programs.
+
+01:34.320 --> 01:36.560
+ Again, their programs allow you to assess your health
+
+01:36.560 --> 01:39.560
+ from the inside, things that you could just never assess
+
+01:39.560 --> 01:43.040
+ from any kind of test that didn't involve blood and DNA.
+
+01:43.040 --> 01:45.520
+ And it also has this really interesting feature
+
+01:45.520 --> 01:47.080
+ that it can measure your inner age,
+
+01:47.080 --> 01:48.700
+ which is based on biology.
+
+01:48.700 --> 01:50.280
+ Your chronological age, of course,
+
+01:50.280 --> 01:52.140
+ is very informative about your health
+
+01:52.140 --> 01:54.740
+ and where you ought to be in terms of health metrics,
+
+01:54.740 --> 01:55.840
+ but people vary.
+
+01:55.840 --> 01:56.840
+ We know people, of course,
+
+01:56.840 --> 01:59.560
+ that are in their late 90s who are doing well.
+
+01:59.560 --> 02:01.960
+ We know people that are in their 50s who are struggling
+
+02:01.960 --> 02:03.160
+ or even in their 20s.
+
+02:03.160 --> 02:05.800
+ So blood and DNA are the way to analyze your health.
+
+02:05.800 --> 02:06.640
+ That's my belief.
+
+02:06.640 --> 02:08.400
+ That's why I use Inside Tracker.
+
+02:08.400 --> 02:11.200
+ So go to insidetracker.com slash Huberman
+
+02:11.200 --> 02:14.040
+ to get 25% off any of their products
+
+02:14.040 --> 02:16.700
+ and use Huberman at checkout.
+
+02:16.700 --> 02:19.960
+ Our second sponsor of today's episode is Helix Sleep.
+
+02:19.960 --> 02:22.460
+ Helix Sleep makes mattresses and pillows
+
+02:22.460 --> 02:24.920
+ that are ideally suited to your needs
+
+02:24.920 --> 02:27.520
+ for the best night's sleep possible.
+
+02:27.520 --> 02:29.400
+ I switched to using a Helix mattress
+
+02:29.400 --> 02:31.880
+ and Helix pillow this last year,
+
+02:31.880 --> 02:34.580
+ and I'm sleeping better than I ever have before.
+
+02:34.580 --> 02:36.640
+ The way that Helix mattresses work,
+
+02:36.640 --> 02:37.720
+ and the reason they're different,
+
+02:37.720 --> 02:41.320
+ is that they are tailored to your individual sleep style.
+
+02:41.320 --> 02:44.200
+ Your sleep style can be assessed by going to their website.
+
+02:44.200 --> 02:47.160
+ You take a brief two-minute questionnaire quiz,
+
+02:47.160 --> 02:49.240
+ ask you questions like, do you sleep on your back
+
+02:49.240 --> 02:50.480
+ or your side or your stomach?
+
+02:50.480 --> 02:51.320
+ Maybe you don't know,
+
+02:51.320 --> 02:53.560
+ maybe you move around a lot during the night.
+
+02:53.560 --> 02:55.360
+ It also asks you questions such as,
+
+02:55.360 --> 02:58.160
+ do you tend to run hot or wake up cold?
+
+02:58.160 --> 02:59.320
+ Things of that sort.
+
+02:59.320 --> 03:02.000
+ And then they tailor a particular mattress
+
+03:02.000 --> 03:03.360
+ to your sleep needs.
+
+03:03.360 --> 03:06.540
+ For me, I matched to the so-called DUSK mattress,
+
+03:06.540 --> 03:07.480
+ and I love it.
+
+03:07.480 --> 03:09.000
+ I sleep better than ever.
+
+03:09.000 --> 03:12.080
+ And right now, if you want to try Helix Sleep,
+
+03:12.080 --> 03:15.120
+ you can go to helixsleep.com slash Huberman.
+
+03:15.120 --> 03:16.400
+ And if you do that,
+
+03:16.400 --> 03:20.160
+ you'll get $200 off your order plus two free pillows.
+
+03:20.160 --> 03:21.260
+ They also have a great warranty.
+
+03:21.260 --> 03:23.660
+ They have a 10-year warranty on their mattresses.
+
+03:23.660 --> 03:25.840
+ If you don't like the mattress for any reason,
+
+03:25.840 --> 03:28.000
+ they'll pick it up for free from your home.
+
+03:28.000 --> 03:31.580
+ And they just make the whole thing really easy to try
+
+03:31.580 --> 03:33.200
+ and determine whether or not it's right for you.
+
+03:33.200 --> 03:36.440
+ So again, it's helixsleep.com slash Huberman
+
+03:36.440 --> 03:41.060
+ to get $200 off and two free pillows on your first order.
+
+03:41.060 --> 03:43.920
+ Some of you have asked how you can help support the podcast
+
+03:43.920 --> 03:47.520
+ in yet other ways besides just checking out our sponsors.
+
+03:47.520 --> 03:49.080
+ We really appreciate the question,
+
+03:49.080 --> 03:51.360
+ and we've set up a Patreon account at
+
+03:51.360 --> 03:54.720
+ patreon.com slash Andrew Huberman,
+
+03:54.720 --> 03:57.060
+ which allows you to donate to the podcast
+
+03:57.060 --> 03:58.880
+ at a variety of different levels.
+
+03:58.880 --> 04:01.880
+ We have, for instance, the 5HTP,
+
+04:01.880 --> 04:04.280
+ which is in honor of serotonin,
+
+04:04.280 --> 04:06.720
+ 5HTP is the name for serotonin,
+
+04:06.720 --> 04:09.600
+ that allows you to donate $5 per month.
+
+04:09.600 --> 04:11.580
+ We have the Circadian,
+
+04:11.580 --> 04:15.320
+ which as many of you, of course, will know is 24-hour day.
+
+04:15.320 --> 04:17.900
+ So you can donate $24 a month if you like.
+
+04:17.900 --> 04:19.800
+ You can also pick any value that you want.
+
+04:19.800 --> 04:22.780
+ We even have the Costello, which is $10 a month,
+
+04:22.780 --> 04:25.520
+ which allows you to support the podcast
+
+04:25.520 --> 04:28.640
+ in honor of Costello, the fact that he's 10 years old,
+
+04:28.640 --> 04:30.380
+ that he eats 10 pounds of food a day,
+
+04:30.380 --> 04:33.900
+ and the fact that he takes 10 one-hour naps per day
+
+04:33.900 --> 04:34.920
+ on average.
+
+04:34.920 --> 04:38.120
+ So again, that's patreon.com slash Andrew Huberman
+
+04:38.120 --> 04:41.260
+ if you'd like to support the podcast that way.
+
+04:41.260 --> 04:43.640
+ Today's episode is going to be all about
+
+04:43.640 --> 04:46.580
+ the science of emotions.
+
+04:46.580 --> 04:47.960
+ The first month of the podcast,
+
+04:47.960 --> 04:51.440
+ we talked about sleep and wakefulness.
+
+04:51.440 --> 04:54.600
+ Last month, we were talking about neuroplasticity,
+
+04:54.600 --> 04:57.840
+ the brain's ability to change in response to experience.
+
+04:57.840 --> 05:00.420
+ And this month, we're going to talk about
+
+05:00.420 --> 05:02.960
+ these things that we call emotions.
+
+05:02.960 --> 05:06.920
+ We're going to decipher what they are, how they work,
+
+05:06.920 --> 05:08.520
+ how we can control them,
+
+05:08.520 --> 05:10.740
+ when we might not want to control them.
+
+05:11.760 --> 05:15.320
+ There are going to be four episodes on emotions.
+
+05:15.320 --> 05:18.400
+ And today, we're going to talk in particular
+
+05:18.400 --> 05:22.940
+ about something that most often is called stress.
+
+05:22.940 --> 05:26.120
+ You might be thinking, wait, stress isn't an emotion,
+
+05:26.120 --> 05:28.860
+ but stress really lies at the heart
+
+05:28.860 --> 05:32.060
+ of whether or not our internal experience
+
+05:32.060 --> 05:36.040
+ is matched well or not to our external experience
+
+05:36.040 --> 05:39.200
+ or the events that are happening to us and around us.
+
+05:39.200 --> 05:43.200
+ And as you'll soon see, those converge or combine
+
+05:43.200 --> 05:46.340
+ to create what we call emotions.
+
+05:46.340 --> 05:47.740
+ Now, I want to be very clear
+
+05:47.740 --> 05:50.960
+ that we're going to talk about the biology of emotions.
+
+05:50.960 --> 05:52.220
+ We're going to talk a little bit about
+
+05:52.220 --> 05:55.120
+ some psychological concepts related to emotion.
+
+05:55.120 --> 05:58.160
+ And we are definitely going to talk about tools
+
+05:58.160 --> 06:00.280
+ to control what we call stress
+
+06:00.280 --> 06:01.800
+ or commonly think of as stress.
+
+06:01.800 --> 06:04.580
+ We're also going to clean up some common myths about stress.
+
+06:04.580 --> 06:08.500
+ For instance, that stress impairs your immune system.
+
+06:08.500 --> 06:10.480
+ That's true in certain contexts.
+
+06:10.480 --> 06:11.560
+ And in other contexts,
+
+06:11.560 --> 06:13.500
+ stress actually enhances your immune system
+
+06:13.500 --> 06:15.480
+ and makes it function better.
+
+06:15.480 --> 06:18.440
+ There is going to be a lot of discussion
+
+06:18.440 --> 06:21.040
+ about whether or not our internal state,
+
+06:21.040 --> 06:24.520
+ whether or not we are alert or calm is good or bad
+
+06:24.520 --> 06:26.360
+ depending on the circumstances.
+
+06:26.360 --> 06:30.240
+ So where we're headed here is I'd like you to come away
+
+06:30.240 --> 06:33.000
+ from today's episode with what I call
+
+06:33.000 --> 06:36.880
+ an organizational logic, a framework for thinking about
+
+06:36.880 --> 06:39.700
+ these things that typically we just call happy or sad
+
+06:39.700 --> 06:41.720
+ or depressed or anxious.
+
+06:41.720 --> 06:44.460
+ And I'm going to make sure that you have tools
+
+06:44.460 --> 06:47.240
+ that are grounded in physiology and neuroscience
+
+06:47.240 --> 06:49.120
+ that will allow you to navigate
+
+06:49.120 --> 06:52.720
+ this otherwise complex space that we call emotions
+
+06:52.720 --> 06:55.780
+ that will allow you to ground yourself better
+
+06:55.780 --> 06:59.520
+ when you're feeling like life is weighing on you
+
+06:59.520 --> 07:02.560
+ or you're kind of being pulled by the currents of life
+
+07:02.560 --> 07:04.760
+ as well as to support other people,
+
+07:04.760 --> 07:06.960
+ whether or not that's in a psychological practice
+
+07:06.960 --> 07:11.440
+ if you're a practitioner or you have clients or children
+
+07:11.440 --> 07:14.360
+ or spouses really to be able to support other people
+
+07:14.360 --> 07:16.440
+ in your environment better.
+
+07:16.440 --> 07:19.160
+ And the tools that I'm going to focus on today
+
+07:19.160 --> 07:21.220
+ range from behavioral tools.
+
+07:21.220 --> 07:24.000
+ We will talk about some of the more valuable
+
+07:24.000 --> 07:26.520
+ supplementation tools that are out there.
+
+07:26.520 --> 07:28.480
+ And we're going to talk a little bit
+
+07:28.480 --> 07:31.900
+ about things like depression, PTSD,
+
+07:31.900 --> 07:34.760
+ but we will be devoting entire episodes
+
+07:34.760 --> 07:37.060
+ to things like depression, PTSD,
+
+07:37.060 --> 07:40.080
+ and even attention deficit and obsessive compulsive disorder
+
+07:40.080 --> 07:41.880
+ which believe it or not,
+
+07:41.880 --> 07:44.080
+ although this might not surprise many of you,
+
+07:44.080 --> 07:46.360
+ have a very strong emotional component.
+
+07:46.360 --> 07:49.620
+ It's just not just about compulsive behaviors
+
+07:49.620 --> 07:50.520
+ and intrusive thoughts.
+
+07:50.520 --> 07:54.220
+ It's also about the emotional load of being in that state.
+
+07:54.220 --> 07:57.560
+ So I promise that today we're going to clean up
+
+07:57.560 --> 07:59.780
+ a lot of misunderstanding.
+
+07:59.780 --> 08:02.120
+ We're going to give you a lot of tools
+
+08:02.120 --> 08:05.760
+ and you're going to learn a lot about the biology
+
+08:05.760 --> 08:08.500
+ of how your body and brain work together.
+
+08:08.500 --> 08:10.880
+ Because if ever there was a topic
+
+08:10.880 --> 08:13.400
+ that brought together the brain and body
+
+08:13.400 --> 08:18.040
+ or mind-body relationship, it's stress and emotions.
+
+08:18.040 --> 08:19.440
+ It's also the positive emotions.
+
+08:19.440 --> 08:23.140
+ When we feel something, whether or not we're super happy
+
+08:23.140 --> 08:24.960
+ or just feeling kind of pleasant,
+
+08:24.960 --> 08:28.920
+ or we are feeling stressed, anxious, and overwhelmed,
+
+08:28.920 --> 08:32.360
+ it isn't just in our head, it's also in our body.
+
+08:32.360 --> 08:35.500
+ And as you may recall, the nervous system,
+
+08:35.500 --> 08:38.400
+ which includes the brain and the eyes and the spinal cord,
+
+08:38.400 --> 08:41.700
+ but also all the connections with the organs of the body
+
+08:41.700 --> 08:43.520
+ includes the brain and body.
+
+08:43.520 --> 08:45.960
+ And those organs of the body,
+
+08:45.960 --> 08:48.880
+ your gut and your liver and your spleen,
+
+08:48.880 --> 08:52.160
+ they're also communicating with the brain.
+
+08:52.160 --> 08:54.000
+ So I look forward to a day in fact,
+
+08:54.000 --> 08:56.680
+ when we no longer think about neuroscience
+
+08:56.680 --> 08:57.760
+ as just the brain.
+
+08:57.760 --> 08:59.080
+ And many neuroscientists now
+
+08:59.080 --> 09:01.080
+ also think about the body of course,
+
+09:01.080 --> 09:02.240
+ the brain controls the body,
+
+09:02.240 --> 09:05.200
+ but the body is also having a very profound
+
+09:05.200 --> 09:08.120
+ and concrete influence on the brain.
+
+09:08.120 --> 09:11.240
+ I think up until recently,
+
+09:11.240 --> 09:13.840
+ people would hear about kind of brain-body
+
+09:13.840 --> 09:15.200
+ and always think about mindfulness.
+
+09:15.200 --> 09:16.320
+ We're actually not going to talk that much
+
+09:16.320 --> 09:18.320
+ about mindfulness at all today.
+
+09:18.320 --> 09:21.400
+ Mindfulness is kind of a vague concept in fact.
+
+09:21.400 --> 09:22.840
+ When you think about mindfulness,
+
+09:22.840 --> 09:24.140
+ it's good to take the opposite.
+
+09:24.140 --> 09:26.560
+ What's the opposite of mindfulness would be mindlessness.
+
+09:26.560 --> 09:28.520
+ Well, all of a sudden we're into territory
+
+09:28.520 --> 09:31.480
+ that isn't really easy for one person
+
+09:31.480 --> 09:33.000
+ to describe their experience
+
+09:33.000 --> 09:35.120
+ or to help others with their experience.
+
+09:35.120 --> 09:37.240
+ Today, we're going to talk about objective tools
+
+09:37.240 --> 09:40.000
+ that match the brain-body experience
+
+09:40.000 --> 09:42.740
+ or separate the brain-body experience
+
+09:42.740 --> 09:47.360
+ in ways that leverage your ability to lean into life better,
+
+09:47.360 --> 09:49.960
+ to feel better, literally to just feel better
+
+09:49.960 --> 09:51.600
+ about what you're experiencing
+
+09:51.600 --> 09:53.400
+ and believe it or not,
+
+09:53.400 --> 09:56.340
+ to be able to control your emotions when that's appropriate.
+
+09:56.340 --> 09:58.200
+ This isn't about becoming robotic.
+
+09:58.200 --> 10:00.660
+ This isn't about trying not to feel human.
+
+10:00.660 --> 10:03.960
+ This is actually about being able to lean into life better
+
+10:03.960 --> 10:06.060
+ as a consequence of being able to control
+
+10:06.060 --> 10:08.120
+ some of your inner real estate,
+
+10:08.120 --> 10:10.400
+ this nervous system that includes the brain and body
+
+10:10.400 --> 10:12.840
+ and how that nervous system is interacting
+
+10:12.840 --> 10:13.880
+ with the outside world.
+
+10:13.880 --> 10:16.640
+ So it's to place you in a greater position of power.
+
+10:16.640 --> 10:20.180
+ And so let's get started in deciphering what is stress,
+
+10:20.180 --> 10:24.180
+ what are emotions and why did I batch stress and emotions
+
+10:24.180 --> 10:26.680
+ into one discussion today?
+
+10:26.680 --> 10:27.840
+ Okay, so what is stress?
+
+10:27.840 --> 10:30.700
+ We hear all the time that stress is bad.
+
+10:30.700 --> 10:34.040
+ We hear people saying they're really stressed out.
+
+10:34.040 --> 10:35.680
+ What is stress?
+
+10:35.680 --> 10:40.360
+ You've all presumably heard the arguments or the framework
+
+10:40.360 --> 10:44.540
+ that stress is this horrible ancient carryover
+
+10:44.540 --> 10:47.360
+ from times in which humans were pursued by animals
+
+10:47.360 --> 10:49.480
+ or other human predators.
+
+10:49.480 --> 10:52.800
+ And that whenever we feel what we call stress
+
+10:52.800 --> 10:56.440
+ or feel stressed out that it's just this unfortunate
+
+10:56.440 --> 11:00.000
+ invasion of something that we no longer need in modern life
+
+11:00.000 --> 11:02.800
+ that this was designed for when we were being attacked
+
+11:02.800 --> 11:05.920
+ by bears or tigers or lions or whatever it is.
+
+11:05.920 --> 11:08.440
+ And gosh, what an unfortunate thing.
+
+11:08.440 --> 11:11.140
+ And we have so many creature comforts nowadays
+
+11:11.140 --> 11:13.800
+ but we have not eliminated this stress.
+
+11:13.800 --> 11:16.360
+ Almost as if it was like an organ or a system in our body
+
+11:16.360 --> 11:19.000
+ that was bad for us that we're stuck with
+
+11:19.000 --> 11:21.480
+ just because of the species that we are.
+
+11:21.480 --> 11:25.040
+ But first of all, all species experience stress.
+
+11:25.040 --> 11:28.720
+ And I think that it's fair to say,
+
+11:28.720 --> 11:30.360
+ even though I wasn't there,
+
+11:30.360 --> 11:34.800
+ that yes, in fact, throughout our evolutionary history
+
+11:34.800 --> 11:37.640
+ we were vulnerable to animal attack
+
+11:37.640 --> 11:40.960
+ and other human attacks on a regular basis
+
+11:40.960 --> 11:43.640
+ up until a point where we started developing
+
+11:43.640 --> 11:45.800
+ weapons and structures and fire and other things
+
+11:45.800 --> 11:47.620
+ that allow us to protect ourselves better
+
+11:47.620 --> 11:50.880
+ from those animals and invaders of various kinds.
+
+11:50.880 --> 11:55.080
+ But it is entirely naive for us to think that
+
+11:55.080 --> 11:59.040
+ in ancient times, ancient times being a kind of loose term
+
+11:59.040 --> 12:02.160
+ for previous time, medieval times,
+
+12:02.160 --> 12:03.640
+ a hundred years ago, a thousand years ago,
+
+12:03.640 --> 12:07.960
+ 10,000 years ago, of course there were infidelities.
+
+12:07.960 --> 12:10.540
+ Partners cheated, people died.
+
+12:10.540 --> 12:12.840
+ In fact, before the advent of phones
+
+12:12.840 --> 12:15.400
+ which we're gonna talk about today,
+
+12:15.400 --> 12:18.560
+ you can imagine that someone might head off on a hunt
+
+12:18.560 --> 12:20.740
+ or to go visit a relative and never come back.
+
+12:20.740 --> 12:22.000
+ And you would never know why.
+
+12:22.000 --> 12:23.420
+ That would be very stressful.
+
+12:23.420 --> 12:25.360
+ So there was psychosocial stress.
+
+12:25.360 --> 12:27.380
+ There was a stress of losing loved ones.
+
+12:27.380 --> 12:30.120
+ There was the stress of cold, of famine.
+
+12:30.120 --> 12:33.120
+ There was the stress probably also of just worry.
+
+12:33.120 --> 12:37.560
+ This idea that ancient versions of humans
+
+12:37.560 --> 12:39.880
+ a thousand years ago, a hundred years ago didn't worry.
+
+12:39.880 --> 12:42.520
+ I think that is entirely inconsistent
+
+12:42.520 --> 12:44.040
+ with everything we know about the structure
+
+12:44.040 --> 12:47.200
+ of the human brain a hundred years, a thousand years ago.
+
+12:47.200 --> 12:51.540
+ So all the problems that we're struggling with existed
+
+12:51.540 --> 12:53.260
+ for ever.
+
+12:53.260 --> 12:58.040
+ It's just that stress at its core is a generalized system.
+
+12:58.040 --> 13:01.140
+ It wasn't designed for tigers attacking us
+
+13:01.140 --> 13:02.520
+ or people attacking us.
+
+13:02.520 --> 13:05.320
+ It's a system to mobilize other systems
+
+13:05.320 --> 13:06.840
+ in the brain and body.
+
+13:06.840 --> 13:08.000
+ That's what stress really is.
+
+13:08.000 --> 13:09.800
+ It's designed to be generic.
+
+13:09.800 --> 13:11.360
+ And that's the most important thing
+
+13:11.360 --> 13:13.760
+ that I'd like you to understand today is that the system
+
+13:13.760 --> 13:16.900
+ that governs what we call stress is generic.
+
+13:16.900 --> 13:19.300
+ It wasn't designed for one thing.
+
+13:20.580 --> 13:22.760
+ And that gives it a certain advantage
+
+13:22.760 --> 13:25.240
+ in taking over the state of our brain and body
+
+13:25.240 --> 13:28.800
+ but it also gives you all of us an advantage
+
+13:28.800 --> 13:31.400
+ in controlling it because it's based
+
+13:31.400 --> 13:34.560
+ on hardwired biological mechanisms.
+
+13:34.560 --> 13:38.020
+ And there are hardwired biological mechanisms
+
+13:38.020 --> 13:40.240
+ meaning cells and chemicals and pathways
+
+13:40.240 --> 13:43.280
+ and tissues that exist in you right now
+
+13:43.280 --> 13:47.100
+ that require no neuroplasticity that allow you
+
+13:47.100 --> 13:48.960
+ to put a brake on stress.
+
+13:48.960 --> 13:51.040
+ And so we're gonna talk about those.
+
+13:51.040 --> 13:53.440
+ So you have a system for stress and you have a system
+
+13:53.440 --> 13:56.740
+ for de-stress that are baked into you.
+
+13:56.740 --> 13:59.800
+ They were genetically encoded and you were born with them
+
+13:59.800 --> 14:01.840
+ and you still have them now.
+
+14:01.840 --> 14:03.920
+ So if you're alive and listening
+
+14:03.920 --> 14:06.480
+ you have the capacity to control your stress.
+
+14:06.480 --> 14:08.380
+ And today I'm gonna talk about ways
+
+14:08.380 --> 14:09.880
+ that you can control your stress
+
+14:09.880 --> 14:13.320
+ not just by doing some offline practice of meditation
+
+14:13.320 --> 14:16.600
+ or breath work or something like that, but real time tools.
+
+14:16.600 --> 14:19.140
+ Tools that allow you to push back on stress
+
+14:19.140 --> 14:21.440
+ when stress hits in real time.
+
+14:21.440 --> 14:23.920
+ This is something that my lab works actively on
+
+14:23.920 --> 14:25.580
+ in developing and testing these tools
+
+14:25.580 --> 14:27.500
+ and evolving these tools.
+
+14:27.500 --> 14:30.960
+ And there are other laboratories that do this as well.
+
+14:30.960 --> 14:33.100
+ So let's talk about the stress response.
+
+14:33.100 --> 14:36.080
+ And by doing that, you will understand exactly
+
+14:36.080 --> 14:38.400
+ why the tools I'm gonna give you work.
+
+14:38.400 --> 14:41.100
+ For those of you that are saying, wait
+
+14:41.100 --> 14:43.860
+ I just want the tools, just give me a summary.
+
+14:43.860 --> 14:45.920
+ Trust me, if you understand mechanism
+
+14:45.920 --> 14:48.000
+ you are going to be in a far better position
+
+14:48.000 --> 14:50.920
+ to incorporate these tools, to teach these tools to others
+
+14:50.920 --> 14:54.440
+ and to modify them as your life circumstances change.
+
+14:54.440 --> 14:55.960
+ If you'd like the cheat sheet
+
+14:55.960 --> 14:57.820
+ or you just want the one page PDF
+
+14:57.820 --> 14:59.400
+ eventually we'll get that stuff out to people
+
+14:59.400 --> 15:00.840
+ but it's really important
+
+15:00.840 --> 15:03.360
+ to understand the underlying mechanism.
+
+15:03.360 --> 15:05.280
+ Okay, so what is stress?
+
+15:05.280 --> 15:08.000
+ Well, let's just distinguish between stressors
+
+15:08.000 --> 15:10.640
+ which are the things that stress us out
+
+15:10.640 --> 15:14.080
+ and stress which is the psychological
+
+15:14.080 --> 15:17.200
+ and physiological response to stressors.
+
+15:17.200 --> 15:18.640
+ I'm mainly gonna talk about stress
+
+15:18.640 --> 15:21.240
+ which is your response to things.
+
+15:21.240 --> 15:23.480
+ Let's be clear about what we already know
+
+15:23.480 --> 15:27.520
+ which is that stressors can be psychological
+
+15:28.400 --> 15:29.600
+ or they can be physical.
+
+15:30.640 --> 15:34.160
+ If I put you outside on a cold day without a jacket
+
+15:34.160 --> 15:37.040
+ for a very long time, that is stressful.
+
+15:37.040 --> 15:40.680
+ If I have you prepare for too many exams at once
+
+15:40.680 --> 15:42.960
+ and you can't balance it all with your sleep schedule
+
+15:42.960 --> 15:45.400
+ and your other needs for comfort and wellbeing
+
+15:45.400 --> 15:47.660
+ like food, rest, sleep, and social connection
+
+15:47.660 --> 15:48.680
+ that is stressful.
+
+15:49.640 --> 15:52.600
+ So stress, and as I mentioned before is generic
+
+15:52.600 --> 15:54.160
+ it doesn't distinguish
+
+15:54.160 --> 15:58.200
+ between physical and emotional stress.
+
+15:58.200 --> 16:00.360
+ So what happens when the stress response hits?
+
+16:00.360 --> 16:02.060
+ Let's talk about the immediate
+
+16:02.060 --> 16:04.720
+ or what we call the acute stress response.
+
+16:04.720 --> 16:07.840
+ We could also think of this as a short-term stress.
+
+16:07.840 --> 16:11.960
+ So you have a collection of neurons, they have a name
+
+16:11.960 --> 16:14.000
+ it's called the sympathetic chain ganglia
+
+16:14.000 --> 16:15.880
+ and it has nothing to do with sympathy.
+
+16:15.880 --> 16:18.040
+ Simpa means together.
+
+16:18.040 --> 16:20.240
+ And there's a group of neurons
+
+16:20.240 --> 16:22.240
+ that start right about at your neck
+
+16:22.240 --> 16:25.360
+ and run down to about your navel a little bit lower.
+
+16:25.360 --> 16:28.780
+ And those are called the sympathetic chain ganglia.
+
+16:28.780 --> 16:30.440
+ You don't need to memorize that name.
+
+16:30.440 --> 16:31.920
+ There will not be a quiz
+
+16:31.920 --> 16:34.600
+ but it's important to know that in the middle of your body
+
+16:34.600 --> 16:36.080
+ you have a chain of neurons
+
+16:36.080 --> 16:39.480
+ that when something stresses us out either in our mind
+
+16:39.480 --> 16:41.640
+ or because something enters our environment
+
+16:41.640 --> 16:43.240
+ and we see something that stresses us out
+
+16:43.240 --> 16:45.440
+ that we don't like heights if you're afraid of heights
+
+16:45.440 --> 16:48.480
+ somebody you dislike walks into the room, et cetera
+
+16:50.680 --> 16:52.840
+ that chain of neurons becomes activated
+
+16:52.840 --> 16:56.080
+ like a bunch of dominoes falling all at once.
+
+16:56.080 --> 16:57.780
+ It's very fast.
+
+16:59.280 --> 17:03.520
+ When that happens, those neurons release a neuromodulator
+
+17:03.520 --> 17:05.160
+ neurochemical that I've talked about before
+
+17:05.160 --> 17:07.480
+ on this podcast called acetylcholine.
+
+17:07.480 --> 17:11.360
+ They release that at various sites within the body.
+
+17:11.360 --> 17:12.640
+ Now this is important
+
+17:12.640 --> 17:14.600
+ because normally acetylcholine would be used
+
+17:14.600 --> 17:15.960
+ to move muscles.
+
+17:15.960 --> 17:17.640
+ Actually, every time we move a muscle
+
+17:17.640 --> 17:19.800
+ pick up a cup of coffee, write with a pen
+
+17:19.800 --> 17:22.520
+ walk down the street, it's spinal neurons
+
+17:22.520 --> 17:25.400
+ connecting to muscle and releasing acetylcholine.
+
+17:25.400 --> 17:27.280
+ So in the brain, it's involved in focus
+
+17:27.280 --> 17:30.240
+ and it muscles is involved in making muscles twitch.
+
+17:30.240 --> 17:31.420
+ But if we were stressed
+
+17:31.420 --> 17:33.500
+ we wouldn't want all our muscles to contract at once
+
+17:33.500 --> 17:35.960
+ because we would just be kind of like paralyzed like this
+
+17:35.960 --> 17:38.280
+ in what tonic activation as it's called.
+
+17:38.280 --> 17:39.360
+ We wouldn't want that.
+
+17:39.360 --> 17:41.040
+ Something called tetanus believe it or not
+
+17:41.040 --> 17:43.520
+ because the tetanus toxin will cause that kind of rigor
+
+17:43.520 --> 17:45.000
+ of the entire body.
+
+17:45.000 --> 17:46.040
+ You do not want that.
+
+17:47.500 --> 17:50.520
+ When those neurons are activated acetylcholine is released
+
+17:50.520 --> 17:52.040
+ but there are some other neurons
+
+17:52.040 --> 17:54.060
+ for the aficionados out there.
+
+17:54.060 --> 17:56.080
+ They're called the postganglionic neurons.
+
+17:56.080 --> 17:58.400
+ Those ones respond to that acetylcholine
+
+17:58.400 --> 18:00.860
+ and then they release epinephrine
+
+18:00.860 --> 18:03.560
+ which is the equivalent to adrenaline.
+
+18:03.560 --> 18:06.360
+ So we have this system where very fast
+
+18:06.360 --> 18:08.780
+ whenever we're stressed, the core of our body
+
+18:08.780 --> 18:10.240
+ these neurons down the middle of our body
+
+18:10.240 --> 18:12.040
+ release these chemicals.
+
+18:12.040 --> 18:15.260
+ And then there's adrenaline or epinephrine
+
+18:15.260 --> 18:18.920
+ released at particular organs and acts in particular ways.
+
+18:18.920 --> 18:20.200
+ We're going down into the weeds here.
+
+18:20.200 --> 18:21.440
+ So just stay with me
+
+18:21.440 --> 18:22.680
+ because it's going to make a lot of sense
+
+18:22.680 --> 18:25.360
+ and you will appreciate having this knowledge in hand.
+
+18:25.360 --> 18:29.260
+ That epinephrine acts in two different ways.
+
+18:29.260 --> 18:34.220
+ Some things like the muscles of your legs and your heart
+
+18:34.220 --> 18:36.220
+ and other things that need to be active
+
+18:36.220 --> 18:40.400
+ when you're stressed, they have a certain kind of receptor
+
+18:40.400 --> 18:43.540
+ which is called the beta receptor.
+
+18:43.540 --> 18:45.740
+ And that beta receptor responds to epinephrine
+
+18:45.740 --> 18:48.580
+ and blood vessels dilate, they get bigger
+
+18:48.580 --> 18:50.980
+ and blood rushes in to our legs.
+
+18:50.980 --> 18:53.000
+ The heart rate speeds up.
+
+18:53.000 --> 18:55.300
+ Lots of things happen that get activated.
+
+18:55.300 --> 18:59.180
+ And at the same time that epinephrine activates
+
+18:59.180 --> 19:02.740
+ other receptors on certain tissues that we don't need
+
+19:02.740 --> 19:06.220
+ the ones involved in digestion, reproduction
+
+19:06.220 --> 19:09.100
+ and things of that sort that are luxuries
+
+19:09.100 --> 19:10.680
+ for when things are going well
+
+19:10.680 --> 19:13.340
+ not things to pay attention to when we're stressed.
+
+19:13.340 --> 19:15.600
+ And that binds to other receptors
+
+19:15.600 --> 19:17.780
+ that contract the blood vessels.
+
+19:17.780 --> 19:19.900
+ So basically the stress response
+
+19:19.900 --> 19:21.020
+ this is the key phrase here.
+
+19:21.020 --> 19:23.060
+ The stress response A is generic.
+
+19:23.060 --> 19:24.360
+ I said that before.
+
+19:24.360 --> 19:29.360
+ And B it basically pushes certain systems to be activated
+
+19:30.340 --> 19:33.180
+ and other systems to not be activated.
+
+19:33.180 --> 19:35.340
+ So the stress response is two-pronged.
+
+19:35.340 --> 19:37.240
+ It's a yes for certain things.
+
+19:37.240 --> 19:40.140
+ And it's a no you may not right now for other things.
+
+19:40.140 --> 19:41.620
+ So that's the key thing to understand
+
+19:41.620 --> 19:42.620
+ about the stress response.
+
+19:42.620 --> 19:43.980
+ That's why your heart speeds up.
+
+19:43.980 --> 19:46.860
+ That's why you feel blood in certain organs
+
+19:46.860 --> 19:49.100
+ and tissues of your body, but not in others.
+
+19:49.100 --> 19:51.060
+ That's why your throat goes dry
+
+19:51.060 --> 19:54.800
+ because it turns out that when you get stressed
+
+19:54.800 --> 19:56.620
+ the salivary glands are shut down.
+
+19:56.620 --> 19:59.300
+ There's a lot less blood flow to the neurons
+
+19:59.300 --> 20:01.220
+ that control salivation.
+
+20:01.220 --> 20:02.740
+ And so you're gonna start swallowing.
+
+20:02.740 --> 20:04.580
+ You feel like your throat is getting dry.
+
+20:04.580 --> 20:05.740
+ There are a lot of different effects.
+
+20:05.740 --> 20:07.000
+ I'm not gonna list them all off
+
+20:07.000 --> 20:09.780
+ but basically you are activated
+
+20:09.780 --> 20:12.220
+ in ways that support you moving.
+
+20:12.220 --> 20:13.160
+ So that's the third thing.
+
+20:13.160 --> 20:14.600
+ It's first of all, it's generic.
+
+20:14.600 --> 20:17.660
+ Second of all, the stress response activates certain things
+
+20:17.660 --> 20:19.740
+ and shuts down other features of our body.
+
+20:19.740 --> 20:22.300
+ And then it's a sense of agitation
+
+20:22.300 --> 20:23.940
+ that makes you wanna move.
+
+20:23.940 --> 20:27.060
+ And that's because fundamentally the stress response
+
+20:27.060 --> 20:30.620
+ is just this generic thing that says, do something.
+
+20:30.620 --> 20:33.020
+ And movement in this case can either be the bias
+
+20:33.020 --> 20:35.380
+ to move in terms of action
+
+20:35.380 --> 20:38.540
+ or it can be the bias to say something.
+
+20:38.540 --> 20:41.880
+ When we are stressed, we are more likely to say something
+
+20:41.880 --> 20:43.620
+ that probably we shouldn't say.
+
+20:43.620 --> 20:46.100
+ We are more likely to move.
+
+20:46.100 --> 20:47.560
+ And if you're trying to suppress movement
+
+20:47.560 --> 20:49.580
+ you'll feel that as a tremor.
+
+20:49.580 --> 20:50.840
+ You're gonna feel agitated
+
+20:50.840 --> 20:53.300
+ and that's because it was designed to move you.
+
+20:53.300 --> 20:57.680
+ So this is important because if you wanna control stress
+
+20:57.680 --> 21:01.180
+ you need to learn how to work with that agitation.
+
+21:02.580 --> 21:05.340
+ I'd like to give you a tool at this point
+
+21:05.340 --> 21:08.040
+ because I think if we go any further
+
+21:08.040 --> 21:11.060
+ with a lot more science, people are gonna begin to wonder
+
+21:11.060 --> 21:12.700
+ if this is just gonna be a kind of standard
+
+21:12.700 --> 21:14.780
+ university lecture about the stress response.
+
+21:14.780 --> 21:17.400
+ I'm gonna give you more science about the stress response
+
+21:17.400 --> 21:19.780
+ but I want to take what we now already know
+
+21:19.780 --> 21:23.700
+ about the stress response and use that
+
+21:23.700 --> 21:28.540
+ as a framework for thinking about how one might reduce
+
+21:28.540 --> 21:32.380
+ or even eliminate the stress response quickly in real time
+
+21:32.380 --> 21:34.100
+ should it arise when we don't want it.
+
+21:34.100 --> 21:35.380
+ So we're taking the podium
+
+21:35.380 --> 21:37.860
+ or we're sitting down at a Zoom call
+
+21:37.860 --> 21:39.960
+ and all of a sudden we're feeling flushed.
+
+21:39.960 --> 21:41.640
+ We're feeling like our heart is racing.
+
+21:41.640 --> 21:43.180
+ We're feeling a little too alert.
+
+21:43.180 --> 21:47.620
+ We're feeling a little worked up and we wanna calm down.
+
+21:47.620 --> 21:52.380
+ As far as I am aware of the best tools
+
+21:52.380 --> 21:56.900
+ to reduce stress quickly, so-called real-time tools
+
+21:56.900 --> 22:00.580
+ are going to be tools that have a direct line
+
+22:00.580 --> 22:02.760
+ to the so-called autonomic nervous system.
+
+22:02.760 --> 22:05.020
+ The autonomic nervous system is a name given
+
+22:05.020 --> 22:07.660
+ to the kind of general features of alertness
+
+22:07.660 --> 22:09.220
+ or calmness in the body.
+
+22:09.220 --> 22:11.220
+ It's typically, it means automatic
+
+22:11.220 --> 22:12.780
+ although we do have some control over it.
+
+22:12.780 --> 22:16.020
+ Certain what so-called levers or entry points.
+
+22:16.020 --> 22:18.660
+ Here's what doesn't work to control stress,
+
+22:18.660 --> 22:20.420
+ telling yourself to calm down.
+
+22:20.420 --> 22:23.140
+ In fact, that tends to just exacerbate stress.
+
+22:23.140 --> 22:24.460
+ Telling someone else to calm down
+
+22:24.460 --> 22:26.480
+ also tends to exacerbate their stress.
+
+22:27.380 --> 22:31.320
+ If you want to reduce the magnitude of the stress response,
+
+22:31.320 --> 22:33.100
+ the best thing you can do
+
+22:33.100 --> 22:36.020
+ is activate the other system in the body
+
+22:36.020 --> 22:39.700
+ which is designed for calming and relaxation.
+
+22:39.700 --> 22:43.740
+ And that system is called the parasympathetic nervous system
+
+22:43.740 --> 22:45.080
+ because as I mentioned before,
+
+22:45.080 --> 22:46.400
+ the neurons that control stress
+
+22:46.400 --> 22:48.680
+ run from about your neck to your navel.
+
+22:48.680 --> 22:51.540
+ The parasympathetic neurons, para just means near,
+
+22:51.540 --> 22:54.660
+ exist in, they are some of the cranial nerves.
+
+22:54.660 --> 22:57.420
+ So it's kind of neck and lower brainstem,
+
+22:57.420 --> 22:59.460
+ kind of back of the brain and in the neck
+
+22:59.460 --> 23:01.540
+ and in the pelvic area.
+
+23:01.540 --> 23:03.820
+ And the parasympathetic nervous system
+
+23:03.820 --> 23:07.780
+ is really interesting because especially the cranial nerves,
+
+23:07.780 --> 23:11.860
+ the ones that are up in the brainstem and in the neck area,
+
+23:11.860 --> 23:16.180
+ those have a direct line to various features of your face.
+
+23:16.180 --> 23:17.980
+ In particular, the eyes,
+
+23:17.980 --> 23:21.460
+ they control things like eye movements, pupil dilation,
+
+23:21.460 --> 23:22.660
+ things of that sort,
+
+23:22.660 --> 23:25.800
+ as well as the tongue, the facial muscles, et cetera.
+
+23:25.800 --> 23:27.360
+ The parasympathetic nervous system,
+
+23:27.360 --> 23:28.840
+ many people don't realize this,
+
+23:28.840 --> 23:32.420
+ is the system by which we control the face and the eyes
+
+23:32.420 --> 23:34.740
+ and to some extent our airway, the trachea.
+
+23:34.740 --> 23:39.740
+ And it's these neurons that reside within the pelvic area.
+
+23:40.420 --> 23:42.140
+ Now, the neurons within the pelvic area
+
+23:42.140 --> 23:45.380
+ are involved in control of the genitals,
+
+23:45.380 --> 23:47.600
+ the bladder and the rectum.
+
+23:47.600 --> 23:50.420
+ And those don't have a direct line.
+
+23:50.420 --> 23:52.740
+ You don't have a direct way to control those.
+
+23:52.740 --> 23:54.660
+ It actually has to go from brain to spinal cord
+
+23:54.660 --> 23:56.120
+ and then out to those organs.
+
+23:56.120 --> 23:58.660
+ Whereas the parasympathetic nervous system
+
+23:58.660 --> 24:02.700
+ has certain entry points or what I'll call levers, right,
+
+24:02.700 --> 24:05.380
+ that will allow you to push back on the stress response
+
+24:05.380 --> 24:07.460
+ in real time and diminish it
+
+24:07.460 --> 24:09.280
+ and feel more relaxed really quickly.
+
+24:09.280 --> 24:11.500
+ So I'm going to teach you the first tool now
+
+24:11.500 --> 24:13.840
+ so I don't overwhelm you with all this academic knowledge
+
+24:13.840 --> 24:15.940
+ without giving you something useful.
+
+24:15.940 --> 24:19.180
+ And the tool that, at least to my knowledge,
+
+24:19.180 --> 24:23.900
+ is the fastest and most thoroughly grounded
+
+24:23.900 --> 24:25.460
+ in physiology and neuroscience
+
+24:25.460 --> 24:28.380
+ for calming down in a self-directed way
+
+24:28.380 --> 24:32.220
+ is what's called the physiological PSI, S-I-G-H.
+
+24:32.220 --> 24:34.180
+ Now, some of you might have heard me talk about this
+
+24:34.180 --> 24:36.940
+ on previous podcasts, but I'm going to explain this
+
+24:36.940 --> 24:40.380
+ in the context of how respiration in general
+
+24:40.380 --> 24:42.860
+ is used to calm us down.
+
+24:42.860 --> 24:44.620
+ And it turns out you're all doing this all the time,
+
+24:44.620 --> 24:47.020
+ but you are doing it involuntarily.
+
+24:47.020 --> 24:49.180
+ And when you stress, you tend to forget
+
+24:49.180 --> 24:52.420
+ that you can also activate these systems voluntarily.
+
+24:52.420 --> 24:54.980
+ This is an extremely powerful set of techniques
+
+24:54.980 --> 24:57.500
+ that we know from scientific studies
+
+24:57.500 --> 24:58.560
+ that are being done in my lab,
+
+24:58.560 --> 25:03.560
+ Jack Feldman's lab at UCLA, and others now that are very,
+
+25:03.660 --> 25:07.260
+ very useful for reducing your stress response in real time.
+
+25:07.260 --> 25:08.480
+ And here's how they work.
+
+25:08.480 --> 25:10.980
+ These days, there seems to be a lot of interest
+
+25:10.980 --> 25:12.180
+ in breath work.
+
+25:12.180 --> 25:15.140
+ Breath work typically is when you go and you sit down
+
+25:15.140 --> 25:17.420
+ or you lie down and you deliberately breathe
+
+25:17.420 --> 25:19.940
+ in a particular way for a series of minutes
+
+25:19.940 --> 25:22.620
+ in order to shift your physiology, access some states.
+
+25:22.620 --> 25:25.340
+ And it does have some utility that we're going to talk about.
+
+25:25.340 --> 25:27.900
+ That is not what I'm talking about now.
+
+25:27.900 --> 25:30.920
+ What I'm talking about when I refer to physiological size
+
+25:30.920 --> 25:35.860
+ is the very real medical school textbook relationship
+
+25:35.860 --> 25:39.560
+ between the brain, the body,
+
+25:39.560 --> 25:43.020
+ and the body as it relates to the breathing apparatus,
+
+25:43.020 --> 25:46.300
+ meaning the diaphragm and lungs, and the heart.
+
+25:46.300 --> 25:48.580
+ Let's take the hallmark of the stress response.
+
+25:48.580 --> 25:50.180
+ The heart starts beating faster.
+
+25:50.180 --> 25:52.020
+ Blood is shuttled to the big muscles of the body
+
+25:52.020 --> 25:55.460
+ to move you away from whatever it is the stressor is
+
+25:55.460 --> 25:57.260
+ or just make you feel like you need to move
+
+25:57.260 --> 26:00.020
+ or talk, your face goes flushed, et cetera.
+
+26:00.020 --> 26:03.260
+ Heart rate, many of us feel is involuntary,
+
+26:03.260 --> 26:05.580
+ just kind of functions whether or not we're moving fast
+
+26:05.580 --> 26:06.420
+ or moving slow.
+
+26:06.420 --> 26:09.540
+ If you think about it, it's not really purely autonomic
+
+26:09.540 --> 26:11.940
+ because you can speed up your heart rate by running
+
+26:11.940 --> 26:15.780
+ or you can slow it down by slowing down by your run.
+
+26:15.780 --> 26:17.740
+ You can move to a walk or lie down,
+
+26:17.740 --> 26:19.800
+ but that's indirect control.
+
+26:19.800 --> 26:22.180
+ There is, however, a way in which you can breathe
+
+26:22.180 --> 26:24.020
+ that directly controls your heart rate
+
+26:24.020 --> 26:27.140
+ through the interactions between the sympathetic
+
+26:27.140 --> 26:29.600
+ and the parasympathetic nervous system.
+
+26:29.600 --> 26:31.340
+ Here's how it works.
+
+26:31.340 --> 26:34.980
+ When you inhale, so whether or not it's through the nose
+
+26:34.980 --> 26:38.340
+ or through the mouth, this skeletal muscle
+
+26:38.340 --> 26:43.280
+ that's inside your body called the diaphragm, it moves down.
+
+26:43.280 --> 26:44.900
+ And that's because the lungs expand,
+
+26:44.900 --> 26:46.300
+ the diaphragm moves down.
+
+26:47.160 --> 26:49.020
+ Your heart actually gets a little bit bigger
+
+26:49.020 --> 26:50.420
+ in that expanded space.
+
+26:50.420 --> 26:51.820
+ There's more space for the heart.
+
+26:51.820 --> 26:53.340
+ So I'm not talking about your emotional heart
+
+26:53.340 --> 26:55.060
+ getting bigger, I'm talking about your actual
+
+26:55.060 --> 26:56.860
+ physical heart getting a little bit bigger.
+
+26:56.860 --> 26:57.860
+ The volume grows.
+
+26:57.860 --> 27:00.900
+ And as a consequence, whatever blood is in there
+
+27:00.900 --> 27:05.420
+ is now at a lower volume or moving a little bit more slowly
+
+27:05.420 --> 27:10.220
+ in that larger volume than it was before you inhaled.
+
+27:10.220 --> 27:12.060
+ Okay, so more space, heart gets bigger,
+
+27:12.060 --> 27:14.560
+ blood moves more slowly, and there's a little group
+
+27:14.560 --> 27:18.340
+ of neurons called the sinoatrial node in the heart
+
+27:18.340 --> 27:21.100
+ that registers, believe it or not, those neurons
+
+27:21.100 --> 27:24.500
+ pay attention to the rate of blood flow through the heart
+
+27:24.500 --> 27:27.260
+ and send a signal up to the brain
+
+27:27.260 --> 27:29.700
+ that blood is moving more slowly through the heart.
+
+27:30.620 --> 27:33.340
+ The brain then sends a signal back to the heart
+
+27:33.340 --> 27:35.180
+ to speed the heart up.
+
+27:35.180 --> 27:38.820
+ So what this means is if you want your heart to beat faster,
+
+27:38.820 --> 27:43.820
+ inhale longer, inhale more vigorously than your exhales.
+
+27:45.940 --> 27:48.560
+ Now, there are a variety of ways that one could do that,
+
+27:48.560 --> 27:50.140
+ but it doesn't matter if it's through the nose
+
+27:50.140 --> 27:50.960
+ or through the mouth.
+
+27:50.960 --> 27:52.780
+ If your inhales are longer than your exhales,
+
+27:52.780 --> 27:54.820
+ you're speeding up your heart.
+
+27:54.820 --> 27:56.220
+ If your inhales are more vigorous,
+
+27:56.220 --> 27:58.580
+ so even if your inhales are shorter than your exhales,
+
+27:58.580 --> 28:00.940
+ you are speeding up your heart rate.
+
+28:00.940 --> 28:02.420
+ Now, the opposite is also true.
+
+28:02.420 --> 28:04.360
+ If you want to slow your heart rate down,
+
+28:04.360 --> 28:05.980
+ so stress response hits,
+
+28:05.980 --> 28:08.240
+ you want to slow your heart rate down,
+
+28:09.140 --> 28:12.080
+ what you want to do is again capitalize on this relationship
+
+28:12.080 --> 28:14.380
+ between the body, meaning the diaphragm
+
+28:14.380 --> 28:15.740
+ in the heart and the brain.
+
+28:15.740 --> 28:16.580
+ Here's how it works.
+
+28:16.580 --> 28:20.440
+ When you exhale, the diaphragm moves up,
+
+28:20.440 --> 28:22.740
+ which makes the heart a little bit smaller.
+
+28:22.740 --> 28:24.220
+ It actually gets a little more compact.
+
+28:24.220 --> 28:27.580
+ Blood flows more quickly through that compact space,
+
+28:27.580 --> 28:30.500
+ sort of like it's just a pipe getting smaller.
+
+28:30.500 --> 28:32.240
+ The sinoatrial node registers
+
+28:32.240 --> 28:33.620
+ that blood is going more quickly,
+
+28:33.620 --> 28:36.080
+ sends a signal up to the brain,
+
+28:36.080 --> 28:38.280
+ and the parasympathetic nervous system,
+
+28:38.280 --> 28:40.160
+ some neurons in your brainstem,
+
+28:40.160 --> 28:44.180
+ send a signal back to the heart to slow the heart down.
+
+28:44.180 --> 28:46.700
+ So if you want to calm down quickly,
+
+28:46.700 --> 28:49.820
+ you need to make your exhales longer
+
+28:49.820 --> 28:53.200
+ and or more vigorous than your inhales.
+
+28:53.200 --> 28:55.260
+ Now, the reason this is so attractive
+
+28:55.260 --> 28:57.620
+ as a tool for controlling stress
+
+28:57.620 --> 29:00.400
+ is that it works in real time.
+
+29:00.400 --> 29:02.680
+ This doesn't involve a practice that you have to go
+
+29:02.680 --> 29:05.320
+ and sit there and do anything separate from life.
+
+29:05.320 --> 29:07.180
+ And we are going to get to emotion.
+
+29:07.180 --> 29:09.980
+ Emotions and stress happen in real time.
+
+29:09.980 --> 29:12.720
+ And so while it's wonderful to have a breathwork practice
+
+29:12.720 --> 29:14.980
+ or to have the opportunity to get a massage
+
+29:14.980 --> 29:17.300
+ or sit in a sauna or do whatever it is that you do
+
+29:17.300 --> 29:19.420
+ in order to set your stress controls
+
+29:19.420 --> 29:20.600
+ in the right direction,
+
+29:20.600 --> 29:22.940
+ having tools that you can reach to in real time
+
+29:22.940 --> 29:24.360
+ that require no learning,
+
+29:24.360 --> 29:26.800
+ I mean, I had to teach it to you, you had to learn that,
+
+29:26.800 --> 29:28.280
+ but it doesn't require any plasticity
+
+29:28.280 --> 29:29.660
+ to activate these pathways.
+
+29:29.660 --> 29:31.200
+ So if you're feeling stressed,
+
+29:31.200 --> 29:32.860
+ you still need to inhale, of course,
+
+29:32.860 --> 29:35.600
+ but you need to lengthen your exhales.
+
+29:37.020 --> 29:40.160
+ Now, there's a tool that capitalizes on this
+
+29:40.160 --> 29:42.960
+ in a kind of unique way, a kind of a twist,
+
+29:42.960 --> 29:44.660
+ which is the physiological psi.
+
+29:44.660 --> 29:47.200
+ The physiological psi was discovered in the 30s.
+
+29:47.200 --> 29:50.500
+ It's now been explored at the neurobiological level
+
+29:50.500 --> 29:52.700
+ and mechanistically in far more detail
+
+29:52.700 --> 29:55.100
+ by Jack Feldman's lab at UCLA,
+
+29:55.100 --> 29:57.820
+ also Mark Krasnow's lab at Stanford.
+
+29:57.820 --> 30:00.580
+ And the physiological psi is something
+
+30:00.580 --> 30:02.180
+ that humans and animals do
+
+30:02.180 --> 30:04.640
+ anytime they are about to fall asleep.
+
+30:05.620 --> 30:08.100
+ You also do it throughout sleep from time to time
+
+30:08.100 --> 30:10.260
+ when carbon dioxide, which we'll talk about in a moment,
+
+30:10.260 --> 30:12.260
+ builds up too much in your system.
+
+30:12.260 --> 30:14.300
+ And the physiological psi is something
+
+30:14.300 --> 30:15.980
+ that people naturally start doing
+
+30:15.980 --> 30:17.140
+ when they've been crying
+
+30:17.140 --> 30:20.180
+ and they're trying to recover some air or calm down,
+
+30:20.180 --> 30:22.060
+ when they've been sobbing very hard,
+
+30:22.060 --> 30:24.440
+ or when they are in claustrophobic environments.
+
+30:24.440 --> 30:27.500
+ However, the amazing thing about this thing
+
+30:27.500 --> 30:29.380
+ that we call the diaphragm, the skeletal muscle,
+
+30:29.380 --> 30:30.780
+ is that it's an internal organ
+
+30:30.780 --> 30:32.320
+ that you can control voluntarily,
+
+30:32.320 --> 30:36.180
+ unlike your spleen or your heart or your pancreas,
+
+30:36.180 --> 30:37.020
+ where you can't just say,
+
+30:37.020 --> 30:38.260
+ oh, I want to make my pancreas
+
+30:38.260 --> 30:39.660
+ turn out a little more insulin right now.
+
+30:39.660 --> 30:41.680
+ I'm just going to do that with my mind directly.
+
+30:41.680 --> 30:42.520
+ You can't do that.
+
+30:42.520 --> 30:43.420
+ You could do that by smelling
+
+30:43.420 --> 30:44.860
+ a really good donut or something,
+
+30:44.860 --> 30:46.700
+ but you can't just do it directly.
+
+30:46.700 --> 30:50.620
+ You can move your diaphragm intentionally, right?
+
+30:50.620 --> 30:51.860
+ You can do it anytime you want,
+
+30:51.860 --> 30:54.020
+ and it'll run in the background
+
+30:54.020 --> 30:54.920
+ if you're not thinking about it.
+
+30:54.920 --> 30:59.140
+ So this incredible pathway that goes from brain to diaphragm
+
+30:59.140 --> 31:00.600
+ through what's called the phrenic nerve,
+
+31:00.600 --> 31:03.220
+ P-H-R-E-N-I-C, phrenic.
+
+31:03.220 --> 31:05.900
+ The phrenic nerve innervates the diaphragm.
+
+31:05.900 --> 31:07.340
+ You can control anytime you want.
+
+31:07.340 --> 31:09.800
+ You can double up your inhales or triple up your inhales.
+
+31:09.800 --> 31:11.960
+ You can exhale more than your inhales,
+
+31:11.960 --> 31:13.580
+ whatever you want to do.
+
+31:13.580 --> 31:14.820
+ It's such an incredible organ.
+
+31:14.820 --> 31:16.940
+ And the physiological side
+
+31:16.940 --> 31:18.720
+ is something that we do spontaneously,
+
+31:18.720 --> 31:20.660
+ but when you're feeling stressed,
+
+31:20.660 --> 31:22.860
+ you can do a double inhale,
+
+31:22.860 --> 31:27.520
+ nnnn, nnnn, nnnn, nnnn, nnnn, nnnn, nnnn, nnnn, nnnn,
+
+31:27.520 --> 31:28.420
+ long exhale.
+
+31:28.420 --> 31:29.900
+ Now, I just told you a minute ago
+
+31:29.900 --> 31:31.900
+ that if you inhale more than you exhale,
+
+31:31.900 --> 31:33.580
+ you're going to speed the heart rate up,
+
+31:33.580 --> 31:36.100
+ which would promote more stress and activation.
+
+31:36.100 --> 31:38.380
+ Now I'm telling you to do a double inhale exhale
+
+31:38.380 --> 31:40.040
+ in order to calm down.
+
+31:40.040 --> 31:42.980
+ And the reason is the double inhale exhale,
+
+31:42.980 --> 31:44.860
+ which is the physiological side,
+
+31:46.320 --> 31:48.980
+ takes advantage of the fact that when we do a double inhale,
+
+31:48.980 --> 31:50.780
+ even if the second inhale is sneaking in
+
+31:50.780 --> 31:52.220
+ just a tiny bit more air,
+
+31:52.220 --> 31:54.720
+ cause it's kind of hard to get too deep inhales back to back
+
+31:54.720 --> 31:56.740
+ you do big, deep inhale and then another little one
+
+31:56.740 --> 31:57.820
+ sneaking it in.
+
+31:57.820 --> 32:00.660
+ The little sacs in your lungs, the avioli of the lungs,
+
+32:00.660 --> 32:02.060
+ your lungs aren't just two big bags,
+
+32:02.060 --> 32:03.780
+ but you've got millions of little sacs
+
+32:03.780 --> 32:06.500
+ throughout the lungs that actually make the surface area
+
+32:06.500 --> 32:08.640
+ of your lungs as big as a tennis court.
+
+32:08.640 --> 32:11.080
+ It's amazing if we were to just spread that out.
+
+32:11.080 --> 32:14.160
+ Those tend to collapse as we get stressed
+
+32:14.160 --> 32:17.320
+ and carbon dioxide builds up in our bloodstream.
+
+32:17.320 --> 32:20.340
+ And that's one of the reasons we feel agitated as well.
+
+32:20.340 --> 32:22.780
+ So, and it makes us very jittery.
+
+32:22.780 --> 32:24.600
+ I mean, there's some other effects of carbon dioxide
+
+32:24.600 --> 32:25.700
+ I don't want to get into,
+
+32:25.700 --> 32:27.980
+ but when you do the double inhale exhale,
+
+32:27.980 --> 32:31.100
+ the double inhale reinflates those little sacs of the lungs.
+
+32:31.100 --> 32:33.780
+ And then when you do the long exhale,
+
+32:33.780 --> 32:36.920
+ that long exhale is now much more effective
+
+32:36.920 --> 32:40.280
+ at ridding your body and bloodstream of carbon dioxide,
+
+32:40.280 --> 32:42.540
+ which relaxes you very quickly.
+
+32:42.540 --> 32:46.120
+ My lab in collaboration with David Spiegel's lab,
+
+32:46.120 --> 32:49.100
+ David's the associate chair of psychiatry at Stanford
+
+32:49.100 --> 32:50.540
+ are doing a study right now,
+
+32:50.540 --> 32:53.000
+ exploring how physiological size
+
+32:53.000 --> 32:55.640
+ and other patterns of breathing done deliberately
+
+32:55.640 --> 32:57.340
+ can modulate the stress response
+
+32:57.340 --> 32:59.220
+ and other things related to emotionality.
+
+32:59.220 --> 33:00.620
+ Those work are ongoing.
+
+33:00.620 --> 33:02.700
+ I want to be clear, those studies aren't done,
+
+33:02.700 --> 33:06.180
+ but it's very clear from work in our labs,
+
+33:06.180 --> 33:09.000
+ from working with Jack Feldman's lab and others,
+
+33:09.000 --> 33:14.000
+ that the physiological sigh is the fastest hardwired way
+
+33:14.480 --> 33:17.900
+ for us to eliminate this stressful response in our body
+
+33:17.900 --> 33:19.660
+ quickly in real time.
+
+33:19.660 --> 33:22.300
+ And so I'm excited to give you this tool
+
+33:22.300 --> 33:24.700
+ because I think most people have heard
+
+33:24.700 --> 33:26.240
+ that mindfulness and meditation is good,
+
+33:26.240 --> 33:27.380
+ exercise is good for us,
+
+33:27.380 --> 33:29.560
+ we all need to be getting enough sleep, et cetera,
+
+33:29.560 --> 33:30.940
+ but life happens.
+
+33:30.940 --> 33:33.220
+ And when you find yourself in a position
+
+33:33.220 --> 33:35.180
+ where you are more alert and activated
+
+33:35.180 --> 33:36.240
+ than you would like to be,
+
+33:36.240 --> 33:37.980
+ regardless of whether or not the stressor
+
+33:37.980 --> 33:41.300
+ is relationship-based or it's financial
+
+33:41.300 --> 33:44.980
+ or it's physical or anything like that,
+
+33:44.980 --> 33:46.900
+ you can look to the physiological side
+
+33:46.900 --> 33:50.260
+ because it bypasses a very important feature
+
+33:50.260 --> 33:51.100
+ of how we function,
+
+33:51.100 --> 33:53.900
+ which is that it's very hard to control the mind
+
+33:53.900 --> 33:54.800
+ with the mind,
+
+33:54.800 --> 33:59.420
+ especially when we are in heightened states of activation.
+
+33:59.420 --> 34:01.740
+ When we are very alert or very sleepy,
+
+34:01.740 --> 34:05.060
+ it is very hard to use these so-called top-down mechanisms
+
+34:05.060 --> 34:08.820
+ of intention and gratitude and all these things
+
+34:08.820 --> 34:10.700
+ that are really powerful tools
+
+34:10.700 --> 34:13.580
+ when we are not super activated and stressed
+
+34:13.580 --> 34:15.300
+ or not super tired.
+
+34:15.300 --> 34:17.800
+ But when we are anywhere in the range
+
+34:17.800 --> 34:20.580
+ of very alert and stressed to very sleepy,
+
+34:20.580 --> 34:22.820
+ physiological sides are a powerful way
+
+34:22.820 --> 34:25.860
+ of bringing our level of so-called autonomic activation,
+
+34:25.860 --> 34:28.180
+ which just means our level of alertness down.
+
+34:28.180 --> 34:29.980
+ And so whether or not it's in line at the bank
+
+34:29.980 --> 34:32.460
+ or whether or not you're wearing a mask nowadays
+
+34:32.460 --> 34:35.600
+ or you're not, whatever the conditions may be
+
+34:35.600 --> 34:37.300
+ where you're at and your needs,
+
+34:37.300 --> 34:39.300
+ when you're feeling stressed,
+
+34:39.300 --> 34:42.340
+ the physiological side done just one to three times,
+
+34:42.340 --> 34:43.700
+ so it'd be double inhale, exhale,
+
+34:43.700 --> 34:46.040
+ double inhale, exhale, maybe just two times,
+
+34:46.040 --> 34:50.820
+ will bring down your level of stress very, very fast.
+
+34:50.820 --> 34:51.660
+ And as far as I know,
+
+34:51.660 --> 34:54.160
+ it's the fastest way to accomplish that.
+
+34:54.160 --> 34:57.300
+ An important note about the physiological side
+
+34:57.300 --> 34:59.420
+ or exhale emphasized breathing
+
+34:59.420 --> 35:04.420
+ for lowering the stress response, many people worry
+
+35:05.100 --> 35:08.620
+ that their heart rate does not come down fast enough.
+
+35:09.500 --> 35:10.340
+ I want to tell you,
+
+35:10.340 --> 35:13.560
+ you do not want your heart rate to reduce very fast.
+
+35:13.560 --> 35:16.220
+ There's actually something called the vasovagal response
+
+35:16.220 --> 35:17.320
+ where people will stand up
+
+35:17.320 --> 35:18.340
+ or they'll get up in the middle of the night
+
+35:18.340 --> 35:20.560
+ to use the bathroom and then all of a sudden they'll collapse,
+
+35:20.560 --> 35:21.400
+ they'll faint.
+
+35:22.260 --> 35:24.820
+ That's because the heart rate was reduced too much.
+
+35:24.820 --> 35:26.100
+ Some people will see blood
+
+35:26.100 --> 35:29.640
+ or they'll see something really troubling and stressful
+
+35:29.640 --> 35:30.800
+ and they'll pass out.
+
+35:30.800 --> 35:33.380
+ That's an over-activation
+
+35:33.380 --> 35:35.520
+ or an acceleration of the calming response.
+
+35:35.520 --> 35:36.460
+ They're not so stressed
+
+35:36.460 --> 35:39.140
+ that they kind of fall off the cliff of stress.
+
+35:39.140 --> 35:41.900
+ They get so stressed that the rebound mechanism
+
+35:41.900 --> 35:45.580
+ for calming themselves down goes too high, too fast.
+
+35:45.580 --> 35:48.420
+ They calm down too fast and they collapse and faint.
+
+35:48.420 --> 35:49.660
+ And so be aware
+
+35:49.660 --> 35:51.660
+ that if you're going to use the physiological side
+
+35:51.660 --> 35:54.480
+ or exhale emphasize breathing to calm down,
+
+35:54.480 --> 35:57.420
+ that your heart rate will take about 20 to 30 seconds
+
+35:57.420 --> 35:59.300
+ to come down to baseline.
+
+35:59.300 --> 36:00.380
+ And you may need to repeat
+
+36:00.380 --> 36:02.260
+ the physiological side a few times.
+
+36:02.260 --> 36:04.420
+ So that's an important note
+
+36:04.420 --> 36:08.140
+ about the use of breathing to control levels of stress.
+
+36:08.140 --> 36:10.620
+ The other thing is that
+
+36:10.620 --> 36:15.520
+ when you decide to look to the body to control the mind,
+
+36:15.520 --> 36:17.580
+ it does something else that's very powerful.
+
+36:17.580 --> 36:19.840
+ When you are stressed in your mind and body,
+
+36:19.840 --> 36:23.060
+ so you're feeling really agitated, activated and worried
+
+36:23.060 --> 36:26.040
+ and you use a tool like the physiological sigh
+
+36:26.040 --> 36:28.060
+ or exhale emphasize breathing,
+
+36:28.060 --> 36:30.820
+ you will notice that then your brain and your mind
+
+36:30.820 --> 36:32.140
+ becomes more available
+
+36:32.140 --> 36:34.840
+ for controlling the stress response and reacting to it,
+
+36:34.840 --> 36:38.620
+ which is great because the sweet spot in life is to be,
+
+36:38.620 --> 36:39.900
+ provided you're not trying to sleep,
+
+36:39.900 --> 36:41.620
+ is to be alert and calm.
+
+36:41.620 --> 36:43.560
+ And so that's the idea is to be alert and calm
+
+36:43.560 --> 36:47.460
+ and to bring you back into that sort of plane of alertness.
+
+36:48.500 --> 36:50.420
+ For those of you that have trouble sleeping
+
+36:50.420 --> 36:52.460
+ or just relaxing through the day,
+
+36:52.460 --> 36:54.700
+ the physiological side can be repeated
+
+36:54.700 --> 36:57.360
+ for 10, 15 cycles if you like.
+
+36:57.360 --> 36:59.940
+ Some people find that it actually puts them to sleep.
+
+36:59.940 --> 37:01.860
+ So if they lie down and they're reading
+
+37:01.860 --> 37:03.000
+ and they do too many of these,
+
+37:03.000 --> 37:04.260
+ that actually can put them to sleep.
+
+37:04.260 --> 37:07.220
+ And what you'll find is that most breath work protocols,
+
+37:07.220 --> 37:09.620
+ the kind of stuff that's done away from real life
+
+37:09.620 --> 37:10.980
+ that you set aside time
+
+37:10.980 --> 37:13.480
+ and decide to do quote unquote breath work,
+
+37:13.480 --> 37:17.520
+ most of that works such that if you're doing inhales
+
+37:17.520 --> 37:19.260
+ that are longer and more vigorous than exhales,
+
+37:19.260 --> 37:20.860
+ it tends to be activating and alert you.
+
+37:20.860 --> 37:23.220
+ And if you're doing exhales that are longer
+
+37:23.220 --> 37:24.380
+ or more vigorous than the inhales,
+
+37:24.380 --> 37:25.360
+ it tends to put you to sleep.
+
+37:25.360 --> 37:27.540
+ And many of the protocols that are out there
+
+37:27.540 --> 37:30.900
+ from laboratories and that populate the internet
+
+37:30.900 --> 37:32.560
+ and wellness sites and whatnot,
+
+37:32.560 --> 37:34.100
+ if it's exhale-emphasized breathing,
+
+37:34.100 --> 37:35.900
+ oftentimes has been used as a tool
+
+37:35.900 --> 37:37.980
+ for trying to teach people to fall asleep.
+
+37:37.980 --> 37:39.460
+ Physiological side is a little different.
+
+37:39.460 --> 37:40.740
+ It's designed to be used in real time.
+
+37:40.740 --> 37:42.740
+ Just think of it as just kind of in your kit
+
+37:42.740 --> 37:46.140
+ of things that you can do as life happens
+
+37:46.140 --> 37:48.340
+ and as you need to react to life.
+
+37:48.340 --> 37:49.960
+ A note about nasal versus mouth breathing.
+
+37:49.960 --> 37:53.260
+ There's a plethora of information out there now
+
+37:53.260 --> 37:54.600
+ because of James Nestor's book,
+
+37:54.600 --> 37:57.380
+ Breath, the New Science of a Lost Art,
+
+37:57.380 --> 37:59.460
+ which came out this last year, excellent book,
+
+37:59.460 --> 38:02.460
+ as well as Jaws, which is from Sandra Kahn,
+
+38:02.460 --> 38:05.300
+ Paul Ehrlich with a forward by Jared Diamond
+
+38:05.300 --> 38:07.580
+ and Robert Sapolsky.
+
+38:07.580 --> 38:09.620
+ So a collection of people from Stanford,
+
+38:09.620 --> 38:11.980
+ Jared Diamond's not at Stanford, but the rest are.
+
+38:11.980 --> 38:13.920
+ And some heavy hitters on that book,
+
+38:13.920 --> 38:16.540
+ which is about the benefits of nasal breathing.
+
+38:16.540 --> 38:19.060
+ And in many cases, nasal breathing is more advantageous
+
+38:19.060 --> 38:20.780
+ than mouth breathing for all sorts of things,
+
+38:20.780 --> 38:24.060
+ cosmetic features of the face, especially in kids,
+
+38:24.060 --> 38:26.400
+ warding off infection, et cetera.
+
+38:26.400 --> 38:29.220
+ With the physiological side, the best way to do it
+
+38:29.220 --> 38:30.700
+ would be double inhale through the nose,
+
+38:30.700 --> 38:31.640
+ exhale through the mouth.
+
+38:31.640 --> 38:33.260
+ But if you can't and you can only do that
+
+38:33.260 --> 38:34.880
+ through your mouth, just do it through your mouth.
+
+38:34.880 --> 38:36.340
+ If you want to do all through your nose,
+
+38:36.340 --> 38:38.300
+ do it through your nose.
+
+38:38.300 --> 38:41.060
+ This anchors back to some underlying neurology
+
+38:41.060 --> 38:43.300
+ or neuroscience.
+
+38:43.300 --> 38:44.720
+ So for those of you that want to know,
+
+38:44.720 --> 38:46.060
+ you have two breathing centers,
+
+38:46.060 --> 38:47.940
+ one that's involved in rhythmic breathing
+
+38:47.940 --> 38:49.380
+ for inhales followed by exhales,
+
+38:49.380 --> 38:50.860
+ followed by inhales, followed by exhales.
+
+38:50.860 --> 38:53.420
+ The so-called pre-Botzinger nucleus
+
+38:53.420 --> 38:55.020
+ named after a bottle of wine
+
+38:55.020 --> 38:57.020
+ and discovered by Jack Feldman at UCLA.
+
+38:57.020 --> 38:59.540
+ And a nearby nucleus called the parafacial nucleus
+
+38:59.540 --> 39:02.620
+ also discovered by Jack Feldman at UCLA.
+
+39:02.620 --> 39:04.900
+ And the parafacial nucleus is involved
+
+39:04.900 --> 39:06.620
+ in anytime you double up the inhales
+
+39:06.620 --> 39:07.840
+ or double up the exhales.
+
+39:07.840 --> 39:09.740
+ It was designed so that you could breathe
+
+39:09.740 --> 39:11.780
+ while you're speaking, because you can't always go
+
+39:11.780 --> 39:14.140
+ inhale, exhale, inhale, exhale when you're speaking.
+
+39:14.140 --> 39:17.000
+ So I tell you this not to overwhelm you with knowledge,
+
+39:17.000 --> 39:19.460
+ but just know that when you double up your inhales
+
+39:19.460 --> 39:20.500
+ or you double up your exhales,
+
+39:20.500 --> 39:22.700
+ you are activating this parafacial nucleus
+
+39:22.700 --> 39:25.020
+ and it has other cool effects
+
+39:25.020 --> 39:27.020
+ because it's located near the neurons
+
+39:27.020 --> 39:28.500
+ that control the face.
+
+39:28.500 --> 39:30.740
+ It also has a tendency to relax the jaw.
+
+39:30.740 --> 39:32.180
+ There's some interplay between the neurons
+
+39:32.180 --> 39:34.660
+ that control the speaking stuff
+
+39:34.660 --> 39:35.840
+ and the stuff for your tongue.
+
+39:35.840 --> 39:38.220
+ So all of a sudden, when we do this physiological side,
+
+39:38.220 --> 39:40.040
+ we tap into neural circuitry
+
+39:40.040 --> 39:42.600
+ that allows us to speak more clearly,
+
+39:42.600 --> 39:44.740
+ to control the muscles of the face and jaw.
+
+39:44.740 --> 39:46.400
+ Maybe that means not saying certain things
+
+39:46.400 --> 39:50.100
+ when we're stressed and just generally to relax.
+
+39:50.100 --> 39:53.520
+ And so this brings us back to the neuroscience
+
+39:53.520 --> 39:55.580
+ of this parasympathetic nervous system,
+
+39:55.580 --> 39:59.960
+ this calming system that's been genetically encoded into us
+
+39:59.960 --> 40:02.540
+ that we all have regardless of who our parents are,
+
+40:02.540 --> 40:05.060
+ which is that the neurons that control all this stuff,
+
+40:05.060 --> 40:09.460
+ the face, the eyes, et cetera, are all working together.
+
+40:09.460 --> 40:11.040
+ And that's why when we get stressed,
+
+40:11.040 --> 40:13.180
+ it's hard for us to speak or we tend to jitter
+
+40:13.180 --> 40:14.060
+ and these kinds of things,
+
+40:14.060 --> 40:15.980
+ just like all the neurons that cause stress
+
+40:15.980 --> 40:17.720
+ in the center of the spinal cord are working together
+
+40:17.720 --> 40:19.740
+ to get our body activated.
+
+40:19.740 --> 40:20.980
+ Okay, a lot of science today.
+
+40:20.980 --> 40:23.240
+ You've now got the physiological sigh as a tool.
+
+40:23.240 --> 40:24.780
+ You know that exhale-emphasized breathing
+
+40:24.780 --> 40:26.780
+ will slow your heart down
+
+40:26.780 --> 40:31.260
+ and inhale-emphasized breathing will speed your heart up.
+
+40:31.260 --> 40:33.660
+ So let's think about something now.
+
+40:33.660 --> 40:35.620
+ Let's think about stress
+
+40:35.620 --> 40:38.700
+ from not whether or not it's acute or chronic,
+
+40:38.700 --> 40:40.220
+ whether or not it's good for us or bad for us,
+
+40:40.220 --> 40:42.380
+ but on three different timescales,
+
+40:42.380 --> 40:46.280
+ because then we can arrive at what this is all about
+
+40:46.280 --> 40:47.620
+ as it relates to emotions,
+
+40:47.620 --> 40:51.260
+ because trust me, this has everything to do with emotions
+
+40:51.260 --> 40:53.740
+ and whether or not you're functioning well emotionally
+
+40:53.740 --> 40:55.380
+ or you're not functioning well emotionally,
+
+40:55.380 --> 40:57.420
+ whether or not you're coping or not coping.
+
+40:57.420 --> 40:59.580
+ So those are typically psychological terms
+
+40:59.580 --> 41:00.940
+ and psychological discussions.
+
+41:00.940 --> 41:03.620
+ We are entering this through the portal of physiology,
+
+41:03.620 --> 41:05.180
+ the stuff of medical textbooks,
+
+41:05.180 --> 41:08.360
+ and we will arrive at the psychology soon,
+
+41:08.360 --> 41:10.100
+ but I really want you to understand the difference
+
+41:10.100 --> 41:12.980
+ between the three kinds of stress
+
+41:12.980 --> 41:14.420
+ on three different timescales,
+
+41:14.420 --> 41:16.980
+ short-term, medium-term, and long-term,
+
+41:16.980 --> 41:19.920
+ and what it's good for and what it's bad for.
+
+41:19.920 --> 41:23.180
+ I think we've all heard that stress is bad for us.
+
+41:23.180 --> 41:26.460
+ We've seen these pictures intended to frighten us,
+
+41:26.460 --> 41:27.620
+ and indeed they are frightening.
+
+41:27.620 --> 41:30.700
+ You see the nice really plump brain on the left.
+
+41:30.700 --> 41:32.140
+ It says healthy or control,
+
+41:32.140 --> 41:35.260
+ and then you see the brain that says stressed above it
+
+41:35.260 --> 41:37.480
+ on the right, and it's like withered,
+
+41:37.480 --> 41:39.080
+ or we see that the hippocampus,
+
+41:39.080 --> 41:41.480
+ an area involved in memory is smaller,
+
+41:41.480 --> 41:42.820
+ people that are stressed.
+
+41:42.820 --> 41:46.320
+ We see that the Alzheimer's brain is made worse by stress,
+
+41:46.320 --> 41:48.420
+ that people who have a predisposition of schizophrenia
+
+41:48.420 --> 41:49.240
+ when they get stressed,
+
+41:49.240 --> 41:52.380
+ higher incidence of schizophrenic episodes.
+
+41:52.380 --> 41:55.540
+ You hear that addicts will relapse when they're stressed.
+
+41:55.540 --> 41:58.460
+ I mean, okay, we get it, and it's very important,
+
+41:58.460 --> 42:00.540
+ but I think we've all heard now so many times
+
+42:00.540 --> 42:04.660
+ that stress is bad, but in that conversation,
+
+42:04.660 --> 42:08.560
+ unfortunately it's eclipsed some of the really positive
+
+42:08.560 --> 42:11.940
+ things that stress does for us in the short term.
+
+42:11.940 --> 42:14.700
+ So stress can be short-term, medium-term, or long-term.
+
+42:14.700 --> 42:16.700
+ Long-term stress is indeed bad
+
+42:16.700 --> 42:19.460
+ for all the reasons I just mentioned and many others,
+
+42:19.460 --> 42:20.980
+ but what's never actually been discussed
+
+42:20.980 --> 42:23.860
+ is what stress is so terrific for,
+
+42:23.860 --> 42:26.200
+ positive for in the short term,
+
+42:26.200 --> 42:29.980
+ and I think we tend to overlook the important question,
+
+42:29.980 --> 42:32.700
+ which is what is short-term and what is long-term?
+
+42:32.700 --> 42:34.820
+ No one ever bothers to tell us what is chronic,
+
+42:34.820 --> 42:36.060
+ what is acute, right?
+
+42:36.060 --> 42:37.000
+ Is it five minutes?
+
+42:37.000 --> 42:37.920
+ Is it five days?
+
+42:37.920 --> 42:40.140
+ Is it for the duration of final exams
+
+42:40.140 --> 42:44.220
+ or is it for the duration of a senior thesis in college?
+
+42:44.220 --> 42:46.300
+ No one actually draws boundaries around this stuff
+
+42:46.300 --> 42:48.040
+ or even general guidelines,
+
+42:48.040 --> 42:51.980
+ and so it's become a bit of a mess, frankly,
+
+42:51.980 --> 42:54.500
+ to try and decipher this whole space around stress,
+
+42:54.500 --> 42:57.180
+ so I'm going to try and clean some of this up for you
+
+42:57.180 --> 42:59.500
+ based on what we know from the scientific data.
+
+43:00.620 --> 43:03.260
+ First of all, acute stress.
+
+43:03.260 --> 43:04.740
+ When the stress response hits,
+
+43:04.740 --> 43:07.020
+ that is good for your immune system.
+
+43:07.020 --> 43:08.740
+ I know that might be a tough pill to swallow,
+
+43:08.740 --> 43:10.860
+ but it's absolutely true.
+
+43:10.860 --> 43:14.600
+ In fact, stress often comes in the form
+
+43:14.600 --> 43:17.280
+ of bacterial or viral infection,
+
+43:17.280 --> 43:21.700
+ and the stress response is in part organized
+
+43:21.700 --> 43:24.660
+ to combat bacterial and viral infection.
+
+43:24.660 --> 43:27.700
+ There are pathways from the same brain centers
+
+43:27.700 --> 43:30.940
+ that activate these neurons in your spinal cord
+
+43:30.940 --> 43:32.940
+ to make you feel like you want to move.
+
+43:32.940 --> 43:35.320
+ There are other neurons in your brain
+
+43:35.320 --> 43:37.540
+ to activate things like your spleen,
+
+43:37.540 --> 43:40.820
+ which will deploy killer cells to go out and scavenge
+
+43:40.820 --> 43:42.820
+ for incoming bacteria and viruses
+
+43:42.820 --> 43:45.500
+ and try and eat them up and kill them,
+
+43:45.500 --> 43:49.700
+ so short-term stress and the release of adrenaline
+
+43:49.700 --> 43:51.420
+ in particular or epinephrine,
+
+43:51.420 --> 43:53.280
+ same thing, adrenaline epinephrine,
+
+43:53.280 --> 43:56.940
+ is good for combating infection,
+
+43:56.940 --> 43:59.260
+ and this to me is just not discussed enough,
+
+43:59.260 --> 44:00.960
+ so that's why I'm discussing it here,
+
+44:00.960 --> 44:02.820
+ and it relates to a particular tool
+
+44:02.820 --> 44:04.940
+ that many of you ask about,
+
+44:04.940 --> 44:07.820
+ but I don't often get the opportunity to talk about
+
+44:07.820 --> 44:09.900
+ in such an appropriate context.
+
+44:09.900 --> 44:12.940
+ It's not that it's ever inappropriate to talk about,
+
+44:12.940 --> 44:14.280
+ but what I'm about to talk about now
+
+44:14.280 --> 44:18.620
+ is the use of, again, respiration, breathing,
+
+44:18.620 --> 44:23.620
+ to somewhat artificially activate the stress response,
+
+44:23.940 --> 44:26.400
+ and that will accomplish two things, okay?
+
+44:26.400 --> 44:28.020
+ I'll return to medium and long-term stress,
+
+44:28.020 --> 44:30.540
+ but I want to say short-term stress is good
+
+44:30.540 --> 44:32.980
+ because the dilation of the pupils,
+
+44:32.980 --> 44:34.620
+ the changes in the optics of the eyes,
+
+44:34.620 --> 44:36.160
+ the quickening of the heart rate,
+
+44:36.160 --> 44:37.860
+ the sharpening of your cognition,
+
+44:37.860 --> 44:39.700
+ and in fact, that short-term stress
+
+44:39.700 --> 44:42.540
+ brings certain elements of the brain online
+
+44:42.540 --> 44:44.120
+ that allow you to focus.
+
+44:44.120 --> 44:45.300
+ Now, it narrows your focus.
+
+44:45.300 --> 44:47.640
+ You're not good at seeing the so-called big picture,
+
+44:47.640 --> 44:48.980
+ but it narrows your focus.
+
+44:48.980 --> 44:50.700
+ It allows you to do these,
+
+44:50.700 --> 44:53.180
+ what I call duration path outcome types of analysis.
+
+44:53.180 --> 44:54.740
+ It allows you to evaluate your environment,
+
+44:54.740 --> 44:56.420
+ evaluate what you need to do.
+
+44:56.420 --> 44:59.460
+ It primes your whole system for better cognition.
+
+44:59.460 --> 45:02.180
+ It primes your immune system to combat infection,
+
+45:02.180 --> 45:04.460
+ and that all makes sense when you think about the fact
+
+45:04.460 --> 45:09.460
+ that famine, thirst, bacterial infections,
+
+45:09.900 --> 45:11.660
+ viral infections, invaders,
+
+45:11.660 --> 45:14.340
+ all of this stuff liberates a response in the body
+
+45:14.340 --> 45:17.220
+ that's designed to get you to fight back
+
+45:17.220 --> 45:19.500
+ against whatever stressor that happens to be,
+
+45:19.500 --> 45:22.580
+ psychological, physical, bacterial, viral.
+
+45:22.580 --> 45:25.340
+ Again, the stress response is generic.
+
+45:25.340 --> 45:28.340
+ The tool takes advantage of the fact
+
+45:28.340 --> 45:31.860
+ that when adrenaline is released in the body
+
+45:31.860 --> 45:34.380
+ from the adrenals,
+
+45:34.380 --> 45:36.580
+ it has the effect of also liberating
+
+45:36.580 --> 45:40.140
+ a lot of these killer cells from the immune organs,
+
+45:40.140 --> 45:43.100
+ in particular from the spleen, but from elsewhere as well,
+
+45:43.100 --> 45:45.580
+ and interactions with the lymphatic system
+
+45:45.580 --> 45:47.260
+ that combat infection.
+
+45:49.680 --> 45:51.700
+ The way this works in the real world
+
+45:51.700 --> 45:56.460
+ is best captured by a study that can be mapped back
+
+45:56.460 --> 45:58.940
+ to so-called Wim Hof breathing.
+
+45:58.940 --> 46:01.880
+ Now, Wim Hof breathing is so named after
+
+46:01.880 --> 46:04.160
+ the so-called Iceman Wim Hof.
+
+46:04.160 --> 46:07.020
+ Wim, of course, being this Dutch,
+
+46:07.020 --> 46:09.260
+ I think he is self-titled Daredevil,
+
+46:09.260 --> 46:12.740
+ and indeed he has many, many Guinness Book of World Records
+
+46:12.740 --> 46:14.940
+ for things like swimming under icebergs,
+
+46:14.940 --> 46:17.400
+ and going up Kilimanjaro in his shorts,
+
+46:17.400 --> 46:22.400
+ and crossing the desert without water, et cetera,
+
+46:22.660 --> 46:24.680
+ things that are quite dangerous
+
+46:24.680 --> 46:26.700
+ if you don't know what you're doing.
+
+46:26.700 --> 46:30.780
+ And Wim obviously survived, or I'm telling you he survived.
+
+46:30.780 --> 46:34.500
+ But there are two components to a sort of breathing protocol
+
+46:34.500 --> 46:37.600
+ that he developed that was based also
+
+46:37.600 --> 46:40.180
+ on what's called TUMO breathing, T-U-M-M-O.
+
+46:40.180 --> 46:42.500
+ So before Wim, there was TUMO breathing.
+
+46:42.500 --> 46:46.180
+ And many people call this now super oxygenation breathing,
+
+46:46.180 --> 46:49.300
+ although the breath work aficionados will probably say,
+
+46:49.300 --> 46:50.940
+ well, it's not super oxygenation
+
+46:50.940 --> 46:53.820
+ because you're also blowing off a lot of carbon dioxide.
+
+46:53.820 --> 46:55.600
+ What I'm talking about here,
+
+46:55.600 --> 46:58.280
+ regardless of whether or not it's called Wim Hof, TUMO,
+
+46:58.280 --> 47:02.740
+ or super oxygenation is rapid deliberate breathing.
+
+47:02.740 --> 47:04.760
+ So it's deliberate hyperventilation.
+
+47:05.660 --> 47:06.900
+ Why would somebody want to do this?
+
+47:06.900 --> 47:11.300
+ Well, deliberate hyperventilation done for maybe 25 cycles.
+
+47:11.300 --> 47:14.140
+ So inhale, exhale, inhale, exhale, inhale, exhale.
+
+47:14.140 --> 47:15.560
+ Typically it's done in through the nose,
+
+47:15.560 --> 47:16.400
+ out through the mouth,
+
+47:16.400 --> 47:18.680
+ although sometimes it's just through the mouth.
+
+47:18.680 --> 47:23.580
+ If you do that for 15 breaths, 20 breaths, 25 breaths,
+
+47:23.580 --> 47:24.920
+ you will feel very alert.
+
+47:24.920 --> 47:27.760
+ People who have anxiety will feel anxious.
+
+47:27.760 --> 47:30.320
+ They might even have an anxiety attack.
+
+47:30.320 --> 47:34.260
+ However, we need to ask why that kind of breathing
+
+47:34.260 --> 47:35.240
+ feels that way.
+
+47:35.240 --> 47:37.020
+ And it's because that pattern of breathing,
+
+47:37.020 --> 47:39.700
+ rapid movements of the diaphragm
+
+47:39.700 --> 47:42.260
+ will liberate adrenaline from the adrenals.
+
+47:42.260 --> 47:44.420
+ So it's the release of adrenaline.
+
+47:44.420 --> 47:46.740
+ I mentioned that Wim is also called the Iceman.
+
+47:46.740 --> 47:49.300
+ Well, that's because he actually discovered
+
+47:49.300 --> 47:51.380
+ this pattern of breathing somewhat.
+
+47:51.380 --> 47:55.780
+ And again, it maps back to Tummo breathing
+
+47:55.780 --> 47:57.260
+ by going into cold water.
+
+47:57.260 --> 47:59.680
+ When you go into cold water, that too is a stressor
+
+47:59.680 --> 48:02.820
+ and you liberate adrenaline in response to cold water.
+
+48:02.820 --> 48:05.020
+ So if you get into an ice bath or a cold shower,
+
+48:05.020 --> 48:09.020
+ you will immediately release adrenaline from your adrenals.
+
+48:09.960 --> 48:11.640
+ Now, there are all sorts of things related to this
+
+48:11.640 --> 48:13.820
+ about psychological control and stress thresholds
+
+48:13.820 --> 48:15.140
+ that we'll talk about.
+
+48:15.140 --> 48:16.680
+ But I really want people to understand
+
+48:16.680 --> 48:18.620
+ that when adrenaline is released in the body,
+
+48:18.620 --> 48:22.980
+ you are in a better position to combat infections.
+
+48:22.980 --> 48:25.280
+ And so whether or not you breathe very quickly
+
+48:25.280 --> 48:27.700
+ in these cycles of 25 breaths,
+
+48:27.700 --> 48:30.100
+ and regardless of what you call it, doesn't matter,
+
+48:30.100 --> 48:31.260
+ adrenaline is released.
+
+48:31.260 --> 48:33.840
+ If you take a cold shower, adrenaline is released.
+
+48:33.840 --> 48:36.620
+ If you go into an ice bath deliberately,
+
+48:36.620 --> 48:39.660
+ and even if you do it non-deliberately,
+
+48:39.660 --> 48:40.820
+ adrenaline is released.
+
+48:40.820 --> 48:43.020
+ You are mimicking the stress response.
+
+48:43.020 --> 48:48.620
+ And that adrenaline serves to suppress or combat
+
+48:48.620 --> 48:49.780
+ incoming infections.
+
+48:49.780 --> 48:51.620
+ And this was beautifully shown in a study
+
+48:51.620 --> 48:53.660
+ that was published in a very fine journal,
+
+48:53.660 --> 48:55.660
+ The Proceedings of the National Academy of Sciences
+
+48:55.660 --> 48:57.100
+ for the US.
+
+48:57.100 --> 48:58.420
+ It's literally called
+
+48:58.420 --> 49:00.620
+ Proceedings of the National Academy of USA
+
+49:00.620 --> 49:02.540
+ to distinguish it from other proceedings
+
+49:02.540 --> 49:04.840
+ of other national academies in other countries.
+
+49:07.020 --> 49:11.140
+ The way the experiment went is that people were injected
+
+49:11.140 --> 49:14.820
+ with endotoxin, or in some cases,
+
+49:14.820 --> 49:17.500
+ they were injected with a bacterial wall
+
+49:17.500 --> 49:19.220
+ that mimics infection.
+
+49:19.220 --> 49:20.260
+ It gives you a fever.
+
+49:20.260 --> 49:21.300
+ It makes you feel nauseous.
+
+49:21.300 --> 49:22.140
+ It makes you feel sick.
+
+49:22.140 --> 49:24.020
+ It is not pleasant.
+
+49:24.020 --> 49:27.180
+ Half of the people did a particular pattern of breathing
+
+49:27.180 --> 49:29.140
+ that looked very much like the pattern of breathing
+
+49:29.140 --> 49:33.140
+ I described a moment ago of doing 25 deep inhales
+
+49:33.140 --> 49:36.240
+ and exhales, followed by an exhale holding their breath,
+
+49:36.240 --> 49:39.380
+ then repeating, 25 inhales, exhales holding their breath.
+
+49:39.380 --> 49:40.620
+ So this would look something like this,
+
+49:40.620 --> 49:42.020
+ or if you're listening, it sounds like,
+
+49:42.020 --> 49:44.300
+ ah, ah, ah.
+
+49:44.300 --> 49:46.920
+ 25, 30 times, you'll start feeling heated up.
+
+49:46.920 --> 49:48.500
+ You'll start feeling the adrenaline response.
+
+49:48.500 --> 49:50.000
+ You're liberating adrenaline in your body.
+
+49:50.000 --> 49:53.640
+ Then exhale, hold your breath for 15 seconds,
+
+49:53.640 --> 49:54.740
+ and then repeat.
+
+49:54.740 --> 49:57.380
+ And then typically after doing three or four rounds of that,
+
+49:57.380 --> 49:59.620
+ they would inhale very deeply and hold their breath.
+
+49:59.620 --> 50:00.940
+ Now I want to emphasize,
+
+50:00.940 --> 50:03.740
+ never, ever, ever do this anywhere near water.
+
+50:03.740 --> 50:07.060
+ People have passed out so-called shallow water breath out.
+
+50:07.060 --> 50:07.900
+ People have died.
+
+50:07.900 --> 50:09.440
+ Don't do it in the bathtub, do it in the hot tub.
+
+50:09.440 --> 50:10.620
+ Don't do it before swimming.
+
+50:10.620 --> 50:12.000
+ Please don't do it anywhere near water.
+
+50:12.000 --> 50:13.100
+ Please don't do it at all
+
+50:13.100 --> 50:15.380
+ unless you get clearance to do it from your doctor,
+
+50:15.380 --> 50:17.420
+ because there are some pulmonary effects and whatnot.
+
+50:17.420 --> 50:19.300
+ And the breath holds should definitely not be done
+
+50:19.300 --> 50:22.460
+ by anyone that has glaucoma or pressure concerns
+
+50:22.460 --> 50:23.540
+ for the eyes.
+
+50:23.540 --> 50:26.480
+ But these repeated cycles of breathing
+
+50:26.480 --> 50:29.260
+ that liberate adrenaline allowed the group
+
+50:29.260 --> 50:32.700
+ that did that protocol to essentially experience
+
+50:32.700 --> 50:36.340
+ zero symptoms from the injection of this E. coli,
+
+50:36.340 --> 50:37.680
+ which is remarkable.
+
+50:37.680 --> 50:39.720
+ They had much reduced or no symptoms.
+
+50:39.720 --> 50:41.020
+ They didn't feel feverish.
+
+50:41.020 --> 50:41.900
+ They didn't feel sick.
+
+50:41.900 --> 50:44.540
+ They weren't vomiting, no diarrhea, which is remarkable,
+
+50:44.540 --> 50:47.260
+ but makes total sense when you think about the fact
+
+50:47.260 --> 50:48.760
+ that the short-term stress response
+
+50:48.760 --> 50:51.060
+ that what's typically called the acute stress response
+
+50:51.060 --> 50:54.380
+ is designed to combat all stressors.
+
+50:54.380 --> 50:58.380
+ In fact, were you to cut yourself very deeply
+
+50:58.380 --> 51:00.340
+ while out on a hike in the woods.
+
+51:00.340 --> 51:01.880
+ The other thing that would happen
+
+51:01.880 --> 51:06.340
+ is that there would be a rapid inflammation response.
+
+51:06.340 --> 51:08.340
+ And we always hear inflammation is bad.
+
+51:08.340 --> 51:10.020
+ Inflammation gives us Alzheimer's.
+
+51:10.020 --> 51:11.540
+ Inflammation is the worst thing.
+
+51:11.540 --> 51:13.900
+ But the swelling is associated,
+
+51:13.900 --> 51:16.660
+ the inflammation is associated with the recruitment
+
+51:16.660 --> 51:20.540
+ of things like macrophages or microglia,
+
+51:20.540 --> 51:23.740
+ if it's a neural tissue, cells in our brain and body
+
+51:23.740 --> 51:26.260
+ whose job is to act like little ambulances
+
+51:26.260 --> 51:28.060
+ and rush to that site and clean it up.
+
+51:28.060 --> 51:30.540
+ And indeed the inflammation response looks horrible.
+
+51:30.540 --> 51:33.760
+ It sounds horrible, but it's a great thing in the short term
+
+51:33.760 --> 51:38.760
+ you want to have that tissue marked as in trouble
+
+51:39.060 --> 51:41.740
+ and you want the body and brain to react to it.
+
+51:41.740 --> 51:44.520
+ So if you're getting peaks in stress from time to time
+
+51:44.520 --> 51:46.100
+ throughout your day or throughout your week,
+
+51:46.100 --> 51:49.640
+ you are in a better position to combat infection.
+
+51:49.640 --> 51:52.660
+ You are in a better position to heal your wounds,
+
+51:52.660 --> 51:54.180
+ physical wounds.
+
+51:54.180 --> 51:57.100
+ Many great things happen in the stress response.
+
+51:57.100 --> 51:58.560
+ Now, of course the stress response
+
+51:58.560 --> 52:00.160
+ isn't always super intense.
+
+52:00.160 --> 52:01.720
+ Sometimes it's milder.
+
+52:01.720 --> 52:03.620
+ Sometimes it allows us to just focus on something
+
+52:03.620 --> 52:05.420
+ as we have a deadline that can feel stressful.
+
+52:05.420 --> 52:06.640
+ But that's one of the reasons
+
+52:06.640 --> 52:07.980
+ you procrastinators out there,
+
+52:07.980 --> 52:12.060
+ people always ask me what can be done for procrastination?
+
+52:12.060 --> 52:13.500
+ What can be done for procrastination
+
+52:13.500 --> 52:15.660
+ is you can understand what's happening,
+
+52:15.660 --> 52:18.740
+ which is that you are self-imposing stress
+
+52:18.740 --> 52:20.980
+ because stress acts like a drug.
+
+52:20.980 --> 52:22.620
+ It is a powerful nootropic.
+
+52:22.620 --> 52:24.100
+ I get asked about nootropics.
+
+52:24.100 --> 52:27.440
+ The most powerful nootropic or smart drug is stress.
+
+52:27.440 --> 52:29.260
+ It's the concern of failure.
+
+52:29.260 --> 52:31.060
+ It's the desire to do well.
+
+52:31.060 --> 52:32.560
+ It's the impending deadline.
+
+52:32.560 --> 52:34.740
+ It's the, oh my gosh, I have to do this thing now
+
+52:34.740 --> 52:35.580
+ or I'm going to fail.
+
+52:35.580 --> 52:38.140
+ That is the best nootropic you will ever find.
+
+52:38.140 --> 52:39.880
+ That combined with a good night's sleep,
+
+52:39.880 --> 52:40.940
+ which we'll talk about,
+
+52:40.940 --> 52:42.180
+ but we spend a whole month on sleep
+
+52:42.180 --> 52:44.700
+ so I don't want to backtrack too much, okay?
+
+52:44.700 --> 52:47.500
+ So short-term stress, great.
+
+52:47.500 --> 52:51.580
+ The key is to be able to turn the stress response off
+
+52:51.580 --> 52:54.000
+ when you're done, when you don't want that.
+
+52:54.000 --> 52:57.920
+ In fact, let's just really tamp down the relationship
+
+52:57.920 --> 53:00.100
+ between the short-term or acute stress response
+
+53:00.100 --> 53:01.140
+ and infection.
+
+53:01.140 --> 53:02.840
+ Many of us are familiar with the experience
+
+53:02.840 --> 53:04.060
+ of work, work, work, work, work,
+
+53:04.060 --> 53:05.660
+ or taking care of a loved one,
+
+53:05.660 --> 53:06.900
+ or stress, stress, stress, stress,
+
+53:06.900 --> 53:08.020
+ then we finally relax.
+
+53:08.020 --> 53:09.600
+ Maybe we even go on vacation.
+
+53:09.600 --> 53:11.300
+ Like, oh, now I'm finally going to get the break
+
+53:11.300 --> 53:12.740
+ and then we get sick.
+
+53:12.740 --> 53:15.420
+ And that's because the adrenaline response crashed
+
+53:15.420 --> 53:18.340
+ and your immune system crashed with it.
+
+53:18.340 --> 53:20.740
+ So please understand this.
+
+53:20.740 --> 53:22.820
+ Now, many of you might say, well, how long?
+
+53:22.820 --> 53:23.780
+ Is it two hours?
+
+53:23.780 --> 53:24.600
+ Is it three hours?
+
+53:24.600 --> 53:26.340
+ A lot of you out there that really like specificity,
+
+53:26.340 --> 53:28.100
+ it will vary for everybody.
+
+53:28.100 --> 53:31.780
+ I would just kind of use a rule of thumb.
+
+53:31.780 --> 53:34.740
+ When you are no longer able to achieve good sleep,
+
+53:34.740 --> 53:36.360
+ what good sleep means to you,
+
+53:36.360 --> 53:38.000
+ and please see the episodes on sleep
+
+53:38.000 --> 53:40.380
+ if you want more about tools to sleep.
+
+53:40.380 --> 53:43.660
+ When you are no longer able to achieve good sleep,
+
+53:43.660 --> 53:46.300
+ you are now moving from acute stress to chronic stress.
+
+53:46.300 --> 53:49.460
+ You need to be able to turn the stress response off.
+
+53:49.460 --> 53:50.920
+ If I have one wish,
+
+53:50.920 --> 53:52.440
+ well, I have many wishes for this lifetime,
+
+53:52.440 --> 53:56.540
+ but if I have one wish today that I hope will permeate
+
+53:56.540 --> 53:59.700
+ and spread out there is this idea that we need
+
+53:59.700 --> 54:03.100
+ from a young age, but even as adults and forever,
+
+54:03.100 --> 54:05.580
+ we need to learn how to turn off our stress response.
+
+54:05.580 --> 54:08.140
+ Physiological sigh is one.
+
+54:08.140 --> 54:10.560
+ If we're going to activate our stress response intentionally
+
+54:10.560 --> 54:12.860
+ by ice baths, cold showers,
+
+54:12.860 --> 54:14.940
+ cyclic hyperoxygenated breathing,
+
+54:14.940 --> 54:17.340
+ AKA Tummo breathing or Wim Hof breathing,
+
+54:17.340 --> 54:21.020
+ we also need to learn how to press the brake, okay?
+
+54:21.020 --> 54:23.060
+ So let's think about the stress system.
+
+54:23.060 --> 54:25.140
+ It knows how to activate itself.
+
+54:25.140 --> 54:28.100
+ Now we're talking about a way of deliberately activating
+
+54:28.100 --> 54:30.780
+ your stress system in order to combat infection.
+
+54:30.780 --> 54:31.940
+ I do this from time to time.
+
+54:31.940 --> 54:33.420
+ I might feel a tickle in my throat
+
+54:33.420 --> 54:35.580
+ or like I'm getting kind of run down.
+
+54:35.580 --> 54:38.260
+ I will do this kind of breathing, I do.
+
+54:38.260 --> 54:42.460
+ I will take 25 or 30 breaths, exhale, hold my breath.
+
+54:42.460 --> 54:44.500
+ 25, 30 breaths again, exhale,
+
+54:44.500 --> 54:46.780
+ hold my breath for about 15 seconds.
+
+54:46.780 --> 54:48.540
+ 25, 30 breaths again, exhale,
+
+54:48.540 --> 54:50.260
+ hold my breath for 25 or 30 seconds,
+
+54:50.260 --> 54:52.060
+ then a big inhale and I hold my breath
+
+54:52.060 --> 54:54.320
+ until I feel the impulse to breathe.
+
+54:54.320 --> 54:56.360
+ Again, I feel it safe for me.
+
+54:56.360 --> 54:58.240
+ I've run it by my doctor, so it's fine.
+
+54:58.240 --> 55:00.780
+ You should not do this unless it's right for you,
+
+55:00.780 --> 55:01.620
+ but I do this.
+
+55:01.620 --> 55:03.540
+ Some people like the ice bath.
+
+55:03.540 --> 55:05.340
+ I rarely do the ice bath.
+
+55:05.340 --> 55:06.580
+ Some people like cold showers.
+
+55:06.580 --> 55:08.060
+ I like hot showers.
+
+55:08.060 --> 55:10.180
+ So I take hot showers, but I do this kind of breathing.
+
+55:10.180 --> 55:14.220
+ Again, they are all having more or less the same effect
+
+55:14.220 --> 55:16.060
+ of increasing adrenaline
+
+55:16.060 --> 55:19.380
+ which allows you to combat the infection
+
+55:19.380 --> 55:21.420
+ because you're activating the immune response.
+
+55:21.420 --> 55:24.460
+ Okay, so now let's talk about medium-term stress.
+
+55:24.460 --> 55:26.540
+ Medium-term stress is going to be stress
+
+55:26.540 --> 55:31.540
+ that lasts anywhere from several days to several weeks.
+
+55:31.540 --> 55:33.380
+ We might think of that as long-term stress.
+
+55:33.380 --> 55:34.540
+ There are times in life
+
+55:34.540 --> 55:37.220
+ where we are just dealing with a lot.
+
+55:37.220 --> 55:39.940
+ This particular quarter, I happen to be directing a course.
+
+55:39.940 --> 55:42.080
+ I'm doing the lab, I'm doing this.
+
+55:42.080 --> 55:44.020
+ I enjoy all these things immensely,
+
+55:44.020 --> 55:46.620
+ but I'm kind of near my threshold.
+
+55:46.620 --> 55:49.460
+ I'm near the point where any additional thing,
+
+55:49.460 --> 55:51.140
+ like I couldn't log onto a website the other day
+
+55:51.140 --> 55:54.080
+ and it felt like the most intense thing in the world
+
+55:54.080 --> 55:55.900
+ at that moment and I kind of laughed at myself.
+
+55:55.900 --> 55:57.240
+ Fortunately, I caught it,
+
+55:57.240 --> 56:00.060
+ but that typically wouldn't be my response
+
+56:00.060 --> 56:02.180
+ under conditions where I wasn't pushed to threshold.
+
+56:02.180 --> 56:03.860
+ What is this medium-term stress?
+
+56:03.860 --> 56:05.220
+ What is stress threshold?
+
+56:05.220 --> 56:09.740
+ Well, stress threshold is actually our ability
+
+56:09.740 --> 56:14.020
+ to cognitively regulate what's going on in our body.
+
+56:14.020 --> 56:16.180
+ So we've all hear so much about
+
+56:16.180 --> 56:18.420
+ we need to unify our mind and body.
+
+56:18.420 --> 56:21.100
+ We need to be at one with our mind and body
+
+56:21.100 --> 56:23.420
+ or now I realize I'm kind of poking fun
+
+56:23.420 --> 56:24.620
+ at some of the new agey language.
+
+56:24.620 --> 56:26.580
+ But the reason I poke fun is not because
+
+56:26.580 --> 56:29.180
+ I don't think it has value, but it has no specificity.
+
+56:29.180 --> 56:30.000
+ What does that mean?
+
+56:30.000 --> 56:31.940
+ I mean, I think I'm always in my body.
+
+56:31.940 --> 56:33.880
+ I've never fortunately looked across the room
+
+56:33.880 --> 56:36.320
+ and seen my arm over there or my leg over there.
+
+56:36.320 --> 56:38.020
+ I'm connected to my body.
+
+56:38.020 --> 56:39.060
+ There actually is a syndrome
+
+56:39.060 --> 56:41.700
+ where people feel disconnected from their limbs.
+
+56:41.700 --> 56:43.500
+ This is a real clinical condition.
+
+56:43.500 --> 56:45.740
+ These people actually will seek out amputation.
+
+56:45.740 --> 56:47.060
+ They will try and convince doctors
+
+56:47.060 --> 56:49.220
+ to amputate certain portions of their body.
+
+56:49.220 --> 56:50.800
+ It's a really terrible thing for people
+
+56:50.800 --> 56:55.800
+ that have and it relates to a change in central maps
+
+56:55.900 --> 56:57.200
+ in the brain, believe it or not.
+
+56:57.200 --> 57:00.540
+ Most of us want to keep our limbs,
+
+57:00.540 --> 57:02.020
+ whichever ones we happen to have.
+
+57:02.020 --> 57:04.700
+ And most of us feel one in mind and body
+
+57:04.700 --> 57:06.220
+ so much so that when stress hits,
+
+57:06.220 --> 57:07.940
+ we feel it in our mind and body.
+
+57:07.940 --> 57:10.860
+ A lot of stress inoculation,
+
+57:10.860 --> 57:13.740
+ a lot of managing medium-term stress
+
+57:13.740 --> 57:17.640
+ on the timescale of weeks or maybe even a couple months.
+
+57:17.640 --> 57:20.940
+ So we're not talking about years of stress.
+
+57:20.940 --> 57:24.420
+ A lot of that has to do with raising our stress threshold.
+
+57:24.420 --> 57:26.580
+ It's about capacity.
+
+57:26.580 --> 57:29.060
+ And there are very simple tools,
+
+57:29.060 --> 57:31.060
+ excellent tools that will allow us
+
+57:31.060 --> 57:34.180
+ to modulate our capacity for stress.
+
+57:34.180 --> 57:37.640
+ And they look a lot like the tools I just described.
+
+57:37.640 --> 57:40.740
+ They involve placing oneself deliberately
+
+57:40.740 --> 57:44.520
+ into a situation where our adrenaline is increased somewhat,
+
+57:44.520 --> 57:46.340
+ not to the extreme.
+
+57:46.340 --> 57:49.300
+ And then when we feel flooded with adrenaline
+
+57:50.460 --> 57:52.420
+ and normally we would panic,
+
+57:52.420 --> 57:56.220
+ it's about cognitively, mentally, emotionally,
+
+57:56.220 --> 57:58.620
+ calming ourselves and being comfortable
+
+57:58.620 --> 58:00.480
+ with that response in our body.
+
+58:00.480 --> 58:03.140
+ So unlike trying to unify the mind and body
+
+58:03.140 --> 58:05.420
+ and make it all calm or make it all alert,
+
+58:05.420 --> 58:09.300
+ this is about dissociating mind and body in a healthy way.
+
+58:09.300 --> 58:10.940
+ And what would this look like?
+
+58:10.940 --> 58:13.060
+ Well, this is something I actually do as a practice
+
+58:13.060 --> 58:14.940
+ because I mentioned before,
+
+58:14.940 --> 58:16.320
+ you can use physiological size.
+
+58:16.320 --> 58:18.940
+ In real time, you can use
+
+58:18.940 --> 58:22.140
+ the cyclic hyperoxygenation breathing to combat infection
+
+58:22.140 --> 58:24.340
+ if you're feeling kind of run down.
+
+58:24.340 --> 58:27.340
+ And there's also a way in which you can use things
+
+58:27.340 --> 58:30.800
+ like cold showers or if you exercise
+
+58:30.800 --> 58:32.540
+ and you bring your heart rate up very high,
+
+58:32.540 --> 58:34.700
+ you kind of go into that high intensity realm
+
+58:34.700 --> 58:36.980
+ where your heart is beating a little bit harder
+
+58:36.980 --> 58:38.780
+ than you're comfortable with.
+
+58:38.780 --> 58:40.940
+ And that you're just, you feel,
+
+58:40.940 --> 58:42.380
+ some people think it's lactic acid.
+
+58:42.380 --> 58:45.020
+ No one can agree on this, what the burn is,
+
+58:45.020 --> 58:47.420
+ whether it's lactic acid or it's buildup of hydrogen
+
+58:47.420 --> 58:48.260
+ or whatever.
+
+58:48.260 --> 58:49.080
+ I don't want to get into that,
+
+58:49.080 --> 58:51.180
+ but we're all familiar with the intense feeling
+
+58:51.180 --> 58:52.700
+ of your muscles kind of burning
+
+58:52.700 --> 58:56.160
+ because you're working very hard physically.
+
+58:56.160 --> 59:00.140
+ The key in those moments is to learn to relax the mind
+
+59:00.140 --> 59:02.340
+ while the body is very activated.
+
+59:02.340 --> 59:04.260
+ And what that tends to do,
+
+59:04.260 --> 59:05.740
+ there's a limited amount of research on this,
+
+59:05.740 --> 59:08.820
+ but what that tends to do is it tends to create a situation
+
+59:08.820 --> 59:12.900
+ where what once felt like a lot feels manageable.
+
+59:13.780 --> 59:17.200
+ You've raised your stress threshold or your stress capacity.
+
+59:17.200 --> 59:19.560
+ One way that you can do this, and this is kind of fun,
+
+59:19.560 --> 59:21.940
+ if it's approved by your physician
+
+59:21.940 --> 59:23.200
+ and you're able to do this,
+
+59:23.200 --> 59:24.620
+ you can bring your heart rate up.
+
+59:24.620 --> 59:26.180
+ You could do this through an ice bath
+
+59:26.180 --> 59:27.740
+ if that's your thing or a cold shower
+
+59:27.740 --> 59:29.540
+ or cyclic oxygenation breathing,
+
+59:29.540 --> 59:32.380
+ or you could sprint or you could go hard on the bike,
+
+59:32.380 --> 59:34.580
+ whatever it is that brings your heart rate up.
+
+59:34.580 --> 59:36.300
+ And then what you want to do
+
+59:36.300 --> 59:38.660
+ is you want to actually try and calm the mind
+
+59:38.660 --> 59:41.500
+ while your body is in this heightened state of activation.
+
+59:41.500 --> 59:44.420
+ And the best way that I'm aware to do that,
+
+59:44.420 --> 59:47.540
+ again, goes back to physiology, not psychology.
+
+59:48.380 --> 59:51.100
+ When we are stressed, our pupils dilate.
+
+59:51.100 --> 59:53.340
+ The effect of that pupil dilation
+
+59:53.340 --> 59:54.740
+ is to create tunnel vision.
+
+59:54.740 --> 59:56.940
+ It literally narrows our view of the visual world.
+
+59:56.940 --> 59:59.140
+ We no longer see in panorama.
+
+59:59.140 --> 1:00:01.620
+ And there's some other effects as well,
+
+1:00:01.620 --> 1:00:03.060
+ but that's because the visual system
+
+1:00:03.060 --> 1:00:05.700
+ through this cranial nerve system that I described before
+
+1:00:05.700 --> 1:00:10.080
+ is tethered and is part of this autonomic nervous system.
+
+1:00:10.080 --> 1:00:12.900
+ By deliberately dilating your gaze,
+
+1:00:12.900 --> 1:00:14.740
+ meaning not moving your head and eyes around,
+
+1:00:14.740 --> 1:00:18.060
+ but by deliberately going from tunnel vision
+
+1:00:18.060 --> 1:00:20.280
+ to broader panoramic vision,
+
+1:00:20.280 --> 1:00:22.880
+ literally seeing more of your environment all at once,
+
+1:00:22.880 --> 1:00:23.980
+ you don't have to do what I'm doing,
+
+1:00:23.980 --> 1:00:26.180
+ which is not blinking, you're welcome to blink,
+
+1:00:26.180 --> 1:00:28.520
+ but it means deliberately dilating your gaze
+
+1:00:28.520 --> 1:00:31.760
+ so that you can see yourself in the environment you're in.
+
+1:00:31.760 --> 1:00:33.680
+ It creates a calming effect on the mind
+
+1:00:33.680 --> 1:00:36.280
+ because it releases a particular circuit in the brainstem
+
+1:00:36.280 --> 1:00:40.100
+ that's associated with alertness, AKA stress.
+
+1:00:40.100 --> 1:00:41.900
+ Now, this is very powerful.
+
+1:00:41.900 --> 1:00:43.340
+ If you're running, for instance,
+
+1:00:43.340 --> 1:00:45.840
+ and you're at max capacity or close to it,
+
+1:00:45.840 --> 1:00:48.460
+ or you're kind of hitting like 80, 90% of maximum
+
+1:00:48.460 --> 1:00:51.580
+ on the bike and you dilate your gaze,
+
+1:00:51.580 --> 1:00:53.260
+ what you'll find is the mind can relax
+
+1:00:53.260 --> 1:00:55.420
+ while the body is in full output.
+
+1:00:55.420 --> 1:00:58.780
+ And this relates to work that in various communities,
+
+1:00:58.780 --> 1:01:00.820
+ people are working with this in the sports community,
+
+1:01:00.820 --> 1:01:02.380
+ military communities, et cetera,
+
+1:01:02.380 --> 1:01:05.780
+ but it's a form, not really of stress inoculation,
+
+1:01:05.780 --> 1:01:08.300
+ it's more about raising stress threshold
+
+1:01:08.300 --> 1:01:11.140
+ so that the body is going to continue to be
+
+1:01:11.140 --> 1:01:15.240
+ in a high alertness, high reactivity mode, high output,
+
+1:01:15.240 --> 1:01:16.980
+ but the mind is calm.
+
+1:01:16.980 --> 1:01:19.520
+ And so this isn't about unifying mind and body,
+
+1:01:19.520 --> 1:01:22.180
+ this is actually about using body
+
+1:01:22.180 --> 1:01:24.020
+ to bring up your level of activation,
+
+1:01:24.020 --> 1:01:25.580
+ then dissociating,
+
+1:01:25.580 --> 1:01:28.900
+ not the clinical dissociation kind of disorders,
+
+1:01:28.900 --> 1:01:31.980
+ but dissociating the mental or emotional response
+
+1:01:31.980 --> 1:01:33.140
+ from what's going on in your body.
+
+1:01:33.140 --> 1:01:36.380
+ And over time, so if you do this a couple of times,
+
+1:01:36.380 --> 1:01:37.960
+ you don't have to do this every workout,
+
+1:01:37.960 --> 1:01:40.460
+ but if you do this maybe once a week or so,
+
+1:01:40.460 --> 1:01:42.060
+ you start being comfortable
+
+1:01:42.060 --> 1:01:43.940
+ at these higher activation states.
+
+1:01:43.940 --> 1:01:46.900
+ What once felt overwhelming and like a lot of work
+
+1:01:46.900 --> 1:01:50.500
+ now is manageable, it feels tolerable.
+
+1:01:50.500 --> 1:01:53.540
+ So that's for navigating medium term stress.
+
+1:01:53.540 --> 1:01:54.940
+ Now there are other tools as well,
+
+1:01:54.940 --> 1:01:56.900
+ but we don't want to go over 90 minutes
+
+1:01:56.900 --> 1:01:58.720
+ because 90 minutes is one ultradian cycle.
+
+1:01:58.720 --> 1:02:00.000
+ I always try and keep these podcasts
+
+1:02:00.000 --> 1:02:02.060
+ to one ultradian cycle in case you haven't noticed
+
+1:02:02.060 --> 1:02:05.020
+ so you can derive maximum benefit from them
+
+1:02:05.020 --> 1:02:07.780
+ based on ultradian cycle principles of learning.
+
+1:02:07.780 --> 1:02:10.580
+ So I don't want to go into every little bit of this
+
+1:02:10.580 --> 1:02:11.980
+ and I want to make sure we get to emotions,
+
+1:02:11.980 --> 1:02:16.340
+ but I want to emphasize that these medium term stressors
+
+1:02:16.340 --> 1:02:18.680
+ of, oh, it has been a hard month or hard week
+
+1:02:18.680 --> 1:02:20.940
+ or Stanford's on the quarter system,
+
+1:02:20.940 --> 1:02:23.240
+ so 10 weeks or semester,
+
+1:02:23.240 --> 1:02:27.400
+ that becomes more manageable when we train ourselves
+
+1:02:27.400 --> 1:02:31.820
+ to be calm of mind when our body is activated.
+
+1:02:31.820 --> 1:02:33.860
+ And if you haven't noticed,
+
+1:02:33.860 --> 1:02:35.500
+ most of the tools I'm describing today
+
+1:02:35.500 --> 1:02:38.260
+ are nothing like the sort of, okay, sit and do meditation.
+
+1:02:38.260 --> 1:02:41.460
+ I'm not, I'm actively avoiding saying the words NSDR,
+
+1:02:41.460 --> 1:02:42.460
+ non-sleep deep rest.
+
+1:02:42.460 --> 1:02:44.120
+ I talked a lot about those tools
+
+1:02:44.120 --> 1:02:47.100
+ during the months on sleep and neuroplasticity.
+
+1:02:47.100 --> 1:02:49.820
+ And of course they're wonderful for replenishing
+
+1:02:49.820 --> 1:02:53.180
+ your ability to lean into effort, to learn, to focus.
+
+1:02:53.180 --> 1:02:56.100
+ Please do try and check out NSDR protocol,
+
+1:02:56.100 --> 1:02:57.100
+ see if they're right for you.
+
+1:02:57.100 --> 1:02:58.980
+ The margins for safety I think are enormous.
+
+1:02:58.980 --> 1:03:01.140
+ You're basically just listening to a script.
+
+1:03:01.140 --> 1:03:03.220
+ We have links to them in previous captions.
+
+1:03:03.220 --> 1:03:04.780
+ I've talked to them on various podcasts before.
+
+1:03:04.780 --> 1:03:06.280
+ We can provide them again.
+
+1:03:06.280 --> 1:03:08.300
+ But today I'm really talking about tools
+
+1:03:08.300 --> 1:03:10.800
+ so that you can learn to dance with stress,
+
+1:03:10.800 --> 1:03:14.420
+ to in the short term, reduce that stress response
+
+1:03:14.420 --> 1:03:16.240
+ a little bit if you feel it's too uncomfortable.
+
+1:03:16.240 --> 1:03:18.140
+ In the medium term, to be comfortable
+
+1:03:18.140 --> 1:03:19.420
+ at these heightened levels of activation
+
+1:03:19.420 --> 1:03:21.940
+ because life is going to continue to come at you.
+
+1:03:21.940 --> 1:03:24.260
+ We can't pick the stressors,
+
+1:03:24.260 --> 1:03:27.440
+ but we need to be able to function at a higher capacity
+
+1:03:27.440 --> 1:03:28.700
+ often.
+
+1:03:28.700 --> 1:03:30.640
+ And then there's long-term stress.
+
+1:03:30.640 --> 1:03:32.700
+ Now long-term stress is bad.
+
+1:03:32.700 --> 1:03:35.360
+ You do not want adrenaline up in your system
+
+1:03:35.360 --> 1:03:36.700
+ for a very long time.
+
+1:03:36.700 --> 1:03:41.240
+ In fact, ideally you would have your stress go up
+
+1:03:41.240 --> 1:03:42.900
+ various times throughout the day,
+
+1:03:42.900 --> 1:03:44.700
+ but it would never stay elevated
+
+1:03:44.700 --> 1:03:45.640
+ and it would never prevent you
+
+1:03:45.640 --> 1:03:46.880
+ from getting a good night's sleep.
+
+1:03:46.880 --> 1:03:48.780
+ Now that isn't realistic, okay?
+
+1:03:48.780 --> 1:03:53.260
+ I would say for me, three, four nights out of the month,
+
+1:03:53.260 --> 1:03:55.560
+ no matter what I do, I take on too much
+
+1:03:55.560 --> 1:03:57.780
+ or something happens and life is life
+
+1:03:57.780 --> 1:03:59.820
+ and I don't get the best night's sleep
+
+1:03:59.820 --> 1:04:01.220
+ that I would like to get.
+
+1:04:01.220 --> 1:04:03.860
+ For many of you, it's 30 nights per month.
+
+1:04:03.860 --> 1:04:05.900
+ For some of you, it's zero nights per month
+
+1:04:05.900 --> 1:04:09.180
+ and congratulations to you zero nights per month people.
+
+1:04:09.180 --> 1:04:11.380
+ If you are managing your sleep really well every night,
+
+1:04:11.380 --> 1:04:13.100
+ that is fantastic.
+
+1:04:13.100 --> 1:04:15.940
+ You really want to be able to fall asleep at night,
+
+1:04:15.940 --> 1:04:17.180
+ stay asleep for most of the night
+
+1:04:17.180 --> 1:04:18.540
+ and if you get up, go back to sleep
+
+1:04:18.540 --> 1:04:20.420
+ for as long as you need to in order to feel rested.
+
+1:04:20.420 --> 1:04:23.620
+ That's what I define as a healthy relationship to sleep.
+
+1:04:23.620 --> 1:04:25.020
+ Check out the episodes on sleep
+
+1:04:25.020 --> 1:04:27.220
+ if you want tools to be able to accomplish that.
+
+1:04:27.220 --> 1:04:29.580
+ We can all accomplish that, it can be done
+
+1:04:29.580 --> 1:04:32.220
+ and there are tools to do it, zero cost tools.
+
+1:04:32.220 --> 1:04:35.460
+ Okay, so let's talk about long-term stress.
+
+1:04:35.460 --> 1:04:38.100
+ Earlier I talked about how breathing
+
+1:04:38.100 --> 1:04:41.660
+ can modulate heart rate through this loop
+
+1:04:41.660 --> 1:04:42.740
+ that includes the brain
+
+1:04:42.740 --> 1:04:44.940
+ and the parasympathetic nervous system.
+
+1:04:44.940 --> 1:04:46.000
+ I don't think I mentioned this
+
+1:04:46.000 --> 1:04:47.660
+ and I want to make sure that I mentioned
+
+1:04:47.660 --> 1:04:50.220
+ that breathing controlling heart rate
+
+1:04:50.220 --> 1:04:52.860
+ through the sympathetic and parasympathetic nervous system
+
+1:04:52.860 --> 1:04:57.860
+ is the basis of what's called HRV, heart rate variability.
+
+1:04:57.900 --> 1:05:01.140
+ And we know that heart rate variability is good.
+
+1:05:01.140 --> 1:05:04.180
+ You don't want your heart rate chronically elevated
+
+1:05:04.180 --> 1:05:05.840
+ or chronically low.
+
+1:05:05.840 --> 1:05:06.680
+ A lot of people think,
+
+1:05:06.680 --> 1:05:08.980
+ oh, I want a really nice low heart rate
+
+1:05:08.980 --> 1:05:10.620
+ and indeed if you're in shape,
+
+1:05:10.620 --> 1:05:13.200
+ the stroke volume of your heart will be greater
+
+1:05:13.200 --> 1:05:16.780
+ and you can have a nice slow heart rate.
+
+1:05:16.780 --> 1:05:19.620
+ Years ago when I was running regularly,
+
+1:05:19.620 --> 1:05:21.860
+ I think my heart rate was down to like 50 or 60
+
+1:05:21.860 --> 1:05:22.700
+ or something like that.
+
+1:05:22.700 --> 1:05:26.000
+ That's great but, and now it's higher than that
+
+1:05:26.000 --> 1:05:27.300
+ because I'm running a little bit less
+
+1:05:27.300 --> 1:05:30.700
+ but everyone needs to determine what's right for them
+
+1:05:30.700 --> 1:05:32.420
+ but you don't really want your heart rate
+
+1:05:32.420 --> 1:05:35.680
+ to be chronically low or chronically high, both are bad.
+
+1:05:35.680 --> 1:05:38.860
+ We know that chronic stress, elevated stress
+
+1:05:38.860 --> 1:05:42.520
+ and especially in the so-called type A personalities
+
+1:05:42.520 --> 1:05:45.700
+ creates heart disease, leading killer
+
+1:05:45.700 --> 1:05:49.900
+ for in most every country, but in particular in the US
+
+1:05:49.900 --> 1:05:52.240
+ because of the way that adrenaline
+
+1:05:52.240 --> 1:05:54.540
+ impacts those blood vessels are constricting
+
+1:05:54.540 --> 1:05:57.180
+ and some and dilating others.
+
+1:05:57.180 --> 1:05:59.220
+ It's just that kind of hypertension,
+
+1:05:59.220 --> 1:06:01.380
+ chronic hypertension is just bad.
+
+1:06:01.380 --> 1:06:03.740
+ And so chronic stress truly is bad.
+
+1:06:03.740 --> 1:06:05.580
+ I want to really make that clear
+
+1:06:05.580 --> 1:06:07.860
+ because I emphasized a lot of what some
+
+1:06:07.860 --> 1:06:09.460
+ of the positive effects of stress
+
+1:06:09.460 --> 1:06:12.780
+ but you want to be able to tamp down your stress
+
+1:06:12.780 --> 1:06:14.020
+ in real time.
+
+1:06:14.020 --> 1:06:16.200
+ You also want to be able to modulate your stress
+
+1:06:16.200 --> 1:06:18.340
+ and your emotional relationship to stress
+
+1:06:18.340 --> 1:06:20.180
+ in the body in the medium term
+
+1:06:20.180 --> 1:06:22.380
+ but by no means do you want to be stressed out
+
+1:06:22.380 --> 1:06:24.700
+ all the time chronically for months and months
+
+1:06:24.700 --> 1:06:26.200
+ and months and years on end.
+
+1:06:27.880 --> 1:06:32.080
+ The best tools, the best mechanisms that we know
+
+1:06:32.080 --> 1:06:34.040
+ to modulate long-term stress
+
+1:06:34.040 --> 1:06:35.640
+ might surprise you a little bit.
+
+1:06:36.900 --> 1:06:39.360
+ First of all, there are going to be the things
+
+1:06:39.360 --> 1:06:41.280
+ that don't surprise you, which is everyone knows
+
+1:06:41.280 --> 1:06:44.540
+ getting regular exercise, getting good sleep,
+
+1:06:44.540 --> 1:06:46.740
+ using real-time tools to try and tamp down
+
+1:06:46.740 --> 1:06:48.260
+ the stress response, et cetera.
+
+1:06:48.260 --> 1:06:50.100
+ That's all going to be really useful.
+
+1:06:51.580 --> 1:06:56.060
+ The data really point to the fact that social connection
+
+1:06:56.060 --> 1:06:59.300
+ and certain types of social connection in particular
+
+1:06:59.300 --> 1:07:04.140
+ are what are going to mitigate or reduce long-term stress.
+
+1:07:04.140 --> 1:07:06.940
+ And this is a particularly important issue nowadays
+
+1:07:06.940 --> 1:07:10.300
+ where we have all these proxies or surrogates
+
+1:07:10.300 --> 1:07:11.860
+ for social connection.
+
+1:07:11.860 --> 1:07:14.060
+ We're online and texting with people a lot
+
+1:07:14.060 --> 1:07:15.500
+ so we can feel connected.
+
+1:07:15.500 --> 1:07:17.180
+ People are like the plane's about to take off
+
+1:07:17.180 --> 1:07:19.160
+ and everyone's texting each other.
+
+1:07:19.160 --> 1:07:20.740
+ Whether or not they have fear of flying or not,
+
+1:07:20.740 --> 1:07:23.240
+ they're like, okay, see you, love you, hate you,
+
+1:07:23.240 --> 1:07:25.940
+ whatever it is that they're trying to communicate to people.
+
+1:07:27.120 --> 1:07:29.600
+ Then plane lands, everyone phones out,
+
+1:07:29.600 --> 1:07:30.780
+ see you, love you, hate you.
+
+1:07:30.780 --> 1:07:32.460
+ Let's hope it's fewer hate yous.
+
+1:07:32.460 --> 1:07:35.160
+ But everyone has this kind of need to stay connected
+
+1:07:35.160 --> 1:07:36.000
+ to one another.
+
+1:07:36.000 --> 1:07:38.340
+ Humans are incredibly social creatures.
+
+1:07:38.340 --> 1:07:40.620
+ Now, there is a way to look at this whole business
+
+1:07:40.620 --> 1:07:41.940
+ of social connection,
+
+1:07:41.940 --> 1:07:45.860
+ not from just the kind of wishy-washy, new agey perspective.
+
+1:07:45.860 --> 1:07:47.500
+ And I want to point out that sometimes I'll say
+
+1:07:47.500 --> 1:07:49.100
+ wishy-washy, new agey.
+
+1:07:49.100 --> 1:07:50.680
+ I have nothing against that.
+
+1:07:52.340 --> 1:07:55.580
+ My goal here is always to put scientific data
+
+1:07:55.580 --> 1:07:58.140
+ and some neurochemistry on things
+
+1:07:58.140 --> 1:08:00.540
+ so that for those of you that are into
+
+1:08:00.540 --> 1:08:01.920
+ wishy-washy, new agey stuff,
+
+1:08:01.920 --> 1:08:04.440
+ you also can arm yourself with some arguments
+
+1:08:04.440 --> 1:08:07.940
+ for the members of your family and your life
+
+1:08:07.940 --> 1:08:10.820
+ that maybe aren't so tuned into the typical language
+
+1:08:10.820 --> 1:08:11.980
+ around those practices.
+
+1:08:11.980 --> 1:08:13.860
+ Like, oh, connection is really key.
+
+1:08:13.860 --> 1:08:15.020
+ We all get oxytocin.
+
+1:08:15.020 --> 1:08:18.020
+ Actually, did you know that connection between individuals
+
+1:08:18.020 --> 1:08:20.320
+ rarely causes the release of oxytocin?
+
+1:08:20.320 --> 1:08:23.380
+ Oxytocin is released in very particular circumstances
+
+1:08:23.380 --> 1:08:28.380
+ like post-orgasm, baby and mother, milk let down.
+
+1:08:29.400 --> 1:08:31.660
+ It's associated with kind of really intense
+
+1:08:31.660 --> 1:08:34.180
+ kinds of pair bonding things of mother and child,
+
+1:08:34.180 --> 1:08:36.280
+ also father and child, but especially mother and child
+
+1:08:36.280 --> 1:08:39.620
+ because it's relationship to the lactation system.
+
+1:08:39.620 --> 1:08:42.780
+ Couples post sex, these kinds of things
+
+1:08:42.780 --> 1:08:46.940
+ that were reflect deep kind of layers of our biology.
+
+1:08:46.940 --> 1:08:50.880
+ And oxytocin is not just released when we walk in
+
+1:08:50.880 --> 1:08:52.280
+ and pat the dog on the head,
+
+1:08:52.280 --> 1:08:53.840
+ or we see somebody and we give them a hug
+
+1:08:53.840 --> 1:08:56.260
+ and hey, great to see you, fist bump.
+
+1:08:56.260 --> 1:08:58.900
+ That's not a situation for oxytocin.
+
+1:08:58.900 --> 1:09:00.540
+ The way to think about social connection
+
+1:09:00.540 --> 1:09:02.540
+ and how it can mitigate
+
+1:09:02.540 --> 1:09:04.740
+ some of the long-term effects of stress
+
+1:09:04.740 --> 1:09:07.900
+ is really through the systems of neuromodulation
+
+1:09:07.900 --> 1:09:12.900
+ like serotonin and through blocking certain things
+
+1:09:13.740 --> 1:09:16.600
+ that are really bad for us when we feel socially isolated,
+
+1:09:16.600 --> 1:09:17.780
+ things like tachykinins.
+
+1:09:17.780 --> 1:09:18.780
+ So let me explain what these are.
+
+1:09:18.780 --> 1:09:21.020
+ Serotonin again is a neuromodulator.
+
+1:09:21.020 --> 1:09:23.340
+ Neuromodulators are a little bit like playlists
+
+1:09:23.340 --> 1:09:24.180
+ in the brain.
+
+1:09:24.180 --> 1:09:26.460
+ They tend to amplify or bias the likelihood
+
+1:09:26.460 --> 1:09:28.320
+ that certain brain circuits and body circuits
+
+1:09:28.320 --> 1:09:31.700
+ are going to be activated and that others will not.
+
+1:09:31.700 --> 1:09:35.100
+ Serotonin generally, and I realize I'm speaking
+
+1:09:35.100 --> 1:09:37.420
+ very generally here, but it generally gives us feelings
+
+1:09:37.420 --> 1:09:39.020
+ of wellbeing at very high levels.
+
+1:09:39.020 --> 1:09:42.020
+ It makes us feel blissed and it tends to make us feel
+
+1:09:42.020 --> 1:09:44.640
+ like we have enough in our immediate environment.
+
+1:09:44.640 --> 1:09:47.420
+ This is why some of the side effects of antidepressants
+
+1:09:47.420 --> 1:09:49.820
+ that elevate serotonin and actually can help a lot of people
+
+1:09:49.820 --> 1:09:51.260
+ with depressive symptoms.
+
+1:09:51.260 --> 1:09:54.220
+ But the side effects associated with drugs
+
+1:09:54.220 --> 1:09:57.700
+ that increase serotonin tend to be reduced affect.
+
+1:09:57.700 --> 1:10:00.300
+ They tend to kind of blunt affect or make people feel
+
+1:10:00.300 --> 1:10:04.180
+ like their libido is lower, desire goes down
+
+1:10:04.180 --> 1:10:07.020
+ because the body has so much serotonin
+
+1:10:07.020 --> 1:10:08.140
+ and the brain has so much serotonin
+
+1:10:08.140 --> 1:10:10.300
+ that one feels like they have enough.
+
+1:10:10.300 --> 1:10:13.300
+ But serotonin, pharmacology aside
+
+1:10:13.300 --> 1:10:18.120
+ or taking antidepressants aside, topic for another time,
+
+1:10:18.120 --> 1:10:20.040
+ serotonin tends to make us feel good.
+
+1:10:20.040 --> 1:10:22.380
+ When we see somebody that we recognize and trust,
+
+1:10:22.380 --> 1:10:25.240
+ serotonin is released in the brain.
+
+1:10:25.240 --> 1:10:29.140
+ And that has certain positive effects on the immune system
+
+1:10:29.140 --> 1:10:32.860
+ and on other systems of neural repair and synapses
+
+1:10:32.860 --> 1:10:35.460
+ and things that really reinforce connections in the brain
+
+1:10:35.460 --> 1:10:38.380
+ and prevent that long-term withering of connections.
+
+1:10:38.380 --> 1:10:41.600
+ So serotonin is tied to social connection.
+
+1:10:41.600 --> 1:10:43.620
+ Now, social connection can take many forms.
+
+1:10:43.620 --> 1:10:46.580
+ As many of you know, I am very attached to my dog.
+
+1:10:46.580 --> 1:10:48.300
+ I hope he's attached to me.
+
+1:10:48.300 --> 1:10:50.180
+ He's asleep most of the time, so I don't know.
+
+1:10:50.180 --> 1:10:51.300
+ And even if he was awake,
+
+1:10:51.300 --> 1:10:52.560
+ I don't really know what I would ask him,
+
+1:10:52.560 --> 1:10:56.940
+ but he seems more or less to be attached to me as well.
+
+1:10:56.940 --> 1:11:00.180
+ And there's no scientific evidence
+
+1:11:00.180 --> 1:11:02.700
+ that it has to be human-human attachment.
+
+1:11:02.700 --> 1:11:04.980
+ I do have attachments to humans as well,
+
+1:11:04.980 --> 1:11:08.220
+ but you can have attachments to other people.
+
+1:11:08.220 --> 1:11:10.140
+ Some of those can be romantic attachments.
+
+1:11:10.140 --> 1:11:12.040
+ Those could be familial attachments
+
+1:11:12.040 --> 1:11:15.540
+ that are non-romantic, friendship, pets,
+
+1:11:15.540 --> 1:11:18.780
+ even attachments to things that just delight us.
+
+1:11:18.780 --> 1:11:21.180
+ One of the things that really can mitigate
+
+1:11:21.180 --> 1:11:23.820
+ against the long-term negative effects
+
+1:11:23.820 --> 1:11:26.300
+ of chronic long-term stress
+
+1:11:26.300 --> 1:11:27.620
+ isn't just having fun.
+
+1:11:27.620 --> 1:11:28.460
+ We hear all this stuff.
+
+1:11:28.460 --> 1:11:30.180
+ You need to play and have fun.
+
+1:11:30.180 --> 1:11:31.800
+ That can be a little bit of a tough concept,
+
+1:11:31.800 --> 1:11:33.260
+ especially for the hard-driving people
+
+1:11:33.260 --> 1:11:34.560
+ or people that are stressed,
+
+1:11:34.560 --> 1:11:36.780
+ but having a sense of delight,
+
+1:11:36.780 --> 1:11:39.720
+ a sense of really enjoying something that you see
+
+1:11:39.720 --> 1:11:42.820
+ and engage in, witness or participate in,
+
+1:11:42.820 --> 1:11:46.100
+ that is associated with the serotonin system.
+
+1:11:46.100 --> 1:11:47.960
+ And certainly play is one of those things,
+
+1:11:47.960 --> 1:11:49.480
+ social connection of various forms.
+
+1:11:49.480 --> 1:11:51.180
+ Those are things to invest in.
+
+1:11:51.180 --> 1:11:52.020
+ Some people might say,
+
+1:11:52.020 --> 1:11:54.320
+ well, nobody wants to be my friend
+
+1:11:54.320 --> 1:11:57.460
+ or nobody wants to engage socially anymore.
+
+1:11:57.460 --> 1:11:59.220
+ I'll be the first to admit social connection
+
+1:11:59.220 --> 1:12:01.460
+ and friendship and relationships of all kinds
+
+1:12:01.460 --> 1:12:05.780
+ to animals or humans or inanimate objects takes work.
+
+1:12:05.780 --> 1:12:06.780
+ It takes investment.
+
+1:12:06.780 --> 1:12:10.100
+ It takes time in not needing everything
+
+1:12:10.100 --> 1:12:12.020
+ to be exactly the way you want it to be.
+
+1:12:12.020 --> 1:12:13.620
+ I have a friend who struggles with this
+
+1:12:13.620 --> 1:12:16.640
+ and oftentimes the conversations just circle back
+
+1:12:16.640 --> 1:12:19.300
+ to the fact that when you want social connection,
+
+1:12:19.300 --> 1:12:21.380
+ you often have to be more flexible.
+
+1:12:21.380 --> 1:12:22.940
+ You have to eat on other people's schedules.
+
+1:12:22.940 --> 1:12:23.880
+ Sometimes you have to eat things
+
+1:12:23.880 --> 1:12:26.120
+ you don't necessarily want to eat the most in that moment
+
+1:12:26.120 --> 1:12:28.460
+ or stay up a little later or wake up a little earlier.
+
+1:12:28.460 --> 1:12:30.580
+ Social connection is something that we work for,
+
+1:12:30.580 --> 1:12:33.060
+ but it is incredibly powerful.
+
+1:12:33.060 --> 1:12:35.780
+ I want to, of course, tip my hat to,
+
+1:12:37.220 --> 1:12:39.540
+ it's only appropriate to call him the great Robert Sapolsky,
+
+1:12:39.540 --> 1:12:43.040
+ my colleague who I'm fortunate to know at Stanford,
+
+1:12:43.040 --> 1:12:44.640
+ of course, has talked about this quite a lot.
+
+1:12:44.640 --> 1:12:47.700
+ So I want to acknowledge Robert's incredible work
+
+1:12:47.700 --> 1:12:48.940
+ and discussions around this.
+
+1:12:48.940 --> 1:12:50.640
+ You can look up those materials online
+
+1:12:50.640 --> 1:12:52.120
+ and his wonderful books.
+
+1:12:52.120 --> 1:12:56.340
+ But primates, and we are primates, we are social species.
+
+1:12:56.340 --> 1:12:58.780
+ And as Robert has said many times before,
+
+1:12:58.780 --> 1:13:02.800
+ never before in any primate history,
+
+1:13:02.800 --> 1:13:04.220
+ but in particular in human history,
+
+1:13:04.220 --> 1:13:07.300
+ have we interacted with so many strangers at a distance
+
+1:13:07.300 --> 1:13:09.660
+ when we are not really connected to them.
+
+1:13:09.660 --> 1:13:12.860
+ So finding just a few people, even one,
+
+1:13:12.860 --> 1:13:16.280
+ or an animal or something that you delight in,
+
+1:13:16.280 --> 1:13:19.500
+ believe it or not, has very positive effects
+
+1:13:19.500 --> 1:13:22.340
+ on mitigating this long-term stress,
+
+1:13:22.340 --> 1:13:24.660
+ on improving various aspects of our life
+
+1:13:24.660 --> 1:13:26.900
+ as it relates to stress and emotionality.
+
+1:13:28.020 --> 1:13:29.460
+ So that's the social connection part.
+
+1:13:29.460 --> 1:13:32.840
+ The other thing is that social isolation that goes too long
+
+1:13:32.840 --> 1:13:36.220
+ is associated in everything from flies, believe it or not,
+
+1:13:36.220 --> 1:13:39.540
+ to mice and humans with this molecule, tachykinin.
+
+1:13:39.540 --> 1:13:44.380
+ Tachykinin is a molecule that makes us more fearful,
+
+1:13:44.380 --> 1:13:48.180
+ paranoid, and impairs our immune system.
+
+1:13:48.180 --> 1:13:51.860
+ And so tachykinin is like this internal punishment signal.
+
+1:13:51.860 --> 1:13:53.940
+ It's like our body and our brain telling us
+
+1:13:53.940 --> 1:13:55.260
+ you're not spending enough time
+
+1:13:55.260 --> 1:13:56.580
+ with people that you really trust.
+
+1:13:56.580 --> 1:13:59.500
+ You're not spending time doing things that you really enjoy.
+
+1:13:59.500 --> 1:14:01.780
+ And I often think about tachykinin for myself
+
+1:14:01.780 --> 1:14:03.000
+ because I'm pretty hard driving.
+
+1:14:03.000 --> 1:14:03.900
+ I have a lot of pursuits.
+
+1:14:03.900 --> 1:14:05.700
+ I also have a lot of wonderful people
+
+1:14:05.700 --> 1:14:08.900
+ and an incredibly wonderful bulldog in my life.
+
+1:14:08.900 --> 1:14:11.620
+ But there are times when I can be so goal-directed
+
+1:14:11.620 --> 1:14:14.420
+ and so in motion and trying to accomplish everything
+
+1:14:14.420 --> 1:14:18.220
+ that I sometimes forget about tachykinin.
+
+1:14:18.220 --> 1:14:19.580
+ And I like to remind myself so much
+
+1:14:19.580 --> 1:14:21.820
+ so that I actually have a little post-it above my desk
+
+1:14:21.820 --> 1:14:23.780
+ that says tachykinin to remind me
+
+1:14:23.780 --> 1:14:26.180
+ that tachykinin is this very sinister molecule
+
+1:14:26.180 --> 1:14:27.900
+ that starts being secreted
+
+1:14:27.900 --> 1:14:31.100
+ when we are not socially connected enough.
+
+1:14:31.100 --> 1:14:34.520
+ And this is why long meals with friends or family
+
+1:14:34.520 --> 1:14:36.500
+ where there are, we'll talk about phones in a moment,
+
+1:14:36.500 --> 1:14:39.060
+ but where there's no intrusions, or even if there are,
+
+1:14:39.060 --> 1:14:43.020
+ just feeling like we are connected suppresses tachykinin.
+
+1:14:43.020 --> 1:14:45.900
+ And tachykinin is something you really want to avoid
+
+1:14:45.900 --> 1:14:50.540
+ because chronic isolation, chronically high tachykinin
+
+1:14:50.540 --> 1:14:52.380
+ that's associated with long-term stress
+
+1:14:52.380 --> 1:14:56.140
+ really depletes so many good functions of our brain and body
+
+1:14:56.140 --> 1:14:59.300
+ and promote so many bad ones, including irritability,
+
+1:14:59.300 --> 1:15:01.660
+ paranoia, fear, et cetera,
+
+1:15:01.660 --> 1:15:03.420
+ that is really something to avoid.
+
+1:15:03.420 --> 1:15:06.300
+ And so I want to highlight tachykinin as something to avoid.
+
+1:15:06.300 --> 1:15:09.420
+ I don't want to completely disregard oxytocin.
+
+1:15:09.420 --> 1:15:12.140
+ It's just that oxytocin has been built up a lot in the media
+
+1:15:12.140 --> 1:15:15.560
+ and really serotonin works on much faster timescales.
+
+1:15:15.560 --> 1:15:17.380
+ Now, how do you know if you're making serotonin?
+
+1:15:17.380 --> 1:15:18.900
+ You don't know in the moment,
+
+1:15:18.900 --> 1:15:21.020
+ but you can learn if you pay attention
+
+1:15:21.020 --> 1:15:23.820
+ to kind of recognize these feelings of comfort,
+
+1:15:23.820 --> 1:15:28.460
+ trust, bliss, delight, and those are not weak terms.
+
+1:15:28.460 --> 1:15:31.220
+ Those are not associated just with psychological terms.
+
+1:15:31.220 --> 1:15:34.740
+ They are every bit as physiological
+
+1:15:34.740 --> 1:15:36.300
+ as the movement of your muscles
+
+1:15:36.300 --> 1:15:38.060
+ or the secretion of adrenaline.
+
+1:15:38.060 --> 1:15:41.420
+ And many people focus now on gratitude.
+
+1:15:41.420 --> 1:15:43.300
+ Gratitude is a little bit subjective
+
+1:15:43.300 --> 1:15:45.360
+ and here we're moving from some objective
+
+1:15:45.360 --> 1:15:46.500
+ to kind of subjective things,
+
+1:15:46.500 --> 1:15:49.740
+ but recognizing and in particular writing down
+
+1:15:49.740 --> 1:15:51.500
+ things that you're thankful for,
+
+1:15:51.500 --> 1:15:53.900
+ however small they may seem,
+
+1:15:53.900 --> 1:15:57.760
+ does seem to have a positive effect on the serotonin system.
+
+1:15:57.760 --> 1:15:59.300
+ Now, there are a plethora of things
+
+1:15:59.300 --> 1:16:00.880
+ that will also impact wellbeing
+
+1:16:00.880 --> 1:16:04.900
+ and allow you to modulate your long-term stress,
+
+1:16:04.900 --> 1:16:07.860
+ reduce the likelihood that you'll engage in long-term stress
+
+1:16:07.860 --> 1:16:09.200
+ and we don't have time to go into all of these,
+
+1:16:09.200 --> 1:16:11.540
+ but of course, finding the diet and nutrition
+
+1:16:11.540 --> 1:16:12.700
+ that's right for you, the exercise schedule,
+
+1:16:12.700 --> 1:16:15.220
+ that's right for you, the sleep schedule, all that,
+
+1:16:15.220 --> 1:16:20.140
+ but do not underemphasize the social connection part, please.
+
+1:16:20.140 --> 1:16:23.200
+ As well, there are some compounds
+
+1:16:23.200 --> 1:16:25.320
+ that are not antidepressants,
+
+1:16:25.320 --> 1:16:26.940
+ although if you need antidepressants
+
+1:16:26.940 --> 1:16:28.540
+ and a clinician prescribes them to you,
+
+1:16:28.540 --> 1:16:32.260
+ please follow their advice if that's what's right for you.
+
+1:16:32.260 --> 1:16:35.420
+ There are compounds that are not prescription compounds
+
+1:16:35.420 --> 1:16:38.300
+ that can modulate the stress system
+
+1:16:38.300 --> 1:16:40.620
+ and sometimes because of the way that life is,
+
+1:16:40.620 --> 1:16:43.760
+ we just don't have the opportunity to control life
+
+1:16:43.760 --> 1:16:45.800
+ and to control our response to stress
+
+1:16:45.800 --> 1:16:47.220
+ and at least for myself,
+
+1:16:47.220 --> 1:16:48.920
+ I can only talk about my own experience,
+
+1:16:48.920 --> 1:16:51.700
+ I've found it useful in times of chronic stress
+
+1:16:51.700 --> 1:16:53.920
+ to start modulating some of the neurochemistry
+
+1:16:53.920 --> 1:16:57.040
+ related to the stress response in order to help.
+
+1:16:57.040 --> 1:16:59.700
+ Now, if a doctor prescribes you Pregnisone
+
+1:16:59.700 --> 1:17:03.340
+ or prescribes you some other hormone or something,
+
+1:17:03.340 --> 1:17:05.580
+ that's important, but what I'm talking about now
+
+1:17:05.580 --> 1:17:07.480
+ are non-prescription things,
+
+1:17:07.480 --> 1:17:11.300
+ you should check out examine.com, this free website,
+
+1:17:11.300 --> 1:17:13.400
+ which will allow you to put in any supplement
+
+1:17:13.400 --> 1:17:15.040
+ and evaluate that supplement with,
+
+1:17:15.040 --> 1:17:17.820
+ they provide links in the so-called human effect matrix
+
+1:17:17.820 --> 1:17:21.180
+ to PubMed, it tells you the exact subjects they were done in
+
+1:17:21.180 --> 1:17:23.460
+ it was a post-menopausal women, was it kids,
+
+1:17:23.460 --> 1:17:27.280
+ was it normal adults, was it people with autism, et cetera.
+
+1:17:27.280 --> 1:17:29.500
+ Check out that site for any and all supplements
+
+1:17:29.500 --> 1:17:32.000
+ you're considering or taking, I highly recommend it,
+
+1:17:32.000 --> 1:17:33.680
+ I have no relationship to them,
+
+1:17:33.680 --> 1:17:35.000
+ I just think it's a wonderful site
+
+1:17:35.000 --> 1:17:37.460
+ that's curated all this important information,
+
+1:17:37.460 --> 1:17:41.320
+ but some of these compounds are effective enough,
+
+1:17:41.320 --> 1:17:43.260
+ they can kind of take the edge off
+
+1:17:43.260 --> 1:17:46.040
+ and I'll use them periodically myself
+
+1:17:46.040 --> 1:17:47.300
+ and so I just thought I'd mention them
+
+1:17:47.300 --> 1:17:48.740
+ since there are a number of you that are interested in them,
+
+1:17:48.740 --> 1:17:49.980
+ the three I wanna focus on
+
+1:17:49.980 --> 1:17:52.540
+ and one that I think you need to be cautious about
+
+1:17:52.540 --> 1:17:57.220
+ that I've mentioned before include Ashwagandha,
+
+1:17:57.220 --> 1:17:59.920
+ funny name, but that's what it's called,
+
+1:17:59.920 --> 1:18:03.300
+ L-theanine or theanine it's often called and melatonin.
+
+1:18:03.300 --> 1:18:04.700
+ Let's talk about melatonin first,
+
+1:18:04.700 --> 1:18:06.880
+ melatonin I talked about during the month on sleep,
+
+1:18:06.880 --> 1:18:10.060
+ melatonin is a hormone secreted from the pineal
+
+1:18:10.060 --> 1:18:12.740
+ in direct relationship to how much darkness you are in,
+
+1:18:12.740 --> 1:18:16.420
+ not emotional darkness, but light suppresses melatonin,
+
+1:18:16.420 --> 1:18:17.820
+ melatonin helps you fall asleep,
+
+1:18:17.820 --> 1:18:19.180
+ it doesn't help you stay asleep,
+
+1:18:19.180 --> 1:18:23.740
+ I personally do not recommend supplementing melatonin
+
+1:18:23.740 --> 1:18:27.320
+ because it's supplemented typically at very high levels,
+
+1:18:28.380 --> 1:18:30.440
+ one to three milligrams or even more,
+
+1:18:30.440 --> 1:18:32.660
+ that is an outrageously high dose,
+
+1:18:32.660 --> 1:18:34.760
+ it's super, super physiological compared
+
+1:18:34.760 --> 1:18:36.020
+ to what you normally would make,
+
+1:18:36.020 --> 1:18:39.220
+ it also has a number of potentially negative effects
+
+1:18:39.220 --> 1:18:42.860
+ on the reproductive axis and hormones there,
+
+1:18:42.860 --> 1:18:45.100
+ some people can take it without problems if you like it
+
+1:18:45.100 --> 1:18:46.500
+ and that's your thing, fine,
+
+1:18:46.500 --> 1:18:48.480
+ I just wanna cue to the fact that there can be issues,
+
+1:18:48.480 --> 1:18:50.900
+ you should check on examine.com, talk to your doctor,
+
+1:18:50.900 --> 1:18:53.340
+ especially in kids because melatonin suppresses
+
+1:18:53.340 --> 1:18:55.900
+ the puberty response in a number of species,
+
+1:18:55.900 --> 1:18:57.620
+ enough about the negative things of melatonin
+
+1:18:57.620 --> 1:19:02.620
+ except that people who take too much melatonin chronically,
+
+1:19:02.700 --> 1:19:04.740
+ oftentimes when they're taking it to sleep
+
+1:19:04.740 --> 1:19:05.900
+ or for whatever reason,
+
+1:19:05.900 --> 1:19:08.460
+ yes, it can reduce anxiety and stress,
+
+1:19:08.460 --> 1:19:11.240
+ but it also can reduce the output of the adrenals
+
+1:19:11.240 --> 1:19:13.440
+ to the point where it can become problematic,
+
+1:19:13.440 --> 1:19:16.560
+ now, a note about adrenal burnout,
+
+1:19:16.560 --> 1:19:20.340
+ there is actually no such thing as adrenal burnout
+
+1:19:20.340 --> 1:19:21.660
+ under normal conditions,
+
+1:19:21.660 --> 1:19:23.740
+ the adrenals have enough adrenaline
+
+1:19:23.740 --> 1:19:28.060
+ to support 200 years of stress for better or for worse,
+
+1:19:28.060 --> 1:19:31.380
+ the concept of adrenal burnout has origins
+
+1:19:31.380 --> 1:19:34.660
+ in the work of Nobel Prize winner, Hans Selye
+
+1:19:34.660 --> 1:19:36.240
+ who actually discovered
+
+1:19:36.240 --> 1:19:38.100
+ what he called the general adaptation syndrome,
+
+1:19:38.100 --> 1:19:39.900
+ he discovered a lot of things about stress,
+
+1:19:39.900 --> 1:19:42.980
+ he did some phenomenal work that turned out to be true,
+
+1:19:42.980 --> 1:19:46.060
+ that we have stressors, there's something called distress,
+
+1:19:46.060 --> 1:19:48.060
+ he talked about eustress, which is positive stress,
+
+1:19:48.060 --> 1:19:49.700
+ eustress has never really caught on
+
+1:19:49.700 --> 1:19:52.620
+ in the kind of more general discussion,
+
+1:19:52.620 --> 1:19:56.300
+ but he had this theory that if stress went on long enough
+
+1:19:56.300 --> 1:19:59.520
+ that you would eventually reach a phase called exhaustion
+
+1:19:59.520 --> 1:20:02.440
+ and that turned out to be wrong,
+
+1:20:03.280 --> 1:20:05.820
+ although many of you may feel exhausted after chronic stress
+
+1:20:05.820 --> 1:20:08.680
+ there isn't really a physiological exhaustion that happens
+
+1:20:08.680 --> 1:20:10.700
+ and that eventually got picked up
+
+1:20:10.700 --> 1:20:12.600
+ and ran with the general public
+
+1:20:12.600 --> 1:20:14.100
+ and they talk about adrenal burnout,
+
+1:20:14.100 --> 1:20:16.700
+ too much coffee, adrenal burnout, you hear all this stuff,
+
+1:20:16.700 --> 1:20:18.220
+ there is no such thing as adrenal burnout,
+
+1:20:18.220 --> 1:20:20.080
+ the adrenals don't burn out,
+
+1:20:20.080 --> 1:20:22.620
+ there is something however called adrenal insufficiency
+
+1:20:22.620 --> 1:20:25.560
+ syndrome, which is a real physiological problem
+
+1:20:25.560 --> 1:20:28.100
+ where some people have very impaired adrenals
+
+1:20:28.100 --> 1:20:29.460
+ and they can't produce adrenaline
+
+1:20:29.460 --> 1:20:32.180
+ and melatonin taken at very high levels
+
+1:20:32.180 --> 1:20:34.000
+ for periods of time that are too long
+
+1:20:34.000 --> 1:20:36.020
+ can cause suppression of the cortisol
+
+1:20:36.020 --> 1:20:37.620
+ and epinephrine release from the adrenals
+
+1:20:37.620 --> 1:20:40.880
+ and can create a kind of pseudo
+
+1:20:40.880 --> 1:20:43.460
+ adrenal insufficiency syndrome,
+
+1:20:43.460 --> 1:20:47.660
+ so beware melatonin for that reason,
+
+1:20:47.660 --> 1:20:50.900
+ please, I alone can't get rid
+
+1:20:50.900 --> 1:20:52.880
+ of the phrase adrenal burnout,
+
+1:20:52.880 --> 1:20:55.260
+ I'm not trying to give a hard time
+
+1:20:55.260 --> 1:20:57.600
+ to anyone who feels burnt out or exhausted
+
+1:20:57.600 --> 1:20:59.140
+ but it is for other reasons,
+
+1:20:59.140 --> 1:21:01.220
+ it is not because the adrenals are burnt out
+
+1:21:01.220 --> 1:21:03.680
+ unless you happen to have adrenal insufficiency syndrome,
+
+1:21:03.680 --> 1:21:06.620
+ so I'm not a fan of melatonin for a lot of reasons,
+
+1:21:06.620 --> 1:21:07.460
+ now I've mentioned several,
+
+1:21:07.460 --> 1:21:10.200
+ the other is L-theanine, I've talked about L-theanine
+
+1:21:10.200 --> 1:21:12.600
+ which provided it's safe for you
+
+1:21:12.600 --> 1:21:15.200
+ can be taken 100 milligrams or 200 milligrams
+
+1:21:15.200 --> 1:21:17.220
+ about a 30 minutes or 60 minutes before sleep,
+
+1:21:17.220 --> 1:21:19.140
+ it can enhance the transition to sleep
+
+1:21:19.140 --> 1:21:20.900
+ and depth of sleep for many people,
+
+1:21:21.740 --> 1:21:24.340
+ it increases GABA, this inhibitory neurotransmitter
+
+1:21:24.340 --> 1:21:26.020
+ in the brain, it tends to turn off
+
+1:21:26.020 --> 1:21:27.380
+ our forebrain a little bit
+
+1:21:27.380 --> 1:21:29.820
+ or reduce the activity of our kind of thinking systems
+
+1:21:29.820 --> 1:21:32.620
+ and ruminating systems help people fall asleep,
+
+1:21:32.620 --> 1:21:35.800
+ that's for sleep but theanine has also been shown
+
+1:21:35.800 --> 1:21:37.240
+ for people that are chronically anxious
+
+1:21:37.240 --> 1:21:40.300
+ or chronically stressed to, if you look at the studies,
+
+1:21:40.300 --> 1:21:42.540
+ I have a large collection of studies in front of me right now
+
+1:21:42.540 --> 1:21:43.880
+ if you want to see those links,
+
+1:21:43.880 --> 1:21:45.820
+ I know if you want those, go to examine.com,
+
+1:21:45.820 --> 1:21:47.940
+ put in theanine, they link to, for instance,
+
+1:21:47.940 --> 1:21:50.360
+ it is known to significantly increase relaxation,
+
+1:21:50.360 --> 1:21:52.820
+ there are four studies listed there with PubMed links,
+
+1:21:52.820 --> 1:21:55.140
+ it is known to have a minor effect on anxiety
+
+1:21:55.140 --> 1:21:56.880
+ but eight studies have shown that
+
+1:21:57.780 --> 1:22:00.460
+ which I think is a fairly large set of studies,
+
+1:22:00.460 --> 1:22:02.580
+ some of them in great journals,
+
+1:22:02.580 --> 1:22:05.900
+ it also can reduce task completion anxiety,
+
+1:22:05.900 --> 1:22:07.980
+ so anxiety related to task completion,
+
+1:22:07.980 --> 1:22:09.700
+ not good for the procrastinators perhaps
+
+1:22:09.700 --> 1:22:11.460
+ but for those of you that are chronically stressed,
+
+1:22:11.460 --> 1:22:12.700
+ it can increase attention a little bit,
+
+1:22:12.700 --> 1:22:14.460
+ it can reduce blood pressure a little bit,
+
+1:22:14.460 --> 1:22:17.020
+ improve sleep quality, et cetera,
+
+1:22:17.020 --> 1:22:19.000
+ it definitely has a notable effect on stress,
+
+1:22:19.000 --> 1:22:20.360
+ two studies in particular
+
+1:22:21.220 --> 1:22:24.120
+ that it can notably reduce the effects of stress,
+
+1:22:24.120 --> 1:22:27.980
+ so there's a lot there, it also has effects on insomnia,
+
+1:22:27.980 --> 1:22:29.540
+ on some blood lipid profiles
+
+1:22:29.540 --> 1:22:32.220
+ and so go to examine.com and check it out
+
+1:22:32.220 --> 1:22:35.260
+ but this is one reason why I supplement theanine for sleep
+
+1:22:35.260 --> 1:22:37.780
+ but if I'm feeling like I've been under a lot of stress
+
+1:22:37.780 --> 1:22:39.740
+ and I'm not managing my stress very well
+
+1:22:39.740 --> 1:22:42.140
+ with the short-term and medium-term tools
+
+1:22:42.140 --> 1:22:43.120
+ that I talked about earlier,
+
+1:22:43.120 --> 1:22:44.860
+ I might start taking a little bit of theanine
+
+1:22:44.860 --> 1:22:46.140
+ especially in the late afternoon
+
+1:22:46.140 --> 1:22:48.460
+ which is when I tend to start to feel
+
+1:22:48.460 --> 1:22:50.140
+ like I haven't gotten enough done
+
+1:22:50.140 --> 1:22:52.020
+ and the day is kind of carrying on
+
+1:22:52.020 --> 1:22:54.760
+ and so you can blunt the response to stress a little bit
+
+1:22:54.760 --> 1:22:56.780
+ which is why a lot of companies
+
+1:22:56.780 --> 1:22:59.220
+ are now putting theanine into energy drinks,
+
+1:22:59.220 --> 1:23:02.620
+ I am not a big fan of most energy drinks,
+
+1:23:02.620 --> 1:23:04.260
+ most of them have taurine
+
+1:23:04.260 --> 1:23:05.700
+ which I know some of you wrote to me and said,
+
+1:23:05.700 --> 1:23:07.660
+ oh, taurine is great for all these reasons,
+
+1:23:07.660 --> 1:23:09.740
+ taurine also has effects on the microvasculature
+
+1:23:09.740 --> 1:23:11.100
+ that at least for me were not good,
+
+1:23:11.100 --> 1:23:13.720
+ it caused bursting of microvasculature in my sclera,
+
+1:23:13.720 --> 1:23:15.860
+ in my eyes, which is why I'm not a fan
+
+1:23:15.860 --> 1:23:20.300
+ of any energy drink that has taurine or taurine generally
+
+1:23:20.300 --> 1:23:22.160
+ but that's just me, you have to decide for you,
+
+1:23:22.160 --> 1:23:23.260
+ I'm sure the comment section,
+
+1:23:23.260 --> 1:23:25.760
+ there'll be a couple taurinistas out there that will say,
+
+1:23:25.760 --> 1:23:27.680
+ but I love taurine, great,
+
+1:23:27.680 --> 1:23:29.060
+ keep the taurine companies in business
+
+1:23:29.060 --> 1:23:31.380
+ but it's not for me and I'd like people to know
+
+1:23:31.380 --> 1:23:33.940
+ that it may or may not be for them.
+
+1:23:33.940 --> 1:23:37.340
+ The other supplement that can be very useful is ashwagandha,
+
+1:23:37.340 --> 1:23:41.300
+ ashwagandha is known to lower anxiety and cortisol,
+
+1:23:41.300 --> 1:23:45.060
+ there is six, there are, excuse me, six studies
+
+1:23:45.060 --> 1:23:47.600
+ that collectively show reductions in cortisol
+
+1:23:47.600 --> 1:23:49.560
+ which is cortisol is typically associated
+
+1:23:49.560 --> 1:23:51.380
+ with waking up in the morning, which is good,
+
+1:23:51.380 --> 1:23:54.160
+ that's a healthy brief cortisol bump that goes away
+
+1:23:54.160 --> 1:23:56.780
+ provided you're getting your light at the right time of days
+
+1:23:56.780 --> 1:24:00.160
+ at right correct times of day, like morning and evening
+
+1:24:00.160 --> 1:24:02.220
+ but you don't want cortisol chronically elevated,
+
+1:24:02.220 --> 1:24:05.420
+ that's associated with all the bad stuff about stress,
+
+1:24:05.420 --> 1:24:09.300
+ there's a very strong effect of ashwagandha,
+
+1:24:09.300 --> 1:24:12.060
+ you can find dosages at examine.com,
+
+1:24:12.060 --> 1:24:14.300
+ they report in across six studies,
+
+1:24:14.300 --> 1:24:18.660
+ 14.5 to 27.9 reduction in cortisol
+
+1:24:18.660 --> 1:24:22.460
+ in otherwise healthy but stressed individuals.
+
+1:24:22.460 --> 1:24:23.760
+ Now, I don't know about kids,
+
+1:24:23.760 --> 1:24:26.780
+ you have to look at what it says on various supplements,
+
+1:24:26.780 --> 1:24:28.760
+ most things here are being done in adults
+
+1:24:28.760 --> 1:24:31.420
+ so please check carefully but this is great,
+
+1:24:31.420 --> 1:24:33.460
+ I mean, the opportunity for me anyway
+
+1:24:33.460 --> 1:24:35.980
+ to be able to take something that can help me
+
+1:24:35.980 --> 1:24:38.340
+ reduce my cortisol so that I don't get
+
+1:24:38.340 --> 1:24:39.900
+ some of the long-term effects of stress
+
+1:24:39.900 --> 1:24:41.880
+ and I'm not gonna take ashwagandha year round,
+
+1:24:41.880 --> 1:24:43.300
+ I would only do this if I was feeling like
+
+1:24:43.300 --> 1:24:46.300
+ I wasn't managing my short and medium term stress well
+
+1:24:46.300 --> 1:24:47.740
+ so I don't take it on a regular basis,
+
+1:24:47.740 --> 1:24:50.260
+ I do take it when I'm in these times
+
+1:24:50.260 --> 1:24:52.660
+ when things are particularly stressful.
+
+1:24:52.660 --> 1:24:54.660
+ It has, there are five other studies
+
+1:24:54.660 --> 1:24:59.140
+ that show reduced stress so that's not cortisol measurements
+
+1:24:59.140 --> 1:25:03.680
+ but things like fatigue, cognitive impairment, et cetera.
+
+1:25:03.680 --> 1:25:05.620
+ It does lower total cholesterol
+
+1:25:05.620 --> 1:25:09.720
+ which may or may not be good or bad for you up to 10%
+
+1:25:09.720 --> 1:25:11.700
+ so some people don't want their cholesterol lowered,
+
+1:25:11.700 --> 1:25:13.100
+ some people might.
+
+1:25:13.100 --> 1:25:16.060
+ Cholesterol, we'll talk about this in a month on hormones
+
+1:25:16.060 --> 1:25:17.740
+ but cholesterol is the molecule
+
+1:25:17.740 --> 1:25:19.540
+ from which testosterone and estrogen
+
+1:25:19.540 --> 1:25:21.740
+ and cortisol for that matter are synthesized
+
+1:25:21.740 --> 1:25:23.740
+ so you don't wanna get your cholesterol so low
+
+1:25:23.740 --> 1:25:25.620
+ then there are all sorts of negative effects
+
+1:25:25.620 --> 1:25:27.820
+ but you don't want it too high either.
+
+1:25:27.820 --> 1:25:30.020
+ Mild effects in good clinical studies
+
+1:25:30.020 --> 1:25:32.740
+ on reducing depression probably associated
+
+1:25:32.740 --> 1:25:35.880
+ with the effects on stress and some other things as well.
+
+1:25:35.880 --> 1:25:39.060
+ So ashwagandha is something I use from time to time,
+
+1:25:39.060 --> 1:25:40.400
+ it's kind of interesting.
+
+1:25:40.400 --> 1:25:44.820
+ L-theanine, I rarely will use those during the daytime
+
+1:25:44.820 --> 1:25:45.940
+ except under conditions
+
+1:25:45.940 --> 1:25:47.440
+ where I'm feeling chronically stressed.
+
+1:25:47.440 --> 1:25:50.280
+ So check out the human effect matrix on examine.com.
+
+1:25:50.280 --> 1:25:52.280
+ Again, a phenomenal website.
+
+1:25:52.280 --> 1:25:54.820
+ I think I've sent them a few emails before
+
+1:25:54.820 --> 1:25:56.900
+ that's the only exchanges I've ever had with them
+
+1:25:56.900 --> 1:25:57.940
+ but I just think it's wonderful
+
+1:25:57.940 --> 1:25:59.300
+ that they put together this resource.
+
+1:25:59.300 --> 1:26:01.440
+ Otherwise, we'd be stuck mining PubMed.
+
+1:26:01.440 --> 1:26:04.800
+ They've collated the papers from PubMed
+
+1:26:04.800 --> 1:26:07.620
+ with links to PubMed, so terrific resource.
+
+1:26:07.620 --> 1:26:10.500
+ So social connection and some supplementation,
+
+1:26:10.500 --> 1:26:14.060
+ of course, diet, exercise, sleep for long-term stress.
+
+1:26:14.060 --> 1:26:17.740
+ And now we are finally in a position to talk
+
+1:26:17.740 --> 1:26:21.220
+ about what we have set out to do from the beginning
+
+1:26:21.220 --> 1:26:24.180
+ which is spend the month on emotions.
+
+1:26:24.180 --> 1:26:27.060
+ It was very important that we discuss stress
+
+1:26:27.060 --> 1:26:29.020
+ and we discuss in the context of short,
+
+1:26:29.020 --> 1:26:30.600
+ medium and long-term stress,
+
+1:26:30.600 --> 1:26:33.100
+ that we discuss tools for short-term,
+
+1:26:33.100 --> 1:26:35.980
+ medium-term and long-term control.
+
+1:26:35.980 --> 1:26:38.060
+ I don't really want to say mitigation of stress.
+
+1:26:38.060 --> 1:26:39.060
+ Stress is going to happen
+
+1:26:39.060 --> 1:26:42.140
+ but our ability to modulate and control stress
+
+1:26:42.140 --> 1:26:46.500
+ in real time, offline, using tools such as respiration,
+
+1:26:46.500 --> 1:26:48.340
+ using tools such as dilation of gaze,
+
+1:26:48.340 --> 1:26:50.880
+ using tools like social connection, maybe some supplements.
+
+1:26:50.880 --> 1:26:54.140
+ Certainly take care of your sleep and nutrition
+
+1:26:54.140 --> 1:26:55.160
+ and exercise.
+
+1:26:56.340 --> 1:26:58.860
+ Again, tons of resources and information
+
+1:26:58.860 --> 1:27:00.260
+ in the sleep episodes.
+
+1:27:00.260 --> 1:27:01.100
+ So you can look there.
+
+1:27:01.100 --> 1:27:05.140
+ We will do a month on hormones, on exercise, et cetera.
+
+1:27:05.140 --> 1:27:06.720
+ But let's talk about emotions
+
+1:27:06.720 --> 1:27:09.840
+ because in subsequent episodes,
+
+1:27:09.840 --> 1:27:11.620
+ we're going to talk about OCD.
+
+1:27:11.620 --> 1:27:13.000
+ We're going to talk about depression.
+
+1:27:13.000 --> 1:27:14.920
+ We're going to talk about mania.
+
+1:27:14.920 --> 1:27:16.620
+ We're going to be talking about dopamine
+
+1:27:16.620 --> 1:27:17.540
+ and all sorts of things.
+
+1:27:17.540 --> 1:27:22.340
+ But at the core of emotions is this question,
+
+1:27:22.340 --> 1:27:23.780
+ what is an emotion?
+
+1:27:23.780 --> 1:27:24.900
+ Well, it's complex.
+
+1:27:24.900 --> 1:27:26.280
+ There isn't a single brain area
+
+1:27:26.280 --> 1:27:28.980
+ for any one of these things that we call emotions.
+
+1:27:28.980 --> 1:27:31.740
+ My framework, and I think the modern science,
+
+1:27:31.740 --> 1:27:36.740
+ both psychology and neuroscience is pretty well aligned
+
+1:27:37.180 --> 1:27:41.560
+ with what Lisa Feldman Barrett has talked about.
+
+1:27:41.560 --> 1:27:43.220
+ Now, Lisa's at Northeastern University.
+
+1:27:43.220 --> 1:27:44.380
+ She runs a big lab there.
+
+1:27:44.380 --> 1:27:46.540
+ She's a world expert in emotion.
+
+1:27:46.540 --> 1:27:48.500
+ She's written two books that are really wonderful.
+
+1:27:48.500 --> 1:27:51.340
+ One is How Emotions Are Made, which was her first book.
+
+1:27:51.340 --> 1:27:55.540
+ The second one is Seven and a Half Facts About the Brain.
+
+1:27:55.540 --> 1:27:56.780
+ It's a wonderful book as well.
+
+1:27:56.780 --> 1:27:58.140
+ It came out more recently.
+
+1:27:58.140 --> 1:28:00.180
+ I hosted Lisa on an Instagram Live once.
+
+1:28:00.180 --> 1:28:03.420
+ Maybe we'll get her here on the podcast if we're lucky.
+
+1:28:03.420 --> 1:28:05.020
+ We don't agree on everything
+
+1:28:05.020 --> 1:28:06.340
+ about the neuroscience of emotions,
+
+1:28:06.340 --> 1:28:11.020
+ but I subscribe to most everything that I've heard Lisa say,
+
+1:28:11.020 --> 1:28:15.100
+ in particular, the fact that emotions are context dependent,
+
+1:28:15.100 --> 1:28:17.500
+ there's a cultural dependence, et cetera.
+
+1:28:17.500 --> 1:28:19.860
+ I look at things mainly through the lens of physiology
+
+1:28:19.860 --> 1:28:23.080
+ and neuroscience at kind of low level circuitry.
+
+1:28:23.080 --> 1:28:25.740
+ And one way to think about emotions
+
+1:28:25.740 --> 1:28:27.140
+ that I think is consistent,
+
+1:28:27.140 --> 1:28:28.860
+ and I think Lisa would generally approve,
+
+1:28:28.860 --> 1:28:29.700
+ I can't speak for her,
+
+1:28:29.700 --> 1:28:31.020
+ but I would hope she would generally approve
+
+1:28:31.020 --> 1:28:34.440
+ of this description is that when our internal state
+
+1:28:34.440 --> 1:28:38.980
+ of stress or calm matches the demands on us
+
+1:28:38.980 --> 1:28:41.260
+ or is mismatched from the demands on us,
+
+1:28:41.260 --> 1:28:44.500
+ we tend to interpret those as good or bad.
+
+1:28:44.500 --> 1:28:46.300
+ Let me give you an example.
+
+1:28:46.300 --> 1:28:51.300
+ If I am feeling very anxious, very stressed inside,
+
+1:28:51.700 --> 1:28:55.740
+ and I have a lot to do, that doesn't feel good,
+
+1:28:55.740 --> 1:28:59.280
+ but it's really no different than if I'm very tired
+
+1:28:59.280 --> 1:29:01.460
+ and I have a lot to do because there's this mismatch.
+
+1:29:01.460 --> 1:29:04.360
+ I'm not in the right internal state.
+
+1:29:04.360 --> 1:29:06.300
+ My internal state isn't correct rather
+
+1:29:06.300 --> 1:29:08.820
+ to meet the demands that are being placed upon me.
+
+1:29:08.820 --> 1:29:10.900
+ So in both cases, whether I'm too tired
+
+1:29:10.900 --> 1:29:13.460
+ or I'm too stressed to do what I need to do,
+
+1:29:13.460 --> 1:29:16.900
+ the valence, meaning the value that I assigned to that is,
+
+1:29:16.900 --> 1:29:18.300
+ I don't feel good.
+
+1:29:18.300 --> 1:29:20.880
+ It's not a good situation and I don't feel good.
+
+1:29:20.880 --> 1:29:23.020
+ Now I might call it stressed, I might call it anxious,
+
+1:29:23.020 --> 1:29:25.920
+ I might call it worried, might call it a number of things,
+
+1:29:25.920 --> 1:29:26.760
+ but it's not good.
+
+1:29:26.760 --> 1:29:31.140
+ However, when I'm tired and I want to fall asleep,
+
+1:29:31.140 --> 1:29:33.500
+ well then I feel good because that's what the demand is.
+
+1:29:33.500 --> 1:29:35.060
+ I need to go to sleep and I'm tired.
+
+1:29:35.060 --> 1:29:37.600
+ If I'm wide awake and I need to fall asleep,
+
+1:29:37.600 --> 1:29:38.620
+ then that's not good.
+
+1:29:38.620 --> 1:29:42.180
+ And then the brain tends to go down the direction
+
+1:29:42.180 --> 1:29:44.500
+ of interpreting the situation as a bad one.
+
+1:29:44.500 --> 1:29:48.260
+ So while the discussion around emotions is far more nuanced
+
+1:29:48.260 --> 1:29:50.420
+ and more elaborate than this,
+
+1:29:50.420 --> 1:29:52.780
+ one way to think about your relationship to emotions
+
+1:29:52.780 --> 1:29:54.620
+ is whether or not your internal state
+
+1:29:54.620 --> 1:29:57.520
+ is matching the demands that are upon you.
+
+1:29:57.520 --> 1:30:01.380
+ So in that way, we don't really place so much value
+
+1:30:01.380 --> 1:30:03.800
+ on whether or not we're feeling alert or sleepy.
+
+1:30:03.800 --> 1:30:06.760
+ We only place value on whether or not that alertness,
+
+1:30:06.760 --> 1:30:09.020
+ whether or not it's full-blown stress or not,
+
+1:30:09.020 --> 1:30:11.500
+ or our sleepiness, whether or not we're falling asleep
+
+1:30:11.500 --> 1:30:12.980
+ or just a little bit drowsy,
+
+1:30:12.980 --> 1:30:16.540
+ whether or not that matches the conditions that we face.
+
+1:30:16.540 --> 1:30:18.380
+ And it's a useful framework to have.
+
+1:30:18.380 --> 1:30:20.000
+ And it's the reason in part
+
+1:30:20.000 --> 1:30:22.940
+ why I spent this last hour and a half or so
+
+1:30:22.940 --> 1:30:25.780
+ talking about stress and how to control stress.
+
+1:30:25.780 --> 1:30:26.700
+ One reason we did that
+
+1:30:26.700 --> 1:30:28.500
+ is because I think it's a valuable opportunity
+
+1:30:28.500 --> 1:30:30.660
+ to learn some tools and understand stress
+
+1:30:30.660 --> 1:30:32.540
+ and really learn how to take control of stress,
+
+1:30:32.540 --> 1:30:34.500
+ which I think we could all benefit from doing,
+
+1:30:34.500 --> 1:30:35.980
+ regardless of age.
+
+1:30:35.980 --> 1:30:38.180
+ The other reason is that when you start to understand
+
+1:30:38.180 --> 1:30:40.660
+ that you have this kind of seesaw system in your body,
+
+1:30:40.660 --> 1:30:42.200
+ this autonomic nervous system
+
+1:30:42.200 --> 1:30:45.780
+ that takes you from alert and calm to stressed,
+
+1:30:45.780 --> 1:30:48.220
+ to full-blown panic, it has that capacity,
+
+1:30:48.220 --> 1:30:53.220
+ or from sleepy and drowsy to passing out tired
+
+1:30:53.400 --> 1:30:57.300
+ to God forbid, let's hope never, but a coma, right?
+
+1:30:57.300 --> 1:31:00.580
+ That you're basically on this seesaw all the time.
+
+1:31:00.580 --> 1:31:03.840
+ And where you are on that seesaw of alertness or calmness
+
+1:31:03.840 --> 1:31:08.340
+ positions you to be in better reaction
+
+1:31:08.340 --> 1:31:10.740
+ to the demands that you face,
+
+1:31:10.740 --> 1:31:12.180
+ whether or not the thing that you face
+
+1:31:12.180 --> 1:31:15.200
+ is a need to fall asleep or to listen quietly and not react.
+
+1:31:15.200 --> 1:31:16.900
+ You now know, for instance,
+
+1:31:16.900 --> 1:31:19.860
+ that if your job is to take feedback,
+
+1:31:19.860 --> 1:31:21.640
+ maybe you're going in for a job evaluation,
+
+1:31:21.640 --> 1:31:23.380
+ or you're in a relationship
+
+1:31:23.380 --> 1:31:26.300
+ where there was a call for a discussion
+
+1:31:26.300 --> 1:31:28.220
+ and somebody needs to talk to you about something
+
+1:31:28.220 --> 1:31:29.500
+ and we need to talk about something,
+
+1:31:29.500 --> 1:31:30.340
+ you're going to them like,
+
+1:31:30.340 --> 1:31:33.020
+ oh goodness, this is going to be rough.
+
+1:31:33.020 --> 1:31:35.260
+ Learning to reduce that stress response a little bit
+
+1:31:35.260 --> 1:31:39.060
+ so that you are in a position to hear the information better
+
+1:31:39.940 --> 1:31:41.380
+ and remember from a previous episode,
+
+1:31:41.380 --> 1:31:42.220
+ if you close your eyes,
+
+1:31:42.220 --> 1:31:44.800
+ you'll be able to actually focus on the information better.
+
+1:31:44.800 --> 1:31:46.700
+ There's your permission to not look someone directly
+
+1:31:46.700 --> 1:31:47.620
+ in the eye while they talk to you
+
+1:31:47.620 --> 1:31:49.900
+ if you really want to hear what they have to say.
+
+1:31:49.900 --> 1:31:53.340
+ You will be able to modulate that stress response
+
+1:31:53.340 --> 1:31:55.060
+ and lean into life better.
+
+1:31:55.060 --> 1:31:59.020
+ You will be able to react to things in a more effective way
+
+1:31:59.020 --> 1:32:00.980
+ and to not be reactive.
+
+1:32:00.980 --> 1:32:04.800
+ And this is really one of the important things to me anyway,
+
+1:32:04.800 --> 1:32:07.700
+ is that so much of the language around psychology,
+
+1:32:07.700 --> 1:32:09.360
+ which I think is a wonderful field,
+
+1:32:09.360 --> 1:32:11.340
+ but pop psychology in particular is,
+
+1:32:11.340 --> 1:32:13.180
+ be responsive, not reactive.
+
+1:32:13.180 --> 1:32:15.100
+ Well, great, but then how does one do that?
+
+1:32:15.100 --> 1:32:16.540
+ Well, one does that by modulating
+
+1:32:16.540 --> 1:32:19.120
+ their short-term stress response in real time,
+
+1:32:19.120 --> 1:32:21.300
+ not by saying, hold on, I need to meditate,
+
+1:32:21.300 --> 1:32:22.540
+ hold on, I need a massage,
+
+1:32:22.540 --> 1:32:23.700
+ and then I can have this conversation
+
+1:32:23.700 --> 1:32:27.020
+ by modulating the reactivity in real time.
+
+1:32:27.020 --> 1:32:30.380
+ How does one, for instance, be mindful,
+
+1:32:30.380 --> 1:32:32.980
+ which is a beautiful concept, but how are you mindful?
+
+1:32:32.980 --> 1:32:34.900
+ Well, I don't know, when I'm moving through my day,
+
+1:32:34.900 --> 1:32:37.360
+ a lot of times I'm just trying to get things done.
+
+1:32:37.360 --> 1:32:40.900
+ And as soon as I start monitoring and seeing what I'm doing
+
+1:32:40.900 --> 1:32:43.040
+ and kind of third-personing what I'm doing,
+
+1:32:43.040 --> 1:32:44.740
+ it actually takes me out of the effectiveness
+
+1:32:44.740 --> 1:32:45.820
+ and experience of what I'm doing.
+
+1:32:45.820 --> 1:32:47.860
+ So for me, sometimes that mindfulness,
+
+1:32:47.860 --> 1:32:49.460
+ that observer as they call it,
+
+1:32:49.460 --> 1:32:52.200
+ is something that doesn't help me, it actually hinders me.
+
+1:32:52.200 --> 1:32:54.540
+ What's important to me is to be able to work and focus
+
+1:32:54.540 --> 1:32:56.540
+ and then to be able to disengage,
+
+1:32:56.540 --> 1:32:58.580
+ to be able to do a non-sleep deep rest
+
+1:32:58.580 --> 1:32:59.940
+ or to be able to still fall asleep,
+
+1:32:59.940 --> 1:33:02.400
+ even though I've been working hard until 9.30
+
+1:33:02.400 --> 1:33:03.740
+ to put my head down at 10 o'clock
+
+1:33:03.740 --> 1:33:08.040
+ and be out cold sleeping by 10.02.
+
+1:33:08.040 --> 1:33:09.580
+ That's possible if you can learn
+
+1:33:09.580 --> 1:33:12.020
+ to control this stress response.
+
+1:33:12.020 --> 1:33:15.020
+ And to do that, we can't use the mind to control the mind,
+
+1:33:15.020 --> 1:33:16.060
+ we need tools.
+
+1:33:16.060 --> 1:33:19.600
+ And so a lot of the people being grumpy
+
+1:33:19.600 --> 1:33:23.140
+ or anxious or depressed, a lot of that,
+
+1:33:23.140 --> 1:33:25.780
+ provided it's not for some underlying neurochemical reason
+
+1:33:25.780 --> 1:33:28.420
+ that's chronic, a lot of that comes from being
+
+1:33:28.420 --> 1:33:30.860
+ poorly rested, from overworked,
+
+1:33:30.860 --> 1:33:33.140
+ from feeling like the world is bearing down on us.
+
+1:33:33.140 --> 1:33:36.600
+ And so rather than take a subjective view of this,
+
+1:33:36.600 --> 1:33:39.080
+ I take the view of objective physiology.
+
+1:33:39.080 --> 1:33:42.520
+ What can we do that's anchored to these neuronal systems
+
+1:33:42.520 --> 1:33:44.420
+ in our body, in our brain, in our eyes,
+
+1:33:44.420 --> 1:33:47.380
+ in our diaphragm, et cetera, and look to those as tools,
+
+1:33:47.380 --> 1:33:49.420
+ levers that we can pull on and push
+
+1:33:49.420 --> 1:33:51.200
+ and maneuver through life in a way
+
+1:33:51.200 --> 1:33:53.060
+ where we start to feel like we have some agency,
+
+1:33:53.060 --> 1:33:54.400
+ we actually have some real control
+
+1:33:54.400 --> 1:33:56.980
+ because we're controlling the internal landscape.
+
+1:33:56.980 --> 1:33:59.600
+ So I think that ought to set the stage
+
+1:33:59.600 --> 1:34:01.800
+ for where we're headed next, which is to talk about
+
+1:34:01.800 --> 1:34:03.500
+ all the things that you normally think of
+
+1:34:03.500 --> 1:34:05.980
+ when you think of emotions, like happiness,
+
+1:34:05.980 --> 1:34:09.020
+ like awe, like joy, and we will get into some of that.
+
+1:34:09.020 --> 1:34:13.100
+ But all of that rests firmly on the foundation
+
+1:34:13.100 --> 1:34:15.260
+ of this thing we call the autonomic nervous system,
+
+1:34:15.260 --> 1:34:19.540
+ this stress modulation, this calming modulation system.
+
+1:34:19.540 --> 1:34:22.460
+ And again, whether or not you're activated or you're calm
+
+1:34:22.460 --> 1:34:25.820
+ is not good or bad, it depends on the situation.
+
+1:34:25.820 --> 1:34:27.100
+ Certainly when you want to fall asleep,
+
+1:34:27.100 --> 1:34:28.220
+ being activated isn't good.
+
+1:34:28.220 --> 1:34:30.820
+ When you have work to do, being activated is great.
+
+1:34:30.820 --> 1:34:34.260
+ So I hope today you were able to take
+
+1:34:34.260 --> 1:34:37.780
+ a slightly different view of this thing that we call stress,
+
+1:34:37.780 --> 1:34:40.700
+ not just see it as evil, but see it as powerful and useful
+
+1:34:40.700 --> 1:34:43.740
+ in certain contexts, great for us in certain contexts,
+
+1:34:43.740 --> 1:34:45.860
+ and problematic in other contexts,
+
+1:34:45.860 --> 1:34:47.900
+ and as well to think about the various tools
+
+1:34:47.900 --> 1:34:51.300
+ that I've presented that can allow you to adjust
+
+1:34:51.300 --> 1:34:55.020
+ and modulate your internal levels of alertness or calmness
+
+1:34:55.020 --> 1:34:57.420
+ so that you can lean more effectively into life,
+
+1:34:57.420 --> 1:35:00.060
+ which includes sleep and social connection
+
+1:35:00.060 --> 1:35:01.800
+ and the work you have to do.
+
+1:35:01.800 --> 1:35:05.380
+ And of course acknowledges that the events in the world
+
+1:35:05.380 --> 1:35:06.820
+ are beyond our control.
+
+1:35:06.820 --> 1:35:08.900
+ What's in our control is how we react to them.
+
+1:35:08.900 --> 1:35:11.180
+ Something that's commonly said in the wellness
+
+1:35:11.180 --> 1:35:13.760
+ and self-help and psychology world,
+
+1:35:13.760 --> 1:35:17.040
+ but for which there often aren't as many concrete tools
+
+1:35:17.040 --> 1:35:20.100
+ that we can really look to and trust in real time.
+
+1:35:20.100 --> 1:35:23.160
+ And of course there are other tools out there as always.
+
+1:35:23.160 --> 1:35:25.780
+ I'll say it, I strive to be accurate,
+
+1:35:25.780 --> 1:35:27.420
+ but I'll never be exhaustive.
+
+1:35:27.420 --> 1:35:28.820
+ I might have exhausted you.
+
+1:35:28.820 --> 1:35:32.300
+ I might've cured your insomnia with this discussion today,
+
+1:35:32.300 --> 1:35:33.540
+ but in all seriousness,
+
+1:35:33.540 --> 1:35:35.940
+ my goal is to bring you tools and information
+
+1:35:35.940 --> 1:35:38.580
+ so that you can manage better through life.
+
+1:35:38.580 --> 1:35:40.260
+ So thanks so much.
+
+1:35:40.260 --> 1:35:41.820
+ I very much want to thank all of you
+
+1:35:41.820 --> 1:35:43.820
+ for your support for the podcast.
+
+1:35:43.820 --> 1:35:45.740
+ It's really been wonderful.
+
+1:35:45.740 --> 1:35:48.480
+ If you've subscribed to the podcast on YouTube,
+
+1:35:48.480 --> 1:35:51.280
+ Apple or Spotify, or maybe even all three, terrific.
+
+1:35:51.280 --> 1:35:54.140
+ If you haven't, please do subscribe on YouTube,
+
+1:35:54.140 --> 1:35:56.460
+ Apple or Spotify, or maybe even all three,
+
+1:35:56.460 --> 1:35:58.020
+ which would be wonderful.
+
+1:35:58.020 --> 1:36:00.540
+ On Apple, you can leave a five-star review
+
+1:36:00.540 --> 1:36:01.820
+ if you think we deserve that,
+
+1:36:01.820 --> 1:36:04.980
+ as well as a comment reviewing us.
+
+1:36:04.980 --> 1:36:06.580
+ If you have suggestions,
+
+1:36:06.580 --> 1:36:10.140
+ if you have questions regarding the content of the podcast
+
+1:36:10.140 --> 1:36:11.820
+ or things that you'd like us to cover in the future,
+
+1:36:11.820 --> 1:36:15.540
+ please put those in the comment section on YouTube.
+
+1:36:15.540 --> 1:36:19.020
+ As well, if you could recommend the podcast to friends,
+
+1:36:19.020 --> 1:36:21.320
+ family members, coworkers that you think would benefit
+
+1:36:21.320 --> 1:36:23.640
+ from the information, maybe even send them the links
+
+1:36:23.640 --> 1:36:26.700
+ if you like, that's tremendously helpful.
+
+1:36:26.700 --> 1:36:28.820
+ Today, as in previous episodes,
+
+1:36:28.820 --> 1:36:30.340
+ I've touched on some things
+
+1:36:30.340 --> 1:36:32.180
+ as they relate to supplementation.
+
+1:36:32.180 --> 1:36:34.040
+ As always, I always cover a lot of tools
+
+1:36:34.040 --> 1:36:35.780
+ that are zero cost tools
+
+1:36:35.780 --> 1:36:38.180
+ that don't involve ingesting anything at all,
+
+1:36:38.180 --> 1:36:39.700
+ behavioral tools.
+
+1:36:39.700 --> 1:36:41.340
+ But I mentioned some supplements
+
+1:36:41.340 --> 1:36:43.100
+ that I particularly find useful.
+
+1:36:44.240 --> 1:36:46.880
+ With supplements, it's a complicated landscape often
+
+1:36:46.880 --> 1:36:50.300
+ because many supplement companies don't put in the bottle
+
+1:36:50.300 --> 1:36:54.620
+ what they say is in the particular product.
+
+1:36:54.620 --> 1:36:58.320
+ We've partnered with Thorne, T-H-O-R-N-E,
+
+1:36:58.320 --> 1:37:00.660
+ because Thorne is a supplement company
+
+1:37:00.660 --> 1:37:03.140
+ that we know to have the highest levels of stringency.
+
+1:37:03.140 --> 1:37:05.020
+ It's used by the Mayo Clinic,
+
+1:37:05.020 --> 1:37:07.340
+ it's used by all the major sports organizations
+
+1:37:07.340 --> 1:37:08.460
+ for that particular reason
+
+1:37:08.460 --> 1:37:11.360
+ and because their quality standards are exceptionally high.
+
+1:37:11.360 --> 1:37:13.420
+ If you'd like to try any supplements
+
+1:37:13.420 --> 1:37:14.620
+ and see the ones that I take,
+
+1:37:14.620 --> 1:37:19.100
+ you can go to Thorne, T-H-O-R-N-E.com
+
+1:37:19.100 --> 1:37:22.700
+ slash the letter U slash Huberman.
+
+1:37:22.700 --> 1:37:25.260
+ And if you do that, you'll get 20% off
+
+1:37:25.260 --> 1:37:27.980
+ anything that's listed there on my page,
+
+1:37:27.980 --> 1:37:30.220
+ as well as any of the supplements that Thorne sells.
+
+1:37:30.220 --> 1:37:34.500
+ So that's Thorne, T-H-O-R-N-E.com
+
+1:37:34.500 --> 1:37:37.620
+ slash the letter U slash Huberman
+
+1:37:37.620 --> 1:37:40.520
+ to get 20% off anything that Thorne sells.
+
+1:37:40.520 --> 1:37:43.000
+ In addition, if you want to follow us on Twitter,
+
+1:37:43.000 --> 1:37:46.160
+ we're there at Huberman Lab or on Instagram, Huberman Lab.
+
+1:37:46.160 --> 1:37:48.340
+ I also do some content on Huberman Lab,
+
+1:37:48.340 --> 1:37:49.580
+ a little neuroscience post.
+
+1:37:49.580 --> 1:37:51.520
+ Some are reposted clips from the podcast.
+
+1:37:51.520 --> 1:37:53.640
+ Others are unique content
+
+1:37:53.640 --> 1:37:55.420
+ that you won't find on the podcast.
+
+1:37:55.420 --> 1:37:57.540
+ So you can follow us at Huberman Lab.
+
+1:37:57.540 --> 1:37:59.480
+ Also, if you like, check out our Patreon,
+
+1:37:59.480 --> 1:38:02.040
+ patreon.com slash Andrew Huberman.
+
+1:38:02.040 --> 1:38:04.740
+ And most of all, and as always,
+
+1:38:04.740 --> 1:38:07.220
+ really appreciate your time and attention today.
+
+1:38:07.220 --> 1:38:09.140
+ I hope you practice some of the tools
+
+1:38:09.140 --> 1:38:10.040
+ if they're right for you.
+
+1:38:10.040 --> 1:38:12.100
+ I hope you think hard about stress
+
+1:38:12.100 --> 1:38:14.940
+ and how you can control your stress.
+
+1:38:14.940 --> 1:38:17.700
+ And above all, as always,
+
+1:38:17.700 --> 1:38:19.700
+ thank you for your interest in science.
+

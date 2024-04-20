@@ -1,0 +1,8057 @@
+WEBVTT
+
+00:00.000 --> 00:02.260
+ Welcome to the Huberman Lab Podcast,
+
+00:02.260 --> 00:04.900
+ where we discuss science and science-based tools
+
+00:04.900 --> 00:05.920
+ for everyday life.
+
+00:09.380 --> 00:12.440
+ I'm Andrew Huberman, and I'm a professor of neurobiology
+
+00:12.440 --> 00:15.840
+ and ophthalmology at Stanford School of Medicine.
+
+00:15.840 --> 00:17.640
+ This podcast is separate from my teaching
+
+00:17.640 --> 00:19.460
+ and research roles at Stanford.
+
+00:19.460 --> 00:21.540
+ It is, however, part of my desire and effort
+
+00:21.540 --> 00:23.680
+ to bring zero cost to consumer information
+
+00:23.680 --> 00:25.900
+ about science and science-related tools
+
+00:25.900 --> 00:27.660
+ to the general public.
+
+00:27.660 --> 00:28.860
+ In keeping with that theme,
+
+00:28.860 --> 00:32.060
+ I'd like to thank the sponsors of today's podcast.
+
+00:32.060 --> 00:35.520
+ Our first sponsor is Belcampo Meat Company.
+
+00:35.520 --> 00:37.960
+ Belcampo Meat Company is a regenerative farm
+
+00:37.960 --> 00:41.140
+ in Northern California that raises organic, grass-fed,
+
+00:41.140 --> 00:44.500
+ and grass-finished certified humane meats.
+
+00:44.500 --> 00:46.360
+ I eat meat about once a day.
+
+00:46.360 --> 00:49.760
+ I'm neither pure carnivore nor am I a vegetarian,
+
+00:49.760 --> 00:51.040
+ obviously, I eat meat.
+
+00:51.040 --> 00:55.000
+ The way I eat is I tend to fast until about noon,
+
+00:55.000 --> 00:56.380
+ and then I have my first meal,
+
+00:56.380 --> 00:58.760
+ which generally consists of a piece of beef,
+
+00:58.760 --> 01:01.580
+ you know, it's either ground beef or a steak.
+
+01:01.580 --> 01:04.400
+ I like ribeyes, I like flat irons, these kinds of things,
+
+01:04.400 --> 01:06.940
+ and a small salad, sometimes a large salad.
+
+01:06.940 --> 01:08.400
+ And then throughout the day,
+
+01:08.400 --> 01:10.620
+ I generally am low carb until the evening
+
+01:10.620 --> 01:13.000
+ when I eat pasta and rice and things of that sort.
+
+01:13.000 --> 01:16.820
+ Eating that way is what optimizes my levels of alertness
+
+01:16.820 --> 01:18.680
+ and optimizes my sleep.
+
+01:18.680 --> 01:21.600
+ I've talked about this on previous podcast episodes.
+
+01:21.600 --> 01:24.240
+ Now, because I eat meat essentially every day,
+
+01:24.240 --> 01:26.480
+ the source of that meat is extremely important to me.
+
+01:26.480 --> 01:27.880
+ I want it to be healthy for me,
+
+01:27.880 --> 01:31.600
+ and I want the animals that it comes from to be healthy
+
+01:31.600 --> 01:33.980
+ and to have lived a good life.
+
+01:33.980 --> 01:36.480
+ Conventionally raised animals are confined to feedlots
+
+01:36.480 --> 01:38.840
+ and they eat a diet of inflammatory grains,
+
+01:38.840 --> 01:40.040
+ which is terrible for them,
+
+01:40.040 --> 01:42.560
+ and it's terrible for us when we eat those meats.
+
+01:42.560 --> 01:44.920
+ Belcampo's animals graze on open pastures
+
+01:44.920 --> 01:47.060
+ and seasonal grasses, which results in meat
+
+01:47.060 --> 01:49.140
+ that is higher in nutrients and healthy fats.
+
+01:49.140 --> 01:51.960
+ They actually have very high levels of omega-3s,
+
+01:51.960 --> 01:53.760
+ which I've also talked about on this podcast
+
+01:53.760 --> 01:55.800
+ are important for mental and physical health
+
+01:55.800 --> 01:57.680
+ for a variety of reasons.
+
+01:57.680 --> 01:59.360
+ The way Belcampo raises its animals
+
+01:59.360 --> 02:01.920
+ is also good for the environment.
+
+02:01.920 --> 02:03.760
+ They practice regenerative agriculture,
+
+02:03.760 --> 02:06.920
+ which means it's climate positive and carbon negative,
+
+02:06.920 --> 02:10.820
+ which translates to good for us and good for the planet.
+
+02:10.820 --> 02:13.060
+ You can order Belcampo sustainably raised meats
+
+02:13.060 --> 02:16.120
+ to be delivered straight to your door using my code Huberman
+
+02:16.120 --> 02:18.960
+ by going to belcampo.com slash Huberman,
+
+02:18.960 --> 02:22.200
+ and you'll get 20% off your first time order.
+
+02:22.200 --> 02:27.060
+ That's belcampo.com slash Huberman for 20% off.
+
+02:27.060 --> 02:30.560
+ Today's podcast is also brought to us by Inside Tracker.
+
+02:30.560 --> 02:33.240
+ Inside Tracker is a personalized nutrition platform
+
+02:33.240 --> 02:35.840
+ that analyzes data from your blood and DNA
+
+02:35.840 --> 02:37.600
+ to help you better understand your body
+
+02:37.600 --> 02:39.680
+ and reach your health goals.
+
+02:39.680 --> 02:42.600
+ I've long been a believer in getting blood work done
+
+02:42.600 --> 02:44.560
+ for the simple reason that many,
+
+02:44.560 --> 02:46.880
+ if not most of the factors that impact
+
+02:46.880 --> 02:48.720
+ our immediate and long-term health
+
+02:48.720 --> 02:51.100
+ can only be assessed from a blood test.
+
+02:51.100 --> 02:53.880
+ And now with the advent of modern DNA tests,
+
+02:53.880 --> 02:55.440
+ we can get additional information
+
+02:55.440 --> 02:58.720
+ about our current health status and our health trajectory.
+
+02:58.720 --> 03:01.560
+ One of the major problems with blood tests and DNA tests
+
+03:01.560 --> 03:04.880
+ available for most sources is that you get the numbers back
+
+03:04.880 --> 03:06.920
+ and you can easily see whether or not those numbers
+
+03:06.920 --> 03:09.520
+ are within the standard range or outside the range,
+
+03:09.520 --> 03:12.280
+ but it's very hard to know what to do with that information.
+
+03:12.280 --> 03:15.440
+ Also, what the various factors are that are being measured
+
+03:15.440 --> 03:17.200
+ is often very cryptic.
+
+03:17.200 --> 03:20.120
+ With Inside Tracker, they clarify everything.
+
+03:20.120 --> 03:22.160
+ They make it very clear and simple
+
+03:22.160 --> 03:25.080
+ as to what each of those factors relates to.
+
+03:25.080 --> 03:27.520
+ So they give you some understanding of what those are
+
+03:27.520 --> 03:30.680
+ and they give you ideas and suggestions
+
+03:30.680 --> 03:33.280
+ about things that you can do with your lifestyle,
+
+03:33.280 --> 03:36.320
+ changes to your diet, changes to your supplementation,
+
+03:36.320 --> 03:39.760
+ changes to your sleep schedule or exercise patterns
+
+03:39.760 --> 03:42.280
+ that can serve to optimize the levels
+
+03:42.280 --> 03:45.480
+ of those various factors and your DNA.
+
+03:45.480 --> 03:48.400
+ In addition, they have something called the Inner Age Test,
+
+03:48.400 --> 03:51.000
+ which compares your chronological age,
+
+03:51.000 --> 03:53.560
+ which you already know, with your biological age,
+
+03:53.560 --> 03:55.680
+ which gives you a sense of your lifespan
+
+03:55.680 --> 03:57.120
+ or predicted lifespan.
+
+03:57.120 --> 03:58.840
+ So that's crucially important.
+
+03:58.840 --> 04:01.080
+ And you can imagine why many people, including me,
+
+04:01.080 --> 04:02.800
+ would want that information.
+
+04:02.800 --> 04:04.400
+ If you'd like to try Inside Tracker,
+
+04:04.400 --> 04:07.600
+ you can visit insidetracker.com slash Huberman
+
+04:07.600 --> 04:10.920
+ and you'll get 25% off any of Inside Tracker's plans.
+
+04:10.920 --> 04:12.920
+ Use the code Huberman at checkout.
+
+04:12.920 --> 04:15.480
+ That's insidetracker.com slash Huberman
+
+04:15.480 --> 04:18.400
+ to get 25% off any of Inside Tracker's plans
+
+04:18.400 --> 04:21.400
+ and use the code Huberman at checkout.
+
+04:21.400 --> 04:24.540
+ Today's episode is also brought to us by Athletic Greens.
+
+04:24.540 --> 04:26.300
+ Athletic Greens is an all-in-one
+
+04:26.300 --> 04:29.060
+ vitamin mineral probiotic drink.
+
+04:29.060 --> 04:32.380
+ I've been using Athletic Greens for well over a decade now.
+
+04:32.380 --> 04:33.960
+ I started using Athletic Greens
+
+04:33.960 --> 04:35.440
+ and I still use Athletic Greens
+
+04:35.440 --> 04:37.440
+ because I find it rather dizzying
+
+04:37.440 --> 04:39.920
+ to know which vitamins and minerals to take.
+
+04:39.920 --> 04:41.520
+ And with Athletic Greens,
+
+04:41.520 --> 04:44.320
+ I cover all my bases of vitamins and minerals.
+
+04:44.320 --> 04:46.160
+ In addition, it has probiotics.
+
+04:46.160 --> 04:48.800
+ And we now know from an enormous number
+
+04:48.800 --> 04:50.400
+ of quality peer-reviewed studies
+
+04:50.400 --> 04:52.760
+ that the gut microbiome is critically important
+
+04:52.760 --> 04:54.900
+ for our immune system function,
+
+04:54.900 --> 04:57.920
+ for the gut brain axis and for our mental functions.
+
+04:57.920 --> 05:01.600
+ And probiotics are one way to support the gut brain axis
+
+05:01.600 --> 05:03.800
+ and the gut health generally.
+
+05:03.800 --> 05:06.720
+ With Athletic Greens, I basically just add water,
+
+05:06.720 --> 05:08.080
+ put in a little bit of lemon juice
+
+05:08.080 --> 05:09.400
+ because that's the way I like it,
+
+05:09.400 --> 05:10.720
+ mix it up, it tastes delicious.
+
+05:10.720 --> 05:12.500
+ I'll do that once or twice a day.
+
+05:12.500 --> 05:14.640
+ It's compatible with fasting, at least for me.
+
+05:14.640 --> 05:16.360
+ It doesn't take me out of a fasting mode,
+
+05:16.360 --> 05:17.760
+ which I do early in the day.
+
+05:17.760 --> 05:20.840
+ So most often I'll have my Athletic Greens early in the day
+
+05:20.840 --> 05:23.120
+ and then sometimes I'll also have another one
+
+05:23.120 --> 05:25.600
+ late in the evening or sometimes even before bed.
+
+05:25.600 --> 05:28.740
+ I'm able to sleep after drinking it without a problem.
+
+05:28.740 --> 05:30.680
+ If you'd like to try Athletic Greens,
+
+05:30.680 --> 05:33.560
+ you can go to athleticgreens.com slash Huberman.
+
+05:33.560 --> 05:36.280
+ And if you do that, you can claim a special offer.
+
+05:36.280 --> 05:38.200
+ They'll give you five free travel packs,
+
+05:38.200 --> 05:40.680
+ which are these little packs that make it very easy
+
+05:40.680 --> 05:42.720
+ to mix up Athletic Greens while you're on the road
+
+05:42.720 --> 05:44.560
+ or in the car or on a plane,
+
+05:44.560 --> 05:46.120
+ makes all of that very simple.
+
+05:46.120 --> 05:48.280
+ And in addition, they will give you a year supply
+
+05:48.280 --> 05:50.540
+ of vitamin D3K2.
+
+05:50.540 --> 05:52.760
+ There are also a lot of data supporting the fact
+
+05:52.760 --> 05:57.400
+ that vitamin D3 is critical for a variety of health metrics.
+
+05:57.400 --> 06:00.340
+ We all know that we can get vitamin D3 from the sun,
+
+06:00.340 --> 06:02.320
+ but many people, including me,
+
+06:02.320 --> 06:04.560
+ we're not getting enough sunlight or D3.
+
+06:04.560 --> 06:06.040
+ Even if I was getting a lot of sunlight,
+
+06:06.040 --> 06:09.120
+ I know that because I had my blood levels measured of D3.
+
+06:09.120 --> 06:11.140
+ So I use vitamin D3 every day
+
+06:11.140 --> 06:12.980
+ in addition to the other things I take,
+
+06:12.980 --> 06:14.160
+ including Athletic Greens.
+
+06:14.160 --> 06:17.080
+ If you go to athleticgreens.com slash Huberman,
+
+06:17.080 --> 06:19.580
+ you'll get the Athletic Greens, the five free travel packs,
+
+06:19.580 --> 06:23.320
+ and a year supply of the vitamin D3 and K2.
+
+06:23.320 --> 06:25.520
+ That's athleticgreens.com slash Huberman
+
+06:25.520 --> 06:27.680
+ to claim the special offer.
+
+06:27.680 --> 06:29.640
+ This month on the Huberman Lab Podcast,
+
+06:29.640 --> 06:32.520
+ we're talking all about physical performance.
+
+06:32.520 --> 06:36.380
+ So that means athletic performance, recreational exercise,
+
+06:36.380 --> 06:40.120
+ weightlifting, running, swimming, yoga,
+
+06:40.120 --> 06:42.320
+ skills and skill learning.
+
+06:42.320 --> 06:46.200
+ Today, we're going to talk about and focus on skill learning.
+
+06:46.200 --> 06:49.700
+ We are going to focus on how to learn skills more quickly,
+
+06:49.700 --> 06:51.600
+ in particular motor skills.
+
+06:51.600 --> 06:55.280
+ This will also translate to things like musical skills
+
+06:55.280 --> 06:56.520
+ and playing instruments,
+
+06:56.520 --> 07:00.080
+ but we're mainly going to focus on physical movements
+
+07:00.080 --> 07:03.320
+ of the body that extend beyond the hands,
+
+07:03.320 --> 07:04.520
+ like just playing the piano
+
+07:04.520 --> 07:06.800
+ or the fingers like playing the guitar.
+
+07:06.800 --> 07:08.520
+ But everything we're going to talk about
+
+07:08.520 --> 07:13.240
+ will also serve the formation and the consolidation
+
+07:13.240 --> 07:15.740
+ and the performance of other types of skills.
+
+07:15.740 --> 07:19.180
+ So if you're interested in how to perform better,
+
+07:19.180 --> 07:21.160
+ whether or not it's dance or yoga
+
+07:21.160 --> 07:23.120
+ or even something that's just very repetitive
+
+07:23.120 --> 07:27.860
+ like running or swimming, this podcast episode is for you.
+
+07:27.860 --> 07:31.480
+ We're going to go deep into the science of skill learning
+
+07:31.480 --> 07:34.100
+ and we are going to talk about very specific protocols
+
+07:34.100 --> 07:37.240
+ that the science points to and has verified
+
+07:37.240 --> 07:39.700
+ allow you to learn more quickly,
+
+07:39.700 --> 07:42.520
+ to embed that learning so that you remember it
+
+07:42.520 --> 07:45.360
+ and to be able to build up skills more quickly
+
+07:45.360 --> 07:47.220
+ than you would otherwise.
+
+07:47.220 --> 07:49.100
+ We are also going to touch on a few things
+
+07:49.100 --> 07:50.920
+ that I get asked about a lot,
+
+07:50.920 --> 07:53.280
+ but fortunately recently I've had the time
+
+07:53.280 --> 07:56.320
+ to go deep into the literature, extract the data for you
+
+07:56.320 --> 07:58.720
+ and that's mental visualization.
+
+07:58.720 --> 08:02.740
+ How does visualizing a particular skill or practice
+
+08:02.740 --> 08:05.800
+ serve the learning and or the consolidation
+
+08:05.800 --> 08:06.960
+ of that practice?
+
+08:06.960 --> 08:10.360
+ Turns out there are some absolutely striking protocols
+
+08:10.360 --> 08:12.960
+ that one can use, striking meaning they allow you
+
+08:12.960 --> 08:16.160
+ to learn faster and they allow you to remember
+
+08:16.160 --> 08:19.320
+ how to do things more quickly and better
+
+08:19.320 --> 08:21.320
+ than if you were not doing this mental rehearsal,
+
+08:21.320 --> 08:23.580
+ but the pattern of mental rehearsal
+
+08:23.580 --> 08:25.640
+ and when you do that mental rehearsal
+
+08:25.640 --> 08:27.900
+ turns out to be vitally important.
+
+08:27.900 --> 08:30.160
+ So I'm excited for today's episode.
+
+08:30.160 --> 08:32.920
+ We're going to share a lot of information with you
+
+08:32.920 --> 08:36.200
+ and there are going to be a lot of very simple takeaways.
+
+08:36.200 --> 08:38.080
+ So let's get started.
+
+08:38.080 --> 08:40.540
+ Before we get into the topic of skill learning
+
+08:40.540 --> 08:43.020
+ and tools for accelerating skill learning,
+
+08:43.020 --> 08:45.620
+ I want to briefly revisit the topic of temperature,
+
+08:45.620 --> 08:47.520
+ which was covered in the last episode
+
+08:47.520 --> 08:49.140
+ and just highlight a few things
+
+08:49.140 --> 08:51.160
+ and clear up some misunderstandings.
+
+08:51.160 --> 08:54.240
+ So last episode talked about these incredible data
+
+08:54.240 --> 08:57.320
+ from my colleague Craig Heller's lab at Stanford.
+
+08:57.320 --> 08:58.960
+ He's in the department of biology
+
+08:58.960 --> 09:02.040
+ showing that cooling the palms in particular ways
+
+09:02.040 --> 09:05.080
+ and at particular times can allow athletes
+
+09:05.080 --> 09:07.880
+ or just recreational exercisers
+
+09:07.880 --> 09:11.160
+ to do more pull-ups, dips, bench presses per unit time
+
+09:11.160 --> 09:14.580
+ to run further, to cycle further
+
+09:14.580 --> 09:15.940
+ and to feel better doing it.
+
+09:15.940 --> 09:17.480
+ There really are incredible data
+
+09:17.480 --> 09:21.360
+ that are anchored in the biology of the vascular system,
+
+09:21.360 --> 09:25.000
+ the blood supply and how it's involved in cooling us.
+
+09:25.000 --> 09:30.000
+ Many of you, dozens of you in fact, said, wait a second,
+
+09:30.600 --> 09:33.600
+ you gave us a protocol in this episode
+
+09:33.600 --> 09:36.880
+ which says that we should cool our palms periodically
+
+09:36.880 --> 09:40.320
+ throughout exercise in order to be able to do more work.
+
+09:40.320 --> 09:43.280
+ But on the episode before that
+
+09:43.280 --> 09:46.280
+ on growth hormone and thyroid hormone,
+
+09:46.280 --> 09:48.400
+ you said that heating up the body
+
+09:48.400 --> 09:51.080
+ is good for release of growth hormone.
+
+09:51.080 --> 09:54.800
+ And I just want to clarify that both things are true.
+
+09:54.800 --> 09:57.440
+ These are two separate protocols.
+
+09:57.440 --> 09:59.600
+ You should always warm up before you exercise.
+
+09:59.600 --> 10:02.080
+ That warm up will not increase your body temperature
+
+10:02.080 --> 10:04.840
+ or the muscle temperature to the point
+
+10:04.840 --> 10:07.520
+ where it's going to diminish your work capacity,
+
+10:07.520 --> 10:10.280
+ that it's going to harm your performance.
+
+10:10.280 --> 10:11.920
+ The cooling of the palms,
+
+10:11.920 --> 10:14.400
+ which is really just a route to cool your core
+
+10:14.400 --> 10:17.600
+ in an efficient way, the most efficient way in fact,
+
+10:17.600 --> 10:19.560
+ is about improving performance.
+
+10:19.560 --> 10:22.800
+ Heating up the body with exercise
+
+10:22.800 --> 10:25.020
+ and focusing on heat increases
+
+10:25.020 --> 10:28.360
+ or using sauna for heat increases
+
+10:28.360 --> 10:30.140
+ is geared toward growth hormone release
+
+10:30.140 --> 10:31.680
+ which is a separate matter.
+
+10:31.680 --> 10:33.740
+ So you can do both of these protocols,
+
+10:33.740 --> 10:36.400
+ but you would want to do them at separate times.
+
+10:36.400 --> 10:38.280
+ So just to make this very concrete
+
+10:38.280 --> 10:41.040
+ before I move on to today's topic,
+
+10:41.040 --> 10:43.840
+ if you're interested in doing more work,
+
+10:43.840 --> 10:46.320
+ being able to do more sets and reps per unit time
+
+10:46.320 --> 10:48.920
+ and feel better doing it or to run further
+
+10:48.920 --> 10:51.040
+ or to cycle further,
+
+10:51.040 --> 10:53.200
+ then cooling the palms periodically
+
+10:53.200 --> 10:55.340
+ as I described in the previous episode
+
+10:55.340 --> 10:56.760
+ is going to be the way to go.
+
+10:56.760 --> 10:59.420
+ If you're interested in getting growth hormone release,
+
+10:59.420 --> 11:02.700
+ well then hot sauna and I offered some other tools
+
+11:02.700 --> 11:03.900
+ if you don't have a sauna
+
+11:03.900 --> 11:06.680
+ in the episode on growth hormone and thyroid hormone
+
+11:06.680 --> 11:08.280
+ is going to be the way to go.
+
+11:08.280 --> 11:09.960
+ Okay, so those are separate protocols.
+
+11:09.960 --> 11:12.560
+ You can include them in your fitness regime
+
+11:12.560 --> 11:14.080
+ and your training regime,
+
+11:14.080 --> 11:16.600
+ but you do want to do them at separate times.
+
+11:16.600 --> 11:18.840
+ And as a last point about this,
+
+11:18.840 --> 11:20.560
+ I also mentioned that caffeine
+
+11:20.560 --> 11:23.160
+ can either help or hinder performance
+
+11:23.160 --> 11:25.500
+ depending on whether or not you're caffeine adapted
+
+11:25.500 --> 11:28.840
+ because of the ways that caffeine impacts body temperature
+
+11:28.840 --> 11:31.560
+ and all sorts of things like vasodilation and constriction.
+
+11:31.560 --> 11:32.960
+ It's very simple.
+
+11:32.960 --> 11:34.760
+ If you enjoy caffeine before your workouts
+
+11:34.760 --> 11:36.500
+ and you're accustomed to caffeine,
+
+11:36.500 --> 11:39.760
+ meaning you drink it three or five times or more a week,
+
+11:39.760 --> 11:43.640
+ 100 to 300 milligrams is a typical daily dose of caffeine.
+
+11:43.640 --> 11:45.580
+ Some of you are ingesting more, some less.
+
+11:45.580 --> 11:47.040
+ If you do that regularly,
+
+11:47.040 --> 11:48.920
+ well then it's going to be just fine
+
+11:48.920 --> 11:50.600
+ to ingest caffeine before you train.
+
+11:50.600 --> 11:52.440
+ It's not going to impact your body temperature
+
+11:52.440 --> 11:54.840
+ and your vasodilation or constriction
+
+11:54.840 --> 11:55.880
+ in ways that will hinder you.
+
+11:55.880 --> 11:58.520
+ However, if you're not a regular caffeine user
+
+11:58.520 --> 12:00.880
+ and you're thinking, oh, I'm going to drink a cup of coffee
+
+12:00.880 --> 12:03.400
+ and get this huge performance enhancing effect.
+
+12:03.400 --> 12:05.200
+ Well, that's not going to happen.
+
+12:05.200 --> 12:07.240
+ Chances are it's going to lead to
+
+12:07.240 --> 12:09.160
+ increases in body temperature
+
+12:09.160 --> 12:11.400
+ and changes in the way that blood flow
+
+12:11.400 --> 12:12.520
+ is happening in your body
+
+12:12.520 --> 12:15.660
+ and in particular on these palmer surfaces and in your face
+
+12:16.560 --> 12:19.880
+ that is going to likely diminish performance.
+
+12:19.880 --> 12:23.000
+ So if you enjoy caffeine and you're accustomed to it,
+
+12:23.000 --> 12:25.800
+ so-called caffeine adapted, enjoy it before your training.
+
+12:25.800 --> 12:29.080
+ If you regularly, excuse me, if you do not
+
+12:29.080 --> 12:30.280
+ regularly use caffeine,
+
+12:30.280 --> 12:32.660
+ then you probably do not want to view caffeine
+
+12:32.660 --> 12:35.320
+ as a performance enhancing tool.
+
+12:35.320 --> 12:36.920
+ And while we're on the topic of tools
+
+12:36.920 --> 12:39.720
+ and because this is a month on athletic performance
+
+12:39.720 --> 12:44.060
+ and exercise and physical skill learning,
+
+12:45.000 --> 12:46.720
+ I want to offer an additional tool
+
+12:46.720 --> 12:49.000
+ that I've certainly found useful,
+
+12:49.000 --> 12:52.440
+ which is how to relieve the so-called side stitch
+
+12:52.440 --> 12:55.880
+ or side cramp when running or swimming.
+
+12:55.880 --> 12:59.480
+ This actually relates to respiration
+
+12:59.480 --> 13:01.360
+ and to the nervous system.
+
+13:01.360 --> 13:03.040
+ And it is not a cramp.
+
+13:03.920 --> 13:05.000
+ If you've ever been out running
+
+13:05.000 --> 13:07.480
+ and you felt like you had a pain on your side,
+
+13:07.480 --> 13:08.880
+ that pain could be any number of things,
+
+13:08.880 --> 13:11.400
+ but that what feels like cramping of your side
+
+13:11.400 --> 13:14.880
+ is actually due to what's called collateralization
+
+13:14.880 --> 13:16.400
+ of the phrenic nerve,
+
+13:16.400 --> 13:19.600
+ which is a lot harder to say than a side cramp
+
+13:19.600 --> 13:21.000
+ or a side stitch.
+
+13:21.000 --> 13:23.080
+ But here's the situation.
+
+13:23.080 --> 13:25.480
+ You have a set of nerves,
+
+13:25.480 --> 13:29.960
+ which is called the phrenic nerve, P-H-R-E-N-I-C,
+
+13:29.960 --> 13:32.680
+ the phrenic nerve, which extends down
+
+13:32.680 --> 13:35.620
+ from your brainstem essentially, this region,
+
+13:35.620 --> 13:38.660
+ to your diaphragm to control your breathing.
+
+13:38.660 --> 13:41.280
+ It has a collateral, meaning it has a branch,
+
+13:41.280 --> 13:45.000
+ just like the branch on a tree that innervates your liver.
+
+13:45.840 --> 13:49.920
+ And if you are not breathing deeply enough,
+
+13:49.920 --> 13:51.600
+ what can happen is you can get
+
+13:51.600 --> 13:54.980
+ what's called sometimes a referenced pain.
+
+13:54.980 --> 13:56.900
+ Reference pain is probably going to be familiar
+
+13:56.900 --> 13:58.560
+ to any of you who have ever read
+
+13:58.560 --> 14:00.400
+ about how to recognize heart attack.
+
+14:00.400 --> 14:02.560
+ People who have heart attacks will sometimes have pain
+
+14:02.560 --> 14:04.840
+ on one side of their body, the left arm.
+
+14:04.840 --> 14:07.240
+ Sometimes people that have pain in a part of their back
+
+14:07.240 --> 14:09.200
+ will suddenly also get pain in their shoulder
+
+14:09.200 --> 14:10.040
+ or part of their face.
+
+14:10.040 --> 14:11.080
+ This has to do with the fact
+
+14:11.080 --> 14:13.080
+ that many of our nerves branch
+
+14:13.080 --> 14:14.920
+ and are meaning they're collateralized
+
+14:14.920 --> 14:17.700
+ to different organs and areas of the body.
+
+14:17.700 --> 14:20.960
+ And the way those nerves are woven together,
+
+14:22.080 --> 14:25.160
+ it's often the case that if we disrupt the pattern of firing
+
+14:25.160 --> 14:27.440
+ of electrical activity in one of those nerve branches,
+
+14:27.440 --> 14:29.480
+ that the other ones are affected too.
+
+14:29.480 --> 14:32.420
+ The side stitch, the pain in your side,
+
+14:32.420 --> 14:36.120
+ is often because of the contractions of the diaphragm
+
+14:36.120 --> 14:38.700
+ because of the way you're breathing while you're exercising,
+
+14:38.700 --> 14:40.360
+ running or swimming or biking.
+
+14:40.360 --> 14:43.440
+ And as a consequence, you feel pain in your side,
+
+14:43.440 --> 14:45.440
+ but that's not a cramp.
+
+14:45.440 --> 14:47.780
+ The way to relieve it is very simple.
+
+14:47.780 --> 14:50.480
+ You do the physiological side that I've talked about
+
+14:50.480 --> 14:54.040
+ in previous episodes of the podcast and elsewhere,
+
+14:54.040 --> 14:56.820
+ which is a double inhale through the nose, very deep,
+
+14:56.820 --> 14:59.040
+ and then a long exhale.
+
+14:59.040 --> 15:01.440
+ And you might want to repeat that two or three times.
+
+15:01.440 --> 15:04.880
+ Typically, that will relieve the side stitch
+
+15:04.880 --> 15:07.720
+ because of the way that it changes the firing patterns
+
+15:07.720 --> 15:09.400
+ of the phrenic nerve.
+
+15:09.400 --> 15:12.080
+ So the side stitch is annoying, it's painful.
+
+15:12.080 --> 15:13.760
+ Sometimes when you think we're dehydrated
+
+15:13.760 --> 15:14.960
+ and you might be dehydrated,
+
+15:14.960 --> 15:18.240
+ but oftentimes it's just that we're breathing in a way
+
+15:18.240 --> 15:21.480
+ that causes some referenced pain of the liver.
+
+15:21.480 --> 15:24.200
+ We call it a side stitch or a side cramp,
+
+15:24.200 --> 15:25.700
+ and you can relieve it very easily
+
+15:25.700 --> 15:27.980
+ through the double inhale, long exhale.
+
+15:30.220 --> 15:32.720
+ That pattern, done two or three times.
+
+15:32.720 --> 15:35.560
+ Often you can continue to engage in the exercise
+
+15:35.560 --> 15:37.840
+ while you do the double inhale, exhale,
+
+15:37.840 --> 15:39.980
+ and it will just relieve itself that way.
+
+15:39.980 --> 15:42.800
+ So give it a try if you experience the side stitch.
+
+15:42.800 --> 15:45.640
+ Some people I know are also doing the double inhale,
+
+15:45.640 --> 15:49.840
+ long exhale during long continuous bouts of exercise.
+
+15:49.840 --> 15:51.680
+ I actually do this when I run.
+
+15:51.680 --> 15:53.040
+ We have decent data,
+
+15:53.040 --> 15:54.720
+ although these are still unpublished data
+
+15:54.720 --> 15:57.240
+ that can engage a kind of regular cadence
+
+15:57.240 --> 15:58.820
+ of heart rate variability.
+
+15:58.820 --> 15:59.760
+ So there are a number of reasons
+
+15:59.760 --> 16:02.260
+ why this physiological side can be useful,
+
+16:02.260 --> 16:05.080
+ but it certainly can be useful for relieving the side stitch
+
+16:05.080 --> 16:07.680
+ or so-called side cramp.
+
+16:07.680 --> 16:11.440
+ Let's talk about the acquisition of new skills.
+
+16:11.440 --> 16:16.440
+ These could be skills such as a golf swing or a tennis swing,
+
+16:16.600 --> 16:19.560
+ or you're shooting free throws,
+
+16:19.560 --> 16:21.480
+ or you're learning to dance,
+
+16:21.480 --> 16:23.720
+ or you're learning an instrument.
+
+16:23.720 --> 16:27.480
+ I'm mainly going to focus on athletic performance.
+
+16:27.480 --> 16:29.920
+ There are basically two types of skills,
+
+16:31.520 --> 16:33.760
+ open loop and closed loop.
+
+16:34.800 --> 16:37.300
+ Open loop skills are skills
+
+16:37.300 --> 16:39.760
+ where you perform some sort of motor action
+
+16:39.760 --> 16:42.520
+ and then you wait and you get immediate feedback
+
+16:42.520 --> 16:44.960
+ as to whether or not it was done correctly or not.
+
+16:44.960 --> 16:48.000
+ A good example will be throwing darts at a dartboard.
+
+16:48.000 --> 16:49.900
+ So if you throw the dart,
+
+16:49.900 --> 16:52.240
+ you get feedback about whether or not you hit the bull's eye
+
+16:52.240 --> 16:53.720
+ and you're off the dartboard
+
+16:53.720 --> 16:56.580
+ or you're some other location on the dartboard.
+
+16:56.580 --> 16:58.640
+ That's open loop.
+
+16:58.640 --> 17:01.120
+ Closed loop would be something that's more continuous.
+
+17:01.120 --> 17:02.720
+ So let's say you're a runner
+
+17:02.720 --> 17:06.280
+ and you're starting to do some speed work and some sprints
+
+17:06.280 --> 17:08.440
+ and you're running and you can kind of feel
+
+17:08.440 --> 17:09.640
+ whether or not you're running correctly
+
+17:09.640 --> 17:11.680
+ or maybe even have a coach
+
+17:11.680 --> 17:13.900
+ and they're correcting your stride
+
+17:13.900 --> 17:16.760
+ or you're trying to do some sort of skill
+
+17:16.760 --> 17:18.960
+ like a hopscotch skill,
+
+17:18.960 --> 17:22.000
+ which maybe you're doing the ladder work
+
+17:22.000 --> 17:24.880
+ where you're stepping between designated spaces
+
+17:24.880 --> 17:26.000
+ on the ground.
+
+17:26.000 --> 17:28.320
+ That's closed loop because as you go,
+
+17:28.320 --> 17:30.300
+ you can adjust your behavior
+
+17:30.300 --> 17:33.380
+ and you can adjust the distance of your steps
+
+17:33.380 --> 17:35.400
+ or you can adjust your speed
+
+17:35.400 --> 17:37.320
+ or you can adjust your posture
+
+17:37.320 --> 17:41.120
+ and you are able to essentially do more practice
+
+17:41.120 --> 17:42.320
+ per unit time,
+
+17:43.240 --> 17:46.240
+ but you're getting feedback on a moment to moment basis.
+
+17:46.240 --> 17:48.120
+ Okay, so you have open loop and closed loop.
+
+17:48.120 --> 17:50.400
+ And just to make this very, very clear,
+
+17:50.400 --> 17:52.880
+ open loop would be practicing your tennis serve.
+
+17:52.880 --> 17:54.960
+ So let's say that you set a target
+
+17:54.960 --> 17:56.480
+ on the other side of the net,
+
+17:56.480 --> 17:59.920
+ you throw the ball up and you hit the ball,
+
+17:59.920 --> 18:01.980
+ it goes over, that's open loop.
+
+18:01.980 --> 18:03.720
+ You'll know whether or not you were in the court,
+
+18:03.720 --> 18:05.600
+ you were on the location you wanted to hit
+
+18:05.600 --> 18:07.100
+ or close to it or not.
+
+18:07.100 --> 18:08.220
+ That's open loop.
+
+18:08.220 --> 18:11.880
+ Closed loop would be if you're in a regular case.
+
+18:11.880 --> 18:14.160
+ So maybe you're learning a swim stroke
+
+18:14.160 --> 18:16.660
+ or maybe you're trying to learn a particular rhythm
+
+18:16.660 --> 18:17.500
+ on the drums.
+
+18:17.500 --> 18:19.040
+ So maybe you're trying to learn a particular beat.
+
+18:19.040 --> 18:20.040
+ I'm not very musical,
+
+18:20.040 --> 18:21.320
+ so I'm not going to embarrass myself
+
+18:21.320 --> 18:22.960
+ by giving an example of this,
+
+18:22.960 --> 18:24.760
+ although later I will,
+
+18:25.740 --> 18:28.540
+ where you're trying to get a particular rhythm down
+
+18:28.540 --> 18:30.640
+ and if you're not getting it,
+
+18:30.640 --> 18:32.840
+ you can adjust in real time and try and catch up
+
+18:32.840 --> 18:34.760
+ or slow down or speed up, et cetera.
+
+18:34.760 --> 18:37.080
+ Okay, so hopefully you'll understand open loop
+
+18:37.080 --> 18:38.520
+ and closed loop.
+
+18:38.520 --> 18:40.940
+ You should always know before you try and learn a skill,
+
+18:40.940 --> 18:43.760
+ whether or not it's open loop or closed loop.
+
+18:43.760 --> 18:46.440
+ And I'll return to why that's important shortly.
+
+18:46.440 --> 18:47.960
+ But if you want to learn something,
+
+18:47.960 --> 18:50.000
+ ask is it open loop or closed loop?
+
+18:50.900 --> 18:54.500
+ There are essentially three components of any skill
+
+18:54.500 --> 18:56.480
+ that involves motor movement.
+
+18:56.480 --> 18:59.520
+ And those are sensory perception,
+
+18:59.520 --> 19:01.880
+ actually perceiving what you are doing
+
+19:01.880 --> 19:04.140
+ and what's happening around you.
+
+19:04.140 --> 19:06.400
+ So what you see, what you hear,
+
+19:06.400 --> 19:07.720
+ sometimes you're paying attention
+
+19:07.720 --> 19:09.160
+ to what you're doing specifically,
+
+19:09.160 --> 19:10.920
+ like the trajectory of your arm
+
+19:10.920 --> 19:13.560
+ or how you're moving your feet if you're learning to dance.
+
+19:13.560 --> 19:15.080
+ Sometimes you're more focused on something
+
+19:15.080 --> 19:16.560
+ that's happening outside of you,
+
+19:16.560 --> 19:18.800
+ like you're listening for something in music
+
+19:18.800 --> 19:19.720
+ or you're paying attention
+
+19:19.720 --> 19:22.200
+ to the way your partner is moving, et cetera.
+
+19:22.200 --> 19:24.240
+ So there's sensory input.
+
+19:24.240 --> 19:26.480
+ Then there are the actual movements, okay?
+
+19:26.480 --> 19:29.320
+ So there are the movements of your limbs and body.
+
+19:29.320 --> 19:31.920
+ And then there's something called proprioception.
+
+19:31.920 --> 19:35.400
+ And proprioception is often discussed
+
+19:35.400 --> 19:40.080
+ as kind of a sixth sense of knowing where your limbs are
+
+19:40.080 --> 19:42.100
+ in relation to your body.
+
+19:42.100 --> 19:45.120
+ So proprioception is vitally important.
+
+19:45.120 --> 19:47.160
+ If I reach down and pick up this pen and pick it up,
+
+19:47.160 --> 19:49.980
+ I'm not thinking about where the pen in my hand is
+
+19:49.980 --> 19:51.440
+ relative to my body,
+
+19:51.440 --> 19:54.980
+ but proprioceptively I'm aware of it
+
+19:54.980 --> 19:58.120
+ at kind of a sixth cent deeper subconscious level.
+
+19:58.120 --> 20:02.240
+ I can also make myself aware of where my limbs are.
+
+20:02.240 --> 20:04.360
+ And typically when we learn,
+
+20:04.360 --> 20:08.160
+ we are placing more focus on proprioception
+
+20:08.160 --> 20:09.960
+ than we do ordinarily.
+
+20:09.960 --> 20:11.560
+ So if I get up from this chair
+
+20:11.560 --> 20:13.360
+ and I happen to walk out of the room,
+
+20:13.360 --> 20:15.320
+ I don't think about where my feet are landing
+
+20:15.320 --> 20:16.800
+ relative to one another.
+
+20:16.800 --> 20:19.380
+ But if my leg had fallen asleep
+
+20:19.380 --> 20:23.040
+ because I had been leaning on one of the nerves of my leg
+
+20:23.040 --> 20:24.360
+ or something like that,
+
+20:24.360 --> 20:27.640
+ and my leg feels all tingly or numb,
+
+20:27.640 --> 20:29.280
+ I and you, if this were to happen,
+
+20:29.280 --> 20:31.880
+ you would immediately notice a shift in gait.
+
+20:31.880 --> 20:32.720
+ It would feel strange.
+
+20:32.720 --> 20:34.420
+ I'd have to pay attention to how I'm stepping.
+
+20:34.420 --> 20:35.260
+ And the reason is
+
+20:35.260 --> 20:38.140
+ I'm not getting any proprioceptive feedback.
+
+20:38.140 --> 20:40.840
+ Now, skill learning has a lot of other dimensions too,
+
+20:41.760 --> 20:44.380
+ but those are the main ones that we're going to focus on.
+
+20:44.380 --> 20:45.600
+ So just to remind you,
+
+20:45.600 --> 20:47.440
+ you need to know open loop or closed loop,
+
+20:47.440 --> 20:49.840
+ and you need to know whether or not, excuse me,
+
+20:49.840 --> 20:52.480
+ you need to know that there's sensory perception,
+
+20:52.480 --> 20:54.300
+ what you're paying attention to,
+
+20:55.280 --> 20:58.480
+ movements themselves and proprioception.
+
+20:58.480 --> 21:02.380
+ And there's one other important thing that you need to know,
+
+21:02.380 --> 21:04.660
+ which is that movement of any kind
+
+21:04.660 --> 21:08.440
+ is generated from one, two, or three sources
+
+21:08.440 --> 21:11.860
+ within your nervous system, within your brain and body.
+
+21:11.860 --> 21:15.480
+ These are central pattern generators,
+
+21:15.480 --> 21:17.840
+ which are sometimes called CSPGs.
+
+21:17.840 --> 21:20.240
+ Excuse me, CPGSs.
+
+21:20.240 --> 21:23.160
+ CSPGs are something entirely different in biology.
+
+21:24.240 --> 21:27.960
+ CPGSs, this just goes to show that I have a module.
+
+21:27.960 --> 21:30.200
+ CSPGs are chondroitin sulfate proteoglycans.
+
+21:30.200 --> 21:31.800
+ They have nothing to do with this topic.
+
+21:31.800 --> 21:35.840
+ CPGSs are central pattern generators,
+
+21:35.840 --> 21:38.320
+ or CPGs they're sometimes called.
+
+21:38.320 --> 21:41.760
+ These CPGs are in your spinal cord,
+
+21:41.760 --> 21:44.440
+ mine and yours, different ones,
+
+21:44.440 --> 21:46.960
+ and they generate repetitive movements.
+
+21:46.960 --> 21:49.400
+ So if you're walking, if you're running,
+
+21:49.400 --> 21:52.200
+ if you're cycling, if you're breathing,
+
+21:52.200 --> 21:53.300
+ which presumably you are,
+
+21:53.300 --> 21:56.640
+ and you're doing that in a regular rhythmic cadence,
+
+21:56.640 --> 21:59.760
+ central pattern generators are controlling that movement.
+
+21:59.760 --> 22:03.500
+ After you learn how to walk, run, swim, cycle,
+
+22:03.500 --> 22:07.200
+ do anything really, much of the work is handed off
+
+22:07.200 --> 22:09.600
+ to the central pattern generators.
+
+22:09.600 --> 22:12.480
+ And there were experiments that were done
+
+22:12.480 --> 22:14.780
+ in the 60s, 70s, and 80s
+
+22:14.780 --> 22:18.240
+ that actually looked at the cerebrate animals
+
+22:18.240 --> 22:20.820
+ and even the cerebrate humans.
+
+22:20.820 --> 22:24.600
+ These are humans and animals that lack a cerebral cortex.
+
+22:24.600 --> 22:27.120
+ They lack much of the brain,
+
+22:27.120 --> 22:30.620
+ and yet they can engage in what's called a fictive movement.
+
+22:30.620 --> 22:32.700
+ So it sounds like a kind of barbaric experiment.
+
+22:32.700 --> 22:34.560
+ I'm glad I wasn't the one to have to do them,
+
+22:34.560 --> 22:36.580
+ but this is the stuff of neuroscience textbooks
+
+22:36.580 --> 22:39.820
+ that cats or dogs or mice
+
+22:39.820 --> 22:42.340
+ that have their neocortex removed,
+
+22:42.340 --> 22:44.520
+ put them on a treadmill, they'll walk just fine.
+
+22:44.520 --> 22:47.780
+ And they will adjust their speed of walking just fine,
+
+22:47.780 --> 22:49.200
+ even though they basically lack
+
+22:49.200 --> 22:51.720
+ all their thinking decision-making brain.
+
+22:51.720 --> 22:53.920
+ And it turns out humans that have,
+
+22:53.920 --> 22:56.700
+ unfortunately, massive strokes to their cortex
+
+22:56.700 --> 22:59.320
+ and lack any neocortex,
+
+22:59.320 --> 23:02.080
+ but preserve the central pattern generators,
+
+23:02.080 --> 23:04.520
+ will also walk just fine,
+
+23:04.520 --> 23:07.860
+ even though they lack any of the other stuff in the brain.
+
+23:07.860 --> 23:12.240
+ So these CPGs or CPGSs are amazing,
+
+23:12.240 --> 23:15.960
+ and they control a lot of our already learned behavior.
+
+23:15.960 --> 23:17.920
+ When you're really good at something,
+
+23:17.920 --> 23:22.040
+ CPGs are controlling a lot of that behavior.
+
+23:22.040 --> 23:24.720
+ And that's true also for a golf swing,
+
+23:24.720 --> 23:26.640
+ even if it's not really repetitive.
+
+23:26.640 --> 23:28.800
+ Somebody who's really good at golf is going to,
+
+23:28.800 --> 23:30.520
+ I guess you call it a tee.
+
+23:30.520 --> 23:31.520
+ You put the ball on the tee.
+
+23:31.520 --> 23:32.720
+ I show my knowledge of golf.
+
+23:32.720 --> 23:34.360
+ I've only done mini golf, frankly,
+
+23:35.960 --> 23:37.720
+ but someday maybe I'll learn how to golf,
+
+23:37.720 --> 23:39.440
+ but you set the golf ball down and swing.
+
+23:39.440 --> 23:41.880
+ Set the golf ball down, swing.
+
+23:41.880 --> 23:44.840
+ Central pattern generators are going to handle a lot of that.
+
+23:44.840 --> 23:47.520
+ If I were to go to the golf course,
+
+23:47.520 --> 23:48.960
+ Stanford has a beautiful golf course,
+
+23:48.960 --> 23:50.840
+ if I were to go out there and put a ball on the tee,
+
+23:50.840 --> 23:52.080
+ my central pattern generators
+
+23:52.080 --> 23:54.240
+ would not be involved in that at all.
+
+23:54.240 --> 23:58.400
+ The moment I get, you know, bring the club back to swing,
+
+23:58.400 --> 24:00.820
+ it's going to engage other things.
+
+24:00.820 --> 24:02.640
+ And the other things it's going to engage,
+
+24:02.640 --> 24:06.140
+ because I don't know that behavior now or then,
+
+24:06.140 --> 24:08.480
+ is upper motor neurons.
+
+24:08.480 --> 24:11.520
+ We have motor neurons in our cortex,
+
+24:11.520 --> 24:15.320
+ in our neocortex that control deliberate action.
+
+24:15.320 --> 24:17.480
+ And those are the ones that you're engaging
+
+24:17.480 --> 24:19.160
+ when you are learning.
+
+24:19.160 --> 24:23.360
+ Those are the ones that you have to pay attention
+
+24:23.360 --> 24:25.080
+ in order to engage.
+
+24:25.080 --> 24:26.320
+ And that's what's happening, for instance,
+
+24:26.320 --> 24:28.320
+ if I decide I'm going to reach down and pick up my pen,
+
+24:28.320 --> 24:29.560
+ which I rarely think about,
+
+24:29.560 --> 24:30.400
+ but now I'm thinking about it
+
+24:30.400 --> 24:31.960
+ and I'm going to do this in a very deliberate way,
+
+24:31.960 --> 24:33.680
+ I'm going to grab with these two fingers and lift,
+
+24:33.680 --> 24:36.620
+ my upper motor neurons are now involved, okay?
+
+24:36.620 --> 24:39.300
+ So upper motor neurons are very important
+
+24:39.300 --> 24:41.440
+ because a little bit later in the episode,
+
+24:41.440 --> 24:44.360
+ when we talk about how to use visualization
+
+24:44.360 --> 24:47.000
+ in order to accelerate skill learning,
+
+24:47.000 --> 24:50.480
+ it's going to leverage these upper motor neurons
+
+24:50.480 --> 24:52.080
+ in very particular ways, okay?
+
+24:52.080 --> 24:53.740
+ So we have CPGs for rhythmic movement,
+
+24:53.740 --> 24:56.820
+ upper motor neurons for deliberate unlearned movements
+
+24:56.820 --> 24:59.720
+ or movements that we are in the process of learning.
+
+24:59.720 --> 25:02.440
+ And then we have what are called lower motor neurons.
+
+25:02.440 --> 25:04.960
+ Lower motor neurons are the ones in our spinal cord
+
+25:04.960 --> 25:06.800
+ that send little wires out to our muscles,
+
+25:06.800 --> 25:10.880
+ which actually cause the firing of those muscle fibers, okay?
+
+25:10.880 --> 25:12.440
+ So the way to think about this
+
+25:12.440 --> 25:13.800
+ is you've got upper motor neurons,
+
+25:13.800 --> 25:16.600
+ which talk to CPGs and to lower motor neurons.
+
+25:16.600 --> 25:18.060
+ So it's really simple.
+
+25:18.060 --> 25:21.320
+ And now you know most everything there is to know
+
+25:21.320 --> 25:24.280
+ about the neural pathways controlling movement,
+
+25:24.280 --> 25:26.400
+ at least for sake of this discussion.
+
+25:26.400 --> 25:28.200
+ So anytime we learn something,
+
+25:28.200 --> 25:32.900
+ we have to decide what to place our sensory perception on,
+
+25:32.900 --> 25:35.320
+ meaning what are we going to focus on?
+
+25:35.320 --> 25:36.160
+ That's critical.
+
+25:36.160 --> 25:37.000
+ If you're listening to this
+
+25:37.000 --> 25:39.400
+ and you're the type of person who likes taking notes,
+
+25:39.400 --> 25:41.640
+ this should be the second question you ask.
+
+25:41.640 --> 25:42.920
+ Remember the first question is,
+
+25:42.920 --> 25:45.000
+ is it open loop or closed loop?
+
+25:45.000 --> 25:46.780
+ The second question should be,
+
+25:47.760 --> 25:50.160
+ what should I focus my attention on?
+
+25:50.160 --> 25:54.220
+ Auditory attention, visual attention, or proprioception.
+
+25:54.220 --> 25:57.340
+ Should I focus on where my limbs are relative to my body
+
+25:57.340 --> 25:59.760
+ or should I focus on the outcome?
+
+25:59.760 --> 26:01.600
+ Okay, this is a critical distinction.
+
+26:01.600 --> 26:03.980
+ You can decide to learn how to do a golf swing
+
+26:03.980 --> 26:05.640
+ or learn how to shoot free throws
+
+26:05.640 --> 26:07.080
+ or learn how to dance tango
+
+26:07.080 --> 26:09.120
+ and decide that you are going to focus
+
+26:09.120 --> 26:12.760
+ on the movements of your partner
+
+26:12.760 --> 26:14.640
+ or the positions of your feet.
+
+26:14.640 --> 26:16.120
+ Maybe you're going to look at them.
+
+26:16.120 --> 26:17.900
+ Maybe you're going to sense them.
+
+26:17.900 --> 26:20.960
+ You're going to actually feel where they are.
+
+26:20.960 --> 26:22.560
+ Or maybe you're going to sense
+
+26:22.560 --> 26:24.360
+ the position and posture of your body,
+
+26:24.360 --> 26:26.120
+ which is more proprioceptive, okay?
+
+26:26.120 --> 26:28.180
+ So you have to allocate your attention.
+
+26:28.180 --> 26:30.940
+ And I'm going to tell you how to allocate your attention best
+
+26:30.940 --> 26:32.460
+ in order to learn faster.
+
+26:32.460 --> 26:35.720
+ So these are the sorts of decisions that you have to make.
+
+26:35.720 --> 26:37.840
+ Fortunately for you, you don't have to think about
+
+26:37.840 --> 26:40.480
+ whether or not you're going to use your upper motor neurons
+
+26:40.480 --> 26:42.500
+ and your lower motor neurons or not,
+
+26:42.500 --> 26:43.920
+ because if you don't know how to do something,
+
+26:43.920 --> 26:45.460
+ you're automatically going to engage
+
+26:45.460 --> 26:46.360
+ your upper motor neurons.
+
+26:46.360 --> 26:49.500
+ And if you do, you are all right,
+
+26:49.500 --> 26:51.280
+ then you're not going to use your upper motor neurons.
+
+26:51.280 --> 26:53.800
+ You're mainly going to rely on central pattern generators.
+
+26:53.800 --> 26:56.940
+ You are always using your lower motor neurons
+
+26:56.940 --> 26:58.100
+ to move muscle.
+
+26:58.100 --> 26:59.760
+ So we can really simplify things now.
+
+26:59.760 --> 27:02.240
+ I've given you a lot of information, but we can simplify it.
+
+27:02.240 --> 27:05.360
+ Basically open loop or closed loop, that's one question.
+
+27:05.360 --> 27:07.120
+ And what am I going to focus on?
+
+27:07.120 --> 27:09.800
+ And then your neurology will take care of the rest.
+
+27:09.800 --> 27:13.680
+ So now I want to talk about realistic expectations.
+
+27:13.680 --> 27:18.440
+ Somewhere in Hollywood, presumably,
+
+27:18.440 --> 27:20.880
+ it got embedded in somebody's mind
+
+27:20.880 --> 27:24.400
+ that instant skill acquisition was possible,
+
+27:24.400 --> 27:26.460
+ that you could take a particular pill
+
+27:26.460 --> 27:29.100
+ or you could touch a particular object,
+
+27:29.100 --> 27:31.820
+ or you could have a wand wave over you
+
+27:31.820 --> 27:34.620
+ and you would suddenly have a skill.
+
+27:34.620 --> 27:38.660
+ And so that is the result of Hollywood at all.
+
+27:38.660 --> 27:43.660
+ It doesn't exist, at least not in reality.
+
+27:43.660 --> 27:47.000
+ And I love movies, but it simply doesn't exist.
+
+27:47.000 --> 27:51.620
+ Then the self-help literature created another rule
+
+27:51.620 --> 27:54.260
+ called the 10,000 hours rule.
+
+27:54.260 --> 27:57.900
+ And frankly, that doesn't really match the literature,
+
+27:57.900 --> 27:59.940
+ at least the scientific literature either.
+
+28:01.080 --> 28:04.860
+ I like it because it implies that learning takes time,
+
+28:04.860 --> 28:08.580
+ which is more accurate than the Hollywood at all
+
+28:08.580 --> 28:11.960
+ instant skill acquisition rule,
+
+28:11.960 --> 28:14.660
+ which isn't really a rule, it's a myth.
+
+28:14.660 --> 28:18.460
+ But the 10,000 hours rule overlooks something crucial,
+
+28:18.460 --> 28:23.460
+ which is that it's not about hours, it's about repetitions.
+
+28:24.380 --> 28:26.520
+ Now, of course, there's a relationship
+
+28:26.520 --> 28:29.440
+ between time and repetitions,
+
+28:29.440 --> 28:31.820
+ but there are some beautiful experiments
+
+28:31.820 --> 28:36.820
+ that point to the fact that by simple adjustment
+
+28:36.820 --> 28:39.540
+ of what you are focused on
+
+28:39.540 --> 28:42.380
+ as you attempt to learn a new skill,
+
+28:42.380 --> 28:45.660
+ you can adjust the number of repetitions that you do,
+
+28:45.660 --> 28:47.800
+ you adjust your motivation for learning,
+
+28:47.800 --> 28:50.340
+ and you can vastly accelerate learning.
+
+28:51.620 --> 28:55.220
+ Some of you may recognize this by its internet name,
+
+28:55.220 --> 28:56.920
+ which is not a scientific term,
+
+28:56.920 --> 28:59.180
+ which is the Super Mario effect.
+
+28:59.180 --> 29:02.020
+ There's actually a quite good video on YouTube
+
+29:02.020 --> 29:03.720
+ describing the Super Mario effect.
+
+29:03.720 --> 29:05.580
+ I think it was a YouTuber who has,
+
+29:05.580 --> 29:08.060
+ I think, a background in science.
+
+29:08.060 --> 29:11.020
+ And he did an interesting experiment,
+
+29:11.020 --> 29:13.740
+ and I'll talk about his experiment first,
+
+29:13.740 --> 29:16.700
+ and then I will talk about the neurobiology
+
+29:16.700 --> 29:20.180
+ that supports the result that he got.
+
+29:20.180 --> 29:22.600
+ The Super Mario effect relates
+
+29:22.600 --> 29:24.140
+ to the game Super Mario Brothers,
+
+29:24.140 --> 29:26.120
+ but you'll see why at the end.
+
+29:26.120 --> 29:30.780
+ But basically what they did was they had 50,000 subjects,
+
+29:30.780 --> 29:34.140
+ which is a enormous number of subjects.
+
+29:34.140 --> 29:36.320
+ Learn a program,
+
+29:36.320 --> 29:39.200
+ essentially taking words from a computer program
+
+29:39.200 --> 29:41.700
+ or the commands for a computer program
+
+29:41.700 --> 29:44.980
+ that were kind of clustered in a column on the right.
+
+29:44.980 --> 29:46.320
+ So these are the sorts of things
+
+29:46.320 --> 29:48.540
+ that computer programmers will be familiar with,
+
+29:48.540 --> 29:49.700
+ but other people won't.
+
+29:50.740 --> 29:53.080
+ And those commands are essentially,
+
+29:53.080 --> 29:56.380
+ they essentially translate to things like go forward,
+
+29:56.380 --> 29:58.500
+ and then if it's a right-hand turn in the maze,
+
+29:58.500 --> 30:00.700
+ then go right and continue
+
+30:00.700 --> 30:02.760
+ until you hit a choice point, et cetera.
+
+30:02.760 --> 30:04.420
+ So it's a bunch of instructions,
+
+30:04.420 --> 30:06.860
+ but the job of the subjects in these experiments
+
+30:06.860 --> 30:09.160
+ were to organize those instructions in a particular way
+
+30:09.160 --> 30:11.240
+ that would allow a little cursor
+
+30:11.240 --> 30:13.700
+ to move through the maze successfully, okay?
+
+30:13.700 --> 30:15.340
+ So basically the goal was,
+
+30:15.340 --> 30:17.160
+ or at least what the subjects were told,
+
+30:17.160 --> 30:20.100
+ is that anyone can learn to computer program,
+
+30:20.100 --> 30:23.820
+ and if somebody can just organize the instructions
+
+30:23.820 --> 30:24.840
+ in the right way,
+
+30:24.840 --> 30:27.740
+ then they can program this little cursor
+
+30:27.740 --> 30:29.540
+ to move through a maze, very simple.
+
+30:29.540 --> 30:32.760
+ And yet, if you don't have any background
+
+30:32.760 --> 30:34.780
+ in computer programming, or even if you do,
+
+30:34.780 --> 30:36.060
+ it takes some skill.
+
+30:36.060 --> 30:37.700
+ You have to know what commands to give
+
+30:37.700 --> 30:39.780
+ in what particular order, and they made that very easy.
+
+30:39.780 --> 30:41.660
+ You could just assemble them in a list
+
+30:41.660 --> 30:42.760
+ over onto the right.
+
+30:44.020 --> 30:45.700
+ So people started doing this.
+
+30:45.700 --> 30:48.380
+ Now, there were two groups,
+
+30:48.380 --> 30:51.640
+ and one half of the subjects,
+
+30:51.640 --> 30:53.700
+ if they got it wrong,
+
+30:54.620 --> 30:57.180
+ meaning they entered a command and the cursor would move,
+
+30:57.180 --> 31:00.920
+ and it was the wrong command
+
+31:00.920 --> 31:03.980
+ for this little cursor to move through the maze,
+
+31:03.980 --> 31:07.100
+ they saw a signal jump up on their screen
+
+31:07.100 --> 31:11.740
+ that said, that did not work, please try again.
+
+31:12.580 --> 31:13.420
+ That's it.
+
+31:13.420 --> 31:14.640
+ If they put in the wrong command
+
+31:14.640 --> 31:15.580
+ or it was in the wrong sequence,
+
+31:15.580 --> 31:17.140
+ it would say, that did not work, please try again,
+
+31:17.140 --> 31:20.360
+ and then the subjects would reorganize the instructions,
+
+31:20.360 --> 31:21.780
+ and then the little cursor would continue,
+
+31:21.780 --> 31:23.560
+ and if they got it wrong again,
+
+31:23.560 --> 31:26.200
+ it would say, that did not work, please try again, okay?
+
+31:26.200 --> 31:28.740
+ The other half of the subjects,
+
+31:28.740 --> 31:31.000
+ if they got something wrong, were told,
+
+31:32.240 --> 31:36.040
+ you just lost five points, please continue.
+
+31:36.040 --> 31:39.900
+ So that's the only difference in the feedback that they got.
+
+31:39.900 --> 31:43.740
+ Now, I have to confess, I would have predicted
+
+31:43.740 --> 31:46.980
+ based on my knowledge of dopamine circuitry
+
+31:46.980 --> 31:51.980
+ and reward contingency and epinephrine and stress
+
+31:52.140 --> 31:53.380
+ and motivated learning,
+
+31:53.380 --> 31:55.700
+ and this other thing that we've been told
+
+31:55.700 --> 31:58.820
+ in many, many books on behavioral economics
+
+31:58.820 --> 32:00.120
+ and in the self-help literature,
+
+32:00.120 --> 32:02.740
+ which is that people will work much harder
+
+32:02.740 --> 32:05.080
+ to prevent losing something
+
+32:05.080 --> 32:07.600
+ than they will to gain something,
+
+32:07.600 --> 32:09.360
+ that you hear all the time,
+
+32:09.360 --> 32:13.060
+ and it turns out that that's not at all what happened.
+
+32:13.060 --> 32:17.700
+ If they looked at the success rate of the subjects,
+
+32:17.700 --> 32:20.900
+ what they found was that the subjects that were told,
+
+32:20.900 --> 32:23.740
+ that did not work, please try again,
+
+32:23.740 --> 32:25.920
+ had a 68% success rate.
+
+32:26.920 --> 32:29.780
+ 68% of them went on to successfully program
+
+32:29.780 --> 32:31.960
+ this cursor moving through the maze.
+
+32:31.960 --> 32:35.500
+ Whereas the ones that were told, you lost five points,
+
+32:35.500 --> 32:40.460
+ had a 52% success rate, which is a significant difference.
+
+32:40.460 --> 32:45.100
+ But the source of the success or the lack of success
+
+32:45.100 --> 32:47.020
+ is really interesting.
+
+32:47.020 --> 32:49.740
+ The subjects that were told, that did not work,
+
+32:49.740 --> 32:50.900
+ please try again,
+
+32:50.900 --> 32:55.900
+ tried many, many more times per unit time.
+
+32:55.940 --> 32:57.680
+ In other words, they made more attempts
+
+32:57.680 --> 32:58.880
+ at programming this thing
+
+32:58.880 --> 33:01.300
+ to allow this cursor to move through the maze.
+
+33:01.300 --> 33:03.940
+ Whereas the people that were told, you lost five points,
+
+33:03.940 --> 33:07.140
+ gave up earlier or gave up entirely.
+
+33:07.140 --> 33:09.380
+ Okay, so let's just step back from this
+
+33:09.380 --> 33:12.140
+ because to me, this was very surprising.
+
+33:12.140 --> 33:14.220
+ It violates a lot of things that I had heard
+
+33:14.220 --> 33:18.040
+ in the kind of popular culture or the self-help literature
+
+33:18.040 --> 33:19.660
+ that people will work much harder
+
+33:19.660 --> 33:22.560
+ to avoid losing something than they will to gain something.
+
+33:22.560 --> 33:25.380
+ And it didn't really fit with what I understood
+
+33:25.380 --> 33:27.440
+ about reward contingencies and dopamine.
+
+33:28.960 --> 33:31.520
+ But it did fit well with another set of experiments
+
+33:31.520 --> 33:34.620
+ that I'm very familiar with from the neuroscience literature
+
+33:34.620 --> 33:36.300
+ and I'll give you the punchline first.
+
+33:36.300 --> 33:38.460
+ And then we're going to take what these data mean
+
+33:38.460 --> 33:41.340
+ and we're going to talk about a learning protocol
+
+33:41.340 --> 33:45.060
+ that you can use that will allow you to learn skills faster
+
+33:45.060 --> 33:49.460
+ by willingly participating in more repetitions
+
+33:49.460 --> 33:50.480
+ of the skill learning.
+
+33:50.480 --> 33:53.280
+ Meaning you will want to do more repetitions
+
+33:53.280 --> 33:56.920
+ even if you're getting it wrong some or most of the time.
+
+33:57.760 --> 34:00.320
+ So the experiment that I want to tell you about
+
+34:00.320 --> 34:01.820
+ is called the tube test.
+
+34:01.820 --> 34:03.940
+ And this is generally done in mice
+
+34:03.940 --> 34:05.500
+ although it's sometimes been done in rats
+
+34:05.500 --> 34:07.460
+ and it has a lot of parallels to some things
+
+34:07.460 --> 34:11.460
+ that you've probably seen and experienced
+
+34:11.460 --> 34:16.200
+ even in human life, in regular life, maybe even in your life.
+
+34:16.200 --> 34:17.980
+ So here's the experiment.
+
+34:17.980 --> 34:20.260
+ You take two rats, you put them in a tube
+
+34:20.260 --> 34:22.120
+ or two mice, you put them in a tube.
+
+34:22.120 --> 34:25.780
+ And mice and rats, they don't like to share the same tube.
+
+34:25.780 --> 34:28.500
+ So what they'll do is they'll start pushing each other
+
+34:28.500 --> 34:30.540
+ back and forth, back and forth.
+
+34:30.540 --> 34:32.700
+ Sooner or later, one of the rats or mice
+
+34:32.700 --> 34:34.780
+ pushes the other one out.
+
+34:34.780 --> 34:36.340
+ The one that got pushed out is the loser.
+
+34:36.340 --> 34:38.980
+ The one that gets the tube is the winner.
+
+34:38.980 --> 34:43.980
+ Okay, now you take the winner, you give it a new competitor
+
+34:43.980 --> 34:48.020
+ and what you find is that the mouse or rat
+
+34:48.020 --> 34:52.900
+ that won previously has a much higher than chance
+
+34:52.900 --> 34:55.700
+ probability of winning the second time.
+
+34:55.700 --> 35:00.580
+ In other words, winning before leads to winning again.
+
+35:00.580 --> 35:01.900
+ And the reverse is also true.
+
+35:01.900 --> 35:04.820
+ If you take the loser and you put that loser in
+
+35:04.820 --> 35:07.980
+ with another mouse, fresh mouse, new mouse,
+
+35:08.940 --> 35:10.660
+ the loser typically will lose
+
+35:10.660 --> 35:13.120
+ at much greater probability than chance.
+
+35:13.120 --> 35:15.780
+ And this is not related to differences in strength
+
+35:15.780 --> 35:18.640
+ or size or testosterone or any other of the things
+
+35:18.640 --> 35:21.100
+ that might leap to mind as explanations for this
+
+35:21.100 --> 35:23.460
+ because those were all controlled for.
+
+35:23.460 --> 35:27.600
+ Now, that result had been known about for decades
+
+35:27.600 --> 35:30.520
+ but three years ago, there was a paper published
+
+35:30.520 --> 35:32.540
+ in the journal Science, Phenomenal Journal,
+
+35:32.540 --> 35:35.040
+ it's one of the three apex journals,
+
+35:35.040 --> 35:37.500
+ that examined the brain area that's involved in this.
+
+35:37.500 --> 35:40.400
+ Turns out it's a particular area of the frontal cortex
+
+35:40.400 --> 35:41.740
+ for those of you that want to know.
+
+35:41.740 --> 35:44.020
+ And they did a simple experiment where they,
+
+35:44.020 --> 35:47.500
+ the experimenters increased or decreased the activity
+
+35:47.500 --> 35:49.540
+ of this brain area in the prefrontal cortex,
+
+35:49.540 --> 35:51.100
+ little sub-region of the prefrontal cortex.
+
+35:51.100 --> 35:54.340
+ And what they found is if they stimulated this brain area,
+
+35:55.220 --> 35:58.060
+ a mouse or rat, regardless of whether or not
+
+35:58.060 --> 36:00.100
+ it had been a winner or loser before,
+
+36:00.100 --> 36:02.360
+ became a winner every single time.
+
+36:03.380 --> 36:06.720
+ And they showed that if they blocked the activity
+
+36:06.720 --> 36:09.700
+ of this brain area, regardless of whether or not
+
+36:09.700 --> 36:11.740
+ the mouse or rat had been a winner or a loser,
+
+36:11.740 --> 36:13.900
+ it became a loser every single time.
+
+36:13.900 --> 36:16.620
+ And this translated to other scenarios,
+
+36:16.620 --> 36:18.980
+ other competitive scenarios,
+
+36:18.980 --> 36:20.860
+ where they'd put a bunch of mice or rats
+
+36:20.860 --> 36:23.460
+ in a kind of cool chamber,
+
+36:23.460 --> 36:25.060
+ they'd have a little heat lamp in the corner
+
+36:25.060 --> 36:26.100
+ and mice like heat,
+
+36:26.100 --> 36:28.340
+ and there was only enough space for one mouse
+
+36:28.340 --> 36:30.300
+ to get the, be under the heat.
+
+36:30.300 --> 36:32.340
+ And the one that had won in the tube test
+
+36:32.340 --> 36:33.900
+ or that had the brain area stimulated
+
+36:33.900 --> 36:36.940
+ always got the nice warm spot, okay?
+
+36:36.940 --> 36:39.260
+ So what is this magic brain area?
+
+36:39.260 --> 36:40.400
+ What is it doing?
+
+36:40.400 --> 36:42.360
+ Well, the reason I'm bringing this up today,
+
+36:42.360 --> 36:43.740
+ and the reason I'm bringing it up
+
+36:43.740 --> 36:45.820
+ on the heels of the Super Mario effect
+
+36:45.820 --> 36:48.900
+ is that stimulation of this brain area
+
+36:48.900 --> 36:52.940
+ had a very simple and very important effect,
+
+36:52.940 --> 36:55.620
+ which was it led to more forward steps,
+
+36:55.620 --> 36:59.220
+ more repetitions, more effort,
+
+36:59.220 --> 37:01.500
+ but not in terms of sheer might and will,
+
+37:01.500 --> 37:05.740
+ not digging deeper, just more repetitions per unit time.
+
+37:05.740 --> 37:09.780
+ And the losers had fewer repetitions per unit time.
+
+37:09.780 --> 37:13.380
+ So the Super Mario effect, this online experiment,
+
+37:13.380 --> 37:16.180
+ and the tube test, which has been done by various labs
+
+37:16.180 --> 37:17.820
+ and repeated again and again,
+
+37:17.820 --> 37:21.180
+ point to a simple but very important rule,
+
+37:21.180 --> 37:23.540
+ which is neither the 10,000 hours rule
+
+37:23.540 --> 37:26.860
+ nor the magic wand Hollywood version of learning,
+
+37:26.860 --> 37:29.460
+ but rather the neurobiological explanation
+
+37:29.460 --> 37:33.260
+ for learning a skill is you want to perform
+
+37:33.260 --> 37:37.520
+ as many repetitions per unit time as you possibly can,
+
+37:38.760 --> 37:41.780
+ at least when you're first trying to learn a skill.
+
+37:41.780 --> 37:42.620
+ I want to repeat that.
+
+37:42.620 --> 37:46.640
+ You want to perform as many repetitions as you possibly can,
+
+37:46.640 --> 37:49.400
+ at least when you're first trying to learn a skill.
+
+37:50.520 --> 37:53.620
+ Now that might sound like a duh, it's just more reps,
+
+37:53.620 --> 37:56.060
+ but it's not so obvious.
+
+37:56.060 --> 37:58.360
+ There's no reason why more repetitions
+
+37:58.360 --> 38:00.780
+ should necessarily lead to faster learning
+
+38:00.780 --> 38:03.900
+ because you could also say, well, more repetitions,
+
+38:03.900 --> 38:05.120
+ you can make more errors,
+
+38:05.120 --> 38:07.600
+ and those errors would lead to poor performance,
+
+38:07.600 --> 38:09.880
+ like misstepping a number of times.
+
+38:09.880 --> 38:13.540
+ And in these cases, there's very little feedback, right?
+
+38:13.540 --> 38:17.740
+ It's not like every time the rat pushes forward
+
+38:17.740 --> 38:20.620
+ or moves back that it is sensing, oh, I'm winning,
+
+38:20.620 --> 38:22.660
+ I'm losing, I'm winning, I'm losing on a micro level.
+
+38:22.660 --> 38:24.860
+ It probably does that as it starts to push the other one out
+
+38:24.860 --> 38:26.700
+ the rat or mouse probably thinks I'm winning.
+
+38:26.700 --> 38:29.500
+ And as it's backing up, it probably thinks I'm losing.
+
+38:29.500 --> 38:31.880
+ As you play the game, the Super Mario game,
+
+38:32.800 --> 38:35.040
+ you are told, nope, that didn't work,
+
+38:35.040 --> 38:37.100
+ nope, that didn't work, please try again.
+
+38:38.840 --> 38:42.500
+ But the important thing is that the winners
+
+38:42.500 --> 38:46.460
+ are always generating more repetitions per unit time.
+
+38:46.460 --> 38:49.740
+ It's just a repeat of performance, repeat of performance,
+
+38:49.740 --> 38:51.120
+ even if there are errors.
+
+38:51.120 --> 38:54.020
+ And that points to something vitally important,
+
+38:54.020 --> 38:57.900
+ which is reps are important,
+
+38:57.900 --> 39:01.260
+ but making error reps is also important.
+
+39:01.260 --> 39:03.980
+ In fact, it might be the most important factor.
+
+39:03.980 --> 39:08.020
+ So let's talk about errors and why those solve the problem
+
+39:08.020 --> 39:09.900
+ of what to focus on.
+
+39:09.900 --> 39:12.740
+ Because as I said earlier, if you want to learn something,
+
+39:12.740 --> 39:15.280
+ you need to know if it's open loop or closed loop,
+
+39:15.280 --> 39:17.340
+ and you need to know what to focus on,
+
+39:17.340 --> 39:18.940
+ where to place your perception.
+
+39:18.940 --> 39:21.100
+ And that seems like a tough task,
+
+39:21.100 --> 39:24.540
+ but errors will tell you exactly what to focus on.
+
+39:24.540 --> 39:27.620
+ So let's talk about errors and why you can leverage errors
+
+39:27.620 --> 39:29.600
+ to accelerate skill learning.
+
+39:29.600 --> 39:31.600
+ Okay, so we've established that performing
+
+39:31.600 --> 39:35.620
+ the maximum number of repetitions per training session
+
+39:35.620 --> 39:37.620
+ is going to be advantageous.
+
+39:37.620 --> 39:39.360
+ And that might seem obvious,
+
+39:39.360 --> 39:43.320
+ but there's a shadowy side to that, which is,
+
+39:43.320 --> 39:46.000
+ well, why would I want to just repeat the same thing
+
+39:46.000 --> 39:49.460
+ over and over again if I'm getting it wrong 90% of the time?
+
+39:49.460 --> 39:51.260
+ And the reason is that the errors
+
+39:51.260 --> 39:55.140
+ actually cue your nervous system to two things,
+
+39:55.140 --> 39:58.340
+ one, to error correction,
+
+39:58.340 --> 40:00.780
+ and the other is it opens the door
+
+40:00.780 --> 40:02.900
+ or the window for neuroplasticity.
+
+40:02.900 --> 40:06.220
+ Neuroplasticity is the brain and nervous system's ability
+
+40:06.220 --> 40:08.580
+ to change in response to experience,
+
+40:08.580 --> 40:11.420
+ essentially to custom modify itself
+
+40:11.420 --> 40:13.900
+ in order to perform anything better.
+
+40:13.900 --> 40:15.900
+ We did an entire month on neuroplasticity,
+
+40:15.900 --> 40:17.640
+ and I talked a little bit about errors
+
+40:17.640 --> 40:19.060
+ and why they're important.
+
+40:19.060 --> 40:21.360
+ Now we're going to make this very concrete
+
+40:21.360 --> 40:24.600
+ and operationalize it, make it very actionable.
+
+40:24.600 --> 40:27.860
+ There was a paper that was published in 2021
+
+40:27.860 --> 40:29.580
+ from Norman et al.
+
+40:29.580 --> 40:32.020
+ This is a very important paper.
+
+40:32.020 --> 40:33.500
+ It was published in the journal Neuron,
+
+40:33.500 --> 40:36.520
+ which is a cell press journal, excellent journal.
+
+40:36.520 --> 40:39.380
+ The title of the paper gives it away essentially,
+
+40:39.380 --> 40:41.460
+ which is Post-Error Recruitment
+
+40:41.460 --> 40:45.500
+ of Frontal Sensory Cortical Projections Promotes Attention.
+
+40:45.500 --> 40:50.500
+ Now, what that says is that when you make an error,
+
+40:50.500 --> 40:54.620
+ it causes an activation of the brain areas
+
+40:54.620 --> 40:56.700
+ that anchor your attention.
+
+40:56.700 --> 40:59.940
+ Remember, we need perception, attention,
+
+40:59.940 --> 41:01.240
+ which they're essentially the same thing.
+
+41:01.240 --> 41:02.340
+ We need proprioception,
+
+41:02.340 --> 41:04.300
+ and we need the upper and lower motor neurons
+
+41:04.300 --> 41:06.740
+ to communicate in the proper ways.
+
+41:06.740 --> 41:09.820
+ And this vital question is what to pay attention to.
+
+41:09.820 --> 41:12.060
+ Errors tell your nervous system
+
+41:12.060 --> 41:13.940
+ that something needs to change.
+
+41:13.940 --> 41:16.980
+ So if you are performing a task or a skill,
+
+41:16.980 --> 41:18.160
+ like you're learning how to dance
+
+41:18.160 --> 41:19.820
+ and you're stepping on the other person's toes
+
+41:19.820 --> 41:22.260
+ or you're fumbling or you're not getting it right,
+
+41:22.260 --> 41:25.340
+ those errors are opening the possibility for plasticity.
+
+41:25.340 --> 41:27.580
+ If you walk away at that point,
+
+41:27.580 --> 41:30.700
+ you've made the exact wrong choice, okay?
+
+41:30.700 --> 41:33.300
+ Unless the errors are somehow hazardous to your health
+
+41:33.300 --> 41:35.540
+ or somebody else's wellbeing,
+
+41:35.540 --> 41:39.260
+ you want to continue to engage at a high repetition rate.
+
+41:39.260 --> 41:41.700
+ That's really where the learning is possible.
+
+41:41.700 --> 41:45.700
+ Without errors, the brain is not in a position
+
+41:45.700 --> 41:47.180
+ to change itself.
+
+41:47.180 --> 41:51.180
+ Errors actually cue the frontal cortex networks,
+
+41:51.180 --> 41:52.940
+ what we call top-down processing,
+
+41:52.940 --> 41:54.460
+ and the neuromodulators,
+
+41:54.460 --> 41:57.140
+ things like dopamine and acetylcholine and epinephrine,
+
+41:57.140 --> 41:59.980
+ that will allow for plasticity.
+
+41:59.980 --> 42:02.660
+ So while the Super Mario experiment, the maze experiment,
+
+42:02.660 --> 42:05.120
+ was only focused on generating errors,
+
+42:05.120 --> 42:07.020
+ telling people that wasn't right, please try again,
+
+42:07.020 --> 42:09.780
+ or that wasn't right, you lost five points,
+
+42:09.780 --> 42:13.740
+ the key distinction is that the errors themselves
+
+42:13.740 --> 42:17.140
+ cued people to the fact that they needed to change something.
+
+42:17.140 --> 42:19.220
+ So if you're trying to learn a new skill
+
+42:19.220 --> 42:22.440
+ and you're screwing up and you're making mistakes,
+
+42:22.440 --> 42:23.900
+ the more mistakes you make,
+
+42:23.900 --> 42:26.380
+ the more plastic your brain becomes,
+
+42:26.380 --> 42:28.800
+ such that when you get it right,
+
+42:28.800 --> 42:33.460
+ that correct pattern will be rewarded and consolidated.
+
+42:33.460 --> 42:35.340
+ And you can trust that it will
+
+42:35.340 --> 42:37.820
+ because the performance of something correctly
+
+42:37.820 --> 42:39.660
+ is associated with the release
+
+42:39.660 --> 42:41.560
+ of this neuromodulator dopamine.
+
+42:41.560 --> 42:44.580
+ Dopamine is involved in craving and motivation,
+
+42:44.580 --> 42:45.780
+ it's involved in a lot of things,
+
+42:45.780 --> 42:47.980
+ but it's also involved in learning.
+
+42:49.100 --> 42:51.980
+ We will do an entire episode on dopamine and learning,
+
+42:51.980 --> 42:54.820
+ but because some of you are probably wondering,
+
+42:54.820 --> 42:56.620
+ this does not mean that just increasing
+
+42:56.620 --> 42:58.220
+ your dopamine levels before learning
+
+42:58.220 --> 42:59.780
+ will allow you to learn faster.
+
+42:59.780 --> 43:02.820
+ In fact, increasing your dopamine levels
+
+43:02.820 --> 43:05.180
+ before learning using pharmacology
+
+43:05.180 --> 43:07.900
+ will actually reduce what's called the signal to noise.
+
+43:07.900 --> 43:10.360
+ It will make these increases in dopamine
+
+43:10.360 --> 43:13.160
+ that pop up in your brain that suddenly make you realize,
+
+43:13.160 --> 43:14.700
+ ah, I got that one right.
+
+43:14.700 --> 43:16.500
+ It will make those smaller
+
+43:16.500 --> 43:20.380
+ relative to the background levels of dopamine, okay?
+
+43:20.380 --> 43:22.500
+ You want a big spike in dopamine
+
+43:22.500 --> 43:25.020
+ when you perform a motor pattern correctly,
+
+43:25.020 --> 43:27.060
+ and you want to make lots of errors,
+
+43:27.060 --> 43:29.600
+ many, many repetitions of errors
+
+43:29.600 --> 43:32.140
+ in order to get to that correct performance.
+
+43:32.140 --> 43:33.940
+ Now, if you're like most people,
+
+43:33.940 --> 43:37.740
+ you're going to do this in a way that's somewhat random,
+
+43:37.740 --> 43:39.420
+ meaning, let's say it's a tennis serve,
+
+43:39.420 --> 43:40.580
+ I can't play tennis,
+
+43:40.580 --> 43:42.840
+ I think I've probably played tennis twice.
+
+43:42.840 --> 43:44.500
+ So if I throw the ball up in the air and hit it,
+
+43:44.500 --> 43:46.540
+ I'm going to get it wrong and probably hit the net,
+
+43:46.540 --> 43:47.380
+ then I'm going to hit the net.
+
+43:47.380 --> 43:48.720
+ Then I'll probably go too long,
+
+43:48.720 --> 43:50.140
+ then I'll probably go over the fence.
+
+43:50.140 --> 43:52.860
+ At some point, I like to think I'll get it correct.
+
+43:53.760 --> 43:57.340
+ The dopamine signal for that is going to be quite big,
+
+43:57.340 --> 43:59.540
+ and I'll think, okay, what did I do there?
+
+43:59.540 --> 44:01.300
+ I actually don't know, I wasn't paying attention.
+
+44:01.300 --> 44:03.340
+ What I was paying attention to is whether or not the ball
+
+44:03.340 --> 44:04.680
+ went to the correct location
+
+44:04.680 --> 44:05.740
+ on the opposite side of the net.
+
+44:05.740 --> 44:07.580
+ Remember, it's an open loop move,
+
+44:07.580 --> 44:09.820
+ so I don't actually know what I did correctly,
+
+44:09.820 --> 44:12.200
+ but your nervous system will take care of that
+
+44:12.200 --> 44:14.660
+ provided I, in this case,
+
+44:14.660 --> 44:17.120
+ complete more and more and more repetitions.
+
+44:17.120 --> 44:20.020
+ Now, if I were to just elevate my basal level of dopamine
+
+44:20.020 --> 44:21.000
+ by taking, I don't know,
+
+44:21.000 --> 44:24.060
+ 1,500 milligrams of L-tyrosine or something,
+
+44:24.060 --> 44:26.460
+ that would be bad because the increase in dopamine
+
+44:26.460 --> 44:29.680
+ would actually be much lower, right?
+
+44:29.680 --> 44:31.340
+ We would say the delta is smaller,
+
+44:31.340 --> 44:33.260
+ the signal to noise is smaller
+
+44:33.260 --> 44:35.780
+ if my overall levels of dopamine are very, very high,
+
+44:35.780 --> 44:37.800
+ so I'm actually going to learn less well.
+
+44:37.800 --> 44:40.420
+ So for skill learning, motor skill learning,
+
+44:40.420 --> 44:44.100
+ increasing your dopamine levels prior is not a good idea.
+
+44:44.100 --> 44:46.540
+ It might help with motivation to get to the learning,
+
+44:46.540 --> 44:49.460
+ but it's not going to improve the plasticity process itself
+
+44:49.460 --> 44:51.940
+ and it's likely to hinder it,
+
+44:51.940 --> 44:53.620
+ and so that's very important.
+
+44:53.620 --> 44:58.620
+ So these errors cue the brain that something was wrong
+
+44:59.340 --> 45:01.940
+ and they open up the possibility for plasticity.
+
+45:01.940 --> 45:03.820
+ It's what's sometimes called the framing effect.
+
+45:03.820 --> 45:05.660
+ It frames what's important,
+
+45:05.660 --> 45:08.660
+ and so I think this is a shift that we've heard about,
+
+45:08.660 --> 45:12.360
+ you know, growth mindset, which is the incredible discovery
+
+45:12.360 --> 45:14.780
+ and theory and practice of my colleague,
+
+45:14.780 --> 45:15.820
+ Carol Dweck at Stanford.
+
+45:15.820 --> 45:17.740
+ This is distinct from that, right?
+
+45:17.740 --> 45:20.060
+ This isn't about motivation to learn.
+
+45:20.060 --> 45:21.560
+ This is about how you actually learn.
+
+45:21.560 --> 45:24.740
+ So the key is designate a particular block of time
+
+45:24.740 --> 45:27.700
+ that you are going to perform repetitions.
+
+45:27.700 --> 45:30.140
+ So maybe that's 30 minutes, maybe that's an hour.
+
+45:30.140 --> 45:33.740
+ Work for time and then try and perform the maximum number
+
+45:33.740 --> 45:36.140
+ of repetitions that you can do safely
+
+45:36.140 --> 45:39.020
+ for you and others per unit time.
+
+45:39.020 --> 45:42.780
+ That's going to be the best way to approach learning
+
+45:42.780 --> 45:44.020
+ for most sessions.
+
+45:44.020 --> 45:46.420
+ I will talk about other things that one can do,
+
+45:46.420 --> 45:48.200
+ but making errors is key,
+
+45:48.200 --> 45:49.700
+ and this isn't a motivational speech.
+
+45:49.700 --> 45:51.360
+ I'm not saying, oh, go make errors.
+
+45:51.360 --> 45:52.260
+ Errors are good for you.
+
+45:52.260 --> 45:53.780
+ You have to fail in order to win.
+
+45:53.780 --> 45:56.780
+ No, you have to fail in order to open up
+
+45:56.780 --> 45:58.340
+ the possibility of plasticity,
+
+45:58.340 --> 46:02.160
+ but you have to fail many times within the same session,
+
+46:02.160 --> 46:05.060
+ and those failures will cue your attention
+
+46:05.060 --> 46:06.880
+ to the appropriate sensory events.
+
+46:06.880 --> 46:09.060
+ Now, sometimes we're working with a coach,
+
+46:09.060 --> 46:11.700
+ and so this is a shout out to all the coaches.
+
+46:11.700 --> 46:13.780
+ Thank you for doing what you do.
+
+46:13.780 --> 46:17.200
+ However, there needs to be,
+
+46:17.200 --> 46:19.620
+ at least what the scientific literature say,
+
+46:19.620 --> 46:21.940
+ there needs to be a period of each training session
+
+46:21.940 --> 46:25.400
+ whereby the athlete or the person of any kind
+
+46:25.400 --> 46:27.760
+ can simply pay attention to their errors
+
+46:27.760 --> 46:31.020
+ without their attention being cued to something else.
+
+46:31.020 --> 46:32.540
+ A really well-trained coach will say,
+
+46:32.540 --> 46:34.580
+ oh, you know, your elbow's swinging too high
+
+46:34.580 --> 46:36.460
+ or you're not gripping the racket
+
+46:36.460 --> 46:38.340
+ in the appropriate way, et cetera.
+
+46:38.340 --> 46:40.860
+ They can see things that the practitioner can't see,
+
+46:40.860 --> 46:43.000
+ and of course that's vitally important,
+
+46:43.000 --> 46:45.780
+ but the practitioner also needs
+
+46:45.780 --> 46:49.940
+ to use this error recognition signal.
+
+46:49.940 --> 46:52.940
+ They need to basically focus on something,
+
+46:52.940 --> 46:56.160
+ and the errors are going to tell them what to focus on.
+
+46:56.160 --> 46:59.420
+ So put simply, there needs to be a period of time
+
+46:59.420 --> 47:01.380
+ in which it's just repetition after repetition
+
+47:01.380 --> 47:02.220
+ after repetition.
+
+47:02.220 --> 47:04.460
+ I think many people, including coaches,
+
+47:04.460 --> 47:07.420
+ are afraid that bad habits will get ingrained,
+
+47:07.420 --> 47:10.060
+ and while indeed that's possible,
+
+47:10.060 --> 47:12.480
+ it's very important that these errors occur
+
+47:12.480 --> 47:14.700
+ in order to cue the attentional systems
+
+47:14.700 --> 47:16.920
+ and to open the door for plasticity.
+
+47:16.920 --> 47:19.820
+ So if I'm told, look, you know, I'm standing a little wide,
+
+47:19.820 --> 47:22.780
+ I need to tighten up my stance a little bit, great,
+
+47:22.780 --> 47:24.680
+ but then I need to generate many repetitions
+
+47:24.680 --> 47:26.340
+ from that tightened stance, okay?
+
+47:26.340 --> 47:28.460
+ So if I'm constantly being cued from the outside
+
+47:28.460 --> 47:30.260
+ about what I'm doing incorrectly,
+
+47:30.260 --> 47:32.460
+ that's not going to be as efficient, okay?
+
+47:32.460 --> 47:34.900
+ So for some people, these learning sessions
+
+47:34.900 --> 47:35.820
+ might be 10 minutes.
+
+47:35.820 --> 47:37.340
+ For some people, it might be an hour.
+
+47:37.340 --> 47:40.800
+ Whatever you can allocate, because your lifestyles will vary
+
+47:40.800 --> 47:42.620
+ and whether or not you're a professional athlete,
+
+47:42.620 --> 47:43.920
+ et cetera, will vary,
+
+47:43.920 --> 47:46.260
+ you want to get the maximum number of repetitions in
+
+47:46.260 --> 47:47.540
+ and you want to make errors.
+
+47:47.540 --> 47:49.780
+ That's allowing for plasticity.
+
+47:49.780 --> 47:51.460
+ So science points to the fact
+
+47:51.460 --> 47:55.500
+ that there's a particular sequencing of learning sessions
+
+47:55.500 --> 47:57.360
+ that will allow you to learn faster
+
+47:57.360 --> 47:59.740
+ and to retain the skill learning,
+
+47:59.740 --> 48:03.000
+ and it involves doing exactly as I just described,
+
+48:03.000 --> 48:06.060
+ which is getting as many repetitions as you can
+
+48:06.060 --> 48:07.340
+ in the learning session,
+
+48:08.660 --> 48:11.120
+ paying attention to the errors that you make,
+
+48:12.020 --> 48:14.640
+ and then the rewards that will be generated,
+
+48:14.640 --> 48:16.580
+ again, these are neurochemical rewards,
+
+48:16.580 --> 48:18.900
+ from the successful performance of a movement
+
+48:18.900 --> 48:22.340
+ or the approximate successful performance.
+
+48:22.340 --> 48:25.940
+ So maybe you get the golf swing better, but not perfect,
+
+48:25.940 --> 48:28.300
+ but that's still going to be rewarded
+
+48:28.300 --> 48:30.620
+ with this neurochemical mechanism.
+
+48:30.620 --> 48:32.700
+ And then after the session,
+
+48:32.700 --> 48:37.440
+ you need to do something very specific, which is nothing.
+
+48:38.840 --> 48:39.680
+ That's right.
+
+48:40.900 --> 48:45.100
+ There are beautiful data describing neurons
+
+48:45.100 --> 48:47.100
+ in our hippocampus,
+
+48:47.100 --> 48:49.860
+ this area of our brain involved in the consolidation
+
+48:49.860 --> 48:50.960
+ of new memories.
+
+48:52.400 --> 48:54.900
+ Those data point to the fact that in sleep,
+
+48:54.900 --> 48:59.180
+ there's a replay of the sequence of neurons
+
+48:59.180 --> 49:01.940
+ that were involved in certain behaviors the previous day,
+
+49:01.940 --> 49:04.340
+ and sometimes the previous day before that.
+
+49:05.220 --> 49:08.500
+ However, there are also data that show
+
+49:08.500 --> 49:11.060
+ that after a skill learning session,
+
+49:11.060 --> 49:13.020
+ any kind of motor movement,
+
+49:14.660 --> 49:16.460
+ provided you're not bringing in
+
+49:16.460 --> 49:20.180
+ a lot more additional new sensory stimuli,
+
+49:20.180 --> 49:24.420
+ there's a replay of the motor sequence
+
+49:24.420 --> 49:26.740
+ that you performed correctly,
+
+49:27.860 --> 49:30.920
+ and there's an elimination of the motor sequences
+
+49:30.920 --> 49:33.380
+ that you performed incorrectly,
+
+49:33.380 --> 49:37.700
+ and they are run backward in time, okay?
+
+49:37.700 --> 49:39.600
+ So to be very clear about this,
+
+49:39.600 --> 49:42.860
+ if I were to learn a new skill or navigate a new city,
+
+49:42.860 --> 49:44.940
+ or let's just stay with the motor skill,
+
+49:44.940 --> 49:49.140
+ let's say the free throw or a golf swing or a tennis serve,
+
+49:49.140 --> 49:51.440
+ dance move novice,
+
+49:51.440 --> 49:52.940
+ so I'm still going to make a lot of errors,
+
+49:52.940 --> 49:54.020
+ don't get it perfectly,
+
+49:54.020 --> 49:56.180
+ but maybe I get a little bit better
+
+49:56.180 --> 49:59.720
+ where I perform it correctly three times out of 1,000,
+
+49:59.720 --> 50:02.100
+ and it sounds like something I might do,
+
+50:02.100 --> 50:04.900
+ and there I'm probably being generous to myself.
+
+50:04.900 --> 50:06.840
+ After I finished the training session,
+
+50:07.780 --> 50:09.860
+ if I do nothing,
+
+50:09.860 --> 50:11.900
+ I'm not focused on some additional learning,
+
+50:11.900 --> 50:15.580
+ I'm not bringing a lot of sensory information in,
+
+50:15.580 --> 50:17.500
+ if I just sit there and close my eyes
+
+50:17.500 --> 50:21.460
+ for five to 10 minutes, even one minute,
+
+50:21.460 --> 50:24.220
+ the brain starts to replay the motor sequence
+
+50:25.260 --> 50:28.120
+ corresponding to the correct pattern of movement,
+
+50:28.120 --> 50:30.860
+ but it plays that sequence backward.
+
+50:30.860 --> 50:34.300
+ Now, why it plays it backward, we don't know.
+
+50:34.300 --> 50:36.300
+ If I were to wait until sleep,
+
+50:36.300 --> 50:39.360
+ or regardless of when I sleep later that night,
+
+50:41.260 --> 50:44.320
+ the sequence will be replayed forwards
+
+50:44.320 --> 50:46.400
+ in the proper sequence,
+
+50:46.400 --> 50:49.440
+ immediately afterward, it's played backward
+
+50:49.440 --> 50:51.620
+ for reasons that are still unclear,
+
+50:51.620 --> 50:54.640
+ but the replay of that sequence backwards
+
+50:54.640 --> 50:56.280
+ appears to be important
+
+50:56.280 --> 50:59.880
+ for the consolidation of the skill learning.
+
+50:59.880 --> 51:01.560
+ Now, this is important
+
+51:01.560 --> 51:05.040
+ because many people are finishing their jujitsu class,
+
+51:05.040 --> 51:06.600
+ or they're finishing their yoga class,
+
+51:06.600 --> 51:08.080
+ or they're finishing their dance class,
+
+51:08.080 --> 51:09.840
+ or they're finishing some skill learning,
+
+51:09.840 --> 51:12.240
+ and then they're immediately devoting their attention
+
+51:12.240 --> 51:13.280
+ to something else.
+
+51:14.600 --> 51:16.080
+ You hear a lot about visualization,
+
+51:16.080 --> 51:18.640
+ and we are going to talk about visualization,
+
+51:18.640 --> 51:20.720
+ but in the kind of obsession
+
+51:20.720 --> 51:22.160
+ with the idea that we can learn things
+
+51:22.160 --> 51:24.020
+ just sitting there with our eyes closed
+
+51:24.020 --> 51:25.760
+ without having to perform a movement,
+
+51:25.760 --> 51:29.460
+ we've overlooked something perhaps even more important,
+
+51:29.460 --> 51:30.820
+ or at least equally important,
+
+51:30.820 --> 51:33.100
+ which is after skill learning,
+
+51:33.100 --> 51:35.280
+ after putting effort into something,
+
+51:35.280 --> 51:37.600
+ sitting quietly with the eyes closed
+
+51:38.480 --> 51:41.640
+ for one to five to 10 minutes
+
+51:41.640 --> 51:44.380
+ allows the brain to replay the sequence
+
+51:44.380 --> 51:46.440
+ in a way that appears important
+
+51:46.440 --> 51:48.800
+ for the more rapid consolidation
+
+51:48.800 --> 51:51.660
+ of the motor sequence of the pattern
+
+51:51.660 --> 51:53.580
+ and to accelerated learning.
+
+51:53.580 --> 51:55.840
+ If you'd like to learn more about this,
+
+51:55.840 --> 51:57.540
+ this is not work that I was involved in.
+
+51:57.540 --> 51:58.960
+ I want to be very clear.
+
+51:58.960 --> 52:02.000
+ There's an excellent paper that covers this and much more
+
+52:02.000 --> 52:03.720
+ for those of you that really want to dive deep on this,
+
+52:03.720 --> 52:05.800
+ and we will dive deeper in a moment.
+
+52:05.800 --> 52:08.820
+ This is a review that was published in the journal Neuron,
+
+52:08.820 --> 52:10.040
+ excellent journal.
+
+52:11.000 --> 52:12.860
+ Many of the papers that I'm referring to
+
+52:12.860 --> 52:15.100
+ were covered in this review,
+
+52:15.100 --> 52:16.920
+ which is titled neuroplasticity
+
+52:16.920 --> 52:19.120
+ sub-serving motor skill learning
+
+52:19.120 --> 52:21.960
+ by Dayan, D-A-Y-A-N,
+
+52:21.960 --> 52:24.060
+ I hope I'm not butchering the pronunciation,
+
+52:24.060 --> 52:25.880
+ and Cohen by Leonard Cohen,
+
+52:25.880 --> 52:29.940
+ but not the Leonard Cohen most of us are familiar with,
+
+52:29.940 --> 52:32.460
+ the musician Leonard Cohen.
+
+52:32.460 --> 52:34.100
+ Dayan and Cohen,
+
+52:34.100 --> 52:37.140
+ neuroplasticity sub-serving motor skill learning,
+
+52:37.140 --> 52:42.140
+ and this was published in 2011,
+
+52:42.140 --> 52:43.800
+ but there have been a number of updates
+
+52:43.800 --> 52:45.700
+ and the literature that I've described
+
+52:46.580 --> 52:48.780
+ in other portions of today's episode
+
+52:48.780 --> 52:50.540
+ come from the more recent literature,
+
+52:50.540 --> 52:53.040
+ such as the more recent 2021 paper, okay?
+
+52:53.040 --> 52:55.740
+ So you have this basic learning session
+
+52:55.740 --> 52:57.160
+ and then a period of time afterwards
+
+52:57.160 --> 52:59.500
+ in which the brain can rehearse what it just did.
+
+52:59.500 --> 53:01.340
+ We hear so much about mental rehearsal,
+
+53:01.340 --> 53:02.940
+ and we always think about mental rehearsal
+
+53:02.940 --> 53:06.720
+ as the thing you do before you train or instead of training,
+
+53:06.720 --> 53:08.940
+ but this is rehearsal that's done afterward
+
+53:08.940 --> 53:11.380
+ where the brain is just automatically scripting
+
+53:11.380 --> 53:12.260
+ through the sequence,
+
+53:12.260 --> 53:15.220
+ and for some reason that's still not clear
+
+53:15.220 --> 53:18.780
+ as to why this would be the case, it runs backward.
+
+53:18.780 --> 53:21.540
+ Then in sleep, it runs forwards,
+
+53:21.540 --> 53:23.780
+ and certainly, absolutely,
+
+53:23.780 --> 53:26.940
+ sleep and quality sleep of the appropriate duration, et cetera
+
+53:26.940 --> 53:28.900
+ is going to be important for learning of all kinds,
+
+53:28.900 --> 53:29.900
+ including skill learning.
+
+53:29.900 --> 53:32.980
+ We did an entire four episodes on sleep
+
+53:32.980 --> 53:34.020
+ and how to get better at sleeping.
+
+53:34.020 --> 53:35.560
+ Those are the episodes back in January,
+
+53:35.560 --> 53:38.260
+ episodes essentially one, two, three, and four,
+
+53:38.260 --> 53:42.300
+ and maybe even episode five, I don't recall,
+
+53:42.300 --> 53:44.340
+ but you can go there to find out
+
+53:44.340 --> 53:46.840
+ all about how to get better at sleeping.
+
+53:46.840 --> 53:50.140
+ Now, there are other training sessions involved, right?
+
+53:50.140 --> 53:51.760
+ I'm not going to learn the perfect golf swing
+
+53:51.760 --> 53:54.840
+ or the tennis serve or how to dance in one session,
+
+53:56.360 --> 53:58.300
+ and I doubt you will either.
+
+53:58.300 --> 54:00.540
+ So the question is when to come back
+
+54:00.540 --> 54:03.120
+ and what to do when you come back to the training session.
+
+54:03.120 --> 54:05.340
+ Now, first of all,
+
+54:05.340 --> 54:08.540
+ this principle of errors, cuing attention
+
+54:08.540 --> 54:11.840
+ and opening the opportunity for plasticity,
+
+54:12.920 --> 54:14.400
+ that's never going to change.
+
+54:14.400 --> 54:17.220
+ That's going to be true for somebody who is hyper-skilled,
+
+54:17.220 --> 54:21.540
+ who's even has mastery or even virtuosity
+
+54:21.540 --> 54:23.820
+ in a given skill, right?
+
+54:23.820 --> 54:26.320
+ Remember, when you're unskilled at something,
+
+54:26.320 --> 54:27.580
+ uncertainty is very high.
+
+54:27.580 --> 54:30.640
+ As you become more skilled, certainty goes up, right?
+
+54:30.640 --> 54:32.760
+ Then eventually you achieve levels of mastery
+
+54:32.760 --> 54:35.460
+ where certainty is very, very high about your ability
+
+54:35.460 --> 54:38.820
+ to perform yours certainty and that of other people.
+
+54:38.820 --> 54:42.760
+ And then there's this fourth category of virtuosity
+
+54:42.760 --> 54:44.820
+ where somebody, maybe you,
+
+54:44.820 --> 54:47.280
+ invites uncertainty back into the practice
+
+54:47.280 --> 54:49.220
+ because only with that uncertainty
+
+54:49.220 --> 54:52.700
+ can you express your full range of abilities,
+
+54:52.700 --> 54:54.020
+ which you aren't even aware of
+
+54:54.020 --> 54:56.880
+ until uncertainty comes into the picture, right?
+
+54:56.880 --> 55:00.820
+ I happen to have the great privilege
+
+55:00.820 --> 55:03.080
+ of being friends with Laird Hamilton,
+
+55:03.080 --> 55:05.400
+ the big wave surfer, who's phenomenal.
+
+55:05.400 --> 55:06.500
+ I don't surf.
+
+55:06.500 --> 55:08.240
+ I certainly don't surf with Laird,
+
+55:08.240 --> 55:11.260
+ but he and another guy that he surfs with,
+
+55:11.260 --> 55:16.240
+ Luca Padua, these guys, they're virtuosos at surfing.
+
+55:16.240 --> 55:19.280
+ They don't just want the wave that they can master.
+
+55:19.280 --> 55:20.540
+ They want uncertainty.
+
+55:20.540 --> 55:22.160
+ They're at the point in their practice
+
+55:22.160 --> 55:24.780
+ where when uncertainty shows up,
+
+55:24.780 --> 55:27.200
+ like a wave that's either so big
+
+55:27.200 --> 55:31.020
+ or is moving in a particular way
+
+55:31.020 --> 55:33.960
+ that it brings an element of uncertainty for them
+
+55:33.960 --> 55:35.120
+ about what they're going to do,
+
+55:35.120 --> 55:37.460
+ that they recognize that as the opportunity
+
+55:37.460 --> 55:39.940
+ to perform better than they would otherwise, okay?
+
+55:39.940 --> 55:42.380
+ So they're actually trying to eliminate uncertainty.
+
+55:42.380 --> 55:44.260
+ At the beginning of learning any skill
+
+55:44.260 --> 55:47.420
+ and as we approach from uncertain to skilled to mastery,
+
+55:47.420 --> 55:49.380
+ we want to reduce uncertainty.
+
+55:49.380 --> 55:50.980
+ And that's really what the nervous system is doing.
+
+55:50.980 --> 55:52.340
+ It's trying to eliminate errors
+
+55:52.340 --> 55:55.000
+ and hone in on the correct trajectories.
+
+55:55.000 --> 55:59.680
+ If you perform a lot of repetitions
+
+55:59.680 --> 56:02.720
+ and then you use a period immediately after,
+
+56:02.720 --> 56:03.960
+ we don't really have a name for this.
+
+56:03.960 --> 56:05.160
+ Maybe someone will come up with it
+
+56:05.160 --> 56:07.840
+ and put it in the comment section if you're on YouTube,
+
+56:07.840 --> 56:09.480
+ if you're watching this on YouTube,
+
+56:09.480 --> 56:12.400
+ a name for this post-learning kind of idle time
+
+56:12.400 --> 56:14.320
+ for the brain, the brain isn't idle at all.
+
+56:14.320 --> 56:16.740
+ It's actually scripting all these things in reverse
+
+56:16.740 --> 56:21.460
+ that allow for deeper learning and more quick learning.
+
+56:21.460 --> 56:24.380
+ But if we fill that time with other things,
+
+56:24.380 --> 56:26.180
+ if we are focused on our phones
+
+56:26.180 --> 56:27.880
+ or we're focused on learning something else,
+
+56:27.880 --> 56:30.580
+ we're focusing on our performance,
+
+56:30.580 --> 56:32.240
+ that's not going to serve us well.
+
+56:32.240 --> 56:33.220
+ It's at least it's not going to serve
+
+56:33.220 --> 56:34.080
+ the skill learning well.
+
+56:34.080 --> 56:36.440
+ So please, if you're interested in more rapid skill learning
+
+56:36.440 --> 56:39.640
+ try introducing these sessions, they can be quite powerful.
+
+56:39.640 --> 56:41.280
+ And then on subsequent sessions,
+
+56:41.280 --> 56:43.200
+ presumably after a night's sleep
+
+56:43.200 --> 56:44.680
+ or maybe you're doing two sessions a day,
+
+56:44.680 --> 56:46.520
+ although two sessions a day is going to be a lot
+
+56:46.520 --> 56:48.320
+ for most people, unless you're a professional
+
+56:48.320 --> 56:51.080
+ or a high level athlete.
+
+56:51.080 --> 56:56.080
+ The subsequent sessions are where you get to express
+
+56:56.760 --> 56:59.420
+ the gains of the previous session, right?
+
+56:59.420 --> 57:03.140
+ Where you get to perform well, presumably more often,
+
+57:03.140 --> 57:04.080
+ even if it's just subtle,
+
+57:04.080 --> 57:06.060
+ sometimes there'll be a decrease in performance,
+
+57:06.060 --> 57:08.780
+ but most often you're going to perform better
+
+57:08.780 --> 57:12.320
+ on subsequent and subsequent training sessions.
+
+57:12.320 --> 57:16.360
+ And there is the opportunity to devote attention
+
+57:16.360 --> 57:18.900
+ in very specific ways, right?
+
+57:18.900 --> 57:22.120
+ Not just let the errors inform you
+
+57:22.120 --> 57:23.440
+ where to place your attention,
+
+57:23.440 --> 57:27.560
+ but rather to direct your perception
+
+57:27.560 --> 57:30.120
+ to particular elements of the movement
+
+57:30.120 --> 57:33.000
+ in order to accelerate learning further, okay?
+
+57:33.000 --> 57:34.960
+ So to be very clear,
+
+57:34.960 --> 57:36.680
+ cause I know many of you are interested
+
+57:36.680 --> 57:38.760
+ in concrete protocols.
+
+57:38.760 --> 57:41.220
+ It's not just that you would only let errors
+
+57:41.220 --> 57:43.260
+ cue your attention on the first session.
+
+57:43.260 --> 57:45.960
+ You might do that for one session or five sessions,
+
+57:45.960 --> 57:47.040
+ it's going to depend.
+
+57:47.040 --> 57:48.720
+ But once you're familiar with something
+
+57:48.720 --> 57:51.040
+ and you're performing it well every once in a while,
+
+57:51.040 --> 57:54.720
+ you're accomplishing it better every once in a while,
+
+57:54.720 --> 57:56.440
+ then you can start to cue your attention
+
+57:56.440 --> 57:58.420
+ in very deliberate ways.
+
+57:58.420 --> 58:00.120
+ And the question therefore becomes
+
+58:00.120 --> 58:02.500
+ what to cue your attention to.
+
+58:02.500 --> 58:05.580
+ And the good news is it doesn't matter.
+
+58:07.520 --> 58:09.280
+ There is a beautiful set of experiments
+
+58:09.280 --> 58:13.520
+ that have been done looking at sequences of keys
+
+58:13.520 --> 58:15.440
+ being played on a piano.
+
+58:15.440 --> 58:18.120
+ This is work that was published just a couple of years ago.
+
+58:18.120 --> 58:20.000
+ There are actually several papers now
+
+58:20.000 --> 58:22.040
+ that are focused on this.
+
+58:22.040 --> 58:24.320
+ One of them was published in 2018.
+
+58:24.320 --> 58:29.320
+ This is from Claudia Lape and colleagues, L-A-P-P-E.
+
+58:29.340 --> 58:30.880
+ She's done some really nice work,
+
+58:30.880 --> 58:33.920
+ which talks about the influence of pitch feedback
+
+58:33.920 --> 58:36.080
+ on learning of motor timing and sequencing.
+
+58:36.080 --> 58:37.640
+ And this was done with piano,
+
+58:37.640 --> 58:40.160
+ but it carries over to athletic performance as well.
+
+58:40.160 --> 58:42.300
+ So I'm going to describe this study to you.
+
+58:42.300 --> 58:44.940
+ But before I describe it,
+
+58:44.940 --> 58:47.560
+ what is so interesting about this study
+
+58:47.560 --> 58:49.200
+ that I want you to know about
+
+58:49.200 --> 58:53.740
+ is that it turns out it doesn't matter so much
+
+58:53.740 --> 58:57.040
+ what you pay attention to during the learning sequence,
+
+58:57.040 --> 58:59.880
+ provided it's something related to the motor behavior
+
+58:59.880 --> 59:01.720
+ that you're performing, right?
+
+59:01.720 --> 59:03.280
+ That seems incredible, right?
+
+59:03.280 --> 59:06.400
+ I'm not good at a tennis serve.
+
+59:06.400 --> 59:07.920
+ So if I've done, you know,
+
+59:07.920 --> 59:09.880
+ let's say a thousand repetitions of the tennis serve,
+
+59:09.880 --> 59:12.080
+ maybe I got it right three to 10 times.
+
+59:12.080 --> 59:13.700
+ Now I'm being even more generous with myself.
+
+59:13.700 --> 59:16.080
+ And I do this post-training session
+
+59:16.080 --> 59:18.600
+ where I let my brain idle and I get some good sleep
+
+59:18.600 --> 59:21.980
+ and I come back and now I start generating errors again,
+
+59:21.980 --> 59:24.720
+ presumably or hopefully fewer errors,
+
+59:24.720 --> 59:26.520
+ but I decide I'm going to cue my attention
+
+59:26.520 --> 59:27.640
+ to something very specific,
+
+59:27.640 --> 59:30.840
+ like maybe how tightly I'm holding the racket,
+
+59:30.840 --> 59:32.280
+ or maybe it's my stance,
+
+59:32.280 --> 59:36.120
+ or maybe it's whether or not I rotate my right shoulder in
+
+59:36.120 --> 59:38.700
+ as I hit the ball across the net, I'm making this up again.
+
+59:38.700 --> 59:40.200
+ I don't play tennis.
+
+59:40.200 --> 59:43.340
+ It turns out that as long as it's the same thing
+
+59:43.340 --> 59:46.240
+ throughout the session, learning is accelerated.
+
+59:46.240 --> 59:50.620
+ And I'll explain why this makes sense in a moment,
+
+59:50.620 --> 59:55.180
+ but just to be really clear, you can, and one should,
+
+59:56.300 --> 59:58.640
+ use your powers of attention to direct your attention
+
+59:58.640 --> 1:00:00.360
+ to particular aspects of a motor movement.
+
+1:00:00.360 --> 1:00:03.440
+ Once you're familiar with the general theme of the movement,
+
+1:00:03.440 --> 1:00:06.520
+ but what you pay attention to exactly is not important.
+
+1:00:06.520 --> 1:00:09.080
+ What's important is that you pay attention
+
+1:00:09.080 --> 1:00:11.040
+ to one specific thing.
+
+1:00:11.040 --> 1:00:13.020
+ So what Claudia Lappe and colleagues showed
+
+1:00:13.020 --> 1:00:17.080
+ was that if people are trying to learn a sequence of keys
+
+1:00:17.080 --> 1:00:21.480
+ on the piano, there are multiple forms of feedback.
+
+1:00:21.480 --> 1:00:22.680
+ There are error signals.
+
+1:00:22.680 --> 1:00:25.340
+ If, for instance, they hear a piece of music
+
+1:00:25.340 --> 1:00:26.600
+ and then they're told to press the keys
+
+1:00:26.600 --> 1:00:30.940
+ in a particular sequence and the noise that comes out,
+
+1:00:30.940 --> 1:00:33.460
+ the sound that comes out of the piano
+
+1:00:33.460 --> 1:00:35.760
+ does not sound like the song they just heard, right?
+
+1:00:35.760 --> 1:00:37.780
+ So instead of, and here, forgive me,
+
+1:00:37.780 --> 1:00:40.920
+ because I'm neither musical nor can I sing,
+
+1:00:40.920 --> 1:00:44.160
+ but instead of, da, da, da, da, da, da,
+
+1:00:44.160 --> 1:00:46.480
+ they hear that, da, da, da, da, da, da, da, da,
+
+1:00:46.480 --> 1:00:48.560
+ and then instead when they play,
+
+1:00:48.560 --> 1:00:50.460
+ or if it were me, it would sound something like,
+
+1:00:50.460 --> 1:00:53.920
+ da, da, da, da, da, da, it wouldn't sound right, okay?
+
+1:00:53.920 --> 1:00:55.800
+ It wouldn't sound right because I likely got
+
+1:00:55.800 --> 1:00:58.180
+ the sequence wrong or I was pressing too hard on the keys
+
+1:00:58.180 --> 1:01:00.600
+ or too lightly on the keys, et cetera.
+
+1:01:02.360 --> 1:01:06.640
+ What they showed was if they just instruct people
+
+1:01:06.640 --> 1:01:10.020
+ about the correct sequence to press on the keys,
+
+1:01:10.020 --> 1:01:12.480
+ it actually doesn't matter what sound comes back
+
+1:01:12.480 --> 1:01:17.480
+ provided it's the correct sound or it's the same sound.
+
+1:01:17.600 --> 1:01:19.280
+ All right, so here's the experiment.
+
+1:01:19.280 --> 1:01:21.040
+ They had people press on these keys
+
+1:01:21.040 --> 1:01:22.960
+ and it was a typical piano
+
+1:01:22.960 --> 1:01:25.240
+ and it generated the particular sequence of sounds
+
+1:01:25.240 --> 1:01:28.640
+ that would be generated by pressing the keys on the piano.
+
+1:01:28.640 --> 1:01:33.040
+ Or they modified the keyboard, in this case, or piano,
+
+1:01:33.040 --> 1:01:35.840
+ such that when people pressed on the keys,
+
+1:01:35.840 --> 1:01:38.880
+ a random tone, different tones were played
+
+1:01:38.880 --> 1:01:40.480
+ each time they pressed on the keys.
+
+1:01:40.480 --> 1:01:43.020
+ So it sounded crazy, it sounded like noise,
+
+1:01:43.020 --> 1:01:46.160
+ but the motor sequence was the same.
+
+1:01:46.160 --> 1:01:48.680
+ Or they had a single tone
+
+1:01:49.600 --> 1:01:52.360
+ that was played every time they pressed a key
+
+1:01:52.360 --> 1:01:54.400
+ and the job or the task of the subject
+
+1:01:54.400 --> 1:01:58.280
+ was just to press the keys in the proper sequence.
+
+1:01:58.280 --> 1:02:00.080
+ So instead of da, da, da, da, da, da, da,
+
+1:02:00.080 --> 1:02:03.400
+ it was just da, da, da, da, da, da, da, da.
+
+1:02:03.400 --> 1:02:05.040
+ Instead of da, da, da, da, da, da, da, da,
+
+1:02:05.040 --> 1:02:06.720
+ it's da, da, da, da, da, da, da, da.
+
+1:02:06.720 --> 1:02:10.080
+ It's even hard for me to say an even tone,
+
+1:02:10.080 --> 1:02:10.960
+ but you get the idea.
+
+1:02:10.960 --> 1:02:13.920
+ So a singular tone, just think a doorbell being rung
+
+1:02:13.920 --> 1:02:16.880
+ with each press of the key would be really annoying, okay?
+
+1:02:18.160 --> 1:02:21.760
+ But it turns out that the rate to motor learning
+
+1:02:22.720 --> 1:02:27.060
+ was the same whether or not they were getting feedback
+
+1:02:27.060 --> 1:02:29.280
+ that was accurate to the keys of the piano
+
+1:02:29.280 --> 1:02:32.000
+ or whether or not it was a constant tone.
+
+1:02:32.000 --> 1:02:33.820
+ Performance was terrible
+
+1:02:33.820 --> 1:02:35.760
+ and the rates of learning were terrible
+
+1:02:35.760 --> 1:02:38.160
+ if they were getting random tones back.
+
+1:02:38.160 --> 1:02:40.680
+ So what this means is that learning to play the piano
+
+1:02:40.680 --> 1:02:42.480
+ at least at these early stages
+
+1:02:42.480 --> 1:02:46.240
+ is really just about generating the motor commands.
+
+1:02:46.240 --> 1:02:49.360
+ It's not about paying attention to the sound
+
+1:02:49.360 --> 1:02:51.320
+ that's coming out of the piano.
+
+1:02:51.320 --> 1:02:54.280
+ And this makes sense because when we are beginners,
+
+1:02:54.280 --> 1:02:56.320
+ we are trying to focus our attention
+
+1:02:56.320 --> 1:02:58.680
+ on the things that we can control.
+
+1:02:58.680 --> 1:03:03.660
+ And if you think about this, if you conceptualize this,
+
+1:03:03.660 --> 1:03:06.440
+ pressing the keys on the piano and paying attention
+
+1:03:06.440 --> 1:03:08.920
+ to the sounds that are coming out are two things.
+
+1:03:08.920 --> 1:03:12.200
+ So what this means is that as you get deeper
+
+1:03:12.200 --> 1:03:14.420
+ and deeper into a practice,
+
+1:03:14.420 --> 1:03:18.980
+ focusing purely on the motor execution can be beneficial.
+
+1:03:18.980 --> 1:03:20.960
+ Now, this is going to be harder to do
+
+1:03:20.960 --> 1:03:24.720
+ with open loop type things where you're getting feedback.
+
+1:03:24.720 --> 1:03:26.320
+ I guess a good example of open loop
+
+1:03:26.320 --> 1:03:28.200
+ would be the attempt at a back flip, right?
+
+1:03:28.200 --> 1:03:30.320
+ If you get it wrong, you will immediately know.
+
+1:03:30.320 --> 1:03:32.160
+ If you get it right, you'll immediately know.
+
+1:03:32.160 --> 1:03:33.820
+ Please don't go out and try and do a back flip
+
+1:03:33.820 --> 1:03:35.840
+ on the solid ground or even on a trampoline
+
+1:03:35.840 --> 1:03:37.300
+ if you don't know what you're doing,
+
+1:03:37.300 --> 1:03:39.200
+ because very likely you'll get it wrong
+
+1:03:39.200 --> 1:03:40.340
+ and you'll get injured.
+
+1:03:41.300 --> 1:03:44.160
+ But if it's something that is closed loop
+
+1:03:44.160 --> 1:03:46.920
+ where you can repeat again and again and again and again,
+
+1:03:46.920 --> 1:03:48.480
+ that is advantageous
+
+1:03:48.480 --> 1:03:51.180
+ because you can perform many, many repetitions
+
+1:03:51.180 --> 1:03:54.460
+ and you can start to focus or learn to focus your attention
+
+1:03:54.460 --> 1:03:57.040
+ just on the pattern of movement.
+
+1:03:57.040 --> 1:03:59.620
+ In other words, you can learn to play the piano
+
+1:03:59.620 --> 1:04:02.440
+ just as fast or maybe even faster
+
+1:04:02.440 --> 1:04:04.300
+ by just focusing on the sequence
+
+1:04:04.300 --> 1:04:06.320
+ that you are moving your digits, your fingers,
+
+1:04:06.320 --> 1:04:07.760
+ and not the feedback.
+
+1:04:07.760 --> 1:04:09.640
+ Now, I'm sure there are music teachers out there
+
+1:04:09.640 --> 1:04:10.960
+ and piano teachers that are screaming,
+
+1:04:10.960 --> 1:04:13.120
+ no, you're going to ruin the practice
+
+1:04:13.120 --> 1:04:15.800
+ that all of us have embedded in our minds
+
+1:04:15.800 --> 1:04:18.000
+ and in our students, and I agree.
+
+1:04:18.000 --> 1:04:22.360
+ At some point, you need to start including feedback
+
+1:04:22.360 --> 1:04:24.280
+ about whether or not things sound correct.
+
+1:04:24.280 --> 1:04:26.600
+ But one of the beauties of skill learning
+
+1:04:26.600 --> 1:04:29.040
+ is that you can choose to parameterize it,
+
+1:04:29.040 --> 1:04:31.900
+ meaning you can choose to just focus on the motor sequence
+
+1:04:31.900 --> 1:04:34.280
+ or just focus on the sounds that are coming back
+
+1:04:34.280 --> 1:04:36.500
+ and then integrate those.
+
+1:04:36.500 --> 1:04:38.800
+ And so we hear a lot about chunking,
+
+1:04:38.800 --> 1:04:41.460
+ about breaking things down into their component parts.
+
+1:04:41.460 --> 1:04:43.580
+ But one of the biggest challenges for skill learning
+
+1:04:43.580 --> 1:04:45.760
+ is knowing where to place your attention.
+
+1:04:45.760 --> 1:04:47.200
+ So to dial out again,
+
+1:04:47.200 --> 1:04:49.640
+ we're building a protocol across this episode.
+
+1:04:49.640 --> 1:04:51.700
+ Early sessions, maybe it's the first one,
+
+1:04:51.700 --> 1:04:54.520
+ maybe it's the first 10, maybe it's the first 100.
+
+1:04:54.520 --> 1:04:57.200
+ It depends on how many repetitions you're packing in.
+
+1:04:57.200 --> 1:04:58.980
+ But during those initial sessions,
+
+1:04:58.980 --> 1:05:00.640
+ the key is to make many errors,
+
+1:05:00.640 --> 1:05:04.480
+ to let the reward process govern the plasticity,
+
+1:05:04.480 --> 1:05:06.880
+ let the errors open the plasticity,
+
+1:05:06.880 --> 1:05:08.920
+ and then after the learning sessions,
+
+1:05:08.920 --> 1:05:10.920
+ to let the brain go idle,
+
+1:05:10.920 --> 1:05:12.240
+ at least for a short period of time,
+
+1:05:12.240 --> 1:05:13.780
+ and of course, to maximize sleep.
+
+1:05:13.780 --> 1:05:16.080
+ As you start incorporating more sessions,
+
+1:05:16.080 --> 1:05:19.800
+ you start to gain some skill level,
+
+1:05:19.800 --> 1:05:22.000
+ learning to harness and focus your attention
+
+1:05:22.000 --> 1:05:25.360
+ on particular features of the movement,
+
+1:05:25.360 --> 1:05:28.880
+ independent of the rewards and the feedback, right?
+
+1:05:28.880 --> 1:05:31.200
+ So the reward is no longer in the tone
+
+1:05:31.200 --> 1:05:32.400
+ coming from the piano,
+
+1:05:32.400 --> 1:05:34.360
+ or whether or not you struck the target correctly,
+
+1:05:34.360 --> 1:05:36.320
+ but simply the motor movement,
+
+1:05:36.320 --> 1:05:39.360
+ focusing your, for instance, in a dart throw,
+
+1:05:39.360 --> 1:05:41.320
+ on the action of your arm.
+
+1:05:41.320 --> 1:05:43.640
+ That is embedding the plasticity
+
+1:05:43.640 --> 1:05:45.600
+ in the motor pattern most deeply.
+
+1:05:45.600 --> 1:05:48.020
+ That's what's been shown by the scientific literature.
+
+1:05:48.020 --> 1:05:49.940
+ I'm sure there are coaches and teachers out there
+
+1:05:49.940 --> 1:05:52.800
+ that will entirely disagree with me, and that's great.
+
+1:05:52.800 --> 1:05:54.960
+ Please let me know what you prefer.
+
+1:05:54.960 --> 1:05:57.680
+ Let me know where you think this is wrong.
+
+1:05:57.680 --> 1:05:59.200
+ And it rarely happens,
+
+1:05:59.200 --> 1:06:01.840
+ but let me know where you think this might be right as well.
+
+1:06:01.840 --> 1:06:03.360
+ So we're breaking the learning process
+
+1:06:03.360 --> 1:06:05.360
+ down into its component parts.
+
+1:06:05.360 --> 1:06:07.040
+ As we get more and more skilled,
+
+1:06:07.040 --> 1:06:09.540
+ meaning as we make fewer and fewer errors
+
+1:06:09.540 --> 1:06:12.720
+ per a given session per unit time,
+
+1:06:12.720 --> 1:06:16.340
+ that's when attention can start to migrate
+
+1:06:16.340 --> 1:06:19.620
+ from one feature, such as the motor sequence,
+
+1:06:19.620 --> 1:06:24.120
+ to another feature, which is perhaps one's stance,
+
+1:06:24.120 --> 1:06:26.760
+ and another component of the sequence,
+
+1:06:26.760 --> 1:06:28.720
+ which would be the result that's one getting
+
+1:06:28.720 --> 1:06:31.960
+ on a trial-to-trial basis, right?
+
+1:06:31.960 --> 1:06:33.000
+ So changing it up each time.
+
+1:06:33.000 --> 1:06:35.240
+ So maybe I serve the tennis ball,
+
+1:06:35.240 --> 1:06:37.560
+ and I'm focusing on where the ball lands,
+
+1:06:37.560 --> 1:06:39.120
+ and then I'm focusing on the speed,
+
+1:06:39.120 --> 1:06:40.200
+ then I'm focusing on my grip,
+
+1:06:40.200 --> 1:06:43.880
+ then I'm focusing on my stance, from trial to trial.
+
+1:06:43.880 --> 1:06:47.080
+ But until we've mastered the core motor movements,
+
+1:06:47.080 --> 1:06:49.320
+ which is done session to session,
+
+1:06:49.320 --> 1:06:51.280
+ that, at least according to the literature
+
+1:06:51.280 --> 1:06:55.220
+ that I have access to here, seems to be suboptimal.
+
+1:06:55.220 --> 1:06:57.560
+ So hopefully this is starting to make sense,
+
+1:06:57.560 --> 1:07:00.160
+ which is that these connections
+
+1:07:00.160 --> 1:07:02.280
+ between upper motor neurons, lower motor neurons,
+
+1:07:02.280 --> 1:07:04.200
+ and central pattern generators,
+
+1:07:04.200 --> 1:07:06.040
+ you can't attack them all at once.
+
+1:07:06.040 --> 1:07:07.480
+ You can't try and change them all at once.
+
+1:07:07.480 --> 1:07:09.160
+ And so what we're doing is we're breaking things down
+
+1:07:09.160 --> 1:07:11.280
+ into their component parts.
+
+1:07:11.280 --> 1:07:14.500
+ Some of you may be wondering about speed of movement.
+
+1:07:15.800 --> 1:07:17.520
+ There are some data,
+
+1:07:17.520 --> 1:07:19.600
+ meaning some decent papers out there,
+
+1:07:19.600 --> 1:07:22.020
+ showing that ultra slow movements,
+
+1:07:22.020 --> 1:07:26.020
+ performing a movement essentially in slow motion,
+
+1:07:26.020 --> 1:07:31.020
+ can be beneficial for enhancing the rate of skill learning.
+
+1:07:31.320 --> 1:07:35.000
+ However, at least from my read of the literature,
+
+1:07:35.000 --> 1:07:37.080
+ it appears that ultra slow movements
+
+1:07:37.080 --> 1:07:40.920
+ should be performed after some degree of proficiency
+
+1:07:40.920 --> 1:07:44.240
+ has already been gained in that particular movement.
+
+1:07:44.240 --> 1:07:46.060
+ Now, that's not the way I would have thought about it.
+
+1:07:46.060 --> 1:07:47.080
+ I would have thought, well,
+
+1:07:47.080 --> 1:07:49.360
+ if you're learning how to do a proper kick
+
+1:07:49.360 --> 1:07:51.120
+ or a punch in martial arts or something,
+
+1:07:51.120 --> 1:07:53.140
+ that ultra slow movements at first
+
+1:07:53.140 --> 1:07:57.840
+ are going to be the way that one can best learn
+
+1:07:57.840 --> 1:07:59.000
+ how to perform a movement.
+
+1:07:59.000 --> 1:08:00.920
+ And then you just gradually increase the speed.
+
+1:08:00.920 --> 1:08:03.480
+ And it turns out that's not the case.
+
+1:08:03.480 --> 1:08:05.360
+ And I probably should have known that.
+
+1:08:05.360 --> 1:08:07.580
+ And you should probably know that
+
+1:08:07.580 --> 1:08:10.400
+ because it turns out that when you do ultra slow movements,
+
+1:08:10.400 --> 1:08:12.360
+ two things aren't available to you.
+
+1:08:12.360 --> 1:08:16.040
+ One is the proprioceptive feedback is not accurate
+
+1:08:16.040 --> 1:08:18.840
+ because fast movements of limbs are very different
+
+1:08:18.840 --> 1:08:20.760
+ than slow movements of limbs.
+
+1:08:20.760 --> 1:08:21.880
+ So you don't get the opportunity
+
+1:08:21.880 --> 1:08:24.420
+ to build in the proprioceptive feedback.
+
+1:08:24.420 --> 1:08:27.120
+ But the other reason why it doesn't work
+
+1:08:27.120 --> 1:08:29.320
+ is that it's too accurate.
+
+1:08:29.320 --> 1:08:31.440
+ You don't generate errors.
+
+1:08:31.440 --> 1:08:34.080
+ And so the data that I was able to find
+
+1:08:34.080 --> 1:08:37.960
+ showed that very slow movements can be beneficial
+
+1:08:37.960 --> 1:08:40.800
+ if one is already proficient in a practice,
+
+1:08:40.800 --> 1:08:43.080
+ but very slow movements at the beginning
+
+1:08:43.080 --> 1:08:45.360
+ don't allow you to learn more quickly
+
+1:08:45.360 --> 1:08:47.040
+ because you never generate errors
+
+1:08:47.040 --> 1:08:50.560
+ and therefore the brain doesn't, it's not open for change.
+
+1:08:50.560 --> 1:08:53.400
+ And the window for plasticity is never swung open
+
+1:08:53.400 --> 1:08:54.640
+ so to speak.
+
+1:08:54.640 --> 1:08:56.940
+ So brings us back to this theme
+
+1:08:56.940 --> 1:08:59.120
+ that errors allow for plasticity,
+
+1:08:59.120 --> 1:09:00.800
+ correct performance of movements
+
+1:09:00.800 --> 1:09:03.780
+ or semi-correct performance of movements cues
+
+1:09:03.780 --> 1:09:06.040
+ the synapses in the brain areas
+
+1:09:06.040 --> 1:09:08.560
+ and spinal circuits that need to change.
+
+1:09:08.560 --> 1:09:10.540
+ And then those changes occur in the period
+
+1:09:10.540 --> 1:09:13.800
+ immediately after skill learning and in sleep.
+
+1:09:13.800 --> 1:09:16.600
+ So super slow movements can be beneficial
+
+1:09:16.600 --> 1:09:18.520
+ once you already have some proficiency.
+
+1:09:18.520 --> 1:09:21.080
+ So this might be standing in your living room
+
+1:09:21.080 --> 1:09:24.600
+ and just in ultra slow motion performing your tennis serve,
+
+1:09:24.600 --> 1:09:25.920
+ learning to or thinking about
+
+1:09:25.920 --> 1:09:28.020
+ how you're adjusting your elbow and your arm
+
+1:09:28.020 --> 1:09:29.920
+ and the trajectory exactly how you were taught
+
+1:09:29.920 --> 1:09:31.280
+ by your tennis coach,
+
+1:09:31.280 --> 1:09:34.240
+ but trying to learn it that way from the outset
+
+1:09:34.240 --> 1:09:37.940
+ does not appear to be the best way to learn a skill.
+
+1:09:37.940 --> 1:09:40.200
+ When should you start to introduce slow learning?
+
+1:09:40.200 --> 1:09:42.640
+ Well, obviously talk to your coaches about this,
+
+1:09:42.640 --> 1:09:44.520
+ but if you're doing this recreationally
+
+1:09:44.520 --> 1:09:46.880
+ or you don't have a coach, I realize many of you don't,
+
+1:09:46.880 --> 1:09:50.140
+ I don't have a coach for anything that I do.
+
+1:09:50.140 --> 1:09:52.320
+ I'm going to just navigating it
+
+1:09:52.320 --> 1:09:54.600
+ by using the scientific literature.
+
+1:09:54.600 --> 1:09:56.800
+ It appears that once you're hitting success rates
+
+1:09:56.800 --> 1:09:59.200
+ of about 25 or 30%,
+
+1:09:59.200 --> 1:10:00.800
+ that's where the super slow movements
+
+1:10:00.800 --> 1:10:02.580
+ can start to be beneficial.
+
+1:10:02.580 --> 1:10:05.720
+ But if you're still performing things at a rate
+
+1:10:05.720 --> 1:10:09.160
+ of five or 10% correct and the rest are errors,
+
+1:10:09.160 --> 1:10:10.400
+ then the super slow movements
+
+1:10:10.400 --> 1:10:13.160
+ are probably not going to benefit you that much.
+
+1:10:13.160 --> 1:10:16.240
+ Also super slow movements are not really applicable
+
+1:10:16.240 --> 1:10:18.040
+ to a lot of things.
+
+1:10:18.040 --> 1:10:21.120
+ For instance, you could imagine throwing a dart
+
+1:10:21.120 --> 1:10:22.300
+ super slow motion,
+
+1:10:22.300 --> 1:10:24.600
+ but if you actually try and throw an actual dart,
+
+1:10:24.600 --> 1:10:27.200
+ the dart's just going to fall to the floor, obviously.
+
+1:10:27.200 --> 1:10:30.260
+ So there are a number of things like baseball bat swing,
+
+1:10:30.260 --> 1:10:32.800
+ which you can practice in super slow motion,
+
+1:10:32.800 --> 1:10:34.880
+ but if you try and do that with an actual baseball
+
+1:10:34.880 --> 1:10:36.400
+ or softball or something like that,
+
+1:10:36.400 --> 1:10:38.520
+ that's not going to give you any kind of feedback
+
+1:10:38.520 --> 1:10:39.940
+ about how effective it was.
+
+1:10:39.940 --> 1:10:44.360
+ So super slow movements or a decelerated movement
+
+1:10:44.360 --> 1:10:46.620
+ has its place,
+
+1:10:46.620 --> 1:10:50.200
+ but once you're already performing things reasonably well,
+
+1:10:50.200 --> 1:10:53.040
+ like maybe 25 to 30% success rate.
+
+1:10:53.040 --> 1:10:54.600
+ And I've tried this, I actually,
+
+1:10:54.600 --> 1:10:57.480
+ I struggle with basketball for whatever reason
+
+1:10:57.480 --> 1:10:59.140
+ and my free throw is terrible.
+
+1:10:59.140 --> 1:11:02.280
+ So I've practiced free throws in super slow motion
+
+1:11:02.280 --> 1:11:04.400
+ and I nail them every time.
+
+1:11:04.400 --> 1:11:06.280
+ The problem is there's no ball.
+
+1:11:06.280 --> 1:11:09.280
+ Some of you already have a fair degree of proficiency
+
+1:11:09.280 --> 1:11:14.280
+ of skill in a given practice or sport or instrument.
+
+1:11:14.960 --> 1:11:18.120
+ And if you're in this sort of advanced intermediate
+
+1:11:18.120 --> 1:11:22.640
+ or advanced levels of proficiency for something,
+
+1:11:22.640 --> 1:11:27.000
+ there is a practice that you can find interesting data for
+
+1:11:27.000 --> 1:11:30.640
+ in the literature, which involves metronoming.
+
+1:11:30.640 --> 1:11:35.640
+ So this you'll realize relates to generating repetitions
+
+1:11:36.120 --> 1:11:39.140
+ and it relates to the tone experiment
+
+1:11:39.140 --> 1:11:41.920
+ where it doesn't really matter what your attention
+
+1:11:41.920 --> 1:11:44.800
+ is cued to as long as you are performing many, many reps
+
+1:11:44.800 --> 1:11:46.820
+ of the motor sequence.
+
+1:11:46.820 --> 1:11:49.920
+ You can use a metronome and obviously musicians do this,
+
+1:11:49.920 --> 1:11:52.320
+ but athletes can do this too.
+
+1:11:52.320 --> 1:11:54.840
+ You can use a metronome to set the cadence
+
+1:11:54.840 --> 1:11:56.760
+ of your repetitions.
+
+1:11:56.760 --> 1:12:00.160
+ Now for swimmers, there's actually a device
+
+1:12:00.160 --> 1:12:01.400
+ I was able to find online.
+
+1:12:01.400 --> 1:12:02.720
+ I forget what the brand name was
+
+1:12:02.720 --> 1:12:04.260
+ and that's not what this is about,
+
+1:12:04.260 --> 1:12:06.840
+ but that actually goes in the swim cap
+
+1:12:06.840 --> 1:12:10.160
+ that can cue you to when you need to perform another stroke.
+
+1:12:10.160 --> 1:12:14.160
+ And for runners, there are other metronome type devices
+
+1:12:14.160 --> 1:12:16.900
+ that through headphones or through a tone in the room
+
+1:12:16.900 --> 1:12:18.960
+ if you're running indoors or on a treadmill
+
+1:12:18.960 --> 1:12:20.640
+ will cue you to when you basically
+
+1:12:20.640 --> 1:12:21.840
+ you need to lift your heels.
+
+1:12:21.840 --> 1:12:24.120
+ And if you do that, what athletes find
+
+1:12:24.120 --> 1:12:26.320
+ is they can perform more repetitions,
+
+1:12:26.320 --> 1:12:29.560
+ they can generate more output, you can increase speed.
+
+1:12:29.560 --> 1:12:31.240
+ A number of really interesting things are being done
+
+1:12:31.240 --> 1:12:33.660
+ with auditory metronoming and then I'm involved
+
+1:12:33.660 --> 1:12:35.600
+ in a little bit of work now that hopefully
+
+1:12:35.600 --> 1:12:36.880
+ I'll be able to report back to you
+
+1:12:36.880 --> 1:12:39.200
+ about using stroboscopic metronoming.
+
+1:12:39.200 --> 1:12:42.000
+ So actually changing the speed of the visual environment.
+
+1:12:42.000 --> 1:12:43.720
+ These are fun experiments,
+
+1:12:43.720 --> 1:12:45.360
+ basically changing one's perception
+
+1:12:45.360 --> 1:12:47.100
+ of how fast they're moving through space
+
+1:12:47.100 --> 1:12:48.980
+ by playing with a visual system,
+
+1:12:48.980 --> 1:12:50.680
+ something for a future discussion.
+
+1:12:50.680 --> 1:12:53.640
+ But you can start to use auditory metronoming
+
+1:12:53.640 --> 1:12:57.540
+ for generating more movements per unit time
+
+1:12:57.540 --> 1:13:00.800
+ and generating more errors and therefore more successes
+
+1:13:00.800 --> 1:13:02.640
+ and more neuroplasticity.
+
+1:13:02.640 --> 1:13:04.840
+ There are a number of different apps out there.
+
+1:13:04.840 --> 1:13:06.360
+ I found several free apps
+
+1:13:06.360 --> 1:13:07.880
+ where you can set in a metronome pace.
+
+1:13:07.880 --> 1:13:10.280
+ So it might be tick, tick, tick, tick, tick, tick.
+
+1:13:10.280 --> 1:13:11.760
+ That's a little fast for most things
+
+1:13:11.760 --> 1:13:14.280
+ but you can imagine if this were darts
+
+1:13:14.280 --> 1:13:17.760
+ or this were golf swings that it might be tick, tick,
+
+1:13:17.760 --> 1:13:20.920
+ tick, tick or something more like tick, tick.
+
+1:13:20.920 --> 1:13:23.280
+ And every time the metronome goes, you swing.
+
+1:13:23.280 --> 1:13:25.520
+ Every time the metronome goes, you throw a dart.
+
+1:13:25.520 --> 1:13:27.400
+ There are actually some wild experiments out there.
+
+1:13:27.400 --> 1:13:29.880
+ There's a world championship of cup stacking.
+
+1:13:29.880 --> 1:13:33.120
+ There's a young lady who I saw could take all these cups
+
+1:13:33.120 --> 1:13:35.280
+ spread out on a table and basically just stack them
+
+1:13:35.280 --> 1:13:37.120
+ into the perfect pyramid in the least amount of times
+
+1:13:37.120 --> 1:13:38.520
+ all the kids go wild.
+
+1:13:38.520 --> 1:13:40.660
+ This is something I'd never thought to pursue
+
+1:13:40.660 --> 1:13:42.840
+ and frankly never will pursue
+
+1:13:42.840 --> 1:13:44.920
+ unless my life depends on it for some reason
+
+1:13:44.920 --> 1:13:46.280
+ but it's really impressive.
+
+1:13:46.280 --> 1:13:48.080
+ And if you look at the sequence
+
+1:13:48.080 --> 1:13:49.240
+ because these have been recorded
+
+1:13:49.240 --> 1:13:51.580
+ you can look this up on YouTube.
+
+1:13:51.580 --> 1:13:54.600
+ What you'll find is that these expert cup stackers
+
+1:13:54.600 --> 1:13:56.880
+ it's just all about error elimination
+
+1:13:56.880 --> 1:14:00.040
+ but there too metronoming and auditory cues
+
+1:14:00.040 --> 1:14:02.640
+ can actually cue them to pick up the cups faster
+
+1:14:02.640 --> 1:14:05.440
+ than they would ordinarily and to learn to do that.
+
+1:14:05.440 --> 1:14:06.500
+ You can do this for anything.
+
+1:14:06.500 --> 1:14:08.920
+ I think cup stacking is probably not a skill
+
+1:14:08.920 --> 1:14:13.040
+ most of you are interested in doing, but for any skill
+
+1:14:13.040 --> 1:14:15.880
+ if you figure out at what rate you are performing
+
+1:14:15.880 --> 1:14:17.560
+ repetitions per unit time
+
+1:14:17.560 --> 1:14:20.880
+ and you want to increase that slightly, you set a metronome
+
+1:14:20.880 --> 1:14:23.400
+ which is slightly faster than your current rate
+
+1:14:23.400 --> 1:14:25.320
+ and you just start generating more repetitions.
+
+1:14:25.320 --> 1:14:27.920
+ Now what's interesting about this and is cool
+
+1:14:27.920 --> 1:14:31.840
+ is it relates back to the experiment from
+
+1:14:31.840 --> 1:14:34.240
+ Lapé and colleagues which is
+
+1:14:34.240 --> 1:14:38.040
+ your attention is now harnessed to the tone
+
+1:14:38.040 --> 1:14:39.400
+ to the metronome
+
+1:14:39.400 --> 1:14:40.960
+ not necessarily to what you're doing
+
+1:14:40.960 --> 1:14:42.400
+ in terms of the motor movement.
+
+1:14:42.400 --> 1:14:44.920
+ And so really you need a bit of proficiency.
+
+1:14:44.920 --> 1:14:47.120
+ Again, this is for people who are intermediate
+
+1:14:47.120 --> 1:14:49.080
+ or advanced, intermediate or advanced
+
+1:14:49.080 --> 1:14:50.660
+ but what you're essentially doing is
+
+1:14:50.660 --> 1:14:54.160
+ you're creating an outside pressure, a contingency
+
+1:14:54.160 --> 1:14:56.680
+ so that you generate again, more errors.
+
+1:14:56.680 --> 1:14:58.760
+ So it's all about the errors that you get.
+
+1:14:58.760 --> 1:15:00.640
+ Now these aren't errors where all the cups tumble
+
+1:15:00.640 --> 1:15:02.660
+ or you have to stop or you can't keep up.
+
+1:15:02.660 --> 1:15:04.440
+ You have to set the pace just a little bit
+
+1:15:04.440 --> 1:15:06.440
+ beyond what you currently can do.
+
+1:15:06.440 --> 1:15:08.560
+ And when you do that, you're essentially
+
+1:15:08.560 --> 1:15:10.300
+ forcing the nervous system to make errors
+
+1:15:10.300 --> 1:15:12.720
+ and correct the errors inside of the session.
+
+1:15:12.720 --> 1:15:14.040
+ I find this really interesting
+
+1:15:14.040 --> 1:15:15.760
+ because what it means is again,
+
+1:15:15.760 --> 1:15:17.120
+ you've got sensory perception
+
+1:15:17.120 --> 1:15:18.800
+ what you're paying attention to, proprioception
+
+1:15:18.800 --> 1:15:20.800
+ where your limbs are and the motor neurons
+
+1:15:20.800 --> 1:15:22.880
+ in your upper, lower motor neurons
+
+1:15:22.880 --> 1:15:24.840
+ and central pattern generators.
+
+1:15:24.840 --> 1:15:26.300
+ And you can't pay attention to it.
+
+1:15:26.300 --> 1:15:27.820
+ Well, they're my upper motor neurons,
+
+1:15:27.820 --> 1:15:28.760
+ they're my lower motor neurons.
+
+1:15:28.760 --> 1:15:30.520
+ Forget that, you're not going to do that.
+
+1:15:30.520 --> 1:15:33.840
+ You can't pay attention to your proprioception too much.
+
+1:15:33.840 --> 1:15:35.520
+ That would be the super slow motion
+
+1:15:35.520 --> 1:15:37.480
+ would be the proprioception.
+
+1:15:37.480 --> 1:15:41.200
+ But you have to harness your attention to something.
+
+1:15:41.200 --> 1:15:42.480
+ And if you harness your attention
+
+1:15:42.480 --> 1:15:44.640
+ to this outside contingency, this metronome
+
+1:15:44.640 --> 1:15:48.560
+ that's firing off and saying, now, go, now, go, now, go.
+
+1:15:48.560 --> 1:15:51.040
+ Not only can you increase the number of repetitions,
+
+1:15:51.040 --> 1:15:54.600
+ errors and successes, but for some reason
+
+1:15:54.600 --> 1:15:57.640
+ and we don't know why the regular cadence
+
+1:15:57.640 --> 1:15:59.680
+ of the tone of the metronome
+
+1:15:59.680 --> 1:16:02.680
+ and the fact that you are anchoring your movements
+
+1:16:02.680 --> 1:16:07.560
+ to some external force, to some external pressure or cue
+
+1:16:07.560 --> 1:16:10.360
+ seems to accelerate the plasticity
+
+1:16:10.360 --> 1:16:12.800
+ and the changes and the acquisition of skills
+
+1:16:12.800 --> 1:16:13.800
+ beyond what it would be
+
+1:16:13.800 --> 1:16:15.860
+ if you just did the same number of repetitions
+
+1:16:15.860 --> 1:16:17.680
+ without that outside pressure.
+
+1:16:17.680 --> 1:16:19.380
+ We don't know exactly what the mechanism is.
+
+1:16:19.380 --> 1:16:21.540
+ Presumably it's neurochemical.
+
+1:16:21.540 --> 1:16:24.160
+ Like there's something about keeping up with a timer
+
+1:16:24.160 --> 1:16:28.120
+ or with a pace that presumably, and I'm speculating here
+
+1:16:28.120 --> 1:16:30.440
+ causes the release of particular chemicals.
+
+1:16:30.440 --> 1:16:31.880
+ But I think it's really cool.
+
+1:16:31.880 --> 1:16:34.200
+ Metronomes, they're totally inexpensive.
+
+1:16:34.200 --> 1:16:36.440
+ At least the ones that you use outside of water
+
+1:16:36.440 --> 1:16:37.440
+ are very inexpensive.
+
+1:16:37.440 --> 1:16:39.180
+ You can find these free apps.
+
+1:16:39.180 --> 1:16:40.800
+ You can use a musical metronome.
+
+1:16:40.800 --> 1:16:43.880
+ So metronomes are a powerful tool as well.
+
+1:16:43.880 --> 1:16:45.600
+ In particular for speed work.
+
+1:16:45.600 --> 1:16:47.960
+ So for sprinting or swimming or running
+
+1:16:47.960 --> 1:16:52.040
+ where the goal is to generate more strokes
+
+1:16:52.040 --> 1:16:55.820
+ or more efficient strokes or more steps, et cetera.
+
+1:16:55.820 --> 1:16:57.400
+ The rate of the metronome obviously
+
+1:16:57.400 --> 1:16:59.280
+ is going to be very important.
+
+1:16:59.280 --> 1:17:00.920
+ Sometimes you're trying to lengthen your stride.
+
+1:17:00.920 --> 1:17:02.880
+ Sometimes you're trying to take fewer strokes
+
+1:17:02.880 --> 1:17:05.440
+ but glide further in the pool, for instance.
+
+1:17:05.440 --> 1:17:08.680
+ But the value of occasionally
+
+1:17:08.680 --> 1:17:10.880
+ just increasing the number of repetitions,
+
+1:17:10.880 --> 1:17:13.800
+ the number of strokes or steps, et cetera, per unit time
+
+1:17:13.800 --> 1:17:16.220
+ is also that you're training the central pattern generators
+
+1:17:16.220 --> 1:17:18.540
+ to operate at that higher speed.
+
+1:17:19.520 --> 1:17:21.240
+ One of the sports that's kind of interesting to me
+
+1:17:21.240 --> 1:17:22.360
+ is speed walking.
+
+1:17:22.360 --> 1:17:25.560
+ It's not one I engage in or ever plan to engage in.
+
+1:17:25.560 --> 1:17:27.660
+ But if you've ever tried to really speed walk,
+
+1:17:27.660 --> 1:17:30.120
+ it's actually difficult to walk very, very fast
+
+1:17:30.120 --> 1:17:31.720
+ without breaking into a run.
+
+1:17:31.720 --> 1:17:34.160
+ All animals have these kind of crossover points
+
+1:17:34.160 --> 1:17:36.720
+ where they go, where you go,
+
+1:17:36.720 --> 1:17:38.840
+ I think with horses, it's like, what is it?
+
+1:17:38.840 --> 1:17:40.680
+ They trot, then they gallop.
+
+1:17:40.680 --> 1:17:41.520
+ I don't know what's the next thing.
+
+1:17:41.520 --> 1:17:42.480
+ I don't know clearly.
+
+1:17:42.480 --> 1:17:45.200
+ I don't know anything about horses
+
+1:17:45.200 --> 1:17:47.720
+ except that they're beautiful and I like them very much.
+
+1:17:47.720 --> 1:17:50.960
+ But they break into a different kind of stride.
+
+1:17:50.960 --> 1:17:52.240
+ And that's because you shift over
+
+1:17:52.240 --> 1:17:55.040
+ to different central pattern generators.
+
+1:17:55.040 --> 1:17:57.900
+ So when you're walking or a horse is moving very slowly
+
+1:17:57.900 --> 1:18:01.200
+ and then it breaks into a jog and then into a full sprint
+
+1:18:01.200 --> 1:18:03.740
+ or I got to get gallop for the horse,
+
+1:18:03.740 --> 1:18:04.580
+ you're actually engaging
+
+1:18:04.580 --> 1:18:06.320
+ different central pattern generators.
+
+1:18:06.320 --> 1:18:08.080
+ And those central pattern generators
+
+1:18:08.080 --> 1:18:09.820
+ always have a range of speeds
+
+1:18:09.820 --> 1:18:12.020
+ that they're happiest to function at.
+
+1:18:12.020 --> 1:18:15.500
+ So with the metronoming for speed purposes,
+
+1:18:15.500 --> 1:18:19.000
+ what you do is you can basically bring the activity
+
+1:18:19.000 --> 1:18:20.320
+ of those central pattern generators
+
+1:18:20.320 --> 1:18:21.840
+ into their upper upper range
+
+1:18:21.840 --> 1:18:23.960
+ and maybe even extend their range.
+
+1:18:23.960 --> 1:18:25.680
+ And there's a fascinating biology
+
+1:18:25.680 --> 1:18:28.120
+ of how central pattern generators work together.
+
+1:18:28.120 --> 1:18:30.840
+ There's coupling of central pattern generators, et cetera,
+
+1:18:30.840 --> 1:18:33.620
+ in order to achieve maximal speeds and et cetera.
+
+1:18:33.620 --> 1:18:35.720
+ It's a topic for kind of an advanced session.
+
+1:18:35.720 --> 1:18:37.160
+ Costello loves this topic.
+
+1:18:37.160 --> 1:18:40.520
+ He just barked and loves it so much he barked again.
+
+1:18:40.520 --> 1:18:43.020
+ In any event, the metronome is a powerful tool,
+
+1:18:43.020 --> 1:18:45.160
+ again, for more advanced practitioners
+
+1:18:45.160 --> 1:18:47.320
+ or for advanced intermediate practitioners.
+
+1:18:47.320 --> 1:18:52.320
+ But it's interesting because it brings back the point
+
+1:18:52.320 --> 1:18:54.240
+ that what we put our attention to
+
+1:18:54.240 --> 1:18:57.120
+ while we're skill learning is important
+
+1:18:57.120 --> 1:18:59.420
+ to the extent that it's on one thing,
+
+1:18:59.420 --> 1:19:02.080
+ at least for the moment or trial to trial,
+
+1:19:02.080 --> 1:19:07.080
+ but that what we focus our attention on can be external.
+
+1:19:07.520 --> 1:19:09.040
+ It can be internal.
+
+1:19:09.040 --> 1:19:10.380
+ And ultimately the skill learning
+
+1:19:10.380 --> 1:19:12.600
+ is where all that is brought together.
+
+1:19:12.600 --> 1:19:15.080
+ So let's talk about where skill learning occurs
+
+1:19:15.080 --> 1:19:16.080
+ in the nervous system.
+
+1:19:16.080 --> 1:19:19.260
+ And then I'm going to give you a really,
+
+1:19:19.260 --> 1:19:22.480
+ what I think is a really cool tool
+
+1:19:22.480 --> 1:19:26.120
+ that can increase flexibility and range of motion
+
+1:19:26.120 --> 1:19:27.840
+ based on this particular brain area.
+
+1:19:27.840 --> 1:19:30.080
+ It's a tool that I used and when I first heard about,
+
+1:19:30.080 --> 1:19:32.080
+ I did not believe would work.
+
+1:19:32.080 --> 1:19:32.960
+ This is not a hack.
+
+1:19:32.960 --> 1:19:35.400
+ This is actually anchored deeply in the biology
+
+1:19:35.400 --> 1:19:37.640
+ of a particular brain region that we all have
+
+1:19:38.740 --> 1:19:40.860
+ whose meaning is mini brain.
+
+1:19:40.860 --> 1:19:43.400
+ And that mini brain that we all have
+
+1:19:43.400 --> 1:19:45.280
+ is called your cerebellum.
+
+1:19:45.280 --> 1:19:47.040
+ The cerebellum is called the mini brain
+
+1:19:47.040 --> 1:19:48.320
+ because it's in the back of your brain.
+
+1:19:48.320 --> 1:19:49.520
+ It looks like a little mini version
+
+1:19:49.520 --> 1:19:50.920
+ of the rest of your brain.
+
+1:19:50.920 --> 1:19:53.480
+ It's an absolutely incredible structure
+
+1:19:53.480 --> 1:19:54.920
+ that's involved in movement.
+
+1:19:54.920 --> 1:19:58.280
+ It also has a lot of non-movement associated functions.
+
+1:19:59.880 --> 1:20:04.880
+ In brief, the cerebellum gets input from your senses,
+
+1:20:06.880 --> 1:20:09.560
+ particularly your eyes and pays attention
+
+1:20:09.560 --> 1:20:12.400
+ to where your eyes are in space, what you're looking at.
+
+1:20:12.400 --> 1:20:16.240
+ It basically takes information about three aspects
+
+1:20:16.240 --> 1:20:18.780
+ of your eyes and eye movements,
+
+1:20:18.780 --> 1:20:23.280
+ which are occurring when your head goes like this,
+
+1:20:23.280 --> 1:20:24.880
+ which is called pitch, okay?
+
+1:20:24.880 --> 1:20:26.400
+ So this is pitch.
+
+1:20:26.400 --> 1:20:27.400
+ For those of you that are listening,
+
+1:20:27.400 --> 1:20:30.380
+ I'm just nodding up and down.
+
+1:20:30.380 --> 1:20:33.120
+ Then there's yaw, which is like shaking your head no
+
+1:20:33.120 --> 1:20:34.040
+ from side to side.
+
+1:20:34.040 --> 1:20:37.520
+ And then there's roll, which is like sometimes
+
+1:20:37.520 --> 1:20:40.620
+ if you see a primate, like a marmoset or something,
+
+1:20:40.620 --> 1:20:42.680
+ they will roll their head when they look at you.
+
+1:20:42.680 --> 1:20:44.080
+ Actually, the reason they do that
+
+1:20:44.080 --> 1:20:45.960
+ is it helps generate depth perception.
+
+1:20:45.960 --> 1:20:47.740
+ It's a kind of form of motion parallax
+
+1:20:47.740 --> 1:20:49.080
+ if you're curious why they do that.
+
+1:20:49.080 --> 1:20:50.560
+ It's not to look cute.
+
+1:20:50.560 --> 1:20:52.440
+ They do it because when they do that,
+
+1:20:52.440 --> 1:20:54.520
+ even if you're stationary and they're stationary,
+
+1:20:54.520 --> 1:20:56.220
+ they get better depth perception
+
+1:20:56.220 --> 1:20:59.880
+ as to how far away from them you are.
+
+1:20:59.880 --> 1:21:03.120
+ So you've got pitch, yaw, and roll.
+
+1:21:03.120 --> 1:21:06.520
+ And as you move your head and as you move your body
+
+1:21:06.520 --> 1:21:08.080
+ and you move through space,
+
+1:21:08.080 --> 1:21:11.200
+ the image on your retina moves, pitch, yaw, and roll,
+
+1:21:11.200 --> 1:21:12.160
+ and some combination.
+
+1:21:12.160 --> 1:21:15.440
+ That information is relayed to your cerebellum.
+
+1:21:15.440 --> 1:21:17.780
+ So it's rich with visual information.
+
+1:21:17.780 --> 1:21:19.760
+ There's also a map of your body surface
+
+1:21:19.760 --> 1:21:22.660
+ and your movements and timing in the cerebellum.
+
+1:21:22.660 --> 1:21:23.800
+ So it's an incredible structure
+
+1:21:23.800 --> 1:21:26.000
+ that brings together timing of movements,
+
+1:21:26.000 --> 1:21:30.660
+ which limbs are moving, and has proprioceptive information.
+
+1:21:30.660 --> 1:21:32.000
+ It really is a mini brain.
+
+1:21:32.000 --> 1:21:34.760
+ It's just the coolest little structure back there.
+
+1:21:34.760 --> 1:21:36.400
+ And in humans, it's actually not that little.
+
+1:21:36.400 --> 1:21:38.720
+ It's just an incredible structure.
+
+1:21:38.720 --> 1:21:41.840
+ Now, all this information is integrated there,
+
+1:21:41.840 --> 1:21:44.740
+ but what most people don't tell us
+
+1:21:44.740 --> 1:21:47.920
+ is that a lot of learning of motor sequences,
+
+1:21:47.920 --> 1:21:49.680
+ of skill learning that involved timing
+
+1:21:49.680 --> 1:21:51.220
+ occurs in the cerebellum.
+
+1:21:52.180 --> 1:21:55.120
+ Now, you can't really use that information
+
+1:21:55.120 --> 1:21:57.600
+ except to know that after you learn something pretty well,
+
+1:21:57.600 --> 1:22:00.800
+ it's handed off or kind of handled by your cerebellum.
+
+1:22:00.800 --> 1:22:02.680
+ But there is something that you can do with your cerebellum
+
+1:22:02.680 --> 1:22:05.680
+ to increase range of motion and flexibility.
+
+1:22:05.680 --> 1:22:08.800
+ Much of our flexibility, believe it or not,
+
+1:22:08.800 --> 1:22:12.440
+ is not because our tendons are of particular length
+
+1:22:12.440 --> 1:22:16.500
+ or elasticity, although that plays some role.
+
+1:22:16.500 --> 1:22:18.560
+ It's not because our muscles are short.
+
+1:22:18.560 --> 1:22:20.000
+ I don't know what that would even mean.
+
+1:22:20.000 --> 1:22:22.120
+ Some people have longer muscle bellies
+
+1:22:22.120 --> 1:22:23.180
+ or shorter muscle bellies,
+
+1:22:23.180 --> 1:22:27.420
+ but your muscles always essentially span the entire length
+
+1:22:27.420 --> 1:22:30.640
+ of the bone or limb or close to it,
+
+1:22:30.640 --> 1:22:32.480
+ along with your tendons.
+
+1:22:32.480 --> 1:22:36.900
+ But it has to do with the neural innervation of muscle
+
+1:22:36.900 --> 1:22:39.200
+ and the fact that when muscles are elongated,
+
+1:22:39.200 --> 1:22:41.920
+ there's a point at which they won't stretch out
+
+1:22:41.920 --> 1:22:45.860
+ any longer and the nerves fire and they shut down.
+
+1:22:45.860 --> 1:22:48.660
+ You actually have inhibitory pathways
+
+1:22:48.660 --> 1:22:50.480
+ that prevent you from contracting the muscles
+
+1:22:50.480 --> 1:22:54.960
+ or from extending them, from stretching them out anymore.
+
+1:22:54.960 --> 1:22:57.500
+ So you can do this right now.
+
+1:22:57.500 --> 1:22:59.000
+ If you're driving, don't do it,
+
+1:22:59.000 --> 1:23:00.540
+ because unless you have a self-driving car,
+
+1:23:00.540 --> 1:23:02.160
+ you'll need to take your hands off the steering wheel.
+
+1:23:02.160 --> 1:23:06.560
+ But because of the way that vision
+
+1:23:06.560 --> 1:23:11.560
+ and your muscles are represented in your cerebellum,
+
+1:23:13.680 --> 1:23:17.400
+ it turns out that your range of visual motion
+
+1:23:17.400 --> 1:23:19.160
+ and your range of vision,
+
+1:23:19.160 --> 1:23:23.760
+ literally how wide a field of view you take,
+
+1:23:23.760 --> 1:23:27.440
+ impacts how far you can extend your limbs, okay?
+
+1:23:27.440 --> 1:23:30.440
+ So we'll talk about this in a second,
+
+1:23:30.440 --> 1:23:33.560
+ and about exactly how to do this and explore this.
+
+1:23:33.560 --> 1:23:37.900
+ But as you move through space, as you walk forward,
+
+1:23:37.900 --> 1:23:39.800
+ or you walk backward, or you tilt your head,
+
+1:23:39.800 --> 1:23:41.820
+ or you learn a skill, or you just operate
+
+1:23:41.820 --> 1:23:43.320
+ in the normal ways throughout your day,
+
+1:23:43.320 --> 1:23:45.240
+ driving, biking, et cetera,
+
+1:23:45.240 --> 1:23:47.320
+ your eyes are generating spontaneous movements
+
+1:23:47.320 --> 1:23:49.520
+ to offset visual slip.
+
+1:23:49.520 --> 1:23:51.680
+ In other words, you don't see the world as blurry
+
+1:23:51.680 --> 1:23:53.000
+ even though you're moving,
+
+1:23:53.000 --> 1:23:54.280
+ because your eyes are generating
+
+1:23:54.280 --> 1:23:57.120
+ little compensatory eye movements to offset your motion.
+
+1:23:57.120 --> 1:23:59.360
+ So if I spin, we could do this experiment.
+
+1:23:59.360 --> 1:24:02.240
+ There's a fun experiment we do with medical students
+
+1:24:02.240 --> 1:24:04.540
+ where you spin them around in a chair
+
+1:24:04.540 --> 1:24:07.300
+ with their eyes closed, and then you stop,
+
+1:24:07.300 --> 1:24:08.400
+ and you have them open their eyes,
+
+1:24:08.400 --> 1:24:09.400
+ and their eyes are going like this,
+
+1:24:09.400 --> 1:24:11.380
+ doo, doo, doo, doo, doo, doo, doo, doo, nice stagmus.
+
+1:24:11.380 --> 1:24:13.740
+ I don't suggest you do this experiment.
+
+1:24:13.740 --> 1:24:16.060
+ When we were kids, we did a different experiment,
+
+1:24:16.060 --> 1:24:17.800
+ which was to take a stick,
+
+1:24:17.800 --> 1:24:19.280
+ and to look at the top of the stick,
+
+1:24:19.280 --> 1:24:21.360
+ and to spin around on the lawn,
+
+1:24:21.360 --> 1:24:22.400
+ looking at the top of the stick,
+
+1:24:22.400 --> 1:24:24.320
+ then put it down on the ground and try and jump over it,
+
+1:24:24.320 --> 1:24:25.680
+ and you end up like jumping to the side,
+
+1:24:25.680 --> 1:24:27.420
+ you miss the thing entirely.
+
+1:24:27.420 --> 1:24:30.960
+ The reason those two quote unquote experiments,
+
+1:24:30.960 --> 1:24:34.660
+ which I hope you don't do, or force somebody else to do,
+
+1:24:34.660 --> 1:24:38.400
+ the reason they work is because normally your eye movements
+
+1:24:38.400 --> 1:24:41.000
+ and your balance and your limb movements are coordinated,
+
+1:24:41.000 --> 1:24:43.600
+ but when you spin around looking up at the stick,
+
+1:24:43.600 --> 1:24:45.300
+ what you're doing is you're fixating your eyes
+
+1:24:45.300 --> 1:24:47.480
+ on one location while you're moving,
+
+1:24:47.480 --> 1:24:48.980
+ and then when you stop,
+
+1:24:48.980 --> 1:24:50.920
+ those two mechanisms are completely uncoupled,
+
+1:24:50.920 --> 1:24:55.020
+ and it's like being thrown into outer space.
+
+1:24:55.020 --> 1:24:57.760
+ Never been to outer space, but probably something like that,
+
+1:24:57.760 --> 1:24:59.080
+ low gravity, zero gravity.
+
+1:24:59.080 --> 1:25:02.840
+ If you spin around in your chair with your eyes closed,
+
+1:25:02.840 --> 1:25:05.040
+ you're not giving the visual input that you're spinning,
+
+1:25:05.040 --> 1:25:06.680
+ and then you open the eyes,
+
+1:25:06.680 --> 1:25:09.560
+ and then the eyes only have what we call
+
+1:25:09.560 --> 1:25:10.400
+ the vestibular signal,
+
+1:25:10.400 --> 1:25:12.040
+ your eyes jolding back and forth, back and forth.
+
+1:25:12.040 --> 1:25:13.940
+ Again, these aren't experiments you need to do
+
+1:25:13.940 --> 1:25:16.020
+ because I just told you the result.
+
+1:25:16.020 --> 1:25:19.940
+ However, if you want to extend your range of motion,
+
+1:25:19.940 --> 1:25:23.640
+ you can do that by, these things always look goofy,
+
+1:25:23.640 --> 1:25:25.680
+ but at this point, I'm just kind of used
+
+1:25:25.680 --> 1:25:26.600
+ to doing these things.
+
+1:25:26.600 --> 1:25:28.400
+ If I want to extend my range of movement,
+
+1:25:28.400 --> 1:25:31.000
+ first I want to measure my range of motion.
+
+1:25:31.000 --> 1:25:32.600
+ So I'm trying to, if you're listening,
+
+1:25:32.600 --> 1:25:34.500
+ what I'm doing is I'm stretching out my arms
+
+1:25:34.500 --> 1:25:37.520
+ from like a T on either side,
+
+1:25:37.520 --> 1:25:40.320
+ and I'm trying to push them as far back as I can,
+
+1:25:40.320 --> 1:25:41.400
+ which for me is, you know,
+
+1:25:41.400 --> 1:25:43.040
+ feels like it's in line with my shoulders,
+
+1:25:43.040 --> 1:25:44.000
+ and I can't get much further.
+
+1:25:44.000 --> 1:25:45.760
+ I'm not really super flexible,
+
+1:25:45.760 --> 1:25:50.760
+ nor am I particularly inflexible, at least physically.
+
+1:25:51.740 --> 1:25:54.360
+ So what I would then do is stop.
+
+1:25:54.360 --> 1:25:57.400
+ I would move my eyes to the far periphery, right?
+
+1:25:57.400 --> 1:25:59.500
+ So I'm moving my eyes all the way to the left
+
+1:25:59.500 --> 1:26:02.080
+ while keeping my head and body stationary.
+
+1:26:02.080 --> 1:26:05.760
+ I'm trying to look over my left shoulder as far as I can,
+
+1:26:05.760 --> 1:26:07.880
+ then off to the right.
+
+1:26:07.880 --> 1:26:11.400
+ It's a little awkward to do this, then up, then down,
+
+1:26:11.400 --> 1:26:16.400
+ but I'm mostly going to just focus on left and then right.
+
+1:26:16.800 --> 1:26:19.500
+ Now, what that's doing is it's sending a signal
+
+1:26:19.500 --> 1:26:21.400
+ to my cerebellum that my field of view
+
+1:26:21.400 --> 1:26:24.260
+ is way over to there and way over to there.
+
+1:26:24.260 --> 1:26:26.720
+ Remember, your visual attention has an aperture.
+
+1:26:26.720 --> 1:26:28.800
+ It can be narrow or it can be broad.
+
+1:26:28.800 --> 1:26:30.080
+ And I've talked about some of the benefits
+
+1:26:30.080 --> 1:26:31.640
+ of taking a broad visual aperture
+
+1:26:31.640 --> 1:26:33.400
+ in order to relax the nervous system.
+
+1:26:33.400 --> 1:26:35.680
+ This is just moving my eyes, not my head,
+
+1:26:35.680 --> 1:26:37.840
+ like I just did for a second, from side to side.
+
+1:26:37.840 --> 1:26:40.140
+ Now I can retest, and actually,
+
+1:26:40.140 --> 1:26:43.160
+ you get about a five to 15 degree increase
+
+1:26:43.160 --> 1:26:44.620
+ in your range of motion.
+
+1:26:44.620 --> 1:26:45.460
+ Now I'm doing this for you.
+
+1:26:45.460 --> 1:26:47.260
+ You can say, well, you know, he gamed it
+
+1:26:47.260 --> 1:26:49.540
+ because he knew the result that he was hoping for,
+
+1:26:49.540 --> 1:26:51.120
+ but you can try this, okay?
+
+1:26:51.120 --> 1:26:53.660
+ And you can do this for legs too, right?
+
+1:26:53.660 --> 1:26:55.400
+ You can do this for any limb, essentially,
+
+1:26:55.400 --> 1:26:57.400
+ and it's purely cerebellar.
+
+1:26:57.400 --> 1:27:01.280
+ And it's because the proprioceptive visual
+
+1:27:01.280 --> 1:27:04.720
+ and limb movement feedback converge
+
+1:27:04.720 --> 1:27:08.360
+ in the ways that we control our muscle spindles
+
+1:27:08.360 --> 1:27:10.720
+ and the way we control the muscle fibers and the tendons.
+
+1:27:10.720 --> 1:27:12.760
+ And essentially, you can get bigger range of motion.
+
+1:27:12.760 --> 1:27:15.120
+ So I actually will warm up before exercise
+
+1:27:15.120 --> 1:27:17.720
+ or before skill learning by both doing movements
+
+1:27:17.720 --> 1:27:20.260
+ for my body, but also moving my eyes from side to side
+
+1:27:20.260 --> 1:27:22.420
+ in order to generate larger range of motion,
+
+1:27:22.420 --> 1:27:24.820
+ if range of motion is something that I'm interested in.
+
+1:27:24.820 --> 1:27:28.240
+ So that's a fun one that you can play with a little bit.
+
+1:27:28.240 --> 1:27:29.800
+ And it's purely cerebellar.
+
+1:27:29.800 --> 1:27:33.060
+ Some other time we'll get back into a cerebellar function.
+
+1:27:33.060 --> 1:27:35.480
+ There's all sorts of just incredible stuff
+
+1:27:35.480 --> 1:27:36.920
+ that you can do with cerebellum.
+
+1:27:36.920 --> 1:27:39.880
+ I talked in an earlier episode on neuroplasticity
+
+1:27:39.880 --> 1:27:44.160
+ about how you can disrupt your vestibular world.
+
+1:27:44.160 --> 1:27:49.160
+ In other words, by getting into modes of acceleration,
+
+1:27:49.320 --> 1:27:52.480
+ moving through space where you're tilted in certain ways,
+
+1:27:52.480 --> 1:27:54.920
+ it can open up the windows for plasticity
+
+1:27:54.920 --> 1:27:56.280
+ and yet other ways.
+
+1:27:56.280 --> 1:27:58.000
+ So you can check that out.
+
+1:27:58.000 --> 1:28:00.220
+ It's one of the earlier episodes on neuroplasticity
+
+1:28:00.220 --> 1:28:01.560
+ and everything's timestamped.
+
+1:28:01.560 --> 1:28:04.320
+ But meanwhile, if you want to expand your range of motion
+
+1:28:04.320 --> 1:28:07.480
+ before doing skill learning or afterward, this is a fun one.
+
+1:28:07.480 --> 1:28:08.880
+ It's also kind of neat
+
+1:28:08.880 --> 1:28:12.200
+ because I have this kind of aversion to stretching work.
+
+1:28:12.200 --> 1:28:14.160
+ It never seems like something I want to do.
+
+1:28:14.160 --> 1:28:15.700
+ And so I always put it off.
+
+1:28:15.700 --> 1:28:18.920
+ So if I start with the visual practice
+
+1:28:18.920 --> 1:28:21.500
+ of expanding my field of view off to one side
+
+1:28:21.500 --> 1:28:23.120
+ or the other side or up or down,
+
+1:28:23.120 --> 1:28:25.380
+ then what I find is I'm naturally more flexible.
+
+1:28:25.380 --> 1:28:26.720
+ I'm not naturally more flexible.
+
+1:28:26.720 --> 1:28:29.520
+ What's happened is I've expanded my range of motion.
+
+1:28:29.520 --> 1:28:33.220
+ Let's talk about visualization and mental rehearsal.
+
+1:28:34.080 --> 1:28:35.640
+ I've been asked about this a lot
+
+1:28:35.640 --> 1:28:36.880
+ and I think it relates back
+
+1:28:36.880 --> 1:28:40.300
+ to that kind of a matrix Hollywood idea
+
+1:28:40.300 --> 1:28:43.080
+ that we can just be embedded with a skill.
+
+1:28:43.080 --> 1:28:45.240
+ Although in this case, in fairness,
+
+1:28:45.240 --> 1:28:47.660
+ visualization involves some work.
+
+1:28:47.660 --> 1:28:50.260
+ And I've talked about this on an earlier episode
+
+1:28:50.260 --> 1:28:53.000
+ that some people find it very hard
+
+1:28:53.000 --> 1:28:56.100
+ to mentally visualize things.
+
+1:28:56.100 --> 1:28:57.760
+ And some people find it very easy.
+
+1:28:57.760 --> 1:29:00.600
+ There was great work that was done in the 1960s
+
+1:29:00.600 --> 1:29:04.920
+ by Roger Shepard at Stanford and by others,
+
+1:29:04.920 --> 1:29:06.660
+ looking at people's ability
+
+1:29:06.660 --> 1:29:10.280
+ to rotate three-dimensional objects in their mind.
+
+1:29:10.280 --> 1:29:11.600
+ And some people are really good at this
+
+1:29:11.600 --> 1:29:12.960
+ and some people are less good at this
+
+1:29:12.960 --> 1:29:16.300
+ and one can get better at it by repeating it.
+
+1:29:16.300 --> 1:29:18.960
+ But the question we're going to deal with today is,
+
+1:29:18.960 --> 1:29:19.960
+ does it help?
+
+1:29:19.960 --> 1:29:22.600
+ Does it let you learn things faster?
+
+1:29:22.600 --> 1:29:26.740
+ And indeed the answer appears to be yes, it can.
+
+1:29:26.740 --> 1:29:31.400
+ However, despite what you've heard, it is not as good.
+
+1:29:31.400 --> 1:29:33.800
+ It is not a total replacement
+
+1:29:33.800 --> 1:29:36.760
+ for physical performance itself, okay?
+
+1:29:36.760 --> 1:29:39.880
+ So I'm going to be really concrete about this.
+
+1:29:39.880 --> 1:29:44.880
+ I hear all the time that just imagining contracting a muscle
+
+1:29:44.960 --> 1:29:46.440
+ can lead to the same gains
+
+1:29:46.440 --> 1:29:48.460
+ as actually contracting that muscle.
+
+1:29:48.460 --> 1:29:50.400
+ Just imagining a skill can lead
+
+1:29:50.400 --> 1:29:52.680
+ to the same increases in performance
+
+1:29:52.680 --> 1:29:55.340
+ as actually executing that skill.
+
+1:29:55.340 --> 1:29:57.720
+ And that's simply not the case.
+
+1:29:57.720 --> 1:30:02.320
+ However, it can supplement or support physical training
+
+1:30:02.320 --> 1:30:05.360
+ and skill learning in ways that are quite powerful.
+
+1:30:05.360 --> 1:30:07.400
+ One of the more interesting studies on this
+
+1:30:07.400 --> 1:30:10.960
+ was from Ranganathan et al.,
+
+1:30:10.960 --> 1:30:12.840
+ forgive me for the pronunciation.
+
+1:30:14.280 --> 1:30:17.140
+ This was a slightly older paper, 2004,
+
+1:30:17.140 --> 1:30:19.280
+ but nonetheless was one that I thought
+
+1:30:19.280 --> 1:30:21.240
+ had particularly impressive results
+
+1:30:21.240 --> 1:30:25.400
+ and included all the appropriate controls, et cetera.
+
+1:30:25.400 --> 1:30:28.000
+ And what they did is they looked at 30 subjects
+
+1:30:28.000 --> 1:30:30.420
+ and they divide them into different groups.
+
+1:30:30.420 --> 1:30:34.440
+ They had one group perform essentially finger flexion.
+
+1:30:34.440 --> 1:30:35.640
+ So it was actually just sort of the,
+
+1:30:35.640 --> 1:30:37.080
+ imagine if you're just listening to this,
+
+1:30:37.080 --> 1:30:39.260
+ the come here finger movement.
+
+1:30:40.800 --> 1:30:42.840
+ They also had elbow flexion,
+
+1:30:42.840 --> 1:30:45.000
+ so it's our bicep curl type movement.
+
+1:30:45.000 --> 1:30:48.120
+ And they either had subjects do
+
+1:30:48.120 --> 1:30:51.180
+ a actual physical movement against resistance
+
+1:30:51.180 --> 1:30:53.640
+ or to imagine moving their finger
+
+1:30:53.640 --> 1:30:55.980
+ or their wrist towards the shoulder,
+
+1:30:55.980 --> 1:30:57.960
+ meaning at the bending at the elbow,
+
+1:30:57.960 --> 1:30:59.760
+ towards actual resistance.
+
+1:31:00.640 --> 1:31:02.280
+ Just to make a long story short,
+
+1:31:02.280 --> 1:31:06.960
+ what they found was that there were increases
+
+1:31:06.960 --> 1:31:09.240
+ in this finger adduction strength,
+
+1:31:09.240 --> 1:31:12.880
+ abduction, excuse me, strength of about 35%.
+
+1:31:12.880 --> 1:31:17.880
+ And the elbow flexion strength by about 13.5%,
+
+1:31:19.060 --> 1:31:21.000
+ which are pretty impressive considering
+
+1:31:21.000 --> 1:31:22.300
+ that it was just done mentally.
+
+1:31:22.300 --> 1:31:25.360
+ So they had people imagine moving against a weight,
+
+1:31:25.360 --> 1:31:26.600
+ a very heavy weight,
+
+1:31:26.600 --> 1:31:30.440
+ or had imagined people moving their wrist
+
+1:31:30.440 --> 1:31:33.480
+ towards their shoulder against a very heavy weight.
+
+1:31:33.480 --> 1:31:34.760
+ But again, they weren't doing it.
+
+1:31:34.760 --> 1:31:36.560
+ They were just imagining it.
+
+1:31:36.560 --> 1:31:39.460
+ Other experiments looked at the brain
+
+1:31:39.460 --> 1:31:42.000
+ and what was happening in the brain during this time.
+
+1:31:42.000 --> 1:31:44.080
+ So we'll talk about that in a moment.
+
+1:31:44.080 --> 1:31:47.840
+ But essentially what they found were improvements
+
+1:31:47.840 --> 1:31:52.840
+ in strength of anywhere from 13.5 to 35%.
+
+1:31:53.080 --> 1:31:56.480
+ However, the actual physical training group,
+
+1:31:56.480 --> 1:31:59.040
+ the groups that actually moved their wrist
+
+1:31:59.040 --> 1:32:02.540
+ or move their finger against an actual physical weight
+
+1:32:02.540 --> 1:32:05.280
+ had improvements of about 53%.
+
+1:32:05.280 --> 1:32:08.960
+ So this repeats over and over throughout the literature.
+
+1:32:08.960 --> 1:32:13.120
+ Mental rehearsal can cause increases in strength.
+
+1:32:13.120 --> 1:32:18.120
+ It can create increases in skill acquisition and learning,
+
+1:32:18.340 --> 1:32:22.400
+ but they are never as great if done alone
+
+1:32:22.400 --> 1:32:26.880
+ as compared to the actual physical execution
+
+1:32:26.880 --> 1:32:28.680
+ of those movements or the physical movement
+
+1:32:28.680 --> 1:32:32.120
+ of those weights, which shouldn't come as so surprising.
+
+1:32:32.120 --> 1:32:34.400
+ However, if we step back and we say, well,
+
+1:32:34.400 --> 1:32:37.640
+ what is the source of this improvement?
+
+1:32:37.640 --> 1:32:39.280
+ You might not care what the source is
+
+1:32:39.280 --> 1:32:40.760
+ because I could tell you it's one brain area
+
+1:32:40.760 --> 1:32:42.640
+ or another brain area, what difference would it make?
+
+1:32:42.640 --> 1:32:45.400
+ But again, if you can understand mechanism a little bit,
+
+1:32:45.400 --> 1:32:47.920
+ you're in a position to create newer
+
+1:32:47.920 --> 1:32:49.920
+ and even better protocols.
+
+1:32:49.920 --> 1:32:54.260
+ What mental rehearsal appears to do is engage the activity
+
+1:32:54.260 --> 1:32:56.440
+ of those upper motor neurons that we talked about
+
+1:32:56.440 --> 1:32:58.760
+ way back at the beginning of the episode.
+
+1:32:58.760 --> 1:33:00.220
+ Remember, you have upper motor neurons
+
+1:33:00.220 --> 1:33:01.860
+ that control deliberate action.
+
+1:33:01.860 --> 1:33:03.960
+ You've got lower motor neurons that actually connect
+
+1:33:03.960 --> 1:33:05.400
+ to the muscles and move those muscles
+
+1:33:05.400 --> 1:33:07.320
+ and you have central pattern generators.
+
+1:33:07.320 --> 1:33:10.160
+ Mental rehearsal, closing one's eyes typically
+
+1:33:10.160 --> 1:33:13.200
+ and thinking about a particular sequence of movement
+
+1:33:13.200 --> 1:33:18.200
+ and visualizing it in one's quote unquote mind's eye
+
+1:33:18.260 --> 1:33:21.320
+ creates activation of the upper motor neurons
+
+1:33:21.320 --> 1:33:25.720
+ that's very similar if not the same as the actual movement.
+
+1:33:25.720 --> 1:33:28.000
+ And that makes sense because the upper motor neurons
+
+1:33:28.000 --> 1:33:30.280
+ are all about the command for movement.
+
+1:33:30.280 --> 1:33:33.200
+ They are not the ones that actually execute the movement.
+
+1:33:33.200 --> 1:33:34.120
+ Okay?
+
+1:33:34.120 --> 1:33:35.960
+ Remember, upper motor neurons are the ones
+
+1:33:35.960 --> 1:33:37.580
+ that generate the command for movement,
+
+1:33:37.580 --> 1:33:38.960
+ not the actual movement.
+
+1:33:38.960 --> 1:33:40.560
+ The ones that generate the actual movement
+
+1:33:40.560 --> 1:33:41.800
+ are the lower motor neurons
+
+1:33:41.800 --> 1:33:43.920
+ and the central pattern generators.
+
+1:33:43.920 --> 1:33:46.520
+ So visualization is a powerful tool.
+
+1:33:46.520 --> 1:33:48.640
+ How can you use visualization?
+
+1:33:48.640 --> 1:33:52.680
+ Well, in this study, they had people perform this
+
+1:33:52.680 --> 1:33:54.720
+ five days a week.
+
+1:33:54.720 --> 1:33:59.560
+ I believe that it was 15, yes, it was 15 minutes per day,
+
+1:33:59.560 --> 1:34:01.680
+ five days a week for 12 weeks.
+
+1:34:01.680 --> 1:34:03.920
+ So that's a lot of mental rehearsal.
+
+1:34:03.920 --> 1:34:05.680
+ You know, it's not a ton of time each day,
+
+1:34:05.680 --> 1:34:07.540
+ 15 minutes per day, but sitting down,
+
+1:34:07.540 --> 1:34:09.380
+ closing your eyes and imagining going through
+
+1:34:09.380 --> 1:34:14.380
+ a particular skill practice or moving a weight.
+
+1:34:15.600 --> 1:34:18.200
+ Maybe it's playing keys on a piano,
+
+1:34:18.200 --> 1:34:21.480
+ if that's your thing, or strings on a guitar.
+
+1:34:21.480 --> 1:34:24.700
+ For 15 minutes a day, five days per week for 12 weeks
+
+1:34:24.700 --> 1:34:25.560
+ is considerable.
+
+1:34:25.560 --> 1:34:29.700
+ I think most people, given the fact that the actual practice,
+
+1:34:29.700 --> 1:34:33.560
+ the physical practice is going to lead to larger
+
+1:34:33.560 --> 1:34:35.920
+ improvements, greater improvements than would,
+
+1:34:35.920 --> 1:34:37.880
+ the mental training would opt
+
+1:34:37.880 --> 1:34:40.000
+ for the actual physical training.
+
+1:34:40.000 --> 1:34:41.800
+ But of course, if you're on a plane
+
+1:34:41.800 --> 1:34:43.480
+ and you don't have access to your guitar
+
+1:34:43.480 --> 1:34:44.700
+ and you're certainly not going to be sprinting
+
+1:34:44.700 --> 1:34:45.980
+ up and down the aisle,
+
+1:34:45.980 --> 1:34:48.980
+ or you are very serious about your craft
+
+1:34:48.980 --> 1:34:52.300
+ and you want to accelerate performance of your craft
+
+1:34:52.300 --> 1:34:54.720
+ or strength increases or something of that sort,
+
+1:34:54.720 --> 1:34:58.680
+ then augmenting or adding in the visualization training
+
+1:34:58.680 --> 1:35:01.480
+ very likely will compound the effects
+
+1:35:01.480 --> 1:35:03.320
+ of the actual physical training.
+
+1:35:03.320 --> 1:35:06.440
+ There are not a lot of studies looking at how visualization
+
+1:35:06.440 --> 1:35:10.320
+ on top of pure physical training
+
+1:35:10.320 --> 1:35:13.540
+ can increase the rates of learning
+
+1:35:13.540 --> 1:35:16.160
+ and consolidation of learning, et cetera.
+
+1:35:16.160 --> 1:35:17.600
+ It's actually a hard study to do
+
+1:35:17.600 --> 1:35:18.860
+ because it's hard to control for,
+
+1:35:18.860 --> 1:35:20.760
+ because what would you do in its place?
+
+1:35:20.760 --> 1:35:23.480
+ You would probably add actual physical training
+
+1:35:23.480 --> 1:35:26.480
+ and then that's always going to lead to greater effects.
+
+1:35:26.480 --> 1:35:30.280
+ So the point is if you want to use visualization training,
+
+1:35:30.280 --> 1:35:32.760
+ great, but forget the idea
+
+1:35:32.760 --> 1:35:36.020
+ that visualization training is as good
+
+1:35:36.020 --> 1:35:37.720
+ as the actual behavior.
+
+1:35:37.720 --> 1:35:38.720
+ You hear this all the time.
+
+1:35:38.720 --> 1:35:41.240
+ People say, do you know that if you imagine an experience
+
+1:35:41.240 --> 1:35:42.720
+ to your brain and to your body,
+
+1:35:42.720 --> 1:35:45.040
+ it's exactly the same as the actual experience?
+
+1:35:45.040 --> 1:35:46.080
+ Absolutely not.
+
+1:35:46.080 --> 1:35:47.660
+ This is not the way the nervous system works.
+
+1:35:47.660 --> 1:35:49.720
+ I'm sorry, I don't mean to burst anybody's bubble,
+
+1:35:49.720 --> 1:35:52.420
+ but your bubble is made of myths.
+
+1:35:52.420 --> 1:35:56.360
+ And the fact of the matter is that the brain,
+
+1:35:56.360 --> 1:35:58.560
+ when it executes movement,
+
+1:35:58.560 --> 1:36:01.120
+ is generating proprioceptive feedback.
+
+1:36:01.120 --> 1:36:04.420
+ And that proprioceptive feedback is critically involved
+
+1:36:04.420 --> 1:36:06.760
+ in generating our sense of the experience
+
+1:36:06.760 --> 1:36:08.640
+ and in things like learning.
+
+1:36:08.640 --> 1:36:12.780
+ So I don't say this because I don't like the idea
+
+1:36:12.780 --> 1:36:14.200
+ that visualization couldn't work.
+
+1:36:14.200 --> 1:36:16.080
+ In fact, visualization does work,
+
+1:36:16.080 --> 1:36:18.000
+ but it doesn't work as well.
+
+1:36:18.000 --> 1:36:20.560
+ It doesn't create the same milieu,
+
+1:36:20.560 --> 1:36:21.680
+ the same chemical milieu,
+
+1:36:21.680 --> 1:36:26.500
+ the same environment as actual physically engaging
+
+1:36:26.500 --> 1:36:29.080
+ in the behavior, the skill, the resistance training,
+
+1:36:29.080 --> 1:36:29.920
+ et cetera.
+
+1:36:29.920 --> 1:36:32.480
+ And I'd be willing to wager that the same is true
+
+1:36:32.480 --> 1:36:35.200
+ for experiences of all kinds.
+
+1:36:35.200 --> 1:36:40.000
+ You know, PTSD is this incredibly unfortunate circumstance
+
+1:36:40.000 --> 1:36:43.640
+ in which there's a replay often of the traumatic event
+
+1:36:43.640 --> 1:36:45.480
+ that feels very real,
+
+1:36:45.480 --> 1:36:47.600
+ but that's not to say that the replay itself
+
+1:36:47.600 --> 1:36:50.000
+ is the same as the actual event.
+
+1:36:50.000 --> 1:36:52.040
+ And of course, PTSD needs to be dealt with
+
+1:36:53.120 --> 1:36:55.420
+ with the utmost level of seriousness.
+
+1:36:55.420 --> 1:36:57.000
+ It should be treated.
+
+1:36:57.000 --> 1:36:59.160
+ In fact, my lab works on these sorts of things,
+
+1:36:59.160 --> 1:37:03.560
+ but my point about visualization and imagining something
+
+1:37:03.560 --> 1:37:06.360
+ not being the same as the actual experience
+
+1:37:06.360 --> 1:37:08.960
+ is grounded in this idea of proprioception
+
+1:37:08.960 --> 1:37:11.040
+ and the fact that feedback to the cerebellum,
+
+1:37:11.040 --> 1:37:12.800
+ the cerebellum talking to other areas of the brain
+
+1:37:12.800 --> 1:37:14.920
+ are critically involved in communicating
+
+1:37:14.920 --> 1:37:16.380
+ to the rest of our nervous system
+
+1:37:16.380 --> 1:37:18.840
+ that not just that we believe something is happening,
+
+1:37:18.840 --> 1:37:20.500
+ but something is actually happening.
+
+1:37:20.500 --> 1:37:22.280
+ And in the case of muscle loads,
+
+1:37:22.280 --> 1:37:24.960
+ muscles actually feeling tension,
+
+1:37:24.960 --> 1:37:28.460
+ the actual feeling of tension in the muscle,
+
+1:37:28.460 --> 1:37:30.880
+ the contracting of the muscle under that tension
+
+1:37:30.880 --> 1:37:34.360
+ is part of the important adaptation process.
+
+1:37:34.360 --> 1:37:36.460
+ In a future episode, we'll talk about hypertrophy
+
+1:37:36.460 --> 1:37:38.600
+ and how that works at the level of upper motor neurons,
+
+1:37:38.600 --> 1:37:41.000
+ lower motor neurons, and muscle itself.
+
+1:37:41.000 --> 1:37:44.040
+ But for now, just know that visualization can work.
+
+1:37:44.040 --> 1:37:46.060
+ It doesn't work as well as real physical training
+
+1:37:46.060 --> 1:37:49.120
+ and practice, but these effects of, you know,
+
+1:37:49.120 --> 1:37:54.000
+ 35% or 13.5% increases are pretty considerable.
+
+1:37:54.000 --> 1:37:56.920
+ They're just not as great as the 53% increases
+
+1:37:56.920 --> 1:37:58.880
+ that come from actual physical training.
+
+1:37:58.880 --> 1:38:00.480
+ For those of you that are interested
+
+1:38:00.480 --> 1:38:02.400
+ in some of the skill learning
+
+1:38:02.400 --> 1:38:04.400
+ that more relates to musical training,
+
+1:38:04.400 --> 1:38:08.780
+ but also how cadence and metronoming and tones, et cetera,
+
+1:38:08.780 --> 1:38:11.560
+ can support physical learning,
+
+1:38:11.560 --> 1:38:14.680
+ if you're interested in that, if you're aficionados,
+
+1:38:14.680 --> 1:38:16.660
+ there is a wonderful review
+
+1:38:16.660 --> 1:38:19.160
+ also published in the journal Neuron,
+
+1:38:19.160 --> 1:38:22.480
+ again, excellent journal, by Herholtz and Zatorre,
+
+1:38:22.480 --> 1:38:25.400
+ that's H-E-R-H-O-L-Z,
+
+1:38:25.400 --> 1:38:29.880
+ and Zatorre, Z-A-T-O-R-R-E,
+
+1:38:29.880 --> 1:38:33.520
+ that really describes in detail
+
+1:38:33.520 --> 1:38:36.280
+ how musical training can impact
+
+1:38:36.280 --> 1:38:40.320
+ all sorts of different things and how cadence training,
+
+1:38:40.320 --> 1:38:43.560
+ whether or not with tones or auditory feedback
+
+1:38:43.560 --> 1:38:44.480
+ and things of that sort,
+
+1:38:44.480 --> 1:38:48.680
+ carries over to not just instrumental music training,
+
+1:38:48.680 --> 1:38:51.400
+ but also physical skill learning of various kinds.
+
+1:38:51.400 --> 1:38:53.720
+ So if you want to do the deep dive, that would be the place.
+
+1:38:53.720 --> 1:38:55.000
+ You can find it easily online.
+
+1:38:55.000 --> 1:38:56.960
+ It's available as a complete article,
+
+1:38:56.960 --> 1:38:58.740
+ free of charge, et cetera.
+
+1:38:58.740 --> 1:39:00.620
+ Many of you are probably asking,
+
+1:39:00.620 --> 1:39:03.840
+ what can I take in order to accelerate skill learning?
+
+1:39:03.840 --> 1:39:06.200
+ Well, the conditions are going to vary,
+
+1:39:06.200 --> 1:39:07.760
+ but motivation is key.
+
+1:39:07.760 --> 1:39:09.480
+ You have to show up to the training session
+
+1:39:09.480 --> 1:39:13.380
+ motivated enough to focus your attention
+
+1:39:13.380 --> 1:39:17.200
+ and to perform a lot of repetitions in the training sequence.
+
+1:39:17.200 --> 1:39:19.220
+ That's just a prerequisite, right?
+
+1:39:19.220 --> 1:39:20.480
+ There's no pill that's going to allow you
+
+1:39:20.480 --> 1:39:23.280
+ to do fewer repetitions and extract more learning
+
+1:39:23.280 --> 1:39:24.440
+ out of fewer repetitions.
+
+1:39:24.440 --> 1:39:26.440
+ It's actually more a question of,
+
+1:39:26.440 --> 1:39:29.760
+ what are the conditions that you can create for yourself
+
+1:39:29.760 --> 1:39:32.580
+ such that you can generate more repetitions per unit time?
+
+1:39:32.580 --> 1:39:34.200
+ I think that's the right way to think about it.
+
+1:39:34.200 --> 1:39:36.960
+ What are the conditions that you can create for yourself
+
+1:39:36.960 --> 1:39:38.160
+ in your mind and in your body
+
+1:39:38.160 --> 1:39:40.560
+ that are going to allow you to focus?
+
+1:39:40.560 --> 1:39:43.600
+ And I've talked about focus and plasticity and motivation
+
+1:39:43.600 --> 1:39:44.560
+ in previous episodes.
+
+1:39:44.560 --> 1:39:47.320
+ Please see those episodes if you have questions about that.
+
+1:39:47.320 --> 1:39:50.200
+ I detail a lot of tools and the underlying science.
+
+1:39:50.200 --> 1:39:52.400
+ So for some people, it might be drinking a cup or two
+
+1:39:52.400 --> 1:39:54.880
+ of coffee and getting hydrated before the training session.
+
+1:39:54.880 --> 1:39:56.760
+ For some of you, it might be avoiding coffee
+
+1:39:56.760 --> 1:39:57.880
+ because it makes you too jittery
+
+1:39:57.880 --> 1:39:59.560
+ and your attention jumps all over the place.
+
+1:39:59.560 --> 1:40:01.160
+ It's going to vary tremendously.
+
+1:40:01.160 --> 1:40:03.540
+ There's no real, there is no magic pill
+
+1:40:03.540 --> 1:40:06.220
+ that's going to allow you to get more out of less.
+
+1:40:06.220 --> 1:40:07.680
+ That's just not going to happen.
+
+1:40:07.680 --> 1:40:09.120
+ It's simply not going to happen.
+
+1:40:09.120 --> 1:40:10.540
+ You're not going to get more learning
+
+1:40:10.540 --> 1:40:12.920
+ out of fewer repetitions or less time.
+
+1:40:12.920 --> 1:40:15.840
+ However, there are a few compounds
+
+1:40:15.840 --> 1:40:18.920
+ that I think are worth mentioning
+
+1:40:18.920 --> 1:40:20.880
+ because of their ability to improve
+
+1:40:20.880 --> 1:40:22.600
+ the actual physical performance,
+
+1:40:22.600 --> 1:40:25.600
+ the actual execution of certain types of movements.
+
+1:40:25.600 --> 1:40:27.640
+ And some of these have also been shown
+
+1:40:27.640 --> 1:40:29.620
+ to improve cognitive function,
+
+1:40:29.620 --> 1:40:31.480
+ especially in older populations.
+
+1:40:31.480 --> 1:40:34.040
+ So I'd be remiss if I didn't at least mention them.
+
+1:40:34.040 --> 1:40:36.600
+ I'm only going to mention one today, in fact.
+
+1:40:36.600 --> 1:40:38.260
+ The one that's particularly interesting
+
+1:40:38.260 --> 1:40:42.400
+ and for which there really are a lot of data is alpha-GPC.
+
+1:40:42.400 --> 1:40:45.800
+ And I'm going to attempt to pronounce
+
+1:40:45.800 --> 1:40:47.400
+ what alpha-GPC actually is.
+
+1:40:47.400 --> 1:40:50.800
+ It's alpha-glycerophosphocoline, right?
+
+1:40:50.800 --> 1:40:53.920
+ Alpha-GPC, alpha-glycerophosphocoline.
+
+1:40:53.920 --> 1:40:55.840
+ See, if I keep doing it over and over repetitions,
+
+1:40:55.840 --> 1:40:57.800
+ alpha-glycerophosphocoline.
+
+1:40:57.800 --> 1:40:58.720
+ There, I made an error.
+
+1:40:58.720 --> 1:41:02.440
+ Okay, so the point is that alpha-GPC,
+
+1:41:02.440 --> 1:41:04.060
+ which is at least in the United States
+
+1:41:04.060 --> 1:41:05.420
+ is sold over the counter,
+
+1:41:05.420 --> 1:41:10.420
+ typically is taken in dosages of about 300 to 600 milligrams.
+
+1:41:11.620 --> 1:41:13.960
+ That's a single dose or have been shown
+
+1:41:13.960 --> 1:41:15.200
+ to do a number of things
+
+1:41:15.200 --> 1:41:18.000
+ that for some of you might be beneficial.
+
+1:41:18.000 --> 1:41:19.800
+ One is to enhance power output.
+
+1:41:19.800 --> 1:41:22.440
+ So if you're engaging in something like shot put throwing
+
+1:41:22.440 --> 1:41:25.420
+ or resistance training or sprinting
+
+1:41:25.420 --> 1:41:28.060
+ or something where you have to generate a lot of power,
+
+1:41:28.060 --> 1:41:29.480
+ maybe you're doing rock climbing,
+
+1:41:29.480 --> 1:41:31.720
+ but you're working on a particular aspect
+
+1:41:31.720 --> 1:41:33.840
+ of your rock climbing that involves generating
+
+1:41:33.840 --> 1:41:36.160
+ a lot of force, a lot of power.
+
+1:41:36.160 --> 1:41:40.640
+ Well, then in theory, alpha-GPC could be beneficial to you.
+
+1:41:40.640 --> 1:41:44.260
+ For the cognitive effects, the dosages are much higher,
+
+1:41:44.260 --> 1:41:47.960
+ up to 1200 milligrams daily divided into three doses
+
+1:41:47.960 --> 1:41:49.680
+ of 400 milligrams is what the studies
+
+1:41:49.680 --> 1:41:52.140
+ that I was able to find show or used.
+
+1:41:52.140 --> 1:41:54.040
+ The effects on cognitive decline
+
+1:41:54.040 --> 1:41:56.520
+ are described as notable.
+
+1:41:56.520 --> 1:41:59.540
+ Notable meaning several studies showed a significant
+
+1:41:59.540 --> 1:42:03.600
+ but modest effect in offsetting cognitive decline,
+
+1:42:03.600 --> 1:42:07.440
+ in particular in older populations and some populations
+
+1:42:07.440 --> 1:42:11.280
+ even with some reported neurodegeneration.
+
+1:42:11.280 --> 1:42:13.680
+ Power output was notable.
+
+1:42:13.680 --> 1:42:14.520
+ How notable?
+
+1:42:14.520 --> 1:42:15.920
+ What does that mean, notable?
+
+1:42:15.920 --> 1:42:20.700
+ A study noted a 14% increase in power output.
+
+1:42:21.840 --> 1:42:25.500
+ That's pretty substantial, 14% if you think about it,
+
+1:42:25.500 --> 1:42:27.980
+ but it wasn't like a doubling or something of that sort.
+
+1:42:27.980 --> 1:42:29.860
+ Believe it or not, the symptoms of Alzheimer's
+
+1:42:29.860 --> 1:42:33.620
+ have been shown at least among the nutraceuticals
+
+1:42:33.620 --> 1:42:37.180
+ of which alpha-GPC is to significantly improve cognition
+
+1:42:37.180 --> 1:42:38.020
+ in people with Alzheimer's.
+
+1:42:38.020 --> 1:42:39.980
+ Now, this episode isn't about cognitive decline
+
+1:42:39.980 --> 1:42:41.960
+ and longevity, we will talk about that,
+
+1:42:41.960 --> 1:42:46.960
+ but this is a so-called another effect of alpha-GPC.
+
+1:42:47.620 --> 1:42:51.040
+ Fat oxidation is increased by alpha-GPC,
+
+1:42:51.040 --> 1:42:55.980
+ growth hormone release is promoted by alpha-GPC,
+
+1:42:55.980 --> 1:42:57.060
+ although to a small degree.
+
+1:42:57.060 --> 1:43:01.860
+ So as you can see, things like alpha-GPC in particular,
+
+1:43:01.860 --> 1:43:04.540
+ when they are combined with low levels of caffeine
+
+1:43:04.540 --> 1:43:07.200
+ can have these effects of improving power output,
+
+1:43:07.200 --> 1:43:09.260
+ can improve growth hormone release,
+
+1:43:09.260 --> 1:43:10.740
+ can improve fat oxidation.
+
+1:43:10.740 --> 1:43:14.860
+ All these things in theory can support skill learning,
+
+1:43:14.860 --> 1:43:16.300
+ but what they're really doing
+
+1:43:16.300 --> 1:43:17.920
+ is they're adjusting the foundation
+
+1:43:17.920 --> 1:43:19.780
+ upon which you are going to execute
+
+1:43:19.780 --> 1:43:22.020
+ these many, many repetitions, okay?
+
+1:43:22.020 --> 1:43:24.600
+ The same thing would be said for caffeine itself.
+
+1:43:24.600 --> 1:43:26.180
+ If that's something that motivates you
+
+1:43:26.180 --> 1:43:27.080
+ and gets you out of a chair
+
+1:43:27.080 --> 1:43:28.540
+ to actually do the physical training,
+
+1:43:28.540 --> 1:43:32.400
+ then that's something that can perhaps improve
+
+1:43:32.400 --> 1:43:34.220
+ or enhance the rate of skill learning
+
+1:43:34.220 --> 1:43:36.780
+ and how well you retain those skills.
+
+1:43:36.780 --> 1:43:40.180
+ Now, on a previous episode, I talked about,
+
+1:43:40.180 --> 1:43:43.860
+ and this was the episode on epinephrine, on adrenaline,
+
+1:43:43.860 --> 1:43:47.540
+ I talked about how for mental, for cognitive learning,
+
+1:43:47.540 --> 1:43:50.840
+ it makes sense to spike epinephrine,
+
+1:43:50.840 --> 1:43:53.740
+ to bump epinephrine levels up,
+
+1:43:53.740 --> 1:43:57.020
+ adrenaline levels up after cognitive learning.
+
+1:43:57.020 --> 1:43:59.880
+ For physical learning, it appears to be the opposite,
+
+1:43:59.880 --> 1:44:02.660
+ that if caffeine is in your practice
+
+1:44:02.660 --> 1:44:05.200
+ or if you decide to try alpha-GPC,
+
+1:44:05.200 --> 1:44:07.420
+ that you would want to do that before the training,
+
+1:44:07.420 --> 1:44:09.500
+ take it before the training, use it,
+
+1:44:09.500 --> 1:44:11.620
+ its effect should extend into the training,
+
+1:44:11.620 --> 1:44:14.240
+ presumably throughout, and then afterward,
+
+1:44:14.240 --> 1:44:15.580
+ if you're thinking about following
+
+1:44:15.580 --> 1:44:17.420
+ some of the protocols that we discussed today,
+
+1:44:17.420 --> 1:44:20.300
+ that you would use some sort of idle time
+
+1:44:20.300 --> 1:44:23.540
+ where the brain can replay these motor sequences in reverse,
+
+1:44:23.540 --> 1:44:24.700
+ and then, of course, you want to do things
+
+1:44:24.700 --> 1:44:26.580
+ that optimize your sleep.
+
+1:44:26.580 --> 1:44:28.000
+ A lot of the questions I get
+
+1:44:28.000 --> 1:44:30.020
+ are about how different protocols
+
+1:44:30.020 --> 1:44:31.100
+ and things that I described
+
+1:44:31.100 --> 1:44:32.700
+ start to collide with one another.
+
+1:44:32.700 --> 1:44:35.380
+ So let's say, for instance, you go to bed at 1030
+
+1:44:35.380 --> 1:44:39.780
+ and you're going to do your skill training at 930,
+
+1:44:39.780 --> 1:44:42.080
+ well, taking a lot of caffeine then
+
+1:44:42.080 --> 1:44:43.020
+ is not going to be a good idea
+
+1:44:43.020 --> 1:44:44.660
+ because it's going to compromise your sleep.
+
+1:44:44.660 --> 1:44:48.240
+ So I'm not here to design the perfect schedule for you
+
+1:44:48.240 --> 1:44:50.420
+ because everyone's situations vary.
+
+1:44:50.420 --> 1:44:55.420
+ So the things to optimize are repetitions, failures,
+
+1:44:55.620 --> 1:44:58.740
+ more repetitions, more failures,
+
+1:44:58.740 --> 1:45:00.320
+ at the offset of training,
+
+1:45:00.320 --> 1:45:02.900
+ having some idle time that could be straight into sleep,
+
+1:45:02.900 --> 1:45:06.380
+ or it could be simply letting the brain just go idle
+
+1:45:06.380 --> 1:45:08.120
+ for five to 10 minutes,
+
+1:45:08.120 --> 1:45:09.340
+ I mean, not focusing on anything,
+
+1:45:09.340 --> 1:45:12.260
+ not scrolling social media, not emailing,
+
+1:45:12.260 --> 1:45:13.700
+ ideally not even talking to somebody,
+
+1:45:13.700 --> 1:45:16.260
+ just lying down or sitting quietly with your eyes closed,
+
+1:45:16.260 --> 1:45:18.780
+ letting those motor sequences replay.
+
+1:45:18.780 --> 1:45:21.860
+ Then we talked about how one can come back
+
+1:45:21.860 --> 1:45:23.740
+ for additional training sessions,
+
+1:45:23.740 --> 1:45:25.400
+ use things like metronoming,
+
+1:45:25.400 --> 1:45:29.140
+ where you're cuing your attention to some external cue,
+
+1:45:29.140 --> 1:45:31.460
+ some stimulus, in this case, an auditory stimulus,
+
+1:45:31.460 --> 1:45:33.260
+ most likely, and trying to generate
+
+1:45:33.260 --> 1:45:34.740
+ more repetitions per unit time.
+
+1:45:34.740 --> 1:45:37.860
+ So again, it's repetitions and errors, that's key.
+
+1:45:37.860 --> 1:45:40.540
+ And then we also talked about some things that you can do
+
+1:45:40.540 --> 1:45:42.740
+ involving cerebellar neurophysiology
+
+1:45:42.740 --> 1:45:44.220
+ to extend range of motion,
+
+1:45:44.220 --> 1:45:45.940
+ if that's what's limiting for you,
+
+1:45:45.940 --> 1:45:49.820
+ or to use visualization to augment the practice,
+
+1:45:49.820 --> 1:45:53.700
+ or let's say your particular skill involves nice weather
+
+1:45:53.700 --> 1:45:55.280
+ and it's raining or snowing outside
+
+1:45:55.280 --> 1:45:57.220
+ and you can't get outside a thunderstorm,
+
+1:45:57.220 --> 1:45:59.140
+ then that's where visualization training
+
+1:45:59.140 --> 1:46:01.980
+ might be a good replacement under those conditions,
+
+1:46:01.980 --> 1:46:04.480
+ or in most cases, it's going to be the kind of thing
+
+1:46:04.480 --> 1:46:05.420
+ that you're going to want to do
+
+1:46:05.420 --> 1:46:08.100
+ in addition to the actual physical skill
+
+1:46:08.100 --> 1:46:10.860
+ or strength training session done,
+
+1:46:10.860 --> 1:46:12.380
+ at least in the study that we described,
+
+1:46:12.380 --> 1:46:16.200
+ for 15 minutes a day, five days a week,
+
+1:46:16.200 --> 1:46:19.220
+ over a period of 10 to 12 weeks or so.
+
+1:46:19.220 --> 1:46:20.780
+ So hopefully that makes it clear.
+
+1:46:20.780 --> 1:46:23.340
+ Today, we've covered a lot of mechanism.
+
+1:46:23.340 --> 1:46:26.260
+ We talked so much about the different motor pathways,
+
+1:46:26.260 --> 1:46:27.460
+ central pattern generators.
+
+1:46:27.460 --> 1:46:31.540
+ So you now are armed with a lot of information
+
+1:46:31.540 --> 1:46:33.360
+ about how you generate movement.
+
+1:46:33.360 --> 1:46:35.720
+ And I like to think that you're also armed
+
+1:46:35.720 --> 1:46:38.900
+ with a lot of information about how to design protocols
+
+1:46:38.900 --> 1:46:40.280
+ that are optimized for you,
+
+1:46:40.280 --> 1:46:44.820
+ or if you're a coach, for your trainees,
+
+1:46:44.820 --> 1:46:48.260
+ in order to optimize their learning of skills
+
+1:46:48.260 --> 1:46:49.380
+ of various kinds.
+
+1:46:49.380 --> 1:46:53.040
+ Today, we focused almost entirely on motor skills,
+
+1:46:53.040 --> 1:46:55.700
+ things like musical skills or physical skills.
+
+1:46:55.700 --> 1:46:57.020
+ These have some overlap.
+
+1:46:57.020 --> 1:47:00.340
+ They're partially overlapping with neuroplasticity
+
+1:47:00.340 --> 1:47:03.540
+ for learning things like languages or math or engineering
+
+1:47:03.540 --> 1:47:05.180
+ or neuroscience, for that matter.
+
+1:47:06.580 --> 1:47:09.500
+ Before we depart, I just want to make sure
+
+1:47:09.500 --> 1:47:13.340
+ that I return to a concept, which is the ultradian cycle.
+
+1:47:13.340 --> 1:47:15.460
+ Ultradian cycles are these 90-minute cycles
+
+1:47:15.460 --> 1:47:17.200
+ that we go through throughout sleep and wakefulness
+
+1:47:17.200 --> 1:47:19.900
+ that are optimal for learning and attention
+
+1:47:19.900 --> 1:47:21.340
+ in the waking state.
+
+1:47:21.340 --> 1:47:24.780
+ They are the stages of sleep
+
+1:47:24.780 --> 1:47:26.060
+ in which we have either predominantly
+
+1:47:26.060 --> 1:47:27.900
+ slow-wave sleep or REM sleep.
+
+1:47:27.900 --> 1:47:29.760
+ Some of you who have been following this podcast
+
+1:47:29.760 --> 1:47:31.040
+ for a while might be asking,
+
+1:47:31.040 --> 1:47:35.300
+ well, should a physical practice be 90 minutes?
+
+1:47:35.300 --> 1:47:38.120
+ That's going to depend because with physical practices,
+
+1:47:38.120 --> 1:47:40.340
+ oftentimes, for instance, with strength training,
+
+1:47:40.340 --> 1:47:41.460
+ that might be too long.
+
+1:47:41.460 --> 1:47:43.980
+ You're not going to be able to generate enough force output
+
+1:47:43.980 --> 1:47:45.440
+ for it to be worthwhile.
+
+1:47:45.440 --> 1:47:47.400
+ For golfing, I don't know, I've never played golf,
+
+1:47:47.400 --> 1:47:48.500
+ although my friends that play golf,
+
+1:47:48.500 --> 1:47:50.600
+ they disappear under the golf course for many hours.
+
+1:47:50.600 --> 1:47:53.660
+ So I know there's a lot of walking and driving
+
+1:47:53.660 --> 1:47:54.660
+ and other stuff.
+
+1:47:54.660 --> 1:47:58.500
+ I even hear that somebody carries your stuff around for you.
+
+1:47:58.500 --> 1:48:02.700
+ Sometimes, not always, but it's going to differ.
+
+1:48:02.700 --> 1:48:04.180
+ A four-hour golf game,
+
+1:48:04.180 --> 1:48:06.660
+ you're probably not swinging the golf club for four hours.
+
+1:48:06.660 --> 1:48:07.540
+ So it's going to depend.
+
+1:48:07.540 --> 1:48:09.940
+ I would say that the ultradian cycle
+
+1:48:09.940 --> 1:48:14.260
+ is not necessarily a good constraint for skill learning
+
+1:48:14.260 --> 1:48:15.480
+ in most cases.
+
+1:48:15.480 --> 1:48:17.220
+ And I should say that for those of you
+
+1:48:17.220 --> 1:48:20.300
+ that are short on time or have limited amounts of time,
+
+1:48:20.300 --> 1:48:23.100
+ 10 minutes of maximum repetitions, maximum focus,
+
+1:48:23.100 --> 1:48:26.760
+ skill learning work is going to be very beneficial.
+
+1:48:26.760 --> 1:48:29.820
+ Whereas two hours of kind of haphazard,
+
+1:48:29.820 --> 1:48:32.180
+ not really focused work,
+
+1:48:32.180 --> 1:48:34.500
+ or where you're not generating very many repetitions
+
+1:48:34.500 --> 1:48:36.060
+ because you're doing a few repetitions
+
+1:48:36.060 --> 1:48:37.340
+ and you're texting on your phone
+
+1:48:37.340 --> 1:48:38.500
+ or paying attention to something else,
+
+1:48:38.500 --> 1:48:40.140
+ that's not going to be beneficial.
+
+1:48:40.140 --> 1:48:42.300
+ It's really about the density of training
+
+1:48:42.300 --> 1:48:43.180
+ inside of a session.
+
+1:48:43.180 --> 1:48:45.260
+ So I think you should let the,
+
+1:48:45.260 --> 1:48:49.100
+ work toward maximal or near maximal density of repetitions
+
+1:48:49.100 --> 1:48:50.980
+ and failures, provided they're failures
+
+1:48:50.980 --> 1:48:52.960
+ you can perform safely.
+
+1:48:52.960 --> 1:48:54.540
+ In order to accelerate skill learning
+
+1:48:54.540 --> 1:48:56.780
+ and don't let some arbitrary,
+
+1:48:56.780 --> 1:48:59.520
+ or in this case the ultradian constraint
+
+1:48:59.520 --> 1:49:01.320
+ prevent you from engaging in that practice.
+
+1:49:01.320 --> 1:49:02.660
+ In other words, get the work in,
+
+1:49:02.660 --> 1:49:05.180
+ get as much work done as you can per unit time.
+
+1:49:05.180 --> 1:49:06.780
+ And based on the science,
+
+1:49:06.780 --> 1:49:08.200
+ based on things that I've seen,
+
+1:49:08.200 --> 1:49:10.260
+ based on things that I'm now involved in
+
+1:49:10.260 --> 1:49:11.480
+ with various communities,
+
+1:49:11.480 --> 1:49:16.480
+ you will see the skill improve vastly at various stages.
+
+1:49:16.560 --> 1:49:18.140
+ Sometimes it's a little bit stutter start.
+
+1:49:18.140 --> 1:49:20.780
+ It's not always a linear improvement,
+
+1:49:20.780 --> 1:49:23.560
+ but you will see incredible improvement in skill.
+
+1:49:23.560 --> 1:49:25.020
+ If you're enjoying this podcast
+
+1:49:25.020 --> 1:49:27.060
+ and you're finding the information interesting
+
+1:49:27.060 --> 1:49:28.920
+ and or of use to you,
+
+1:49:28.920 --> 1:49:30.560
+ please subscribe on YouTube.
+
+1:49:30.560 --> 1:49:31.980
+ That really helps us.
+
+1:49:31.980 --> 1:49:33.180
+ As well, please subscribe
+
+1:49:33.180 --> 1:49:37.020
+ and download the episodes on Apple and Spotify.
+
+1:49:37.020 --> 1:49:38.820
+ On Apple, you also have the opportunity
+
+1:49:38.820 --> 1:49:41.020
+ to leave us up to a five-star review
+
+1:49:41.020 --> 1:49:42.780
+ if you think we deserve that.
+
+1:49:42.780 --> 1:49:45.700
+ And on YouTube, please hit the thumbs up button
+
+1:49:45.700 --> 1:49:47.260
+ if you liked the episode,
+
+1:49:47.260 --> 1:49:49.140
+ and please give us feedback.
+
+1:49:49.140 --> 1:49:51.660
+ Place your feedback in the comment section.
+
+1:49:51.660 --> 1:49:53.940
+ That's a place to tell us how we're doing,
+
+1:49:53.940 --> 1:49:56.220
+ but also to ask us questions.
+
+1:49:56.220 --> 1:49:57.820
+ We read all the comments.
+
+1:49:57.820 --> 1:49:59.860
+ It takes us some time to work through them,
+
+1:49:59.860 --> 1:50:00.940
+ but we read all of them
+
+1:50:00.940 --> 1:50:03.220
+ and we use your comments and your feedback
+
+1:50:03.220 --> 1:50:07.420
+ to sculpt the content and the direction of future episodes.
+
+1:50:07.420 --> 1:50:09.540
+ As well, please check out our sponsors.
+
+1:50:09.540 --> 1:50:10.740
+ The sponsors that we mentioned
+
+1:50:10.740 --> 1:50:12.860
+ at the beginning of each podcast episode
+
+1:50:12.860 --> 1:50:15.820
+ are really important in order to support our production team
+
+1:50:15.820 --> 1:50:17.940
+ and as well, we have a Patreon.
+
+1:50:17.940 --> 1:50:20.700
+ It's patreon.com slash Andrew Huberman.
+
+1:50:20.700 --> 1:50:23.580
+ There you can support us at any level that you like.
+
+1:50:23.580 --> 1:50:25.660
+ In previous episodes and in this episode,
+
+1:50:25.660 --> 1:50:27.280
+ I mentioned some supplements.
+
+1:50:27.280 --> 1:50:31.240
+ Supplements certainly have their place for various things.
+
+1:50:31.240 --> 1:50:33.780
+ They aren't necessary, but many people, including myself,
+
+1:50:33.780 --> 1:50:35.620
+ derive benefit from supplements
+
+1:50:35.620 --> 1:50:37.340
+ for things like improving sleep
+
+1:50:37.340 --> 1:50:40.540
+ and immune system function and learning and so forth.
+
+1:50:40.540 --> 1:50:42.740
+ If you're interested in seeing the supplements that I take,
+
+1:50:42.740 --> 1:50:46.100
+ you can go to thorn.com slash you,
+
+1:50:46.100 --> 1:50:48.460
+ that's the letter U slash Huberman
+
+1:50:48.460 --> 1:50:50.720
+ and you can see the supplements that I take.
+
+1:50:50.720 --> 1:50:52.280
+ If you want to try any of those supplements,
+
+1:50:52.280 --> 1:50:56.660
+ you can get 20% off simply by accessing the Thorne webpage
+
+1:50:56.660 --> 1:50:59.060
+ through that portal, as well as 20% off
+
+1:50:59.060 --> 1:51:01.540
+ any of the other supplements that Thorne makes.
+
+1:51:01.540 --> 1:51:03.020
+ The reason we've partnered with Thorne
+
+1:51:03.020 --> 1:51:05.900
+ is because Thorne has the very highest levels of stringency
+
+1:51:05.900 --> 1:51:08.540
+ in terms of the quality of the supplements
+
+1:51:08.540 --> 1:51:11.660
+ and the accuracy about the amounts of each supplement
+
+1:51:11.660 --> 1:51:12.480
+ that are in the bottle.
+
+1:51:12.480 --> 1:51:14.940
+ One of the major problems in the supplement industry
+
+1:51:14.940 --> 1:51:18.700
+ is that when supplements get tested, often it's the case
+
+1:51:18.700 --> 1:51:22.620
+ that the amount of a given ingredient is far lower
+
+1:51:22.620 --> 1:51:25.300
+ or far greater than what's reported on the bottle.
+
+1:51:25.300 --> 1:51:26.800
+ That's not the case for Thorne.
+
+1:51:26.800 --> 1:51:29.760
+ Thorne has very high levels of stringency.
+
+1:51:29.760 --> 1:51:31.280
+ They partnered with the Mayo Clinic
+
+1:51:31.280 --> 1:51:32.720
+ and all the major sports teams
+
+1:51:32.720 --> 1:51:34.720
+ and that's why we've partnered with them as well.
+
+1:51:34.720 --> 1:51:35.900
+ So if you want to check those out,
+
+1:51:35.900 --> 1:51:40.260
+ again, it's Thorne, T-H-O-R-N-E slash the letter U
+
+1:51:40.260 --> 1:51:42.340
+ slash Huberman to get 20% off
+
+1:51:42.340 --> 1:51:45.100
+ any of the supplements that Thorne makes.
+
+1:51:45.100 --> 1:51:46.360
+ And last but not least,
+
+1:51:46.360 --> 1:51:48.620
+ I want to thank you for your time and attention.
+
+1:51:48.620 --> 1:51:51.180
+ I very much appreciate your interest in neuroscience
+
+1:51:51.180 --> 1:51:54.140
+ and in physiology and in tools that are informed
+
+1:51:54.140 --> 1:51:56.160
+ by neuroscience and physiology.
+
+1:51:56.160 --> 1:51:58.820
+ Today, we talked all about skill learning.
+
+1:51:58.820 --> 1:52:00.980
+ I hope that you'll consider the information.
+
+1:52:00.980 --> 1:52:02.780
+ You might even decide to try some of these tools.
+
+1:52:02.780 --> 1:52:05.380
+ If you do, please let us know your results with them.
+
+1:52:05.380 --> 1:52:07.060
+ Give us feedback in the comments.
+
+1:52:07.060 --> 1:52:09.780
+ And as always, thank you for your interest in science.
+
+1:52:09.780 --> 1:52:14.780
+ We'll see you next time.
+

@@ -1,0 +1,6611 @@
+WEBVTT
+
+00:00.000 --> 00:02.260
+ Welcome to the Huberman Lab Podcast,
+
+00:02.260 --> 00:04.900
+ where we discuss science and science-based tools
+
+00:04.900 --> 00:05.920
+ for everyday life.
+
+00:09.500 --> 00:10.740
+ My name is Andrew Huberman,
+
+00:10.740 --> 00:13.900
+ and I'm a professor of neurobiology and ophthalmology
+
+00:13.900 --> 00:15.860
+ at Stanford School of Medicine.
+
+00:15.860 --> 00:17.140
+ This podcast is separate
+
+00:17.140 --> 00:19.460
+ from my teaching and research roles at Stanford.
+
+00:19.460 --> 00:21.840
+ It is, however, part of my desire and effort
+
+00:21.840 --> 00:24.660
+ to bring zero cost to consumer information about science
+
+00:24.660 --> 00:27.780
+ and science-related tools to the general public.
+
+00:27.780 --> 00:29.380
+ In keeping with that theme,
+
+00:29.380 --> 00:32.420
+ I want to thank the first sponsor of today's podcast.
+
+00:32.420 --> 00:34.920
+ Our first sponsor is Inside Tracker.
+
+00:34.920 --> 00:37.840
+ Inside Tracker is a personalized nutrition platform
+
+00:37.840 --> 00:41.780
+ that analyzes blood factors and DNA-related factors
+
+00:41.780 --> 00:45.200
+ that helps you develop a personalized health plan.
+
+00:45.200 --> 00:48.300
+ Many important factors related to our health and wellbeing
+
+00:48.300 --> 00:52.740
+ can only be measured by a blood sample and by a DNA sample.
+
+00:52.740 --> 00:55.580
+ I've been getting my blood work done for many years now,
+
+00:55.580 --> 00:57.060
+ and I use Inside Tracker
+
+00:57.060 --> 00:59.760
+ because Inside Tracker makes it very easy
+
+00:59.760 --> 01:01.860
+ to not only get the blood work done,
+
+01:01.860 --> 01:03.140
+ someone can come to your house,
+
+01:03.140 --> 01:05.420
+ or you can go to a clinic, for instance,
+
+01:05.420 --> 01:08.100
+ but also to interpret the data that you get.
+
+01:08.100 --> 01:10.260
+ Oftentimes, when we get blood work done,
+
+01:10.260 --> 01:11.980
+ there are all these numbers and all these levels
+
+01:11.980 --> 01:14.540
+ of different hormones and metabolic factors and so forth,
+
+01:14.540 --> 01:17.420
+ but one doesn't know what to do with that information.
+
+01:17.420 --> 01:20.260
+ Inside Tracker has a terrific dashboard platform
+
+01:20.260 --> 01:23.740
+ where you go online and it makes analyzing all that easy,
+
+01:23.740 --> 01:25.860
+ and it also provides some very simple
+
+01:25.860 --> 01:27.460
+ and straightforward directives
+
+01:27.460 --> 01:30.260
+ in terms of exercise, nutrition,
+
+01:30.260 --> 01:31.640
+ and other lifestyle factors
+
+01:31.640 --> 01:34.660
+ that can help guide your health and improve your health.
+
+01:34.660 --> 01:36.480
+ If you'd like to try Inside Tracker,
+
+01:36.480 --> 01:39.900
+ you can go to insidetracker.com slash Huberman
+
+01:39.900 --> 01:41.820
+ and use the code Huberman at checkout
+
+01:41.820 --> 01:44.700
+ to get 25% off your order.
+
+01:44.700 --> 01:47.660
+ Today's episode is also brought to us by Headspace.
+
+01:47.660 --> 01:51.180
+ Headspace is a meditation app that makes meditating easy.
+
+01:51.180 --> 01:54.480
+ I've been meditating on and off for about three decades now,
+
+01:54.480 --> 01:57.100
+ and typically it's been more off than on.
+
+01:57.100 --> 01:58.220
+ I think like a lot of people,
+
+01:58.220 --> 02:01.260
+ I find it hard to stick with a meditation practice.
+
+02:01.260 --> 02:04.020
+ A few years ago, I started using the Headspace app,
+
+02:04.020 --> 02:05.000
+ and when I did that,
+
+02:05.000 --> 02:07.520
+ I found that I was meditating really consistently.
+
+02:07.520 --> 02:09.640
+ First of all, the meditations in Headspace
+
+02:09.640 --> 02:12.820
+ are backed by quality scientific peer-reviewed studies.
+
+02:12.820 --> 02:16.100
+ Second of all, the meditations allow the meditation
+
+02:16.100 --> 02:19.080
+ to be kind of easy and fun to access.
+
+02:19.080 --> 02:21.340
+ I started first using them when I would travel
+
+02:21.340 --> 02:22.720
+ because on JetBlue flights,
+
+02:22.720 --> 02:24.520
+ which was the airline I was using,
+
+02:24.520 --> 02:27.640
+ the meditations are offered as an alternative
+
+02:27.640 --> 02:29.700
+ to watching a TV or a movie.
+
+02:29.700 --> 02:31.880
+ And I found that I would arrive feeling much more refreshed
+
+02:31.880 --> 02:34.380
+ than had I just sort of zoned out on the TV the whole time
+
+02:34.380 --> 02:36.380
+ or even if I had slept.
+
+02:36.380 --> 02:38.920
+ I now continue to use Headspace regularly
+
+02:38.920 --> 02:41.220
+ pretty much every day for a short meditation,
+
+02:41.220 --> 02:44.300
+ and I personally derive tremendous benefits from it.
+
+02:44.300 --> 02:46.120
+ If you'd like to try Headspace,
+
+02:46.120 --> 02:49.420
+ you can go to headspace.com slash specialoffer,
+
+02:49.420 --> 02:52.520
+ and they'll give you one month of all the meditations
+
+02:52.520 --> 02:54.380
+ that they have available completely free.
+
+02:54.380 --> 02:57.120
+ That's the best offer available right now from Headspace.
+
+02:57.120 --> 03:00.000
+ So you can go to headspace.com slash specialoffer,
+
+03:00.000 --> 03:02.100
+ and you'll get one month completely free
+
+03:02.100 --> 03:04.240
+ all the meditations they have.
+
+03:04.240 --> 03:07.020
+ The third sponsor of today's podcast is Made For.
+
+03:07.020 --> 03:09.260
+ Made For is a behavioral science company
+
+03:09.260 --> 03:11.060
+ that is a subscription model
+
+03:11.060 --> 03:13.200
+ in which you engage in specific activities
+
+03:13.200 --> 03:14.780
+ each month for 10 months
+
+03:14.780 --> 03:17.240
+ in order to bring about positive behavioral change
+
+03:17.240 --> 03:18.840
+ and growth mindset.
+
+03:18.840 --> 03:22.040
+ The company was founded by former Navy Seal, Patrick Dossett
+
+03:22.040 --> 03:25.600
+ as well as Tom's founder, Blake Mycoskie.
+
+03:25.600 --> 03:26.560
+ I'm the lead advisor
+
+03:26.560 --> 03:28.660
+ of the Scientific Advisory Board at Made For,
+
+03:28.660 --> 03:30.440
+ and some of the other members of the advisory board
+
+03:30.440 --> 03:32.400
+ include the head of the Chronobiology Unit
+
+03:32.400 --> 03:34.220
+ at the National Institutes of Health,
+
+03:34.220 --> 03:37.720
+ as well as psychiatrists from Harvard, UC Irvine,
+
+03:37.720 --> 03:40.660
+ and many other individuals who are serious about science
+
+03:40.660 --> 03:43.360
+ and helped develop the Made For program.
+
+03:43.360 --> 03:47.160
+ If you want to try Made For, you can go to getmadefor.com,
+
+03:47.160 --> 03:49.240
+ and if you enter Huberman at checkout,
+
+03:49.240 --> 03:52.300
+ you'll get 15% off the program.
+
+03:52.300 --> 03:54.800
+ Today, we're talking about neural plasticity,
+
+03:54.800 --> 03:58.180
+ which is this incredible feature of our nervous systems
+
+03:58.180 --> 04:01.880
+ that allows it to change in response to experience.
+
+04:01.880 --> 04:03.800
+ Neural plasticity is arguably
+
+04:03.800 --> 04:07.120
+ one of the most important aspects of our biology.
+
+04:07.120 --> 04:09.680
+ It holds the promise for each and all of us
+
+04:09.680 --> 04:13.280
+ to think differently, to learn new things,
+
+04:13.280 --> 04:15.800
+ to forget painful experiences,
+
+04:15.800 --> 04:19.480
+ and to essentially adapt to anything that life brings us
+
+04:19.480 --> 04:20.700
+ by becoming better.
+
+04:21.560 --> 04:24.560
+ Neural plasticity has a long and important history,
+
+04:24.560 --> 04:27.100
+ and we're not going to review all of it in detail,
+
+04:27.100 --> 04:29.040
+ but today, what we are going to do
+
+04:29.040 --> 04:32.360
+ is discuss what is neural plasticity,
+
+04:32.360 --> 04:35.480
+ as well as the different forms of neural plasticity.
+
+04:35.480 --> 04:39.080
+ We're going to talk about how to access neural plasticity
+
+04:39.080 --> 04:40.580
+ depending on how old you are
+
+04:40.580 --> 04:42.500
+ and depending on the specific types of changes
+
+04:42.500 --> 04:44.560
+ that you're trying to create.
+
+04:44.560 --> 04:47.860
+ This is a topic for which there are lots of tools,
+
+04:47.860 --> 04:50.280
+ as well as lots of biological principles
+
+04:50.280 --> 04:51.800
+ that we can discuss.
+
+04:51.800 --> 04:53.640
+ So let's get started.
+
+04:53.640 --> 04:56.840
+ Most people are familiar with the word neural plasticity.
+
+04:56.840 --> 04:59.980
+ It's sometimes also called neuroplasticity.
+
+04:59.980 --> 05:01.560
+ Those are the same thing.
+
+05:01.560 --> 05:05.320
+ So if I say neuroplasticity or neuroplasticity,
+
+05:05.320 --> 05:07.400
+ I'm referring to the same process,
+
+05:07.400 --> 05:09.920
+ which is the brain and nervous system's ability
+
+05:09.920 --> 05:12.440
+ to change itself.
+
+05:12.440 --> 05:15.080
+ There are a lot of reasons why the nervous system
+
+05:15.080 --> 05:16.720
+ would do this.
+
+05:16.720 --> 05:20.860
+ It could do it in response to some traumatic event.
+
+05:20.860 --> 05:23.680
+ It could, for instance, create a sense of fear
+
+05:23.680 --> 05:25.040
+ around a particular place
+
+05:25.040 --> 05:27.600
+ or a fear of automobiles or planes.
+
+05:27.600 --> 05:30.640
+ It could also occur when something positive happens,
+
+05:30.640 --> 05:32.800
+ like the birth of our first child,
+
+05:32.800 --> 05:35.640
+ or when our puppy does something amusing,
+
+05:35.640 --> 05:40.540
+ or we see an incredible feat of performance in athleticism.
+
+05:40.540 --> 05:44.480
+ The word neuroplasticity means so many things
+
+05:44.480 --> 05:45.700
+ to so many different people
+
+05:45.700 --> 05:46.700
+ that I thought it would be important
+
+05:46.700 --> 05:49.820
+ to just first put a little bit of organizational logic
+
+05:49.820 --> 05:52.300
+ around what it is and how it happens.
+
+05:52.300 --> 05:54.420
+ Because nowadays, if you were to go online
+
+05:54.420 --> 05:56.820
+ and Google the word neuroplasticity,
+
+05:56.820 --> 06:00.420
+ you would find hundreds of thousands of references,
+
+06:00.420 --> 06:01.900
+ scientific references,
+
+06:01.900 --> 06:03.260
+ as well as a lot of falsehoods
+
+06:03.260 --> 06:06.420
+ about what neuroplasticity is and how to access it.
+
+06:06.420 --> 06:07.280
+ As I mentioned before,
+
+06:07.280 --> 06:08.820
+ we're going to talk about the science of it,
+
+06:08.820 --> 06:10.060
+ and we're going to talk about the tools
+
+06:10.060 --> 06:12.700
+ that allow you to engage this incredible feature
+
+06:12.700 --> 06:13.900
+ of your nervous system.
+
+06:13.900 --> 06:15.040
+ And that's the first point,
+
+06:15.040 --> 06:18.220
+ which is that all of us were born with a nervous system
+
+06:18.220 --> 06:20.420
+ that isn't just capable of change,
+
+06:20.420 --> 06:23.460
+ but was designed to change.
+
+06:23.460 --> 06:24.980
+ When we enter the world,
+
+06:26.420 --> 06:30.620
+ our nervous system is primed for learning.
+
+06:30.620 --> 06:33.740
+ The brain and nervous system of a baby
+
+06:33.740 --> 06:36.100
+ is wired very crudely.
+
+06:36.100 --> 06:38.380
+ The connections are not precise,
+
+06:38.380 --> 06:40.180
+ and we can see evidence of that
+
+06:40.180 --> 06:42.980
+ in the fact that babies are kind of flopping there
+
+06:42.980 --> 06:45.180
+ like a kind of a little potato bug with limbs.
+
+06:45.180 --> 06:48.180
+ They can't really do much in terms of coordinated movement.
+
+06:48.180 --> 06:50.240
+ They certainly can't speak,
+
+06:50.240 --> 06:53.500
+ and they can't really do anything with precision.
+
+06:53.500 --> 06:57.940
+ And that's because we come into this world over-connected.
+
+06:57.940 --> 06:59.380
+ We have essentially wires.
+
+06:59.380 --> 07:01.740
+ Those wires have names like axons and dendrites.
+
+07:01.740 --> 07:03.300
+ Those are the different parts of the neurons
+
+07:03.300 --> 07:04.800
+ discussed in episode one.
+
+07:04.800 --> 07:07.520
+ But those little parts and those wires and connections
+
+07:07.520 --> 07:09.060
+ are everywhere.
+
+07:09.060 --> 07:11.020
+ Imagine a bunch of roads
+
+07:11.020 --> 07:14.100
+ that are all connected to one another in kind of a mess,
+
+07:14.100 --> 07:15.860
+ but there are no highways.
+
+07:15.860 --> 07:17.060
+ They're all just small roads.
+
+07:17.060 --> 07:19.740
+ That's essentially what the young nervous system is like.
+
+07:19.740 --> 07:21.660
+ And then as we mature,
+
+07:21.660 --> 07:24.540
+ as we go from day one of life
+
+07:24.540 --> 07:28.880
+ to 10 years old, 20 years old, 30 years old,
+
+07:28.880 --> 07:32.300
+ what happens is particular connections get reinforced
+
+07:32.300 --> 07:35.500
+ and stronger and other connections are lost.
+
+07:35.500 --> 07:38.000
+ So that's the first important principle that I want everyone
+
+07:38.000 --> 07:41.960
+ to understand, which is that developmental plasticity,
+
+07:41.960 --> 07:44.780
+ the neuroplasticity that occurs from the time we're born
+
+07:44.780 --> 07:49.000
+ until about age 25 is mainly a process
+
+07:49.000 --> 07:53.320
+ of removing connections that don't serve our goals well.
+
+07:53.320 --> 07:55.140
+ Now, of course, certain events happen
+
+07:55.140 --> 07:58.380
+ during that birth to 25 period
+
+07:58.380 --> 08:01.420
+ in which positive events and negative events
+
+08:01.420 --> 08:03.820
+ are really stamped down into our nervous system
+
+08:03.820 --> 08:05.480
+ in a very dramatic fashion
+
+08:05.480 --> 08:07.420
+ by what we call one trial learning.
+
+08:07.420 --> 08:08.840
+ We experienced something once
+
+08:08.840 --> 08:11.380
+ and then our nervous system is forever changed
+
+08:12.260 --> 08:13.460
+ by that experience.
+
+08:13.460 --> 08:15.500
+ Unless of course we go through some work
+
+08:15.500 --> 08:17.280
+ to undo that experience.
+
+08:17.280 --> 08:20.500
+ So I want you to imagine in your mind
+
+08:20.500 --> 08:22.500
+ that when you were brought into this world,
+
+08:22.500 --> 08:27.500
+ you were essentially a widely connected web of connections
+
+08:27.500 --> 08:31.460
+ that was really poor at doing any one thing.
+
+08:31.460 --> 08:33.020
+ And that through your experience,
+
+08:33.020 --> 08:36.220
+ what you were exposed to by your parents or other caretakers
+
+08:36.220 --> 08:39.220
+ through your social interactions, through your thoughts,
+
+08:39.220 --> 08:40.940
+ through the languages that you learn,
+
+08:40.940 --> 08:43.160
+ through the places you traveled or didn't travel,
+
+08:43.160 --> 08:45.460
+ your nervous system became customized
+
+08:45.460 --> 08:47.900
+ to your unique experience.
+
+08:47.900 --> 08:51.500
+ Now, that's true for certain parts of your brain
+
+08:51.500 --> 08:53.880
+ that are involved in what we call representations
+
+08:53.880 --> 08:55.280
+ of the outside world.
+
+08:55.280 --> 08:58.140
+ A lot of your brain is designed to represent the visual world
+
+08:58.140 --> 09:00.560
+ or represent the auditory world
+
+09:00.560 --> 09:03.300
+ or represent the gallery of smells
+
+09:03.300 --> 09:05.980
+ that are possible in the world.
+
+09:05.980 --> 09:08.460
+ However, there are aspects of your nervous system
+
+09:08.460 --> 09:11.580
+ that were designed not to be plastic.
+
+09:11.580 --> 09:13.540
+ They were wired so that plasticity
+
+09:13.540 --> 09:17.160
+ or changes in those circuits is very unlikely.
+
+09:17.160 --> 09:19.220
+ Those circuits include things like
+
+09:19.220 --> 09:21.140
+ the ones that control your heartbeat,
+
+09:21.140 --> 09:22.980
+ the ones that control your breathing,
+
+09:22.980 --> 09:24.740
+ the ones that control your digestion.
+
+09:24.740 --> 09:27.640
+ And thank goodness that those circuits were set up that way
+
+09:27.640 --> 09:30.460
+ because you want those circuits to be extremely reliable.
+
+09:30.460 --> 09:31.940
+ You never want to have to think about
+
+09:31.940 --> 09:33.300
+ whether or not your heart will beat
+
+09:33.300 --> 09:34.940
+ or whether or not you will continue breathing
+
+09:34.940 --> 09:37.700
+ or whether or not you'll be able to digest your food.
+
+09:37.700 --> 09:41.740
+ So many nervous system features like digestion
+
+09:41.740 --> 09:44.620
+ and breathing and heart rate are hard to change.
+
+09:45.500 --> 09:47.040
+ Other aspects of our nervous system
+
+09:47.040 --> 09:48.740
+ are actually quite easy to change.
+
+09:48.740 --> 09:50.700
+ And one of the great gifts of childhood,
+
+09:50.700 --> 09:52.560
+ adolescence and young adulthood,
+
+09:52.560 --> 09:54.980
+ is that we can learn through almost passive experience.
+
+09:54.980 --> 09:56.740
+ We don't have to focus that hard
+
+09:56.740 --> 09:58.380
+ in order to learn new things.
+
+09:58.380 --> 10:00.840
+ In fact, children go from being able
+
+10:00.840 --> 10:03.220
+ to speak no language whatsoever,
+
+10:03.220 --> 10:05.380
+ to being able to speak many, many words
+
+10:05.380 --> 10:06.660
+ and comprise sentences,
+
+10:06.660 --> 10:08.700
+ including words they've never heard before,
+
+10:08.700 --> 10:09.700
+ which is remarkable.
+
+10:09.700 --> 10:11.580
+ It means that the portions of the brain
+
+10:11.580 --> 10:13.180
+ involved in speech and language
+
+10:13.180 --> 10:16.580
+ are actually primed to learn and create new combinations.
+
+10:17.920 --> 10:20.840
+ What this tells us is that the young brain
+
+10:20.840 --> 10:23.160
+ is a plasticity machine.
+
+10:24.020 --> 10:26.100
+ But then right about age 25,
+
+10:26.100 --> 10:29.240
+ plus or minus a year or two, everything changes.
+
+10:29.240 --> 10:32.320
+ After age 25 or so,
+
+10:32.320 --> 10:34.780
+ in order to get changes in our nervous system,
+
+10:34.780 --> 10:38.520
+ we have to engage in a completely different set of processes
+
+10:38.520 --> 10:40.420
+ in order to get those changes to occur
+
+10:40.420 --> 10:43.700
+ and for them, more importantly, to stick around.
+
+10:43.700 --> 10:46.140
+ And this is something that I think is vastly overlooked
+
+10:46.140 --> 10:49.540
+ in the popular culture discussion about neuroplasticity.
+
+10:49.540 --> 10:52.680
+ People always talk about fire together, wire together.
+
+10:52.680 --> 10:55.340
+ Fire together, wire together is true.
+
+10:55.340 --> 10:57.300
+ It is the statement of my colleague at Stanford,
+
+10:57.300 --> 11:00.780
+ Carla Schatz, and it's an absolute truth
+
+11:00.780 --> 11:02.860
+ about the way that the nervous system wires up
+
+11:02.860 --> 11:04.520
+ early in development.
+
+11:04.520 --> 11:07.340
+ But fire together, wire together
+
+11:07.340 --> 11:11.340
+ doesn't apply in the same way after age 25.
+
+11:11.340 --> 11:13.500
+ And so we have these little memes
+
+11:13.500 --> 11:17.140
+ and these little quotes that circulate on the internet
+
+11:17.140 --> 11:18.780
+ like fire together, wire together,
+
+11:18.780 --> 11:19.980
+ or there's a famous quote
+
+11:19.980 --> 11:24.020
+ from the greatest neurobiologist of all time, Ramon y Cajal.
+
+11:24.020 --> 11:25.380
+ I think it goes something like, you know,
+
+11:25.380 --> 11:27.680
+ should somebody wish to change their nervous system,
+
+11:27.680 --> 11:31.100
+ they could be the sculptor of their nervous system
+
+11:31.100 --> 11:33.280
+ in any way they want, something like that.
+
+11:33.280 --> 11:34.260
+ And that sounds great.
+
+11:34.260 --> 11:36.220
+ I mean, who wouldn't want to change their nervous system
+
+11:36.220 --> 11:37.320
+ any way they want?
+
+11:37.320 --> 11:39.780
+ But what's lost in those statements
+
+11:39.780 --> 11:41.940
+ is how to actually accomplish that.
+
+11:41.940 --> 11:43.660
+ And we're going to cover that today.
+
+11:43.660 --> 11:46.260
+ But please understand that early in development,
+
+11:46.260 --> 11:49.340
+ your nervous system is connected very broadly
+
+11:49.340 --> 11:52.080
+ in ways that make it very hard to do anything well.
+
+11:52.080 --> 11:53.920
+ From birth until about age 25,
+
+11:53.920 --> 11:57.340
+ those connections get refined mainly through the removal
+
+11:57.340 --> 11:59.260
+ of connections that don't serve us
+
+11:59.260 --> 12:02.020
+ and the incredible strengthening of connections
+
+12:02.020 --> 12:04.020
+ that relate to either powerful experiences
+
+12:04.020 --> 12:06.220
+ or that allow us to do things like walk and talk
+
+12:06.220 --> 12:08.480
+ and do math, et cetera.
+
+12:08.480 --> 12:11.700
+ And then after age 25, if we want to change
+
+12:11.700 --> 12:14.620
+ those connections, those super highways of connectivity,
+
+12:14.620 --> 12:17.660
+ we have to engage in some very specific processes
+
+12:17.660 --> 12:21.140
+ and those processes as we'll soon learn are gated,
+
+12:21.140 --> 12:23.280
+ meaning you can't just decide to change your brain.
+
+12:23.280 --> 12:25.300
+ You actually have to go through a series of steps
+
+12:25.300 --> 12:27.940
+ to change your internal state in ways
+
+12:27.940 --> 12:30.260
+ that will allow you to change your brain.
+
+12:30.260 --> 12:33.020
+ I just want to acknowledge that Costello is snoring
+
+12:33.020 --> 12:34.460
+ particularly loud today.
+
+12:34.460 --> 12:38.740
+ Some of you seem very keen at picking up on his snoring.
+
+12:38.740 --> 12:40.980
+ Others of you can't hear his snoring.
+
+12:40.980 --> 12:43.980
+ It's very low rumbling sound.
+
+12:43.980 --> 12:45.660
+ And whether or not you can or you can't
+
+12:45.660 --> 12:47.740
+ probably relates to the sensitivity of your hearing.
+
+12:47.740 --> 12:49.940
+ We're actually going to talk about perfect pitch today
+
+12:49.940 --> 12:52.220
+ and range of auditory detection.
+
+12:52.220 --> 12:54.740
+ And so if you can hear Costello's snoring,
+
+12:54.740 --> 12:57.180
+ enjoy, if you can't, enjoy.
+
+12:58.780 --> 13:01.820
+ I want to talk about how the nervous system changes.
+
+13:01.820 --> 13:04.100
+ What are these changes?
+
+13:04.100 --> 13:07.780
+ Many of us have been captivated by the stories
+
+13:07.780 --> 13:10.620
+ in the popular press about the addition of new neurons.
+
+13:10.620 --> 13:13.020
+ This idea, oh, if you go running or you exercise,
+
+13:13.020 --> 13:15.420
+ your brain actually makes new neurons.
+
+13:15.420 --> 13:17.280
+ Well, I'm going to give you the bad news first,
+
+13:17.280 --> 13:22.040
+ which is that after puberty, so after about age 14 or 15,
+
+13:22.040 --> 13:25.460
+ the human brain and nervous system adds very few,
+
+13:25.460 --> 13:27.980
+ if any, new neurons.
+
+13:27.980 --> 13:31.220
+ The idea that new neurons could be added to the brain
+
+13:31.220 --> 13:34.480
+ is one that has a rich history in experimental science.
+
+13:34.480 --> 13:39.380
+ It's clear that in rodents and in some non-human primates,
+
+13:39.380 --> 13:43.820
+ new neurons, a process called neurogenesis,
+
+13:43.820 --> 13:46.100
+ can occur in areas of the brain,
+
+13:46.100 --> 13:47.960
+ such as the olfactory bulb,
+
+13:47.960 --> 13:49.960
+ which is of course involved in smell,
+
+13:49.960 --> 13:51.860
+ as well as a region of our hippocampus,
+
+13:51.860 --> 13:53.220
+ the center of the brain involved in memory
+
+13:53.220 --> 13:56.020
+ called the dentate gyrus of the hippocampus.
+
+13:56.020 --> 13:58.620
+ And there is strong evidence that new neurons
+
+13:58.620 --> 14:01.960
+ can be added to those structures throughout the lifespan.
+
+14:01.960 --> 14:05.380
+ In humans, the evidence is a little bit more controversial.
+
+14:05.380 --> 14:07.460
+ It's clear that we can add new neurons
+
+14:07.460 --> 14:09.300
+ to our olfactory bulb.
+
+14:09.300 --> 14:12.660
+ In fact, if any of you have ever had the unfortunate
+
+14:12.660 --> 14:15.420
+ experience of being hit on the head too hard,
+
+14:15.420 --> 14:19.120
+ the wires called axons from those olfactory neurons
+
+14:19.120 --> 14:21.540
+ that live in your nose can get sheared off
+
+14:21.540 --> 14:23.180
+ because they have to pass through a bony plate
+
+14:23.180 --> 14:24.200
+ called the cribriform plate.
+
+14:24.200 --> 14:26.580
+ And the cribriform plate can shear those axons
+
+14:26.580 --> 14:29.100
+ and people can become what's called anosmic.
+
+14:29.100 --> 14:30.920
+ They won't be able to smell.
+
+14:30.920 --> 14:33.460
+ But over time, those neurons,
+
+14:33.460 --> 14:35.980
+ unlike most all central nervous system neurons,
+
+14:35.980 --> 14:38.400
+ can grow those connections back
+
+14:38.400 --> 14:41.820
+ and even reestablish new neurons
+
+14:41.820 --> 14:43.260
+ added to the olfactory bulb.
+
+14:43.260 --> 14:44.960
+ They come from elsewhere deep in the brain
+
+14:44.960 --> 14:46.300
+ and they migrate through a pathway
+
+14:46.300 --> 14:47.880
+ called the rostral migratory stream.
+
+14:47.880 --> 14:49.040
+ You can Google these words
+
+14:49.040 --> 14:51.040
+ and look up some of the descriptions of this
+
+14:51.040 --> 14:52.480
+ if you'd like to learn more.
+
+14:52.480 --> 14:54.640
+ So indeed, there's some evidence
+
+14:54.640 --> 14:56.760
+ that the neurons responsible for smell
+
+14:56.760 --> 14:58.660
+ can be replaced throughout the lifespan,
+
+14:58.660 --> 15:00.820
+ certainly in very young individuals
+
+15:00.820 --> 15:03.220
+ from birth till about age 15 or so.
+
+15:04.420 --> 15:05.920
+ Whether or not there are new neurons
+
+15:05.920 --> 15:07.140
+ added to the hippocampus,
+
+15:07.140 --> 15:09.700
+ the memory center of the human brain, isn't clear.
+
+15:09.700 --> 15:12.980
+ Many years ago, Rusty Gage's lab at the Salk Institute
+
+15:12.980 --> 15:14.500
+ did a really important study
+
+15:14.500 --> 15:17.340
+ looking at terminally ill cancer patients
+
+15:17.340 --> 15:20.900
+ and injecting them with a label, a dye,
+
+15:20.900 --> 15:23.980
+ that is incorporated only into new neurons.
+
+15:23.980 --> 15:25.900
+ And after these patients died,
+
+15:25.900 --> 15:27.460
+ their brains were harvested,
+
+15:27.460 --> 15:28.580
+ the brains were looked at,
+
+15:28.580 --> 15:31.220
+ and there were new neurons there.
+
+15:31.220 --> 15:33.500
+ There was evidence for new neurons.
+
+15:33.500 --> 15:36.520
+ Those results, I think, stand over time.
+
+15:36.520 --> 15:39.480
+ But what was not really discussed
+
+15:39.480 --> 15:42.220
+ in the popular press discussion around those papers
+
+15:42.220 --> 15:45.700
+ was that it was very few cells that were being added.
+
+15:45.700 --> 15:48.740
+ And a number of papers have come along over the years,
+
+15:48.740 --> 15:50.500
+ mainly from labs at UCSF,
+
+15:50.500 --> 15:52.460
+ although from others as well,
+
+15:52.460 --> 15:54.540
+ showing that if there are new neurons
+
+15:54.540 --> 15:56.380
+ added to the adult brain,
+
+15:56.380 --> 16:00.700
+ it's an infinitesimally small number of new neurons.
+
+16:00.700 --> 16:01.700
+ So that's the depressing part.
+
+16:01.700 --> 16:02.860
+ We don't get new neurons.
+
+16:02.860 --> 16:05.140
+ After we're born, we pretty much have the neurons
+
+16:05.140 --> 16:06.400
+ that we're going to use our entire life.
+
+16:06.400 --> 16:07.860
+ And yes, as we get older
+
+16:07.860 --> 16:10.440
+ and we start to lose certain functions in our brain,
+
+16:10.440 --> 16:11.980
+ we lose neurons.
+
+16:11.980 --> 16:15.360
+ But all is not lost, so to speak,
+
+16:15.360 --> 16:18.860
+ because there are other ways in which neural circuits
+
+16:18.860 --> 16:21.880
+ can create new connections and add new functions,
+
+16:21.880 --> 16:24.180
+ including new memory, new abilities,
+
+16:24.180 --> 16:26.320
+ and new cognitive functions.
+
+16:27.180 --> 16:29.580
+ And those are mainly through the process
+
+16:29.580 --> 16:31.700
+ of making certain connections,
+
+16:31.700 --> 16:34.500
+ which of course are those things we call synapses
+
+16:34.500 --> 16:37.300
+ between neurons, making those connections stronger
+
+16:37.300 --> 16:40.580
+ so they're more reliable, they're more likely to engage,
+
+16:40.580 --> 16:42.880
+ as well as removing connections.
+
+16:42.880 --> 16:44.980
+ And the removal of connections is vital
+
+16:44.980 --> 16:47.620
+ to say, moving through a grieving process
+
+16:47.620 --> 16:52.180
+ or removing the emotional load of a traumatic experience.
+
+16:52.180 --> 16:54.340
+ So even though we can't add new neurons
+
+16:54.340 --> 16:56.040
+ throughout our lifespan,
+
+16:56.040 --> 16:59.160
+ at least not in very great numbers,
+
+16:59.160 --> 17:01.580
+ it's clear that we can change our nervous system,
+
+17:01.580 --> 17:04.580
+ that the nervous system is available for change,
+
+17:04.580 --> 17:07.280
+ that if we create the right set of circumstances
+
+17:07.280 --> 17:09.800
+ in our brain, chemical circumstances,
+
+17:09.800 --> 17:12.860
+ and if we create the right environmental circumstances
+
+17:12.860 --> 17:15.940
+ around us, our nervous system will shift into a mode
+
+17:15.940 --> 17:20.100
+ in which change isn't just possible, but it's probable.
+
+17:20.100 --> 17:21.740
+ As I mentioned before,
+
+17:21.740 --> 17:25.080
+ the hallmark of the child nervous system is change.
+
+17:25.080 --> 17:26.860
+ It wants to change.
+
+17:26.860 --> 17:29.160
+ The whole thing, everything from the chemicals
+
+17:29.160 --> 17:31.620
+ that are sloshing around in there
+
+17:31.620 --> 17:34.500
+ to the fact that there's a lot of space between the neurons,
+
+17:34.500 --> 17:35.320
+ a lot of people don't know this,
+
+17:35.320 --> 17:36.160
+ but early in development,
+
+17:36.160 --> 17:37.500
+ there's a lot of space between the neurons,
+
+17:37.500 --> 17:39.260
+ and so the neurons can literally move around
+
+17:39.260 --> 17:41.300
+ and sample different connections very easily,
+
+17:41.300 --> 17:43.140
+ removing some and keeping others.
+
+17:43.140 --> 17:46.520
+ As we get older, the so-called extracellular space
+
+17:46.520 --> 17:50.700
+ is actually filled up by things called extracellular matrix
+
+17:50.700 --> 17:52.740
+ and glial cells, glia means glue.
+
+17:52.740 --> 17:55.000
+ Those cells are involved in a bunch of different processes,
+
+17:55.000 --> 17:57.140
+ but they start to fill in all the space,
+
+17:57.140 --> 17:59.620
+ kind of like pouring concrete between rocks,
+
+17:59.620 --> 18:00.980
+ and when that happens,
+
+18:00.980 --> 18:03.700
+ it becomes much harder to change the connections
+
+18:03.700 --> 18:05.080
+ that are there.
+
+18:05.080 --> 18:08.540
+ One of the ways in which we can all get plasticity
+
+18:08.540 --> 18:10.820
+ at any stage throughout the lifespan
+
+18:10.820 --> 18:12.780
+ is through deficits and impairments
+
+18:12.780 --> 18:14.980
+ in what we call our sensory apparatus,
+
+18:14.980 --> 18:17.500
+ our eyes, our ears, our nose, our mouth,
+
+18:17.500 --> 18:19.120
+ and there are some very dramatic
+
+18:19.120 --> 18:22.300
+ and somewhat tragic examples of people, for instance,
+
+18:22.300 --> 18:24.380
+ who have genetic mutations where they are born
+
+18:24.380 --> 18:27.740
+ without a nose and without any olfactory structures
+
+18:27.740 --> 18:30.300
+ in the brain, so they cannot smell.
+
+18:30.300 --> 18:31.900
+ In that case, areas of the brain
+
+18:31.900 --> 18:33.960
+ that normally would represent smell
+
+18:33.960 --> 18:37.260
+ become overtaken by areas of the brain
+
+18:37.260 --> 18:41.200
+ involved in other things like touch and hearing and sight.
+
+18:41.200 --> 18:43.600
+ In individuals that are blind from birth,
+
+18:43.600 --> 18:45.360
+ the so-called occipital cortex,
+
+18:45.360 --> 18:47.140
+ the visual cortex in the back,
+
+18:47.140 --> 18:50.960
+ becomes overtaken by hearing.
+
+18:50.960 --> 18:53.640
+ The neurons there will start to respond to sounds
+
+18:53.640 --> 18:54.980
+ as well as braille touch,
+
+18:54.980 --> 18:57.880
+ and actually there's one particularly tragic incident
+
+18:57.880 --> 19:01.120
+ where a woman who was blind since birth,
+
+19:01.120 --> 19:03.660
+ and because of neuroimaging studies,
+
+19:03.660 --> 19:06.500
+ we knew her visual cortex was no longer visual.
+
+19:06.500 --> 19:09.840
+ It was responsible for braille reading and for hearing.
+
+19:09.840 --> 19:11.860
+ She had a stroke that actually took out
+
+19:11.860 --> 19:14.140
+ most of the function of her visual cortex,
+
+19:14.140 --> 19:17.180
+ so then she was blind, she couldn't braille read or hear.
+
+19:17.180 --> 19:19.620
+ She did recover some aspect of function.
+
+19:19.620 --> 19:20.860
+ Now, most people, they don't end up
+
+19:20.860 --> 19:22.940
+ in that highly unfortunate situation,
+
+19:22.940 --> 19:25.260
+ and what we know is that, for instance,
+
+19:25.260 --> 19:28.760
+ blind people who use their visual cortex
+
+19:28.760 --> 19:30.840
+ for braille reading and for hearing
+
+19:30.840 --> 19:35.340
+ have much better auditory acuity and touch acuity,
+
+19:35.340 --> 19:37.340
+ meaning they can sense things with their fingers
+
+19:37.340 --> 19:39.140
+ and they can sense things with their hearing
+
+19:39.140 --> 19:42.380
+ that typical sighted folks wouldn't be able to.
+
+19:42.380 --> 19:46.180
+ In fact, you will find a much greater incidence
+
+19:46.180 --> 19:50.300
+ of perfect pitch in people that are blind,
+
+19:50.300 --> 19:52.380
+ and that tells us that the brain,
+
+19:52.380 --> 19:54.560
+ and in particular this area we call the neocortex,
+
+19:54.560 --> 19:55.900
+ which is the outer part,
+
+19:55.900 --> 19:57.780
+ is really designed to be a map
+
+19:57.780 --> 20:00.020
+ of our own individual experience.
+
+20:00.020 --> 20:04.100
+ So these, what I call experiments of impairment or loss
+
+20:04.100 --> 20:06.920
+ where somebody is blind from birth or deaf from birth,
+
+20:06.920 --> 20:11.920
+ or maybe has a limb development impairment
+
+20:12.200 --> 20:14.480
+ where they have a stump instead of an entire limb
+
+20:14.480 --> 20:16.360
+ with a functioning hand,
+
+20:16.360 --> 20:21.060
+ their brain will represent the body plan that they have,
+
+20:21.060 --> 20:23.060
+ not some other body plan.
+
+20:23.060 --> 20:26.020
+ But the beauty of the situation is that the real estate
+
+20:26.020 --> 20:28.980
+ up in the skull, that neocortex,
+
+20:28.980 --> 20:33.300
+ the essence of it is to be a customized map of experience.
+
+20:33.300 --> 20:35.340
+ Now, it is true, however,
+
+20:35.340 --> 20:40.220
+ that if let's say I were to be blind when I'm 50,
+
+20:40.220 --> 20:42.420
+ I'm 45 right now, I've always been sighted.
+
+20:43.380 --> 20:45.500
+ If I was blind at 50,
+
+20:45.500 --> 20:48.420
+ I'll probably have less opportunity
+
+20:48.420 --> 20:51.580
+ to use my formerly visual cortex
+
+20:51.580 --> 20:53.700
+ for things like braille reading and hearing,
+
+20:53.700 --> 20:55.120
+ because my brain has changed.
+
+20:55.120 --> 20:57.800
+ It's just not the same brain I had when I was a baby.
+
+20:57.800 --> 21:00.020
+ So there's actually a principle of biology.
+
+21:00.020 --> 21:01.140
+ Not many people know this.
+
+21:01.140 --> 21:03.140
+ It's actually a principle of neurology,
+
+21:03.140 --> 21:05.140
+ which is called the Kennard principle,
+
+21:05.140 --> 21:07.980
+ which says if you're going to have a brain injury,
+
+21:07.980 --> 21:10.000
+ you wanna have it early in life.
+
+21:10.000 --> 21:12.240
+ And of course, better to not have a brain injury at all,
+
+21:12.240 --> 21:13.320
+ but if you're going to have it,
+
+21:13.320 --> 21:14.860
+ you wanna have it early in life.
+
+21:14.860 --> 21:17.620
+ And this is based on a tremendous number of experiments
+
+21:17.620 --> 21:20.380
+ examining the amount of recovery
+
+21:20.380 --> 21:22.800
+ and the rate of recovery in humans
+
+21:22.800 --> 21:24.500
+ that had lesions to their brain
+
+21:24.500 --> 21:26.300
+ either early in life or later in life.
+
+21:26.300 --> 21:27.540
+ So the Kennard principle says
+
+21:27.540 --> 21:29.800
+ better to have injuries early in life.
+
+21:29.800 --> 21:32.060
+ Now, that's reassuring for the young folks.
+
+21:32.060 --> 21:34.400
+ It's not so reassuring for the older folks.
+
+21:34.400 --> 21:37.060
+ But there are aspects of neuroplasticity
+
+21:37.060 --> 21:38.860
+ that have nothing to do with impairments.
+
+21:38.860 --> 21:40.260
+ I mean, earlier I said,
+
+21:40.260 --> 21:42.580
+ we're all walking around with this map,
+
+21:42.580 --> 21:44.760
+ this representation of the world around us
+
+21:44.760 --> 21:47.600
+ so we can see edges, we can see colors,
+
+21:47.600 --> 21:50.680
+ except for folks that are colorblind, of course.
+
+21:50.680 --> 21:53.580
+ And we also have a map of emotional experience.
+
+21:53.580 --> 21:54.880
+ We have a map of whether or not
+
+21:54.880 --> 21:56.560
+ certain people are trustworthy,
+
+21:56.560 --> 21:57.620
+ certain people aren't trustworthy.
+
+21:57.620 --> 22:01.860
+ A few years ago, I was at a course
+
+22:01.860 --> 22:03.320
+ and a woman came up to me and she said,
+
+22:03.320 --> 22:07.120
+ I wasn't teaching the course, I was in the course.
+
+22:07.120 --> 22:08.460
+ And she said, I just have to tell you
+
+22:08.460 --> 22:11.780
+ that every time you speak, it really stresses me out.
+
+22:11.780 --> 22:13.980
+ And I said, well, I've heard that before,
+
+22:13.980 --> 22:16.140
+ but do you want to be more specific?
+
+22:16.140 --> 22:18.320
+ And she said, yeah, your tone of voice reminds me
+
+22:18.320 --> 22:21.780
+ of somebody that I had a really terrible experience with.
+
+22:21.780 --> 22:23.460
+ I said, well, okay, well, I can't change my voice
+
+22:23.460 --> 22:25.800
+ but I really appreciate that you acknowledge that
+
+22:25.800 --> 22:27.860
+ and it also will help explain
+
+22:27.860 --> 22:30.380
+ why you seem to cringe every time I speak,
+
+22:30.380 --> 22:31.600
+ which I hadn't noticed until then.
+
+22:31.600 --> 22:34.540
+ But after that, I did notice she had a very immediate
+
+22:34.540 --> 22:36.200
+ and kind of visceral response to my speech.
+
+22:36.200 --> 22:38.380
+ Perhaps some of you are having that right now.
+
+22:38.380 --> 22:42.480
+ But in any event, over the period of this two-week course,
+
+22:42.480 --> 22:44.560
+ she would come back every once in a while and say,
+
+22:44.560 --> 22:46.660
+ you know what, I think just by telling you
+
+22:46.660 --> 22:49.700
+ that your voice was really difficult for me to listen to,
+
+22:49.700 --> 22:51.660
+ it's actually becoming more tolerable to me.
+
+22:51.660 --> 22:53.560
+ And by the end, we actually became pretty good friends
+
+22:53.560 --> 22:54.700
+ and we're still in touch.
+
+22:54.700 --> 22:59.120
+ And so what this says is that the recognition of something,
+
+22:59.120 --> 23:00.720
+ whether or not that's an emotional thing
+
+23:00.720 --> 23:02.840
+ or a desire to learn something else
+
+23:02.840 --> 23:05.600
+ is actually the first step in neuroplasticity.
+
+23:05.600 --> 23:07.660
+ And that's because our nervous system
+
+23:07.660 --> 23:10.000
+ has two broad sets of functions.
+
+23:10.000 --> 23:12.400
+ Some of those functions are reflexive.
+
+23:12.400 --> 23:15.840
+ Things like our breathing, our heart rate are obvious ones.
+
+23:15.840 --> 23:19.400
+ But other aspects are reflexive like our ability to walk.
+
+23:19.400 --> 23:21.560
+ If I get up out of this chair and walk out of the door,
+
+23:21.560 --> 23:23.360
+ I don't think about each step that I'm taking
+
+23:23.360 --> 23:25.960
+ and that's because I learned how to walk during development.
+
+23:25.960 --> 23:28.120
+ But when we decide that we're going to shift
+
+23:28.120 --> 23:31.220
+ some sort of behavior or some reaction
+
+23:31.220 --> 23:34.620
+ or some new piece of information that we want to learn
+
+23:34.620 --> 23:37.140
+ is something that we want to bring into our consciousness,
+
+23:37.140 --> 23:40.120
+ that awareness is a remarkable thing
+
+23:40.120 --> 23:44.480
+ because it cues the brain and the rest of the nervous system
+
+23:44.480 --> 23:46.960
+ that when we engage in those reflexive actions
+
+23:46.960 --> 23:49.600
+ going forward, that those reflexive actions
+
+23:49.600 --> 23:53.000
+ are no longer fated to be reflexive.
+
+23:53.000 --> 23:54.360
+ Now, if this sounds a little bit abstract,
+
+23:54.360 --> 23:56.600
+ we're going to talk about protocols for how to do this.
+
+23:56.600 --> 23:59.000
+ But the first step in neuroplasticity
+
+23:59.000 --> 24:01.580
+ is recognizing that you want to change something.
+
+24:01.580 --> 24:03.040
+ And you should immediately say,
+
+24:03.040 --> 24:05.160
+ well, kids don't go into school and say,
+
+24:05.160 --> 24:06.620
+ oh, I want to learn language
+
+24:06.620 --> 24:08.320
+ or I want to learn social interactions.
+
+24:08.320 --> 24:09.840
+ And that's the beauty of childhood.
+
+24:09.840 --> 24:12.280
+ The whole brain has this switch flipped
+
+24:12.280 --> 24:14.040
+ that is making change possible.
+
+24:14.040 --> 24:16.620
+ But after that, we have to be deliberate.
+
+24:16.620 --> 24:20.720
+ We have to know what it is exactly that we want to change.
+
+24:20.720 --> 24:23.260
+ Or if we don't know exactly what it is
+
+24:23.260 --> 24:24.440
+ that we want to change,
+
+24:24.440 --> 24:26.760
+ we at least have to know that we want to change something
+
+24:26.760 --> 24:28.520
+ about some specific experience.
+
+24:28.520 --> 24:31.080
+ In this case, I believe that she came and told me
+
+24:31.080 --> 24:33.640
+ that my voice was really awful for her to listen to,
+
+24:33.640 --> 24:36.720
+ not to make me feel bad or for any other reason,
+
+24:36.720 --> 24:40.040
+ except that she wanted it to not be the case.
+
+24:40.040 --> 24:41.960
+ And she knew I wasn't going to stop talking.
+
+24:41.960 --> 24:43.720
+ So she decided to call it
+
+24:43.720 --> 24:45.940
+ to her consciousness and mine as well.
+
+24:45.940 --> 24:47.400
+ So that's important.
+
+24:47.400 --> 24:48.640
+ If you want to learn something
+
+24:48.640 --> 24:51.360
+ or you want to change your nervous system in any way,
+
+24:51.360 --> 24:53.460
+ whether or not it's because of some impairment
+
+24:53.460 --> 24:56.480
+ or because of something that you want to acquire,
+
+24:56.480 --> 25:00.480
+ a cognitive skill, a motor skill, an emotional skill,
+
+25:00.480 --> 25:03.760
+ the first thing is recognizing what that thing is.
+
+25:03.760 --> 25:06.480
+ And that often can be the hardest thing to identify.
+
+25:06.480 --> 25:09.420
+ But the brain has these self-recognition mechanisms.
+
+25:09.420 --> 25:11.640
+ And those self-recognition mechanisms
+
+25:11.640 --> 25:16.320
+ are not vague, spiritual, or mystical,
+
+25:16.320 --> 25:18.540
+ or even psychological concepts.
+
+25:18.540 --> 25:20.800
+ They are neurochemicals.
+
+25:20.800 --> 25:23.320
+ We're going to talk next about the neurochemicals
+
+25:23.320 --> 25:26.380
+ that stamp down particular behaviors
+
+25:26.380 --> 25:28.400
+ and thoughts and emotional patterns
+
+25:28.400 --> 25:30.500
+ and tell the rest of the nervous system,
+
+25:30.500 --> 25:32.760
+ this is something to pay attention to
+
+25:32.760 --> 25:35.080
+ because this is in the direction
+
+25:35.080 --> 25:36.860
+ of the change that I want to make.
+
+25:36.860 --> 25:37.700
+ So I'll repeat that.
+
+25:37.700 --> 25:39.560
+ There are specific chemicals
+
+25:39.560 --> 25:41.520
+ that when we are consciously aware
+
+25:41.520 --> 25:43.000
+ of a change we want to make,
+
+25:43.000 --> 25:45.880
+ or even just that we want to make some change,
+
+25:45.880 --> 25:48.080
+ chemicals are released in the brain
+
+25:48.080 --> 25:51.480
+ that allow us the opportunity to make those changes.
+
+25:51.480 --> 25:53.740
+ Now there are specific protocols that science tells us
+
+25:53.740 --> 25:56.800
+ we have to follow if we want those changes to occur.
+
+25:56.800 --> 26:01.800
+ But that self-recognition is not a kind of murky concept.
+
+26:02.240 --> 26:04.420
+ What it is is it's our forebrain,
+
+26:04.420 --> 26:06.320
+ in particular our prefrontal cortex,
+
+26:06.320 --> 26:09.480
+ signaling the rest of our nervous system
+
+26:09.480 --> 26:11.800
+ that something that we're about to do here,
+
+26:11.800 --> 26:15.320
+ feel, or experience is worth paying attention to.
+
+26:15.320 --> 26:17.540
+ So we'll pause there and then I'm going to move forward.
+
+26:17.540 --> 26:20.060
+ One of the biggest lies in the universe
+
+26:20.060 --> 26:22.240
+ that seems quite prominent right now
+
+26:22.240 --> 26:26.120
+ is that every experience you have changes your brain.
+
+26:26.120 --> 26:27.300
+ People love to say this.
+
+26:27.300 --> 26:28.280
+ They love to say,
+
+26:28.280 --> 26:30.400
+ your brain is going to be different after this lecture
+
+26:30.400 --> 26:31.620
+ or that your brain is going to be different
+
+26:31.620 --> 26:33.840
+ after today's class than it was two days ago.
+
+26:33.840 --> 26:36.200
+ And that's absolutely not true.
+
+26:36.200 --> 26:38.440
+ The nervous system doesn't just change
+
+26:38.440 --> 26:39.640
+ because you experienced something
+
+26:39.640 --> 26:42.140
+ unless you're a very young child.
+
+26:43.260 --> 26:44.880
+ The nervous system changes
+
+26:44.880 --> 26:47.880
+ when certain neurochemicals are released
+
+26:47.880 --> 26:50.600
+ and allow whatever neurons are active
+
+26:50.600 --> 26:54.000
+ in the period in which those chemicals are swimming around
+
+26:54.880 --> 26:59.160
+ to strengthen or weaken the connections of those neurons.
+
+26:59.160 --> 27:00.940
+ Now, this is best illustrated
+
+27:00.940 --> 27:03.720
+ through a little bit of scientific history.
+
+27:03.720 --> 27:06.240
+ The whole basis of neuroplasticity
+
+27:06.240 --> 27:08.720
+ is essentially ascribed to two individuals,
+
+27:08.720 --> 27:09.920
+ although there were a lot more people
+
+27:09.920 --> 27:11.000
+ that were involved in this work.
+
+27:11.000 --> 27:12.880
+ Those two individuals go by the name
+
+27:12.880 --> 27:15.940
+ David Hubel and Torsten Wiesel.
+
+27:15.940 --> 27:18.800
+ David Hubel and Torsten Wiesel started off at Johns Hopkins,
+
+27:18.800 --> 27:20.800
+ moved to Harvard Medical School.
+
+27:20.800 --> 27:22.320
+ And in the 70s and 80s,
+
+27:22.320 --> 27:24.160
+ they did a series of experiments
+
+27:24.160 --> 27:27.800
+ recording electrical activity in the brain.
+
+27:28.960 --> 27:30.840
+ They were in the visual cortex,
+
+27:30.840 --> 27:33.880
+ meaning they put the electrodes in the visual cortex,
+
+27:33.880 --> 27:35.880
+ and they were exploring how vision works
+
+27:35.880 --> 27:37.960
+ and how the visual brain organizes
+
+27:37.960 --> 27:39.160
+ all the features of the visual world
+
+27:39.160 --> 27:40.720
+ to give us these incredible things
+
+27:40.720 --> 27:42.520
+ we call visual perceptions.
+
+27:42.520 --> 27:46.600
+ But Hubel was a physician,
+
+27:46.600 --> 27:50.040
+ and he was very interested in what happens
+
+27:50.040 --> 27:52.120
+ when, for instance, a child comes into the world
+
+27:52.120 --> 27:53.640
+ and they have a cataract.
+
+27:53.640 --> 27:56.980
+ The lens of their eye isn't clear, but it's opaque.
+
+27:56.980 --> 27:59.400
+ Or when a kid has a lazy eye
+
+27:59.400 --> 28:01.240
+ or the eyes have what's called strabismus,
+
+28:01.240 --> 28:04.240
+ which is when the eyes either deviate outward or inward.
+
+28:05.120 --> 28:07.200
+ These are very common things of childhood,
+
+28:07.200 --> 28:09.640
+ especially in particular areas of the world.
+
+28:09.640 --> 28:11.740
+ And what David and Torsten did
+
+28:11.740 --> 28:16.040
+ is they figured out that there was a critical period
+
+28:16.040 --> 28:20.080
+ in which if clear vision did not occur,
+
+28:20.080 --> 28:24.520
+ the visual brain would completely rewire itself
+
+28:24.520 --> 28:25.800
+ basically to represent
+
+28:25.800 --> 28:28.840
+ whatever bit of visual information was coming in.
+
+28:28.840 --> 28:30.560
+ So they did these experiments
+
+28:30.560 --> 28:34.360
+ that kind of simulate a droopy eye or a deviating eye
+
+28:34.360 --> 28:35.680
+ where they would close one eyelid.
+
+28:35.680 --> 28:37.700
+ And then what they found is that the visual brain
+
+28:37.700 --> 28:39.760
+ would respond entirely to the open eye.
+
+28:39.760 --> 28:42.100
+ It was sort of a takeover of the visual brain
+
+28:42.100 --> 28:44.180
+ representing the open eye.
+
+28:45.560 --> 28:48.240
+ Many experiments in many different sensory systems
+
+28:48.240 --> 28:49.560
+ followed up on this.
+
+28:49.560 --> 28:51.600
+ There are beautiful experiments, for instance,
+
+28:51.600 --> 28:54.520
+ from Greg Reckenzone's lab up at UC Davis
+
+28:54.520 --> 28:57.040
+ and Mike Merzenich's labs at UCSF
+
+28:57.040 --> 28:58.440
+ showing that, for instance,
+
+28:58.440 --> 29:01.840
+ if two fingers were taped together early in development,
+
+29:01.840 --> 29:03.560
+ so they weren't moving independently,
+
+29:03.560 --> 29:05.180
+ the representation of those two fingers
+
+29:05.180 --> 29:06.680
+ would become fused in the brain
+
+29:06.680 --> 29:09.660
+ so that the person couldn't actually distinguish
+
+29:09.660 --> 29:11.000
+ the movements and the sensations
+
+29:11.000 --> 29:12.280
+ of the two fingers separately.
+
+29:12.280 --> 29:14.200
+ Pretty remarkable.
+
+29:14.200 --> 29:18.540
+ All of this is to say that David and Torsten's work,
+
+29:18.540 --> 29:20.440
+ for which they won a Nobel Prize,
+
+29:20.440 --> 29:22.080
+ they shared it with Roger Sperry,
+
+29:23.160 --> 29:26.560
+ their work showed that the brain is in fact
+
+29:26.560 --> 29:28.440
+ a customized map of the outside world.
+
+29:28.440 --> 29:29.780
+ We said that already.
+
+29:29.780 --> 29:32.240
+ But that what it's doing is it's measuring
+
+29:32.240 --> 29:35.800
+ the amount of activity for a given part of our body,
+
+29:35.800 --> 29:37.200
+ one eye or the other,
+
+29:37.200 --> 29:39.240
+ or our fingers, this finger or that finger,
+
+29:39.240 --> 29:41.800
+ and all of those inputs are competing
+
+29:41.800 --> 29:43.880
+ for space in the brain.
+
+29:43.880 --> 29:45.800
+ Now, this is fundamentally important
+
+29:45.800 --> 29:47.660
+ because what it means is that
+
+29:47.660 --> 29:51.040
+ if we are to change our nervous system in adulthood,
+
+29:51.040 --> 29:54.780
+ we need to think about not just what we're trying to get,
+
+29:54.780 --> 29:56.080
+ but what we're trying to give up.
+
+29:56.080 --> 29:58.280
+ We can't actually add new connections
+
+29:58.280 --> 30:00.600
+ without removing something else.
+
+30:00.600 --> 30:02.100
+ And that might seem like kind of a stinger,
+
+30:02.100 --> 30:04.600
+ but it actually turns out to be a great advantage.
+
+30:05.640 --> 30:08.980
+ One of the key experiments that David and Torsten did
+
+30:08.980 --> 30:11.720
+ was an experiment where they closed both eyes,
+
+30:11.720 --> 30:14.840
+ where they essentially removed all visual input
+
+30:14.840 --> 30:16.080
+ early in development.
+
+30:16.080 --> 30:17.640
+ Now, this is slightly different than blindness
+
+30:17.640 --> 30:18.780
+ because it was transient,
+
+30:18.780 --> 30:20.560
+ it was only for a short period of time.
+
+30:20.560 --> 30:22.480
+ But what they found is when they did that,
+
+30:22.480 --> 30:23.760
+ there was no change.
+
+30:23.760 --> 30:26.240
+ However, if they closed just one eye,
+
+30:26.240 --> 30:28.020
+ there was a huge change.
+
+30:28.020 --> 30:29.440
+ So when people tell you,
+
+30:29.440 --> 30:31.240
+ oh, at the end of today's lecture,
+
+30:31.240 --> 30:32.580
+ or at the end of something,
+
+30:32.580 --> 30:34.720
+ your brain is going to be completely different,
+
+30:34.720 --> 30:35.760
+ that's simply not true.
+
+30:35.760 --> 30:37.120
+ If you're older than 25,
+
+30:37.120 --> 30:39.000
+ your brain will not change
+
+30:39.000 --> 30:42.580
+ unless there's a selective shift in your attention
+
+30:42.580 --> 30:45.320
+ or a selective shift in your experience
+
+30:45.320 --> 30:49.080
+ that tells the brain it's time to change.
+
+30:49.080 --> 30:51.840
+ And those changes occur through the ways I talked about
+
+30:51.840 --> 30:54.420
+ before strengthening and weakening of particular connections.
+
+30:54.420 --> 30:56.180
+ They have names like long-term potentiation,
+
+30:56.180 --> 30:57.040
+ long-term depression,
+
+30:57.040 --> 30:58.720
+ which has nothing to do with emotional depression,
+
+30:58.720 --> 31:00.960
+ by the way, spike timing dependent plasticity.
+
+31:00.960 --> 31:03.380
+ I threw out those names not to confuse you,
+
+31:03.380 --> 31:05.040
+ but for those of you that would like
+
+31:05.040 --> 31:07.320
+ more in-depth exploration of those,
+
+31:07.320 --> 31:09.640
+ please, you can go Google those and look them up.
+
+31:09.640 --> 31:11.160
+ There are great Wikipedia pages for them
+
+31:11.160 --> 31:12.520
+ and you can go down the paper trail.
+
+31:12.520 --> 31:15.200
+ I might even touch on them in some subsequent episodes.
+
+31:15.200 --> 31:17.280
+ But the important thing to understand
+
+31:17.280 --> 31:19.600
+ is that if we want something to change,
+
+31:19.600 --> 31:22.920
+ we really need to bring an immense amount of attention
+
+31:22.920 --> 31:25.080
+ to whatever it is that we want to change.
+
+31:25.080 --> 31:27.560
+ This is very much linked to the statement I made earlier
+
+31:27.560 --> 31:30.600
+ about it all starts with an awareness.
+
+31:30.600 --> 31:33.120
+ Now, why is that attention important?
+
+31:33.120 --> 31:36.320
+ Well, David and Torrenston won their Nobel Prize
+
+31:36.320 --> 31:37.200
+ and they certainly deserved it.
+
+31:37.200 --> 31:38.080
+ They probably deserve two
+
+31:38.080 --> 31:39.700
+ because they also figured out how vision works.
+
+31:39.700 --> 31:40.880
+ And I might be biased
+
+31:40.880 --> 31:42.400
+ because they're my scientific great-grandparents,
+
+31:42.400 --> 31:45.360
+ but I think everybody in the field of neuroscience agrees
+
+31:45.360 --> 31:49.240
+ that Hubel and Wiesel, as they're called,
+
+31:49.240 --> 31:51.640
+ H and W for those in the game,
+
+31:51.640 --> 31:54.160
+ absolutely deserved a Nobel Prize for their work
+
+31:54.160 --> 31:56.680
+ because they really unveiled the mechanisms
+
+31:56.680 --> 31:59.060
+ of brain change, of plasticity.
+
+31:59.060 --> 32:00.440
+ David passed away a few years ago.
+
+32:00.440 --> 32:01.360
+ Torrenston's still alive.
+
+32:01.360 --> 32:02.560
+ He's in his late 90s.
+
+32:02.560 --> 32:04.160
+ He's still at the Rockefeller University.
+
+32:04.160 --> 32:05.320
+ He's sharp as a tack.
+
+32:05.320 --> 32:07.440
+ He still jogs several miles a day.
+
+32:07.440 --> 32:09.840
+ He's really into art and a number of other things.
+
+32:09.840 --> 32:11.080
+ He's also a super nice guy.
+
+32:11.080 --> 32:12.520
+ Hubel was a really nice guy as well.
+
+32:12.520 --> 32:14.720
+ It's also, he was a great Frisbee player, I discovered,
+
+32:14.720 --> 32:16.100
+ because he beat me in a game of ultimate
+
+32:16.100 --> 32:17.740
+ when he was like 80,
+
+32:17.740 --> 32:20.080
+ which still has me a little bit irked.
+
+32:20.080 --> 32:24.160
+ But anyway, Hubel and Wiesel did an amazing thing
+
+32:24.160 --> 32:26.620
+ for science that will forever change the way
+
+32:26.620 --> 32:28.300
+ that we think about the brain.
+
+32:28.300 --> 32:30.680
+ However, they were quite wrong
+
+32:30.680 --> 32:32.720
+ about this critical period thing.
+
+32:32.720 --> 32:34.960
+ The critical period was this idea
+
+32:34.960 --> 32:38.400
+ that if you were to deprive the nervous system of an input,
+
+32:38.400 --> 32:41.320
+ say closing one eye early in development
+
+32:41.320 --> 32:43.720
+ and the rest of the visual cortex is taken over
+
+32:43.720 --> 32:45.760
+ by the representation of the open eye,
+
+32:45.760 --> 32:47.920
+ that you could never change that
+
+32:47.920 --> 32:49.960
+ unless you intervened early.
+
+32:49.960 --> 32:51.280
+ And this actually formed the basis
+
+32:51.280 --> 32:55.160
+ for why a kid that has a lazy eye or a cataract,
+
+32:55.160 --> 32:56.860
+ why even though there are some issues
+
+32:56.860 --> 32:59.080
+ with anesthesia in young children,
+
+32:59.080 --> 33:01.720
+ why now we know that you want to get in there early
+
+33:01.720 --> 33:05.400
+ and fix the cataract or fix the strabismus,
+
+33:05.400 --> 33:07.640
+ that's what ophthalmologists do.
+
+33:07.640 --> 33:10.980
+ However, their idea that you had to do it early
+
+33:10.980 --> 33:12.720
+ or else there was no opportunity
+
+33:12.720 --> 33:16.600
+ to rescue the nervous system deficit later on,
+
+33:16.600 --> 33:19.120
+ turned out, wasn't entirely true.
+
+33:20.280 --> 33:22.700
+ In the early 90s, a graduate student
+
+33:22.700 --> 33:25.080
+ by the name of Greg Reconzone was in the laboratory
+
+33:25.080 --> 33:27.920
+ of a guy named Mike Merzenich at UCSF.
+
+33:27.920 --> 33:30.560
+ And they set out to test this idea
+
+33:30.560 --> 33:33.140
+ that if one wants to change their brain,
+
+33:33.140 --> 33:34.680
+ they need to do it early in life
+
+33:34.680 --> 33:37.100
+ because the adult brain simply isn't plastic,
+
+33:37.100 --> 33:39.720
+ it's not available for these changes.
+
+33:39.720 --> 33:43.280
+ And they did a series of absolutely beautiful experiments.
+
+33:44.360 --> 33:46.780
+ By now, I think we can say proving
+
+33:46.780 --> 33:49.280
+ that the adult brain can change
+
+33:49.280 --> 33:51.840
+ provided certain conditions are met.
+
+33:51.840 --> 33:55.200
+ Now, the experiments they did are tough.
+
+33:55.200 --> 33:56.480
+ They were tough on the experimenter
+
+33:56.480 --> 33:57.920
+ and they were tough on the subject.
+
+33:57.920 --> 33:59.200
+ I'll just describe one.
+
+34:00.060 --> 34:01.940
+ Let's say you were a subject in one of their experiments.
+
+34:01.940 --> 34:05.060
+ You would come into the lab and you'd sit down at a table
+
+34:05.060 --> 34:09.440
+ and they would record from or image your brain
+
+34:09.440 --> 34:11.600
+ and look at the representation of your fingers,
+
+34:11.600 --> 34:13.720
+ the digits as we call them.
+
+34:13.720 --> 34:15.400
+ And there would be a spinning drum,
+
+34:15.400 --> 34:19.360
+ literally like a stone drum in front of you
+
+34:19.360 --> 34:21.480
+ or metal drum that had little bumps.
+
+34:21.480 --> 34:23.480
+ Some of the bumps were spaced close together,
+
+34:23.480 --> 34:25.440
+ some of them were spaced far apart.
+
+34:25.440 --> 34:27.100
+ And they would do these experiments
+
+34:27.100 --> 34:29.280
+ where they would expect their subjects
+
+34:29.280 --> 34:32.560
+ to press a lever whenever, for instance,
+
+34:32.560 --> 34:35.080
+ the bumps got closer together or further apart.
+
+34:35.080 --> 34:36.880
+ And these were very subtle differences.
+
+34:36.880 --> 34:39.740
+ So in order to do this, you really have to pay attention
+
+34:39.740 --> 34:41.680
+ to the distance between the bumps.
+
+34:41.680 --> 34:44.700
+ And these were not braille readers or anyone skilled
+
+34:44.700 --> 34:47.180
+ in doing these kinds of experiments.
+
+34:47.180 --> 34:49.180
+ What they found was that as people paid
+
+34:49.180 --> 34:52.840
+ more and more attention to the distance between these bumps
+
+34:52.840 --> 34:54.320
+ and they would signal when there was a change
+
+34:54.320 --> 34:56.240
+ by pressing a lever.
+
+34:56.240 --> 34:58.920
+ As they did that, there was very rapid changes,
+
+34:58.920 --> 35:02.200
+ plasticity in the representation of the fingers.
+
+35:02.200 --> 35:03.780
+ And it could go in either direction.
+
+35:03.780 --> 35:06.380
+ You could get people very good at detecting the distance
+
+35:06.380 --> 35:09.360
+ between bumps that the distance was getting smaller
+
+35:09.360 --> 35:11.720
+ or the distance was getting greater.
+
+35:11.720 --> 35:13.560
+ So people could get very good at these tasks
+
+35:13.560 --> 35:15.120
+ that they're kind of hard to imagine
+
+35:15.120 --> 35:16.600
+ how they would translate to the real world
+
+35:16.600 --> 35:17.840
+ for a non braille reader.
+
+35:17.840 --> 35:21.220
+ But what it told us is that these maps of touch
+
+35:21.220 --> 35:23.660
+ were very much available for plasticity.
+
+35:23.660 --> 35:26.120
+ And these were fully adult subjects.
+
+35:26.120 --> 35:28.120
+ They're not taking any specific drugs.
+
+35:28.120 --> 35:30.680
+ They don't have any impairments that we're aware of.
+
+35:30.680 --> 35:32.720
+ And what it showed, what it proved
+
+35:32.720 --> 35:34.840
+ is that the adult brain is very plastic.
+
+35:34.840 --> 35:36.980
+ And they did some beautiful control experiments
+
+35:36.980 --> 35:39.040
+ that are important for everyone to understand,
+
+35:39.040 --> 35:40.680
+ which is that sometimes they would bring people in
+
+35:40.680 --> 35:43.480
+ and they would have them touch these bumps
+
+35:43.480 --> 35:45.120
+ on this spinning drum.
+
+35:45.120 --> 35:46.760
+ But they would have the person pay attention
+
+35:46.760 --> 35:48.000
+ to an auditory cue.
+
+35:48.000 --> 35:49.440
+ Every time a tone would go off
+
+35:49.440 --> 35:51.960
+ or there was a shift in the pitch of that tone,
+
+35:51.960 --> 35:53.240
+ they would have to signal that.
+
+35:53.240 --> 35:54.620
+ So the subject thought they were doing something
+
+35:54.620 --> 35:55.800
+ related to touch and hearing.
+
+35:55.800 --> 35:59.680
+ And all that showed was that it wasn't just the mere action
+
+35:59.680 --> 36:01.400
+ of touching these bumps.
+
+36:01.400 --> 36:03.680
+ They had to pay attention to the bumps themselves.
+
+36:03.680 --> 36:05.820
+ If they were placing their attention
+
+36:05.820 --> 36:08.880
+ on the auditory cue, on the tone,
+
+36:08.880 --> 36:10.400
+ well, then there was plasticity
+
+36:10.400 --> 36:12.320
+ in the auditory portion of the brain,
+
+36:12.320 --> 36:14.200
+ but not on the touch portion of the brain.
+
+36:14.200 --> 36:17.880
+ And this really spits in the face of this thing
+
+36:17.880 --> 36:20.640
+ that you hear so often, which is every experience
+
+36:20.640 --> 36:22.940
+ that you have is going to change the way your brain works.
+
+36:22.940 --> 36:24.220
+ Absolutely not.
+
+36:25.060 --> 36:29.660
+ The experiences that you pay super careful attention to
+
+36:29.660 --> 36:31.700
+ are what open up plasticity.
+
+36:31.700 --> 36:36.060
+ And it opens up plasticity to that specific experience.
+
+36:36.060 --> 36:38.800
+ So the question then is why?
+
+36:38.800 --> 36:41.200
+ And Merzenich and his graduate students and postdocs
+
+36:41.200 --> 36:43.560
+ went on to address this question of why.
+
+36:43.560 --> 36:45.440
+ And it turns out the answer
+
+36:45.440 --> 36:48.520
+ is a very straightforward neurochemical answer.
+
+36:48.520 --> 36:51.120
+ And inside of that answer is the opportunity
+
+36:51.120 --> 36:53.980
+ for any of us to change our brain at any point
+
+36:53.980 --> 36:55.180
+ throughout our lifespan,
+
+36:55.180 --> 36:57.520
+ essentially for anything that we want to learn.
+
+36:57.520 --> 37:00.380
+ That could be subtracting an emotion
+
+37:00.380 --> 37:02.080
+ from an experience we've had.
+
+37:02.080 --> 37:05.120
+ It could be building a greater range of emotion.
+
+37:05.120 --> 37:07.400
+ It could be learning new information
+
+37:07.400 --> 37:09.000
+ like learning a new language.
+
+37:09.000 --> 37:14.000
+ It could be learning new motor skill like dance or sport,
+
+37:14.020 --> 37:17.780
+ or it could be some combination of cognitive motor.
+
+37:17.780 --> 37:19.900
+ So for instance, an air traffic controller
+
+37:19.900 --> 37:21.120
+ has to do a lot with their mind
+
+37:21.120 --> 37:22.820
+ in addition to a lot with their hands.
+
+37:22.820 --> 37:24.380
+ So it's not just cognitive,
+
+37:24.380 --> 37:26.380
+ it's not just motor, but combined.
+
+37:26.380 --> 37:28.700
+ So we're going to talk about what that chemical is,
+
+37:28.700 --> 37:31.960
+ but to just give you an important hint,
+
+37:31.960 --> 37:35.700
+ that chemical is the same chemical of stress.
+
+37:35.700 --> 37:38.940
+ This is not a discussion about stress per se.
+
+37:38.940 --> 37:40.420
+ In a future podcast episode,
+
+37:40.420 --> 37:42.940
+ we'll talk all about stress and tools to deal with stress.
+
+37:42.940 --> 37:45.740
+ It's something my lab works on quite extensively.
+
+37:45.740 --> 37:48.300
+ And it's a topic that I enjoy discussing.
+
+37:48.300 --> 37:50.740
+ But this is a topic about brain change.
+
+37:50.740 --> 37:52.060
+ And what I just told you is that
+
+37:52.060 --> 37:53.260
+ in order to change the brain,
+
+37:53.260 --> 37:55.140
+ you have to pay careful attention.
+
+37:55.140 --> 37:59.080
+ And the immediate question should be, well, why?
+
+37:59.080 --> 38:02.640
+ Well, the answer is that when we pay careful attention,
+
+38:02.640 --> 38:04.380
+ there are two neurochemicals,
+
+38:04.380 --> 38:06.700
+ neuromodulators as they're called,
+
+38:06.700 --> 38:10.000
+ that are released from multiple sites in our brain
+
+38:10.000 --> 38:13.260
+ that highlight the neural circuits
+
+38:13.260 --> 38:16.420
+ that stand a chance of changing.
+
+38:16.420 --> 38:18.680
+ Now, it's not necessarily the case
+
+38:18.680 --> 38:19.740
+ that they're going to change,
+
+38:19.740 --> 38:21.820
+ but it's the first gate that has to open
+
+38:21.820 --> 38:23.340
+ in order for change to occur.
+
+38:23.340 --> 38:26.720
+ And the first neurochemical is epinephrine, also adrenaline.
+
+38:27.580 --> 38:29.240
+ We call it adrenaline when it's released
+
+38:29.240 --> 38:31.700
+ from the adrenal glands above our kidneys,
+
+38:31.700 --> 38:32.540
+ that's in the body.
+
+38:32.540 --> 38:33.980
+ We call it epinephrine in the brain,
+
+38:33.980 --> 38:36.760
+ but they are chemically identical substances.
+
+38:37.820 --> 38:41.060
+ Epinephrine is released from a region in the brainstem
+
+38:41.060 --> 38:42.960
+ called locus coeruleus.
+
+38:42.960 --> 38:46.460
+ Fancy name, you don't need to know it unless you want to.
+
+38:46.460 --> 38:51.460
+ Locus coeruleus sends out these little wires we call axons
+
+38:51.860 --> 38:55.980
+ such that it hoses the entire brain, essentially,
+
+38:55.980 --> 38:58.340
+ in this neurochemical epinephrine.
+
+38:58.340 --> 39:00.700
+ Now, it's not always hosing the brain with epinephrine.
+
+39:00.700 --> 39:03.460
+ It's only when we are in high states of alertness
+
+39:03.460 --> 39:05.420
+ that this epinephrine is released.
+
+39:05.420 --> 39:06.980
+ But the way this circuit is designed,
+
+39:06.980 --> 39:09.220
+ it's very nonspecific.
+
+39:09.220 --> 39:11.340
+ It's essentially waking up the entire brain.
+
+39:11.340 --> 39:13.400
+ That's because the way that epinephrine works
+
+39:13.400 --> 39:14.980
+ by binding particular receptors
+
+39:14.980 --> 39:19.220
+ is to increase the likelihood that neurons will be active.
+
+39:19.220 --> 39:23.160
+ So no alertness, no neuroplasticity.
+
+39:23.160 --> 39:26.580
+ However, alertness alone is not sufficient.
+
+39:26.580 --> 39:28.020
+ As we would say, it's necessary,
+
+39:28.020 --> 39:30.500
+ but not sufficient for neuroplasticity.
+
+39:31.660 --> 39:34.180
+ We know this is true also from the work of Hubel and Wiesel,
+
+39:34.180 --> 39:36.880
+ where they looked at brain plasticity
+
+39:36.880 --> 39:39.100
+ in response to certain experiences
+
+39:39.100 --> 39:42.900
+ in subjects that were either awake or asleep.
+
+39:42.900 --> 39:44.620
+ And I hate to break it to you,
+
+39:44.620 --> 39:47.900
+ but you cannot just simply listen to things in your sleep
+
+39:47.900 --> 39:50.220
+ and learn those materials.
+
+39:50.220 --> 39:52.040
+ Later, I'll talk about how you can do certain things
+
+39:52.040 --> 39:53.260
+ in your sleep that you're unaware of
+
+39:53.260 --> 39:54.980
+ that can enhance learning of things
+
+39:54.980 --> 39:57.800
+ that you were aware of while you were awake,
+
+39:57.800 --> 40:01.460
+ but that is not the same as just listening to some music
+
+40:01.460 --> 40:02.980
+ or listening to a tape while you sleep
+
+40:02.980 --> 40:06.560
+ and expecting it to sink in, so to speak.
+
+40:06.560 --> 40:10.160
+ Epinephrine is released when we pay attention
+
+40:10.160 --> 40:12.040
+ and when we are alert.
+
+40:12.040 --> 40:14.520
+ But the most important thing for getting plasticity
+
+40:14.520 --> 40:15.920
+ is that there'll be epinephrine,
+
+40:15.920 --> 40:17.900
+ which equates to alertness,
+
+40:17.900 --> 40:21.740
+ plus the release of this neuromodulator acetylcholine.
+
+40:21.740 --> 40:25.840
+ Now, acetylcholine is released from two sites in the brain.
+
+40:25.840 --> 40:28.320
+ One is also in the brainstem,
+
+40:28.320 --> 40:30.260
+ and it's named different things in different animals,
+
+40:30.260 --> 40:34.480
+ but in humans, the most rich site of acetylcholine neurons
+
+40:34.480 --> 40:36.280
+ or neurons that make acetylcholine
+
+40:36.280 --> 40:41.280
+ is the parabigeminal nucleus or the parabrachial region.
+
+40:41.280 --> 40:42.320
+ There are a number of different names
+
+40:42.320 --> 40:43.680
+ of these aggregates of neurons.
+
+40:43.680 --> 40:44.880
+ You don't need to know the names.
+
+40:44.880 --> 40:45.720
+ All you need to know is that
+
+40:45.720 --> 40:47.400
+ you have an area in your brainstem,
+
+40:47.400 --> 40:51.000
+ and that area sends wires, these axons,
+
+40:51.000 --> 40:55.160
+ up into the area of the brain that filters sensory input.
+
+40:55.160 --> 40:57.240
+ So we have this area of the brain called the thalamus,
+
+40:57.240 --> 40:58.640
+ and it is getting bombarded
+
+40:58.640 --> 41:01.060
+ with all sorts of sensory input all the time.
+
+41:01.060 --> 41:03.360
+ Costello's snoring off to my right,
+
+41:03.360 --> 41:05.440
+ the lights that are in the room,
+
+41:05.440 --> 41:07.780
+ the presence of my computer to my left.
+
+41:07.780 --> 41:09.340
+ All of that is coming in,
+
+41:09.340 --> 41:11.240
+ but when I pay attention to something,
+
+41:11.240 --> 41:14.120
+ like if I really hone in on Costello's snoring,
+
+41:14.120 --> 41:15.720
+ I create a cone of attention,
+
+41:15.720 --> 41:18.640
+ and what that cone of attention reflects
+
+41:18.640 --> 41:22.960
+ is that acetylcholine is now amplifying the signal
+
+41:23.940 --> 41:27.600
+ of sounds that Costello is making with his snoring
+
+41:27.600 --> 41:30.120
+ and essentially making that signal greater
+
+41:30.120 --> 41:31.600
+ than all the signal around it.
+
+41:31.600 --> 41:33.800
+ What we call signal-to-noise goes up.
+
+41:33.800 --> 41:35.440
+ So those of you with an engineering background
+
+41:35.440 --> 41:37.060
+ will be familiar with signal-to-noise.
+
+41:37.060 --> 41:38.800
+ Those of you who do not have an engineering background,
+
+41:38.800 --> 41:39.640
+ don't worry about it.
+
+41:39.640 --> 41:43.000
+ All it means is that one particular shout in the crowd
+
+41:43.000 --> 41:46.100
+ comes through, Costello's snoring becomes more salient,
+
+41:46.100 --> 41:49.320
+ more apparent relative to everything else going on.
+
+41:49.320 --> 41:52.720
+ Acetylcholine acts as a spotlight,
+
+41:52.720 --> 41:54.920
+ but epinephrine for alertness,
+
+41:54.920 --> 41:57.400
+ acetylcholine spotlighting these inputs,
+
+41:57.400 --> 42:00.640
+ those two things alone are not enough to get plasticity.
+
+42:00.640 --> 42:02.240
+ There needs to be this third component,
+
+42:02.240 --> 42:04.720
+ and the third component is acetylcholine released
+
+42:04.720 --> 42:08.160
+ from an area of the forebrain called nucleus basalis.
+
+42:08.160 --> 42:10.320
+ If you really want to get technical,
+
+42:10.320 --> 42:13.240
+ it's called nucleus basalis of minort.
+
+42:13.240 --> 42:15.740
+ For any of you that are budding physicians
+
+42:15.740 --> 42:19.000
+ or going to medical school, you should know that.
+
+42:19.000 --> 42:22.000
+ If you have acetylcholine released from the brainstem,
+
+42:22.000 --> 42:24.840
+ acetylcholine released from nucleus basalis,
+
+42:24.840 --> 42:27.540
+ and epinephrine, you can change your brain.
+
+42:27.540 --> 42:29.540
+ And I can say that with confidence
+
+42:29.540 --> 42:32.960
+ because Merzenich and Recanzone, as well as other members
+
+42:32.960 --> 42:35.920
+ of the Merzenich lab, Michael Kilgard and others,
+
+42:35.920 --> 42:38.240
+ did these incredible experiments
+
+42:38.240 --> 42:40.880
+ where they stimulated the release of acetylcholine
+
+42:40.880 --> 42:43.620
+ from nucleus basalis, either with an electrode
+
+42:43.620 --> 42:46.000
+ or with some other methods that we'll talk about.
+
+42:46.000 --> 42:49.120
+ And what they found was when you stimulate
+
+42:49.120 --> 42:52.200
+ these three brain regions, locus coeruleus,
+
+42:52.200 --> 42:54.680
+ the brainstem source of acetylcholine,
+
+42:54.680 --> 42:57.360
+ and then the basal forebrain source of acetylcholine,
+
+42:57.360 --> 43:00.120
+ when you have those three things,
+
+43:00.120 --> 43:02.960
+ whatever you happen to be listening to,
+
+43:02.960 --> 43:07.960
+ doing or paying attention to, immediately in one trial
+
+43:08.180 --> 43:10.200
+ takes over the representation
+
+43:10.200 --> 43:12.080
+ of a particular area of the brain,
+
+43:12.080 --> 43:16.160
+ you essentially get rapid, massive learning in one shot.
+
+43:16.160 --> 43:19.520
+ And this has been shown again and again and again
+
+43:19.520 --> 43:20.800
+ in a variety of papers,
+
+43:20.800 --> 43:23.600
+ also by a guy named Norm Weinberger from UC Irvine.
+
+43:23.600 --> 43:26.520
+ And it is now considered a fundamental principle
+
+43:26.520 --> 43:27.760
+ of how the nervous system works.
+
+43:27.760 --> 43:30.040
+ So while Hubel and Wiesel talked about critical periods
+
+43:30.040 --> 43:31.920
+ in developmental plasticity,
+
+43:31.920 --> 43:34.240
+ it's very clear from the work of Merzenich and Weinberg
+
+43:34.240 --> 43:37.260
+ and others that if you get these three things,
+
+43:37.260 --> 43:39.160
+ if you can access these three things
+
+43:39.160 --> 43:43.040
+ of epinephrine acetylcholine from these two sources,
+
+43:43.040 --> 43:46.700
+ not only will the nervous system change, it has to change.
+
+43:46.700 --> 43:49.140
+ It absolutely will change.
+
+43:49.140 --> 43:52.720
+ And that is the most important thing for people to understand
+
+43:52.720 --> 43:53.760
+ if they want to change their brain.
+
+43:53.760 --> 43:56.520
+ You cannot just passively experience things.
+
+43:56.520 --> 43:59.400
+ And repetition can be important,
+
+43:59.400 --> 44:01.920
+ but the way to use repetition to change your brain
+
+44:01.920 --> 44:03.520
+ is fundamentally different.
+
+44:03.520 --> 44:05.940
+ So now let's talk about how we would translate
+
+44:05.940 --> 44:08.440
+ all the scientific information and history
+
+44:08.440 --> 44:10.840
+ into some protocols that you can actually apply,
+
+44:10.840 --> 44:12.680
+ because I think that's what many of you are interested in.
+
+44:12.680 --> 44:15.360
+ And I'm willing to bet that most of you are not interested
+
+44:15.360 --> 44:17.720
+ in lowering electrodes into your nucleus basalis,
+
+44:17.720 --> 44:19.280
+ and frankly, neither am I.
+
+44:19.280 --> 44:22.040
+ In episode one of the Huberman Lab Podcast,
+
+44:22.040 --> 44:25.480
+ I described the various ways that people can monitor
+
+44:25.480 --> 44:27.280
+ and change their nervous system.
+
+44:27.280 --> 44:29.600
+ Those ways include brain-machine interface,
+
+44:29.600 --> 44:32.460
+ pharmacology, behavioral practices,
+
+44:32.460 --> 44:34.440
+ and those behavioral practices, of course,
+
+44:34.440 --> 44:36.960
+ can include some dos, do this, and some don'ts,
+
+44:36.960 --> 44:39.440
+ don't do that, et cetera.
+
+44:39.440 --> 44:41.640
+ In thinking about neuroplasticity,
+
+44:41.640 --> 44:43.240
+ I want to have a very frank conversation
+
+44:43.240 --> 44:44.760
+ about what one can do,
+
+44:44.760 --> 44:47.880
+ but also acknowledge this untapped capacity
+
+44:47.880 --> 44:49.880
+ that I'm just not hearing about out there,
+
+44:49.880 --> 44:53.340
+ which is one can also combine behavioral practices
+
+44:53.340 --> 44:54.560
+ with pharmacology.
+
+44:54.560 --> 44:57.460
+ One can combine behavioral practices
+
+44:57.460 --> 44:59.160
+ with brain-machine interface.
+
+44:59.160 --> 45:00.140
+ And you don't have to do that.
+
+45:00.140 --> 45:03.800
+ In fact, I'm not recommending you do anything in particular.
+
+45:03.800 --> 45:06.860
+ As always, I'll say it again,
+
+45:06.860 --> 45:09.280
+ I'm not a physician, so I don't prescribe anything.
+
+45:09.280 --> 45:11.240
+ I'm a professor, so I profess a lot of things.
+
+45:11.240 --> 45:12.960
+ What you do with your health and your medical care
+
+45:12.960 --> 45:13.800
+ is up to you.
+
+45:13.800 --> 45:15.680
+ You're responsible for your health and wellbeing.
+
+45:15.680 --> 45:18.480
+ So I'm not going to tell you what to do or what to take.
+
+45:18.480 --> 45:21.320
+ I'm going to describe what the literature tells us
+
+45:21.320 --> 45:24.020
+ and suggests about ways to access plasticity.
+
+45:24.020 --> 45:25.360
+ We know we need epinephrine.
+
+45:25.360 --> 45:26.640
+ That means alertness.
+
+45:26.640 --> 45:29.000
+ Most people accomplish this through a cup of coffee
+
+45:29.000 --> 45:30.140
+ and a good night's sleep.
+
+45:30.140 --> 45:33.860
+ So I will say you should master your sleep schedule,
+
+45:33.860 --> 45:36.220
+ and you should figure out how much sleep you need
+
+45:36.220 --> 45:39.100
+ in order to achieve alertness when you sit down to learn.
+
+45:40.100 --> 45:42.180
+ All the tools and more science
+
+45:42.180 --> 45:44.540
+ than probably you ever wanted to hear about sleep
+
+45:44.540 --> 45:46.800
+ and how to get better at sleeping and timing your sleep,
+
+45:46.800 --> 45:48.760
+ et cetera, and naps, and all of that
+
+45:48.760 --> 45:50.800
+ is in episodes two, three, four, and five
+
+45:50.800 --> 45:52.000
+ of the Huberman Lab Podcast.
+
+45:52.000 --> 45:53.720
+ So I encourage you to refer to those
+
+45:53.720 --> 45:56.320
+ if your sleep is not where you would like it to be.
+
+45:57.400 --> 46:00.440
+ Your ability to engage in deliberate focused alertness
+
+46:00.440 --> 46:02.160
+ is in direct proportion
+
+46:02.160 --> 46:04.360
+ to how well you are sleeping on a regular basis.
+
+46:04.360 --> 46:06.240
+ I think that's kind of an obvious one.
+
+46:06.240 --> 46:09.160
+ So get your sleep handled.
+
+46:09.160 --> 46:12.920
+ But once that's in place, the question then is
+
+46:12.920 --> 46:14.960
+ how do I access this alertness?
+
+46:14.960 --> 46:16.400
+ Well, there are a number of ways.
+
+46:16.400 --> 46:18.920
+ Some people use some pretty elaborate
+
+46:18.920 --> 46:20.440
+ psychological gymnastics.
+
+46:20.440 --> 46:23.440
+ They will tell people that they're going to do something
+
+46:23.440 --> 46:25.120
+ and create some accountability.
+
+46:25.120 --> 46:26.320
+ That could be really good.
+
+46:26.320 --> 46:28.460
+ Or they'll post a picture of themselves online,
+
+46:28.460 --> 46:30.520
+ and they'll commit to learning a certain amount,
+
+46:30.520 --> 46:32.100
+ losing, excuse me, a certain amount of weight
+
+46:32.100 --> 46:33.260
+ or something like this.
+
+46:33.260 --> 46:37.720
+ So they can use either shame-based practices
+
+46:37.720 --> 46:39.280
+ to potentially embarrass themselves
+
+46:39.280 --> 46:40.300
+ if they don't follow through.
+
+46:40.300 --> 46:42.400
+ They'll write checks to organizations that they hate
+
+46:42.400 --> 46:43.760
+ and insist that they'll cash them
+
+46:43.760 --> 46:46.480
+ if they don't actually follow through.
+
+46:46.480 --> 46:48.280
+ Or they'll do it out of love.
+
+46:48.280 --> 46:51.920
+ They'll decide that they're going to run a marathon
+
+46:51.920 --> 46:54.080
+ or learn a language or something
+
+46:54.080 --> 46:55.360
+ because of somebody they love
+
+46:55.360 --> 46:57.520
+ or they want to devote it to somebody.
+
+46:57.520 --> 47:01.040
+ The truth is that from the standpoint of epinephrine
+
+47:01.040 --> 47:03.860
+ and getting alert and activated, it doesn't really matter.
+
+47:03.860 --> 47:05.340
+ Epinephrine is a chemical,
+
+47:05.340 --> 47:06.560
+ and your brain does not distinguish
+
+47:06.560 --> 47:10.680
+ between doing things out of love or hate, anger or fear.
+
+47:10.680 --> 47:11.500
+ It really doesn't.
+
+47:11.500 --> 47:14.480
+ All of those promote autonomic arousal
+
+47:14.480 --> 47:15.720
+ and the release of epinephrine.
+
+47:15.720 --> 47:18.320
+ So I think for most people,
+
+47:18.320 --> 47:20.720
+ if you're feeling not motivated to make these changes,
+
+47:20.720 --> 47:23.080
+ the key thing is to identify not just one,
+
+47:23.080 --> 47:25.200
+ but probably a kit of reasons,
+
+47:25.200 --> 47:27.120
+ several reasons as to why you would want
+
+47:27.120 --> 47:28.800
+ to make this particular change.
+
+47:28.800 --> 47:31.640
+ And being drawn toward a particular goal
+
+47:31.640 --> 47:33.200
+ that you're excited about can be one.
+
+47:33.200 --> 47:37.640
+ Also being motivated to not be completely afraid,
+
+47:37.640 --> 47:39.440
+ ashamed or humiliated for not following through
+
+47:39.440 --> 47:40.800
+ on a goal is another.
+
+47:40.800 --> 47:42.920
+ Just want to briefly mention one little aside there
+
+47:42.920 --> 47:44.800
+ because I've got a friend who's a physician.
+
+47:44.800 --> 47:47.400
+ He's a cardiologist who has a really interesting theory.
+
+47:47.400 --> 47:48.240
+ This is just theory,
+
+47:48.240 --> 47:50.280
+ but I think it will resonate with a lot of people,
+
+47:50.280 --> 47:53.120
+ which is that you've all heard of this molecule dopamine
+
+47:53.120 --> 47:55.720
+ that gives us this sense of reward
+
+47:55.720 --> 47:57.100
+ when we accomplish something.
+
+47:57.100 --> 47:59.800
+ Well, we also want to be able to access dopamine
+
+47:59.800 --> 48:01.000
+ while we're working towards things.
+
+48:01.000 --> 48:02.720
+ Enjoy the process, as they say,
+
+48:02.720 --> 48:04.760
+ because it has all sorts of positive effects.
+
+48:04.760 --> 48:06.320
+ It gives us energy, et cetera.
+
+48:06.320 --> 48:08.440
+ With my friend, what he says is,
+
+48:08.440 --> 48:10.720
+ there's many, many instances
+
+48:10.720 --> 48:11.960
+ where someone will come to him and say,
+
+48:11.960 --> 48:13.800
+ you know what, I'm going to write a book.
+
+48:13.800 --> 48:15.320
+ And he says, oh, that's great.
+
+48:15.320 --> 48:16.600
+ I'm sure the book's going to be terrific
+
+48:16.600 --> 48:17.880
+ and you really should write a book.
+
+48:17.880 --> 48:18.900
+ And then they never go do it.
+
+48:18.900 --> 48:21.200
+ And his theory is if you get so much dopamine
+
+48:21.200 --> 48:22.960
+ from the reward of people saying,
+
+48:22.960 --> 48:24.880
+ oh yeah, you're absolutely going to be able to do that,
+
+48:24.880 --> 48:26.260
+ you might not actually go after
+
+48:26.260 --> 48:29.000
+ the reward of the accomplishment itself.
+
+48:29.000 --> 48:32.440
+ So beware these positive reinforcements also.
+
+48:32.440 --> 48:34.220
+ Not saying people should flagellate themselves
+
+48:34.220 --> 48:36.840
+ to the point of victory in whatever they're pursuing,
+
+48:36.840 --> 48:39.340
+ but motivation is a tricky one.
+
+48:39.340 --> 48:42.480
+ So I suggest that everyone ask themselves,
+
+48:42.480 --> 48:44.480
+ what is it that I want to accomplish?
+
+48:44.480 --> 48:47.620
+ And what is it that's driving me to accomplish this?
+
+48:47.620 --> 48:49.600
+ And come up with two or three things,
+
+48:49.600 --> 48:52.400
+ fear-based perhaps, love-based perhaps,
+
+48:52.400 --> 48:54.200
+ or perhaps several of those,
+
+48:54.200 --> 48:57.640
+ in order to ensure alertness,
+
+48:57.640 --> 48:59.880
+ energy and attention for the task.
+
+48:59.880 --> 49:02.040
+ And that brings us to the attention part.
+
+49:02.040 --> 49:03.380
+ Now it's one thing to have an electrode
+
+49:03.380 --> 49:04.340
+ embedded into your brain
+
+49:04.340 --> 49:06.760
+ and increase the amount of acetylcholine.
+
+49:06.760 --> 49:08.580
+ It's another to exist in the real world
+
+49:08.580 --> 49:11.800
+ outside the laboratory and have trouble focusing,
+
+49:11.800 --> 49:13.960
+ having trouble bringing your attention
+
+49:13.960 --> 49:17.560
+ to a particular location and space for a particular event.
+
+49:17.560 --> 49:19.600
+ And there's a lot of discussion nowadays
+
+49:19.600 --> 49:22.160
+ about smartphones and devices
+
+49:22.160 --> 49:24.220
+ creating a sort of attention deficit,
+
+49:25.320 --> 49:27.160
+ almost at a clinical level for many people,
+
+49:27.160 --> 49:28.740
+ including adults.
+
+49:28.740 --> 49:30.520
+ I think that's largely true.
+
+49:30.520 --> 49:32.240
+ And what it means however,
+
+49:32.240 --> 49:34.000
+ is that we all are responsible for learning
+
+49:34.000 --> 49:36.860
+ how to create depth of focus.
+
+49:36.860 --> 49:39.840
+ There are some important neuroscience principles
+
+49:39.840 --> 49:41.760
+ to get depth of focus.
+
+49:41.760 --> 49:43.980
+ I want to briefly talk about the pharmacology first,
+
+49:43.980 --> 49:45.360
+ because I always get asked about this.
+
+49:45.360 --> 49:46.740
+ People say, what can I take
+
+49:46.740 --> 49:48.780
+ to increase my levels of acetylcholine?
+
+49:48.780 --> 49:50.520
+ Well, there are things you can take.
+
+49:50.520 --> 49:53.180
+ Nicotine is called nicotine
+
+49:53.180 --> 49:56.660
+ because acetylcholine binds to the nicotinic receptor.
+
+49:56.660 --> 49:58.420
+ There are two kinds of acetylcholine receptors,
+
+49:58.420 --> 49:59.460
+ muscarinic and nicotinic,
+
+49:59.460 --> 50:00.940
+ but the nicotinic ones are involved
+
+50:00.940 --> 50:02.660
+ in attention and alertness.
+
+50:03.820 --> 50:05.060
+ I have colleagues,
+
+50:05.060 --> 50:08.640
+ these are not my kind of like bro science buddies.
+
+50:08.640 --> 50:10.140
+ I have those friends too.
+
+50:10.140 --> 50:13.020
+ This is a Nobel prize winning colleague
+
+50:13.020 --> 50:15.380
+ who choose Nicorette while he works.
+
+50:15.380 --> 50:17.340
+ He used to be a smoker.
+
+50:17.340 --> 50:19.780
+ He quit smoking because of fear of lung cancer.
+
+50:19.780 --> 50:21.220
+ It's like a smart choice,
+
+50:21.220 --> 50:23.860
+ but he missed the level of focus
+
+50:23.860 --> 50:26.100
+ that he could bring to his work.
+
+50:26.100 --> 50:28.060
+ This is somebody who's had a very long career.
+
+50:28.060 --> 50:29.860
+ And if you ever meet with him,
+
+50:29.860 --> 50:32.040
+ unfortunately I can't name him.
+
+50:32.040 --> 50:32.880
+ If you ever meet with him,
+
+50:32.880 --> 50:33.700
+ what you realize is he choose
+
+50:33.700 --> 50:35.500
+ about five pieces of Nicorette an hour,
+
+50:35.500 --> 50:37.780
+ which I am not suggesting people do.
+
+50:37.780 --> 50:39.100
+ But when I asked him, why are you doing this?
+
+50:39.100 --> 50:42.220
+ He said, well, increases my alertness and focus.
+
+50:42.220 --> 50:43.620
+ And also his theory,
+
+50:43.620 --> 50:45.980
+ and I want to really underscore that it's theory
+
+50:45.980 --> 50:47.580
+ not scientifically supported yet
+
+50:47.580 --> 50:50.900
+ is that it offsets Parkinson's and Alzheimer's.
+
+50:50.900 --> 50:54.660
+ It is true that nucleus basalis is the primary site
+
+50:54.660 --> 50:56.860
+ of degeneration in the brain
+
+50:56.860 --> 50:59.340
+ in people that have dementia and Parkinson's.
+
+50:59.340 --> 51:01.700
+ And it's what leads to a lot of their inability
+
+51:01.700 --> 51:03.340
+ to focus their attention,
+
+51:03.340 --> 51:05.600
+ not just deficits in plasticity.
+
+51:05.600 --> 51:07.420
+ So he might be onto something.
+
+51:07.420 --> 51:08.620
+ Now I've tried chewing Nicorette.
+
+51:08.620 --> 51:10.240
+ It makes me super jittery.
+
+51:10.240 --> 51:12.580
+ I don't like it because I can't focus very well.
+
+51:12.580 --> 51:13.940
+ It kind of takes me too far up
+
+51:13.940 --> 51:15.740
+ the level of autonomic arousal.
+
+51:15.740 --> 51:18.020
+ I've got friends that dip Nicorette all day,
+
+51:18.020 --> 51:20.300
+ some of whom are scientists.
+
+51:20.300 --> 51:22.220
+ Writers and artists and musicians
+
+51:22.220 --> 51:24.340
+ are familiar with the effects of nicotine
+
+51:24.340 --> 51:26.140
+ from the era where a lot of people smoked
+
+51:26.140 --> 51:28.640
+ and fortunately fewer people smoke now.
+
+51:28.640 --> 51:30.660
+ So if you're interested in the pharmacology,
+
+51:30.660 --> 51:31.960
+ there are supplements and things
+
+51:31.960 --> 51:35.620
+ that can increase cholinergic transmission in the brain.
+
+51:35.620 --> 51:36.940
+ I'm not suggesting you do this,
+
+51:36.940 --> 51:39.500
+ but if you're gonna go down that route,
+
+51:39.500 --> 51:40.940
+ you want to be very careful
+
+51:40.940 --> 51:43.460
+ how much you rely on those all the time
+
+51:43.460 --> 51:46.040
+ because the essence of plasticity
+
+51:46.040 --> 51:48.360
+ is to create a window of attention and focus
+
+51:48.360 --> 51:50.540
+ that's distinct from the rest of your day.
+
+51:50.540 --> 51:53.700
+ That's what's going to create a mark in your brain
+
+51:53.700 --> 51:55.940
+ and the potential for plasticity.
+
+51:55.940 --> 51:57.660
+ Things that increase acetylcholine
+
+51:57.660 --> 52:01.100
+ besides nicotine or Nicorette,
+
+52:01.100 --> 52:03.880
+ so the nicotine could come from a variety of sources,
+
+52:03.880 --> 52:07.380
+ or things like alpha-GPC or choline.
+
+52:07.380 --> 52:08.420
+ There are a number of these things.
+
+52:08.420 --> 52:11.700
+ I would encourage you to go to examine.com, the website,
+
+52:11.700 --> 52:13.060
+ and just put in acetylcholine
+
+52:13.060 --> 52:15.000
+ and it will give you a list of supplements
+
+52:15.000 --> 52:17.060
+ as well as some of the dangers of these supplements
+
+52:17.060 --> 52:19.260
+ that are associated with cholinergic transmission.
+
+52:19.260 --> 52:22.000
+ But I would be remiss and I would be lying
+
+52:22.000 --> 52:24.560
+ if I didn't say that there are a lot of people out there
+
+52:24.560 --> 52:28.140
+ who are using cholinergic drugs
+
+52:28.140 --> 52:31.160
+ in order to increase their level of focus.
+
+52:31.160 --> 52:33.180
+ And since we're coming up on the Olympics,
+
+52:33.180 --> 52:34.280
+ I don't want to get anyone in trouble,
+
+52:34.280 --> 52:37.900
+ but I'm well aware that the fact that the sprinters
+
+52:37.900 --> 52:39.940
+ are really into cholinergic drugs
+
+52:39.940 --> 52:42.900
+ because not only is acetylcholine important for the focus
+
+52:42.900 --> 52:44.200
+ that allows them to hear the gun
+
+52:44.200 --> 52:46.340
+ and be first out the blocks on the sprints,
+
+52:46.340 --> 52:48.180
+ that's a lot of where the race is won,
+
+52:49.060 --> 52:51.660
+ hearing that gun and being quickest on reaction time,
+
+52:51.660 --> 52:53.780
+ so they take cholinergic agents for that,
+
+52:53.780 --> 52:56.980
+ as well as acetylcholine is the molecule
+
+52:56.980 --> 52:59.500
+ that controls nerve to muscle contraction.
+
+52:59.500 --> 53:01.740
+ So your speed of reflexes is actually controlled
+
+53:01.740 --> 53:04.260
+ by this nicotinic transmission as well.
+
+53:04.260 --> 53:07.900
+ So lots to think about in terms of acetylcholine in sport
+
+53:07.900 --> 53:10.980
+ and mental acuity, not just plasticity.
+
+53:10.980 --> 53:12.460
+ Now, for most of you,
+
+53:12.460 --> 53:14.200
+ you probably don't want to chew Nicorette,
+
+53:14.200 --> 53:15.440
+ definitely don't want to smoke cigarettes
+
+53:15.440 --> 53:18.360
+ or take supplements for increasing acetylcholine.
+
+53:18.360 --> 53:21.900
+ So what are some ways that you can increase acetylcholine?
+
+53:21.900 --> 53:23.780
+ And there, it's going to sound like a bit
+
+53:23.780 --> 53:26.820
+ of a circular argument, but you want to increase focus.
+
+53:26.820 --> 53:28.700
+ How do you increase focus?
+
+53:28.700 --> 53:30.780
+ You know, people are so familiar with sitting down,
+
+53:30.780 --> 53:32.100
+ reading a couple pages of a book
+
+53:32.100 --> 53:33.900
+ and realizing that none of it sunk in
+
+53:33.900 --> 53:36.580
+ or talking to someone and seeing their mouth move,
+
+53:36.580 --> 53:38.580
+ maybe even nodding your head subconsciously
+
+53:38.580 --> 53:41.340
+ and you come, mm-hmm, mm-hmm, and none of it sinks in.
+
+53:41.340 --> 53:44.020
+ This can be very damaging for school, work performance
+
+53:44.020 --> 53:46.260
+ and relationships, as many of you know.
+
+53:48.720 --> 53:50.980
+ Costello, incidentally, never seems to pay attention
+
+53:50.980 --> 53:53.420
+ to anything I say while looking directly at me,
+
+53:53.420 --> 53:55.100
+ which contradicts what I'm about to say,
+
+53:55.100 --> 53:59.960
+ which is that the best way to get better at focusing
+
+53:59.960 --> 54:04.420
+ is to use the mechanisms of focus that you were born with.
+
+54:04.420 --> 54:08.340
+ And the key principle here is that mental focus
+
+54:08.340 --> 54:10.260
+ follows visual focus.
+
+54:11.300 --> 54:13.720
+ We are all familiar with the fact that our visual system
+
+54:13.720 --> 54:17.420
+ can be unfocused, blurry, or jumping around,
+
+54:17.420 --> 54:21.400
+ or we can be very laser focused on one location in space.
+
+54:21.400 --> 54:24.620
+ What's interesting and vitally important to understanding
+
+54:24.620 --> 54:26.580
+ how to access neuroplasticity
+
+54:26.580 --> 54:29.400
+ is that you can use your visual focus
+
+54:29.400 --> 54:31.820
+ and you can increase your visual focus
+
+54:31.820 --> 54:35.540
+ as a way of increasing your mental focus abilities
+
+54:35.540 --> 54:37.000
+ more broadly.
+
+54:37.000 --> 54:38.780
+ So I'm gonna explain how to do that.
+
+54:38.780 --> 54:41.780
+ Plasticity starts with alertness.
+
+54:41.780 --> 54:43.060
+ And as I mentioned before,
+
+54:43.060 --> 54:46.220
+ that alertness can come from a sense of love,
+
+54:46.220 --> 54:49.380
+ a sense of joy, a sense of fear, doesn't matter.
+
+54:50.300 --> 54:53.680
+ There are pharmacologic ways to access alertness too.
+
+54:53.680 --> 54:56.500
+ The most common one is of course caffeine,
+
+54:56.500 --> 54:58.340
+ which if you watch the sleep episodes,
+
+54:58.340 --> 55:00.100
+ you know reduces this molecule
+
+55:00.100 --> 55:02.740
+ that makes us sleepy called adenosine.
+
+55:02.740 --> 55:04.620
+ I drink plenty of caffeine.
+
+55:04.620 --> 55:07.160
+ I'm a heavy user of caffeine.
+
+55:07.160 --> 55:09.020
+ I don't think abuser of caffeine.
+
+55:09.020 --> 55:10.100
+ I think in reasonable amounts,
+
+55:10.100 --> 55:12.140
+ provided we can still fall asleep at night.
+
+55:12.140 --> 55:15.220
+ Caffeine can be a relatively safe way
+
+55:15.220 --> 55:16.640
+ to increase epinephrine.
+
+55:17.860 --> 55:21.960
+ Now, many people are now also using Adderall.
+
+55:21.960 --> 55:25.420
+ Adderall chemically looks a lot like amphetamine.
+
+55:25.420 --> 55:27.900
+ And basically it is amphetamine.
+
+55:27.900 --> 55:30.300
+ It will increase epinephrine release from locus coeruleus.
+
+55:30.300 --> 55:31.840
+ It will wake up the brain.
+
+55:31.840 --> 55:33.620
+ And that's why a lot of people rely on it.
+
+55:33.620 --> 55:38.420
+ It does have a heavy basis for use
+
+55:38.420 --> 55:40.760
+ in certain clinical syndromes prescribed
+
+55:40.760 --> 55:43.060
+ such as attention deficit.
+
+55:43.060 --> 55:47.500
+ However, it also has a high probability of abuse,
+
+55:47.500 --> 55:50.020
+ especially in those who are not prescribed it.
+
+55:50.020 --> 55:52.060
+ Adderall will not increase focus.
+
+55:52.060 --> 55:53.620
+ It increases alertness.
+
+55:53.620 --> 55:56.460
+ It does not touch the acetylcholine system.
+
+55:56.460 --> 55:58.840
+ And if those of you that are taking Adderall say,
+
+55:58.840 --> 56:01.500
+ well, it really increases my focus overall,
+
+56:01.500 --> 56:03.900
+ that's probably because your autonomic nervous system
+
+56:03.900 --> 56:06.800
+ is just veering towards what we call parasympathetic.
+
+56:06.800 --> 56:08.340
+ You're really just very sleepy.
+
+56:08.340 --> 56:11.100
+ And so it's bringing your levels of alertness up.
+
+56:11.100 --> 56:13.580
+ As I mentioned, Adderall is very problematic
+
+56:13.580 --> 56:14.420
+ for a number of people.
+
+56:14.420 --> 56:16.660
+ It can be habit forming.
+
+56:16.660 --> 56:19.540
+ Learning on Adderall does not always translate
+
+56:19.540 --> 56:23.520
+ to high performance off or on Adderall at later times.
+
+56:23.520 --> 56:26.160
+ And the Adderall discussion is a broader one
+
+56:26.160 --> 56:28.420
+ that perhaps we should have with a psychiatrist
+
+56:28.420 --> 56:29.320
+ in the room at some point,
+
+56:29.320 --> 56:32.220
+ because it is a very widely abused drug
+
+56:32.220 --> 56:33.460
+ at this point in time.
+
+56:34.380 --> 56:38.180
+ The acetylcholine system and the focus that it brings
+
+56:38.180 --> 56:41.380
+ is available, as I mentioned, through pharmacology,
+
+56:41.380 --> 56:43.660
+ but also through these behavioral practices.
+
+56:43.660 --> 56:46.560
+ And the behavioral practices that are anchored
+
+56:46.560 --> 56:48.660
+ in visual focus are going to be the ones
+
+56:48.660 --> 56:51.820
+ that are going to allow you to develop great depth
+
+56:51.820 --> 56:53.760
+ and duration of focus.
+
+56:53.760 --> 56:56.540
+ So let's think about visual focus for a second.
+
+56:56.540 --> 57:01.200
+ When we focus on something visually, we have two options.
+
+57:01.200 --> 57:04.780
+ We can either look at a very small region of space
+
+57:04.780 --> 57:07.620
+ with a lot of detail and a lot of precision,
+
+57:07.620 --> 57:10.320
+ or we can dilate our gaze and we can see big pieces
+
+57:10.320 --> 57:12.260
+ of visual space with very little detail.
+
+57:12.260 --> 57:13.100
+ It's a trade-off.
+
+57:13.100 --> 57:15.220
+ We can't look at everything at high resolution.
+
+57:15.220 --> 57:16.460
+ This is why we have these,
+
+57:16.460 --> 57:19.900
+ the pupil more or less relates to the fovea of the eye,
+
+57:19.900 --> 57:22.060
+ which is the area in which we have the most receptors,
+
+57:22.060 --> 57:25.060
+ the highest density of receptors that perceive light.
+
+57:25.060 --> 57:27.260
+ And so our acuity is much better in the center
+
+57:27.260 --> 57:29.820
+ of our visual field than in our periphery.
+
+57:29.820 --> 57:31.300
+ It's a simple experiment you can do right now.
+
+57:31.300 --> 57:33.000
+ If you're listening to this, you can still do it.
+
+57:33.000 --> 57:34.860
+ You can hold your hands out in front of you,
+
+57:34.860 --> 57:35.860
+ provided that you're sighted.
+
+57:35.860 --> 57:37.180
+ You should be able to see how many fingers
+
+57:37.180 --> 57:38.580
+ you have in front of you.
+
+57:38.580 --> 57:39.540
+ For me, it's five.
+
+57:39.540 --> 57:42.000
+ Still got all five fingers, amazingly enough.
+
+57:43.100 --> 57:45.860
+ If I move my hand off to the side,
+
+57:45.860 --> 57:47.660
+ I can't see them with precision,
+
+57:47.660 --> 57:50.020
+ but as I move them back into the center of my visual field,
+
+57:50.020 --> 57:51.460
+ I can see them with precision.
+
+57:51.460 --> 57:53.100
+ And that's because the density,
+
+57:53.100 --> 57:55.040
+ the number of pixels in the center of my visual field
+
+57:55.040 --> 57:57.340
+ is much higher than it is in the periphery.
+
+57:57.340 --> 58:00.240
+ When we focus our eyes, we do a couple things.
+
+58:00.240 --> 58:02.260
+ First of all, we tend to do that
+
+58:02.260 --> 58:03.500
+ in the center of our visual field,
+
+58:03.500 --> 58:04.960
+ and our two eyes tend to align
+
+58:04.960 --> 58:06.360
+ in what's called a vergence eye movement
+
+58:06.360 --> 58:08.480
+ towards a common point.
+
+58:08.480 --> 58:10.800
+ The other thing that happens is the lens of our eye moves
+
+58:10.800 --> 58:14.620
+ so that our brain now no longer sees the entire visual world
+
+58:14.620 --> 58:18.100
+ but is seeing a small cone of visual imagery.
+
+58:19.620 --> 58:22.580
+ That was the dog bumping into the wall, forgive me.
+
+58:22.580 --> 58:24.780
+ That small cone of visual imagery
+
+58:24.780 --> 58:28.700
+ or soda straw view of the world has much higher acuity,
+
+58:28.700 --> 58:31.620
+ higher resolution than if I were to look at everything.
+
+58:32.760 --> 58:34.860
+ Now you say, of course, this makes perfect sense,
+
+58:34.860 --> 58:37.380
+ but that's about visual attention, not mental attention.
+
+58:37.380 --> 58:41.340
+ Well, it turns out that focus in the brain
+
+58:41.340 --> 58:43.860
+ is anchored to our visual system.
+
+58:43.860 --> 58:45.380
+ I'll talk about blind people in a moment,
+
+58:45.380 --> 58:48.040
+ but assuming that somebody is sighted,
+
+58:48.040 --> 58:51.300
+ the key is to learn how to focus better visually
+
+58:51.300 --> 58:54.140
+ if you want to bring about higher levels
+
+58:54.140 --> 58:55.940
+ of cognitive or mental focus,
+
+58:55.940 --> 58:58.500
+ even if you're engaged in a physical task.
+
+58:58.500 --> 59:02.460
+ Now, there's a remarkable phenomenon in animals
+
+59:02.460 --> 59:05.740
+ where animals that have their eyes on the side of their head
+
+59:05.740 --> 59:08.200
+ are scanning the entire visual environment all the time.
+
+59:08.200 --> 59:09.300
+ They're not focused on anything.
+
+59:09.300 --> 59:11.600
+ Think you're grazing animals, your cows, your sheep,
+
+59:11.600 --> 59:13.080
+ your birds, et cetera.
+
+59:13.080 --> 59:15.760
+ But think about a bird picking up seeds
+
+59:15.760 --> 59:18.100
+ on the beach or on concrete.
+
+59:18.100 --> 59:20.380
+ That bird's head is up here.
+
+59:20.380 --> 59:21.960
+ It's up about a foot off the ground,
+
+59:21.960 --> 59:24.660
+ or if it's a small bird, about six inches off the ground,
+
+59:24.660 --> 59:26.380
+ and its eyes are on the side of its head,
+
+59:26.380 --> 59:28.940
+ and yet it has this tiny beak that can quickly pick up
+
+59:28.940 --> 59:32.420
+ these little seeds off the ground with immense precision.
+
+59:32.420 --> 59:35.260
+ Now, if you try to do that by staring off
+
+59:35.260 --> 59:37.340
+ to the sides of the room and picking up items
+
+59:37.340 --> 59:40.220
+ in front of you with high precision at that tiny scale,
+
+59:40.220 --> 59:43.260
+ little tiny objects, you will miss almost every time.
+
+59:43.260 --> 59:45.540
+ They do it perfectly, and they don't smash their beak
+
+59:45.540 --> 59:46.540
+ into the ground and damage it.
+
+59:46.540 --> 59:50.460
+ They do it with beautiful movement acuity also.
+
+59:50.460 --> 59:51.880
+ So how do they do it?
+
+59:51.880 --> 59:55.300
+ How do they create this focus or this awareness
+
+59:55.300 --> 59:56.140
+ of what's in front of them?
+
+59:56.140 --> 59:58.780
+ It turns out as they lower their head,
+
+59:58.780 --> 1:00:02.180
+ their eyes very briefly move inward
+
+1:00:02.180 --> 1:00:04.260
+ in what's called a virgin's eye movement.
+
+1:00:04.260 --> 1:00:07.900
+ Now, their eyes can't actually translocate in their head.
+
+1:00:07.900 --> 1:00:10.500
+ They're fixed in the skull, just like yours and mine are.
+
+1:00:10.500 --> 1:00:13.940
+ But when we move our eyes slightly inward,
+
+1:00:13.940 --> 1:00:17.140
+ maybe you can tell that I'm doing it like so,
+
+1:00:17.140 --> 1:00:21.100
+ basically shortening or making the interpupillary distance,
+
+1:00:21.100 --> 1:00:24.020
+ as it's called, smaller, two things happen.
+
+1:00:24.020 --> 1:00:27.260
+ Not only do we develop a smaller visual window
+
+1:00:27.260 --> 1:00:31.100
+ into the world, but we activate a set of neurons
+
+1:00:31.100 --> 1:00:33.980
+ in our brainstem that trigger the release
+
+1:00:33.980 --> 1:00:38.100
+ of both norepinephrine, epinephrine, and acetylcholine.
+
+1:00:38.100 --> 1:00:40.260
+ Norepinephrine is kind of similar to epinephrine.
+
+1:00:40.260 --> 1:00:43.560
+ So in other words, when our eyes are relaxed in our head,
+
+1:00:43.560 --> 1:00:44.400
+ when we're just kind of looking
+
+1:00:44.400 --> 1:00:45.620
+ at our entire visual environment,
+
+1:00:45.620 --> 1:00:47.500
+ moving our head around, moving through space,
+
+1:00:47.500 --> 1:00:49.760
+ we're in optic flow, things moving past us,
+
+1:00:49.760 --> 1:00:53.100
+ or we're sitting still, we're looking broadly at our space,
+
+1:00:53.100 --> 1:00:54.780
+ we're relaxed.
+
+1:00:54.780 --> 1:00:57.220
+ When our eyes move slightly inward
+
+1:00:57.220 --> 1:00:59.100
+ toward a particular visual target,
+
+1:00:59.100 --> 1:01:00.940
+ our visual world shrinks,
+
+1:01:00.940 --> 1:01:03.100
+ our level of visual focus goes up,
+
+1:01:03.100 --> 1:01:05.840
+ and we know that this relates to the release
+
+1:01:05.840 --> 1:01:07.760
+ of acetylcholine and epinephrine
+
+1:01:07.760 --> 1:01:10.860
+ at the relevant sites in the brain for plasticity.
+
+1:01:10.860 --> 1:01:13.660
+ Now, what this means is that if you have a hard time
+
+1:01:13.660 --> 1:01:18.220
+ focusing your mind for sake of reading or for listening,
+
+1:01:18.220 --> 1:01:20.740
+ you need to practice, and you can practice,
+
+1:01:20.740 --> 1:01:22.820
+ focusing your visual system.
+
+1:01:22.820 --> 1:01:25.380
+ Now, this works best if you practice
+
+1:01:25.380 --> 1:01:28.460
+ focusing your visual system at the precise distance
+
+1:01:28.460 --> 1:01:31.660
+ from the work that you intend to do for sake of plasticity.
+
+1:01:31.660 --> 1:01:33.860
+ So how would this look in the real world?
+
+1:01:33.860 --> 1:01:36.180
+ Let's say I am trying to concentrate
+
+1:01:36.180 --> 1:01:39.220
+ on something related to, I don't know, science.
+
+1:01:39.220 --> 1:01:40.160
+ I'm reading a science paper,
+
+1:01:40.160 --> 1:01:42.840
+ and I'm having a hard time, it's not absorbing.
+
+1:01:42.840 --> 1:01:45.140
+ I might think that I'm only looking at the paper
+
+1:01:45.140 --> 1:01:46.980
+ that I'm reading, I'm only looking at my screen,
+
+1:01:46.980 --> 1:01:49.420
+ but actually my eyes are probably darting around a bit.
+
+1:01:49.420 --> 1:01:51.020
+ Experiments have been done on this.
+
+1:01:51.020 --> 1:01:54.460
+ Or I'm gathering information from too many sources
+
+1:01:54.460 --> 1:01:55.860
+ in the visual environment.
+
+1:01:55.860 --> 1:01:57.780
+ Now, presumably, because it's me,
+
+1:01:57.780 --> 1:01:59.860
+ I've already had my coffee, I'm hydrated,
+
+1:01:59.860 --> 1:02:01.940
+ I'm well rested, I slept well,
+
+1:02:01.940 --> 1:02:05.120
+ and I still experience these challenges in focusing.
+
+1:02:05.120 --> 1:02:08.540
+ Spending just 60 to 120 seconds
+
+1:02:08.540 --> 1:02:12.920
+ focusing my visual attention on a small window of my screen,
+
+1:02:12.920 --> 1:02:15.720
+ meaning just on my screen with nothing on it,
+
+1:02:15.720 --> 1:02:19.080
+ but bringing my eyes to that particular location
+
+1:02:19.080 --> 1:02:22.320
+ increases not just my visual acuity for that location,
+
+1:02:22.320 --> 1:02:25.500
+ but it brings about an increase in activity
+
+1:02:25.500 --> 1:02:28.840
+ in a bunch of other brain areas that are associated
+
+1:02:28.840 --> 1:02:33.340
+ with gathering information from this location.
+
+1:02:33.340 --> 1:02:38.060
+ So put simply, if you want to improve your ability to focus,
+
+1:02:38.060 --> 1:02:40.080
+ practice visual focus.
+
+1:02:40.080 --> 1:02:44.400
+ Now, if you wear contacts or you wear corrective lenses,
+
+1:02:44.400 --> 1:02:46.500
+ that's fine, you of course would want to use those.
+
+1:02:46.500 --> 1:02:50.020
+ You don't want to take those off and use a blurry image.
+
+1:02:50.020 --> 1:02:51.940
+ The finer the visual image,
+
+1:02:51.940 --> 1:02:53.720
+ and the more that you can hold your gaze
+
+1:02:53.720 --> 1:02:55.020
+ to that visual image,
+
+1:02:55.020 --> 1:02:58.320
+ the higher your levels of attention will be.
+
+1:02:58.320 --> 1:03:00.660
+ Many times on Instagram and here I've been teased
+
+1:03:00.660 --> 1:03:02.080
+ for not blinking very often.
+
+1:03:02.080 --> 1:03:03.980
+ That's actually a practiced thing.
+
+1:03:03.980 --> 1:03:06.220
+ We blink more as we get tired,
+
+1:03:06.220 --> 1:03:08.600
+ which as you hear it, you'll probably just say duh.
+
+1:03:08.600 --> 1:03:11.180
+ As we get tired, the neurons in the brainstem
+
+1:03:11.180 --> 1:03:12.760
+ that are responsible for alertness
+
+1:03:12.760 --> 1:03:15.520
+ and that hold the eyelids open start to falter
+
+1:03:15.520 --> 1:03:16.840
+ and our eyelids start to close.
+
+1:03:16.840 --> 1:03:18.000
+ This is why it's hard,
+
+1:03:18.000 --> 1:03:20.280
+ the words I could barely keep my eyes open,
+
+1:03:20.280 --> 1:03:22.000
+ which may be how you feel right now.
+
+1:03:22.000 --> 1:03:24.840
+ But assuming that you're paying attention and you're alert,
+
+1:03:25.840 --> 1:03:27.980
+ when you're very alert, your eyes are wide.
+
+1:03:27.980 --> 1:03:29.480
+ Your eyes are open.
+
+1:03:29.480 --> 1:03:32.220
+ And as you get tired, your eyelids start to close.
+
+1:03:32.220 --> 1:03:36.520
+ Blinks actually reset our perception of time and space.
+
+1:03:36.520 --> 1:03:38.680
+ This was shown in a beautiful paper in Current Biology.
+
+1:03:38.680 --> 1:03:41.600
+ I'll be sure to post the reference in the notes.
+
+1:03:41.600 --> 1:03:45.200
+ And blinking of course is necessary to lubricate the eyes.
+
+1:03:45.200 --> 1:03:47.440
+ People blink because their eyes might get dry.
+
+1:03:47.440 --> 1:03:51.240
+ But if you can keep focus by blinking less
+
+1:03:51.240 --> 1:03:53.420
+ and by focusing your eyes to a particular location,
+
+1:03:53.420 --> 1:03:55.260
+ that's probably pretty creepy for you to experience
+
+1:03:55.260 --> 1:03:56.400
+ as I'm doing this.
+
+1:03:56.400 --> 1:03:57.920
+ But the more that you can do this,
+
+1:03:57.920 --> 1:04:00.720
+ the more that you can maintain a kind of a cone
+
+1:04:00.720 --> 1:04:02.940
+ or a tunnel of mental focus.
+
+1:04:02.940 --> 1:04:04.880
+ And so I'm sort of revealing my practice,
+
+1:04:04.880 --> 1:04:09.280
+ which is that I've worked very hard through blinking contests
+
+1:04:09.280 --> 1:04:11.960
+ with my 14 year old niece who still beats me every time
+
+1:04:11.960 --> 1:04:12.920
+ and it really bothers me,
+
+1:04:12.920 --> 1:04:15.740
+ but also just through my own self-practice
+
+1:04:15.740 --> 1:04:19.560
+ of learning to blink less and focus my visual attention
+
+1:04:19.560 --> 1:04:21.040
+ on a smaller region of space.
+
+1:04:21.040 --> 1:04:22.760
+ Now for me, that's important
+
+1:04:22.760 --> 1:04:26.100
+ because I'm mainly learning things on a computer screen.
+
+1:04:26.100 --> 1:04:28.560
+ If you're going to be doing sport,
+
+1:04:28.560 --> 1:04:29.480
+ it's quite a bit different
+
+1:04:29.480 --> 1:04:31.620
+ and we can discuss how you might translate that to sport.
+
+1:04:31.620 --> 1:04:33.300
+ In fact, in the next episode,
+
+1:04:33.300 --> 1:04:35.960
+ I'm gonna talk all about how plasticity
+
+1:04:35.960 --> 1:04:37.560
+ and the focus mechanisms relate
+
+1:04:37.560 --> 1:04:40.880
+ to learning of movement practices and coordinated movements.
+
+1:04:40.880 --> 1:04:42.880
+ It's an entire discussion unto itself,
+
+1:04:42.880 --> 1:04:44.020
+ but the same principle holds.
+
+1:04:44.020 --> 1:04:45.940
+ So we need alertness.
+
+1:04:45.940 --> 1:04:50.240
+ You can get that through mental tricks of motivation,
+
+1:04:50.240 --> 1:04:52.520
+ fear or love, whatever it is.
+
+1:04:52.520 --> 1:04:55.680
+ Pharmacology, please do it healthfully.
+
+1:04:55.680 --> 1:04:57.720
+ Caffeine, if that's in your practice.
+
+1:04:57.720 --> 1:04:59.400
+ Certainly want to be well hydrated.
+
+1:04:59.400 --> 1:05:02.320
+ That increases, actually will increase alertness.
+
+1:05:02.320 --> 1:05:04.140
+ Having a very full bladder will increase alertness,
+
+1:05:04.140 --> 1:05:07.000
+ although you don't want your alertness to be so high,
+
+1:05:07.000 --> 1:05:08.280
+ do that, all you can think about it
+
+1:05:08.280 --> 1:05:10.160
+ is the fact that you have to go urinate
+
+1:05:10.160 --> 1:05:11.560
+ because that's very distracting.
+
+1:05:11.560 --> 1:05:14.040
+ You don't want your alertness to go through the roof.
+
+1:05:14.980 --> 1:05:18.160
+ You need focus and visual focus is the primary way
+
+1:05:18.160 --> 1:05:21.280
+ in which we start to deploy these neurochemicals.
+
+1:05:21.280 --> 1:05:24.840
+ Now you may ask, well, what about the experiment
+
+1:05:24.840 --> 1:05:27.140
+ where people were feeling this rotating drum
+
+1:05:27.140 --> 1:05:28.440
+ or listening to the auditory cue,
+
+1:05:28.440 --> 1:05:29.800
+ that doesn't involve vision at all.
+
+1:05:29.800 --> 1:05:32.760
+ Ah, if you look at people who are learning things
+
+1:05:34.120 --> 1:05:35.240
+ with their auditory system,
+
+1:05:35.240 --> 1:05:36.840
+ they will often close their eyes
+
+1:05:36.840 --> 1:05:38.360
+ and that's not a coincidence.
+
+1:05:38.360 --> 1:05:40.260
+ If somebody is listening very hard,
+
+1:05:41.100 --> 1:05:43.000
+ please don't ask them to look you directly in the eye
+
+1:05:43.000 --> 1:05:45.000
+ while also asking that they listen to you.
+
+1:05:45.000 --> 1:05:46.400
+ That's actually one of the worst ways
+
+1:05:46.400 --> 1:05:47.320
+ to get somebody to listen to you.
+
+1:05:47.320 --> 1:05:49.560
+ If you say, now listen to me and look me in the eye,
+
+1:05:49.560 --> 1:05:50.760
+ the visual system will take over
+
+1:05:50.760 --> 1:05:51.920
+ and they'll see your mouth move,
+
+1:05:51.920 --> 1:05:53.060
+ but they're going to hear their thoughts
+
+1:05:53.060 --> 1:05:55.700
+ more they're going to hear what you're saying.
+
+1:05:55.700 --> 1:05:58.000
+ Closing the eyes is one of the best ways
+
+1:05:58.000 --> 1:06:00.620
+ to create a cone of auditory attention.
+
+1:06:00.620 --> 1:06:03.200
+ And this is what low vision or no vision folks do.
+
+1:06:03.200 --> 1:06:06.080
+ They have tremendous capacity to focus their attention
+
+1:06:06.080 --> 1:06:08.120
+ in particular locations.
+
+1:06:08.120 --> 1:06:10.360
+ Incidentally, does anyone know the two animals
+
+1:06:10.360 --> 1:06:13.080
+ that have the best hearing in the world?
+
+1:06:13.080 --> 1:06:14.560
+ The absolute best hearing,
+
+1:06:14.560 --> 1:06:17.120
+ many orders of magnitude better than humans.
+
+1:06:17.120 --> 1:06:19.320
+ Turns out it's the elephant that might not surprise you.
+
+1:06:19.320 --> 1:06:22.000
+ They have huge ears and the moth,
+
+1:06:22.000 --> 1:06:23.000
+ which probably will surprise you.
+
+1:06:23.000 --> 1:06:25.280
+ I didn't even know that moths could hear,
+
+1:06:25.280 --> 1:06:27.760
+ but now it explains why they're so hard to catch.
+
+1:06:30.760 --> 1:06:32.560
+ If you are not sighted,
+
+1:06:32.560 --> 1:06:34.960
+ you learn how to do this with your hearing.
+
+1:06:34.960 --> 1:06:36.200
+ If you're somebody who braille reads,
+
+1:06:36.200 --> 1:06:37.840
+ you learn how to do this with your fingers.
+
+1:06:37.840 --> 1:06:42.840
+ If you look at great piano players like Glenn Gould,
+
+1:06:42.880 --> 1:06:46.700
+ they oftentimes will turn their head to the side.
+
+1:06:46.700 --> 1:06:49.600
+ You think about some of the great musicians
+
+1:06:49.600 --> 1:06:53.520
+ that like Stevie Wonder that were blind, right?
+
+1:06:53.520 --> 1:06:54.360
+ He would look away
+
+1:06:54.360 --> 1:06:56.480
+ because he had no reason to look at the keys,
+
+1:06:56.480 --> 1:06:58.760
+ but oftentimes they'll orient an ear
+
+1:06:58.760 --> 1:07:01.240
+ or one side of their head to the keys on the piano.
+
+1:07:01.240 --> 1:07:02.160
+ As I mentioned before,
+
+1:07:02.160 --> 1:07:03.640
+ people who are non-sighted have better pitch.
+
+1:07:03.640 --> 1:07:06.680
+ So we have these cones of attention that we can devote.
+
+1:07:06.680 --> 1:07:07.860
+ And for most people,
+
+1:07:07.860 --> 1:07:11.040
+ vision is the primary way to train up this focus ability
+
+1:07:11.040 --> 1:07:12.000
+ and these cones of attention.
+
+1:07:12.000 --> 1:07:13.600
+ So you absolutely have to focus
+
+1:07:13.600 --> 1:07:15.200
+ on the thing that you're trying to learn.
+
+1:07:15.200 --> 1:07:17.480
+ And you will feel some agitation
+
+1:07:17.480 --> 1:07:19.120
+ because of the epinephrine in your system.
+
+1:07:19.120 --> 1:07:23.200
+ If you're feeling agitation and it's challenging to focus
+
+1:07:23.200 --> 1:07:24.720
+ and you're feeling like you're not doing it right,
+
+1:07:24.720 --> 1:07:26.840
+ chances are you're doing it right.
+
+1:07:26.840 --> 1:07:29.700
+ And you can practice this ability to stare
+
+1:07:29.700 --> 1:07:31.840
+ for long periods of time without blinking.
+
+1:07:31.840 --> 1:07:34.040
+ I know it's a little eerie for people to watch,
+
+1:07:34.040 --> 1:07:36.080
+ but if your goal is to learn how to control
+
+1:07:36.080 --> 1:07:39.120
+ that visual window for sake of controlling your focus,
+
+1:07:39.120 --> 1:07:41.360
+ it can be an immensely powerful portal
+
+1:07:41.360 --> 1:07:43.440
+ into these mechanisms of plasticity
+
+1:07:43.440 --> 1:07:46.800
+ because we know it engages things like nucleus basalis
+
+1:07:46.800 --> 1:07:49.080
+ and these other brainstem mechanisms.
+
+1:07:49.080 --> 1:07:50.480
+ I get a lot of questions about
+
+1:07:50.480 --> 1:07:53.720
+ attention deficit hyperactivity disorder, ADHD,
+
+1:07:53.720 --> 1:07:56.040
+ and attention deficit disorder.
+
+1:07:56.040 --> 1:07:59.540
+ Some people actually have clinically diagnosed ADD and ADHD.
+
+1:07:59.540 --> 1:08:01.900
+ And if you do, you should certainly work
+
+1:08:01.900 --> 1:08:04.120
+ with a good psychiatrist to try and figure out
+
+1:08:04.120 --> 1:08:08.160
+ the right pharmacology and or behavioral practices for you.
+
+1:08:08.160 --> 1:08:10.260
+ Many people, however, have given themselves
+
+1:08:10.260 --> 1:08:13.800
+ a low grade ADHD or ADD
+
+1:08:13.800 --> 1:08:16.840
+ because of the way that they move through their world.
+
+1:08:16.840 --> 1:08:19.400
+ They are looking at their phone a lot of the time.
+
+1:08:19.400 --> 1:08:21.220
+ It's actually very easy to anchor your attention
+
+1:08:21.220 --> 1:08:22.780
+ to your phone for the following reason.
+
+1:08:22.780 --> 1:08:25.520
+ First of all, it's very restricted in size.
+
+1:08:25.520 --> 1:08:29.000
+ So it's very easy to limit your visual attention
+
+1:08:29.000 --> 1:08:30.280
+ to something about this big.
+
+1:08:30.280 --> 1:08:33.840
+ It's one of the design features of the phone.
+
+1:08:33.840 --> 1:08:36.800
+ The other is that just as you've probably heard,
+
+1:08:36.800 --> 1:08:39.000
+ a picture is worth a thousand words.
+
+1:08:39.000 --> 1:08:42.760
+ Well, a movie is worth 10,000 pictures.
+
+1:08:42.760 --> 1:08:45.440
+ Anytime we're looking at things that have motion,
+
+1:08:45.440 --> 1:08:47.960
+ visual motion, our attentional system
+
+1:08:47.960 --> 1:08:51.980
+ will naturally gravitate towards those movies.
+
+1:08:51.980 --> 1:08:55.080
+ It's actually much harder to read words on a page
+
+1:08:55.080 --> 1:08:57.400
+ than it used to be for many people
+
+1:08:57.400 --> 1:09:00.480
+ because we're used to seeing things spelled out for us
+
+1:09:00.480 --> 1:09:04.200
+ in YouTube videos or videos where things move
+
+1:09:04.200 --> 1:09:05.920
+ and are very dramatic.
+
+1:09:05.920 --> 1:09:07.660
+ It is true that the more that we look
+
+1:09:07.660 --> 1:09:10.000
+ at those motion stimuli,
+
+1:09:10.000 --> 1:09:11.500
+ the more that we're seeing movies of things
+
+1:09:11.500 --> 1:09:14.680
+ and things that are very dramatic and very intense,
+
+1:09:14.680 --> 1:09:17.080
+ the worse we're getting at attending to things
+
+1:09:17.080 --> 1:09:21.280
+ like text on a page or to listening to something
+
+1:09:21.280 --> 1:09:23.640
+ like a podcast and extracting the information.
+
+1:09:23.640 --> 1:09:27.160
+ So much so that I think many people have asked me,
+
+1:09:27.160 --> 1:09:29.440
+ why aren't you providing intense visuals
+
+1:09:29.440 --> 1:09:30.260
+ for us to look at?
+
+1:09:30.260 --> 1:09:31.540
+ Well, frankly, it's because a lot of people
+
+1:09:31.540 --> 1:09:34.160
+ are consuming this content through pure auditory,
+
+1:09:34.160 --> 1:09:35.480
+ through just by listening,
+
+1:09:35.480 --> 1:09:38.400
+ and I want them to be able to digest all the material.
+
+1:09:38.400 --> 1:09:39.920
+ But in addition to that,
+
+1:09:39.920 --> 1:09:42.580
+ if you think about the areas of life
+
+1:09:42.580 --> 1:09:44.980
+ that dictate whether or not we become successful,
+
+1:09:44.980 --> 1:09:47.400
+ independent, healthy individuals,
+
+1:09:48.280 --> 1:09:52.680
+ most of those involve the kind of boring practices
+
+1:09:52.680 --> 1:09:55.300
+ of digesting information on a page.
+
+1:09:55.300 --> 1:09:58.480
+ Boring because it's not as exciting in the moment perhaps
+
+1:09:58.480 --> 1:10:02.680
+ as watching a movie or something being spoonfed to us.
+
+1:10:02.680 --> 1:10:04.760
+ But the more attention that we can put to something,
+
+1:10:04.760 --> 1:10:06.500
+ even if it's fleeting and we feel like
+
+1:10:06.500 --> 1:10:08.320
+ we're only getting little bits and pieces,
+
+1:10:08.320 --> 1:10:11.640
+ shards of the information as opposed to the entire thing,
+
+1:10:11.640 --> 1:10:13.360
+ that has a much more powerful effect
+
+1:10:13.360 --> 1:10:16.420
+ in engaging this cholinergic system for plasticity
+
+1:10:16.420 --> 1:10:19.320
+ than does, for instance, watching a movie.
+
+1:10:19.320 --> 1:10:22.460
+ And that's because when we watch a movie,
+
+1:10:22.460 --> 1:10:24.520
+ the entire thing can be great, it can be awesome,
+
+1:10:24.520 --> 1:10:26.240
+ it can be this overriding experience.
+
+1:10:26.240 --> 1:10:28.200
+ But I think for all those experiences,
+
+1:10:28.200 --> 1:10:30.720
+ if you're somebody who's interested in building your brain
+
+1:10:30.720 --> 1:10:33.340
+ and expanding your brain and getting better
+
+1:10:33.340 --> 1:10:37.320
+ at various things, feeling better, doing better, et cetera,
+
+1:10:37.320 --> 1:10:40.860
+ one has to ask how much of my neurochemical resources
+
+1:10:40.860 --> 1:10:43.120
+ am I devoting to the passive experience
+
+1:10:43.120 --> 1:10:46.660
+ of letting something just kind of overwhelm me and excite me
+
+1:10:46.660 --> 1:10:48.000
+ versus something that I'm really trying
+
+1:10:48.000 --> 1:10:49.520
+ to learn and take away.
+
+1:10:49.520 --> 1:10:51.680
+ And now there's another, I enjoy movie content
+
+1:10:51.680 --> 1:10:53.480
+ and TV content all the time.
+
+1:10:53.480 --> 1:10:58.200
+ I scroll Instagram often, but we are limited
+
+1:10:58.200 --> 1:11:00.360
+ in the extent to which we can grab a hold
+
+1:11:00.360 --> 1:11:03.800
+ of these acetylcholine release mechanisms or epinephrine.
+
+1:11:03.800 --> 1:11:06.300
+ And I think that we need to be careful
+
+1:11:06.300 --> 1:11:10.400
+ that we don't devote all our acetylcholine and epinephrine,
+
+1:11:10.400 --> 1:11:12.200
+ all our dopamine for that matter,
+
+1:11:12.200 --> 1:11:14.220
+ to these passive experiences of things
+
+1:11:14.220 --> 1:11:17.080
+ that are not going to enrich us and better us.
+
+1:11:17.080 --> 1:11:20.080
+ So that's a little bit of an editorial on my part,
+
+1:11:20.080 --> 1:11:23.800
+ but the phone is rich with movies,
+
+1:11:23.800 --> 1:11:25.120
+ it's rich with information.
+
+1:11:25.120 --> 1:11:30.120
+ The real question is, is the information rich for us
+
+1:11:30.240 --> 1:11:33.640
+ in ways that grow us and cultivate smarter,
+
+1:11:33.640 --> 1:11:38.640
+ more emotionally evolved people,
+
+1:11:38.640 --> 1:11:42.040
+ or is it creating, what's it doing
+
+1:11:42.040 --> 1:11:44.440
+ for our physical wellbeing for that matter?
+
+1:11:44.440 --> 1:11:47.920
+ So I don't want to tell people what to do or not to do,
+
+1:11:47.920 --> 1:11:50.960
+ but think carefully about how often you're focusing
+
+1:11:50.960 --> 1:11:53.680
+ on something and how good you are or poor you are
+
+1:11:53.680 --> 1:11:56.760
+ at focusing on something that's challenging.
+
+1:11:56.760 --> 1:11:58.800
+ So once you get this epinephrine, this alertness,
+
+1:11:58.800 --> 1:12:00.880
+ you get the acetylcholine released
+
+1:12:00.880 --> 1:12:03.060
+ and you can focus your attention,
+
+1:12:03.060 --> 1:12:04.640
+ then the question is for how long?
+
+1:12:04.640 --> 1:12:06.120
+ And in an earlier podcast,
+
+1:12:06.120 --> 1:12:07.880
+ I talked about these ultradian cycles
+
+1:12:07.880 --> 1:12:09.640
+ that last about 90 minutes.
+
+1:12:09.640 --> 1:12:12.680
+ The typical learning bout should be about 90 minutes.
+
+1:12:12.680 --> 1:12:16.560
+ I think that learning bout will no doubt include
+
+1:12:16.560 --> 1:12:18.560
+ five to 10 minutes of warmup period.
+
+1:12:18.560 --> 1:12:20.820
+ I think everyone should give themselves permission
+
+1:12:20.820 --> 1:12:24.360
+ to not be fully focused in the early part of that bout,
+
+1:12:24.360 --> 1:12:26.240
+ but that in the middle of that bout,
+
+1:12:26.240 --> 1:12:27.220
+ for the middle hour or so,
+
+1:12:27.220 --> 1:12:28.840
+ you should be able to maintain focus
+
+1:12:28.840 --> 1:12:30.240
+ for about an hour or so.
+
+1:12:30.240 --> 1:12:32.880
+ So that for me means eliminating distractions.
+
+1:12:32.880 --> 1:12:34.720
+ That means turning off the wifi.
+
+1:12:34.720 --> 1:12:36.340
+ I put my phone in the other room.
+
+1:12:36.340 --> 1:12:39.540
+ If I find myself reflexively getting up to get the phone,
+
+1:12:39.540 --> 1:12:41.680
+ I will take the phone and lock it in the car outside.
+
+1:12:41.680 --> 1:12:43.860
+ If I find myself going to get it anyway,
+
+1:12:43.860 --> 1:12:48.520
+ I am guilty of giving away the phone for a period of time
+
+1:12:48.520 --> 1:12:50.840
+ or even things more dramatic.
+
+1:12:50.840 --> 1:12:52.700
+ I've thrown it up on my roof before,
+
+1:12:52.700 --> 1:12:54.720
+ so I can't get to it till the end of the day.
+
+1:12:54.720 --> 1:12:56.200
+ That thing is pretty compelling.
+
+1:12:56.200 --> 1:12:57.600
+ And we come up with all sorts of reasons
+
+1:12:57.600 --> 1:12:59.520
+ why we need it to be in contact with it.
+
+1:12:59.520 --> 1:13:03.240
+ But I encourage you to try experiencing what it is
+
+1:13:03.240 --> 1:13:05.380
+ to be completely immersed in an activity
+
+1:13:05.380 --> 1:13:06.840
+ where you feel the agitation
+
+1:13:06.840 --> 1:13:07.920
+ that your attention is drifting,
+
+1:13:07.920 --> 1:13:09.520
+ but you continually bring it back.
+
+1:13:09.520 --> 1:13:10.680
+ And that's an important point,
+
+1:13:10.680 --> 1:13:12.520
+ which is that attention drifts,
+
+1:13:12.520 --> 1:13:13.800
+ but we have to re-anchor it.
+
+1:13:13.800 --> 1:13:15.280
+ We have to keep grabbing it back.
+
+1:13:15.280 --> 1:13:17.000
+ And the way to do that, if you're sighted,
+
+1:13:17.000 --> 1:13:18.160
+ is with your eyes.
+
+1:13:18.160 --> 1:13:19.960
+ That as your attention drifts and you look away,
+
+1:13:19.960 --> 1:13:23.220
+ you want to try and literally maintain visual focus
+
+1:13:23.220 --> 1:13:24.600
+ on the thing that you're trying to learn.
+
+1:13:24.600 --> 1:13:26.180
+ Feel free to blink, of course,
+
+1:13:26.180 --> 1:13:28.720
+ but you can greatly increase your powers of focus
+
+1:13:28.720 --> 1:13:30.640
+ and the rates of learning,
+
+1:13:30.640 --> 1:13:32.320
+ which is anchored in all the work of Merzinek,
+
+1:13:32.320 --> 1:13:34.540
+ Hubel and Wiesel, and others.
+
+1:13:34.540 --> 1:13:37.080
+ Now that's the trigger for plasticity.
+
+1:13:37.080 --> 1:13:41.720
+ But the real secret is that neuroplasticity
+
+1:13:41.720 --> 1:13:44.420
+ doesn't occur during wakefulness.
+
+1:13:44.420 --> 1:13:46.520
+ It occurs during sleep.
+
+1:13:46.520 --> 1:13:51.520
+ We now know that if you focus very hard on something
+
+1:13:52.640 --> 1:13:54.000
+ for about 90 minutes or so,
+
+1:13:54.000 --> 1:13:56.120
+ maybe you even do several bouts of that per day,
+
+1:13:56.120 --> 1:13:58.600
+ if you can do that, some people can,
+
+1:13:58.600 --> 1:14:01.920
+ some people can only do one focus bout of learning.
+
+1:14:01.920 --> 1:14:04.760
+ That night and the following nights while you sleep,
+
+1:14:04.760 --> 1:14:07.720
+ the neural circuits that were highlighted, if you will,
+
+1:14:07.720 --> 1:14:10.600
+ with acetylcholine transmission will strengthen
+
+1:14:10.600 --> 1:14:12.720
+ and other ones will be lost,
+
+1:14:12.720 --> 1:14:15.760
+ which is wonderful because that's the essence of plasticity.
+
+1:14:15.760 --> 1:14:18.520
+ And what it means is that when you eventually wake up
+
+1:14:18.520 --> 1:14:19.680
+ a couple of days or a week later,
+
+1:14:19.680 --> 1:14:22.520
+ you will have acquired the knowledge forever,
+
+1:14:22.520 --> 1:14:25.120
+ unless you go through some process to actively unlearn it.
+
+1:14:25.120 --> 1:14:27.720
+ And we will talk about unlearning in a later episode.
+
+1:14:29.400 --> 1:14:30.840
+ So mastering sleep is key
+
+1:14:30.840 --> 1:14:32.880
+ in order to reinforce the learning that occurs.
+
+1:14:32.880 --> 1:14:35.200
+ But let's say you get a really poor night of sleep
+
+1:14:35.200 --> 1:14:36.960
+ after a bout of learning.
+
+1:14:36.960 --> 1:14:39.400
+ Chances are if you sleep the next night
+
+1:14:39.400 --> 1:14:42.480
+ or the following night, that learning will occur.
+
+1:14:42.480 --> 1:14:43.960
+ There's a stamp in the brain
+
+1:14:43.960 --> 1:14:45.560
+ where this acetylcholine was released.
+
+1:14:45.560 --> 1:14:48.540
+ It actually marks those synapses neurochemically
+
+1:14:48.540 --> 1:14:51.240
+ and metabolically so that those synapses
+
+1:14:51.240 --> 1:14:52.900
+ are more biased to change.
+
+1:14:52.900 --> 1:14:55.120
+ Now, if you don't ever get that deep sleep,
+
+1:14:55.120 --> 1:14:57.420
+ then you probably won't get those changes.
+
+1:14:57.420 --> 1:15:01.580
+ But there's also a way in which you can bypass the need
+
+1:15:01.580 --> 1:15:03.340
+ for deep sleep, at least partially,
+
+1:15:03.340 --> 1:15:06.580
+ by engaging in what I call non-sleep deep rest,
+
+1:15:06.580 --> 1:15:08.420
+ these NSDR protocols.
+
+1:15:08.420 --> 1:15:09.860
+ But I just want to discuss the science of this.
+
+1:15:09.860 --> 1:15:11.900
+ There was a paper that was published
+
+1:15:11.900 --> 1:15:14.260
+ in Cell Reports last year
+
+1:15:14.260 --> 1:15:16.100
+ that shows that if people did,
+
+1:15:16.100 --> 1:15:17.420
+ it was a spatial memory task,
+
+1:15:17.420 --> 1:15:18.660
+ actually a quite difficult one
+
+1:15:18.660 --> 1:15:20.340
+ where they had to remember the sequence of lights
+
+1:15:20.340 --> 1:15:21.380
+ lighting up.
+
+1:15:21.380 --> 1:15:22.900
+ And if they're just two or three lights
+
+1:15:22.900 --> 1:15:24.140
+ in a particular sequence, it's easy.
+
+1:15:24.140 --> 1:15:26.920
+ But as you get up to 15 or 16 lights
+
+1:15:26.920 --> 1:15:29.060
+ and think numbers in the sequence,
+
+1:15:29.060 --> 1:15:30.900
+ it actually gets quite challenging.
+
+1:15:30.900 --> 1:15:33.100
+ If immediately after,
+
+1:15:33.100 --> 1:15:35.020
+ and it was immediately after the learning,
+
+1:15:35.020 --> 1:15:37.040
+ the actual performance of this task,
+
+1:15:37.040 --> 1:15:41.040
+ people took a 20-minute non-sleep deep rest protocol,
+
+1:15:42.540 --> 1:15:45.020
+ or took a shallow nap,
+
+1:15:45.020 --> 1:15:47.580
+ so lying down, feet slightly elevated perhaps,
+
+1:15:47.580 --> 1:15:50.380
+ just closing their eyes, no sensory input,
+
+1:15:50.380 --> 1:15:52.840
+ the rates of learning were significantly higher
+
+1:15:52.840 --> 1:15:54.120
+ for that information
+
+1:15:54.120 --> 1:15:57.180
+ than were to just had a good night's sleep
+
+1:15:57.180 --> 1:15:58.220
+ the following night.
+
+1:15:58.220 --> 1:15:59.860
+ So you can actually accelerate learning
+
+1:15:59.860 --> 1:16:01.420
+ with these NSDR protocols
+
+1:16:01.420 --> 1:16:04.220
+ or with brief naps, 90 minutes or less.
+
+1:16:04.220 --> 1:16:09.020
+ So the key to plasticity in childhood is to be a child.
+
+1:16:09.020 --> 1:16:11.340
+ The key to plasticity in adulthood
+
+1:16:11.340 --> 1:16:14.700
+ is to engage alertness, engage focus,
+
+1:16:14.700 --> 1:16:18.140
+ and then to engage non-sleep deep rest
+
+1:16:18.140 --> 1:16:22.760
+ and deep sleep while you're in your typical bout of sleep.
+
+1:16:22.760 --> 1:16:25.760
+ I always get asked, how many bouts of learning
+
+1:16:25.760 --> 1:16:26.600
+ can I perform?
+
+1:16:26.600 --> 1:16:28.940
+ Well, I know people that train up
+
+1:16:28.940 --> 1:16:31.080
+ these visual focus mechanisms
+
+1:16:31.080 --> 1:16:34.380
+ to the point where they can do several 90-minute bouts
+
+1:16:34.380 --> 1:16:36.780
+ throughout the day, as many as three or four.
+
+1:16:36.780 --> 1:16:38.100
+ And some of them are also inserting
+
+1:16:38.100 --> 1:16:40.160
+ non-sleep deep rest as well.
+
+1:16:40.160 --> 1:16:41.540
+ Now that can get pretty tricky.
+
+1:16:41.540 --> 1:16:45.040
+ A lot of people find that they can recover best
+
+1:16:45.040 --> 1:16:48.860
+ from these intense bouts of focused learning
+
+1:16:48.860 --> 1:16:51.540
+ by doing some motor activity,
+
+1:16:51.540 --> 1:16:53.940
+ where you get into self-generated optic flow.
+
+1:16:53.940 --> 1:16:55.140
+ And that should make sense
+
+1:16:55.140 --> 1:16:56.820
+ if you've ever heard me lecture about stress,
+
+1:16:56.820 --> 1:16:59.060
+ which I've done a little bit in various podcasts.
+
+1:16:59.060 --> 1:17:01.380
+ When we are in a mode of self-generated optic flow
+
+1:17:01.380 --> 1:17:03.900
+ like walking or running or cycling
+
+1:17:03.900 --> 1:17:06.660
+ and things are just floating past us on our retina,
+
+1:17:06.660 --> 1:17:08.260
+ we're not really looking anywhere in particular.
+
+1:17:08.260 --> 1:17:10.980
+ So this is the opposite of a tight window of focus.
+
+1:17:10.980 --> 1:17:13.660
+ When we do that, there are areas of the brain
+
+1:17:13.660 --> 1:17:15.640
+ like the amygdala, which are involved
+
+1:17:15.640 --> 1:17:18.820
+ in releasing epinephrine and create alertness.
+
+1:17:18.820 --> 1:17:21.600
+ At the extremes, it creates fear, but certainly alertness.
+
+1:17:21.600 --> 1:17:22.840
+ Those all shut down.
+
+1:17:22.840 --> 1:17:25.920
+ So it's its own form of non-sleep deep rest.
+
+1:17:25.920 --> 1:17:29.580
+ So some people find it much more pleasurable and practical
+
+1:17:29.580 --> 1:17:33.300
+ to engage in a focused bout of learning
+
+1:17:33.300 --> 1:17:36.860
+ and then go do some activity that involves
+
+1:17:36.860 --> 1:17:38.500
+ what we would essentially call wordlessness,
+
+1:17:38.500 --> 1:17:40.180
+ where you're not really thinking about much of anything.
+
+1:17:40.180 --> 1:17:41.900
+ And so for those of you that listen to audio books
+
+1:17:41.900 --> 1:17:43.460
+ or podcasts while you run,
+
+1:17:43.460 --> 1:17:44.720
+ you may want to consider whether or not
+
+1:17:44.720 --> 1:17:47.220
+ that's how you want to spend your time.
+
+1:17:47.220 --> 1:17:49.240
+ Now, I'd love it if you were listening to this podcast
+
+1:17:49.240 --> 1:17:52.340
+ while you run or cycle, but I'm much more interested
+
+1:17:52.340 --> 1:17:55.260
+ in you actually getting the benefits of neuroplasticity
+
+1:17:55.260 --> 1:17:58.100
+ than just listening to me for sake of listening to me.
+
+1:17:58.100 --> 1:18:02.540
+ So for many people, letting the mind drift
+
+1:18:02.540 --> 1:18:04.720
+ where it's not organized in thought
+
+1:18:04.720 --> 1:18:07.380
+ after a period of very deliberate focused effort
+
+1:18:07.380 --> 1:18:09.220
+ is the best way to accelerate learning
+
+1:18:09.220 --> 1:18:10.060
+ and depth of learning.
+
+1:18:10.060 --> 1:18:11.280
+ And there are good scientific data
+
+1:18:11.280 --> 1:18:12.500
+ to support these sorts of things,
+
+1:18:12.500 --> 1:18:14.140
+ including the cell reports paper
+
+1:18:14.140 --> 1:18:16.300
+ that I mentioned a few moments ago.
+
+1:18:16.300 --> 1:18:18.180
+ I want to synthesize some of the information
+
+1:18:18.180 --> 1:18:20.460
+ that we've covered up until now.
+
+1:18:20.460 --> 1:18:23.220
+ This entire month is about neuroplasticity.
+
+1:18:23.220 --> 1:18:25.560
+ Today's episode has covered a lot,
+
+1:18:25.560 --> 1:18:29.240
+ but by no means has it covered all of the potential
+
+1:18:29.240 --> 1:18:32.460
+ for neuroplasticity and protocols for plasticity.
+
+1:18:32.460 --> 1:18:34.220
+ We will get into all of it.
+
+1:18:34.220 --> 1:18:37.520
+ But today I want to make sure that these key elements
+
+1:18:37.520 --> 1:18:40.020
+ that form the backbone of neuroplasticity
+
+1:18:40.020 --> 1:18:42.540
+ are really embedded in people's minds.
+
+1:18:42.540 --> 1:18:46.420
+ First of all, plasticity occurs throughout the lifespan.
+
+1:18:46.420 --> 1:18:49.580
+ Early from birth until 25,
+
+1:18:49.580 --> 1:18:54.300
+ mere exposure to a sensory event can create plasticity.
+
+1:18:54.300 --> 1:18:56.540
+ That could be a good thing or a bad thing.
+
+1:18:56.540 --> 1:18:58.700
+ We're going to talk about unlearning the bad stuff,
+
+1:18:58.700 --> 1:19:02.300
+ traumas, et cetera, in a subsequent episode this month.
+
+1:19:04.400 --> 1:19:08.880
+ If you want to learn as an adult, you have to be alert.
+
+1:19:08.880 --> 1:19:10.120
+ It might seem so obvious,
+
+1:19:10.120 --> 1:19:12.640
+ but I think a lot of people don't think about
+
+1:19:12.640 --> 1:19:15.860
+ when in their 24 hour cycle they're most alert.
+
+1:19:17.320 --> 1:19:21.300
+ There are four episodes devoted to that 24 hour cycle
+
+1:19:21.300 --> 1:19:22.980
+ and the cycles of alertness and sleep.
+
+1:19:22.980 --> 1:19:24.100
+ I encourage you to listen to those
+
+1:19:24.100 --> 1:19:27.020
+ if you haven't had the opportunity to yet,
+
+1:19:27.020 --> 1:19:29.080
+ or just ask yourself when during the day
+
+1:19:29.080 --> 1:19:31.180
+ do you typically tend to be most alert.
+
+1:19:31.180 --> 1:19:33.940
+ That will afford you an advantage
+
+1:19:33.940 --> 1:19:36.900
+ in learning specific things during that period of time.
+
+1:19:36.900 --> 1:19:38.680
+ So don't give up that period of time
+
+1:19:38.680 --> 1:19:41.240
+ for things that are meaningless, useless,
+
+1:19:41.240 --> 1:19:43.020
+ or not aligned with your goals.
+
+1:19:43.020 --> 1:19:47.220
+ That'd be a terrible time to get into passive observance
+
+1:19:47.220 --> 1:19:51.220
+ or just letting your time get soaked away by something.
+
+1:19:51.220 --> 1:19:53.120
+ That is a valuable asset.
+
+1:19:53.120 --> 1:19:56.100
+ That epinephrine released from your brainstem
+
+1:19:57.300 --> 1:19:59.860
+ is going to occur more readily at particular phases
+
+1:19:59.860 --> 1:20:02.540
+ of your 24 hour cycle than others,
+
+1:20:02.540 --> 1:20:05.340
+ during the waking phase, of course.
+
+1:20:05.340 --> 1:20:07.620
+ You should know when those are.
+
+1:20:07.620 --> 1:20:10.180
+ And then you could start to think about
+
+1:20:10.180 --> 1:20:11.380
+ the behavioral practices,
+
+1:20:11.380 --> 1:20:13.940
+ maybe the pharmacologic practices like caffeine,
+
+1:20:13.940 --> 1:20:14.980
+ hydration, et cetera,
+
+1:20:14.980 --> 1:20:19.140
+ that will support heightened levels of alertness.
+
+1:20:19.140 --> 1:20:20.900
+ Attention is something that can be learned
+
+1:20:20.900 --> 1:20:25.260
+ and attention is critical for creating that condition
+
+1:20:25.260 --> 1:20:28.220
+ where whatever it is that you are engaging in
+
+1:20:28.220 --> 1:20:31.400
+ will modify your brain in a way
+
+1:20:31.400 --> 1:20:34.300
+ that you won't have to spend so much attention on it
+
+1:20:34.300 --> 1:20:35.140
+ going forward.
+
+1:20:35.140 --> 1:20:36.240
+ That's the essence of plasticity,
+
+1:20:36.240 --> 1:20:38.060
+ that things will eventually become reflexive,
+
+1:20:38.060 --> 1:20:39.600
+ the language that you're learning,
+
+1:20:39.600 --> 1:20:41.460
+ the motor movement, the cognitive skill,
+
+1:20:41.460 --> 1:20:44.500
+ the ability to suppress an emotional response
+
+1:20:44.500 --> 1:20:46.180
+ or to engage in emotional response,
+
+1:20:46.180 --> 1:20:47.620
+ depending on what your goals are
+
+1:20:47.620 --> 1:20:49.120
+ and what's appropriate for you.
+
+1:20:50.180 --> 1:20:52.660
+ Increasing acetylcholine can be accomplished
+
+1:20:52.660 --> 1:20:54.740
+ pharmacologically through nicotine.
+
+1:20:54.740 --> 1:20:57.020
+ However, there are certain dangers
+
+1:20:57.020 --> 1:20:58.920
+ for many people to do that,
+
+1:20:58.920 --> 1:21:01.860
+ as well as a cost, a financial cost.
+
+1:21:03.220 --> 1:21:05.580
+ Learning how to engage the cholinergic system
+
+1:21:05.580 --> 1:21:07.060
+ through the use of the visual system.
+
+1:21:07.060 --> 1:21:10.000
+ Practicing how long can you maintain focus
+
+1:21:10.000 --> 1:21:12.080
+ with blanks as you need them,
+
+1:21:12.960 --> 1:21:16.940
+ but how long can you maintain visual focus on a target,
+
+1:21:16.940 --> 1:21:20.260
+ just on a piece of paper set a few feet away in the room
+
+1:21:20.260 --> 1:21:21.980
+ or at the level of your computer screen.
+
+1:21:21.980 --> 1:21:24.440
+ These are actually things that people do in communities
+
+1:21:24.440 --> 1:21:27.560
+ where high levels of visual focus are necessary.
+
+1:21:27.560 --> 1:21:29.460
+ Now, the other way to get high levels of visual focus
+
+1:21:29.460 --> 1:21:31.220
+ and alertness is to have a panic
+
+1:21:31.220 --> 1:21:33.900
+ or to have a situation that's very, very bad.
+
+1:21:33.900 --> 1:21:35.980
+ You will be immediately focused on everything
+
+1:21:35.980 --> 1:21:39.620
+ related to that situation, but that's unfortunate.
+
+1:21:39.620 --> 1:21:40.860
+ What we're really talking about here
+
+1:21:40.860 --> 1:21:43.500
+ is trying to harness the mechanisms of attention
+
+1:21:43.500 --> 1:21:45.540
+ and get better at paying attention.
+
+1:21:45.540 --> 1:21:47.220
+ You may want to do that with your auditory system,
+
+1:21:47.220 --> 1:21:48.900
+ not with your visual system,
+
+1:21:48.900 --> 1:21:51.300
+ either because you're low vision or no vision,
+
+1:21:51.300 --> 1:21:52.640
+ or because you're trying to learn something
+
+1:21:52.640 --> 1:21:54.620
+ that relates more to sounds than to what you see.
+
+1:21:54.620 --> 1:21:55.920
+ But for most people,
+
+1:21:55.920 --> 1:21:58.140
+ they're trying to learn information, cognitive information,
+
+1:21:58.140 --> 1:22:00.780
+ or they're trying to learn how to hear the nuance
+
+1:22:00.780 --> 1:22:02.940
+ in their partner's explanations
+
+1:22:02.940 --> 1:22:05.820
+ of their emotionally challenging events, et cetera.
+
+1:22:05.820 --> 1:22:08.040
+ And just remember, by the way, what I said earlier,
+
+1:22:08.040 --> 1:22:11.180
+ which is that if you really want somebody to listen to you
+
+1:22:11.180 --> 1:22:14.500
+ and really hear what you're saying and what's underlying it,
+
+1:22:14.500 --> 1:22:16.740
+ you should not and cannot expect them
+
+1:22:16.740 --> 1:22:18.300
+ to look directly at you while you do that.
+
+1:22:18.300 --> 1:22:20.620
+ That's actually going to limit their ability to focus.
+
+1:22:20.620 --> 1:22:22.180
+ I'm trying to rescue a few folks out there
+
+1:22:22.180 --> 1:22:24.340
+ who might be in this struggle.
+
+1:22:24.340 --> 1:22:26.540
+ I, of course, have never been in this struggle.
+
+1:22:28.180 --> 1:22:30.420
+ And that was supposed to be a joke.
+
+1:22:30.420 --> 1:22:32.940
+ I'm very familiar with that struggle.
+
+1:22:32.940 --> 1:22:35.420
+ But I know that one can get better at listening.
+
+1:22:35.420 --> 1:22:37.180
+ One can get better at learning.
+
+1:22:37.180 --> 1:22:39.700
+ One can get better at all sorts of things
+
+1:22:39.700 --> 1:22:42.080
+ by anchoring in these mechanisms.
+
+1:22:42.080 --> 1:22:44.600
+ Now, of course, you can also combine protocols.
+
+1:22:44.600 --> 1:22:48.380
+ You can decide to combine pharmacology
+
+1:22:48.380 --> 1:22:50.680
+ with these learning practices.
+
+1:22:50.680 --> 1:22:53.320
+ Many people in communities do that.
+
+1:22:53.320 --> 1:22:55.040
+ Many people are doing that naturally
+
+1:22:55.040 --> 1:22:58.260
+ by drinking their coffee right before they do their learning.
+
+1:22:58.260 --> 1:23:00.620
+ But I would also encourage you to think about
+
+1:23:00.620 --> 1:23:02.180
+ how long those learning bouts are.
+
+1:23:02.180 --> 1:23:06.780
+ If you think you have an ADD or ADHD,
+
+1:23:06.780 --> 1:23:09.240
+ see a clinician, but you should also ask yourself,
+
+1:23:09.240 --> 1:23:11.200
+ are you giving up the best period of focus
+
+1:23:11.200 --> 1:23:13.060
+ that you have each day naturally
+
+1:23:13.060 --> 1:23:16.400
+ to some other thing like social media
+
+1:23:16.400 --> 1:23:19.060
+ or some other activity that doesn't serve you well?
+
+1:23:19.060 --> 1:23:22.860
+ Or are you devoting that period to the opportunity to learn?
+
+1:23:23.740 --> 1:23:25.180
+ You should also ask yourself
+
+1:23:25.180 --> 1:23:27.640
+ whether or not you're trying to focus too much
+
+1:23:27.640 --> 1:23:29.360
+ for too long during the day.
+
+1:23:30.320 --> 1:23:33.300
+ I know some very high-performing individuals,
+
+1:23:33.300 --> 1:23:36.060
+ very high-performing in a variety of contexts,
+
+1:23:36.060 --> 1:23:37.940
+ and none of them are focused all day long.
+
+1:23:37.940 --> 1:23:40.140
+ Many of them take walks down the hallway,
+
+1:23:40.140 --> 1:23:41.420
+ sometimes mumbling to themselves
+
+1:23:41.420 --> 1:23:42.920
+ or not paying attention to anything else.
+
+1:23:42.920 --> 1:23:45.080
+ They go for bike rides, they take walks.
+
+1:23:45.080 --> 1:23:47.380
+ They are not trying to engage their mind
+
+1:23:47.380 --> 1:23:49.840
+ at maximum focus all the time.
+
+1:23:49.840 --> 1:23:53.300
+ Very few people do that because we learn best
+
+1:23:53.300 --> 1:23:54.580
+ in these 90-minute bouts
+
+1:23:54.580 --> 1:23:56.660
+ inside of one of these ultradian cycles.
+
+1:23:56.660 --> 1:23:58.260
+ And I should repeat again
+
+1:23:58.260 --> 1:23:59.760
+ that within that 90-minute cycle,
+
+1:23:59.760 --> 1:24:01.320
+ you should not expect yourself to focus
+
+1:24:01.320 --> 1:24:03.340
+ for the entire period of one 90-minute cycle.
+
+1:24:03.340 --> 1:24:04.380
+ At the beginning and end
+
+1:24:04.380 --> 1:24:06.820
+ are going to be a little bit flickering in and out of focus.
+
+1:24:06.820 --> 1:24:09.020
+ How do you know when one of these 90-minute cycles
+
+1:24:09.020 --> 1:24:10.460
+ is starting?
+
+1:24:10.460 --> 1:24:11.500
+ Well, typically when you wake up
+
+1:24:11.500 --> 1:24:13.100
+ is the beginning of the first 90-minute cycle,
+
+1:24:13.100 --> 1:24:14.780
+ but it's not down to the minute.
+
+1:24:14.780 --> 1:24:17.100
+ You'll be able to tap into your sense
+
+1:24:17.100 --> 1:24:18.180
+ of these 90-minute cycles
+
+1:24:18.180 --> 1:24:20.860
+ as you start to engage in these learning practices
+
+1:24:20.860 --> 1:24:22.420
+ should you choose.
+
+1:24:22.420 --> 1:24:24.820
+ And then of course, getting some non-sleep deep rest
+
+1:24:24.820 --> 1:24:27.020
+ or just deliberate disengagement
+
+1:24:27.020 --> 1:24:30.040
+ such as walking or running
+
+1:24:30.040 --> 1:24:34.380
+ or just sitting eyes closed or eyes open kind of mindlessly,
+
+1:24:34.380 --> 1:24:35.520
+ it might seem in a chair,
+
+1:24:35.520 --> 1:24:36.860
+ just letting your thoughts move around
+
+1:24:36.860 --> 1:24:39.540
+ after a learning bout will accelerate
+
+1:24:39.540 --> 1:24:40.740
+ the rate of plasticity
+
+1:24:40.740 --> 1:24:43.460
+ that's been shown in quality peer-reviewed studies.
+
+1:24:44.980 --> 1:24:46.820
+ And then of course, deep sleep.
+
+1:24:46.820 --> 1:24:49.860
+ And so what we can start to see is that
+
+1:24:49.860 --> 1:24:54.860
+ plasticity is your natural right early in life,
+
+1:24:55.260 --> 1:24:57.820
+ but after about age 25,
+
+1:24:57.820 --> 1:25:00.420
+ you have to do some work in order to access it.
+
+1:25:00.420 --> 1:25:03.260
+ But fortunately, these beautiful experiments
+
+1:25:03.260 --> 1:25:06.340
+ of Hubel and Wiesel and Merzenich and Weinberger and others
+
+1:25:06.340 --> 1:25:08.980
+ point in the direction of what allows us
+
+1:25:08.980 --> 1:25:10.180
+ to achieve plasticity.
+
+1:25:10.180 --> 1:25:12.620
+ It points to the neurochemicals and the circuits.
+
+1:25:12.620 --> 1:25:14.800
+ And we now have behavioral protocols
+
+1:25:14.800 --> 1:25:16.060
+ that allow us to do that.
+
+1:25:16.060 --> 1:25:19.700
+ I also really want to emphasize
+
+1:25:19.700 --> 1:25:23.740
+ that there's an entire other aspect of behavioral practices
+
+1:25:23.740 --> 1:25:26.220
+ that will allow us to engage in plasticity
+
+1:25:26.220 --> 1:25:29.880
+ that don't involve intense focus and emotionality,
+
+1:25:29.880 --> 1:25:32.620
+ but involve a lot of repetition.
+
+1:25:32.620 --> 1:25:35.900
+ So there's another entire category of plasticity
+
+1:25:35.900 --> 1:25:40.100
+ that involves doing what seemed like almost mundane things,
+
+1:25:40.100 --> 1:25:44.140
+ but doing them over and over again repeatedly
+
+1:25:44.140 --> 1:25:47.140
+ and incorporating the reward system that involves dopamine.
+
+1:25:47.140 --> 1:25:49.140
+ So today I talked about the kind of plasticity
+
+1:25:49.140 --> 1:25:50.740
+ that comes from extreme focus.
+
+1:25:50.740 --> 1:25:53.460
+ You would get that extreme focus and alertness naturally
+
+1:25:53.460 --> 1:25:56.260
+ through a hard or difficult event that you didn't want.
+
+1:25:56.260 --> 1:25:57.500
+ That's the kind of stinger,
+
+1:25:57.500 --> 1:25:59.100
+ but your brain is designed to keep you safe.
+
+1:25:59.100 --> 1:26:01.180
+ So it wants to get one trial learning
+
+1:26:01.180 --> 1:26:02.980
+ from things like touching a hot stove
+
+1:26:02.980 --> 1:26:05.360
+ or engaging with a really horrible person.
+
+1:26:07.980 --> 1:26:12.380
+ You can get incredible plasticity of positive experiences
+
+1:26:12.380 --> 1:26:15.980
+ of things that you want by engaging this high focus regime
+
+1:26:15.980 --> 1:26:18.420
+ and then rest, non-sleep deep rest and sleep.
+
+1:26:19.280 --> 1:26:21.540
+ And there's another aspect of plasticity
+
+1:26:21.540 --> 1:26:24.380
+ which we will explore next episode
+
+1:26:24.380 --> 1:26:27.980
+ as well as when we explore movement-based practices
+
+1:26:27.980 --> 1:26:32.540
+ for enhancing plasticity and plasticity of movement itself.
+
+1:26:32.540 --> 1:26:35.860
+ And those are not of the high attention,
+
+1:26:35.860 --> 1:26:37.540
+ kind of high emotionality
+
+1:26:37.540 --> 1:26:42.340
+ or the intensity of the experiences that I described today,
+
+1:26:42.340 --> 1:26:45.940
+ those are more about repetition and reward and repeat,
+
+1:26:45.940 --> 1:26:47.780
+ repetition, reward, repeat.
+
+1:26:47.780 --> 1:26:51.380
+ And they are used for a distinctly different category
+
+1:26:51.380 --> 1:26:54.640
+ of behavioral change, more of which relate to habits
+
+1:26:54.640 --> 1:26:58.720
+ as opposed to learning of particular types of information
+
+1:26:58.720 --> 1:27:03.720
+ that allow us to perform physically, cognitively
+
+1:27:04.180 --> 1:27:06.580
+ or adjust our emotional system.
+
+1:27:06.580 --> 1:27:07.420
+ So I'm going to stop there.
+
+1:27:07.420 --> 1:27:09.700
+ I'm sure there are a lot of questions.
+
+1:27:09.700 --> 1:27:11.940
+ Please put your questions in the comment section below
+
+1:27:11.940 --> 1:27:13.920
+ and please remember that this entire month
+
+1:27:13.920 --> 1:27:16.100
+ we're going to be exploring neuroplasticity.
+
+1:27:16.100 --> 1:27:20.420
+ So this discussion slash lecture,
+
+1:27:20.420 --> 1:27:21.900
+ I wish it was more of a back and forth
+
+1:27:21.900 --> 1:27:24.640
+ but this is what the format offers us.
+
+1:27:24.640 --> 1:27:27.340
+ So please do put your questions in the comment section
+
+1:27:27.340 --> 1:27:30.460
+ and I will address them in the other episodes coming soon
+
+1:27:30.460 --> 1:27:32.440
+ on neuroplasticity.
+
+1:27:32.440 --> 1:27:35.620
+ As I say that, I'm reminded that many of you
+
+1:27:35.620 --> 1:27:38.660
+ are listening to this on Apple or Spotify
+
+1:27:38.660 --> 1:27:42.020
+ and therefore there isn't an opportunity to leave comments
+
+1:27:42.020 --> 1:27:44.780
+ aside from the rating section on Apple.
+
+1:27:44.780 --> 1:27:48.320
+ So if you have specific topics related to neuroplasticity
+
+1:27:48.320 --> 1:27:49.660
+ that you would like me to cover
+
+1:27:49.660 --> 1:27:51.800
+ in the subsequent episodes this month,
+
+1:27:51.800 --> 1:27:54.660
+ please go to the YouTube, subscribe,
+
+1:27:54.660 --> 1:27:57.080
+ but as well, please put your question
+
+1:27:57.080 --> 1:27:58.820
+ in the comment section for this episode
+
+1:27:58.820 --> 1:28:01.680
+ and I'll be sure to read them and respond.
+
+1:28:01.680 --> 1:28:03.540
+ Many of you have very graciously asked
+
+1:28:03.540 --> 1:28:06.700
+ how you can help support the Huberman Lab Podcast.
+
+1:28:06.700 --> 1:28:10.300
+ Best way to do that is to subscribe on YouTube.
+
+1:28:10.300 --> 1:28:12.380
+ You might want to also hit the notification button
+
+1:28:12.380 --> 1:28:15.420
+ so that you don't miss any upcoming episodes.
+
+1:28:15.420 --> 1:28:16.660
+ Leave a comment.
+
+1:28:16.660 --> 1:28:18.200
+ As well, if you go to Apple,
+
+1:28:18.200 --> 1:28:20.140
+ you can give us a five-star rating
+
+1:28:20.140 --> 1:28:23.180
+ and there's a place there where also you can leave a comment
+
+1:28:23.180 --> 1:28:24.940
+ and if you prefer to listen on Spotify,
+
+1:28:24.940 --> 1:28:27.420
+ subscribe and download on Spotify.
+
+1:28:27.420 --> 1:28:30.500
+ In addition, it's always helpful if you recommend the podcast
+
+1:28:30.500 --> 1:28:32.260
+ to your friends and family and others
+
+1:28:32.260 --> 1:28:34.980
+ who you think might benefit from the information
+
+1:28:34.980 --> 1:28:38.000
+ and as well, please check out our sponsors.
+
+1:28:38.000 --> 1:28:40.020
+ That's a great way to help us.
+
+1:28:40.020 --> 1:28:42.140
+ Today and in previous episodes,
+
+1:28:42.140 --> 1:28:44.700
+ I've talked a number of times about supplements.
+
+1:28:44.700 --> 1:28:46.260
+ I'm very pleased that we're partnering
+
+1:28:46.260 --> 1:28:49.820
+ with Thorne, T-H-O-R-N-E supplements
+
+1:28:49.820 --> 1:28:53.140
+ because Thorne has the very high levels of stringency
+
+1:28:53.140 --> 1:28:56.180
+ in terms of product quality and precision
+
+1:28:56.180 --> 1:28:59.900
+ about how much of given supplements are in the bottle,
+
+1:28:59.900 --> 1:29:02.620
+ which is vital and not all supplement companies
+
+1:29:02.620 --> 1:29:05.320
+ have stood up to the test on that one.
+
+1:29:05.320 --> 1:29:08.560
+ If you wanna check out Thorne and go to Thorne,
+
+1:29:08.560 --> 1:29:13.560
+ that's thorne.com slash U slash Huberman
+
+1:29:13.820 --> 1:29:14.960
+ and if you do that,
+
+1:29:14.960 --> 1:29:18.460
+ you'll get 20% off any supplements that you purchase.
+
+1:29:18.460 --> 1:29:21.640
+ I've also listed there a gallery of supplements that I take
+
+1:29:21.640 --> 1:29:23.320
+ including magnesium glycinate.
+
+1:29:23.320 --> 1:29:24.820
+ I know in previous episodes,
+
+1:29:24.820 --> 1:29:27.840
+ I talked about magnesium threonate as a sleep aid
+
+1:29:27.840 --> 1:29:28.800
+ that I take.
+
+1:29:28.800 --> 1:29:31.540
+ Magnesium glycinate and magnesium threonate
+
+1:29:31.540 --> 1:29:33.820
+ are essentially interchangeable.
+
+1:29:33.820 --> 1:29:35.300
+ Thanks so much for your time and attention
+
+1:29:35.300 --> 1:29:36.520
+ and as always,
+
+1:29:36.520 --> 1:29:38.260
+ thank you for your interest in science.
+
+1:29:38.260 --> 1:30:03.260
+ I'll see you in the next one.
+

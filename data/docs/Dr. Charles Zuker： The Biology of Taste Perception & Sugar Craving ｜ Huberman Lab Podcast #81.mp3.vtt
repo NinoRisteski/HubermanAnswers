@@ -1,0 +1,8165 @@
+WEBVTT
+
+00:00.000 --> 00:02.280
+ Welcome to the Huberman Lab Podcast,
+
+00:02.280 --> 00:04.880
+ where we discuss science and science-based tools
+
+00:04.880 --> 00:05.920
+ for everyday life.
+
+00:09.260 --> 00:10.320
+ I'm Andrew Huberman,
+
+00:10.320 --> 00:13.120
+ and I'm a professor of neurobiology and ophthalmology
+
+00:13.120 --> 00:15.000
+ at Stanford School of Medicine.
+
+00:15.000 --> 00:17.560
+ Today, my guest is Dr. Charles Zucker.
+
+00:17.560 --> 00:19.720
+ Dr. Zucker is a professor of biochemistry
+
+00:19.720 --> 00:22.320
+ and molecular biophysics and of neuroscience
+
+00:22.320 --> 00:25.160
+ at Columbia University School of Medicine.
+
+00:25.160 --> 00:27.680
+ Dr. Zucker is one of the world's leading experts
+
+00:27.680 --> 00:28.900
+ in perception.
+
+00:28.900 --> 00:31.940
+ That is how the nervous system converts physical stimuli
+
+00:31.940 --> 00:35.220
+ in the world into events within the nervous system
+
+00:35.220 --> 00:38.360
+ that we come to understand as our sense of smell,
+
+00:38.360 --> 00:40.520
+ our sense of taste, our sense of vision,
+
+00:40.520 --> 00:43.080
+ our sense of touch, and our sense of hearing.
+
+00:43.080 --> 00:45.760
+ Dr. Zucker's lab is responsible for a tremendous amount
+
+00:45.760 --> 00:47.960
+ of pioneering and groundbreaking work
+
+00:47.960 --> 00:50.060
+ in the area of perception.
+
+00:50.060 --> 00:52.140
+ For a long time, his laboratory worked on vision,
+
+00:52.140 --> 00:54.640
+ defining the very receptors that allow
+
+00:54.640 --> 00:56.520
+ for the conversion of light into signals
+
+00:56.520 --> 00:59.620
+ that the rest of the eye and the brain can understand.
+
+00:59.620 --> 01:02.000
+ In recent years, his laboratory has focused mainly
+
+01:02.000 --> 01:03.560
+ on the perception of taste.
+
+01:03.560 --> 01:05.360
+ And indeed, his laboratory is responsible
+
+01:05.360 --> 01:08.020
+ for discovering many of the taste receptors,
+
+01:08.020 --> 01:11.040
+ leading to our perception of things like sweetness,
+
+01:11.040 --> 01:14.420
+ sourness, bitterness, saltiness, and umami,
+
+01:14.420 --> 01:16.680
+ that is savoriness in food.
+
+01:16.680 --> 01:18.660
+ Dr. Zucker's laboratory is also responsible
+
+01:18.660 --> 01:21.620
+ for doing groundbreaking work on the sense of thirst.
+
+01:21.620 --> 01:23.840
+ That is how the nervous system determines
+
+01:23.840 --> 01:26.120
+ whether or not we should ingest more fluid
+
+01:26.120 --> 01:28.880
+ or reject fluids that are offered to us.
+
+01:28.880 --> 01:31.600
+ A key feature of the work from Dr. Zucker's laboratory
+
+01:31.600 --> 01:34.120
+ is that it bridges the brain and body.
+
+01:34.120 --> 01:36.320
+ As you'll soon learn from today's discussion,
+
+01:36.320 --> 01:38.840
+ his laboratory has discovered a unique set
+
+01:38.840 --> 01:41.360
+ of sugar-sensing neurons that exist
+
+01:41.360 --> 01:43.860
+ not just within the brain, but a separate set of neurons
+
+01:43.860 --> 01:46.880
+ that sense sweetness and sugar within the body.
+
+01:46.880 --> 01:49.120
+ And that much of the communication between the brain
+
+01:49.120 --> 01:51.800
+ and body leading to our seeking of sugar
+
+01:51.800 --> 01:53.840
+ is below our conscious detection.
+
+01:53.840 --> 01:55.480
+ Dr. Zucker has received a large number
+
+01:55.480 --> 01:57.120
+ of prestigious awards and appointments
+
+01:57.120 --> 01:59.880
+ as a consequence of his discoveries in neuroscience.
+
+01:59.880 --> 02:02.220
+ He is a member of the National Academy of Sciences,
+
+02:02.220 --> 02:03.600
+ the National Academy of Medicine,
+
+02:03.600 --> 02:06.280
+ and the American Association for the Advancement of Science.
+
+02:06.280 --> 02:07.620
+ He is also an investigator
+
+02:07.620 --> 02:09.840
+ with the Howard Hughes Medical Institute.
+
+02:09.840 --> 02:11.320
+ For those of you that are not familiar
+
+02:11.320 --> 02:14.360
+ with the so-called HHMI, the Howard Hughes Medical Institute,
+
+02:14.360 --> 02:16.440
+ Howard Hughes Medical Institute investigators
+
+02:16.440 --> 02:19.440
+ are selected on an extremely competitive basis,
+
+02:19.440 --> 02:22.080
+ and indeed they have to come back every five years
+
+02:22.080 --> 02:25.400
+ and prove themselves worthy of being reappointed
+
+02:25.400 --> 02:27.360
+ as Howard Hughes investigators.
+
+02:27.360 --> 02:31.960
+ Dr. Zucker has been a Howard Hughes investigator since 1989.
+
+02:31.960 --> 02:33.500
+ What all that means for you as a viewer
+
+02:33.500 --> 02:35.560
+ and or a listener of today's podcast
+
+02:35.560 --> 02:38.320
+ is that you are about to learn about the nervous system
+
+02:38.320 --> 02:40.400
+ and its ability to create perceptions,
+
+02:40.400 --> 02:43.280
+ in particular, the perception of taste and sugar-sensing
+
+02:43.280 --> 02:47.000
+ from the world's expert on perception and taste.
+
+02:47.000 --> 02:49.560
+ I'm certain that by the end of today's podcast,
+
+02:49.560 --> 02:50.600
+ you're not just going to come away
+
+02:50.600 --> 02:52.660
+ with a deeper understanding of our perceptions
+
+02:52.660 --> 02:54.880
+ and our perception of taste in particular,
+
+02:54.880 --> 02:57.300
+ but indeed you will come away with an understanding
+
+02:57.300 --> 03:00.040
+ of how we create internal representations
+
+03:00.040 --> 03:02.160
+ of the entire world around us,
+
+03:02.160 --> 03:04.760
+ and in doing so, how we come to understand
+
+03:04.760 --> 03:06.200
+ our life experience.
+
+03:06.200 --> 03:08.040
+ I'm pleased to announce that the Huberman Lab Podcast
+
+03:08.040 --> 03:10.380
+ is now partnered with Momentous Supplements.
+
+03:10.380 --> 03:12.860
+ We often talk about supplements on the Huberman Lab Podcast,
+
+03:12.860 --> 03:15.080
+ and while supplements aren't necessary for everybody,
+
+03:15.080 --> 03:17.200
+ many people derive tremendous benefit from them
+
+03:17.200 --> 03:20.000
+ for things like enhancing the quality and speed
+
+03:20.000 --> 03:21.560
+ with which you get into sleep,
+
+03:21.560 --> 03:24.580
+ or for enhancing focus, or for hormone support.
+
+03:24.580 --> 03:26.400
+ The reason we partnered with Momentous Supplements
+
+03:26.400 --> 03:27.240
+ is several fold.
+
+03:27.240 --> 03:28.200
+ First of all, their supplements
+
+03:28.200 --> 03:29.960
+ are of the absolute highest quality.
+
+03:29.960 --> 03:32.200
+ Second of all, they ship internationally,
+
+03:32.200 --> 03:34.680
+ which is important because many of our podcast listeners
+
+03:34.680 --> 03:36.320
+ reside outside the US.
+
+03:36.320 --> 03:39.160
+ Third, many of the supplements that Momentous makes,
+
+03:39.160 --> 03:40.720
+ and most all of the supplements
+
+03:40.720 --> 03:42.560
+ that we partnered with them directly on,
+
+03:42.560 --> 03:44.680
+ are single ingredient formulations.
+
+03:44.680 --> 03:46.180
+ This is important for a number of reasons.
+
+03:46.180 --> 03:48.380
+ First of all, if you're going to create a supplement protocol
+
+03:48.380 --> 03:50.280
+ that's customized for your needs,
+
+03:50.280 --> 03:51.520
+ you want to be able to figure out
+
+03:51.520 --> 03:53.520
+ which supplement ingredients are most essential
+
+03:53.520 --> 03:54.640
+ and only use those.
+
+03:54.640 --> 03:56.640
+ And supplements that combine lots of ingredients
+
+03:56.640 --> 03:58.460
+ simply won't allow you to do that.
+
+03:58.460 --> 04:00.720
+ So in trying to put together a supplement protocol
+
+04:00.720 --> 04:03.320
+ for yourself that's the most biologically effective
+
+04:03.320 --> 04:06.000
+ and cost-effective, single ingredient formulations
+
+04:06.000 --> 04:07.360
+ are going to be the most useful.
+
+04:07.360 --> 04:08.520
+ If you'd like to see the supplements
+
+04:08.520 --> 04:10.280
+ that we partnered with Momentous on,
+
+04:10.280 --> 04:13.240
+ you can go to livemomentous.com slash Huberman,
+
+04:13.240 --> 04:15.380
+ and there you'll see many of the supplements
+
+04:15.380 --> 04:16.800
+ that we've talked repeatedly about
+
+04:16.800 --> 04:19.080
+ on the Huberman Lab Podcast episodes.
+
+04:19.080 --> 04:21.520
+ I should mention that the catalog of supplements
+
+04:21.520 --> 04:24.160
+ that are available at livemomentous.com slash Huberman
+
+04:24.160 --> 04:25.940
+ is constantly being expanded.
+
+04:25.940 --> 04:29.280
+ So you can check back there livemomentous.com slash Huberman
+
+04:29.280 --> 04:31.040
+ to see what's currently available.
+
+04:31.040 --> 04:32.240
+ And from time to time,
+
+04:32.240 --> 04:34.820
+ you'll notice new supplements being added to the inventory.
+
+04:34.820 --> 04:37.340
+ Before we begin, I'd like to emphasize that this podcast
+
+04:37.340 --> 04:40.100
+ is separate from my teaching and research roles at Stanford.
+
+04:40.100 --> 04:42.080
+ It is however, part of my desire and effort
+
+04:42.080 --> 04:44.620
+ to bring zero cost to consumer information about science
+
+04:44.620 --> 04:47.240
+ and science related tools to the general public.
+
+04:47.240 --> 04:48.260
+ In keeping with that theme,
+
+04:48.260 --> 04:51.000
+ I'd like to thank the sponsors of today's podcast.
+
+04:51.000 --> 04:53.000
+ Our first sponsor is Thesis.
+
+04:53.000 --> 04:55.240
+ Thesis makes custom nootropics.
+
+04:55.240 --> 04:57.700
+ And for frequent listeners of this podcast,
+
+04:57.700 --> 04:59.360
+ you may remember that I'm not a big fan
+
+04:59.360 --> 05:02.080
+ of the word nootropics because the word nootropics
+
+05:02.080 --> 05:05.060
+ means smart drugs or smart compound.
+
+05:05.060 --> 05:06.580
+ And the reason I don't like that phrase
+
+05:06.580 --> 05:09.640
+ is that the brain has many different circuits that it uses
+
+05:09.640 --> 05:12.320
+ in order to perform things like focus
+
+05:12.320 --> 05:14.960
+ or task switching or creativity.
+
+05:14.960 --> 05:16.980
+ So the idea that there's a single thing
+
+05:16.980 --> 05:18.680
+ that we would call a smart drug
+
+05:18.680 --> 05:21.960
+ is simply not in concert with the biology.
+
+05:21.960 --> 05:23.720
+ Well, Thesis understands this,
+
+05:23.720 --> 05:25.480
+ and as a consequence has developed
+
+05:25.480 --> 05:27.240
+ custom nootropic formulations
+
+05:27.240 --> 05:29.480
+ that are tailored to your unique needs.
+
+05:29.480 --> 05:31.860
+ So for instance, Thesis will allow you to try
+
+05:31.860 --> 05:33.720
+ different blends over the course of a month
+
+05:33.720 --> 05:36.360
+ and determine which blends of specific ingredients
+
+05:36.360 --> 05:38.040
+ work best for you to focus
+
+05:38.040 --> 05:41.540
+ or for you to gain motivation and energy for workouts
+
+05:41.540 --> 05:43.260
+ or for cognitive work of some sort.
+
+05:43.260 --> 05:44.880
+ I've been using Thesis custom nootropics
+
+05:44.880 --> 05:46.680
+ for well over six months now,
+
+05:46.680 --> 05:48.720
+ and they completely transformed the way that I do
+
+05:48.720 --> 05:52.640
+ cognitive work and indeed the way that I do physical fitness.
+
+05:52.640 --> 05:54.280
+ If you want to try your own personalized
+
+05:54.280 --> 05:55.200
+ nootropic starter kit,
+
+05:55.200 --> 05:58.520
+ you can go online to takethesis.com slash Huberman.
+
+05:58.520 --> 06:00.640
+ There you'll just do a brief three minute quiz
+
+06:00.640 --> 06:02.640
+ and Thesis will send you four different formulas
+
+06:02.640 --> 06:04.200
+ to try in your first month.
+
+06:04.200 --> 06:06.360
+ That's takethesis.com slash Huberman
+
+06:06.360 --> 06:08.060
+ and use the code Huberman at checkout
+
+06:08.060 --> 06:10.120
+ to get 10% off your first box.
+
+06:10.120 --> 06:12.360
+ Today's episode is also brought to us by Roca.
+
+06:12.360 --> 06:14.520
+ Roca makes eyeglasses and sunglasses
+
+06:14.520 --> 06:16.400
+ that are the absolute highest quality.
+
+06:16.400 --> 06:18.320
+ The company was founded by two all American swimmers
+
+06:18.320 --> 06:20.620
+ from Stanford and everything about Roca eyeglasses
+
+06:20.620 --> 06:23.540
+ and sunglasses were designed with performance in mind
+
+06:23.540 --> 06:26.200
+ and with the biology of the visual system in mind.
+
+06:26.200 --> 06:27.960
+ I spent my lifetime working on the visual system
+
+06:27.960 --> 06:30.160
+ and I can tell you that your visual system has to contend
+
+06:30.160 --> 06:32.280
+ with a number of very important challenges
+
+06:32.280 --> 06:34.620
+ in order to be able to see the world around you clearly.
+
+06:34.620 --> 06:36.680
+ Things like adjusting for background illumination
+
+06:36.680 --> 06:38.840
+ so that when you go from a sunny area to a shady area,
+
+06:38.840 --> 06:40.020
+ you can see what's in front of you
+
+06:40.020 --> 06:41.700
+ still with crystal clarity.
+
+06:41.700 --> 06:43.440
+ Roca takes all of that into account
+
+06:43.440 --> 06:45.860
+ when designing their eyeglasses and sunglasses.
+
+06:45.860 --> 06:47.040
+ Their eyeglasses and sunglasses
+
+06:47.040 --> 06:48.680
+ also have some unique qualities.
+
+06:48.680 --> 06:50.960
+ For instance, because they were initially designed
+
+06:50.960 --> 06:53.680
+ for performance with things like running and cycling,
+
+06:53.680 --> 06:55.740
+ if you get sweaty, they won't fall off your face.
+
+06:55.740 --> 06:57.380
+ Also, they're extremely lightweight.
+
+06:57.380 --> 06:58.220
+ In fact, most of the time,
+
+06:58.220 --> 07:00.040
+ I don't even remember that I'm wearing them.
+
+07:00.040 --> 07:03.120
+ I wear Roca eyeglasses at night, so I wear readers
+
+07:03.120 --> 07:04.920
+ and I wear sunglasses often during the day
+
+07:04.920 --> 07:06.920
+ if it's very bright or if I'm driving.
+
+07:06.920 --> 07:09.080
+ If you'd like to try Roca eyeglasses and sunglasses,
+
+07:09.080 --> 07:11.560
+ you can go to Roca, that's R-O-K-A.com
+
+07:11.560 --> 07:13.020
+ and enter the code Huberman
+
+07:13.020 --> 07:15.120
+ to save 20% off your first order.
+
+07:15.120 --> 07:17.600
+ Today's episode is also brought to us by Helix Sleep.
+
+07:17.600 --> 07:19.360
+ Helix Sleep makes mattresses and pillows
+
+07:19.360 --> 07:22.080
+ that are uniquely tailored to your sleep needs.
+
+07:22.080 --> 07:23.880
+ I've talked repeatedly about the fact
+
+07:23.880 --> 07:25.740
+ that sleep is the foundation of mental health,
+
+07:25.740 --> 07:27.380
+ physical health, and performance.
+
+07:27.380 --> 07:30.600
+ So getting adequate deep sleep is absolutely essential.
+
+07:30.600 --> 07:32.440
+ Now, one of the key things to getting a great night's sleep
+
+07:32.440 --> 07:34.620
+ is to make sure that the surface that you're sleeping on
+
+07:34.620 --> 07:36.000
+ is the right one for you.
+
+07:36.000 --> 07:39.320
+ Helix understands this and they've created a sleep quiz.
+
+07:39.320 --> 07:41.000
+ That is, you go to their website
+
+07:41.000 --> 07:43.660
+ and you fill out a brief quiz that asks questions like,
+
+07:43.660 --> 07:44.880
+ do you sleep on your side, your back,
+
+07:44.880 --> 07:46.700
+ your stomach, do you tend to run hot or cold
+
+07:46.700 --> 07:47.540
+ during the night?
+
+07:47.540 --> 07:48.360
+ Maybe you don't know the answers,
+
+07:48.360 --> 07:50.360
+ in which case you simply say you don't know.
+
+07:50.360 --> 07:53.280
+ By taking that quiz, they will match you to a mattress
+
+07:53.280 --> 07:55.600
+ that is ideal for your sleep needs.
+
+07:55.600 --> 07:57.000
+ I took that quiz and I matched
+
+07:57.000 --> 07:59.160
+ to the so-called Dusk D-U-S-K mattress,
+
+07:59.160 --> 08:01.240
+ and I've been sleeping on that mattress for some time now,
+
+08:01.240 --> 08:02.960
+ and it's the best sleep that I've ever had.
+
+08:02.960 --> 08:04.600
+ So if you're interested in upgrading your mattress
+
+08:04.600 --> 08:07.000
+ to one that's uniquely tailored to your sleep needs,
+
+08:07.000 --> 08:09.360
+ you can go to helixsleep.com slash Huberman,
+
+08:09.360 --> 08:10.640
+ take their two minute sleep quiz,
+
+08:10.640 --> 08:12.400
+ and they'll match you to a customized mattress
+
+08:12.400 --> 08:15.240
+ and you'll get up to $200 off any mattress order
+
+08:15.240 --> 08:16.640
+ and two free pillows.
+
+08:16.640 --> 08:17.820
+ They have a 10-year warranty
+
+08:17.820 --> 08:19.080
+ and you get to try out that mattress
+
+08:19.080 --> 08:20.720
+ for 100 nights risk-free.
+
+08:20.720 --> 08:22.560
+ They'll even pick it up for if you don't love it,
+
+08:22.560 --> 08:24.040
+ but I do believe that you will love it
+
+08:24.040 --> 08:26.440
+ because you'll be sleeping far better than you have before.
+
+08:26.440 --> 08:27.680
+ Again, if you're interested,
+
+08:27.680 --> 08:30.220
+ you can go to helixsleep.com slash Huberman
+
+08:30.220 --> 08:32.960
+ to get up to $200 off and two free pillows.
+
+08:32.960 --> 08:36.120
+ And now for my discussion with Dr. Charles Zucker.
+
+08:36.120 --> 08:38.880
+ Charles, thank you so much for joining me today.
+
+08:38.880 --> 08:40.080
+ My pleasure.
+
+08:40.080 --> 08:44.000
+ I want to ask you about many things related to taste
+
+08:44.000 --> 08:47.360
+ and gustatory perception, but maybe to start off,
+
+08:47.360 --> 08:49.540
+ and because you've worked on a number of different topics
+
+08:49.540 --> 08:51.420
+ in neuroscience, not just taste,
+
+08:52.540 --> 08:54.780
+ how do you think about perception?
+
+08:54.780 --> 08:57.640
+ Or rather, I should say, how should the world
+
+08:57.640 --> 09:00.260
+ and people think about perception,
+
+09:00.260 --> 09:02.280
+ how it's different from sensation,
+
+09:02.280 --> 09:06.240
+ and what leads to our experience of life
+
+09:06.240 --> 09:09.440
+ in terms of vision, hearing, taste, et cetera?
+
+09:09.440 --> 09:14.440
+ So, you know, the brain is an extraordinary organ
+
+09:16.660 --> 09:20.540
+ that weights maybe 2% of your body mass,
+
+09:21.840 --> 09:26.280
+ yet it consumes anywhere between 25 to 30%
+
+09:26.280 --> 09:29.780
+ of all of your energy and oxygen.
+
+09:31.640 --> 09:35.080
+ And it gets transformed into a mind.
+
+09:35.080 --> 09:40.080
+ And this mind changes the human condition.
+
+09:41.060 --> 09:45.540
+ It make, it changes, it transforms, you know,
+
+09:45.540 --> 09:50.540
+ fear into courage, conformity into creativity,
+
+09:53.040 --> 09:54.780
+ sadness into happiness.
+
+09:54.780 --> 09:57.280
+ How the hell does that happen?
+
+09:58.980 --> 10:01.740
+ Now, the challenge that the brain faces
+
+10:01.740 --> 10:05.900
+ is that the world is made of real things.
+
+10:05.900 --> 10:07.940
+ You know, this here is a glass,
+
+10:08.980 --> 10:12.100
+ and this is a cord, and this is a microphone.
+
+10:12.100 --> 10:14.820
+ But the brain is only made of neurons
+
+10:14.820 --> 10:17.580
+ that only understand electrical signals.
+
+10:18.580 --> 10:22.140
+ So how do you transform that reality
+
+10:23.300 --> 10:26.260
+ into nothing but electrical signals
+
+10:26.260 --> 10:29.800
+ that now need to represent the world?
+
+10:29.800 --> 10:34.800
+ And that process is what we can operationally
+
+10:35.840 --> 10:38.020
+ define as perception.
+
+10:39.380 --> 10:44.380
+ In the senses, let's say olfactory, other, taste, vision,
+
+10:46.120 --> 10:49.120
+ you know, we can very straightforwardly separate
+
+10:49.120 --> 10:52.360
+ detection from perception.
+
+10:52.360 --> 10:55.480
+ Detection is what happens when you take a sugar molecule,
+
+10:55.480 --> 11:00.340
+ you put it in your tongue, and then a set of specific cells
+
+11:00.340 --> 11:03.140
+ now sense that sugar molecule.
+
+11:03.140 --> 11:04.920
+ That's detection.
+
+11:04.920 --> 11:06.920
+ You haven't perceived anything yet.
+
+11:06.920 --> 11:09.300
+ That is just your cells in your tongue
+
+11:09.300 --> 11:11.840
+ interacting with this chemical.
+
+11:11.840 --> 11:13.680
+ But now that cell gets activated
+
+11:13.680 --> 11:16.200
+ and sends a signal to the brain.
+
+11:16.200 --> 11:20.180
+ And now detection gets transformed into perception.
+
+11:21.560 --> 11:25.040
+ And it's trying to understand how that happens.
+
+11:25.040 --> 11:30.040
+ That's been the maniacal drive
+
+11:31.840 --> 11:35.600
+ of my entire career in neuroscience.
+
+11:35.600 --> 11:38.660
+ How does the brain ultimately transform detection
+
+11:38.660 --> 11:43.280
+ into perception so that it can guide actions and behaviors?
+
+11:44.280 --> 11:45.520
+ Does that make sense?
+
+11:45.520 --> 11:46.520
+ Absolutely.
+
+11:46.520 --> 11:49.340
+ And is a very clear and beautiful description.
+
+11:50.280 --> 11:52.460
+ A sort of high level question related to that.
+
+11:52.460 --> 11:55.320
+ And then I think we can get into some of the
+
+11:55.320 --> 11:57.580
+ intermediate steps.
+
+11:57.580 --> 11:59.720
+ I think many people would like to know whether or not
+
+11:59.720 --> 12:02.340
+ my perception of the color of your shirt
+
+12:02.340 --> 12:04.760
+ is the same as your perception of the color of your shirt.
+
+12:04.760 --> 12:06.120
+ What an excellent question.
+
+12:06.120 --> 12:09.680
+ Am I okay to interrupt you as I'm guessing
+
+12:09.680 --> 12:10.520
+ what you're going?
+
+12:10.520 --> 12:11.360
+ All right, very good.
+
+12:11.360 --> 12:14.000
+ Interruption is welcome on this podcast.
+
+12:14.000 --> 12:17.220
+ The audience will always penalize me for interrupting you
+
+12:17.220 --> 12:19.280
+ and we'll never penalize you for interrupting me.
+
+12:19.280 --> 12:23.360
+ I like the one way penalizing.
+
+12:23.360 --> 12:26.720
+ Now, given what I told you before,
+
+12:27.840 --> 12:31.560
+ that the brain is trying to represent the world
+
+12:31.560 --> 12:35.880
+ based in nothing but the transformation of these signals
+
+12:35.880 --> 12:40.700
+ into electrical, you know, languages
+
+12:40.700 --> 12:43.800
+ that now neurons have to encode and decode.
+
+12:43.800 --> 12:48.000
+ It follows that your brain is different than my brain
+
+12:48.000 --> 12:49.560
+ and therefore it follows
+
+12:49.560 --> 12:52.560
+ that the way that you're perceiving the world
+
+12:52.560 --> 12:54.240
+ must be different than mine,
+
+12:54.240 --> 12:58.160
+ even when receiving the same sensory cues, okay?
+
+12:58.160 --> 12:59.660
+ And I'll tell you about an experiment.
+
+12:59.660 --> 13:02.740
+ It's a simple experiment, yet brilliant,
+
+13:02.740 --> 13:06.180
+ that demonstrates why we perceive the world,
+
+13:06.180 --> 13:09.540
+ how we perceive the world different.
+
+13:10.900 --> 13:15.480
+ So in the world of vision, as you well know,
+
+13:15.480 --> 13:19.360
+ we have three classes of photoreceptor neurons
+
+13:19.360 --> 13:24.360
+ that sense three basic colors, red, blue, and green.
+
+13:27.440 --> 13:29.720
+ Blue, green, and red, if we go, you know,
+
+13:29.720 --> 13:31.520
+ from short to long wavelength.
+
+13:31.520 --> 13:33.880
+ And these three are sufficient
+
+13:33.880 --> 13:36.340
+ to accommodate the full visible spectra.
+
+13:37.520 --> 13:40.680
+ I'm gonna take three light projectors
+
+13:40.680 --> 13:43.520
+ and then when I project with one into a white screen,
+
+13:43.520 --> 13:47.940
+ a red light and the other one, green light,
+
+13:47.940 --> 13:49.980
+ I'm gonna overlap the two beams
+
+13:49.980 --> 13:51.860
+ and on the screen to be yellow.
+
+13:52.940 --> 13:54.800
+ Okay, this is superposition
+
+13:54.800 --> 13:58.940
+ when you have two beams of red and green.
+
+13:58.940 --> 14:01.660
+ And then I'm gonna take a third projector
+
+14:01.660 --> 14:03.860
+ and I'm gonna put a filter that projects
+
+14:03.860 --> 14:08.860
+ right next to that mixed beam, a spectrally pure yellow.
+
+14:08.860 --> 14:13.420
+ Okay, and I'm gonna ask you
+
+14:13.420 --> 14:16.540
+ to come to the red and green projectors
+
+14:16.540 --> 14:20.220
+ and play with the intensity knobs
+
+14:20.220 --> 14:24.260
+ so that you can match that yellow that you're projecting
+
+14:24.260 --> 14:27.180
+ to the spectrally pure next to it.
+
+14:27.180 --> 14:28.320
+ Is this making sense?
+
+14:28.320 --> 14:29.160
+ Perfect sense.
+
+14:29.160 --> 14:31.260
+ And I'm going to write down the numbers
+
+14:31.260 --> 14:34.680
+ in those two volume intensity knobs.
+
+14:34.680 --> 14:39.680
+ And then I'm gonna ask the next person to do the same.
+
+14:39.800 --> 14:41.800
+ And then I'm gonna ask every person
+
+14:41.800 --> 14:46.800
+ around this area of Battery Park in New York to do the same.
+
+14:46.840 --> 14:47.980
+ And guess what?
+
+14:48.920 --> 14:49.800
+ We're gonna end up
+
+14:49.800 --> 14:53.140
+ with thousands of different number combinations.
+
+14:53.140 --> 14:54.280
+ Amazing.
+
+14:54.280 --> 14:57.720
+ So for all of us, it's yellow enough
+
+14:57.720 --> 14:59.740
+ that we can use a common language.
+
+15:01.040 --> 15:02.780
+ But for every one of us,
+
+15:02.780 --> 15:07.080
+ that yellow is gonna be ever so slightly differently.
+
+15:08.200 --> 15:11.400
+ And so I think that simple psychological experiment
+
+15:11.400 --> 15:12.640
+ beautifully illustrates
+
+15:12.640 --> 15:15.940
+ how we truly perceive the world differently.
+
+15:16.880 --> 15:18.020
+ I love that example.
+
+15:18.020 --> 15:21.200
+ And yet in that example, we know the basic elements
+
+15:21.200 --> 15:23.140
+ from which color is created.
+
+15:24.000 --> 15:27.160
+ If we migrate into a slightly different sense,
+
+15:27.160 --> 15:30.040
+ let me pick a hard one, like-
+
+15:30.040 --> 15:30.960
+ Sound.
+
+15:30.960 --> 15:32.900
+ Sound or olfaction.
+
+15:32.900 --> 15:35.640
+ Very hard then to do an experiment
+
+15:36.760 --> 15:41.480
+ that will allow us to get that degree of granularity
+
+15:41.480 --> 15:44.120
+ and beautiful causality,
+
+15:44.120 --> 15:49.120
+ where we can show that A produces and leads to B.
+
+15:49.580 --> 15:51.240
+ If I give you the smell of a rose,
+
+15:51.240 --> 15:52.720
+ you can describe it to me.
+
+15:54.280 --> 15:58.040
+ If I smell the same rose, I can describe it also.
+
+15:58.040 --> 16:00.880
+ But I have no way whether the two of us
+
+16:00.880 --> 16:03.040
+ are experiencing the same.
+
+16:03.040 --> 16:06.120
+ But it's close enough that we can both
+
+16:07.360 --> 16:10.960
+ pretty much say that it has the following,
+
+16:10.960 --> 16:14.760
+ you know, features or other determinants.
+
+16:14.760 --> 16:18.800
+ But no question that your experience
+
+16:18.800 --> 16:20.980
+ is different than mine.
+
+16:20.980 --> 16:25.360
+ The fact that it's good enough for us to both survive,
+
+16:25.360 --> 16:28.160
+ that your perception of yellow and my perception of yellow,
+
+16:28.160 --> 16:29.000
+ at least up until now,
+
+16:29.000 --> 16:32.080
+ is good enough for us both to survive,
+
+16:32.080 --> 16:35.260
+ raises a thought about a statement made
+
+16:35.260 --> 16:39.480
+ by a colleague of ours, Marcus Meister at Caltech.
+
+16:39.480 --> 16:40.760
+ He's never been on this podcast,
+
+16:40.760 --> 16:45.460
+ but in a review that I read by Marcus at one point,
+
+16:45.460 --> 16:48.320
+ he said that the basic function of perception
+
+16:48.320 --> 16:50.960
+ is to divide our behavioral responses
+
+16:50.960 --> 16:55.380
+ into the outcomes downstream
+
+16:55.380 --> 16:58.940
+ of three basic emotional responses.
+
+16:58.940 --> 17:01.400
+ Yum, I like it.
+
+17:01.400 --> 17:03.420
+ Yuck, I hate it.
+
+17:03.420 --> 17:06.440
+ Or meh, whatever.
+
+17:06.440 --> 17:07.340
+ What do you think about,
+
+17:07.340 --> 17:09.280
+ I'm not looking to establish a debate
+
+17:09.280 --> 17:11.080
+ between you and Marcus without Marcus here.
+
+17:11.080 --> 17:11.920
+ I understand.
+
+17:11.920 --> 17:16.180
+ But what I like about that is that it seems like the,
+
+17:16.180 --> 17:20.220
+ we know the brain is a very economical organ in some sense,
+
+17:20.220 --> 17:22.640
+ despite its high metabolic demands.
+
+17:22.640 --> 17:25.700
+ And this variation in perception
+
+17:25.700 --> 17:27.520
+ from one individual to the next,
+
+17:27.520 --> 17:29.920
+ at once seems like a problem
+
+17:29.920 --> 17:32.800
+ because we're all literally seeing different things.
+
+17:32.800 --> 17:34.840
+ And yet we function.
+
+17:34.840 --> 17:36.600
+ We function well enough for most of us
+
+17:36.600 --> 17:41.600
+ to avoid death and cliffs and eating poisons and so forth,
+
+17:42.560 --> 17:45.600
+ and to enjoy some aspects of life, one hopes.
+
+17:45.600 --> 17:48.400
+ So is there a general statement
+
+17:48.400 --> 17:49.720
+ that we can make about the brain,
+
+17:49.720 --> 17:52.640
+ not just as a organ to generate perception,
+
+17:52.640 --> 17:54.920
+ not just as an organ to keep us alive,
+
+17:54.920 --> 17:59.360
+ but also an organ that is trying to batch our behaviors
+
+17:59.360 --> 18:01.600
+ into general categories of outcome?
+
+18:01.600 --> 18:03.720
+ I think so, but, and again,
+
+18:03.720 --> 18:06.880
+ I think the role of Marcus too.
+
+18:06.880 --> 18:09.020
+ And I think he's right that,
+
+18:10.940 --> 18:14.800
+ broadly speaking, you could categorize a lot of behaviors
+
+18:14.800 --> 18:17.000
+ falling into those two categories.
+
+18:17.000 --> 18:21.160
+ And that's 100% likely to be the case
+
+18:21.160 --> 18:23.000
+ for animals in the wild,
+
+18:24.600 --> 18:29.600
+ where the choices are not necessarily binary,
+
+18:30.240 --> 18:33.820
+ but they're very unique and distinct.
+
+18:35.160 --> 18:37.320
+ Do I wanna eat this?
+
+18:37.320 --> 18:39.080
+ Do I wanna kill that?
+
+18:40.020 --> 18:43.000
+ Do I wanna go there or do I wanna go here?
+
+18:43.000 --> 18:48.000
+ And we humans deviated from that world long ago
+
+18:51.520 --> 18:56.320
+ and learned to experience life
+
+18:57.760 --> 19:00.960
+ where we do things that we should not be doing.
+
+19:00.960 --> 19:02.320
+ Some of us more than others.
+
+19:02.320 --> 19:03.280
+ Exactly.
+
+19:03.280 --> 19:07.480
+ You know, in my own world of taste,
+
+19:09.880 --> 19:12.440
+ the likelihood that an animal in the wild
+
+19:12.440 --> 19:15.320
+ will enjoy eating something bitter,
+
+19:17.800 --> 19:19.380
+ it's inconceivable.
+
+19:20.280 --> 19:24.400
+ Yet we, you know, love tonic water.
+
+19:25.720 --> 19:29.540
+ We enjoy, we like living on the edge.
+
+19:29.540 --> 19:32.960
+ We love enjoying experiences
+
+19:34.720 --> 19:38.880
+ that makes us human.
+
+19:38.880 --> 19:43.880
+ And that goes beyond that simple set of categories,
+
+19:44.680 --> 19:49.680
+ which is yummy, yucky, ah, who cares?
+
+19:50.360 --> 19:52.680
+ And so I think it's not a bad palette,
+
+19:52.680 --> 19:57.680
+ but I think it's overly reductionist
+
+19:58.560 --> 20:02.840
+ for certainly what we humans do.
+
+20:02.840 --> 20:03.680
+ I agree.
+
+20:03.680 --> 20:05.080
+ And since we're here in New York,
+
+20:05.080 --> 20:08.960
+ I can say that the many options,
+
+20:08.960 --> 20:13.960
+ the extensive variety of food, flora, and fauna in New York
+
+20:15.240 --> 20:18.160
+ explains a lot of the more nuanced behaviors
+
+20:18.160 --> 20:19.880
+ that we observe.
+
+20:19.880 --> 20:23.880
+ Let's talk about taste because while you've done
+
+20:23.880 --> 20:25.800
+ extensive work in the field of vision,
+
+20:25.800 --> 20:28.840
+ and it's a topic that I love,
+
+20:28.840 --> 20:32.440
+ you could spend all day on, taste is fascinating.
+
+20:32.440 --> 20:35.000
+ First of all, I'd like to know why you migrated
+
+20:35.000 --> 20:38.140
+ from studying vision to studying taste.
+
+20:38.140 --> 20:39.500
+ And perhaps in that description,
+
+20:39.500 --> 20:42.260
+ you could highlight to us why we should think about
+
+20:42.260 --> 20:44.820
+ and how we should think about this sense of taste.
+
+20:46.320 --> 20:48.240
+ My goal has always been to understand,
+
+20:48.240 --> 20:51.080
+ as I highlighted before, how the brain does its magic.
+
+20:52.160 --> 20:54.640
+ You know, what part you might wonder.
+
+20:54.640 --> 20:58.480
+ Ideally, I like to help contribute to understand all of it.
+
+21:00.200 --> 21:04.560
+ You know, how do you encode and decode emotions?
+
+21:04.560 --> 21:07.920
+ How do you encode and decode memories and actions?
+
+21:08.840 --> 21:10.860
+ How do you make decisions?
+
+21:10.860 --> 21:14.600
+ How do you transform detection into perception?
+
+21:14.600 --> 21:17.100
+ And the list goes on and on.
+
+21:19.460 --> 21:23.100
+ But one of the key things in science, as you know,
+
+21:23.960 --> 21:27.280
+ is ensuring that you always ask the right question
+
+21:27.280 --> 21:31.280
+ so that you have a possibility of answering it.
+
+21:31.280 --> 21:33.960
+ Because if the question cannot be tractable
+
+21:33.960 --> 21:36.680
+ or reduced to an experimental path
+
+21:36.680 --> 21:38.920
+ that helps you resolve it,
+
+21:38.920 --> 21:42.120
+ then we end up doing some really fun science,
+
+21:42.120 --> 21:45.560
+ but not necessarily answering the important problem
+
+21:45.560 --> 21:46.840
+ that we want to study.
+
+21:48.320 --> 21:49.160
+ Make sense?
+
+21:49.160 --> 21:50.000
+ All right.
+
+21:50.000 --> 21:52.840
+ From a first person perspective, yes.
+
+21:52.840 --> 21:55.800
+ The hardest question, the most important question is,
+
+21:55.800 --> 21:58.080
+ what question are you going to try and answer?
+
+21:58.080 --> 22:01.400
+ What question are you going to try and answer?
+
+22:01.400 --> 22:02.320
+ And so, for example,
+
+22:02.320 --> 22:06.980
+ I will have to understand the neural basis of empathy.
+
+22:09.160 --> 22:10.800
+ It's a big market for that.
+
+22:10.800 --> 22:13.120
+ 100%, but I wouldn't even know.
+
+22:13.120 --> 22:15.760
+ I mean, at the molecular level, that's what we do.
+
+22:15.760 --> 22:20.540
+ How do the circuits in your brain create that sense?
+
+22:20.540 --> 22:23.360
+ I have no clue how to do it.
+
+22:23.360 --> 22:25.160
+ I can come up with ways to think about it,
+
+22:25.160 --> 22:29.520
+ but I like to understand what in your brain
+
+22:29.520 --> 22:31.840
+ makes someone a great philanthropist.
+
+22:33.080 --> 22:35.760
+ What is the neural basis of love?
+
+22:37.080 --> 22:40.320
+ I wouldn't even know where to begin.
+
+22:40.320 --> 22:42.680
+ So if I want to begin to study these questions
+
+22:42.680 --> 22:44.920
+ about brain function,
+
+22:44.920 --> 22:48.760
+ that can cover so many aspects of the brain,
+
+22:48.760 --> 22:52.920
+ I need to choose a problem that affords me that window.
+
+22:52.920 --> 22:56.860
+ But in a way that I can ask questions that give me answers.
+
+22:57.760 --> 23:02.760
+ And among the senses that have the capacity
+
+23:03.080 --> 23:06.200
+ of transforming detection into perception
+
+23:06.200 --> 23:11.000
+ of being stories, memories, of creating emotions,
+
+23:11.000 --> 23:15.800
+ of giving you different actions and perceptions
+
+23:15.800 --> 23:18.520
+ as a function of the internal state.
+
+23:18.520 --> 23:21.040
+ When you're hungry, things taste very differently
+
+23:21.040 --> 23:22.680
+ than when you're sated.
+
+23:22.680 --> 23:24.240
+ How, why?
+
+23:24.240 --> 23:27.080
+ When you taste something, you now remember
+
+23:27.080 --> 23:30.040
+ this amazing meal you had with your first date.
+
+23:30.040 --> 23:31.280
+ How does that happen?
+
+23:31.280 --> 23:35.080
+ All right, so if I want to begin to explore
+
+23:35.080 --> 23:37.980
+ all of these things that the brain does,
+
+23:39.080 --> 23:43.140
+ I felt I have to choose a sensory system
+
+23:43.140 --> 23:48.140
+ that affords some degree of simplicity
+
+23:48.140 --> 23:53.140
+ in the way that the input-output relationships
+
+23:53.380 --> 23:56.700
+ are put together, and in a way that still can be used
+
+23:56.700 --> 23:59.140
+ to ask every one of these problems
+
+23:59.140 --> 24:03.140
+ that the brain has to ultimately compute, encode,
+
+24:03.140 --> 24:04.040
+ and decode.
+
+24:05.660 --> 24:08.380
+ And what was remarkable about the taste system
+
+24:08.380 --> 24:10.880
+ at the time that I began working on this,
+
+24:10.880 --> 24:15.880
+ is that nothing was known about the molecular basis of taste.
+
+24:18.680 --> 24:22.600
+ We knew that we could taste what has been usually defined
+
+24:22.600 --> 24:25.840
+ as the basic taste qualities,
+
+24:25.840 --> 24:30.840
+ sweet, sour, bitter, salty, and umami.
+
+24:31.680 --> 24:36.360
+ Umami is a Japanese word that means yummy, delicious.
+
+24:36.360 --> 24:39.800
+ And that's nearly every animal species
+
+24:39.800 --> 24:42.200
+ the taste of amino acids.
+
+24:42.200 --> 24:45.480
+ And in humans, it's mostly associated
+
+24:45.480 --> 24:48.620
+ with the taste of MSG, monosodium glutamate,
+
+24:48.620 --> 24:50.840
+ one amino acid in particular.
+
+24:50.840 --> 24:52.640
+ What are, just by way of example,
+
+24:52.640 --> 24:57.600
+ some foods that are rich in the umami-evoking stimulation?
+
+24:57.600 --> 25:02.160
+ Seaweed, tomatoes, cheese.
+
+25:02.160 --> 25:06.480
+ And it's a great, great flavor enhancer.
+
+25:06.480 --> 25:10.040
+ It enriches our sensory experience.
+
+25:10.040 --> 25:11.920
+ And so the beautiful thing of the system
+
+25:11.920 --> 25:16.100
+ is that the lines of input are limited to five.
+
+25:17.960 --> 25:20.200
+ You know, sweet, sour, bitter, salty, and umami.
+
+25:20.200 --> 25:24.600
+ And each of them has a predetermined meaning.
+
+25:24.600 --> 25:29.480
+ You are born liking sugar and disliking bitter.
+
+25:29.480 --> 25:31.560
+ You have no choice.
+
+25:31.560 --> 25:34.040
+ These are hardwired systems.
+
+25:34.040 --> 25:39.040
+ But of course, you can learn to dislike sugar
+
+25:39.160 --> 25:41.720
+ and to like bitters.
+
+25:41.720 --> 25:45.620
+ But in the wild, let's take humans out of the question.
+
+25:46.660 --> 25:50.520
+ These are 100% predetermined.
+
+25:50.520 --> 25:55.520
+ You're born with that specific valence value
+
+25:56.360 --> 26:01.360
+ for each taste of sweet, umami, and low salt
+
+26:01.360 --> 26:04.200
+ are attractive taste qualities.
+
+26:05.300 --> 26:08.960
+ They evoke appetitive responses, I want to consume them.
+
+26:10.280 --> 26:14.840
+ And bitter and sour are innately
+
+26:14.840 --> 26:18.080
+ predetermined to be aversive.
+
+26:18.080 --> 26:19.480
+ Could I interrupt you just briefly
+
+26:19.480 --> 26:22.600
+ and ask a question about that exact point?
+
+26:22.600 --> 26:24.760
+ For something to be appetitive to,
+
+26:24.760 --> 26:28.180
+ and some other taste to be aversive,
+
+26:28.180 --> 26:30.540
+ and for those to be hardwired,
+
+26:30.540 --> 26:35.280
+ can we assume that the sensation of very bitter,
+
+26:35.280 --> 26:37.880
+ or of activation of bitter receptors in the mouth
+
+26:38.800 --> 26:43.300
+ activates a neural circuit that causes closing of the mouth,
+
+26:43.300 --> 26:46.480
+ retraction of the tongue, and retraction of the body,
+
+26:46.480 --> 26:48.200
+ and that the taste of something sweet
+
+26:48.200 --> 26:50.920
+ might actually induce more licking?
+
+26:50.920 --> 26:53.280
+ 100%, you got it.
+
+26:53.280 --> 26:56.800
+ The activation of the receptors in the tongue
+
+26:56.800 --> 26:59.400
+ that recognize sweet versus the ones
+
+26:59.400 --> 27:04.260
+ that recognize bitter activate an entire behavioral program.
+
+27:05.280 --> 27:10.320
+ And that program that we can refer as appetitiveness
+
+27:10.320 --> 27:15.320
+ or aversion, it's composed of many different subroutines.
+
+27:16.480 --> 27:19.280
+ In the case of bitter, it's very easy
+
+27:19.280 --> 27:22.960
+ to actually look at, see them happening in animals
+
+27:22.960 --> 27:25.680
+ because the first thing you do is you stop licking,
+
+27:25.680 --> 27:30.680
+ then you put unhappy face, then you squint your eyes,
+
+27:30.800 --> 27:33.800
+ and then you start gagging, right?
+
+27:33.800 --> 27:37.160
+ And that entire thing happens by the activation
+
+27:37.160 --> 27:41.120
+ of a bitter molecule in a bitter sensing cell in your tongue.
+
+27:41.120 --> 27:41.960
+ It's incredible.
+
+27:41.960 --> 27:44.720
+ It's, again, the magic of the brain,
+
+27:44.720 --> 27:48.980
+ you know, how it's able to encode and decode
+
+27:48.980 --> 27:51.320
+ these extraordinary actions and behaviors
+
+27:51.320 --> 27:53.480
+ in response of nothing but a simple,
+
+27:53.480 --> 27:58.480
+ very, you know, unique sensory stimuli.
+
+27:59.000 --> 28:02.560
+ Now, let me say that this palette of five basic tastes
+
+28:02.560 --> 28:06.000
+ accommodates all the dietary needs of the organism.
+
+28:06.000 --> 28:10.220
+ Sweet to ensure that we get the right amount of energy.
+
+28:12.040 --> 28:14.800
+ Umami to ensure that we get proteins
+
+28:14.800 --> 28:16.460
+ and that essential nutrient.
+
+28:17.360 --> 28:19.440
+ Salt, the three appetitive ones,
+
+28:19.440 --> 28:23.840
+ ensure that we maintain our electrolyte balance.
+
+28:23.840 --> 28:28.120
+ Bitter to prevent the ingestion of toxic, nauseous chemicals.
+
+28:28.120 --> 28:30.520
+ Nearly all bitter tasting, you know,
+
+28:30.520 --> 28:33.360
+ things out in the wild are bad for you.
+
+28:34.220 --> 28:39.220
+ And sour, most likely to prevent the ingestion of spoiled,
+
+28:39.280 --> 28:42.960
+ acid, fermented foods.
+
+28:43.880 --> 28:44.720
+ And that's it.
+
+28:44.720 --> 28:48.200
+ That is the palette that we deal with.
+
+28:48.200 --> 28:49.540
+ Now, of course, there's a difference
+
+28:49.540 --> 28:52.640
+ between basic taste and flavor.
+
+28:53.680 --> 28:55.800
+ Flavor is the whole experience.
+
+28:55.800 --> 29:00.360
+ Flavor is the combination of multiple tastes coming together
+
+29:00.360 --> 29:05.360
+ together with smell, with texture, with temperature,
+
+29:05.760 --> 29:08.840
+ with the look of it that gives you what you and I
+
+29:08.840 --> 29:11.440
+ would call the full sensory experience.
+
+29:11.440 --> 29:15.640
+ But we scientists need to reduce the problem
+
+29:15.640 --> 29:19.880
+ into its basic elements so we can begin to break it apart
+
+29:19.880 --> 29:21.780
+ before we put it back together.
+
+29:21.780 --> 29:25.120
+ So when we think about the sense of taste
+
+29:25.120 --> 29:29.200
+ and we try to figure out how these lines of information
+
+29:29.200 --> 29:30.880
+ go from your tongue to your brain
+
+29:30.880 --> 29:33.600
+ and how they signal and how they get integrated
+
+29:33.600 --> 29:36.560
+ and how they trigger all these different behaviors,
+
+29:36.560 --> 29:39.480
+ we look at them as individual qualities.
+
+29:39.480 --> 29:41.960
+ So we give the animal sweet or we give them a bitter,
+
+29:41.960 --> 29:46.360
+ we give them sour, we avoid mixes
+
+29:46.360 --> 29:51.360
+ because the first stage of discovery
+
+29:51.400 --> 29:56.120
+ is to have that clarity as to what you're trying to extract
+
+29:56.120 --> 29:59.560
+ so that you can hopefully meaningfully make a difference
+
+29:59.560 --> 30:02.880
+ by being able to figure out how is it
+
+30:02.880 --> 30:06.080
+ that A goes to B to C and to D.
+
+30:06.080 --> 30:06.920
+ Does this make sense?
+
+30:06.920 --> 30:08.600
+ Yeah, almost like the primary colors
+
+30:08.600 --> 30:11.360
+ to create the full array of the color spectrum.
+
+30:11.360 --> 30:12.780
+ Exactly.
+
+30:12.780 --> 30:16.280
+ Before I ask you about the first and second and third stages
+
+30:16.280 --> 30:18.660
+ of taste and flavor perception,
+
+30:18.660 --> 30:22.720
+ is there any idea that there may be more than five?
+
+30:22.720 --> 30:25.180
+ There is, for example.
+
+30:25.180 --> 30:27.100
+ What about fat?
+
+30:27.100 --> 30:28.160
+ I love the taste.
+
+30:28.160 --> 30:29.000
+ I love fat too.
+
+30:29.000 --> 30:30.520
+ And I love the texture of fat,
+
+30:30.520 --> 30:32.720
+ especially if it's slightly burnt.
+
+30:34.180 --> 30:36.240
+ In South America, when I visited Buenos Aires,
+
+30:36.240 --> 30:38.760
+ I found that at the end of a meal, they would take a steak,
+
+30:38.760 --> 30:40.720
+ the trimming off the edge of the steak,
+
+30:40.720 --> 30:44.080
+ burn it slightly, and then serve it back to me.
+
+30:44.080 --> 30:46.320
+ And I thought, that's disgusting.
+
+30:46.320 --> 30:49.080
+ And then I tasted it, and it's delightful.
+
+30:49.080 --> 30:49.920
+ It is.
+
+30:49.920 --> 30:51.880
+ There's nothing quite like it.
+
+30:51.880 --> 30:53.680
+ This goes back to this notion before
+
+30:53.680 --> 30:56.400
+ that we like to live on the edge, yeah?
+
+30:56.400 --> 30:59.440
+ And we like to do things that we should not be doing, Andrew.
+
+31:00.520 --> 31:03.440
+ But on the other hand, look at those muscles.
+
+31:03.440 --> 31:08.440
+ The, I don't suggest anyone eat pure fat.
+
+31:08.800 --> 31:10.440
+ The listeners of this podcast will immediately,
+
+31:10.440 --> 31:12.240
+ I'm sure there'll be a YouTube video soon
+
+31:12.240 --> 31:13.600
+ that I like eating pure fat.
+
+31:13.600 --> 31:15.920
+ I'm not in on a ketogenic diet, et cetera.
+
+31:15.920 --> 31:19.520
+ But fat is tasty.
+
+31:19.520 --> 31:20.360
+ It is.
+
+31:20.360 --> 31:22.760
+ As evidenced by the obesity problem
+
+31:22.760 --> 31:23.600
+ that exists in this country.
+
+31:23.600 --> 31:25.400
+ We'll talk about that in a little bit
+
+31:25.400 --> 31:27.800
+ about the gut brain axis.
+
+31:27.800 --> 31:30.040
+ I think it'll be important to cover it
+
+31:30.040 --> 31:32.620
+ because it's the other side of the taste system.
+
+31:34.360 --> 31:38.600
+ And so missing tastes, one is fat.
+
+31:38.600 --> 31:42.440
+ Although, like you clearly highlighted,
+
+31:42.440 --> 31:46.520
+ a lot of fat taste, in quotation marks,
+
+31:46.520 --> 31:51.520
+ is really the feeling of fat rolling on your tongue.
+
+31:52.960 --> 31:57.760
+ And so there is a compelling argument
+
+31:57.760 --> 32:00.640
+ that a lot of what we call fat taste
+
+32:01.760 --> 32:04.580
+ is really mechanosensory.
+
+32:04.580 --> 32:08.020
+ It's somatosensory cells,
+
+32:08.020 --> 32:10.780
+ cells that are not responding to taste,
+
+32:10.780 --> 32:14.260
+ but they're responding to mechanical stimulation
+
+32:14.260 --> 32:17.020
+ of fat molecules rolling on the tongue
+
+32:17.020 --> 32:19.540
+ that gives you that perception of fat.
+
+32:20.380 --> 32:23.060
+ I love the idea that there is a perception of fat
+
+32:23.060 --> 32:24.140
+ regardless of whether or not
+
+32:24.140 --> 32:27.100
+ there's a dedicated receptor for fat.
+
+32:27.100 --> 32:31.300
+ Mostly because it's evoking sensations and imagery
+
+32:31.300 --> 32:34.420
+ of the taste of slightly burnt fat.
+
+32:34.420 --> 32:36.940
+ For example, and another one,
+
+32:36.940 --> 32:39.500
+ you could argue it's metallic taste.
+
+32:39.500 --> 32:41.380
+ I know exactly what it tastes like.
+
+32:42.260 --> 32:45.800
+ If you ask me to explain it, I will have a hard time.
+
+32:48.060 --> 32:50.460
+ What are the palettes of that color
+
+32:50.460 --> 32:54.700
+ that can allow me to define it, I wouldn't be easy,
+
+32:54.700 --> 32:56.860
+ but I know precisely what it tastes like.
+
+32:56.860 --> 32:59.700
+ Take a penny, put it in your mouth,
+
+32:59.700 --> 33:01.420
+ and you know what it tastes like, yeah?
+
+33:01.420 --> 33:04.580
+ Or blood, that's another very good example.
+
+33:05.780 --> 33:10.140
+ And is there really a receptor for metallic taste,
+
+33:10.140 --> 33:13.260
+ or it's nothing but this magical combination
+
+33:13.260 --> 33:16.740
+ of the activation of the existing lines.
+
+33:16.740 --> 33:19.340
+ Think of it as lines of information, just separate lines,
+
+33:19.340 --> 33:21.640
+ by the keys of a piano, yeah?
+
+33:21.640 --> 33:23.460
+ Sweet, sour, bitter, salty, umami,
+
+33:23.460 --> 33:26.620
+ you play the key and you activate that one chord.
+
+33:26.620 --> 33:28.700
+ And that one chord in the case of a piano
+
+33:28.700 --> 33:31.780
+ leads to a note, you know, a tune,
+
+33:31.780 --> 33:34.740
+ and in the case of taste, leads to an action and a behavior.
+
+33:35.940 --> 33:38.900
+ But you play many of them together and something emerges
+
+33:38.900 --> 33:42.900
+ that it's different than any one of the pieces.
+
+33:44.700 --> 33:48.300
+ And it's possible that metallic, for example,
+
+33:48.300 --> 33:50.980
+ represents the combination of the activity
+
+33:50.980 --> 33:55.980
+ just in the right ratio of these added lines.
+
+33:55.980 --> 33:59.340
+ It makes sense, and it actually provides a perfect,
+
+33:59.340 --> 34:01.580
+ your example of the piano provides a perfect segue
+
+34:01.580 --> 34:04.320
+ for what I'd like to touch on next,
+
+34:04.320 --> 34:08.580
+ which is if you would describe the sequence
+
+34:08.580 --> 34:13.220
+ of neural events leading to a perceptual event of taste.
+
+34:13.220 --> 34:15.580
+ And I'm certain that somewhere in there
+
+34:16.540 --> 34:19.100
+ you will embed an answer to the question
+
+34:19.100 --> 34:22.580
+ of whether or not we indeed have different taste receptors
+
+34:22.580 --> 34:26.180
+ distributed in different locations on our tongue
+
+34:26.180 --> 34:27.540
+ or elsewhere in the mouth.
+
+34:27.540 --> 34:32.540
+ Yes, so let's start by debunking that old tale and myth.
+
+34:36.060 --> 34:37.220
+ Who came up with that?
+
+34:38.820 --> 34:41.820
+ There are many views, but the most prevalent
+
+34:41.820 --> 34:45.940
+ is that there was an original drawing
+
+34:45.940 --> 34:50.940
+ describing the sensitivity of the tongue to different tastes.
+
+34:50.940 --> 34:54.300
+ So imagine I can take a Q-tip.
+
+34:54.300 --> 34:56.580
+ This is a thought experiment, yeah?
+
+34:56.580 --> 35:01.580
+ And I'm gonna dip that Q-tip in salt and in quinine
+
+35:01.580 --> 35:04.580
+ or something bitter and glucose or something sweet.
+
+35:05.460 --> 35:07.620
+ And I'm gonna take that Q-tip,
+
+35:07.620 --> 35:10.260
+ ask you to stick your tongue out
+
+35:10.260 --> 35:12.140
+ and start moving it around your tongue
+
+35:12.140 --> 35:14.340
+ and ask you what do you feel.
+
+35:16.540 --> 35:19.260
+ And then I'm going to change the concentration
+
+35:19.260 --> 35:23.460
+ of the amount of salt or the amount of bitter
+
+35:23.460 --> 35:27.140
+ and ask can I get some sort of a map of sensitivity
+
+35:27.140 --> 35:28.740
+ to the different tastes, yeah?
+
+35:30.540 --> 35:32.940
+ And the argument that has emerged
+
+35:32.940 --> 35:35.060
+ is that there is a good likelihood
+
+35:35.060 --> 35:38.820
+ that the data was simply mistranslated
+
+35:38.820 --> 35:40.500
+ as it was being drawn.
+
+35:42.340 --> 35:45.340
+ And of course that led to an entire industry.
+
+35:45.340 --> 35:49.180
+ This is the way you maximize your one-to-one.
+
+35:49.180 --> 35:51.580
+ Why in experience?
+
+35:51.580 --> 35:55.380
+ Because now we're going to form the vessel
+
+35:55.380 --> 35:56.740
+ that you're gonna drink from
+
+35:56.740 --> 36:00.420
+ so that it acts maximally on the receptors which happen.
+
+36:00.420 --> 36:05.420
+ All right, now there is no tongue map, all right?
+
+36:07.900 --> 36:12.340
+ We have taste buds distributed in various parts of the tongue
+
+36:12.340 --> 36:17.340
+ so there is a map on the distribution of taste buds.
+
+36:17.340 --> 36:22.300
+ But each taste bud has around 100 taste receptor cells
+
+36:22.300 --> 36:25.820
+ and those taste receptor cells can be of five types,
+
+36:27.820 --> 36:31.020
+ sweet, sour, bitter, salty or umami.
+
+36:31.020 --> 36:33.460
+ And for the most part,
+
+36:35.100 --> 36:38.180
+ all taste buds have the representation
+
+36:38.180 --> 36:41.140
+ of all five taste qualities.
+
+36:41.140 --> 36:43.620
+ Now there's no question that there is a slight bias
+
+36:43.620 --> 36:44.780
+ for some tastes.
+
+36:44.780 --> 36:48.300
+ Like bitter is particularly enriched
+
+36:48.300 --> 36:50.100
+ at the very back of your tongue.
+
+36:51.020 --> 36:53.300
+ And there is a teleological basis for that
+
+36:53.300 --> 36:56.020
+ and actually a biological basis for that.
+
+36:56.020 --> 36:57.820
+ That's the last line of defense
+
+36:57.820 --> 37:00.020
+ before you swallow something bad.
+
+37:01.660 --> 37:05.060
+ And so let's make sure that the very back of your tongue
+
+37:05.060 --> 37:08.500
+ has plenty of these bad news receptors
+
+37:09.420 --> 37:11.340
+ so that if they get activated,
+
+37:11.340 --> 37:16.340
+ you can trigger a gagging reflex and get rid of this
+
+37:16.500 --> 37:18.940
+ that otherwise may kill you, okay?
+
+37:18.940 --> 37:19.780
+ That's good sense.
+
+37:19.780 --> 37:23.700
+ But the notion that all sweet is in the front
+
+37:23.700 --> 37:28.700
+ and salt is on the side, it's not real.
+
+37:30.740 --> 37:31.860
+ And there, go ahead.
+
+37:31.860 --> 37:33.620
+ Oh, I was just going to ask, are there,
+
+37:33.620 --> 37:36.340
+ first of all, thank you for dispelling that myth
+
+37:36.340 --> 37:38.340
+ and we will propagate that information
+
+37:38.340 --> 37:40.260
+ as far and wide as we can
+
+37:40.260 --> 37:43.340
+ because I think that's the number one myth related to taste.
+
+37:43.340 --> 37:46.780
+ The other one is, are there taste receptors anywhere else
+
+37:46.780 --> 37:49.380
+ in the mouth, for instance, on the lips?
+
+37:49.380 --> 37:50.620
+ The palate, not the lips.
+
+37:50.620 --> 37:54.380
+ So it's in the far range at the very back
+
+37:54.380 --> 37:58.580
+ of the oral cavity, the tongue and the palate.
+
+37:58.580 --> 38:02.300
+ And the palate is very rich in sweet receptors.
+
+38:02.300 --> 38:03.460
+ I'll have to pay attention to this
+
+38:03.460 --> 38:05.220
+ the next time I eat something sweet.
+
+38:05.220 --> 38:07.500
+ Whether you pull it up, yeah?
+
+38:07.500 --> 38:12.500
+ Now, the important thing is that, you know,
+
+38:13.220 --> 38:16.700
+ after the receptors for these five,
+
+38:16.700 --> 38:19.900
+ the detectors, the molecules that sends
+
+38:19.900 --> 38:22.220
+ sweet sour beet and salt to mommy,
+
+38:22.220 --> 38:25.300
+ these are receptors, proteins found on the surface
+
+38:25.300 --> 38:29.300
+ of taste receptor cells that interact with these chemicals.
+
+38:29.300 --> 38:31.100
+ And once they interact, then they trigger
+
+38:31.100 --> 38:35.740
+ the cascade of events, biochemical events inside the cell
+
+38:35.740 --> 38:39.580
+ that now sends an electrical signal that says,
+
+38:39.580 --> 38:43.060
+ there is sweet here, or there is salt here.
+
+38:43.060 --> 38:46.500
+ Now having these receptors and my laboratory identify
+
+38:46.500 --> 38:49.620
+ the receptors for all five basic taste classes,
+
+38:49.620 --> 38:52.860
+ sweet, bitter, salt, to mommy, and most recently sour,
+
+38:54.140 --> 38:55.540
+ now completing the palate,
+
+38:55.540 --> 38:58.300
+ you can now use these receptors to really map
+
+38:58.300 --> 39:02.660
+ where are they found in the tongue in a very rigorous way.
+
+39:02.660 --> 39:05.180
+ This is no longer about using a Q-tip
+
+39:05.180 --> 39:09.260
+ and trying to figure out what you're feeling,
+
+39:09.260 --> 39:12.140
+ but rather what you have in your tongue.
+
+39:13.660 --> 39:18.620
+ This is not a guess, this is now a physical map
+
+39:18.620 --> 39:22.500
+ that says the sweet receptors are found here.
+
+39:22.500 --> 39:24.780
+ The bitter are found here, and when you do that,
+
+39:24.780 --> 39:28.140
+ you find that in fact, every taste pad
+
+39:28.140 --> 39:32.260
+ throughout your oral cavity has receptors
+
+39:32.260 --> 39:35.220
+ for all of the basic taste classes.
+
+39:35.220 --> 39:36.460
+ Amazing.
+
+39:36.460 --> 39:38.980
+ And as it turns out, and I'm sure you'll tell us,
+
+39:38.980 --> 39:41.620
+ important in terms of thinking about how the brain
+
+39:42.580 --> 39:46.180
+ computes and codes and decodes this thing we call taste.
+
+39:46.180 --> 39:47.980
+ I'm going to inject a quick question
+
+39:47.980 --> 39:50.060
+ that I'm sure is on many people's minds
+
+39:50.060 --> 39:52.820
+ before we get back into the biological circuit,
+
+39:52.820 --> 39:54.940
+ which is many people, including myself,
+
+39:54.940 --> 39:57.740
+ are familiar with the experience of drinking a sip of tea
+
+39:57.740 --> 40:01.940
+ or coffee that is too hot, and burning my tongue
+
+40:01.940 --> 40:03.380
+ is the way I would describe it.
+
+40:03.380 --> 40:04.220
+ Horrible.
+
+40:04.220 --> 40:06.140
+ And then disrupting my sense of taste
+
+40:06.140 --> 40:07.860
+ for some period of time afterward.
+
+40:07.860 --> 40:08.780
+ Yes.
+
+40:08.780 --> 40:12.020
+ When I experienced that phenomenon,
+
+40:12.020 --> 40:13.540
+ that unfortunate phenomenon,
+
+40:13.540 --> 40:17.180
+ have I destroyed taste receptors that regenerate,
+
+40:18.020 --> 40:20.620
+ or have I somehow used temperature
+
+40:20.620 --> 40:22.540
+ to distort the function of the circuit
+
+40:22.540 --> 40:26.100
+ so that I no longer taste the way I did before?
+
+40:26.100 --> 40:29.100
+ Excellent question, and the answer is both.
+
+40:29.100 --> 40:32.620
+ It turns out that your taste receptors
+
+40:32.620 --> 40:35.100
+ only leave for around two weeks.
+
+40:36.540 --> 40:38.340
+ And this, by the way, makes sense
+
+40:38.340 --> 40:41.180
+ because here you have an organ, the tongue,
+
+40:43.340 --> 40:46.620
+ that is continuously exposed to everything
+
+40:46.620 --> 40:48.140
+ you could range from the nicest
+
+40:48.140 --> 40:50.220
+ to the most horrible possible things.
+
+40:50.220 --> 40:51.500
+ Use your imagination.
+
+40:51.500 --> 40:53.780
+ And so,
+
+40:55.540 --> 40:57.460
+ you need to make sure that these cells
+
+40:57.460 --> 40:59.580
+ are always coming back in a way
+
+40:59.580 --> 41:03.060
+ that I can re-experience the world in the right way.
+
+41:03.060 --> 41:04.940
+ And there are other organs
+
+41:04.940 --> 41:08.980
+ that have the same underlying logic, okay?
+
+41:08.980 --> 41:11.380
+ Your gut, your intestines are the same way.
+
+41:11.380 --> 41:12.620
+ Yeah, amazing.
+
+41:12.620 --> 41:16.580
+ Again, they're receiving everything that you ingest,
+
+41:16.580 --> 41:18.540
+ God forbid what's there,
+
+41:19.740 --> 41:22.180
+ from the spiciest, you know,
+
+41:22.180 --> 41:25.820
+ to the most horrible tasting, so the most delicious.
+
+41:25.820 --> 41:28.180
+ And again, those intestinal cells
+
+41:28.180 --> 41:32.860
+ whose role is to ultimately take all these nutrients
+
+41:32.860 --> 41:34.940
+ and bring them into the body,
+
+41:34.940 --> 41:39.940
+ also renewal in a very, very fast cycle.
+
+41:43.540 --> 41:46.220
+ Olfactory neurons in your nose is the other example.
+
+41:47.940 --> 41:51.660
+ So then, A, yes, you're burning a lot of your cells
+
+41:51.660 --> 41:54.700
+ and it's over for those.
+
+41:54.700 --> 41:57.500
+ The good news is that they're gonna come back.
+
+41:57.500 --> 41:59.660
+ But we know that when you burn your cell with tea,
+
+41:59.660 --> 42:01.420
+ they come back, you know,
+
+42:01.420 --> 42:05.020
+ within 20 minutes, 30 minutes, an hour.
+
+42:05.020 --> 42:09.580
+ And these cells are not renewing in that timeframe.
+
+42:09.580 --> 42:11.540
+ They're not listening to your needs.
+
+42:11.540 --> 42:13.660
+ They have their own internal clock.
+
+42:16.220 --> 42:21.220
+ And so, you are really affecting,
+
+42:21.220 --> 42:25.540
+ you're damaging them in a way that they can recover.
+
+42:26.660 --> 42:27.780
+ And then they come back
+
+42:27.780 --> 42:30.380
+ and you also damage your somatosensory cells.
+
+42:30.380 --> 42:35.300
+ These are the cells that feel things, not taste things.
+
+42:36.900 --> 42:39.820
+ And then, you know, you wait half an hour or so,
+
+42:39.820 --> 42:44.500
+ and then, my goodness, thank God, it's back to normal.
+
+42:44.500 --> 42:47.500
+ And most of the time, I don't even notice the transition,
+
+42:47.500 --> 42:49.140
+ realizing, as you tell me,
+
+42:49.140 --> 42:51.660
+ and later, I'll ask you about the relationship
+
+42:51.660 --> 42:54.740
+ between odor and taste.
+
+42:54.740 --> 42:58.900
+ But as a next step along the circuit,
+
+42:58.900 --> 43:00.700
+ let's assume I ingest some,
+
+43:00.700 --> 43:03.220
+ let's keep it simple, a sweet taste.
+
+43:03.220 --> 43:06.580
+ Let's make it even simpler,
+
+43:07.700 --> 43:11.460
+ but at the same time, perhaps more informative.
+
+43:11.460 --> 43:15.060
+ Let's compare and contrast sweet and bitter
+
+43:15.060 --> 43:19.220
+ as we follow their lines from the tongue to the brain.
+
+43:20.220 --> 43:22.540
+ So, the first thing is that the two evoke
+
+43:22.540 --> 43:25.100
+ diametrically opposed behaviors.
+
+43:25.100 --> 43:28.300
+ If we have to come up with two sensory experience
+
+43:28.300 --> 43:31.300
+ that represent polar opposites, it will be sweet and bitter.
+
+43:31.300 --> 43:33.700
+ There are not two colors that represent polar opposites
+
+43:33.700 --> 43:35.700
+ because, you know, you could say black and white,
+
+43:35.700 --> 43:37.900
+ they are polar opposites, one detects only one thing,
+
+43:37.900 --> 43:39.540
+ the other one detects everything.
+
+43:40.580 --> 43:44.900
+ But they don't evoke different behaviors,
+
+43:44.900 --> 43:47.380
+ even political parties have some over them.
+
+43:48.620 --> 43:51.020
+ Sweet and bitter are the two opposite ends
+
+43:51.020 --> 43:52.460
+ of the sensory spectra.
+
+43:53.580 --> 43:58.580
+ Now, a taste can be defined by two features.
+
+44:00.980 --> 44:03.700
+ Again, I'm a reductionist, so I'm reducing it
+
+44:03.700 --> 44:07.700
+ in a way that I think is easier to follow the signal.
+
+44:07.700 --> 44:12.700
+ And the two features are its quality and its valence.
+
+44:12.700 --> 44:17.420
+ And valence with a little V, that's what we say in Spanish,
+
+44:17.420 --> 44:22.420
+ with a V, yeah, means the value of that experience.
+
+44:25.620 --> 44:26.700
+ All right?
+
+44:26.700 --> 44:29.740
+ Or in this case of that stimuli.
+
+44:29.740 --> 44:34.740
+ And you take sweet, sweet has a quality, an identity,
+
+44:36.260 --> 44:38.300
+ and that's what you and I will refer to
+
+44:38.300 --> 44:40.140
+ as the taste of sweet.
+
+44:40.140 --> 44:42.820
+ We know exactly what it tastes like.
+
+44:43.820 --> 44:47.220
+ But sweet also has a positive valence,
+
+44:49.140 --> 44:52.940
+ which makes it incredibly attractive and appetitive.
+
+44:52.940 --> 44:55.020
+ But it's attractive and appetitive,
+
+44:55.020 --> 44:56.380
+ as I'll tell you in a second,
+
+44:56.380 --> 45:00.420
+ independent of its identity and quality.
+
+45:00.420 --> 45:03.940
+ In fact, we have been able to engineer animals
+
+45:03.940 --> 45:07.780
+ where we completely remove the valence from the stimuli.
+
+45:07.780 --> 45:10.460
+ So these animals can taste sweet,
+
+45:10.460 --> 45:15.460
+ can recognize it as sweet, but it's no longer attractive.
+
+45:16.340 --> 45:19.140
+ It's just one more chemical stimuli.
+
+45:20.100 --> 45:23.980
+ And that's because the identity and the valence
+
+45:23.980 --> 45:26.820
+ are encoded in two separate parts of the brain.
+
+45:28.260 --> 45:33.100
+ In the case of bitter, again, it has, on the one hand,
+
+45:33.100 --> 45:35.140
+ its identity, its quality.
+
+45:35.140 --> 45:37.540
+ And you know exactly what bitter tastes like.
+
+45:37.540 --> 45:41.420
+ I can taste it now, even as you describe it.
+
+45:41.420 --> 45:45.220
+ But it also has a valence, and that's a negative valence,
+
+45:45.220 --> 45:48.740
+ because it evokes aversive behaviors.
+
+45:50.060 --> 45:50.900
+ Are we on?
+
+45:50.900 --> 45:51.740
+ Absolutely.
+
+45:51.740 --> 45:52.580
+ All right.
+
+45:52.580 --> 45:54.060
+ And it comes to mind, I remember telling some kids recently
+
+45:54.060 --> 45:55.260
+ that we're going to go get ice cream,
+
+45:55.260 --> 45:56.100
+ and it was interesting.
+
+45:56.100 --> 45:57.740
+ They looked up and they started smacking their lip,
+
+45:57.740 --> 46:00.500
+ like, you know, they'll actually evoke-
+
+46:00.500 --> 46:03.860
+ The anticipatory response, absolutely.
+
+46:04.820 --> 46:07.300
+ When we talk about the gut brain, maybe we'll get there.
+
+46:07.300 --> 46:10.860
+ So then the signals, if we follow now these two lines,
+
+46:10.860 --> 46:13.100
+ they're really like two separate keys
+
+46:13.100 --> 46:15.340
+ at the two ends of this keyboard.
+
+46:16.660 --> 46:21.180
+ And you press one key and you activate this cord.
+
+46:21.180 --> 46:25.100
+ So you activate the sweet cells throughout your oral cavity
+
+46:25.100 --> 46:29.260
+ and they all converge into a group of sweet neurons
+
+46:29.260 --> 46:34.260
+ in the next station, which is still outside the brain,
+
+46:34.260 --> 46:37.060
+ the brain is one of the taste ganglia.
+
+46:38.100 --> 46:40.940
+ These are the neurons that innervate your tongue
+
+46:40.940 --> 46:42.580
+ and the oral cavity.
+
+46:42.580 --> 46:43.820
+ Where do they sit approximately?
+
+46:43.820 --> 46:44.660
+ Around there.
+
+46:44.660 --> 46:47.220
+ Yeah, right here around the lymph nodes, more or less.
+
+46:47.220 --> 46:48.060
+ You got it.
+
+46:49.140 --> 46:54.100
+ And there are two main ganglia that innervate
+
+46:54.100 --> 46:59.100
+ the vast majority of all taste buds in the oral cavity.
+
+46:59.260 --> 47:02.540
+ And then from there, that sweet signal
+
+47:02.540 --> 47:04.740
+ goes onto the brainstem.
+
+47:04.740 --> 47:08.860
+ The brainstem is the entry of the body into the brain.
+
+47:10.060 --> 47:12.940
+ And there are different areas of the brainstem
+
+47:12.940 --> 47:15.740
+ and there are different groups of neurons in the brainstem.
+
+47:15.740 --> 47:17.620
+ And there's this unique area,
+
+47:17.620 --> 47:22.620
+ in a unique topographically defined location
+
+47:26.140 --> 47:29.340
+ in the rostral side of the brainstem
+
+47:29.340 --> 47:32.660
+ that receives all of the taste input.
+
+47:32.660 --> 47:34.500
+ A very dense area of the brain.
+
+47:34.500 --> 47:38.980
+ A very rich area of the brain, exactly.
+
+47:38.980 --> 47:42.740
+ And from there, the sweet signal goes to this other area
+
+47:42.740 --> 47:45.540
+ higher up on the brainstem.
+
+47:46.900 --> 47:50.980
+ And then it goes through a number of stations
+
+47:50.980 --> 47:54.020
+ where that sweet signal goes from sweet neuron
+
+47:54.020 --> 47:56.780
+ to sweet neuron to sweet neuron
+
+47:56.780 --> 48:00.220
+ to eventually get to your cortex.
+
+48:00.220 --> 48:03.100
+ And once it gets to your taste cortex,
+
+48:03.100 --> 48:08.100
+ that's where meaning is imposed into that signal.
+
+48:08.540 --> 48:13.540
+ It's then, and only then, this is what the data suggests,
+
+48:15.460 --> 48:20.460
+ that now you can identify this as a sweet stimuli.
+
+48:20.700 --> 48:22.580
+ And how quickly does that all happen?
+
+48:22.580 --> 48:27.580
+ You know, the timescale of the nervous system, it's fast.
+
+48:30.260 --> 48:31.100
+ And so-
+
+48:31.100 --> 48:32.060
+ Within less than a second.
+
+48:32.060 --> 48:33.620
+ Yeah, absolutely, yeah.
+
+48:33.620 --> 48:36.460
+ I rarely mistake bitter for sweet.
+
+48:36.460 --> 48:39.420
+ Maybe with respect to people and my own poor judgment,
+
+48:39.420 --> 48:41.940
+ but not with respect to taste.
+
+48:41.940 --> 48:44.700
+ Yeah, and in fact, we can demonstrate this
+
+48:44.700 --> 48:46.820
+ because we can stick electrodes
+
+48:46.820 --> 48:50.340
+ at each of these stations conceptually, yeah?
+
+48:50.340 --> 48:51.940
+ And we can stimulate the tongue
+
+48:51.940 --> 48:53.900
+ and then we can record the signals
+
+48:53.900 --> 48:57.380
+ pretty much time log to stimulus delivery.
+
+48:57.380 --> 48:58.860
+ You deliver the stimuli
+
+48:58.860 --> 49:00.500
+ and within a fraction of a second,
+
+49:01.460 --> 49:05.660
+ you see now the response in these following stations.
+
+49:05.660 --> 49:08.060
+ Now it gets to the cortex here.
+
+49:08.060 --> 49:12.580
+ And now in there, you impose meaning to that taste.
+
+49:12.580 --> 49:14.900
+ There's an area of your brain
+
+49:14.900 --> 49:19.900
+ that represents the taste of sweet in taste cortex
+
+49:19.900 --> 49:24.900
+ and a different area that represents the taste of bitter.
+
+49:25.500 --> 49:27.580
+ In essence, there is a topographic map
+
+49:28.500 --> 49:30.820
+ of these taste qualities inside your brain.
+
+49:32.500 --> 49:35.700
+ Now we're gonna do a thought experiment, all right?
+
+49:35.700 --> 49:39.100
+ Now, if this group of neurons in your cortex
+
+49:39.100 --> 49:41.380
+ really represents the sense of sweet
+
+49:42.420 --> 49:45.500
+ and this added different group of neurons in your brain
+
+49:45.500 --> 49:50.500
+ represents the taste, the perception of bitter,
+
+49:53.180 --> 49:55.820
+ then we should be able to do two things.
+
+49:55.820 --> 49:58.780
+ First, I should be able to go into your brain,
+
+49:58.780 --> 50:03.020
+ somehow silence those neurons,
+
+50:03.020 --> 50:06.500
+ find a way to prevent them from being activated
+
+50:07.620 --> 50:09.900
+ and I can give you all the sweet you want
+
+50:09.900 --> 50:12.380
+ and you'll never know that you're tasting sweet.
+
+50:12.380 --> 50:17.380
+ And conversely, I should be able to go into your brain,
+
+50:18.260 --> 50:21.700
+ come up with a way to activate those neurons
+
+50:21.700 --> 50:25.100
+ when I'm giving you absolutely nothing
+
+50:25.100 --> 50:27.060
+ and you're gonna think
+
+50:27.060 --> 50:29.820
+ that you're getting that full percept.
+
+50:31.500 --> 50:34.020
+ And that's precisely what we have done
+
+50:34.020 --> 50:36.700
+ and that's precisely what you get.
+
+50:36.700 --> 50:39.180
+ This of course is in the brain of mice.
+
+50:39.180 --> 50:42.500
+ But presumably in humans it would work similar.
+
+50:42.500 --> 50:44.140
+ Absolutely the same, zeroed out.
+
+50:44.140 --> 50:45.900
+ I have no questions.
+
+50:45.900 --> 50:50.060
+ So this attests to two important things.
+
+50:50.060 --> 50:53.980
+ The first to the predetermined nature of the sense of taste
+
+50:55.540 --> 50:58.940
+ because it means I can go to these parts of your brain
+
+50:58.940 --> 51:01.180
+ in the absence of any stimuli
+
+51:01.180 --> 51:06.100
+ and have you throw the full behavioral experience.
+
+51:06.100 --> 51:08.380
+ In fact, when we activate in your cortex
+
+51:08.380 --> 51:11.820
+ these bitter neurons, the animal can start gagging.
+
+51:14.180 --> 51:16.660
+ But it's drinking only water.
+
+51:18.380 --> 51:23.380
+ But the animal thinks that it's getting a bit of stimuli.
+
+51:23.740 --> 51:24.980
+ This is amazing.
+
+51:24.980 --> 51:27.580
+ And so, and the second, just to finish the line
+
+51:27.580 --> 51:30.220
+ so that it doesn't sound like it teaches two things
+
+51:30.220 --> 51:32.020
+ and then I only give you one lesson,
+
+51:32.020 --> 51:37.020
+ is that it substantiates this capacity of the brain
+
+51:40.500 --> 51:45.500
+ to segregate, to separate in these nodes of action
+
+51:45.900 --> 51:49.980
+ the representation of these two diametrically opposed
+
+51:49.980 --> 51:53.620
+ percepts, which is sweet, for example, versus bitter.
+
+51:54.740 --> 51:58.180
+ The reason I say amazing, and that is also amazing
+
+51:58.180 --> 51:59.220
+ is the following.
+
+51:59.220 --> 52:01.780
+ You told us earlier, and you're absolutely correct,
+
+52:01.780 --> 52:04.940
+ of course, that at the end of the day,
+
+52:04.940 --> 52:06.860
+ whether or not it's one group of neurons over here
+
+52:06.860 --> 52:09.460
+ and another group of neurons over there,
+
+52:09.460 --> 52:11.100
+ which is the way it turns out to be,
+
+52:12.140 --> 52:15.620
+ electrical activity is the generic common language
+
+52:15.620 --> 52:17.700
+ of both sets of neurons.
+
+52:17.700 --> 52:20.260
+ So that raises the question for me of whether or not
+
+52:20.260 --> 52:23.460
+ those separate sets of neurons are connected to areas
+
+52:23.460 --> 52:27.300
+ of the brain that create this sense of valence
+
+52:27.300 --> 52:30.820
+ or whether or not they're simply created, connected,
+
+52:30.820 --> 52:34.420
+ excuse me, to sets of neurons that evoke distinct behaviors
+
+52:34.420 --> 52:37.740
+ of moving towards and inhaling more and licking or aversive.
+
+52:37.740 --> 52:40.380
+ Are we essentially interpreting our behavior
+
+52:40.380 --> 52:42.780
+ and our micro responses?
+
+52:42.780 --> 52:44.700
+ Or are micro responses and our behaviors
+
+52:44.700 --> 52:46.260
+ the consequence of the percept?
+
+52:46.260 --> 52:48.500
+ Excellent, excellent question.
+
+52:48.500 --> 52:53.500
+ So first the answer is they go into an area of the brain
+
+52:53.500 --> 52:58.500
+ where valence is imposed.
+
+53:00.220 --> 53:02.260
+ And that area is known as the amygdala.
+
+53:03.700 --> 53:06.660
+ And the sweet neurons go to a different area
+
+53:06.660 --> 53:08.620
+ than the bitter neurons.
+
+53:08.620 --> 53:10.460
+ Now, I wanna do a thought experiment
+
+53:10.460 --> 53:12.740
+ because I think your audience might appreciate this.
+
+53:12.740 --> 53:16.580
+ Let's say I activate this group of neurons
+
+53:16.580 --> 53:18.580
+ and the animal increases licking
+
+53:19.900 --> 53:22.020
+ and I'm activating the sweet neurons.
+
+53:22.020 --> 53:24.900
+ And so that's expected because now it's, you know,
+
+53:24.900 --> 53:28.660
+ tasting this water as if it was sugar.
+
+53:28.660 --> 53:32.100
+ Now, this is Moses transforming water into wine.
+
+53:32.100 --> 53:34.260
+ In this case, we're gonna, and today is Passover.
+
+53:34.260 --> 53:37.460
+ So then it's an appropriate, you know, example.
+
+53:38.660 --> 53:42.380
+ We're transforming it into sweet, yeah?
+
+53:43.340 --> 53:47.500
+ But how do I know, how do I know that activating them
+
+53:47.500 --> 53:52.140
+ is evoking a positive feeling inside, a goodness,
+
+53:52.140 --> 53:55.220
+ a satisfaction, oh, I love it,
+
+53:55.220 --> 53:57.820
+ versus I'm just increasing licking,
+
+53:59.300 --> 54:01.180
+ which is the other option because all we're seeing
+
+54:01.180 --> 54:02.780
+ is that the animal is licking more
+
+54:02.780 --> 54:05.660
+ and we're trying to infer that that means
+
+54:05.660 --> 54:07.740
+ that he's feeling something really good versus,
+
+54:07.740 --> 54:08.900
+ you know what?
+
+54:08.900 --> 54:11.700
+ That piano line is going back straight into the tongue
+
+54:11.700 --> 54:14.860
+ and all he's doing is forcing it to move faster.
+
+54:14.860 --> 54:19.580
+ Well, we can actually separate this by doing experiments
+
+54:19.580 --> 54:22.060
+ that allow us to fundamentally distinguish them.
+
+54:23.980 --> 54:26.020
+ And imagine the following experiment.
+
+54:26.020 --> 54:28.220
+ I'm gonna take the animal and I'm gonna put them
+
+54:28.220 --> 54:31.580
+ inside a box that has two sides.
+
+54:32.660 --> 54:35.500
+ And the two sides have features that make them different.
+
+54:35.500 --> 54:40.500
+ One has yellow little toys, the other one has green toys.
+
+54:41.300 --> 54:43.700
+ One has little, you know, black stripes,
+
+54:43.700 --> 54:45.300
+ the other one has blue stripes.
+
+54:45.300 --> 54:48.380
+ So the animal can tell the two halves.
+
+54:48.380 --> 54:51.180
+ I take the mouse, put them inside this arena,
+
+54:51.180 --> 54:54.860
+ this play arena, and it will explore
+
+54:54.860 --> 54:58.860
+ and poach around both sides with equal frequency.
+
+54:59.700 --> 55:02.020
+ And now what I'm going to do is I'm gonna activate
+
+55:02.020 --> 55:04.980
+ these neurons, these sweet neurons,
+
+55:04.980 --> 55:15.140
+ every time the animal is on the side with the yellow stripes.
+
+55:15.140 --> 55:20.140
+ And if that is creating a positive internal state,
+
+55:21.060 --> 55:24.020
+ what would the animal now want to do?
+
+55:24.020 --> 55:29.020
+ It will want to stay on the side with the yellow stripes.
+
+55:30.020 --> 55:31.180
+ There's no leaking here.
+
+55:31.180 --> 55:33.300
+ The animal is not extending its tongue
+
+55:33.300 --> 55:36.380
+ every time I'm activating these neurons, okay?
+
+55:36.380 --> 55:39.420
+ This is known as a place preference test.
+
+55:40.540 --> 55:42.980
+ And it's generally used, it's just one form
+
+55:42.980 --> 55:47.540
+ of many different tests to demonstrate
+
+55:48.660 --> 55:53.660
+ that the activation of a group of neurons in the brain
+
+55:54.060 --> 55:56.340
+ is imposing, for example,
+
+55:56.340 --> 55:59.780
+ a positive versus a negative valence.
+
+55:59.780 --> 56:01.580
+ Whereas if I do the same thing
+
+56:01.580 --> 56:03.420
+ by activating the bitter neurons,
+
+56:03.420 --> 56:07.940
+ the animal will actively want now to stay away from the side
+
+56:09.740 --> 56:12.340
+ where these neurons are being activated.
+
+56:12.340 --> 56:13.820
+ And that's precisely what we see.
+
+56:13.820 --> 56:16.380
+ And that's precisely what we see.
+
+56:16.380 --> 56:17.860
+ Many people, including myself,
+
+56:17.860 --> 56:20.500
+ are familiar with the experience of going to a restaurant,
+
+56:20.500 --> 56:23.020
+ eating a variety of foods,
+
+56:23.020 --> 56:25.220
+ and then, fortunately it doesn't happen that often,
+
+56:25.220 --> 56:27.580
+ but then feeling very sick.
+
+56:27.580 --> 56:29.500
+ I learned coming up in neuroscience
+
+56:29.500 --> 56:34.500
+ that this is one strong example of one trial learning,
+
+56:34.500 --> 56:37.260
+ that from that point on,
+
+56:37.260 --> 56:39.580
+ it's not the restaurant or the waitress
+
+56:39.580 --> 56:42.420
+ or the waiter or the date,
+
+56:42.420 --> 56:47.180
+ but it's my notion of it had to have been the shrimp
+
+56:47.180 --> 56:49.340
+ that leads me to then want to avoid shrimp
+
+56:49.340 --> 56:52.020
+ in every context, maybe even shrimp powder.
+
+56:52.020 --> 56:52.940
+ You got it.
+
+56:52.940 --> 56:54.340
+ For a very long time.
+
+56:54.340 --> 56:57.540
+ I can imagine all the evolutionarily adaptive reasons
+
+56:57.540 --> 57:00.380
+ why this such a phenomenon would exist.
+
+57:00.380 --> 57:03.660
+ Do we have any concept of where in this pathway that exists?
+
+57:03.660 --> 57:08.100
+ We know actually a significant amount at a general level.
+
+57:11.060 --> 57:12.780
+ In fact, more than shrimp,
+
+57:12.780 --> 57:15.780
+ oysters are even a more dramatic example.
+
+57:15.780 --> 57:19.340
+ One bad oyster is all you need
+
+57:19.340 --> 57:22.140
+ to be driven away for the next six months.
+
+57:22.140 --> 57:24.020
+ I think because of the texture alone
+
+57:24.020 --> 57:25.660
+ is something that one learns to overcome.
+
+57:25.660 --> 57:27.620
+ I actually really enjoy oysters.
+
+57:27.620 --> 57:31.460
+ I despise mussels, despise shrimp,
+
+57:31.460 --> 57:33.460
+ not the animal, but the taste,
+
+57:33.460 --> 57:35.260
+ and yet oysters, for some reason,
+
+57:35.260 --> 57:36.900
+ I've yet to have a bad experience.
+
+57:36.900 --> 57:38.460
+ It's like uni, by the way.
+
+57:38.460 --> 57:40.420
+ Texture is hard to get over,
+
+57:40.420 --> 57:43.180
+ but once you get over, it's delicious.
+
+57:43.180 --> 57:44.780
+ That's what they tell me.
+
+57:44.780 --> 57:46.460
+ We were both in San Diego at one point,
+
+57:46.460 --> 57:48.700
+ and I'll give a plug to Sushi Ota
+
+57:48.700 --> 57:50.300
+ is kind of the famous little city,
+
+57:50.300 --> 57:51.860
+ and they have amazing uni,
+
+57:51.860 --> 57:55.140
+ and I've tried it twice, and I'm 0 for 2.
+
+57:55.140 --> 57:57.620
+ Somehow the texture outweighs
+
+57:57.620 --> 57:59.100
+ any kind of the deliciousness
+
+57:59.100 --> 57:59.940
+ that people report.
+
+57:59.940 --> 58:02.020
+ It's a very acquired taste, yeah?
+
+58:02.020 --> 58:03.180
+ It's like beer.
+
+58:03.180 --> 58:05.700
+ You know, I grew up in Chile.
+
+58:05.700 --> 58:07.140
+ That's where the accent comes from,
+
+58:07.140 --> 58:08.500
+ in case anyone wonder.
+
+58:09.860 --> 58:11.540
+ And you know, by the time I came here
+
+58:11.540 --> 58:14.540
+ to graduate school, I was 19, too old
+
+58:14.540 --> 58:19.220
+ to, you know, overcome my heavy Chilean accent.
+
+58:19.220 --> 58:23.980
+ So here I am, 40 years, 50 years late, not quite, 40 plus.
+
+58:23.980 --> 58:26.140
+ We appreciate it. And I still sound
+
+58:26.140 --> 58:28.980
+ like I just came off the boat.
+
+58:28.980 --> 58:30.340
+ So in Chile, you don't drink beer
+
+58:30.340 --> 58:32.500
+ when you're young, you drink wine.
+
+58:32.500 --> 58:34.500
+ You know, Chile is a huge wine producer.
+
+58:35.940 --> 58:37.980
+ So when I came to the US,
+
+58:37.980 --> 58:40.500
+ all of my, you know, classmates,
+
+58:40.500 --> 58:42.060
+ you know, were drinking beer
+
+58:43.100 --> 58:45.020
+ because they, you know, they had finished college
+
+58:45.020 --> 58:47.540
+ where they were all, you know, beer drinking,
+
+58:47.540 --> 58:49.500
+ and, you know, graduate school,
+
+58:49.500 --> 58:52.780
+ you're working 18 hours a day, every day.
+
+58:52.780 --> 58:54.180
+ The way they, you know, relax,
+
+58:54.180 --> 58:55.900
+ let's go and have some beers.
+
+58:55.900 --> 58:56.940
+ And beer is cheaper.
+
+58:56.940 --> 58:57.820
+ And beer is cheap.
+
+58:57.820 --> 59:00.340
+ And we were being clearly underpaid, may I add.
+
+59:04.420 --> 59:05.540
+ I couldn't do it.
+
+59:05.540 --> 59:07.420
+ It's an acquired taste.
+
+59:07.420 --> 59:09.460
+ It was too late by then.
+
+59:09.460 --> 59:12.500
+ And here I am, you know, 60 plus.
+
+59:12.500 --> 59:15.980
+ And if you take all the beer I've drunk in my entire life,
+
+59:15.980 --> 59:19.900
+ I would say they add to less than an eight ounce
+
+59:19.900 --> 59:21.300
+ in glass of water.
+
+59:21.300 --> 59:23.860
+ Impressive. Well, your health is probably better for it.
+
+59:23.860 --> 59:24.700
+ I'm not sure.
+
+59:25.860 --> 59:27.180
+ Your physical health, anyway.
+
+59:27.180 --> 59:30.500
+ So, you know, it goes back to, you know, acquired taste.
+
+59:30.500 --> 59:33.140
+ This is the connection to uni and to oysters.
+
+59:33.140 --> 59:36.220
+ Now, going back to the one trial learning,
+
+59:36.220 --> 59:38.740
+ you know, this is the great thing about our brains.
+
+59:38.740 --> 59:40.380
+ Certain things we need to repeat
+
+59:40.380 --> 59:42.420
+ a hundred times to learn them.
+
+59:42.420 --> 59:45.060
+ Hello, operator, can I have the phone number
+
+59:45.060 --> 59:47.060
+ for sushi ota, please?
+
+59:47.060 --> 59:49.340
+ And then she'll give it to you over the phone,
+
+59:49.340 --> 59:51.180
+ at least in the old days.
+
+59:51.180 --> 59:54.060
+ And then you need to repeat it to yourself
+
+59:54.060 --> 59:55.900
+ over and over and over over the next minute
+
+59:55.900 --> 59:58.020
+ so you can dial sushi ota.
+
+59:58.980 --> 1:00:03.060
+ And five minutes later, it's gone.
+
+1:00:03.060 --> 1:00:05.260
+ That's what we call working memory.
+
+1:00:06.500 --> 1:00:08.460
+ Then there is the short-term memory.
+
+1:00:08.460 --> 1:00:10.580
+ We park our car.
+
+1:00:10.580 --> 1:00:12.140
+ And if we're lucky, by the end of the day,
+
+1:00:12.140 --> 1:00:14.060
+ we remember where it is.
+
+1:00:14.980 --> 1:00:16.660
+ And then there is the long-term memory.
+
+1:00:16.660 --> 1:00:19.860
+ We remember the birthdays of every one of our children
+
+1:00:19.860 --> 1:00:21.540
+ for the rest of our lives.
+
+1:00:22.620 --> 1:00:26.180
+ Well, there are events that a single event is so traumatic
+
+1:00:28.140 --> 1:00:30.540
+ that it activates the circuits in a way
+
+1:00:30.540 --> 1:00:32.940
+ that it's a one trial learning.
+
+1:00:32.940 --> 1:00:36.460
+ And the taste system is literally
+
+1:00:36.460 --> 1:00:38.300
+ at the top of that food chain.
+
+1:00:39.260 --> 1:00:40.740
+ And there is a phenomenon known
+
+1:00:40.740 --> 1:00:43.380
+ as conditioned taste aversion.
+
+1:00:44.420 --> 1:00:48.220
+ You can pair an attractive stimuli
+
+1:00:48.220 --> 1:00:50.980
+ with a really bad one.
+
+1:00:52.540 --> 1:00:57.180
+ And you can make an animal begin to vehemently dislike,
+
+1:00:57.180 --> 1:00:58.420
+ for example, sugar.
+
+1:00:59.980 --> 1:01:02.940
+ And that's because you've conditioned the animals
+
+1:01:02.940 --> 1:01:07.940
+ to now be averse to this otherwise nice taste
+
+1:01:08.460 --> 1:01:11.620
+ because it's been associated with malaise.
+
+1:01:11.620 --> 1:01:13.940
+ And when you do that, now you could begin to ask,
+
+1:01:13.940 --> 1:01:18.220
+ what has changed in the signal as it travels
+
+1:01:18.220 --> 1:01:22.620
+ from the tongue to the brain in a normal animal
+
+1:01:22.620 --> 1:01:26.100
+ versus an animal where you have now transformed sweet
+
+1:01:26.100 --> 1:01:28.860
+ from being attractive to being aversive?
+
+1:01:28.860 --> 1:01:31.540
+ And this is the way now you begin to explore
+
+1:01:31.540 --> 1:01:36.420
+ how the brain changes the nature, the quality,
+
+1:01:36.420 --> 1:01:41.420
+ the meaning of a stimuli as a function of its state.
+
+1:01:41.420 --> 1:01:42.260
+ State.
+
+1:01:43.660 --> 1:01:46.260
+ I have a number of questions related to that,
+
+1:01:48.020 --> 1:01:51.100
+ all of which relate to this idea of context.
+
+1:01:52.660 --> 1:01:54.380
+ Because you mentioned before that flavor
+
+1:01:54.380 --> 1:01:56.740
+ is distinct from taste because flavor involves smell,
+
+1:01:56.740 --> 1:01:59.860
+ texture, temperature, and some other features.
+
+1:01:59.860 --> 1:02:02.380
+ Ooni, sea urchin being a good example of,
+
+1:02:03.580 --> 1:02:05.300
+ I can sense the texture.
+
+1:02:05.300 --> 1:02:08.700
+ It actually, yeah, I won't describe what it reminds me of
+
+1:02:08.700 --> 1:02:11.340
+ for various reasons.
+
+1:02:12.700 --> 1:02:15.460
+ The ability to place context on into,
+
+1:02:15.460 --> 1:02:17.500
+ to insert context into a perception
+
+1:02:17.500 --> 1:02:20.260
+ or rather to insert a perception into context
+
+1:02:20.260 --> 1:02:22.860
+ is so powerful.
+
+1:02:22.860 --> 1:02:27.260
+ And there's an element of kind of mystery about it,
+
+1:02:27.260 --> 1:02:30.780
+ but if we start to think about some of the more nuanced
+
+1:02:30.780 --> 1:02:33.100
+ that we like to live at the edge, as you say,
+
+1:02:33.100 --> 1:02:38.100
+ how many different tastes on the taste dial,
+
+1:02:39.340 --> 1:02:41.620
+ to go back to your analogy earlier, the color dial,
+
+1:02:41.620 --> 1:02:42.780
+ do you think that there could be
+
+1:02:42.780 --> 1:02:45.940
+ for something as fixed as bitter?
+
+1:02:45.940 --> 1:02:49.420
+ So for instance, I don't think I like bitter tastes,
+
+1:02:49.420 --> 1:02:51.700
+ but I like some fermented foods
+
+1:02:51.700 --> 1:02:53.380
+ that seem to have a little bit of sour
+
+1:02:53.380 --> 1:02:56.660
+ and have a little bit of that briny flavor.
+
+1:02:56.660 --> 1:02:58.580
+ How much plasticity do you think there is there,
+
+1:02:58.580 --> 1:03:01.020
+ and in particular across the lifespan?
+
+1:03:01.020 --> 1:03:02.940
+ Because I think one of the most salient examples
+
+1:03:02.940 --> 1:03:07.540
+ of this is that kids don't seem to like certain vegetables,
+
+1:03:07.540 --> 1:03:11.180
+ but they all are hardwired to like sweet tastes.
+
+1:03:11.180 --> 1:03:12.900
+ And yet you could also imagine
+
+1:03:12.900 --> 1:03:15.740
+ that one of the reasons why they may eventually grow
+
+1:03:15.740 --> 1:03:18.820
+ to incorporate vegetables is because of some knowledge
+
+1:03:18.820 --> 1:03:21.580
+ that vegetables might be better for them.
+
+1:03:21.580 --> 1:03:25.700
+ So is there a change in the receptors,
+
+1:03:25.700 --> 1:03:28.140
+ the distribution, the number, the sensitivity, et cetera,
+
+1:03:28.140 --> 1:03:30.180
+ that can explain the transition
+
+1:03:30.180 --> 1:03:32.140
+ from wanting to avoid vegetables
+
+1:03:32.140 --> 1:03:34.140
+ to being willing to eat vegetables,
+
+1:03:34.140 --> 1:03:37.460
+ simply in childhood to early development?
+
+1:03:37.460 --> 1:03:39.580
+ I'm gonna take the question slightly differently,
+
+1:03:39.580 --> 1:03:41.820
+ but I think it will illustrate the point.
+
+1:03:41.820 --> 1:03:46.820
+ And I'm gonna just use the difference
+
+1:03:47.100 --> 1:03:48.620
+ between the olfactory system
+
+1:03:48.620 --> 1:03:50.740
+ and the taste system to make the point.
+
+1:03:52.340 --> 1:03:54.660
+ Taste system, five basic palates,
+
+1:03:54.660 --> 1:03:56.340
+ sweet, sour, bitter, salt, and umami.
+
+1:03:56.340 --> 1:03:58.660
+ Each of them has a predetermined identity.
+
+1:03:58.660 --> 1:04:01.460
+ We know exactly what, and valence.
+
+1:04:01.460 --> 1:04:04.460
+ These are attractive, these are aversive.
+
+1:04:04.460 --> 1:04:05.820
+ In the olfactory system,
+
+1:04:05.820 --> 1:04:09.060
+ it's claimed that we can smell millions of different others.
+
+1:04:11.180 --> 1:04:14.020
+ Yet, for the most part,
+
+1:04:14.020 --> 1:04:19.020
+ none of them have an innate predetermined meaning.
+
+1:04:19.980 --> 1:04:21.940
+ In the olfactory system,
+
+1:04:21.940 --> 1:04:26.100
+ meaning is imposed by learning and experience,
+
+1:04:26.100 --> 1:04:27.420
+ even the smell of smoke.
+
+1:04:27.420 --> 1:04:30.580
+ So I'm gonna give you, I'm gonna make it differently.
+
+1:04:30.580 --> 1:04:34.340
+ There are a handful of the millions of others
+
+1:04:34.340 --> 1:04:37.460
+ that were claimed that you could immediately tell me
+
+1:04:38.660 --> 1:04:41.700
+ these are aversive and these are attractive.
+
+1:04:41.700 --> 1:04:42.820
+ Vomit.
+
+1:04:42.820 --> 1:04:47.580
+ So vomit, it's not correct because I can assure you
+
+1:04:47.580 --> 1:04:50.460
+ that there are cultures and societies
+
+1:04:50.460 --> 1:04:54.180
+ where things which are far less appealing than vomit
+
+1:04:54.180 --> 1:04:56.060
+ do not evoke an aversive reaction.
+
+1:04:56.060 --> 1:04:57.340
+ Really? Really.
+
+1:04:57.340 --> 1:05:00.100
+ Sulfur would be maybe a universal.
+
+1:05:00.100 --> 1:05:01.660
+ I'm not talking pheromones, okay?
+
+1:05:01.660 --> 1:05:03.460
+ Pheromones are in a different category
+
+1:05:03.460 --> 1:05:06.660
+ that trigger innate responses.
+
+1:05:06.660 --> 1:05:09.140
+ But nearly every other
+
+1:05:10.620 --> 1:05:14.260
+ is afforded meaning by learning and experience.
+
+1:05:14.260 --> 1:05:18.500
+ And that's why you like broccoli and I despise broccoli
+
+1:05:18.500 --> 1:05:22.980
+ because I remember my mother forcing me to eat broccoli.
+
+1:05:22.980 --> 1:05:25.740
+ Same sensory experience, all right.
+
+1:05:25.740 --> 1:05:30.740
+ This accommodates two important things.
+
+1:05:30.900 --> 1:05:34.180
+ In the case of taste, you have neurons at every station
+
+1:05:34.180 --> 1:05:36.260
+ that are for sweet, for sour, for bitter,
+
+1:05:36.260 --> 1:05:37.660
+ for salty and umami.
+
+1:05:37.660 --> 1:05:38.900
+ It's only five classes.
+
+1:05:38.900 --> 1:05:41.140
+ So it's not gonna take a lot of your brain.
+
+1:05:41.140 --> 1:05:44.140
+ If we can in fact smell a million others
+
+1:05:44.140 --> 1:05:45.340
+ and every one of us have others
+
+1:05:45.340 --> 1:05:47.540
+ had to have predetermined meaning,
+
+1:05:47.540 --> 1:05:49.180
+ there's not gonna be enough brain
+
+1:05:49.180 --> 1:05:52.620
+ just to accommodate that one sense.
+
+1:05:52.620 --> 1:05:57.220
+ And so evolution in its infinite wisdom
+
+1:05:58.420 --> 1:06:03.340
+ evolve a system where you put together a pathway
+
+1:06:03.340 --> 1:06:05.780
+ and a cortex, olfactory cortex,
+
+1:06:06.780 --> 1:06:11.420
+ where you have the capacity to associate every other
+
+1:06:13.740 --> 1:06:17.340
+ in a specific context that now gives it the meaning.
+
+1:06:17.340 --> 1:06:22.340
+ Now let's go back to the original question then.
+
+1:06:23.820 --> 1:06:28.140
+ So other than clearly plastic, mega plastic
+
+1:06:28.140 --> 1:06:33.140
+ because it's fundamental basis and neural organization.
+
+1:06:33.700 --> 1:06:34.940
+ But taste, we just told you
+
+1:06:34.940 --> 1:06:37.340
+ that's predetermined hardwired.
+
+1:06:37.340 --> 1:06:39.180
+ But predetermined hardwired doesn't mean
+
+1:06:39.180 --> 1:06:43.340
+ that it's not modulated by learning or experience.
+
+1:06:43.340 --> 1:06:47.580
+ It only means that you are born liking sweet
+
+1:06:47.580 --> 1:06:49.220
+ and disliking bitter.
+
+1:06:50.620 --> 1:06:53.820
+ And we have many examples of plasticity,
+
+1:06:53.820 --> 1:06:56.220
+ beer being one example.
+
+1:06:56.220 --> 1:06:59.980
+ So why do we learn to love beer is in coffee?
+
+1:06:59.980 --> 1:07:04.980
+ It's because it has an associated gain to the system
+
+1:07:07.340 --> 1:07:09.620
+ and that gain to the system,
+
+1:07:09.620 --> 1:07:12.340
+ that positive valence that emerges
+
+1:07:12.340 --> 1:07:15.700
+ out of that negative signal is sufficient
+
+1:07:16.740 --> 1:07:19.220
+ to create that positive association.
+
+1:07:19.220 --> 1:07:21.820
+ And in the case of beer, of course, is alcohol.
+
+1:07:22.700 --> 1:07:25.220
+ The feeling good that we get after
+
+1:07:25.220 --> 1:07:27.420
+ is more than sufficient to say,
+
+1:07:27.420 --> 1:07:28.900
+ I wanna have more of this.
+
+1:07:29.780 --> 1:07:31.300
+ And in the case of coffee, of course,
+
+1:07:31.300 --> 1:07:33.180
+ is caffeine activating a whole group
+
+1:07:33.180 --> 1:07:35.380
+ of neurotransmitter systems
+
+1:07:35.380 --> 1:07:39.340
+ that give you that high associated with coffee.
+
+1:07:39.340 --> 1:07:41.940
+ So yes, this taste system is changeable.
+
+1:07:41.940 --> 1:07:46.220
+ It's malleable and is subjected to learning and experience.
+
+1:07:46.220 --> 1:07:48.940
+ But unlike the olfactory system,
+
+1:07:48.940 --> 1:07:53.180
+ it's restricted in what you could do with it
+
+1:07:53.180 --> 1:07:57.100
+ because its goal is to allow you
+
+1:07:57.100 --> 1:07:59.540
+ to get nutrients and survive.
+
+1:07:59.540 --> 1:08:02.580
+ The goal of the olfactory system is very different.
+
+1:08:02.580 --> 1:08:04.740
+ It's being used, not in our case,
+
+1:08:04.740 --> 1:08:06.780
+ but in every animal species,
+
+1:08:06.780 --> 1:08:09.700
+ to identify friend versus foe,
+
+1:08:09.700 --> 1:08:12.580
+ to identify mate,
+
+1:08:14.260 --> 1:08:18.860
+ to identify ecological niches they wanna be in.
+
+1:08:18.860 --> 1:08:22.980
+ So it plays a very broad role
+
+1:08:22.980 --> 1:08:25.820
+ that then requires that it be set up,
+
+1:08:25.820 --> 1:08:30.580
+ organized and function in a very different type of context.
+
+1:08:30.580 --> 1:08:35.180
+ Taste is about can we get the nutrients we need to survive?
+
+1:08:35.180 --> 1:08:36.940
+ And can we ensure that we are attracted
+
+1:08:36.940 --> 1:08:38.780
+ to the ones we need?
+
+1:08:38.780 --> 1:08:42.380
+ And we're averse to the ones that are going to kill us.
+
+1:08:42.380 --> 1:08:44.420
+ I'm being overly simplistic and reductionist,
+
+1:08:44.420 --> 1:08:47.260
+ but I think it illustrates a huge difference
+
+1:08:47.260 --> 1:08:50.620
+ between these two chemosensory systems.
+
+1:08:50.620 --> 1:08:52.980
+ I don't think you're being overly simplistic.
+
+1:08:52.980 --> 1:08:56.780
+ I think it illustrates the key intractable nature
+
+1:08:56.780 --> 1:08:59.620
+ of this system and the way you've approached it.
+
+1:08:59.620 --> 1:09:01.860
+ And I think it's important for people to hear that
+
+1:09:01.860 --> 1:09:04.020
+ because everybody, as we are,
+
+1:09:04.020 --> 1:09:07.420
+ it's mystified with empathy and love, et cetera.
+
+1:09:07.420 --> 1:09:09.260
+ So in fairness to that,
+
+1:09:09.260 --> 1:09:12.900
+ I'm going to ask a sort of a high level question
+
+1:09:12.900 --> 1:09:14.140
+ or abstract question.
+
+1:09:15.260 --> 1:09:16.860
+ This was based on a conversation I had
+
+1:09:16.860 --> 1:09:18.500
+ with a former girlfriend
+
+1:09:18.500 --> 1:09:22.220
+ where we were talking about chemistry between individuals.
+
+1:09:22.220 --> 1:09:26.180
+ Very complicated topic on the one hand,
+
+1:09:26.180 --> 1:09:27.460
+ but on the other hand,
+
+1:09:28.500 --> 1:09:32.180
+ quite simple in that certain people, for whatever reason,
+
+1:09:32.180 --> 1:09:34.980
+ evoke a tremendous sense of arousal,
+
+1:09:34.980 --> 1:09:37.820
+ for lack of a better word, between two people,
+
+1:09:37.820 --> 1:09:38.660
+ one would hope.
+
+1:09:40.780 --> 1:09:42.660
+ At least for some period of time.
+
+1:09:42.660 --> 1:09:44.940
+ I didn't know this was that kind of a podcast.
+
+1:09:44.940 --> 1:09:47.260
+ No, well, the reason I,
+
+1:09:47.260 --> 1:09:49.900
+ but this has to do with taste because she said something,
+
+1:09:49.900 --> 1:09:53.580
+ I think in part to maybe irritate me a bit,
+
+1:09:53.580 --> 1:09:56.220
+ but we were commenting
+
+1:09:56.220 --> 1:09:58.620
+ not about our own experience of each other,
+
+1:09:58.620 --> 1:10:03.180
+ but of someone that she was now very excited about.
+
+1:10:03.180 --> 1:10:05.780
+ We're on good terms.
+
+1:10:05.780 --> 1:10:07.580
+ And she said,
+
+1:10:07.580 --> 1:10:10.140
+ what do you think it is, this thing of chemistry?
+
+1:10:10.140 --> 1:10:12.140
+ So maybe she was trying to, you know.
+
+1:10:12.140 --> 1:10:13.780
+ Warn you of what's coming.
+
+1:10:13.780 --> 1:10:15.100
+ Warn me of what's coming.
+
+1:10:15.100 --> 1:10:15.940
+ And she said,
+
+1:10:15.940 --> 1:10:18.900
+ I have a feeling something about it is in smell
+
+1:10:20.300 --> 1:10:23.340
+ and something about it is actually in taste,
+
+1:10:23.340 --> 1:10:25.540
+ literally the taste of somebody's breath.
+
+1:10:25.540 --> 1:10:27.340
+ That's the way she described it.
+
+1:10:27.340 --> 1:10:30.980
+ And I thought that it was a very interesting example
+
+1:10:30.980 --> 1:10:32.660
+ for a number of reasons,
+
+1:10:32.660 --> 1:10:33.580
+ but in particular,
+
+1:10:33.580 --> 1:10:37.340
+ because it gets to the merging of odor and taste,
+
+1:10:37.340 --> 1:10:39.820
+ but also to the idea that,
+
+1:10:39.820 --> 1:10:42.340
+ of course, the context of a new relationship,
+
+1:10:42.340 --> 1:10:43.180
+ I'm assuming,
+
+1:10:43.180 --> 1:10:45.500
+ and in fact, they're both attractive people, et cetera.
+
+1:10:45.500 --> 1:10:46.660
+ There's a whole context there,
+
+1:10:46.660 --> 1:10:50.300
+ but I've had the experience of
+
+1:10:51.780 --> 1:10:53.660
+ the odor of somebody's breath being aversive,
+
+1:10:53.660 --> 1:10:57.260
+ not because I could identify it as aversive.
+
+1:10:57.260 --> 1:10:58.100
+ Because you just didn't like it.
+
+1:10:58.100 --> 1:11:00.460
+ But because it just didn't like it.
+
+1:11:00.460 --> 1:11:03.140
+ But that's because you associate it
+
+1:11:04.540 --> 1:11:06.860
+ with other others
+
+1:11:08.460 --> 1:11:11.260
+ that trigger that
+
+1:11:13.140 --> 1:11:16.100
+ negative, you know, aversive reaction, by the way.
+
+1:11:16.100 --> 1:11:16.940
+ Absolutely.
+
+1:11:16.940 --> 1:11:18.980
+ There are certain perfumes to me that are aversive.
+
+1:11:18.980 --> 1:11:19.820
+ You got it.
+
+1:11:19.820 --> 1:11:21.700
+ And there are other scents,
+
+1:11:22.780 --> 1:11:24.980
+ can recall scents of skin,
+
+1:11:24.980 --> 1:11:26.060
+ of foods, et cetera,
+
+1:11:26.060 --> 1:11:28.220
+ that are immensely repetitive.
+
+1:11:28.220 --> 1:11:31.420
+ So I've experienced both sides of this equation myself.
+
+1:11:31.420 --> 1:11:32.860
+ And she was describing this.
+
+1:11:32.860 --> 1:11:35.660
+ And to me, more than tasting wine,
+
+1:11:35.660 --> 1:11:37.180
+ which is the typical example,
+
+1:11:37.180 --> 1:11:39.300
+ where people inhale it and then they drink it.
+
+1:11:39.300 --> 1:11:41.340
+ To me, this seems like something that
+
+1:11:41.340 --> 1:11:43.140
+ more people might be able to relate to.
+
+1:11:43.140 --> 1:11:47.500
+ That certain things and people smell delicious.
+
+1:11:47.500 --> 1:11:49.580
+ Even mothers describing the smell of their baby's head.
+
+1:11:49.580 --> 1:11:50.420
+ Of course.
+
+1:11:50.420 --> 1:11:51.940
+ A mother's ass.
+
+1:11:51.940 --> 1:11:53.980
+ I mean, you know, our own babies,
+
+1:11:53.980 --> 1:11:55.300
+ when they're in their necks.
+
+1:11:55.300 --> 1:11:56.780
+ That's the magical place.
+
+1:11:56.780 --> 1:11:57.620
+ Their neck.
+
+1:11:57.620 --> 1:11:58.620
+ The back of their neck.
+
+1:11:58.620 --> 1:11:59.460
+ There you go.
+
+1:11:59.460 --> 1:12:00.540
+ Oh my goodness.
+
+1:12:00.540 --> 1:12:01.540
+ I have a grandchild now.
+
+1:12:01.540 --> 1:12:05.460
+ So I know exactly what Rio, that's his name, smells like.
+
+1:12:05.460 --> 1:12:06.300
+ Okay.
+
+1:12:06.300 --> 1:12:07.380
+ So more beautiful examples.
+
+1:12:07.380 --> 1:12:09.180
+ It's always more fun to think about the beautiful,
+
+1:12:09.180 --> 1:12:11.540
+ positive, the repetitive examples.
+
+1:12:11.540 --> 1:12:15.140
+ The smell of the back of your grandson's neck.
+
+1:12:15.140 --> 1:12:15.980
+ Yes.
+
+1:12:15.980 --> 1:12:16.820
+ I mean, you couldn't,
+
+1:12:16.820 --> 1:12:17.780
+ you could get more specific than that,
+
+1:12:17.780 --> 1:12:19.100
+ but not a lot more specific.
+
+1:12:19.100 --> 1:12:19.940
+ Exactly.
+
+1:12:19.940 --> 1:12:22.020
+ So what is going on in terms of
+
+1:12:22.020 --> 1:12:24.620
+ the combination of odor and taste,
+
+1:12:24.620 --> 1:12:27.620
+ given that these two systems are so different?
+
+1:12:27.620 --> 1:12:28.860
+ Yes.
+
+1:12:28.860 --> 1:12:31.660
+ And they come together.
+
+1:12:32.620 --> 1:12:35.740
+ Ultimately, there is a place in the brain
+
+1:12:35.740 --> 1:12:39.980
+ where they come together to integrate the two
+
+1:12:39.980 --> 1:12:44.980
+ into what we would call, you know, that sensory experience.
+
+1:12:45.260 --> 1:12:48.220
+ And I'll tell you an experiment that you could do
+
+1:12:48.220 --> 1:12:49.780
+ that demonstrates this.
+
+1:12:49.780 --> 1:12:53.980
+ I think it's good for your audience here
+
+1:12:53.980 --> 1:12:56.340
+ to get a sense of how we approach these problems
+
+1:12:56.340 --> 1:12:59.140
+ so that we can get in a meaningful scientific answers.
+
+1:13:00.700 --> 1:13:05.140
+ So we know where the olfactory cortex is in the brain.
+
+1:13:05.140 --> 1:13:07.100
+ We know where the taste cortex is in the brain.
+
+1:13:07.100 --> 1:13:09.220
+ They're in two different places.
+
+1:13:09.220 --> 1:13:12.700
+ We can go to each of these two cortices,
+
+1:13:13.780 --> 1:13:17.540
+ put color traces, we put green in one,
+
+1:13:17.540 --> 1:13:19.020
+ we put red in the other,
+
+1:13:19.020 --> 1:13:21.980
+ and we see where the colors go to.
+
+1:13:21.980 --> 1:13:24.140
+ That's a reflection of where those neurons
+
+1:13:24.140 --> 1:13:29.140
+ are projecting to into their next targets.
+
+1:13:29.220 --> 1:13:30.300
+ Once they get the signal,
+
+1:13:30.300 --> 1:13:32.300
+ where do they send the signal to?
+
+1:13:33.300 --> 1:13:36.820
+ And then we reason that if odor and taste
+
+1:13:36.820 --> 1:13:39.020
+ come together somewhere in the brain,
+
+1:13:39.020 --> 1:13:40.660
+ we should find an area that now
+
+1:13:40.660 --> 1:13:42.780
+ it's getting red and green color.
+
+1:13:44.220 --> 1:13:46.020
+ And we found such an area.
+
+1:13:47.660 --> 1:13:51.180
+ And next, we anticipated, we hypothesized
+
+1:13:51.180 --> 1:13:55.260
+ that maybe this is the area in the brain of the mouse,
+
+1:13:55.260 --> 1:13:57.500
+ corresponding area in the brain of humans,
+
+1:13:57.500 --> 1:14:02.500
+ that integrates odor and taste.
+
+1:14:03.100 --> 1:14:05.660
+ It's known, the term normally used
+
+1:14:05.660 --> 1:14:08.060
+ is multisensory integration.
+
+1:14:08.940 --> 1:14:11.980
+ And if this is true, we could do the following experiment.
+
+1:14:11.980 --> 1:14:23.980
+ We can train a mouse to lick sweet and if they guess correctly
+
+1:14:23.980 --> 1:14:25.860
+ that that is supposed to be sweet,
+
+1:14:25.860 --> 1:14:29.820
+ they should go now to the right port,
+
+1:14:29.820 --> 1:14:32.740
+ to the right side to get a water reward.
+
+1:14:34.540 --> 1:14:38.140
+ If they go to the left when it was sweet,
+
+1:14:38.140 --> 1:14:42.100
+ then they're incorrect and they get no reward.
+
+1:14:42.100 --> 1:14:44.820
+ And they actually get a timeout.
+
+1:14:44.820 --> 1:14:46.580
+ Now the mice are thirsty,
+
+1:14:46.580 --> 1:14:48.980
+ so they're very motivated to perform.
+
+1:14:48.980 --> 1:14:52.380
+ And if you repeat this task a hundred times,
+
+1:14:52.380 --> 1:14:55.060
+ a hundred trials, incredibly enough,
+
+1:14:55.060 --> 1:14:58.020
+ this animal learned to recognize the sweet
+
+1:14:58.020 --> 1:15:00.060
+ and execute the right action.
+
+1:15:00.060 --> 1:15:05.020
+ And by their action, we now are being told
+
+1:15:05.020 --> 1:15:07.020
+ what that animal is tasting.
+
+1:15:07.020 --> 1:15:09.300
+ We can make it more interesting
+
+1:15:09.300 --> 1:15:10.780
+ and we can give him sweet and bitter
+
+1:15:10.780 --> 1:15:12.620
+ and say if it's sweet, go to the right
+
+1:15:12.620 --> 1:15:14.260
+ and if it's bitter, go to the left.
+
+1:15:15.340 --> 1:15:18.460
+ And after you train him, this mice with 90% accuracy
+
+1:15:18.460 --> 1:15:22.180
+ will tell you when you randomize now the stimuli,
+
+1:15:22.180 --> 1:15:24.180
+ what was sweet and what was bitter.
+
+1:15:24.180 --> 1:15:25.540
+ All right.
+
+1:15:25.540 --> 1:15:28.260
+ We can now do the same experiment,
+
+1:15:28.260 --> 1:15:30.940
+ but now mix taste with odor.
+
+1:15:30.940 --> 1:15:35.940
+ And say, if you got odor alone,
+
+1:15:38.340 --> 1:15:43.340
+ go to the right or push this lever in mice.
+
+1:15:43.380 --> 1:15:45.820
+ If you get taste alone,
+
+1:15:45.820 --> 1:15:48.460
+ go to this other part or push this other lever.
+
+1:15:49.620 --> 1:15:53.500
+ And if you get the two together, do this something else.
+
+1:15:53.500 --> 1:15:54.980
+ And if you train the mice,
+
+1:15:54.980 --> 1:15:57.660
+ the mice are able now to report back to you
+
+1:15:57.660 --> 1:16:02.660
+ when it's sensing taste alone, odor alone or the mix.
+
+1:16:04.980 --> 1:16:05.820
+ Make sense?
+
+1:16:05.820 --> 1:16:06.660
+ Makes sense.
+
+1:16:06.660 --> 1:16:09.300
+ Now we can go to the brain of this mice
+
+1:16:09.300 --> 1:16:13.020
+ and go to this area that we now uncover,
+
+1:16:13.020 --> 1:16:17.100
+ discover as being the site of multi-sensor integration
+
+1:16:17.100 --> 1:16:21.140
+ between taste and odor and silence it.
+
+1:16:21.980 --> 1:16:25.700
+ Prevent it from being activated experimentally.
+
+1:16:25.700 --> 1:16:28.460
+ And if that area really represented
+
+1:16:28.460 --> 1:16:30.500
+ the integration of these two,
+
+1:16:30.500 --> 1:16:34.060
+ the animal should still be able to recognize the taste alone.
+
+1:16:34.060 --> 1:16:37.100
+ They still should be able to recognize the odor alone,
+
+1:16:37.100 --> 1:16:41.780
+ but should be incapable now to recognize the mix.
+
+1:16:43.460 --> 1:16:47.900
+ And exactly as predicted, that's exactly what you get.
+
+1:16:47.900 --> 1:16:49.100
+ All right?
+
+1:16:49.100 --> 1:16:53.380
+ The brain is basically a series of engineered circuits.
+
+1:16:53.380 --> 1:16:55.940
+ Complex.
+
+1:16:55.940 --> 1:17:00.940
+ And our task is to figure out how can we extract
+
+1:17:03.100 --> 1:17:07.340
+ this amazing architecture of these circuits
+
+1:17:07.340 --> 1:17:09.980
+ in a way that we can begin to uncover
+
+1:17:09.980 --> 1:17:12.940
+ the mysteries of the brain.
+
+1:17:12.940 --> 1:17:15.900
+ And why certain people's breath tastes so good
+
+1:17:15.900 --> 1:17:18.740
+ and other people's not so good.
+
+1:17:18.740 --> 1:17:19.980
+ So I never answered that,
+
+1:17:19.980 --> 1:17:22.060
+ but I told you how we can figure out
+
+1:17:22.060 --> 1:17:24.620
+ where in the brain is happening.
+
+1:17:25.820 --> 1:17:27.380
+ As we've been having this discussion,
+
+1:17:27.380 --> 1:17:31.060
+ I thought a few times about similarities
+
+1:17:31.060 --> 1:17:34.060
+ to the visual system or differences to the visual system.
+
+1:17:34.060 --> 1:17:36.220
+ The visual system, there are a couple of phenomenon
+
+1:17:36.220 --> 1:17:41.100
+ that I wonder if they also exist in the taste system.
+
+1:17:41.100 --> 1:17:42.620
+ In the visual system, we know for instance,
+
+1:17:42.620 --> 1:17:44.540
+ that if you look at something long enough
+
+1:17:44.540 --> 1:17:46.980
+ and activate the given receptors long enough,
+
+1:17:46.980 --> 1:17:49.300
+ that object will actually disappear.
+
+1:17:49.300 --> 1:17:51.700
+ We offset this with little micro eye movements, et cetera,
+
+1:17:51.700 --> 1:17:53.700
+ but the principle is a fundamental one,
+
+1:17:53.700 --> 1:17:55.740
+ this habituation or desensitization.
+
+1:17:55.740 --> 1:17:57.620
+ Everyone seems to call it something different,
+
+1:17:57.620 --> 1:17:59.620
+ but you get the idea, of course.
+
+1:18:00.820 --> 1:18:04.140
+ In the taste system, I'm certainly familiar
+
+1:18:04.140 --> 1:18:05.860
+ with eating something very, very sweet
+
+1:18:05.860 --> 1:18:07.900
+ for the first time in a long time,
+
+1:18:07.900 --> 1:18:09.860
+ and it tastes very sweet,
+
+1:18:09.860 --> 1:18:11.620
+ but a few more licks, a few more bites,
+
+1:18:11.620 --> 1:18:13.340
+ and now it tastes not as sweet.
+
+1:18:14.180 --> 1:18:16.900
+ With olfaction, I'm familiar with the odor in a room
+
+1:18:16.900 --> 1:18:18.900
+ I don't like or I like, and then it disappearing.
+
+1:18:18.900 --> 1:18:23.060
+ So similar phenomenon, where does that occur?
+
+1:18:23.980 --> 1:18:28.980
+ And can you imagine a sort of a system
+
+1:18:28.980 --> 1:18:31.580
+ by which people could leverage that?
+
+1:18:31.580 --> 1:18:34.580
+ Because I do think that most people are interested
+
+1:18:34.580 --> 1:18:37.740
+ in eating not more sugar, but less sugar.
+
+1:18:37.740 --> 1:18:39.660
+ I think we have better ways to approach that,
+
+1:18:39.660 --> 1:18:44.500
+ and we can transition from taste into these other circuits
+
+1:18:44.500 --> 1:18:49.500
+ that makes sugar so extraordinarily impossible
+
+1:18:51.500 --> 1:18:53.500
+ not to consume.
+
+1:18:53.500 --> 1:18:54.780
+ Impossible.
+
+1:18:54.780 --> 1:18:55.620
+ Exactly.
+
+1:18:56.820 --> 1:19:01.820
+ So where does this desensitizing happens?
+
+1:19:01.940 --> 1:19:03.340
+ That's the term that we use.
+
+1:19:04.380 --> 1:19:09.380
+ And it's, I think, happening at multiple stations.
+
+1:19:09.380 --> 1:19:12.860
+ It's happening at the receptor level,
+
+1:19:12.860 --> 1:19:17.860
+ i.e. the cells in your tongue that are sensing that sugar.
+
+1:19:18.860 --> 1:19:20.740
+ As you activate this receptor,
+
+1:19:20.740 --> 1:19:24.420
+ and it's triggering activity after activity after activity,
+
+1:19:24.420 --> 1:19:27.060
+ eventually you exhaust the receptor.
+
+1:19:27.060 --> 1:19:31.060
+ Again, I'm using terms which are extraordinarily loose.
+
+1:19:32.060 --> 1:19:33.540
+ But for sake of this discussion, it's fine.
+
+1:19:33.540 --> 1:19:34.940
+ For the sake of this discussion,
+
+1:19:34.940 --> 1:19:39.940
+ the receptor gets to a point where it undergoes
+
+1:19:40.060 --> 1:19:42.620
+ a set of changes, chemical changes,
+
+1:19:43.620 --> 1:19:47.940
+ where it now signals far less efficiently,
+
+1:19:47.940 --> 1:19:52.260
+ or it even gets removed from the surface of the cell.
+
+1:19:53.260 --> 1:19:56.820
+ And now what will happen is that the same amount of sugar
+
+1:19:56.820 --> 1:20:00.220
+ will trigger far less of a response.
+
+1:20:01.780 --> 1:20:04.100
+ And that is a significant change.
+
+1:20:04.100 --> 1:20:07.860
+ And that is a huge side of this modulation.
+
+1:20:09.020 --> 1:20:10.660
+ And then the next, I believe,
+
+1:20:10.660 --> 1:20:14.420
+ is the integrated, again, loss of signaling
+
+1:20:14.420 --> 1:20:18.180
+ that happens by continuous activation of the circuit
+
+1:20:18.180 --> 1:20:20.700
+ at each of these different neural stations.
+
+1:20:20.700 --> 1:20:23.540
+ You know, there is from the tongue to the ganglia,
+
+1:20:23.540 --> 1:20:26.580
+ from the ganglia to the first station in the brainstem,
+
+1:20:26.580 --> 1:20:28.940
+ a second station in the brainstem,
+
+1:20:28.940 --> 1:20:32.020
+ to the thalamus, then to the cortex.
+
+1:20:32.020 --> 1:20:34.940
+ So there are multiple steps that this signal is traveling.
+
+1:20:34.940 --> 1:20:37.660
+ Now, you might say, why, if this is a labeled line,
+
+1:20:37.660 --> 1:20:40.820
+ why do you need to have so many stations?
+
+1:20:40.820 --> 1:20:43.580
+ And that's because the taste system is so important
+
+1:20:43.580 --> 1:20:47.820
+ to ensure that you get what you need to survive,
+
+1:20:47.820 --> 1:20:50.740
+ that it has to be subjected to modulation
+
+1:20:50.740 --> 1:20:52.980
+ by the internal state.
+
+1:20:52.980 --> 1:20:57.100
+ And each of these nodes provides a new side
+
+1:20:57.100 --> 1:21:00.700
+ to give it plasticity and modulation,
+
+1:21:00.700 --> 1:21:03.900
+ not necessarily to change the way that something tastes,
+
+1:21:04.820 --> 1:21:09.340
+ but to ensure that you consume more or less
+
+1:21:09.340 --> 1:21:12.660
+ or differently of what you need.
+
+1:21:12.660 --> 1:21:14.060
+ I'm gonna give you one example
+
+1:21:14.060 --> 1:21:16.220
+ of how the internal state changes
+
+1:21:16.220 --> 1:21:17.940
+ the way the taste system works.
+
+1:21:19.140 --> 1:21:24.140
+ Salt is very appetitive at low concentrations,
+
+1:21:25.180 --> 1:21:26.700
+ and that's because we need it.
+
+1:21:26.700 --> 1:21:29.540
+ Our electrolyte balance requires salt.
+
+1:21:29.540 --> 1:21:31.580
+ Every one of their neurons uses salt
+
+1:21:31.580 --> 1:21:33.940
+ as the most important of the ions,
+
+1:21:33.940 --> 1:21:36.020
+ you know, with potassium to ensure that
+
+1:21:36.020 --> 1:21:38.740
+ you can transfer these electrical signals
+
+1:21:38.740 --> 1:21:40.180
+ within and between neurons.
+
+1:21:42.980 --> 1:21:46.980
+ But at high concentrations, let's say ocean water,
+
+1:21:46.980 --> 1:21:49.380
+ it's incredibly aversive.
+
+1:21:49.380 --> 1:21:51.300
+ And we all know this because we've gone to the ocean,
+
+1:21:51.300 --> 1:21:52.900
+ and then when you get it in your mouth,
+
+1:21:52.900 --> 1:21:55.020
+ it's not that great.
+
+1:21:55.020 --> 1:22:00.020
+ However, if I salt deprive you,
+
+1:22:00.020 --> 1:22:04.020
+ and we can do this in experimental models quite readily,
+
+1:22:06.020 --> 1:22:09.300
+ now this incredibly high concentration of salt,
+
+1:22:09.300 --> 1:22:11.940
+ one molar sodium chloride,
+
+1:22:11.940 --> 1:22:14.860
+ becomes amazingly appetitive and attractive.
+
+1:22:15.860 --> 1:22:18.100
+ What's going on in here?
+
+1:22:18.100 --> 1:22:21.380
+ Your tongue is telling you this is horrible,
+
+1:22:21.380 --> 1:22:22.980
+ but your brain is telling you,
+
+1:22:22.980 --> 1:22:26.260
+ I don't care, you need it.
+
+1:22:28.620 --> 1:22:32.220
+ And this is what we call the modulation
+
+1:22:32.220 --> 1:22:36.580
+ of the taste system by the internal state.
+
+1:22:36.580 --> 1:22:38.300
+ And presumably if one is hungry enough,
+
+1:22:38.300 --> 1:22:40.300
+ even uni will taste good.
+
+1:22:40.300 --> 1:22:41.140
+ Just kidding, to me.
+
+1:22:41.140 --> 1:22:41.980
+ You hit it right on the money.
+
+1:22:41.980 --> 1:22:44.860
+ No, no, this is exactly correct.
+
+1:22:44.860 --> 1:22:47.180
+ Or if you're thirsty and hungry,
+
+1:22:48.580 --> 1:22:50.020
+ you suppress hunger,
+
+1:22:50.020 --> 1:22:54.460
+ so that you don't waste water molecules in digesting food.
+
+1:22:55.460 --> 1:22:56.300
+ Why?
+
+1:22:56.300 --> 1:22:59.460
+ Because if you're thirsty and you have no water,
+
+1:22:59.460 --> 1:23:01.420
+ you will die within a week or so.
+
+1:23:02.420 --> 1:23:04.300
+ But you can go on a hunger strike
+
+1:23:04.300 --> 1:23:08.700
+ as long as you have water for months,
+
+1:23:08.700 --> 1:23:12.380
+ because you're gonna eat up all your energy reserves.
+
+1:23:12.380 --> 1:23:14.020
+ Water is a different story.
+
+1:23:14.020 --> 1:23:18.460
+ So you could see that there are multiple layers
+
+1:23:18.460 --> 1:23:23.460
+ at which the taste system that guides our drive
+
+1:23:23.860 --> 1:23:27.740
+ and our motivation to consume the nutrients we need
+
+1:23:28.940 --> 1:23:33.940
+ has to be modulated in response to the internal state.
+
+1:23:33.940 --> 1:23:35.300
+ And of course, internal state itself
+
+1:23:35.300 --> 1:23:39.300
+ has to be modulated by the external world.
+
+1:23:40.300 --> 1:23:42.820
+ And so that, I think, is a reason why
+
+1:23:42.820 --> 1:23:44.060
+ what could otherwise would have been
+
+1:23:44.060 --> 1:23:46.700
+ an incredibly simple system from the tongue
+
+1:23:46.700 --> 1:23:51.700
+ to the cortex in one, yes, wire, it's not.
+
+1:23:51.700 --> 1:23:55.460
+ Because you have to ensure that at each step,
+
+1:23:55.460 --> 1:23:59.300
+ you give the system that level of flexibility,
+
+1:23:59.300 --> 1:24:01.940
+ or what we call in neuroscience, plasticity.
+
+1:24:02.940 --> 1:24:04.740
+ I think we're headed into the gut.
+
+1:24:04.740 --> 1:24:05.580
+ All right.
+
+1:24:05.580 --> 1:24:08.740
+ But I have a question that has just been on my mind
+
+1:24:08.740 --> 1:24:12.780
+ for a bit now, because I was drinking this water,
+
+1:24:12.780 --> 1:24:14.940
+ and it has essentially no taste.
+
+1:24:14.940 --> 1:24:16.980
+ And it has essentially no taste.
+
+1:24:16.980 --> 1:24:18.300
+ Yes.
+
+1:24:18.300 --> 1:24:21.900
+ Is there any kind of signal for the absence of taste
+
+1:24:21.900 --> 1:24:23.500
+ despite having something in the mouth?
+
+1:24:23.500 --> 1:24:25.100
+ And here is why I ask.
+
+1:24:25.100 --> 1:24:28.020
+ What I'm thinking about is saliva.
+
+1:24:28.020 --> 1:24:30.300
+ And while it's true that if I eat
+
+1:24:30.300 --> 1:24:33.060
+ a lot of very highly palatable foods,
+
+1:24:33.060 --> 1:24:37.580
+ that does change how I experience more bland foods.
+
+1:24:37.580 --> 1:24:38.780
+ I must confess when I eat
+
+1:24:38.780 --> 1:24:40.540
+ a lot of these highly processed foods,
+
+1:24:40.540 --> 1:24:41.740
+ I don't particularly like them.
+
+1:24:41.740 --> 1:24:43.120
+ I tend to crave healthier foods,
+
+1:24:43.120 --> 1:24:44.900
+ but that's probably for contextual reasons
+
+1:24:44.900 --> 1:24:46.960
+ about nutrients, et cetera.
+
+1:24:48.120 --> 1:24:50.580
+ But I could imagine an experiment where-
+
+1:24:50.580 --> 1:24:52.200
+ Is there a taste of no taste?
+
+1:24:52.200 --> 1:24:53.040
+ Right.
+
+1:24:53.040 --> 1:24:53.860
+ Is there a taste of no taste?
+
+1:24:53.860 --> 1:24:56.220
+ Because in the visual system there is, right?
+
+1:24:56.220 --> 1:24:58.540
+ You close the eyes and you start getting increases
+
+1:24:58.540 --> 1:24:59.940
+ in activity in the visual system,
+
+1:24:59.940 --> 1:25:02.580
+ as opposed to decreases, which often surprises people.
+
+1:25:02.580 --> 1:25:04.160
+ But there are reasons for that,
+
+1:25:04.160 --> 1:25:06.060
+ because everything is about signal to noise,
+
+1:25:06.060 --> 1:25:07.180
+ signal to background.
+
+1:25:07.180 --> 1:25:08.020
+ And-
+
+1:25:08.020 --> 1:25:09.140
+ It's a good question.
+
+1:25:09.140 --> 1:25:11.020
+ I can tell you that most of our work
+
+1:25:11.020 --> 1:25:14.220
+ is trying to focus on how the taste system works,
+
+1:25:14.220 --> 1:25:16.920
+ not how it doesn't work.
+
+1:25:16.920 --> 1:25:17.760
+ Well, but-
+
+1:25:17.760 --> 1:25:18.600
+ I know.
+
+1:25:18.600 --> 1:25:19.420
+ Yes.
+
+1:25:19.420 --> 1:25:20.260
+ I know you're being playful.
+
+1:25:20.260 --> 1:25:21.700
+ And I knew when inviting you here today,
+
+1:25:21.700 --> 1:25:23.380
+ I was setting myself up for it.
+
+1:25:23.380 --> 1:25:25.060
+ I actually, on a different-
+
+1:25:25.060 --> 1:25:26.220
+ We're trying to learn things.
+
+1:25:26.220 --> 1:25:27.040
+ I know.
+
+1:25:27.040 --> 1:25:27.880
+ However-
+
+1:25:27.880 --> 1:25:30.660
+ All right, listen, I was weaned in this system of,
+
+1:25:30.660 --> 1:25:32.580
+ and I'll say it here for the second.
+
+1:25:32.580 --> 1:25:34.800
+ Actually, I recorded a podcast recently
+
+1:25:34.800 --> 1:25:37.540
+ with a very prominent podcast, Lex Friedman Podcast.
+
+1:25:37.540 --> 1:25:39.140
+ And I made reference to the so-called
+
+1:25:39.140 --> 1:25:41.540
+ New York Neuroscience Mafia.
+
+1:25:41.540 --> 1:25:43.980
+ I won't say whether or not we are sitting in the presence
+
+1:25:43.980 --> 1:25:46.260
+ of the New York Neuroscience Mafia member,
+
+1:25:46.260 --> 1:25:48.280
+ but in any event,
+
+1:25:48.280 --> 1:25:51.180
+ I know the sorts of ribbing that they provide.
+
+1:25:51.180 --> 1:25:52.300
+ For those listening,
+
+1:25:52.300 --> 1:25:54.180
+ this is the kind of hazing that happens,
+
+1:25:54.180 --> 1:25:57.020
+ benevolent hazing in academia.
+
+1:25:57.020 --> 1:25:57.860
+ I'm the target.
+
+1:25:57.860 --> 1:25:58.700
+ Of course.
+
+1:25:58.700 --> 1:26:00.540
+ It's a sign of love.
+
+1:26:00.540 --> 1:26:01.380
+ Exactly.
+
+1:26:01.380 --> 1:26:02.200
+ He's going to tell me that.
+
+1:26:02.200 --> 1:26:04.540
+ And it's always about the science in the end.
+
+1:26:04.540 --> 1:26:05.580
+ Right.
+
+1:26:05.580 --> 1:26:06.420
+ But-
+
+1:26:06.420 --> 1:26:07.380
+ It's an interesting question.
+
+1:26:07.380 --> 1:26:10.940
+ Look, I don't know the answer,
+
+1:26:10.940 --> 1:26:15.940
+ and I don't even know how I would explore it
+
+1:26:16.900 --> 1:26:20.960
+ in a way that it will rigorously teach me.
+
+1:26:23.900 --> 1:26:24.740
+ But-
+
+1:26:26.460 --> 1:26:27.820
+ Let me tell you why I'm asking,
+
+1:26:27.820 --> 1:26:29.420
+ and then I'll offer an experiment
+
+1:26:29.420 --> 1:26:32.180
+ that I'd love to see someone in your class do.
+
+1:26:32.180 --> 1:26:33.580
+ I'm thinking about saliva.
+
+1:26:33.580 --> 1:26:34.400
+ Yes.
+
+1:26:34.400 --> 1:26:35.240
+ Which itself-
+
+1:26:35.240 --> 1:26:36.080
+ No, no, no, but that we know,
+
+1:26:36.080 --> 1:26:37.020
+ that we can figure it out, actually.
+
+1:26:37.020 --> 1:26:38.820
+ But the question is whether or not
+
+1:26:38.820 --> 1:26:42.940
+ the saliva in a fed state
+
+1:26:42.940 --> 1:26:46.460
+ is distinct from the saliva in an unfed state,
+
+1:26:46.460 --> 1:26:47.880
+ such that it modulates-
+
+1:26:47.880 --> 1:26:48.720
+ It's not.
+
+1:26:48.720 --> 1:26:49.540
+ The sensitivity of the receptors.
+
+1:26:49.540 --> 1:26:50.580
+ That experiment has been done, no.
+
+1:26:50.580 --> 1:26:51.420
+ It has been done.
+
+1:26:51.420 --> 1:26:52.460
+ And so the answer is no.
+
+1:26:52.460 --> 1:26:53.300
+ It's not.
+
+1:26:53.300 --> 1:26:54.780
+ Yeah, and the way you could do the experiment
+
+1:26:54.780 --> 1:26:58.260
+ is because we use artificial saliva.
+
+1:26:58.260 --> 1:26:59.100
+ There's such a thing.
+
+1:26:59.100 --> 1:27:01.660
+ I know there's artificial tears, but-
+
+1:27:01.660 --> 1:27:04.840
+ No, no, we, I don't mean that you go to Walgreens
+
+1:27:04.840 --> 1:27:07.860
+ and you get, I mean, we in my laboratory,
+
+1:27:07.860 --> 1:27:09.740
+ we know the composition of saliva,
+
+1:27:09.740 --> 1:27:12.000
+ and so you can make such a thing.
+
+1:27:12.000 --> 1:27:17.000
+ And you can take, you know, taste cells in culture
+
+1:27:17.340 --> 1:27:20.380
+ or in a tongue where you wash it out of,
+
+1:27:20.380 --> 1:27:23.300
+ and then you can apply artificial saliva.
+
+1:27:23.300 --> 1:27:25.260
+ And what happens is that the system
+
+1:27:25.260 --> 1:27:29.040
+ is being engineered to desensitize,
+
+1:27:29.040 --> 1:27:34.040
+ to become agnostic for saliva to become invisible.
+
+1:27:34.040 --> 1:27:39.040
+ And there is no difference on the state of the animal.
+
+1:27:40.380 --> 1:27:41.220
+ Great.
+
+1:27:41.220 --> 1:27:42.040
+ Well, this is the reason to do experiments.
+
+1:27:42.040 --> 1:27:42.880
+ Yeah, absolutely.
+
+1:27:42.880 --> 1:27:44.820
+ So it doesn't defeat any grand hypothesis.
+
+1:27:44.820 --> 1:27:47.340
+ It's just a pure curiosity.
+
+1:27:47.340 --> 1:27:48.180
+ So-
+
+1:27:48.180 --> 1:27:49.940
+ You know that curiosity kills the cut, yeah?
+
+1:27:49.940 --> 1:27:50.780
+ I do.
+
+1:27:53.980 --> 1:27:56.500
+ But saves the career of a scientist.
+
+1:27:56.500 --> 1:27:57.320
+ Every single time.
+
+1:27:57.320 --> 1:27:58.160
+ That's what drives us.
+
+1:27:58.160 --> 1:27:59.000
+ Absolutely.
+
+1:27:59.000 --> 1:27:59.820
+ Every single time.
+
+1:27:59.820 --> 1:28:00.660
+ It's the story of our lives.
+
+1:28:00.660 --> 1:28:01.780
+ Exactly.
+
+1:28:01.780 --> 1:28:05.340
+ Okay, so if it's not saliva, and apparently it is not,
+
+1:28:07.340 --> 1:28:09.700
+ what about internal state?
+
+1:28:09.700 --> 1:28:14.000
+ And what aspects of the internal milieu are relevant?
+
+1:28:14.000 --> 1:28:16.180
+ Because there's autonomic, there's asleep and awake,
+
+1:28:16.180 --> 1:28:17.140
+ there's stress.
+
+1:28:17.140 --> 1:28:20.260
+ One of the questions that I got from hundreds of people
+
+1:28:20.260 --> 1:28:22.980
+ when I solicited questions in advance of this episode was,
+
+1:28:22.980 --> 1:28:26.160
+ why do I crave sugar when I'm stressed, for instance?
+
+1:28:26.160 --> 1:28:27.220
+ And that could be contextual,
+
+1:28:27.220 --> 1:28:29.060
+ but what are the basic elements?
+
+1:28:29.060 --> 1:28:30.700
+ Because it makes us feel good, by the way.
+
+1:28:30.700 --> 1:28:31.540
+ We'll get to that.
+
+1:28:31.540 --> 1:28:32.380
+ Sude.
+
+1:28:32.380 --> 1:28:33.200
+ That's the answer.
+
+1:28:33.200 --> 1:28:34.040
+ Sude.
+
+1:28:34.040 --> 1:28:39.040
+ It activates what I'm going to generically refer to
+
+1:28:40.180 --> 1:28:43.620
+ as reward pleasure centers in a way
+
+1:28:43.620 --> 1:28:48.460
+ that dramatically changes our internal state.
+
+1:28:48.460 --> 1:28:50.680
+ This is, you know, why do we eat a gallon of ice cream
+
+1:28:50.680 --> 1:28:52.760
+ when we're very depressed?
+
+1:28:52.760 --> 1:28:53.600
+ Yeah?
+
+1:28:53.600 --> 1:28:55.100
+ In fact, this is a good segue
+
+1:28:55.100 --> 1:28:59.760
+ to go into this entirely different world, yeah?
+
+1:28:59.760 --> 1:29:04.760
+ Of the body telling your brain what you need
+
+1:29:07.220 --> 1:29:11.020
+ in important things like sugar and fat, yeah?
+
+1:29:11.020 --> 1:29:12.440
+ Okay, but anyways, go ahead.
+
+1:29:12.440 --> 1:29:13.580
+ You were going to ask something.
+
+1:29:13.580 --> 1:29:17.600
+ Well, no, I would like to discuss the most basic elements
+
+1:29:17.600 --> 1:29:20.580
+ of internal state, in particular,
+
+1:29:20.580 --> 1:29:23.140
+ the ones that are below our conscious detection.
+
+1:29:23.140 --> 1:29:26.820
+ And this is a, of course, is a segue
+
+1:29:26.820 --> 1:29:29.180
+ into this incredible landscape,
+
+1:29:29.180 --> 1:29:31.060
+ which is the gut-brain axis,
+
+1:29:31.060 --> 1:29:35.540
+ which I think 15 years ago was almost a,
+
+1:29:35.540 --> 1:29:38.360
+ maybe it was a couple posters at a meeting.
+
+1:29:38.360 --> 1:29:41.740
+ And then now I believe you and others,
+
+1:29:41.740 --> 1:29:44.140
+ there are companies, there have companies,
+
+1:29:44.140 --> 1:29:47.540
+ there are active research programs, there's,
+
+1:29:47.540 --> 1:29:49.420
+ and beautiful work.
+
+1:29:49.420 --> 1:29:50.800
+ Maybe you could describe some of that work
+
+1:29:50.800 --> 1:29:52.740
+ that you and others have been involved in.
+
+1:29:52.740 --> 1:29:56.440
+ And a lot of the listeners of this podcast
+
+1:29:56.440 --> 1:29:58.300
+ will have heard of the gut-brain axis,
+
+1:29:58.300 --> 1:30:00.580
+ and there are a lot of misconceptions
+
+1:30:00.580 --> 1:30:01.580
+ about the gut-brain axis.
+
+1:30:01.580 --> 1:30:03.140
+ Many people think that this means
+
+1:30:03.140 --> 1:30:04.740
+ that we think with our stomach
+
+1:30:04.740 --> 1:30:08.740
+ because of the quote-unquote gut feeling aspect,
+
+1:30:08.740 --> 1:30:11.220
+ but I'd love for you to talk about the aspects
+
+1:30:11.220 --> 1:30:13.940
+ of gut-brain signaling that drive our,
+
+1:30:13.940 --> 1:30:15.820
+ or change our perceptions and behaviors
+
+1:30:15.820 --> 1:30:18.300
+ that are completely beneath our awareness.
+
+1:30:18.300 --> 1:30:19.780
+ Yes, excellent.
+
+1:30:19.780 --> 1:30:24.620
+ So let me begin maybe by stating
+
+1:30:24.620 --> 1:30:29.260
+ that the brain needs to monitor
+
+1:30:30.620 --> 1:30:34.580
+ the state of every one of our organs.
+
+1:30:34.580 --> 1:30:35.940
+ It has to do it.
+
+1:30:35.940 --> 1:30:39.300
+ This is the only way that the brain can ensure
+
+1:30:40.300 --> 1:30:44.440
+ that every one of those organs are working together
+
+1:30:44.440 --> 1:30:47.320
+ in a way that we have healthy physiology.
+
+1:30:49.320 --> 1:30:52.660
+ Now, this monitoring of the brain
+
+1:30:52.660 --> 1:30:55.340
+ has been known for a long time,
+
+1:30:55.340 --> 1:30:57.700
+ but I think what hadn't been fully appreciated,
+
+1:30:57.700 --> 1:31:00.220
+ that this is a two-way highway
+
+1:31:00.220 --> 1:31:03.100
+ where the brain is not only monitoring,
+
+1:31:04.100 --> 1:31:09.100
+ but is now modulating back what the body needs to do.
+
+1:31:10.900 --> 1:31:13.880
+ And that includes all the way from monitoring
+
+1:31:13.880 --> 1:31:16.140
+ the frequency of heartbeats
+
+1:31:16.140 --> 1:31:19.540
+ and the way that inspiration and aspirations
+
+1:31:19.540 --> 1:31:21.380
+ in the breathing cycle operate
+
+1:31:21.380 --> 1:31:25.700
+ to what happens when you ingest sugar and fat.
+
+1:31:28.300 --> 1:31:32.780
+ Now, let me give you an example again
+
+1:31:32.780 --> 1:31:37.780
+ of how the brain can take
+
+1:31:41.020 --> 1:31:45.680
+ what we would refer to contextual associations
+
+1:31:45.680 --> 1:31:49.200
+ and transform it into incredible changes
+
+1:31:49.200 --> 1:31:51.480
+ in physiology and metabolism.
+
+1:31:52.980 --> 1:31:54.180
+ Remember Pavlov?
+
+1:31:54.180 --> 1:31:56.760
+ So Pavlov in his classical experiments
+
+1:31:56.760 --> 1:32:00.180
+ in conditioning, you know, associative conditioning,
+
+1:32:00.180 --> 1:32:03.940
+ he would take a bell, it would ring the bell
+
+1:32:03.940 --> 1:32:06.180
+ every time he was going to feed the dog.
+
+1:32:07.540 --> 1:32:10.760
+ And eventually the dog learned to associate
+
+1:32:10.760 --> 1:32:13.620
+ the ringing of the bell with food coming.
+
+1:32:15.860 --> 1:32:18.820
+ Now, the first incredible finding he made
+
+1:32:18.820 --> 1:32:21.900
+ is the fact that the dog now,
+
+1:32:21.900 --> 1:32:24.420
+ in the presence of the bell alone,
+
+1:32:24.420 --> 1:32:25.940
+ will start to salivate.
+
+1:32:27.140 --> 1:32:30.660
+ And we will call that, you know, neurologically speaking,
+
+1:32:30.660 --> 1:32:32.900
+ an anticipatory response.
+
+1:32:34.100 --> 1:32:36.900
+ Okay, I could understand it, I get it.
+
+1:32:36.900 --> 1:32:40.380
+ You know, neurons in the brain that form that association
+
+1:32:40.380 --> 1:32:42.860
+ now represent food is coming
+
+1:32:42.860 --> 1:32:46.740
+ and they're sending a signal to motor neurons
+
+1:32:46.740 --> 1:32:50.040
+ to go into your salivary glands to squeeze them
+
+1:32:50.040 --> 1:32:53.460
+ so you release, you know, saliva
+
+1:32:53.460 --> 1:32:55.920
+ because you know food is coming.
+
+1:32:55.920 --> 1:32:58.020
+ But what's even more remarkable
+
+1:32:58.020 --> 1:33:01.300
+ is that those animals are also releasing insulin
+
+1:33:02.820 --> 1:33:05.260
+ in response to a bell.
+
+1:33:06.220 --> 1:33:07.060
+ Okay.
+
+1:33:08.540 --> 1:33:13.060
+ This illustrates one part of this two-way highway,
+
+1:33:13.060 --> 1:33:14.760
+ the highway going down.
+
+1:33:14.760 --> 1:33:17.320
+ Somehow the brain created these associations
+
+1:33:17.320 --> 1:33:19.560
+ and there are neurons in your brain now
+
+1:33:19.560 --> 1:33:21.720
+ that know food is coming
+
+1:33:21.720 --> 1:33:24.480
+ and send a signal somehow all the way down to your pancreas
+
+1:33:25.720 --> 1:33:27.480
+ that now it says release insulin
+
+1:33:27.480 --> 1:33:30.560
+ because sugar is coming down.
+
+1:33:31.800 --> 1:33:34.520
+ All right, this goes back to the magic of the brain.
+
+1:33:34.520 --> 1:33:39.320
+ It's a never-ending source of both joy and intrigue.
+
+1:33:39.320 --> 1:33:40.920
+ How the hell do they do this?
+
+1:33:40.920 --> 1:33:43.240
+ Okay, I mean the neurons, eh?
+
+1:33:43.240 --> 1:33:45.420
+ I mean the neurons, eh?
+
+1:33:45.420 --> 1:33:47.760
+ I share your delight and fascination.
+
+1:33:47.760 --> 1:33:50.640
+ There's not a day or a lecture
+
+1:33:50.640 --> 1:33:54.040
+ or some talks are better than others
+
+1:33:54.040 --> 1:33:56.400
+ or a talk where I don't sit back and just think
+
+1:33:56.400 --> 1:33:57.960
+ it's absolutely amazing.
+
+1:33:57.960 --> 1:33:58.800
+ How?
+
+1:33:58.800 --> 1:33:59.640
+ It's amazing.
+
+1:33:59.640 --> 1:34:01.120
+ It's amazing.
+
+1:34:01.120 --> 1:34:03.720
+ Now over the past, I don't know, dozen years
+
+1:34:04.960 --> 1:34:08.040
+ and with great force over the last five years.
+
+1:34:09.740 --> 1:34:12.840
+ Now the main highway that is communicating
+
+1:34:12.840 --> 1:34:16.160
+ the state of the body with the brain
+
+1:34:16.160 --> 1:34:19.040
+ has been uncovered,
+
+1:34:19.040 --> 1:34:23.680
+ has been what we now refer to as the gut-brain axis
+
+1:34:23.680 --> 1:34:27.680
+ and the highway is a specific bundle of nerves
+
+1:34:29.320 --> 1:34:32.960
+ which emerge from the vagal ganglia, the nodos ganglia
+
+1:34:32.960 --> 1:34:35.000
+ and so it's the vagus nerve
+
+1:34:36.140 --> 1:34:39.200
+ that it's innervating the majority
+
+1:34:39.200 --> 1:34:40.960
+ of the organs in your body.
+
+1:34:40.960 --> 1:34:44.480
+ It's monitoring their function,
+
+1:34:44.480 --> 1:34:46.880
+ sending a signal to the brain
+
+1:34:46.880 --> 1:34:50.360
+ and now the brain going back down and saying
+
+1:34:50.360 --> 1:34:52.200
+ this is going all right, do this
+
+1:34:52.200 --> 1:34:54.900
+ or this is not going so well, do that.
+
+1:34:54.900 --> 1:34:57.840
+ And I should point out, as you well know,
+
+1:34:57.840 --> 1:35:01.640
+ every organ, spleen, pancreas, lungs.
+
+1:35:01.640 --> 1:35:04.240
+ They all must be monitored.
+
+1:35:04.240 --> 1:35:07.560
+ Otherwise, in fact, you know, I now,
+
+1:35:07.560 --> 1:35:11.080
+ I have no doubt that diseases that we have
+
+1:35:11.080 --> 1:35:15.120
+ normally associated with metabolism, physiology
+
+1:35:15.120 --> 1:35:20.120
+ and even immunity are likely to emerge
+
+1:35:21.460 --> 1:35:25.920
+ as diseases, conditions, states of the brain.
+
+1:35:27.420 --> 1:35:30.460
+ I don't think obesity is a disease of metabolism.
+
+1:35:31.520 --> 1:35:35.780
+ I believe obesity is a disease of brain circuits.
+
+1:35:35.780 --> 1:35:40.780
+ I do as well and so this view that we have,
+
+1:35:40.880 --> 1:35:44.280
+ you know, been working on for the longest time
+
+1:35:44.280 --> 1:35:47.520
+ because, you know, the molecules that we're dealing with
+
+1:35:47.520 --> 1:35:50.400
+ are in the body, not in the head.
+
+1:35:50.400 --> 1:35:53.320
+ You know, led us to view, of course,
+
+1:35:53.320 --> 1:35:56.360
+ these issues and problems as being one
+
+1:35:56.360 --> 1:35:58.520
+ of metabolism, physiology and so forth.
+
+1:35:58.520 --> 1:36:03.200
+ They remain to be the carriers of the ultimate signal
+
+1:36:03.200 --> 1:36:07.260
+ but the brain ultimately appears to be the conductor
+
+1:36:07.260 --> 1:36:11.440
+ of this orchestra of physiology and metabolism.
+
+1:36:11.440 --> 1:36:15.120
+ All right, now let's go to the gut, brain and sugar.
+
+1:36:16.680 --> 1:36:17.680
+ May we?
+
+1:36:17.680 --> 1:36:19.800
+ Please, please.
+
+1:36:19.800 --> 1:36:24.800
+ No, I mean, the vagus nerve has, in popular culture,
+
+1:36:26.480 --> 1:36:31.480
+ has been kind of converted into this single meaning
+
+1:36:31.480 --> 1:36:35.120
+ of calming pathways, mostly because,
+
+1:36:35.120 --> 1:36:38.560
+ I actually have to tip my hat to the yogic community
+
+1:36:38.560 --> 1:36:43.000
+ was among the first to talk about vagus on and on and on.
+
+1:36:44.320 --> 1:36:47.240
+ There are calming pathways that are, you know,
+
+1:36:47.240 --> 1:36:49.880
+ so-called parasympathetic pathways within the vagus
+
+1:36:49.880 --> 1:36:52.760
+ but I think that the more we learn about the vagus,
+
+1:36:52.760 --> 1:36:57.000
+ the more it seems like an entire set of neural connections
+
+1:36:57.000 --> 1:36:58.480
+ as opposed to one nerve.
+
+1:36:58.480 --> 1:36:59.680
+ I just wanted to just mention that
+
+1:36:59.680 --> 1:37:01.240
+ because I think a lot of people have heard
+
+1:37:01.240 --> 1:37:04.520
+ about the vagus, turns out experimentally in the laboratory,
+
+1:37:04.520 --> 1:37:07.000
+ many neuroscientists will stimulate the vagus
+
+1:37:07.000 --> 1:37:10.000
+ to create states of alertness and arousal
+
+1:37:10.000 --> 1:37:12.720
+ when animals or even people, believe it or not,
+
+1:37:12.720 --> 1:37:14.920
+ are close to dying or going into coma.
+
+1:37:14.920 --> 1:37:16.740
+ Stimulation of the vagus is one of the ways
+
+1:37:16.740 --> 1:37:19.580
+ to wake up the brain, counter to the idea
+
+1:37:19.580 --> 1:37:22.320
+ that it's just this way of calming oneself down.
+
+1:37:22.320 --> 1:37:24.020
+ And also, of course, I mean,
+
+1:37:24.020 --> 1:37:26.680
+ one has to be cautious there in that.
+
+1:37:26.680 --> 1:37:31.680
+ So the vagus nerve is made out of many thousands of fibers.
+
+1:37:34.440 --> 1:37:38.160
+ You know, individual fibers that make this gigantic bundle
+
+1:37:38.160 --> 1:37:40.440
+ and it's likely, as we're speaking,
+
+1:37:40.440 --> 1:37:42.820
+ that each of these fibers carries
+
+1:37:42.820 --> 1:37:45.480
+ a slightly different meaning, okay?
+
+1:37:45.480 --> 1:37:47.120
+ Not necessarily one by one,
+
+1:37:47.120 --> 1:37:50.560
+ maybe five fibers, 10 fibers, 22, all right.
+
+1:37:50.560 --> 1:37:54.960
+ But they carry meaning that's associated
+
+1:37:54.960 --> 1:37:58.120
+ with their specific task.
+
+1:37:58.120 --> 1:38:00.800
+ This group of fibers is telling the brain
+
+1:38:00.800 --> 1:38:02.940
+ about the state of your heart.
+
+1:38:03.780 --> 1:38:06.240
+ This group of fiber is telling the brain
+
+1:38:06.240 --> 1:38:08.880
+ about the state of your gut.
+
+1:38:08.880 --> 1:38:13.040
+ This is telling your brain about its nutritional state.
+
+1:38:13.040 --> 1:38:17.440
+ This, your pancreas, this, your lungs.
+
+1:38:17.440 --> 1:38:22.440
+ And they are, again, to make the same simple example,
+
+1:38:22.440 --> 1:38:25.640
+ simple example, the keys of this piano.
+
+1:38:27.400 --> 1:38:30.280
+ Yes, you're right, there is a lot of data
+
+1:38:33.000 --> 1:38:36.920
+ showing that activating the entire vagal bundle
+
+1:38:36.920 --> 1:38:41.920
+ has very meaningful effect in a wide range of conditions.
+
+1:38:42.880 --> 1:38:47.880
+ In fact, it's being used to treat untractable depression.
+
+1:38:47.880 --> 1:38:52.880
+ A little stimulator, epileptic seizures.
+
+1:38:55.040 --> 1:38:57.760
+ But again, there are thousands of fibers
+
+1:38:57.760 --> 1:38:59.600
+ carrying different functions.
+
+1:38:59.600 --> 1:39:04.600
+ So to some degree, this is like turning the lights
+
+1:39:10.360 --> 1:39:15.140
+ on the stadium because you need to illuminate
+
+1:39:15.140 --> 1:39:18.720
+ where you lost your keys under your seat.
+
+1:39:18.720 --> 1:39:23.720
+ Yet 10,000 volts of 1,000 watts each have just come on.
+
+1:39:26.440 --> 1:39:28.860
+ Only one of these is pointing to where.
+
+1:39:29.840 --> 1:39:32.320
+ And so I'm lucky enough that one of them
+
+1:39:32.320 --> 1:39:35.200
+ happened to point to my site.
+
+1:39:36.760 --> 1:39:39.960
+ So here you activate the bundle, thousands of fibers.
+
+1:39:39.960 --> 1:39:43.840
+ I'm lucky enough that some of those happen to do something
+
+1:39:43.840 --> 1:39:48.000
+ to make a meaningful difference in depression
+
+1:39:48.880 --> 1:39:51.540
+ or to make a meaningful difference in epileptic.
+
+1:39:51.540 --> 1:39:56.540
+ But it should not be misconstrued as arguing
+
+1:39:56.880 --> 1:40:01.840
+ that this broad activation has any type
+
+1:40:01.840 --> 1:40:05.000
+ of selectivity or specificity.
+
+1:40:05.000 --> 1:40:07.320
+ We're just lucky enough that among all the things
+
+1:40:07.320 --> 1:40:12.160
+ that are being done, some of those happen to change
+
+1:40:12.160 --> 1:40:14.600
+ the biology of these processes.
+
+1:40:14.600 --> 1:40:18.480
+ Now, the reason this is relevant because the magic
+
+1:40:18.480 --> 1:40:22.440
+ of this gut-brain axis is the fact that you have
+
+1:40:22.440 --> 1:40:27.220
+ these thousands of fibers really doing different functions.
+
+1:40:27.220 --> 1:40:32.220
+ And our goal, and along with many other great scientists,
+
+1:40:37.240 --> 1:40:40.100
+ including Steve Liverless that started a lot
+
+1:40:40.100 --> 1:40:45.100
+ of this molecular dissection on this vagal gut-brain
+
+1:40:45.480 --> 1:40:48.180
+ communication line at Harvard,
+
+1:40:49.680 --> 1:40:54.480
+ is trying to uncover what are each of those lines doing?
+
+1:40:54.480 --> 1:40:57.860
+ What are each of those keys of this piano playing?
+
+1:40:59.120 --> 1:41:00.120
+ What's the latest there?
+
+1:41:00.120 --> 1:41:03.000
+ Just as a brief update, I know Steven Liverless,
+
+1:41:03.800 --> 1:41:05.940
+ I think I was there when he got his Howard Hughes
+
+1:41:05.940 --> 1:41:07.740
+ and I did not, so that was fun.
+
+1:41:07.740 --> 1:41:10.120
+ Always great to get beat by excellent people.
+
+1:41:10.120 --> 1:41:11.380
+ First of all, I'm happy you did them
+
+1:41:11.380 --> 1:41:15.960
+ because that way you can focus on this amazing podcast.
+
+1:41:15.960 --> 1:41:18.040
+ Thank you, that's very gracious of you.
+
+1:41:18.040 --> 1:41:21.840
+ It always feels better, it's not good,
+
+1:41:21.840 --> 1:41:23.220
+ to get beat out by excellent people.
+
+1:41:23.220 --> 1:41:28.220
+ Steven is second to none and he is defining,
+
+1:41:28.480 --> 1:41:31.240
+ as you said, the molecular constituents
+
+1:41:31.240 --> 1:41:33.620
+ of different elements of these many, many fibers.
+
+1:41:33.620 --> 1:41:34.560
+ Is there an update there?
+
+1:41:34.560 --> 1:41:37.000
+ Are they finding multiple parallel pathways?
+
+1:41:37.000 --> 1:41:38.000
+ They are, they are.
+
+1:41:38.000 --> 1:41:40.200
+ Some that control heartbeat,
+
+1:41:40.200 --> 1:41:43.000
+ some that control the respiratory cycle,
+
+1:41:43.000 --> 1:41:48.000
+ some that might be involved in a gastric movement,
+
+1:41:49.520 --> 1:41:52.360
+ you know, this notion that you're full
+
+1:41:52.360 --> 1:41:57.280
+ and you feel full in part because your gut gets distended,
+
+1:41:57.280 --> 1:41:58.640
+ your stomach, for example,
+
+1:41:59.940 --> 1:42:02.840
+ and then there are little sensors that are reading that
+
+1:42:02.840 --> 1:42:05.400
+ and telling the brain you're full.
+
+1:42:05.400 --> 1:42:08.520
+ Yeah, so the text books will soon change
+
+1:42:08.520 --> 1:42:10.440
+ on the basis of the liberalese and other work.
+
+1:42:10.440 --> 1:42:13.800
+ In essence, I think we are learning enough
+
+1:42:13.800 --> 1:42:18.800
+ about these lines that could really help put together
+
+1:42:21.520 --> 1:42:26.520
+ this holistic view of, you know, how the brain,
+
+1:42:27.280 --> 1:42:32.280
+ it's truly changing body physiology, metabolism, and immunity.
+
+1:42:32.280 --> 1:42:35.920
+ The part that hasn't been yet developed
+
+1:42:35.920 --> 1:42:38.080
+ and that it needs a fair amount of work,
+
+1:42:38.080 --> 1:42:41.680
+ but it's an exciting, thrilling, you know,
+
+1:42:41.680 --> 1:42:46.160
+ journey of discovery is how the signal comes back
+
+1:42:46.160 --> 1:42:49.080
+ to now change that biology.
+
+1:42:49.080 --> 1:42:51.960
+ You know, the example I gave you before with Pavlov's dog.
+
+1:42:51.960 --> 1:42:55.920
+ Yeah, all right, I figure out, you know,
+
+1:42:55.920 --> 1:42:59.640
+ how the association created this link between the belt,
+
+1:42:59.640 --> 1:43:01.640
+ but then how does the brain tell the path?
+
+1:43:01.640 --> 1:43:04.120
+ How does the brain tell the pancreas
+
+1:43:04.120 --> 1:43:07.880
+ to release in the right amount of insulin?
+
+1:43:07.880 --> 1:43:09.600
+ Okay, so tell me, tell me,
+
+1:43:10.760 --> 1:43:15.760
+ let me tell you about the gut-brain axis
+
+1:43:16.760 --> 1:43:21.600
+ and our insatiable appetite for sugar and fat.
+
+1:43:23.360 --> 1:43:27.000
+ Insatiable for sugar and quenchable for fat.
+
+1:43:27.000 --> 1:43:32.000
+ And this is a story about the fundamental difference
+
+1:43:34.920 --> 1:43:38.880
+ between liking and wanting.
+
+1:43:41.040 --> 1:43:46.040
+ Liking sugar is the function of the taste system.
+
+1:43:49.480 --> 1:43:53.440
+ And it's not really liking sugar, it's liking sweet.
+
+1:43:53.440 --> 1:43:58.440
+ Wanting sugar, our never-ending appetite for sugar,
+
+1:44:03.880 --> 1:44:08.880
+ is the story of the gut-brain axis, liking versus wanting.
+
+1:44:10.160 --> 1:44:14.360
+ And this is work of my own laboratory,
+
+1:44:14.360 --> 1:44:16.520
+ you know, that began long ago
+
+1:44:16.520 --> 1:44:19.000
+ when we discovered the sweet receptors.
+
+1:44:19.000 --> 1:44:24.000
+ And you can now engineer mice that lack these receptors.
+
+1:44:26.560 --> 1:44:31.440
+ So in essence, these animals will be unable to taste sweet.
+
+1:44:32.400 --> 1:44:35.840
+ A life without sweetness, how horrible.
+
+1:44:37.160 --> 1:44:42.160
+ And if you give a normal mouse a bottle containing sweet,
+
+1:44:42.440 --> 1:44:44.160
+ and we're gonna put either sugar
+
+1:44:44.160 --> 1:44:46.800
+ or an artificial sweetener, all right?
+
+1:44:46.800 --> 1:44:48.280
+ They both are sweet.
+
+1:44:48.280 --> 1:44:50.840
+ They have slightly different tastes,
+
+1:44:50.840 --> 1:44:55.280
+ but that's simply because artificial sweeteners
+
+1:44:55.280 --> 1:44:57.600
+ have some off tastes.
+
+1:44:57.600 --> 1:45:00.600
+ But as far as the sweet receptor is concerned,
+
+1:45:00.600 --> 1:45:03.000
+ they both activate the same receptor,
+
+1:45:03.000 --> 1:45:04.720
+ trigger the same signal.
+
+1:45:05.680 --> 1:45:07.280
+ And if you give an animal an option
+
+1:45:07.280 --> 1:45:11.920
+ of a bottle containing sugar or a sweetener versus water,
+
+1:45:11.920 --> 1:45:14.600
+ this animal will drink 10 to one
+
+1:45:14.600 --> 1:45:17.000
+ from the bottle containing sweet.
+
+1:45:17.000 --> 1:45:19.120
+ That's the taste system.
+
+1:45:19.120 --> 1:45:21.800
+ Animal Go samples each one, leaks a couple of leaks,
+
+1:45:21.800 --> 1:45:24.120
+ and then says, uh-uh, that's the one I want
+
+1:45:24.120 --> 1:45:27.320
+ because it's a pettative and because I love it.
+
+1:45:27.320 --> 1:45:29.600
+ So it prefers sugar to artificial sweetener?
+
+1:45:29.600 --> 1:45:30.920
+ No, no, no, no, no.
+
+1:45:30.920 --> 1:45:31.760
+ Equally artificial sweetener.
+
+1:45:31.760 --> 1:45:33.920
+ In this experiment, this experiment,
+
+1:45:33.920 --> 1:45:36.760
+ I'm gonna put only sweet in one bottle,
+
+1:45:36.760 --> 1:45:39.320
+ and it could be either sugar or artificial sweetener.
+
+1:45:39.320 --> 1:45:41.000
+ It doesn't matter which one.
+
+1:45:41.000 --> 1:45:43.040
+ Okay, we're gonna do the next experiment
+
+1:45:43.040 --> 1:45:44.360
+ where we separate those two.
+
+1:45:44.360 --> 1:45:46.600
+ For now, it's sweet versus water.
+
+1:45:46.600 --> 1:45:47.440
+ Okay.
+
+1:45:48.320 --> 1:45:51.200
+ And sweet means sweet, not sugar.
+
+1:45:51.200 --> 1:45:54.800
+ Sweet means anything that tastes sweet, all right?
+
+1:45:54.800 --> 1:45:59.280
+ And sugar is one example, and splenda is another example.
+
+1:45:59.280 --> 1:46:03.440
+ Aspartame, monk fruit, stevia, doesn't matter.
+
+1:46:03.440 --> 1:46:06.520
+ Yeah, I mean, there's some that only humans can taste,
+
+1:46:06.520 --> 1:46:09.960
+ mice cannot taste because their receptors
+
+1:46:09.960 --> 1:46:12.600
+ between humans and mice are different.
+
+1:46:12.600 --> 1:46:17.000
+ But we have put the human receptor into mice.
+
+1:46:17.000 --> 1:46:21.080
+ We engineer mice, and we completely humanize
+
+1:46:21.080 --> 1:46:25.920
+ this mouse's taste world, all right?
+
+1:46:25.920 --> 1:46:29.560
+ But for the purpose of this conversation,
+
+1:46:29.560 --> 1:46:32.360
+ we're only comparing sweet versus water.
+
+1:46:32.360 --> 1:46:35.800
+ An option, my goodness, they will leak to know
+
+1:46:35.800 --> 1:46:40.720
+ from the sweet side, 10 to one at least versus the water.
+
+1:46:40.720 --> 1:46:42.520
+ Make sense?
+
+1:46:42.520 --> 1:46:44.760
+ All right, now we're gonna take the mice
+
+1:46:44.760 --> 1:46:47.600
+ and we're gonna genetically engineer it
+
+1:46:47.600 --> 1:46:49.640
+ to remove the sweet receptors.
+
+1:46:50.720 --> 1:46:53.720
+ So these mice no longer have in their oral cavity
+
+1:46:53.720 --> 1:46:56.760
+ any sensors that can detect sweetness,
+
+1:46:56.760 --> 1:47:00.240
+ be that sugar molecule, be it an artificial sweetener,
+
+1:47:00.240 --> 1:47:02.080
+ be it anything else that tastes sweet.
+
+1:47:03.720 --> 1:47:06.800
+ And if you give these mice an option between
+
+1:47:06.800 --> 1:47:09.400
+ sweet versus water, sugar versus water,
+
+1:47:09.400 --> 1:47:11.840
+ artificial sweetener versus water,
+
+1:47:11.840 --> 1:47:13.520
+ it will drink equally well from both
+
+1:47:13.520 --> 1:47:15.520
+ because it cannot tell them apart
+
+1:47:15.520 --> 1:47:17.280
+ because it doesn't have the receptors for sweet,
+
+1:47:17.280 --> 1:47:20.480
+ so that sweet bottle tastes just like water.
+
+1:47:21.680 --> 1:47:22.520
+ Make sense?
+
+1:47:22.520 --> 1:47:23.560
+ Makes sense. Very good.
+
+1:47:24.840 --> 1:47:27.200
+ Now we're gonna do the experiment with sugar.
+
+1:47:27.200 --> 1:47:29.120
+ From now on, let's focus on sugar.
+
+1:47:29.120 --> 1:47:34.120
+ So I'm gonna give a mouse now, sugar versus water.
+
+1:47:34.120 --> 1:47:38.680
+ Normal mouse will drink from the sugar, sugar, sugar, sugar,
+
+1:47:38.680 --> 1:47:40.080
+ very little from the water.
+
+1:47:41.000 --> 1:47:44.240
+ Knock out the sweet receptors, eliminate them.
+
+1:47:44.240 --> 1:47:46.120
+ Mouse can no longer tell them apart
+
+1:47:46.120 --> 1:47:47.640
+ and they will drink from both.
+
+1:47:49.200 --> 1:47:54.200
+ But if I keep the mouse in that cage for the next 48 hours,
+
+1:47:55.520 --> 1:47:59.960
+ something extraordinary happens when I come 48 hours later
+
+1:47:59.960 --> 1:48:03.760
+ and I see what the mouse is leaking or drinking from.
+
+1:48:03.760 --> 1:48:06.880
+ That mouse is drinking almost exclusively
+
+1:48:06.880 --> 1:48:11.080
+ from the sugar bottle. How could this be?
+
+1:48:11.080 --> 1:48:15.360
+ It cannot taste it, doesn't have sweet receptors.
+
+1:48:16.520 --> 1:48:21.080
+ During those 48 hours, the mouse learn
+
+1:48:21.080 --> 1:48:23.760
+ that there is something in that bottle
+
+1:48:23.760 --> 1:48:26.200
+ that makes me feel good.
+
+1:48:27.160 --> 1:48:31.120
+ And that is the bottle I want to consume.
+
+1:48:31.120 --> 1:48:34.200
+ Now, how does the mouse identify that bottle?
+
+1:48:34.200 --> 1:48:38.040
+ It does so by using other sensory features.
+
+1:48:38.040 --> 1:48:43.040
+ The smell of the bottle, the texture of the solution inside,
+
+1:48:43.480 --> 1:48:46.120
+ sugar at high concentrations is kind of goopy.
+
+1:48:47.480 --> 1:48:51.840
+ The sadness in which the bottle is in the cage.
+
+1:48:51.840 --> 1:48:55.000
+ It doesn't matter what, but the mouse realize
+
+1:48:55.000 --> 1:48:58.880
+ there is something there that makes me feel good
+
+1:48:58.880 --> 1:49:00.720
+ and that's what I want.
+
+1:49:00.720 --> 1:49:05.680
+ And that is the fundamental basis
+
+1:49:05.680 --> 1:49:10.680
+ of our unquenchable desire and our craving for sugar
+
+1:49:11.120 --> 1:49:14.400
+ and is mediated by the gut brain axis.
+
+1:49:15.360 --> 1:49:18.360
+ The first clue is that it takes a long time to develop.
+
+1:49:19.960 --> 1:49:23.880
+ Immediately suggesting a post-ingestive effect.
+
+1:49:25.560 --> 1:49:29.960
+ So we reason if this is true and it's the gut brain axis
+
+1:49:29.960 --> 1:49:33.240
+ that's driving sugar preference,
+
+1:49:34.960 --> 1:49:37.440
+ then there should be a group of neurons in the brain
+
+1:49:37.440 --> 1:49:41.920
+ that are responding to post-ingestive sugar.
+
+1:49:43.200 --> 1:49:45.280
+ And lo and behold, we identify a group of neurons
+
+1:49:45.280 --> 1:49:48.160
+ in the brain that does this and these neurons
+
+1:49:48.160 --> 1:49:53.160
+ receive their input directly from the gut brain axis.
+
+1:49:54.240 --> 1:49:55.880
+ From other neurons.
+
+1:49:55.880 --> 1:49:56.720
+ You got it.
+
+1:49:56.720 --> 1:50:01.720
+ And so what's happening is that sugar is recognized normally
+
+1:50:03.840 --> 1:50:08.240
+ by the tongue, activates an repetitive response.
+
+1:50:08.240 --> 1:50:12.280
+ Now you ingest it and now it activates a selective group
+
+1:50:12.280 --> 1:50:17.280
+ of cells in your intestines that now send a signal
+
+1:50:17.600 --> 1:50:22.600
+ to the brain via the vagal ganglia that says,
+
+1:50:23.360 --> 1:50:25.400
+ I got what I need.
+
+1:50:25.400 --> 1:50:28.200
+ The tongue doesn't know that you got what you need.
+
+1:50:28.200 --> 1:50:29.880
+ It only knows that you tasted it.
+
+1:50:31.320 --> 1:50:33.880
+ This knows that it got to the point
+
+1:50:33.880 --> 1:50:37.640
+ that it's going to be used, which is the gut.
+
+1:50:37.640 --> 1:50:41.760
+ And now it sends the signal to now reinforce
+
+1:50:41.760 --> 1:50:44.240
+ the consumption of this thing
+
+1:50:44.240 --> 1:50:46.800
+ because this is the one that I needed.
+
+1:50:46.800 --> 1:50:48.960
+ Sugar, source of energy.
+
+1:50:48.960 --> 1:50:51.080
+ And are these neurons in the gut?
+
+1:50:51.960 --> 1:50:53.560
+ So these are not neurons in the gut.
+
+1:50:53.560 --> 1:50:57.560
+ So these are gut cells that recognize the sugar molecule,
+
+1:50:57.560 --> 1:51:00.280
+ send a signal and that signal is received
+
+1:51:00.280 --> 1:51:02.040
+ by the vagal neuron directly.
+
+1:51:02.040 --> 1:51:02.880
+ Got it.
+
+1:51:02.880 --> 1:51:07.200
+ And this sends a signal through the gut brain axis
+
+1:51:07.200 --> 1:51:11.520
+ to the cell bodies of these neurons in the vagal ganglia
+
+1:51:11.520 --> 1:51:14.800
+ and from there to the brain stem
+
+1:51:14.800 --> 1:51:18.640
+ to now trigger the preference for sugar.
+
+1:51:18.640 --> 1:51:19.560
+ Two questions.
+
+1:51:19.560 --> 1:51:23.280
+ One, you mentioned that these cells that detect sugar
+
+1:51:23.280 --> 1:51:25.640
+ within the gut are actually within the intestine.
+
+1:51:25.640 --> 1:51:28.200
+ You didn't say stomach, which surprised me.
+
+1:51:28.200 --> 1:51:31.160
+ I always think gut as stomach, but of course intestines.
+
+1:51:31.160 --> 1:51:32.200
+ They're intestine because that's where
+
+1:51:32.200 --> 1:51:33.640
+ all the absorption happens.
+
+1:51:33.640 --> 1:51:35.360
+ So you want the signal.
+
+1:51:35.360 --> 1:51:36.600
+ You see, you want the brain to know
+
+1:51:36.600 --> 1:51:41.240
+ that you had successful ingestion and breakdown
+
+1:51:41.240 --> 1:51:45.360
+ of whatever you consume into the building blocks of life.
+
+1:51:46.520 --> 1:51:50.040
+ And you know, glucose, amino acids, fat.
+
+1:51:50.040 --> 1:51:53.880
+ And so you wanna make sure that once they are in the form
+
+1:51:53.880 --> 1:51:56.280
+ that intestines can now absorb them
+
+1:51:57.240 --> 1:51:59.560
+ is where you get the signal back saying,
+
+1:51:59.560 --> 1:52:01.600
+ this is what I want, okay?
+
+1:52:01.600 --> 1:52:04.120
+ Now, let me just take it one step further.
+
+1:52:05.960 --> 1:52:09.960
+ And this now sugar molecules activates
+
+1:52:09.960 --> 1:52:12.520
+ this unique gut brain circuit
+
+1:52:12.520 --> 1:52:17.520
+ that now drives the development of our preference for sugar.
+
+1:52:17.520 --> 1:52:22.520
+ Now, a key element of this circuit is that the sensors
+
+1:52:22.640 --> 1:52:26.640
+ in the gut that recognize the sugar
+
+1:52:26.640 --> 1:52:31.240
+ do not recognize artificial sweeteners at all.
+
+1:52:31.240 --> 1:52:33.160
+ Right, because their nutrient value
+
+1:52:33.160 --> 1:52:35.200
+ is uncoupled from the taste.
+
+1:52:37.120 --> 1:52:40.000
+ Generically speaking, one can make that,
+
+1:52:40.000 --> 1:52:42.320
+ but it's because it's a very different type of receptor.
+
+1:52:42.320 --> 1:52:43.160
+ I see.
+
+1:52:43.160 --> 1:52:44.760
+ Turns out that it's not the tongue receptors
+
+1:52:44.760 --> 1:52:46.280
+ being used in the gut.
+
+1:52:46.280 --> 1:52:47.840
+ It's a completely different molecule
+
+1:52:47.840 --> 1:52:51.560
+ that only recognizes the glucose molecule,
+
+1:52:51.560 --> 1:52:53.720
+ not artificial sweeteners.
+
+1:52:53.720 --> 1:52:58.720
+ This has a profound impact on the effect
+
+1:52:59.440 --> 1:53:02.480
+ of ultimately artificial sweeteners
+
+1:53:02.480 --> 1:53:05.600
+ in curbing our appetite,
+
+1:53:05.600 --> 1:53:09.480
+ our craving, our insatiable desire for sugar.
+
+1:53:10.840 --> 1:53:14.080
+ Since they don't activate the gut brain axis,
+
+1:53:14.080 --> 1:53:19.080
+ they'll never satisfy the craving for sugar like sugar does.
+
+1:53:21.160 --> 1:53:24.320
+ And the reason I believe that artificial sweeteners
+
+1:53:24.320 --> 1:53:29.320
+ have failed in the market to curve our appetite,
+
+1:53:30.360 --> 1:53:33.120
+ our need, our desire for sugar
+
+1:53:34.000 --> 1:53:36.720
+ is because they beautifully work on the tongue,
+
+1:53:38.640 --> 1:53:42.760
+ the liking, the desire for sugar.
+
+1:53:42.760 --> 1:53:47.760
+ The liking to recognize sweet versus non-sweet,
+
+1:53:49.600 --> 1:53:54.560
+ but they fail to activate the key sensors in the gut
+
+1:53:54.560 --> 1:53:57.080
+ that now inform the brain,
+
+1:53:58.600 --> 1:54:02.720
+ you got sugar, no need to crave anymore.
+
+1:54:02.720 --> 1:54:07.200
+ So the issue of wanting,
+
+1:54:07.200 --> 1:54:10.480
+ can we relate that to a particular set of neurochemicals
+
+1:54:10.480 --> 1:54:12.840
+ upstream of, so the pathway is,
+
+1:54:12.840 --> 1:54:15.720
+ so glucose is activating these cells in the gut
+
+1:54:15.720 --> 1:54:17.760
+ through the vagus that's communicated
+
+1:54:17.760 --> 1:54:19.840
+ through presumably the nodose ganglion
+
+1:54:19.840 --> 1:54:21.080
+ and up into the brainstem.
+
+1:54:21.080 --> 1:54:21.920
+ Very good.
+
+1:54:21.920 --> 1:54:23.120
+ And from there, where does it go?
+
+1:54:23.120 --> 1:54:23.960
+ Yeah, where does it go
+
+1:54:23.960 --> 1:54:25.840
+ and what is the substrate of wanting?
+
+1:54:25.840 --> 1:54:29.400
+ I, you know, of course I think molecules like dopamine,
+
+1:54:29.400 --> 1:54:31.560
+ craving, there's a book even called
+
+1:54:31.560 --> 1:54:34.400
+ The Molecule of More, et cetera, et cetera.
+
+1:54:34.400 --> 1:54:37.720
+ Dopamine is a very diabolical molecule, as you know,
+
+1:54:37.720 --> 1:54:41.520
+ because it evokes both a sense of pleasure-ish,
+
+1:54:41.520 --> 1:54:44.920
+ but also a sense of desiring more, of craving.
+
+1:54:44.920 --> 1:54:47.440
+ So if I understand you correctly,
+
+1:54:47.440 --> 1:54:49.800
+ artificial sweeteners, and I agree,
+
+1:54:49.800 --> 1:54:53.140
+ are failing as a means to satisfy sugar craving
+
+1:54:53.140 --> 1:54:55.900
+ at the level of nutrient sensing.
+
+1:54:57.640 --> 1:55:02.640
+ And yet if we trigger this true sugar evoked
+
+1:55:02.720 --> 1:55:07.320
+ wanting pathway too much, and we've all experienced this,
+
+1:55:07.320 --> 1:55:09.580
+ then we eat sugar and we find ourselves
+
+1:55:09.580 --> 1:55:10.900
+ wanting more and more sugar.
+
+1:55:10.900 --> 1:55:13.800
+ Now that could also be insulin dysregulation,
+
+1:55:13.800 --> 1:55:15.660
+ but can we uncouple those?
+
+1:55:15.660 --> 1:55:16.820
+ Yeah, I mean, look,
+
+1:55:19.880 --> 1:55:23.440
+ if we have a mega problem
+
+1:55:24.340 --> 1:55:26.820
+ with overconsumption of sugar and fat,
+
+1:55:29.400 --> 1:55:32.440
+ we're facing a unique time in our evolution
+
+1:55:32.440 --> 1:55:37.440
+ where diseases of malnutrition are due to overnutrition.
+
+1:55:39.920 --> 1:55:42.600
+ I mean, how nuts is that, eh?
+
+1:55:42.600 --> 1:55:46.080
+ I mean, historically, diseases of malnutrition
+
+1:55:46.080 --> 1:55:49.200
+ have always been linked to undernutrition.
+
+1:55:51.920 --> 1:55:54.660
+ And so we need to come up with strategies
+
+1:55:54.660 --> 1:55:57.720
+ that can meaningfully change
+
+1:55:57.720 --> 1:56:02.720
+ the activation of these circuits
+
+1:56:03.420 --> 1:56:08.080
+ that control our wanting,
+
+1:56:08.080 --> 1:56:10.880
+ certainly in the populations at risk.
+
+1:56:13.620 --> 1:56:18.420
+ And this gut-brain circuit
+
+1:56:18.420 --> 1:56:22.740
+ that ultimately, you know, it's the lines of communication
+
+1:56:22.740 --> 1:56:25.420
+ that are informing the brain,
+
+1:56:25.420 --> 1:56:28.620
+ the presence of intestinal sugar in this example.
+
+1:56:29.580 --> 1:56:34.380
+ It's a very important target in the way we think about
+
+1:56:34.380 --> 1:56:36.060
+ is there a way that we can meaningfully
+
+1:56:36.060 --> 1:56:37.980
+ modulate these circuits?
+
+1:56:37.980 --> 1:56:42.980
+ So I make your brain think that you got satisfied
+
+1:56:44.640 --> 1:56:47.520
+ with sugar, even though I'm not giving you sugar.
+
+1:56:47.520 --> 1:56:49.760
+ So that immediately raises the question,
+
+1:56:49.760 --> 1:56:53.620
+ are the receptors for glucose in these gut cells
+
+1:56:53.620 --> 1:56:57.780
+ susceptible to other things that are healthier for us?
+
+1:56:57.780 --> 1:57:01.260
+ That's very good, excellent idea.
+
+1:57:01.260 --> 1:57:04.060
+ And I think an important goal
+
+1:57:04.060 --> 1:57:07.420
+ will be to come up with a strategy
+
+1:57:07.420 --> 1:57:11.380
+ and identify those very means
+
+1:57:11.380 --> 1:57:14.240
+ that allow us to modulate the circuits
+
+1:57:14.240 --> 1:57:18.940
+ in a way that, certainly for all of those
+
+1:57:18.940 --> 1:57:20.560
+ where this is a big issue,
+
+1:57:20.560 --> 1:57:25.560
+ it can really have a, you know, dramatic impact
+
+1:57:25.920 --> 1:57:28.440
+ in improving human health.
+
+1:57:28.440 --> 1:57:30.880
+ I could be wrong about this and I'm happy to be wrong.
+
+1:57:30.880 --> 1:57:34.660
+ I'm often wrong and told I'm wrong.
+
+1:57:35.800 --> 1:57:38.000
+ That we have cells within our gut
+
+1:57:38.000 --> 1:57:42.420
+ that don't just sense sugar, glucose, to be specific,
+
+1:57:42.420 --> 1:57:44.520
+ but also cells within our gut
+
+1:57:44.520 --> 1:57:47.260
+ that sense amino acids and fatty acids.
+
+1:57:47.260 --> 1:57:52.020
+ I could imagine a scenario where one could train themselves
+
+1:57:52.020 --> 1:57:55.760
+ to feel immense amounts of satiety
+
+1:57:55.760 --> 1:57:57.660
+ from the consumption of foods
+
+1:57:57.660 --> 1:58:01.460
+ that are rich in essential fatty acids, amino acids,
+
+1:58:01.460 --> 1:58:03.460
+ perhaps less caloric
+
+1:58:03.460 --> 1:58:07.300
+ or less insulin-disregulating than sugar.
+
+1:58:08.260 --> 1:58:09.540
+ I'll use myself as an example.
+
+1:58:09.540 --> 1:58:12.440
+ I've always enjoyed sweets, but in the last few years,
+
+1:58:12.440 --> 1:58:15.480
+ for some reason, I've started to lose my appetite for them,
+
+1:58:15.480 --> 1:58:18.140
+ probably because I just don't eat them anymore.
+
+1:58:18.140 --> 1:58:20.100
+ At first, that took some restriction.
+
+1:58:20.100 --> 1:58:21.900
+ Now I just don't even think about it.
+
+1:58:21.900 --> 1:58:24.900
+ Yeah, and you're not reinforcing the circuits.
+
+1:58:24.900 --> 1:58:28.820
+ And so you're, in essence, are removing yourself,
+
+1:58:28.820 --> 1:58:32.340
+ but you tend to be the exception.
+
+1:58:32.340 --> 1:58:35.880
+ You know, we have a huge,
+
+1:58:35.880 --> 1:58:38.940
+ a huge, incredible large number of people
+
+1:58:38.940 --> 1:58:41.260
+ that are being continuously exposed
+
+1:58:41.260 --> 1:58:43.740
+ to highly processed foods, yeah?
+
+1:58:43.740 --> 1:58:46.580
+ And hidden, so-called hidden sugars.
+
+1:58:46.580 --> 1:58:48.340
+ They don't even have to be hidden.
+
+1:58:48.340 --> 1:58:49.620
+ You know, it's right there.
+
+1:58:49.620 --> 1:58:51.140
+ Hiding in plain sight.
+
+1:58:51.140 --> 1:58:52.020
+ Yeah, I agree.
+
+1:58:52.020 --> 1:58:54.220
+ So much is made of hidden sugars
+
+1:58:54.220 --> 1:58:57.060
+ that we often overlook that they are,
+
+1:58:57.060 --> 1:58:58.820
+ there are also the overt sugars.
+
+1:58:58.820 --> 1:59:02.060
+ Yeah, I mean, we can have a long discussion
+
+1:59:02.060 --> 1:59:06.380
+ on the importance of coming up with strategies,
+
+1:59:06.380 --> 1:59:10.080
+ you know, that could meaningfully change public health
+
+1:59:10.080 --> 1:59:11.760
+ when it comes to nutrition.
+
+1:59:11.760 --> 1:59:16.760
+ But I want to just go back to the notion of, you know,
+
+1:59:16.840 --> 1:59:20.600
+ these brain centers that are ultimately
+
+1:59:20.600 --> 1:59:23.520
+ the ones that are being activated
+
+1:59:23.520 --> 1:59:25.520
+ by these essential nutrients.
+
+1:59:25.520 --> 1:59:28.120
+ So sugar, fat, and amino acids
+
+1:59:28.120 --> 1:59:33.120
+ are building blocks of our diets.
+
+1:59:33.320 --> 1:59:36.560
+ And this is across all animal species.
+
+1:59:36.560 --> 1:59:39.780
+ So it's not unreasonable then to assume
+
+1:59:39.780 --> 1:59:43.520
+ that dedicated brain circuits would have evolved
+
+1:59:43.520 --> 1:59:46.760
+ to ensure their recognition,
+
+1:59:49.120 --> 1:59:54.120
+ their ingestion, and the reinforcement
+
+1:59:54.120 --> 1:59:56.800
+ that that is what they need.
+
+1:59:58.720 --> 2:00:03.720
+ And indeed, you know, animals evolved these two systems.
+
+2:00:03.720 --> 2:00:08.720
+ One is the taste system that allows you to recognize them
+
+2:00:12.240 --> 2:00:15.160
+ and trigger these predetermined hardwired
+
+2:00:15.160 --> 2:00:17.840
+ immediate responses, yes?
+
+2:00:17.840 --> 2:00:20.760
+ Oh my goodness, this tastes so good, it's so sweet.
+
+2:00:20.760 --> 2:00:23.580
+ I personally have a sweet tooth, may I add.
+
+2:00:23.580 --> 2:00:25.940
+ And you know, oh my God, this is so delicious,
+
+2:00:25.940 --> 2:00:29.840
+ it's fatty or umami recognizing amino acids.
+
+2:00:29.840 --> 2:00:34.540
+ So that's the liking pathway, yeah?
+
+2:00:34.540 --> 2:00:38.340
+ But in the wisdom of evolution,
+
+2:00:39.440 --> 2:00:41.960
+ that's good but doesn't quite do it.
+
+2:00:41.960 --> 2:00:43.360
+ You want to make sure that these things
+
+2:00:43.360 --> 2:00:45.980
+ get to the place where they are needed.
+
+2:00:45.980 --> 2:00:48.160
+ And they are not needed in your tongue.
+
+2:00:49.520 --> 2:00:51.520
+ They are needed in your intestines
+
+2:00:51.520 --> 2:00:53.740
+ where they are going to be absorbed
+
+2:00:53.740 --> 2:00:56.520
+ as the nutrients that will support life.
+
+2:00:56.520 --> 2:01:01.520
+ And the brain wants to know this.
+
+2:01:03.140 --> 2:01:05.080
+ And it wants to know it in a way
+
+2:01:05.080 --> 2:01:07.920
+ that it can now form the association
+
+2:01:07.920 --> 2:01:11.620
+ between that that I just tasted
+
+2:01:13.460 --> 2:01:15.940
+ is what got where it needs to be
+
+2:01:16.940 --> 2:01:18.880
+ and it makes me feel good.
+
+2:01:20.140 --> 2:01:23.780
+ And so now, next time that I have to choose,
+
+2:01:23.780 --> 2:01:28.780
+ what should I eat, that association now guides me to,
+
+2:01:30.420 --> 2:01:32.260
+ that's the one I want.
+
+2:01:32.260 --> 2:01:34.960
+ I want that fruit, not that fruit.
+
+2:01:36.080 --> 2:01:39.500
+ I want those leaves, not those leaves
+
+2:01:39.500 --> 2:01:42.780
+ because these are the ones that activate the right circuits
+
+2:01:42.780 --> 2:01:44.380
+ that ensure that the right nutrients
+
+2:01:44.380 --> 2:01:46.680
+ got to the right place and told the brain,
+
+2:01:47.920 --> 2:01:50.860
+ this is what I want and need.
+
+2:01:52.540 --> 2:01:53.380
+ Are we on?
+
+2:01:53.380 --> 2:01:54.740
+ We're on.
+
+2:01:54.740 --> 2:01:57.620
+ One thing that intrigues me and puzzles me
+
+2:01:57.620 --> 2:02:02.560
+ is that this effect took a couple of days, at least in mice.
+
+2:02:02.560 --> 2:02:06.020
+ And the sensation, sorry, the perception of taste
+
+2:02:06.020 --> 2:02:09.140
+ is immediate and yet this is a slow system.
+
+2:02:09.140 --> 2:02:13.800
+ And so in a beautiful way, but in a kind of mysterious way,
+
+2:02:13.800 --> 2:02:17.460
+ the brain is able to couple the taste of a sweet drink
+
+2:02:17.460 --> 2:02:20.340
+ with the experience of nutrient extraction in the gut
+
+2:02:20.340 --> 2:02:24.800
+ under a context where the mouse and the human
+
+2:02:24.800 --> 2:02:26.620
+ is presumably ingesting other things,
+
+2:02:26.620 --> 2:02:29.040
+ smelling other mice, smelling other people.
+
+2:02:29.040 --> 2:02:30.280
+ That's incredible.
+
+2:02:30.280 --> 2:02:33.300
+ Yeah, but you have to think of it not as humans.
+
+2:02:33.300 --> 2:02:38.300
+ Remember, we inherited the circuits of our ancestors
+
+2:02:40.060 --> 2:02:44.880
+ and they, through evolutionary, from their ancestors.
+
+2:02:44.880 --> 2:02:48.460
+ And we haven't had that many years
+
+2:02:48.460 --> 2:02:50.800
+ to have fundamentally changed
+
+2:02:50.800 --> 2:02:53.160
+ in many of these hardwired circuits.
+
+2:02:53.160 --> 2:02:57.960
+ So forget, as humans, let's look at animals in the wild,
+
+2:02:57.960 --> 2:03:01.380
+ okay, which is easier now to comprehend the logic.
+
+2:03:03.620 --> 2:03:08.620
+ Why should this take a long time of continued reinforcement
+
+2:03:09.180 --> 2:03:12.040
+ given that I can taste it in a second?
+
+2:03:14.200 --> 2:03:16.840
+ You wanna make sure that this source of sugar,
+
+2:03:16.840 --> 2:03:21.640
+ for example, in the wild is the best, is the richest,
+
+2:03:21.640 --> 2:03:24.280
+ is the one where I get the most energy
+
+2:03:24.280 --> 2:03:29.100
+ for the least amount of extraction,
+
+2:03:30.480 --> 2:03:32.040
+ the least amount of work.
+
+2:03:32.040 --> 2:03:37.000
+ I wanna identify rich sources of sugar.
+
+2:03:37.000 --> 2:03:40.880
+ And if the system simply responds immediately
+
+2:03:40.880 --> 2:03:43.440
+ to the first sugar that gets to your gut,
+
+2:03:43.440 --> 2:03:46.640
+ you're gonna form the association
+
+2:03:46.640 --> 2:03:49.120
+ with those sources of food,
+
+2:03:49.120 --> 2:03:52.620
+ which are not the ones that you should be eating from.
+
+2:03:52.620 --> 2:03:55.200
+ Don't fall in love with the first person you encounter.
+
+2:03:55.200 --> 2:03:58.360
+ Oh my goodness, exactly.
+
+2:03:58.360 --> 2:04:02.780
+ And so evolutionarily, by having the taste system
+
+2:04:02.780 --> 2:04:05.120
+ giving you the immediate recognition,
+
+2:04:05.120 --> 2:04:08.820
+ but then by forcing this gut brain access
+
+2:04:08.820 --> 2:04:13.360
+ to reinforce it only when sustained,
+
+2:04:13.360 --> 2:04:17.520
+ you know, repeated exposure has informed the brain,
+
+2:04:18.520 --> 2:04:20.280
+ this is the one,
+
+2:04:20.280 --> 2:04:22.520
+ you don't wanna form the association before.
+
+2:04:23.860 --> 2:04:27.120
+ And so, you know, when we remove it from the context of,
+
+2:04:27.120 --> 2:04:30.960
+ you know, we just go to, you know, the supermarket.
+
+2:04:31.920 --> 2:04:36.080
+ We're not hunting there in the wild where I need to form.
+
+2:04:36.080 --> 2:04:41.080
+ And so what's happening is that highly processed foods
+
+2:04:41.080 --> 2:04:46.080
+ are hijacking, you know,
+
+2:04:46.360 --> 2:04:48.680
+ co-opting the circuits in a way
+
+2:04:49.760 --> 2:04:52.040
+ that it would have never happened in nature.
+
+2:04:52.040 --> 2:04:54.840
+ And then we not only find these things
+
+2:04:54.840 --> 2:04:56.680
+ appetitive and palatable,
+
+2:04:56.680 --> 2:05:00.460
+ but in addition, we are continuously reinforcing,
+
+2:05:00.460 --> 2:05:02.920
+ you know, the wanting in a way that,
+
+2:05:02.920 --> 2:05:04.240
+ oh my God, this is so great.
+
+2:05:04.240 --> 2:05:05.280
+ What do I feel like eating?
+
+2:05:05.280 --> 2:05:07.240
+ Let me have more of this.
+
+2:05:07.240 --> 2:05:09.160
+ You've just forever changed the way
+
+2:05:09.160 --> 2:05:12.460
+ that I think about supermarkets and restaurants.
+
+2:05:12.460 --> 2:05:16.460
+ There are, understanding this fast signaling
+
+2:05:16.460 --> 2:05:19.160
+ and this slower signaling and the utility of having both
+
+2:05:20.200 --> 2:05:23.720
+ makes me realize that supermarkets and restaurants
+
+2:05:23.720 --> 2:05:28.120
+ are about the most unnatural thing for our system ever.
+
+2:05:28.120 --> 2:05:31.980
+ Almost the equivalent of living in small villages
+
+2:05:31.980 --> 2:05:34.020
+ with very few suitable mates
+
+2:05:34.020 --> 2:05:35.720
+ versus online dating, for instance.
+
+2:05:35.720 --> 2:05:38.120
+ Look, I'm not gonna make a judgment call there
+
+2:05:38.120 --> 2:05:40.040
+ because they do serve an important purpose.
+
+2:05:40.040 --> 2:05:41.320
+ I like restaurants too.
+
+2:05:41.320 --> 2:05:44.200
+ Yeah, and so do supermarkets, thank God.
+
+2:05:45.360 --> 2:05:47.680
+ I think they're not the culprits.
+
+2:05:47.680 --> 2:05:50.080
+ Yeah, I think the culprits of course, you know,
+
+2:05:53.420 --> 2:05:58.420
+ are reliance on foods that are not necessarily healthy.
+
+2:06:00.160 --> 2:06:03.060
+ Now, going back to the supermarket,
+
+2:06:03.060 --> 2:06:06.880
+ they don't fall in love with the first, they need to work.
+
+2:06:06.880 --> 2:06:10.760
+ You know, you take a tangerine
+
+2:06:16.800 --> 2:06:20.800
+ and you take an extract of tangerine
+
+2:06:22.760 --> 2:06:27.200
+ that you used to cook that spike, let's say with sugar
+
+2:06:29.640 --> 2:06:32.440
+ and you equalize in both where they both provide
+
+2:06:32.440 --> 2:06:33.900
+ the same amount of calories.
+
+2:06:33.900 --> 2:06:36.820
+ If you eat them both,
+
+2:06:38.260 --> 2:06:40.420
+ they're gonna have a very different effect
+
+2:06:41.820 --> 2:06:45.540
+ in your gut brain axis and your system.
+
+2:06:45.540 --> 2:06:48.060
+ Once you make the extract and you process it
+
+2:06:48.060 --> 2:06:51.780
+ and you add it, process sugar, you know, to use it now
+
+2:06:51.780 --> 2:06:55.660
+ to cook, to add, to make it really sweet tangerine thing.
+
+2:06:55.660 --> 2:07:00.220
+ Now you're providing now a fully ready to use
+
+2:07:00.220 --> 2:07:05.220
+ broken down source of sugar in the tangerine
+
+2:07:07.020 --> 2:07:10.700
+ that sugar it's mixed in the complexity
+
+2:07:11.820 --> 2:07:15.420
+ of a whole set of other chemical components,
+
+2:07:16.380 --> 2:07:20.180
+ fiber, long chains of sugar molecules
+
+2:07:20.180 --> 2:07:24.900
+ that need a huge amount of work by your stomach,
+
+2:07:24.900 --> 2:07:29.020
+ your gut system to break it down.
+
+2:07:29.020 --> 2:07:34.020
+ So you're using a huge amount of energy to extract energy.
+
+2:07:36.500 --> 2:07:40.620
+ And the balance, it's very different
+
+2:07:40.620 --> 2:07:45.620
+ than when I take this process, highly extracted tangerine.
+
+2:07:46.660 --> 2:07:48.900
+ By the way, I use tangerines because I had a tangerine
+
+2:07:48.900 --> 2:07:50.100
+ just before I came here.
+
+2:07:50.100 --> 2:07:52.900
+ Delicious, they are delicious.
+
+2:07:52.900 --> 2:07:57.900
+ And so this goes back to the issue of supermarkets.
+
+2:07:57.900 --> 2:08:02.900
+ And so to some degree, you know, A, given a choice,
+
+2:08:03.500 --> 2:08:05.540
+ you don't wanna eat processed, highly processed foods
+
+2:08:05.540 --> 2:08:08.900
+ because everything's already been broken down for you.
+
+2:08:08.900 --> 2:08:11.060
+ And so your system has no work.
+
+2:08:12.740 --> 2:08:15.620
+ And so you're co-opting, hijacking the circuits
+
+2:08:15.620 --> 2:08:19.180
+ in a way that they're being activated at a timescale
+
+2:08:19.180 --> 2:08:20.740
+ that normally wouldn't happen.
+
+2:08:22.220 --> 2:08:25.340
+ This is why I often feel that,
+
+2:08:25.340 --> 2:08:27.100
+ and I think a lot of data are now starting
+
+2:08:27.100 --> 2:08:29.460
+ to support the idea that while indeed
+
+2:08:29.460 --> 2:08:31.380
+ the laws of thermodynamics apply,
+
+2:08:31.380 --> 2:08:33.580
+ calories ingested versus calories burned
+
+2:08:33.580 --> 2:08:35.740
+ is a very real thing, right?
+
+2:08:37.020 --> 2:08:42.020
+ That the appetite for certain foods
+
+2:08:43.260 --> 2:08:47.420
+ and the wanting and the liking are phenomena
+
+2:08:47.420 --> 2:08:49.860
+ of the nervous system, brain and gut,
+
+2:08:49.860 --> 2:08:51.780
+ as you've beautifully described,
+
+2:08:51.780 --> 2:08:54.700
+ and that that changes over time
+
+2:08:54.700 --> 2:08:57.460
+ depending on how we are receiving these nutrients.
+
+2:08:57.460 --> 2:08:58.380
+ Absolutely.
+
+2:08:58.380 --> 2:09:03.380
+ Look, we have a lot of work to do.
+
+2:09:05.660 --> 2:09:07.580
+ I'm talking as a society.
+
+2:09:07.580 --> 2:09:09.940
+ I'm not talking about you and I.
+
+2:09:09.940 --> 2:09:12.140
+ We also have a lot of work to do.
+
+2:09:12.140 --> 2:09:16.540
+ Now, I think understanding the circuits
+
+2:09:17.700 --> 2:09:20.660
+ is giving us important insights
+
+2:09:20.660 --> 2:09:22.460
+ and how ultimately and hopefully
+
+2:09:22.460 --> 2:09:25.260
+ we can improve human health
+
+2:09:26.220 --> 2:09:28.620
+ and make a meaningful difference.
+
+2:09:30.740 --> 2:09:35.740
+ Now, it's very easy to try to connect the dots,
+
+2:09:35.740 --> 2:09:38.660
+ A to B, B to C, C to D.
+
+2:09:38.660 --> 2:09:41.820
+ And I think there's a lot more complexity to it,
+
+2:09:43.060 --> 2:09:46.340
+ but I do think that the lessons that are emerging
+
+2:09:46.340 --> 2:09:50.700
+ out of understanding how the circuits operate
+
+2:09:50.700 --> 2:09:55.700
+ can ultimately inform how we deal with our diets
+
+2:09:58.740 --> 2:10:03.740
+ in a way that we avoid what we're facing now as a society.
+
+2:10:03.820 --> 2:10:07.100
+ I mean, it's nuts that the overnutrition
+
+2:10:08.740 --> 2:10:11.900
+ happens to be such a prevalent problem.
+
+2:10:11.900 --> 2:10:13.660
+ And I also think the training of people
+
+2:10:13.660 --> 2:10:15.980
+ who are thinking about metabolic science
+
+2:10:15.980 --> 2:10:18.540
+ and metabolic disease is largely divorced
+
+2:10:18.540 --> 2:10:20.100
+ from the training of the neuroscientist
+
+2:10:20.100 --> 2:10:21.340
+ and vice versa.
+
+2:10:21.340 --> 2:10:22.660
+ No one field is to blame,
+
+2:10:22.660 --> 2:10:26.740
+ but I fully agree that the brain is the key
+
+2:10:26.740 --> 2:10:29.540
+ or the nervous system to be more accurate
+
+2:10:29.540 --> 2:10:32.380
+ is one of the key overlooked features.
+
+2:10:32.380 --> 2:10:35.900
+ Is the arbitrary, ultimately is the arbiter
+
+2:10:35.900 --> 2:10:38.300
+ of many of these pathways.
+
+2:10:38.300 --> 2:10:40.780
+ As a final question and one which is simply
+
+2:10:40.780 --> 2:10:42.900
+ to entertain my curiosity
+
+2:10:42.900 --> 2:10:44.820
+ and the curiosity of the listeners,
+
+2:10:46.020 --> 2:10:49.220
+ what is your absolute favorite food?
+
+2:10:49.220 --> 2:10:50.260
+ Oh my goodness.
+
+2:10:52.580 --> 2:10:53.860
+ Taste, I should say.
+
+2:10:53.860 --> 2:10:55.100
+ Yes.
+
+2:10:55.100 --> 2:10:57.420
+ Taste, to distinguish between taste
+
+2:10:57.420 --> 2:10:59.660
+ and the nutritive value or lack thereof.
+
+2:10:59.660 --> 2:11:04.660
+ Yes, look, we, unlike every animal species,
+
+2:11:06.220 --> 2:11:08.220
+ eat for the enjoyment of it.
+
+2:11:10.460 --> 2:11:12.060
+ It doesn't happen in the wild.
+
+2:11:13.020 --> 2:11:15.180
+ Most animals eat when they need to eat.
+
+2:11:16.700 --> 2:11:19.020
+ Doesn't mean they don't enjoy it,
+
+2:11:19.020 --> 2:11:21.180
+ but it's a completely different story.
+
+2:11:25.140 --> 2:11:27.780
+ I have too many favorite foods
+
+2:11:27.780 --> 2:11:30.780
+ because I enjoy the sensory experience.
+
+2:11:31.700 --> 2:11:33.660
+ Rather than the food itself,
+
+2:11:33.660 --> 2:11:34.940
+ to me is the whole thing.
+
+2:11:34.940 --> 2:11:36.020
+ It's from the present.
+
+2:11:36.020 --> 2:11:37.780
+ Look, there've been these experiments done
+
+2:11:37.780 --> 2:11:39.260
+ in psychophysics.
+
+2:11:39.260 --> 2:11:42.380
+ I'm gonna take a salad made out of 11 components
+
+2:11:44.580 --> 2:11:47.860
+ and I'm gonna mix them all up in potpourri
+
+2:11:47.860 --> 2:11:50.500
+ of greens and other things here.
+
+2:11:50.500 --> 2:11:51.340
+ And in the other one,
+
+2:11:51.340 --> 2:11:53.420
+ I'm gonna present it in a beautiful arrangement
+
+2:11:53.420 --> 2:11:55.620
+ and I'm gonna put it behind a glass cabinet
+
+2:11:55.620 --> 2:11:57.020
+ and I'm gonna sell them.
+
+2:11:57.020 --> 2:11:59.460
+ And I'm gonna sell one for $2 and one for $8.
+
+2:12:01.460 --> 2:12:03.260
+ Precisely the same ingredients,
+
+2:12:03.260 --> 2:12:05.180
+ exactly the same amount of each.
+
+2:12:06.380 --> 2:12:07.460
+ Ultimately, you're gonna mix them.
+
+2:12:07.460 --> 2:12:08.940
+ They're all gonna be the same.
+
+2:12:10.580 --> 2:12:15.580
+ And people will pay the $8 because you know what?
+
+2:12:15.580 --> 2:12:18.140
+ It evokes a different person.
+
+2:12:19.260 --> 2:12:21.380
+ It gives you the feel that,
+
+2:12:21.380 --> 2:12:24.460
+ oh my goodness, I'm gonna enjoy that salad.
+
+2:12:25.860 --> 2:12:29.220
+ So going back to what is my favorite food.
+
+2:12:29.220 --> 2:12:32.220
+ To me, eating is really a sensory journey.
+
+2:12:38.060 --> 2:12:39.300
+ I don't mean the everyday,
+
+2:12:39.300 --> 2:12:43.460
+ let me have some chicken wings because I'm hungry.
+
+2:12:43.460 --> 2:12:48.460
+ But every piece I think has an important evoking sensory role.
+
+2:12:59.540 --> 2:13:03.940
+ And so in terms of categories of food,
+
+2:13:05.020 --> 2:13:09.660
+ I grew up in Chile, so meat is always been,
+
+2:13:09.660 --> 2:13:13.900
+ but I eat it so seldom now.
+
+2:13:13.900 --> 2:13:14.740
+ Is that right?
+
+2:13:14.740 --> 2:13:17.100
+ Yeah, because I know that's not necessarily
+
+2:13:17.100 --> 2:13:18.100
+ the healthiest thing.
+
+2:13:18.100 --> 2:13:19.700
+ Red meat I'm talking about, yeah?
+
+2:13:21.420 --> 2:13:23.940
+ And so I grew up eating it every day.
+
+2:13:24.900 --> 2:13:26.980
+ I'm talking seven days a week.
+
+2:13:26.980 --> 2:13:31.980
+ Chile and Argentina, that's the mainstay of our diet, yeah?
+
+2:13:33.180 --> 2:13:37.540
+ Now maybe I have red meat, I know,
+
+2:13:37.540 --> 2:13:40.740
+ once every four weeks.
+
+2:13:40.740 --> 2:13:41.620
+ And you enjoy it.
+
+2:13:41.620 --> 2:13:42.700
+ Oh, I love it.
+
+2:13:42.700 --> 2:13:46.140
+ Part of it is because I haven't had it in four weeks.
+
+2:13:46.140 --> 2:13:51.140
+ But I love sushi, but I love the art of sushi.
+
+2:13:54.100 --> 2:13:56.500
+ The whole thing, the way it's presented,
+
+2:13:56.500 --> 2:13:58.540
+ it changes the way you taste it.
+
+2:14:01.620 --> 2:14:06.180
+ I love ethnic food in particular.
+
+2:14:06.180 --> 2:14:07.300
+ You're in the right place.
+
+2:14:07.300 --> 2:14:08.140
+ You got it.
+
+2:14:08.140 --> 2:14:10.460
+ That was the main reason I wanted to come to New York.
+
+2:14:10.460 --> 2:14:11.980
+ No, I'm just kidding.
+
+2:14:11.980 --> 2:14:14.700
+ There's also that Columbia University that's-
+
+2:14:14.700 --> 2:14:18.100
+ I came here because I wanted to be with people
+
+2:14:18.100 --> 2:14:20.140
+ that are thinking about the brain
+
+2:14:20.140 --> 2:14:22.100
+ the same way that I like to think,
+
+2:14:22.100 --> 2:14:24.580
+ can we solve this big problem?
+
+2:14:24.580 --> 2:14:26.180
+ This big question.
+
+2:14:26.180 --> 2:14:28.820
+ And certainly you're making amazing strides
+
+2:14:28.820 --> 2:14:29.740
+ in that direction.
+
+2:14:29.740 --> 2:14:33.420
+ And I love your answer because it really brings together
+
+2:14:33.420 --> 2:14:35.220
+ the many features of the circuitries
+
+2:14:35.220 --> 2:14:36.940
+ and the phenomenon we've been talking about today,
+
+2:14:36.940 --> 2:14:40.300
+ which is that while it begins with sensation and perception,
+
+2:14:40.300 --> 2:14:41.860
+ ultimately it's the context,
+
+2:14:41.860 --> 2:14:44.020
+ and that context is highly individual
+
+2:14:44.020 --> 2:14:45.500
+ to person, place, and time,
+
+2:14:45.500 --> 2:14:47.380
+ and many, many other things.
+
+2:14:48.700 --> 2:14:51.580
+ On behalf of myself and certainly
+
+2:14:51.580 --> 2:14:52.740
+ on behalf of all the listeners,
+
+2:14:52.740 --> 2:14:54.540
+ I want to thank you, first of all,
+
+2:14:54.540 --> 2:14:56.180
+ for the incredible work that you've been doing now
+
+2:14:56.180 --> 2:14:58.740
+ for decades in vision, in taste,
+
+2:14:58.740 --> 2:15:01.220
+ and in this bigger issue of how we perceive
+
+2:15:01.220 --> 2:15:03.020
+ and experience life.
+
+2:15:03.020 --> 2:15:05.540
+ It's a truly pioneering and incredible work.
+
+2:15:05.540 --> 2:15:09.420
+ And I feel quite lucky to have been on the sidelines
+
+2:15:09.420 --> 2:15:11.220
+ seeing this over the years and hearing the talks
+
+2:15:11.220 --> 2:15:14.260
+ and reading the countless beautiful papers,
+
+2:15:14.260 --> 2:15:17.220
+ but also for your time today to come down here
+
+2:15:17.220 --> 2:15:19.300
+ and talk to us about what drives you
+
+2:15:19.300 --> 2:15:21.100
+ and the discoveries you've made.
+
+2:15:21.100 --> 2:15:22.740
+ Thank you ever so much.
+
+2:15:22.740 --> 2:15:24.420
+ It was great fun.
+
+2:15:24.420 --> 2:15:25.940
+ Thank you for having me.
+
+2:15:25.940 --> 2:15:26.780
+ We'll do it again.
+
+2:15:26.780 --> 2:15:27.820
+ I wish all.
+
+2:15:27.820 --> 2:15:29.860
+ Thank you for joining me today
+
+2:15:29.860 --> 2:15:31.780
+ for my discussion about perception
+
+2:15:31.780 --> 2:15:33.940
+ and in particular, the perception of taste
+
+2:15:33.940 --> 2:15:35.820
+ with Dr. Charles Zucker.
+
+2:15:35.820 --> 2:15:38.340
+ If you're learning from and or enjoying this podcast,
+
+2:15:38.340 --> 2:15:40.060
+ please subscribe to our YouTube channel.
+
+2:15:40.060 --> 2:15:42.500
+ That's a terrific zero cost way to support us.
+
+2:15:42.500 --> 2:15:44.620
+ In addition, please subscribe to the podcast
+
+2:15:44.620 --> 2:15:46.420
+ on Spotify and Apple.
+
+2:15:46.420 --> 2:15:48.220
+ And on Spotify and Apple,
+
+2:15:48.220 --> 2:15:50.480
+ you can leave us up to a five-star review.
+
+2:15:50.480 --> 2:15:53.260
+ If you have feedback for us in terms of comments
+
+2:15:53.260 --> 2:15:55.640
+ related to topics we've covered or questions
+
+2:15:55.640 --> 2:15:57.640
+ or topics or guests that you'd like us to cover
+
+2:15:57.640 --> 2:16:00.020
+ on future episodes of the Huberman Lab Podcast,
+
+2:16:00.020 --> 2:16:02.340
+ please put those in the comment section on YouTube.
+
+2:16:02.340 --> 2:16:04.120
+ We do read all the comments.
+
+2:16:04.120 --> 2:16:06.440
+ On today's episode of the Huberman Lab Podcast,
+
+2:16:06.440 --> 2:16:07.700
+ we didn't talk about supplements,
+
+2:16:07.700 --> 2:16:10.660
+ but on many previous episodes of the Huberman Lab Podcast,
+
+2:16:10.660 --> 2:16:12.740
+ we talk about supplements that are useful for sleep,
+
+2:16:12.740 --> 2:16:14.220
+ for focus, for hormone support,
+
+2:16:14.220 --> 2:16:15.820
+ and other aspects of mental health,
+
+2:16:15.820 --> 2:16:17.580
+ physical health, and performance.
+
+2:16:17.580 --> 2:16:19.140
+ If you're interested in some of those supplements,
+
+2:16:19.140 --> 2:16:21.820
+ you can go to livemomentus.com slash Huberman
+
+2:16:21.820 --> 2:16:23.460
+ to see the catalog of supplements
+
+2:16:23.460 --> 2:16:24.820
+ that we've helped them formulate
+
+2:16:24.820 --> 2:16:27.520
+ and that map directly onto specific protocols
+
+2:16:27.520 --> 2:16:29.180
+ described on the Huberman Lab Podcast.
+
+2:16:29.180 --> 2:16:31.900
+ Again, that's livemomentus.com slash Huberman.
+
+2:16:31.900 --> 2:16:34.420
+ If you're not already following us on social media,
+
+2:16:34.420 --> 2:16:36.360
+ we are Huberman Lab on Twitter
+
+2:16:36.360 --> 2:16:38.320
+ and Huberman Lab on Instagram.
+
+2:16:38.320 --> 2:16:40.900
+ And at both Twitter and Instagram,
+
+2:16:40.900 --> 2:16:43.140
+ I cover science and science-related tools,
+
+2:16:43.140 --> 2:16:44.680
+ some of which overlap with the content
+
+2:16:44.680 --> 2:16:45.960
+ of the Huberman Lab Podcast,
+
+2:16:45.960 --> 2:16:47.940
+ but much of which is distinct from the information
+
+2:16:47.940 --> 2:16:49.800
+ contained in the Huberman Lab Podcast.
+
+2:16:49.800 --> 2:16:52.760
+ We also have a newsletter in which we spell out protocols
+
+2:16:52.760 --> 2:16:55.540
+ and some summaries from previous podcast episodes.
+
+2:16:55.540 --> 2:16:56.620
+ If you'd like to check those out,
+
+2:16:56.620 --> 2:16:59.300
+ you can go to HubermanLab.com, go to the menu,
+
+2:16:59.300 --> 2:17:01.500
+ and you'll find the Neural Network Newsletter.
+
+2:17:01.500 --> 2:17:02.700
+ You can sign up for that newsletter
+
+2:17:02.700 --> 2:17:04.340
+ simply by providing an email.
+
+2:17:04.340 --> 2:17:06.060
+ It's completely zero cost.
+
+2:17:06.060 --> 2:17:07.580
+ We have a very strict privacy policy.
+
+2:17:07.580 --> 2:17:09.360
+ We do not share your email with anybody.
+
+2:17:09.360 --> 2:17:11.000
+ Again, that's HubermanLab.com.
+
+2:17:11.000 --> 2:17:13.540
+ Go to the menu and look for the Neural Network Newsletter.
+
+2:17:13.540 --> 2:17:15.700
+ And if you'd like examples of previous newsletters,
+
+2:17:15.700 --> 2:17:18.060
+ you'll also find those at HubermanLab.com.
+
+2:17:18.060 --> 2:17:19.580
+ Once again, thank you for joining me today
+
+2:17:19.580 --> 2:17:21.700
+ in my discussion with Dr. Charles Zucker
+
+2:17:21.700 --> 2:17:23.180
+ about the biology of perception
+
+2:17:23.180 --> 2:17:25.900
+ and the biology of the perception of taste in particular.
+
+2:17:25.900 --> 2:17:27.380
+ I hope you found that discussion
+
+2:17:27.380 --> 2:17:29.300
+ to be as enriching as I did.
+
+2:17:29.300 --> 2:17:31.380
+ And last, but certainly not least,
+
+2:17:31.380 --> 2:17:33.340
+ thank you for your interest in science.
+

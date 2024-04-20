@@ -1,0 +1,7916 @@
+WEBVTT
+
+00:00.000 --> 00:02.320
+ Welcome to the Huberman Lab Podcast,
+
+00:02.320 --> 00:04.960
+ where we discuss science and science-based tools
+
+00:04.960 --> 00:05.980
+ for everyday life.
+
+00:09.640 --> 00:12.680
+ I'm Andrew Huberman, and I'm a professor of neurobiology
+
+00:12.680 --> 00:16.000
+ and ophthalmology at Stanford School of Medicine.
+
+00:16.000 --> 00:17.840
+ This podcast is separate from my teaching
+
+00:17.840 --> 00:19.560
+ and research roles at Stanford.
+
+00:19.560 --> 00:22.060
+ It is, however, part of my desire to bring zero cost
+
+00:22.060 --> 00:23.960
+ to consumer information about science
+
+00:23.960 --> 00:27.280
+ and science-related tools to the general public.
+
+00:27.280 --> 00:29.800
+ Along those lines, I want to thank today's sponsors
+
+00:29.800 --> 00:31.080
+ of the podcast.
+
+00:31.080 --> 00:33.420
+ The first sponsor is Athletic Greens.
+
+00:33.420 --> 00:35.580
+ Athletic Greens is a product that I've been using
+
+00:35.580 --> 00:38.720
+ since 2012, long before I launched this podcast.
+
+00:38.720 --> 00:41.320
+ So I'm delighted that they're sponsoring the podcast.
+
+00:41.320 --> 00:43.320
+ Athletic Greens is an all-in-one
+
+00:43.320 --> 00:46.160
+ vitamin mineral probiotic supplement.
+
+00:46.160 --> 00:49.520
+ It's a greens drink that you mix with water.
+
+00:49.520 --> 00:52.840
+ I add lemon juice to mine because I like the way it tastes.
+
+00:52.840 --> 00:55.720
+ And it gets you all the vitamins and minerals you need
+
+00:55.720 --> 00:59.000
+ as well as probiotics, and probiotics are important to me
+
+00:59.000 --> 01:01.160
+ because there are a lot of data now showing
+
+01:01.160 --> 01:05.280
+ that gut health is important for the gut-brain axis,
+
+01:05.280 --> 01:08.640
+ things like mood, immunity, et cetera.
+
+01:08.640 --> 01:10.200
+ If you want to try Athletic Greens,
+
+01:10.200 --> 01:13.080
+ you can go to athleticgreens.com slash Huberman.
+
+01:13.080 --> 01:16.240
+ And if you do that, they'll send you a year supply
+
+01:16.240 --> 01:19.520
+ of liquid vitamin D3 and K2.
+
+01:19.520 --> 01:22.580
+ Vitamin D3, as many of you probably already know,
+
+01:22.580 --> 01:24.920
+ has been shown to be important for various aspects
+
+01:24.920 --> 01:26.560
+ of immune system function,
+
+01:26.560 --> 01:29.480
+ as well as other biological pathways,
+
+01:29.480 --> 01:31.600
+ metabolic function, et cetera.
+
+01:31.600 --> 01:33.640
+ So once again, if you want to try Athletic Greens,
+
+01:33.640 --> 01:36.340
+ you go to athleticgreens.com slash Huberman,
+
+01:36.340 --> 01:40.840
+ and they will send you a year supply of the D3, K2.
+
+01:40.840 --> 01:43.400
+ This podcast is also brought to us by Headspace.
+
+01:43.400 --> 01:47.600
+ Headspace is a meditation app that makes meditation easy.
+
+01:47.600 --> 01:51.060
+ I've been meditating on and off since I was in my teens
+
+01:51.060 --> 01:53.320
+ with more off than on,
+
+01:53.320 --> 01:55.780
+ mainly because meditation can be hard to stick to.
+
+01:55.780 --> 01:56.880
+ Some people are very good
+
+01:56.880 --> 02:00.200
+ at maintaining a meditation practice, others not so much.
+
+02:00.200 --> 02:01.780
+ I'm in the latter category.
+
+02:01.780 --> 02:03.360
+ However, I find that when I have something
+
+02:03.360 --> 02:06.240
+ to guide my meditation, such as Headspace,
+
+02:06.240 --> 02:08.480
+ it makes it much easier for me to be consistent
+
+02:08.480 --> 02:10.480
+ about my meditation practice.
+
+02:10.480 --> 02:13.560
+ There is now tons of data out there
+
+02:13.560 --> 02:15.120
+ in quality peer-reviewed journals
+
+02:15.120 --> 02:19.120
+ showing that meditative states can facilitate cognition,
+
+02:19.120 --> 02:21.200
+ recovery of mental function,
+
+02:21.200 --> 02:24.120
+ recovery of physical ability, et cetera.
+
+02:24.120 --> 02:26.040
+ So there are a lot of reasons to take up a meditation
+
+02:26.040 --> 02:29.640
+ practice, Headspace and the Headspace app makes it easy
+
+02:29.640 --> 02:32.600
+ to learn and maintain a meditation practice.
+
+02:32.600 --> 02:34.200
+ If you want to try Headspace,
+
+02:34.200 --> 02:38.120
+ you can go to headspace.com slash special offer.
+
+02:38.120 --> 02:41.100
+ And if you do that, they will let you try Headspace
+
+02:41.100 --> 02:42.800
+ for an entire month for free.
+
+02:42.800 --> 02:44.080
+ So zero risk there.
+
+02:44.080 --> 02:46.720
+ That's headspace.com slash special offer
+
+02:46.720 --> 02:48.800
+ to try Headspace, the meditation app,
+
+02:48.800 --> 02:50.920
+ for one month for free.
+
+02:50.920 --> 02:53.520
+ Today's podcast episode is about sleep
+
+02:53.520 --> 02:54.920
+ and wakefulness.
+
+02:54.920 --> 02:59.000
+ We are going to discuss jet lag, shift work,
+
+02:59.000 --> 03:01.460
+ babies, kids, and the elderly.
+
+03:01.460 --> 03:03.680
+ And we are going to discuss protocols
+
+03:03.680 --> 03:05.660
+ that are backed by science.
+
+03:05.660 --> 03:07.840
+ That means quality peer-reviewed papers published
+
+03:07.840 --> 03:12.200
+ in excellent journals that can support particular tools
+
+03:12.200 --> 03:15.520
+ that you can use to combat things like jet lag,
+
+03:15.520 --> 03:17.960
+ offset some of the negative effects of shift work
+
+03:17.960 --> 03:21.000
+ and make life easier for the new parent
+
+03:21.000 --> 03:24.580
+ as well as for the newborn child, the adolescent,
+
+03:24.580 --> 03:27.180
+ anyone that wants to sleep better,
+
+03:27.180 --> 03:30.120
+ feel better when they're awake, et cetera.
+
+03:30.120 --> 03:32.440
+ If you've listened to the previous three episodes
+
+03:32.440 --> 03:34.040
+ of the Huberman Lab Podcast,
+
+03:34.040 --> 03:37.640
+ we've been exploring these themes of wakefulness
+
+03:37.640 --> 03:40.960
+ and sleepiness, how to fall asleep, how to stay asleep.
+
+03:40.960 --> 03:43.860
+ And we've been discussing parameters like light,
+
+03:43.860 --> 03:47.500
+ exercise, temperature, et cetera.
+
+03:47.500 --> 03:50.260
+ If you've had a chance to listen to those episodes, great.
+
+03:50.260 --> 03:55.220
+ Today's discussion will be even more digestible for you.
+
+03:55.220 --> 03:57.200
+ If you haven't, that's okay.
+
+03:57.200 --> 03:59.360
+ I will provide a little bit of background here or there
+
+03:59.360 --> 04:02.420
+ so that it's not necessary that you have listened
+
+04:02.420 --> 04:03.640
+ to those previous episodes.
+
+04:03.640 --> 04:07.160
+ But if you get a chance to listen to them, please do it.
+
+04:07.160 --> 04:10.560
+ I think it will help you digest the information better.
+
+04:10.560 --> 04:12.960
+ Let's just take a step back for a moment
+
+04:12.960 --> 04:15.440
+ and remind everybody what we're talking about.
+
+04:15.440 --> 04:17.840
+ We're talking about an endogenous,
+
+04:17.840 --> 04:21.840
+ meaning within us, rhythm that we call the circadian rhythm.
+
+04:21.840 --> 04:25.200
+ The circadian rhythm is a 24-hour rhythm
+
+04:25.200 --> 04:28.300
+ in all sorts of functions.
+
+04:28.300 --> 04:30.760
+ The most prominent one is a rhythm
+
+04:30.760 --> 04:34.240
+ in our feelings of wakefulness and sleepiness.
+
+04:34.240 --> 04:35.880
+ So believe it or not,
+
+04:35.880 --> 04:38.320
+ the experiment has been done throughout history,
+
+04:38.320 --> 04:39.720
+ not often, but it's been done
+
+04:39.720 --> 04:42.080
+ where people will go down into a cave
+
+04:42.080 --> 04:45.520
+ and will exist in constant darkness for some period of time.
+
+04:45.520 --> 04:46.840
+ There are also cases where people have been
+
+04:46.840 --> 04:49.340
+ in constant light for some period of time.
+
+04:49.340 --> 04:51.100
+ But because people can close their eyes,
+
+04:51.100 --> 04:53.160
+ it's actually easier to do the experiment
+
+04:53.160 --> 04:54.580
+ where you're in constant darkness
+
+04:54.580 --> 04:57.280
+ to address the question of what is the endogenous,
+
+04:57.280 --> 04:59.680
+ meaning the internal rhythm that we all have.
+
+04:59.680 --> 05:03.360
+ And it turns out we all have this rhythm of about 24 hours,
+
+05:03.360 --> 05:05.140
+ although it's not exactly 24 hours,
+
+05:05.140 --> 05:08.280
+ meaning every 24 hours,
+
+05:08.280 --> 05:11.440
+ your body temperature goes from low to high
+
+05:11.440 --> 05:13.000
+ and back down to low again.
+
+05:13.000 --> 05:15.040
+ And it takes 24 hours for that to repeat.
+
+05:15.040 --> 05:19.620
+ Not 18, not six, 24, plus or minus a couple hours.
+
+05:20.580 --> 05:23.820
+ You also have a rhythm in sleepiness and wakefulness
+
+05:23.820 --> 05:24.760
+ that correlates with that.
+
+05:24.760 --> 05:28.240
+ We tend to be sleepy as our temperature is falling,
+
+05:28.240 --> 05:33.240
+ getting lower, and we tend to be more awake or waking
+
+05:33.260 --> 05:35.800
+ when our temperature is increasing.
+
+05:35.800 --> 05:37.400
+ This is a biological fact.
+
+05:37.400 --> 05:39.880
+ It is right down to our DNA.
+
+05:39.880 --> 05:42.360
+ We actually have genes in every single one of our cells
+
+05:42.360 --> 05:46.520
+ that ensure that every cell is on this 24-hour-ish rhythm,
+
+05:46.520 --> 05:47.700
+ close to 24 hours.
+
+05:49.160 --> 05:52.120
+ We have a clock over the roof of our mouth,
+
+05:52.120 --> 05:55.240
+ a group of neurons called the suprachiasmatic nucleus.
+
+05:56.140 --> 05:58.840
+ That clock generates a 24-hour rhythm,
+
+05:58.840 --> 06:00.740
+ and that clock is entrained,
+
+06:00.740 --> 06:04.920
+ meaning it is matched to the external light-dark cycle,
+
+06:04.920 --> 06:08.100
+ which is, no surprise, 24 hours.
+
+06:08.100 --> 06:10.500
+ Spinning the Earth takes 24 hours.
+
+06:10.500 --> 06:15.500
+ So our cells, our organs, our wakefulness, our temperature,
+
+06:17.640 --> 06:21.680
+ but also our metabolism, our immune system, our mood,
+
+06:21.680 --> 06:25.560
+ all of that is tethered to the outside light-dark cycle.
+
+06:25.560 --> 06:29.000
+ And if we are living our life in a perfect way
+
+06:29.000 --> 06:32.760
+ where we wake up in the morning and we view sunlight
+
+06:32.760 --> 06:34.620
+ as it crosses the horizon,
+
+06:34.620 --> 06:37.300
+ and then by evening we catch a little sunlight,
+
+06:37.300 --> 06:40.960
+ and then at night we're in complete darkness,
+
+06:40.960 --> 06:43.200
+ we will be more or less perfectly matched
+
+06:43.200 --> 06:45.840
+ to the external or ambient light-dark cycle.
+
+06:46.860 --> 06:50.120
+ Very few of us do that because of these things
+
+06:50.120 --> 06:51.760
+ that we call artificial lights
+
+06:51.760 --> 06:55.080
+ and this other thing that we call life demands.
+
+06:55.080 --> 06:57.160
+ So today we're going to talk about
+
+06:57.160 --> 07:00.000
+ when we get pulled away from that rhythm.
+
+07:00.000 --> 07:03.260
+ Now, you may immediately be thinking,
+
+07:03.260 --> 07:05.080
+ well, I've heard there are night owls
+
+07:05.080 --> 07:06.660
+ and there are morning larks.
+
+07:06.660 --> 07:09.560
+ They're sometimes called and they're genetic polymorphisms.
+
+07:09.560 --> 07:12.000
+ That's just a fancy name for genetic variations
+
+07:12.000 --> 07:13.560
+ that make some people want to wake up early
+
+07:13.560 --> 07:14.840
+ and other people want to stay up late
+
+07:14.840 --> 07:16.440
+ and teens want to sleep in more.
+
+07:16.440 --> 07:18.340
+ Sure, that's all true.
+
+07:18.340 --> 07:20.800
+ That's all true regardless of what names we give those.
+
+07:20.800 --> 07:23.600
+ However, there's no escaping the fact
+
+07:23.600 --> 07:26.120
+ that human beings are a diurnal species.
+
+07:26.120 --> 07:28.680
+ We were designed, literally,
+
+07:28.680 --> 07:30.800
+ our cells and the circuits of our body
+
+07:30.800 --> 07:34.240
+ were constructed to be awake during the daytime
+
+07:34.240 --> 07:35.560
+ and asleep at night.
+
+07:35.560 --> 07:36.560
+ How do I know that?
+
+07:36.560 --> 07:39.120
+ Well, I wasn't consulted at the design phase,
+
+07:39.120 --> 07:42.980
+ but I'm certain of that because many studies have shown
+
+07:42.980 --> 07:47.300
+ that when we deviate too far from a diurnal schedule
+
+07:47.300 --> 07:50.700
+ and we try and become nocturnal, we can pull it off,
+
+07:50.700 --> 07:52.400
+ but serious health effects,
+
+07:52.400 --> 07:55.240
+ both mental and physical, start to arise.
+
+07:55.240 --> 07:57.020
+ I'm not going to spend much of today
+
+07:57.020 --> 07:59.180
+ talking about all the negative effects of jet lag.
+
+07:59.180 --> 08:00.920
+ I'll talk a little bit about it
+
+08:00.920 --> 08:02.600
+ or the negative effects of shift work
+
+08:02.600 --> 08:04.600
+ or trying to scare you by telling you
+
+08:04.600 --> 08:09.600
+ about the quite valid data around depression,
+
+08:09.960 --> 08:13.920
+ amnesia, dementia, all the terrible things that happen
+
+08:13.920 --> 08:15.020
+ when you're not sleeping well.
+
+08:15.020 --> 08:16.840
+ Rather, I'd like to focus on what you can do
+
+08:16.840 --> 08:18.620
+ and arm you with tools.
+
+08:18.620 --> 08:21.800
+ So let's talk about that perfect schedule for a moment
+
+08:21.800 --> 08:23.520
+ and then let's talk about jet lag
+
+08:23.520 --> 08:26.160
+ and what jet lag really represents
+
+08:26.160 --> 08:30.160
+ and how to push back on jet lag, shift your clock faster
+
+08:30.160 --> 08:33.520
+ and escape some of the severe bad things
+
+08:33.520 --> 08:34.880
+ that can happen with jet lag,
+
+08:34.880 --> 08:36.660
+ including just feeling miserable
+
+08:36.660 --> 08:38.840
+ when you're traveling for work or vacation.
+
+08:38.840 --> 08:41.000
+ So what is the perfect day?
+
+08:41.000 --> 08:42.080
+ What does that look like
+
+08:42.080 --> 08:45.280
+ from a circadian sleep wakefulness standpoint?
+
+08:45.280 --> 08:46.960
+ Well, I'm about to summarize what I've said
+
+08:46.960 --> 08:50.760
+ in the three previous podcast episodes
+
+08:50.760 --> 08:53.580
+ as well as now countless Instagram posts.
+
+08:55.160 --> 08:56.200
+ Here's the deal.
+
+08:56.200 --> 09:01.200
+ You basically want to get as much light, ideally sunlight,
+
+09:01.200 --> 09:05.040
+ but as much light into your eyes
+
+09:05.040 --> 09:07.320
+ during the period of each 24 hour cycle
+
+09:07.320 --> 09:10.780
+ when you want to be awake, when you want to be alert.
+
+09:10.780 --> 09:14.400
+ And you want to get as little light into your eyes
+
+09:15.280 --> 09:17.040
+ at the times of that 24 hour cycle
+
+09:17.040 --> 09:20.880
+ when you want to be asleep or drowsy and falling asleep.
+
+09:22.000 --> 09:23.160
+ How much is enough?
+
+09:23.160 --> 09:26.640
+ Well, you don't want to go so high with the light exposure
+
+09:26.640 --> 09:27.640
+ that you damage your eyes
+
+09:27.640 --> 09:30.040
+ because as many of you heard me say before,
+
+09:30.040 --> 09:32.440
+ the eyes are actually two pieces of your brain,
+
+09:32.440 --> 09:33.340
+ your central nervous system
+
+09:33.340 --> 09:35.080
+ that were extruded out of your skull.
+
+09:35.080 --> 09:36.900
+ And as pieces of the central nervous system,
+
+09:36.900 --> 09:40.280
+ AKA your brain, they will not regenerate.
+
+09:40.280 --> 09:42.160
+ At least right now, the technologies don't exist
+
+09:42.160 --> 09:43.600
+ to regenerate those neurons in humans.
+
+09:43.600 --> 09:45.400
+ You do not want to damage them.
+
+09:45.400 --> 09:46.780
+ So what is too bright?
+
+09:46.780 --> 09:49.360
+ Well, when it's painful to look at.
+
+09:49.360 --> 09:50.720
+ When you have to blink or close your eyes
+
+09:50.720 --> 09:51.560
+ in order to bear it.
+
+09:51.560 --> 09:54.720
+ So please don't look at very bright lights
+
+09:54.720 --> 09:58.440
+ so painful that they're likely going to damage your eyes.
+
+09:58.440 --> 10:02.480
+ However, if you get up in the morning
+
+10:02.480 --> 10:05.960
+ and it's still dark out and you want to be awake,
+
+10:05.960 --> 10:09.320
+ you would be wise to turn on artificial lights,
+
+10:09.320 --> 10:10.560
+ in particular overhead lights
+
+10:10.560 --> 10:12.080
+ for reasons I've discussed previously,
+
+10:12.080 --> 10:14.880
+ but those overhead lights will optimally trigger the neurons,
+
+10:14.880 --> 10:17.540
+ these melanopsin cells in the retina
+
+10:17.540 --> 10:20.180
+ that will activate your circadian clock.
+
+10:20.180 --> 10:23.800
+ When the sun comes out, even if there's cloud cover,
+
+10:23.800 --> 10:26.040
+ the sun does come out every day,
+
+10:26.040 --> 10:27.800
+ regardless of where you live,
+
+10:27.800 --> 10:29.440
+ unless you live in a cave.
+
+10:29.440 --> 10:30.280
+ People have said to me,
+
+10:30.280 --> 10:32.440
+ well, I live in an area where I can't really see the sun.
+
+10:32.440 --> 10:34.160
+ Well, the sun is there.
+
+10:35.120 --> 10:37.080
+ It might be hiding behind clouds,
+
+10:37.080 --> 10:39.060
+ unless it's very, very dark where you live,
+
+10:39.060 --> 10:42.000
+ like Scandinavia and the depths of winter,
+
+10:42.000 --> 10:44.220
+ which case you might want some artificial light.
+
+10:44.220 --> 10:47.000
+ Get some sunlight in your eyes when you can.
+
+10:47.000 --> 10:49.920
+ Here's the deal with sunlight and artificial light
+
+10:49.920 --> 10:51.760
+ that I have not discussed previously.
+
+10:53.360 --> 10:56.960
+ A lot of photon energy, a high amount of lux,
+
+10:56.960 --> 10:59.320
+ L-U-X, comes through even cloud cover.
+
+11:00.160 --> 11:03.440
+ A good number to shoot for, as a rule of thumb,
+
+11:03.440 --> 11:07.600
+ is to try and get exposure to at least 100,000 lux
+
+11:08.460 --> 11:12.640
+ before 9 a.m., 10 a.m. maybe,
+
+11:12.640 --> 11:14.360
+ but before 9 a.m.,
+
+11:14.360 --> 11:19.360
+ assuming you're waking up sometime between 5 and 8 a.m.
+
+11:19.480 --> 11:21.380
+ Okay, so get 100,000 lux.
+
+11:21.380 --> 11:23.120
+ Now you do not, I want to repeat,
+
+11:23.120 --> 11:25.980
+ you do not want to stare at a 200,000 lux
+
+11:25.980 --> 11:28.540
+ or a 100,000 lux light.
+
+11:28.540 --> 11:29.780
+ It's very, very bright.
+
+11:30.800 --> 11:34.000
+ The mechanism of circadian clock setting,
+
+11:34.000 --> 11:35.780
+ and this is very important,
+
+11:35.780 --> 11:37.780
+ the mechanism of circadian clock setting
+
+11:37.780 --> 11:40.240
+ involves these neurons in your eye
+
+11:40.240 --> 11:41.680
+ that send electrical signals
+
+11:41.680 --> 11:44.100
+ to this clock above the roof of your mouth,
+
+11:44.100 --> 11:47.960
+ and that system sums, meaning it adds photons.
+
+11:47.960 --> 11:49.760
+ It's a very slow system.
+
+11:49.760 --> 11:51.740
+ So let's say that I wake up
+
+11:51.740 --> 11:55.660
+ and I look at my computer screen briefly or my phone screen.
+
+11:55.660 --> 11:57.800
+ That's probably 500 to 1,000 lux.
+
+11:57.800 --> 12:00.560
+ If I were to look at that for a full minute,
+
+12:00.560 --> 12:02.800
+ I would get that photon energy
+
+12:02.800 --> 12:04.840
+ transferred into electrical energy of neurons,
+
+12:04.840 --> 12:06.920
+ and it would be communicated to my circadian clock.
+
+12:06.920 --> 12:08.920
+ However, the signal that it's morning
+
+12:08.920 --> 12:12.340
+ will not have registered with the circadian clock
+
+12:12.340 --> 12:17.000
+ unless I looked at that for 100 minutes or more.
+
+12:17.000 --> 12:17.880
+ So 100,000.
+
+12:17.880 --> 12:20.880
+ Now the problem is if you wake up at eight o'clock,
+
+12:20.880 --> 12:23.720
+ you're not going to get enough light from artificial light
+
+12:23.720 --> 12:26.000
+ before you reach what's called the circadian dead zone.
+
+12:26.000 --> 12:29.920
+ So you have this opportunity before 9 a.m., maybe 10 a.m.,
+
+12:29.920 --> 12:32.080
+ to capture enough photons,
+
+12:32.080 --> 12:34.720
+ and you have to do it with your eyes.
+
+12:34.720 --> 12:36.400
+ I've discussed why that's important
+
+12:36.400 --> 12:38.000
+ in previous episodes of the podcast,
+
+12:38.000 --> 12:39.320
+ but you have to do it with your eyes.
+
+12:39.320 --> 12:41.520
+ There is no extraocular photoreception.
+
+12:41.520 --> 12:44.240
+ This is not about vitamin D in your skin.
+
+12:44.240 --> 12:46.400
+ This is about setting your circadian clock,
+
+12:46.400 --> 12:48.760
+ which is paramount for mental and physical health.
+
+12:48.760 --> 12:50.200
+ So here we're talking about trying to get that
+
+12:50.200 --> 12:52.700
+ at least 100,000 photons, but not all at once,
+
+12:52.700 --> 12:56.300
+ but you got to get them before 9 a.m. ish, maybe 10 a.m.
+
+12:56.300 --> 12:57.140
+ So what do you do?
+
+12:57.140 --> 12:58.260
+ You go outside.
+
+12:58.260 --> 13:01.200
+ If you want to get nerdy about this, quantitative,
+
+13:01.200 --> 13:03.780
+ you could download a free app like Light Meter
+
+13:03.780 --> 13:06.260
+ and take a look around your house with Light Meter,
+
+13:06.260 --> 13:08.840
+ and you'll notice that even bright overhead lights
+
+13:08.840 --> 13:13.240
+ are only emitting about 4,000 or 5,000 lux.
+
+13:13.240 --> 13:15.360
+ It's going to take a long while of looking at those lights
+
+13:15.360 --> 13:17.800
+ with eyes open in order to set your circadian clock
+
+13:17.800 --> 13:21.000
+ and tell your brain and body that it's morning.
+
+13:21.000 --> 13:23.500
+ Going outside, even on a cloudy day,
+
+13:24.380 --> 13:26.480
+ could be 7,000, 10,000 lux.
+
+13:26.480 --> 13:29.040
+ It's really remarkable how bright it is,
+
+13:29.040 --> 13:30.960
+ meaning how much photon energy is coming through.
+
+13:30.960 --> 13:34.840
+ So try and get 100,000 lux before that 9 a.m.
+
+13:34.840 --> 13:36.640
+ Now, if you can't do that because you live
+
+13:36.640 --> 13:40.380
+ in an area of the world where it's just not bright enough,
+
+13:40.380 --> 13:43.860
+ some people have sent me pictures from Northern England,
+
+13:43.860 --> 13:45.940
+ it's just not bright enough in winter,
+
+13:45.940 --> 13:49.840
+ then sure, you can resort to using artificial lights
+
+13:49.840 --> 13:52.360
+ in order to get enough photons.
+
+13:52.360 --> 13:55.800
+ And I'm putting out this 100,000 lux number as a target
+
+13:55.800 --> 13:57.620
+ to get each day before 9 a.m.
+
+13:59.120 --> 14:01.400
+ You can, in theory, get it all from artificial lights,
+
+14:01.400 --> 14:03.460
+ but there are some special qualities about sunlight
+
+14:03.460 --> 14:05.640
+ that make sunlight the better stimulus.
+
+14:05.640 --> 14:08.700
+ First of all, it's free if it's available outside.
+
+14:09.720 --> 14:12.920
+ There is a number of different, there are, excuse me,
+
+14:12.920 --> 14:14.120
+ a number of different technologies,
+
+14:14.120 --> 14:16.240
+ kind of like this one, like a light pad,
+
+14:16.240 --> 14:18.840
+ that this one says it's 930 lux.
+
+14:18.840 --> 14:19.960
+ I'm covering this up
+
+14:19.960 --> 14:21.820
+ because I'm not trying to promote any specific products.
+
+14:21.820 --> 14:24.760
+ I actually bought this just with my own money on Amazon.
+
+14:24.760 --> 14:26.000
+ They're not a sponsor.
+
+14:26.000 --> 14:27.520
+ And it lets you toggle the brightness,
+
+14:27.520 --> 14:30.400
+ I think, by holding this on, holding down this button,
+
+14:30.400 --> 14:31.760
+ you can make it dimmer or brighter.
+
+14:31.760 --> 14:32.960
+ This is about 1,000 lux.
+
+14:32.960 --> 14:35.200
+ It seems really bright, but a cloudy day outside
+
+14:35.200 --> 14:38.060
+ will have five times more photon energy coming through.
+
+14:39.120 --> 14:41.840
+ So some people set these lights or ring lights
+
+14:41.840 --> 14:43.480
+ that they use for selfies and that kind of thing
+
+14:43.480 --> 14:46.660
+ near their coffee or workstation first thing in the morning,
+
+14:46.660 --> 14:48.880
+ but you really want to get sunlight, okay?
+
+14:48.880 --> 14:50.800
+ So those things are kind of nice because they'll travel
+
+14:50.800 --> 14:52.800
+ and we're going to talk about jet lag,
+
+14:52.800 --> 14:55.280
+ but I can't emphasize this enough.
+
+14:55.280 --> 14:57.440
+ That light has to be captured and summed
+
+14:57.440 --> 14:59.320
+ before you enter the circadian dead zone,
+
+14:59.320 --> 15:00.880
+ which is the middle of the day.
+
+15:01.920 --> 15:05.460
+ This is, again, trying to achieve kind of perfect schedule.
+
+15:05.460 --> 15:09.100
+ Then I've recommended, based on scientific literature,
+
+15:09.100 --> 15:12.120
+ that you look at sunlight sometime
+
+15:12.120 --> 15:13.940
+ around the time when the sun is setting.
+
+15:13.940 --> 15:15.280
+ And the reason for that, of course,
+
+15:15.280 --> 15:19.180
+ is because it adjusts down the sensitivity of your eyes,
+
+15:19.180 --> 15:21.700
+ because here's the diabolical thing.
+
+15:21.700 --> 15:24.860
+ While we need a lot of photon energy early in the day
+
+15:24.860 --> 15:27.020
+ to wake up our system and set our circadian clock
+
+15:27.020 --> 15:28.600
+ and prepare us for a good night's sleep
+
+15:28.600 --> 15:30.660
+ 14 to 16 hours later,
+
+15:30.660 --> 15:33.000
+ it takes very little photon energy
+
+15:33.000 --> 15:37.080
+ to reset and shift our clock after 8 p.m.
+
+15:37.080 --> 15:39.920
+ And that's why you want to, as much as you safely can,
+
+15:39.920 --> 15:44.520
+ avoid bright light and even not so bright light
+
+15:44.520 --> 15:47.320
+ between the hours of 10 or 11 p.m. and 4 a.m.
+
+15:48.400 --> 15:51.120
+ A number of people have asked me some questions about this.
+
+15:51.120 --> 15:53.120
+ In the last episode, I went into red lights.
+
+15:53.120 --> 15:55.700
+ I would have discussed blue blockers, all that kind of stuff
+
+15:55.700 --> 15:57.280
+ so I'm not going to repeat all that.
+
+15:57.280 --> 15:59.380
+ But here's the thing.
+
+15:59.380 --> 16:01.400
+ If you see afternoon light,
+
+16:01.400 --> 16:04.520
+ you're going to adjust down the sensitivity of your eyes
+
+16:04.520 --> 16:07.960
+ so that you have a little bit more wiggle room,
+
+16:07.960 --> 16:11.780
+ a little bit more leeway to view lights from screens
+
+16:11.780 --> 16:14.280
+ and overhead lights even late at night
+
+16:14.280 --> 16:16.760
+ without disrupting your circadian clock.
+
+16:16.760 --> 16:19.840
+ But it is a kind of a double-edged sword
+
+16:19.840 --> 16:23.000
+ where you need a lot of light early in the day
+
+16:23.000 --> 16:26.540
+ and you need to avoid bright lights later in the day.
+
+16:26.540 --> 16:27.700
+ I've mentioned studies on here.
+
+16:27.700 --> 16:30.120
+ A number of you have asked about getting the references.
+
+16:30.120 --> 16:32.580
+ We are in the process of trying to get a webpage going
+
+16:32.580 --> 16:33.420
+ with full links.
+
+16:33.420 --> 16:35.880
+ There's some copyright issues that we have to deal with.
+
+16:35.880 --> 16:38.500
+ But wherever possible, I'll try and reference these studies.
+
+16:38.500 --> 16:40.220
+ And when people ask, I'll generally put them
+
+16:40.220 --> 16:45.220
+ in the response to their comments on YouTube or Instagram.
+
+16:45.640 --> 16:47.580
+ There have been two studies done
+
+16:47.580 --> 16:48.720
+ from the University of Colorado,
+
+16:48.720 --> 16:50.520
+ both published in Current Biology.
+
+16:50.520 --> 16:52.000
+ You can easily find these online
+
+16:52.000 --> 16:56.120
+ by just Googling the words Current Biology, Camping,
+
+16:56.120 --> 16:59.200
+ and Reset Circadian Clocks that have shown
+
+16:59.200 --> 17:02.800
+ that two days of waking up with the sun
+
+17:02.800 --> 17:04.440
+ and avoiding light at night,
+
+17:04.440 --> 17:06.360
+ they actually took graduate students camping,
+
+17:06.360 --> 17:08.080
+ really cool experiment to be a part of,
+
+17:08.080 --> 17:10.320
+ reset the melatonin and cortisol rhythms
+
+17:10.320 --> 17:14.000
+ for these people that had otherwise drifted quite far
+
+17:14.000 --> 17:15.360
+ from their natural rhythms.
+
+17:16.520 --> 17:19.220
+ There are other things that you can do to shift your clock
+
+17:19.220 --> 17:20.440
+ and to reinforce your clock,
+
+17:20.440 --> 17:22.160
+ like exercising more or less the same time,
+
+17:22.160 --> 17:24.200
+ eating more or less the same time, et cetera.
+
+17:24.200 --> 17:25.640
+ That's not what today's episode is about.
+
+17:25.640 --> 17:27.000
+ So I just described perfect schedule,
+
+17:27.000 --> 17:30.420
+ get at least 100,000 lux of light exposure to the eyes,
+
+17:30.420 --> 17:33.480
+ not all at once, but summing across the morning.
+
+17:33.480 --> 17:35.680
+ Again, you know when it's too much
+
+17:35.680 --> 17:37.240
+ because it's painful to look at.
+
+17:37.240 --> 17:40.080
+ So that's obviously something to avoid.
+
+17:40.080 --> 17:42.040
+ But then once the middle of the day,
+
+17:42.040 --> 17:43.500
+ let's say you're waking up at 10 or 11,
+
+17:43.500 --> 17:45.240
+ you go outside, the sun's overhead, forget it.
+
+17:45.240 --> 17:46.760
+ You're not going to shift your clock.
+
+17:46.760 --> 17:48.160
+ You're just not.
+
+17:48.160 --> 17:49.400
+ It doesn't work that way.
+
+17:50.720 --> 17:53.320
+ In the evening, you see the evening light
+
+17:53.320 --> 17:55.680
+ and you want to get that light
+
+17:55.680 --> 17:57.640
+ to adjust down your retinal sensitivity
+
+17:57.640 --> 17:59.600
+ to afford you a bit of a buffer
+
+17:59.600 --> 18:00.800
+ so that late at night,
+
+18:00.800 --> 18:01.920
+ if you happen to look at screens
+
+18:01.920 --> 18:03.180
+ or go to the bathroom in the middle of the night,
+
+18:03.180 --> 18:05.160
+ it's not going to shift your clock
+
+18:05.160 --> 18:10.160
+ because it takes probably only about 1000 to 1500 lux
+
+18:10.640 --> 18:12.120
+ of light energy to shift your clock
+
+18:12.120 --> 18:13.080
+ in the middle of the night.
+
+18:13.080 --> 18:14.560
+ So let's talk about shifting clocks
+
+18:14.560 --> 18:16.500
+ because for the jet lag person,
+
+18:17.800 --> 18:19.780
+ this ability to shift the clock
+
+18:19.780 --> 18:22.240
+ with light temperature, exercise and food
+
+18:22.240 --> 18:26.980
+ is vitally important for getting onto the new local schedule
+
+18:26.980 --> 18:28.600
+ and there's so much out there about jet lag.
+
+18:28.600 --> 18:29.880
+ Today, I'm going to dial it down
+
+18:29.880 --> 18:31.960
+ to one very specific parameter
+
+18:31.960 --> 18:34.260
+ that all of you can figure out
+
+18:34.260 --> 18:37.000
+ without any technology or devices
+
+18:37.000 --> 18:42.000
+ and can apply for when you travel for work or pleasure
+
+18:42.380 --> 18:43.840
+ or anytime you're jet lagged
+
+18:43.840 --> 18:46.420
+ and I want to absolutely emphasize
+
+18:46.420 --> 18:48.820
+ that you don't have to travel to get jet lagged.
+
+18:48.820 --> 18:50.760
+ Many of you are jet lagged.
+
+18:50.760 --> 18:52.360
+ You're jet lagged because you're looking at your phone
+
+18:52.360 --> 18:53.320
+ in the middle of the night,
+
+18:53.320 --> 18:54.480
+ you're jet lagged because you're waking up
+
+18:54.480 --> 18:55.360
+ at different times a day,
+
+18:55.360 --> 18:57.840
+ you're jet lagged because your exercise
+
+18:57.840 --> 19:02.080
+ is on a chaotic regime some days at this time,
+
+19:02.080 --> 19:03.640
+ some days at that time
+
+19:03.640 --> 19:05.740
+ and if that works for you, great.
+
+19:05.740 --> 19:06.900
+ I want to be really clear
+
+19:06.900 --> 19:08.520
+ that a number of people always say,
+
+19:08.520 --> 19:12.000
+ well, I know so-and-so that only needed four hours of sleep
+
+19:12.000 --> 19:14.200
+ and or they're just fine,
+
+19:14.200 --> 19:16.040
+ they travel to Europe and it's just fine.
+
+19:16.040 --> 19:17.600
+ There's a lot of individual variability
+
+19:17.600 --> 19:18.880
+ and we're going to talk about the origins
+
+19:18.880 --> 19:20.280
+ of some of that variability.
+
+19:20.280 --> 19:23.000
+ I mean, I know people that can eat anything
+
+19:23.000 --> 19:25.960
+ and somehow seem to maintain great lipid profiles
+
+19:25.960 --> 19:30.960
+ and body weight and fitness ability
+
+19:30.960 --> 19:33.880
+ and I know some people that they eat one cracker
+
+19:33.880 --> 19:38.080
+ and they sort of dissolve into a puddle of kind of tears
+
+19:38.080 --> 19:39.960
+ because they think that that's going to throw them off
+
+19:39.960 --> 19:41.800
+ and then maybe it does, I don't know.
+
+19:41.800 --> 19:44.740
+ There's a tremendous amount of variability out there.
+
+19:44.740 --> 19:49.740
+ So this is really about optimal and what's possible
+
+19:50.480 --> 19:51.400
+ and you have to ask,
+
+19:51.400 --> 19:53.120
+ I can just say from personal experience,
+
+19:53.120 --> 19:56.120
+ I suffer terribly from jet lag
+
+19:56.120 --> 19:58.880
+ traveling in certain directions but not others.
+
+19:58.880 --> 20:00.720
+ Some people don't have trouble with jet lag.
+
+20:00.720 --> 20:03.140
+ Many people will travel to a new location,
+
+20:03.140 --> 20:05.800
+ they feel great for the first day and night
+
+20:05.800 --> 20:08.120
+ and then they crash and they have trouble sleeping
+
+20:08.120 --> 20:10.420
+ or they travel back and they have a terrible time
+
+20:10.420 --> 20:12.320
+ getting back onto a normal schedule
+
+20:12.320 --> 20:14.720
+ and some of this varies with age
+
+20:14.720 --> 20:16.880
+ and some of it varies with genetics
+
+20:16.880 --> 20:20.480
+ and there is no simple pill or anything that you can take
+
+20:20.480 --> 20:23.160
+ to just get rid of jet lag, it doesn't work that way.
+
+20:23.160 --> 20:26.080
+ If it worked that way, I would tell you
+
+20:26.080 --> 20:28.580
+ but there are some simple things that you can do.
+
+20:28.580 --> 20:30.920
+ I'm going to arm you with the knowledge of what jet lag is
+
+20:30.920 --> 20:34.240
+ and how it works and contrary to what many people out there
+
+20:34.240 --> 20:38.080
+ say and believe, I know that understanding mechanism
+
+20:38.080 --> 20:39.940
+ affords you more flexibility.
+
+20:41.040 --> 20:43.360
+ Why understand mechanism as just opposed to me
+
+20:43.360 --> 20:45.760
+ just writing up a PDF and giving you a list of things to do?
+
+20:45.760 --> 20:48.800
+ Well, what happens when you can't do those things
+
+20:48.800 --> 20:50.240
+ in exactly the way they're written down?
+
+20:50.240 --> 20:52.860
+ When you understand mechanism,
+
+20:52.860 --> 20:55.920
+ you understand how to control the machine
+
+20:55.920 --> 20:58.320
+ that is your biological system, your nervous system.
+
+20:58.320 --> 21:00.280
+ So a little bit of understanding about mechanism
+
+21:00.280 --> 21:02.840
+ goes a really long way.
+
+21:02.840 --> 21:03.680
+ So that's where we're headed.
+
+21:03.680 --> 21:05.880
+ Let's talk about what jet lag is.
+
+21:05.880 --> 21:08.440
+ Okay, well, I promised that I wouldn't get too dark
+
+21:08.440 --> 21:11.120
+ with all the terrible things that can happen with jet lag
+
+21:11.120 --> 21:12.840
+ but I'm about to get dark.
+
+21:14.000 --> 21:17.080
+ There are quality peer reviewed papers
+
+21:17.080 --> 21:20.700
+ showing that jet lag will shorten your life.
+
+21:20.700 --> 21:22.460
+ It will kill you earlier.
+
+21:23.600 --> 21:25.400
+ I guess it means you'll die earlier.
+
+21:25.400 --> 21:27.080
+ It doesn't actually kill you necessarily
+
+21:27.080 --> 21:30.840
+ although there are many cases where tourists
+
+21:30.840 --> 21:32.520
+ end up stepping in front of buses,
+
+21:32.520 --> 21:35.040
+ especially in countries where the cars and buses
+
+21:35.040 --> 21:36.520
+ drive on the opposite side of the street
+
+21:36.520 --> 21:38.080
+ that they're used to,
+
+21:38.080 --> 21:40.000
+ who are jet lagged and lose their life that way.
+
+21:40.000 --> 21:41.680
+ Jet lag is a serious thing.
+
+21:41.680 --> 21:43.560
+ Sure, we had a family story about this.
+
+21:43.560 --> 21:45.040
+ When I was growing up,
+
+21:45.040 --> 21:47.580
+ I had a family member travel overseas for work
+
+21:47.580 --> 21:49.260
+ and take a sleeping pill.
+
+21:49.260 --> 21:50.960
+ I won't name the sleeping pill,
+
+21:50.960 --> 21:53.200
+ though at the end I'm going to talk about sleeping pills
+
+21:53.200 --> 21:57.120
+ and had a case of total amnesia for a week.
+
+21:57.120 --> 21:59.420
+ That's not entirely uncommon.
+
+21:59.420 --> 22:01.960
+ If you've ever been really jet lagged and fallen asleep,
+
+22:01.960 --> 22:03.780
+ doesn't even have to be in the middle of the day,
+
+22:03.780 --> 22:06.480
+ woken up, you might not know where you are.
+
+22:06.480 --> 22:08.480
+ And that's because time and space are really linked
+
+22:08.480 --> 22:10.840
+ and the brain wasn't designed to be transported
+
+22:10.840 --> 22:13.520
+ four, five, six hours into a new time zone.
+
+22:13.520 --> 22:15.160
+ It just wasn't.
+
+22:15.160 --> 22:17.480
+ Our brain and the biological mechanisms
+
+22:17.480 --> 22:19.580
+ that govern circadian timing
+
+22:19.580 --> 22:22.040
+ were designed to be shifted by a couple hours,
+
+22:22.040 --> 22:25.240
+ not necessarily six or nine or 12 hours.
+
+22:25.240 --> 22:26.800
+ So you can really mess yourself up.
+
+22:26.800 --> 22:27.720
+ I've had that experience.
+
+22:27.720 --> 22:30.440
+ I usually experience it as fluctuations in mood.
+
+22:30.440 --> 22:33.120
+ I flew 12 hours out of phase
+
+22:33.120 --> 22:36.060
+ to Abu Dhabi once to give a talk at NYU Abu Dhabi.
+
+22:36.060 --> 22:37.920
+ And it was a mess.
+
+22:37.920 --> 22:40.820
+ I actually was getting vertigo.
+
+22:41.720 --> 22:44.680
+ I wasn't hallucinating, but I was really out of it.
+
+22:44.680 --> 22:47.320
+ And my mood was just all over the place.
+
+22:47.320 --> 22:49.080
+ It was very bizarre.
+
+22:49.080 --> 22:51.640
+ Jet lag, even if you don't experience it
+
+22:51.640 --> 22:56.080
+ as mood shifts or amnesia, it can shorten your life.
+
+22:56.080 --> 22:58.160
+ Now, here's what's interesting.
+
+22:58.160 --> 23:03.160
+ Traveling westward on the globe is always easier
+
+23:04.540 --> 23:08.420
+ than traveling eastward, okay?
+
+23:08.420 --> 23:13.420
+ It's interesting because the effects of jet lag on longevity
+
+23:14.200 --> 23:17.040
+ have shown that traveling east
+
+23:17.040 --> 23:22.040
+ takes more years off your life than traveling west.
+
+23:22.220 --> 23:25.660
+ Now, of course, traveling 30 minutes into a new time zone
+
+23:25.660 --> 23:28.400
+ or three hours, just one time zone over,
+
+23:28.400 --> 23:30.360
+ or two times zone over, rather,
+
+23:30.360 --> 23:34.240
+ is far less detrimental to your biology and psychology
+
+23:34.240 --> 23:37.600
+ than a eight-hour shift or a nine-hour shift.
+
+23:37.600 --> 23:39.280
+ Now, here's what's interesting.
+
+23:40.520 --> 23:44.000
+ When we think about the effects of jet lag on longevity
+
+23:44.000 --> 23:47.220
+ or this idea that it can shorten our lives,
+
+23:49.080 --> 23:51.000
+ we have to ask ourselves, why?
+
+23:51.000 --> 23:52.060
+ Why is that?
+
+23:52.060 --> 23:54.360
+ And it turns out there's a pretty simple explanation
+
+23:54.360 --> 23:55.800
+ for this.
+
+23:55.800 --> 23:58.000
+ We've talked before about the autonomic nervous system,
+
+23:58.000 --> 24:01.200
+ this set of neurons in our spinal cord and body and brain
+
+24:01.200 --> 24:03.700
+ that regulate our wakefulness and our sleepiness.
+
+24:04.680 --> 24:08.420
+ Turns out that human beings, and probably most species,
+
+24:08.420 --> 24:12.080
+ are better able to activate and stay alert
+
+24:12.080 --> 24:15.080
+ than they are to shut down their nervous system
+
+24:15.080 --> 24:16.460
+ and go to sleep on demand.
+
+24:16.460 --> 24:18.560
+ So if you really have to push
+
+24:18.560 --> 24:20.300
+ and you really have to stay awake, you can do it.
+
+24:20.300 --> 24:22.020
+ You can stay up later.
+
+24:22.020 --> 24:24.720
+ But falling asleep earlier is harder.
+
+24:24.720 --> 24:26.320
+ And that's why traveling east
+
+24:26.320 --> 24:29.520
+ has a number of different features associated with it
+
+24:29.520 --> 24:31.640
+ that, because you're traveling east,
+
+24:31.640 --> 24:34.400
+ you're trying to go to bed earlier.
+
+24:34.400 --> 24:37.320
+ As a Californian, if I go to New York City,
+
+24:37.320 --> 24:38.880
+ I've got to get to bed three hours early
+
+24:38.880 --> 24:40.080
+ and wake up three hours early,
+
+24:40.080 --> 24:42.540
+ much harder than coming back to California
+
+24:42.540 --> 24:44.480
+ and just staying up a few more hours.
+
+24:44.480 --> 24:49.480
+ And this probably has roots in evolutionary adaptation
+
+24:49.560 --> 24:51.720
+ where, under conditions where we need to suddenly
+
+24:51.720 --> 24:55.240
+ gather up and go or forage for food or fight
+
+24:55.240 --> 24:57.600
+ or do any number of different things
+
+24:57.600 --> 24:58.800
+ that we can push ourselves
+
+24:58.800 --> 25:00.560
+ through the release of adrenaline and epinephrine
+
+25:00.560 --> 25:01.440
+ to stay awake,
+
+25:01.440 --> 25:04.640
+ whereas being able to slow down and deliberately fall asleep
+
+25:04.640 --> 25:06.640
+ is actually much harder to do.
+
+25:06.640 --> 25:08.860
+ So there's an asymmetry to our autonomic nervous system
+
+25:08.860 --> 25:12.280
+ that plays out in the asymmetry of jet lag.
+
+25:13.360 --> 25:15.360
+ So if you want to read up on this,
+
+25:15.360 --> 25:17.520
+ because people have asked me about papers,
+
+25:17.520 --> 25:18.360
+ you can look.
+
+25:18.360 --> 25:21.640
+ There's a paper published by Davidson and colleagues, 2006,
+
+25:21.640 --> 25:24.400
+ in Current Biology that talks about the differences
+
+25:24.400 --> 25:29.400
+ in lifespan for frequent eastward versus westward
+
+25:29.920 --> 25:34.080
+ versus no travel and longevity and et cetera,
+
+25:34.080 --> 25:37.460
+ a number of different biological markers of longevity.
+
+25:37.460 --> 25:40.960
+ So going east is harder because going to sleep earlier
+
+25:40.960 --> 25:44.160
+ is harder if you're trying to do that on demand.
+
+25:44.160 --> 25:45.780
+ Many people have turned to melatonin
+
+25:45.780 --> 25:48.120
+ as a way to try and induce sleepiness.
+
+25:48.120 --> 25:50.140
+ I'm going to talk about melatonin at the end.
+
+25:50.140 --> 25:51.980
+ I've mentioned on previous podcasts,
+
+25:51.980 --> 25:54.000
+ a number of you have asked for the evidence
+
+25:54.000 --> 25:57.920
+ that melatonin is potentially detrimental
+
+25:57.920 --> 25:59.500
+ to some hormone systems.
+
+25:59.500 --> 26:02.520
+ Melatonin is a hormone, and I'll discuss that at the end,
+
+26:02.520 --> 26:04.100
+ in particular, the role of melatonin
+
+26:04.100 --> 26:06.200
+ in suppressing a hormone pathway
+
+26:06.200 --> 26:08.080
+ that involves luteinizing hormone,
+
+26:08.080 --> 26:11.640
+ testosterone in men and estrogen in females,
+
+26:11.640 --> 26:13.140
+ as well as a really interesting peptide
+
+26:13.140 --> 26:15.680
+ called kisspeptin, that's a cool name.
+
+26:15.680 --> 26:19.040
+ All right, well, let's think about travel and what happens.
+
+26:19.040 --> 26:22.600
+ Let's say you're not going eastward or westward,
+
+26:22.600 --> 26:24.680
+ but you're going north or south.
+
+26:24.680 --> 26:26.200
+ So if you go from, for instance,
+
+26:26.200 --> 26:28.680
+ Washington, D.C. to Santiago, Chile,
+
+26:29.640 --> 26:34.640
+ or you go from Tel Aviv, Israel to Cape Town, South Africa,
+
+26:34.640 --> 26:38.000
+ you're just going north and south, right?
+
+26:38.000 --> 26:40.360
+ And not, you know, either direction.
+
+26:40.360 --> 26:42.800
+ You're not really moving into a different time zone.
+
+26:42.800 --> 26:43.780
+ You're not shifting.
+
+26:43.780 --> 26:47.000
+ So you will experience travel fatigue.
+
+26:47.000 --> 26:48.920
+ And it turns out that jet lag has two elements,
+
+26:48.920 --> 26:52.960
+ travel fatigue and time zone jet lag.
+
+26:52.960 --> 26:57.640
+ Time zone jet lag is simply the inability
+
+26:57.640 --> 27:01.160
+ of local sunlight and local darkness
+
+27:01.160 --> 27:04.800
+ to match to your internal rhythm, this endogenous rhythm
+
+27:04.800 --> 27:06.340
+ that you have.
+
+27:06.340 --> 27:09.300
+ So before we get too complicated
+
+27:09.300 --> 27:11.780
+ and too down in the weeds about this,
+
+27:11.780 --> 27:14.080
+ I want to just throw out a couple of important things.
+
+27:14.080 --> 27:15.780
+ First of all, I mentioned this earlier,
+
+27:15.780 --> 27:17.960
+ but some people suffer from jet lag a lot.
+
+27:17.960 --> 27:20.000
+ Other people, not so much.
+
+27:20.000 --> 27:24.240
+ Most people experience worse jet lag as they get older.
+
+27:24.240 --> 27:26.880
+ There are reasons for that because early in life,
+
+27:26.880 --> 27:31.360
+ patterns of melatonin release are very stable and flat
+
+27:31.360 --> 27:33.400
+ and very high actually in children.
+
+27:33.400 --> 27:35.960
+ It's one of the reasons why they don't undergo puberty.
+
+27:35.960 --> 27:37.640
+ Then it becomes cyclic during puberty,
+
+27:37.640 --> 27:40.560
+ meaning it comes on once every 24 hours
+
+27:40.560 --> 27:42.040
+ and turns off once every 24 hours.
+
+27:42.040 --> 27:44.200
+ It's cycles, cyclic.
+
+27:44.200 --> 27:47.500
+ And then as we get older, the cycles get more disrupted
+
+27:47.500 --> 27:50.340
+ and we become more vulnerable to even small changes
+
+27:50.340 --> 27:53.600
+ in schedule, et cetera, meal times, right?
+
+27:53.600 --> 27:57.440
+ So jet lag gets worse as we age.
+
+27:58.600 --> 28:01.460
+ In addition, there are other things that happen with age
+
+28:01.460 --> 28:04.780
+ that people start doing less exercise,
+
+28:04.780 --> 28:07.280
+ their digestion can get worse, et cetera.
+
+28:07.280 --> 28:10.520
+ So some of the effects of age might not be direct effects
+
+28:10.520 --> 28:12.560
+ of getting older, but some of the things
+
+28:12.560 --> 28:14.280
+ that are correlated with being older,
+
+28:14.280 --> 28:17.000
+ like people who are willing to have a regular exercise
+
+28:17.000 --> 28:18.780
+ regime can use that exercise regime
+
+28:18.780 --> 28:20.640
+ to shift their circadian clock.
+
+28:20.640 --> 28:24.360
+ And I have a good friend, his father's in his 80s.
+
+28:24.360 --> 28:29.360
+ He's still pushing out 25, 30 pushups each morning.
+
+28:29.420 --> 28:31.600
+ He's on the Peloton or whatever it is,
+
+28:31.600 --> 28:32.440
+ doing a lot of cycling.
+
+28:32.440 --> 28:35.080
+ So some 80 year olds are doing that, many are not.
+
+28:35.080 --> 28:37.240
+ And many 30 year olds are not.
+
+28:37.240 --> 28:40.320
+ But if you have a regular exercise program,
+
+28:40.320 --> 28:44.120
+ that's going to make it easier to shift your circadian clock
+
+28:44.120 --> 28:45.900
+ for sake of jet lag.
+
+28:45.900 --> 28:47.780
+ And it's actually a knob you can turn
+
+28:47.780 --> 28:51.200
+ and you can leverage for shifting your clock.
+
+28:51.200 --> 28:52.360
+ Before we go any further,
+
+28:52.360 --> 28:57.360
+ I want to make changing your internal rhythm really easy,
+
+28:57.920 --> 29:00.120
+ or at least as easy and as simple
+
+29:00.120 --> 29:02.960
+ as one could possibly make it, I believe.
+
+29:02.960 --> 29:05.320
+ What I want to talk about is perhaps one
+
+29:05.320 --> 29:07.680
+ of the most important things to know about your body
+
+29:07.680 --> 29:10.920
+ and brain, which is called your temperature minimum.
+
+29:10.920 --> 29:12.860
+ Most of you know your approximate weight.
+
+29:12.860 --> 29:15.140
+ Some of you even know your blood pressure.
+
+29:15.140 --> 29:18.520
+ Some of you might even know your body mass index.
+
+29:18.520 --> 29:20.620
+ Some of you might know other things about your biology
+
+29:20.620 --> 29:22.340
+ that have fancy names,
+
+29:22.340 --> 29:24.940
+ but everyone should know their temperature minimum.
+
+29:26.120 --> 29:28.960
+ Your temperature minimum doesn't require a thermometer
+
+29:28.960 --> 29:31.360
+ to measure, although you could measure it.
+
+29:31.360 --> 29:33.840
+ Your temperature minimum is the point
+
+29:33.840 --> 29:37.500
+ in every 24 hour cycle when your temperature is lowest.
+
+29:38.880 --> 29:41.960
+ Now, how do you measure that without a thermometer?
+
+29:41.960 --> 29:45.220
+ It tends to fall 90 minutes to two hours before
+
+29:45.220 --> 29:47.000
+ your average waking time.
+
+29:47.000 --> 29:47.840
+ So I want to repeat that.
+
+29:47.840 --> 29:51.300
+ Your temperature minimum tends to fall 90 minutes
+
+29:51.300 --> 29:54.020
+ to two hours before your average waking time.
+
+29:54.920 --> 29:56.320
+ So let's say you're not traveling
+
+29:56.320 --> 29:59.940
+ and your typical wake up time is 5.30 AM.
+
+29:59.940 --> 30:04.920
+ Your temperature minimum is very likely 3.30 AM or 4.00 AM.
+
+30:04.920 --> 30:07.740
+ If you want, if any of you want to,
+
+30:07.740 --> 30:09.260
+ you can measure your temperature minimum.
+
+30:09.260 --> 30:10.160
+ You can get a thermometer
+
+30:10.160 --> 30:11.900
+ and you can measure your temperature every couple hours
+
+30:11.900 --> 30:14.720
+ for 24 hours and you can find your temperature minimum.
+
+30:14.720 --> 30:16.960
+ What you're going to find is that you have a low point,
+
+30:16.960 --> 30:18.240
+ the temperature minimum,
+
+30:18.240 --> 30:19.880
+ and then your temperature will start to rise.
+
+30:19.880 --> 30:22.660
+ You'll wake up about two hours later.
+
+30:22.660 --> 30:24.500
+ Then your temperature will continue to rise
+
+30:24.500 --> 30:25.340
+ into the afternoon.
+
+30:25.340 --> 30:27.480
+ It will peak, maybe a little trough.
+
+30:27.480 --> 30:28.800
+ Sometimes that happens.
+
+30:28.800 --> 30:33.180
+ And then it'll start declining slowly
+
+30:33.180 --> 30:34.480
+ as you approach nighttime.
+
+30:35.580 --> 30:36.960
+ There are things that will disrupt
+
+30:36.960 --> 30:38.280
+ that temperature pattern.
+
+30:38.280 --> 30:42.840
+ Saunas, cold baths, intense exercise, et cetera.
+
+30:42.840 --> 30:44.760
+ Meals tend to have a thermogenic effect
+
+30:44.760 --> 30:47.000
+ that increases temperature slightly, little blips,
+
+30:47.000 --> 30:48.260
+ but the overall cycle,
+
+30:48.260 --> 30:52.040
+ 24 hour cycle of temperature has this pattern.
+
+30:52.040 --> 30:54.240
+ And last time I talked about the seminal work
+
+30:54.240 --> 30:56.540
+ of Joe Takahashi and others who have shown
+
+30:56.540 --> 30:58.880
+ that temperature actually is the signal
+
+30:58.880 --> 31:01.840
+ by which this clock above the roof of your mouth
+
+31:01.840 --> 31:05.380
+ in trains or collectively pushes all the cells
+
+31:05.380 --> 31:08.720
+ and tissues of our body to be on the same schedule.
+
+31:08.720 --> 31:10.560
+ Temperature is the effector.
+
+31:10.560 --> 31:13.600
+ And once you hear that, there should be an immediate,
+
+31:13.600 --> 31:15.800
+ oh, of course, because how else would you get
+
+31:16.920 --> 31:19.220
+ all these different diverse cell types
+
+31:19.220 --> 31:21.000
+ to follow one pattern, right?
+
+31:21.000 --> 31:23.200
+ A pancreatic cell does something very different
+
+31:23.200 --> 31:27.940
+ than a spleen cell or a neuron, right?
+
+31:27.940 --> 31:30.300
+ They're all doing different things at different rates.
+
+31:30.300 --> 31:31.840
+ So the temperature signal can go out
+
+31:31.840 --> 31:33.340
+ and then each one of those can interpret
+
+31:33.340 --> 31:35.360
+ the temperature signal as one unified
+
+31:35.360 --> 31:38.800
+ and consistent theme of their environment.
+
+31:38.800 --> 31:42.360
+ So temperatures vary from person to person.
+
+31:42.360 --> 31:43.960
+ Some people are 98.6.
+
+31:43.960 --> 31:45.480
+ Some people run a little colder, et cetera,
+
+31:45.480 --> 31:47.760
+ but you have a low point and you have a high point.
+
+31:47.760 --> 31:49.120
+ Know your temperature minimum.
+
+31:49.120 --> 31:51.740
+ How are you going to figure out this temperature minimum?
+
+31:51.740 --> 31:54.280
+ The temperature minimum can be determined
+
+31:54.280 --> 31:58.620
+ by taking the last three to five wake up times.
+
+31:58.620 --> 32:03.620
+ So let's say you wake up 7 a.m., 8 a.m., 3 a.m.,
+
+32:03.760 --> 32:07.080
+ all right, happens, take those, add them together,
+
+32:07.080 --> 32:09.840
+ average them by adding them up
+
+32:09.840 --> 32:11.020
+ and dividing by the number of days.
+
+32:11.020 --> 32:13.000
+ That'll give you the average.
+
+32:13.000 --> 32:14.980
+ If you're one of these people that wakes up at 3 a.m.
+
+32:14.980 --> 32:16.920
+ and then goes back to sleep and sleeps till 10,
+
+32:16.920 --> 32:19.200
+ your wake up time was 10 a.m.
+
+32:19.200 --> 32:20.680
+ If you use an alarm clock,
+
+32:20.680 --> 32:24.160
+ your wake up time is still when you get up, okay?
+
+32:25.480 --> 32:27.920
+ I know alarm clocks have been kind of demonized,
+
+32:27.920 --> 32:30.680
+ but in my world, being late and missing appointments
+
+32:30.680 --> 32:33.720
+ is also demonized, so I use an alarm clock.
+
+32:35.740 --> 32:38.560
+ Many people will wake up at exactly the same time each day.
+
+32:38.560 --> 32:40.080
+ There tends to be some variation for people.
+
+32:40.080 --> 32:41.560
+ Some people, it's going to vary
+
+32:41.560 --> 32:42.800
+ depending on life circumstances,
+
+32:42.800 --> 32:45.340
+ but average that for three to seven days or so.
+
+32:46.280 --> 32:47.420
+ Take that wake up time.
+
+32:47.420 --> 32:49.360
+ You can then get an average
+
+32:50.280 --> 32:52.580
+ or sort of typical temperature minimum.
+
+32:52.580 --> 32:55.640
+ Okay, so now you know how to get your temperature minimum.
+
+32:55.640 --> 33:00.640
+ Your temperature minimum is your absolute reference point
+
+33:00.960 --> 33:03.720
+ for shifting your circadian clock,
+
+33:03.720 --> 33:05.380
+ whether or not it's for jet lag or shift work
+
+33:05.380 --> 33:07.000
+ or some other purpose.
+
+33:07.000 --> 33:07.960
+ Here's the deal.
+
+33:10.020 --> 33:12.920
+ If you expose your eyes to bright light
+
+33:14.100 --> 33:17.320
+ in the four hours, maybe five or six,
+
+33:17.320 --> 33:20.260
+ but in the four hours after your temperature minimum,
+
+33:21.580 --> 33:25.500
+ your circadian clock will shift
+
+33:25.500 --> 33:27.880
+ so that you will tend to get up earlier
+
+33:27.880 --> 33:31.920
+ and go to sleep earlier in the subsequent days, okay?
+
+33:31.920 --> 33:33.980
+ It's what's called a phase advance,
+
+33:33.980 --> 33:35.920
+ if you'd like to read up on this further.
+
+33:35.920 --> 33:39.000
+ You advance your clock, okay?
+
+33:39.000 --> 33:42.600
+ However, if you view bright light
+
+33:42.600 --> 33:45.940
+ in the four to six hours before your temperature minimum,
+
+33:47.600 --> 33:50.020
+ you will tend to phase delay your clock.
+
+33:50.020 --> 33:54.520
+ You will tend to wake up later and go to sleep later, okay?
+
+33:54.520 --> 33:56.520
+ I'm going to repeat this because there's so much confusion
+
+33:56.520 --> 33:58.240
+ out there and people talk about circadian time
+
+33:58.240 --> 33:59.080
+ and all this.
+
+33:59.080 --> 34:00.200
+ Find your temperature minimum.
+
+34:00.200 --> 34:03.840
+ I tend to wake up at about 6 a.m., sometimes 6.30,
+
+34:03.840 --> 34:04.680
+ sometimes seven.
+
+34:04.680 --> 34:06.740
+ It depends a lot on what I was doing the night before
+
+34:06.740 --> 34:08.200
+ as I'm guessing it does for you.
+
+34:08.200 --> 34:11.160
+ But that means that my temperature minimum
+
+34:11.160 --> 34:14.180
+ is probably somewhere right around 4.30 a.m.,
+
+34:14.180 --> 34:17.660
+ which means that if I wake up at 4.30 a.m.
+
+34:17.660 --> 34:21.960
+ and I were to view bright light at 4.35 a.m.,
+
+34:22.860 --> 34:24.400
+ I'm going to advance my clock.
+
+34:24.400 --> 34:28.100
+ I'm going to want to go to bed earlier the subsequent night
+
+34:28.100 --> 34:30.300
+ and wake up earlier the subsequent morning.
+
+34:31.200 --> 34:34.920
+ And as I shift my wake-up time,
+
+34:34.920 --> 34:37.000
+ my temperature minimum shifts too, right?
+
+34:37.000 --> 34:39.220
+ Because each time we shift our wake-up time,
+
+34:39.220 --> 34:40.920
+ our temperature minimum shifts,
+
+34:40.920 --> 34:43.760
+ assuming that wake-up time shifts more than, you know,
+
+34:43.760 --> 34:45.880
+ 30 minutes or an hour, okay?
+
+34:47.200 --> 34:49.940
+ If I were to view bright light in the four to six hours
+
+34:49.940 --> 34:53.080
+ before 4.30 a.m., guess what?
+
+34:53.080 --> 34:55.400
+ The next night I'm going to want to stay up later
+
+34:55.400 --> 34:57.440
+ and I'm going to want to wake up later
+
+34:57.440 --> 34:58.600
+ the subsequent morning.
+
+34:59.620 --> 35:01.800
+ Your temperature minimum is a reference point,
+
+35:01.800 --> 35:03.960
+ not a temperature reading.
+
+35:03.960 --> 35:06.520
+ Again, if you want to measure your temperature minimum
+
+35:06.520 --> 35:08.680
+ and figure out what it is, 98 point whatever,
+
+35:08.680 --> 35:10.680
+ or 96 point whatever, that's fine.
+
+35:10.680 --> 35:13.240
+ You can do that, but that information won't help you.
+
+35:13.240 --> 35:14.960
+ What you need to know is what time
+
+35:14.960 --> 35:16.240
+ your body temperature is lowest
+
+35:16.240 --> 35:18.880
+ and understand that in the four hours or so
+
+35:18.880 --> 35:20.280
+ just after that time,
+
+35:20.280 --> 35:22.760
+ viewing light will advance your clock
+
+35:22.760 --> 35:24.560
+ to make you want to get up earlier.
+
+35:26.360 --> 35:29.040
+ And the four hours before your temperature minimum,
+
+35:29.040 --> 35:33.480
+ viewing light will make you want to stay up later.
+
+35:33.480 --> 35:34.580
+ Now, some people might be saying,
+
+35:34.580 --> 35:36.820
+ well, I wake up early and I want to stay up late
+
+35:36.820 --> 35:39.560
+ and I'm sleepy all day and I'm a mess, or I feel fine.
+
+35:39.560 --> 35:42.920
+ Look, let's talk about feeling fine.
+
+35:42.920 --> 35:45.820
+ It turns out the definition of insomnia
+
+35:45.820 --> 35:49.080
+ is when you're experiencing excessive sleepiness
+
+35:49.080 --> 35:49.920
+ during the day.
+
+35:49.920 --> 35:52.700
+ Sleepiness and fatigue are different, okay?
+
+35:52.700 --> 35:54.420
+ So in the world of sleep medicine,
+
+35:54.420 --> 35:57.040
+ fatigue is a physical exhaustion.
+
+35:57.040 --> 35:59.640
+ Sleepiness is falling asleep,
+
+35:59.640 --> 36:01.640
+ like falling asleep at your desk
+
+36:01.640 --> 36:03.000
+ or falling asleep during lectures,
+
+36:03.000 --> 36:05.440
+ or there seems to be something special about my lectures
+
+36:05.440 --> 36:06.560
+ that makes people want to fall asleep.
+
+36:06.560 --> 36:09.440
+ So if this cures your insomnia, fantastic.
+
+36:09.440 --> 36:11.180
+ However, in all seriousness,
+
+36:12.600 --> 36:15.120
+ sleepiness during the daytime,
+
+36:15.120 --> 36:17.280
+ unless it's around your temperature peak
+
+36:17.280 --> 36:19.840
+ and only lasts about 90 minutes or so,
+
+36:19.840 --> 36:22.100
+ is a sign of insomnia.
+
+36:22.100 --> 36:23.640
+ It's a sign of lack of sleep.
+
+36:26.640 --> 36:28.360
+ I want to be very, very clear
+
+36:28.360 --> 36:31.600
+ that if you know your temperature minimum,
+
+36:31.600 --> 36:34.120
+ you can shift your clock using light.
+
+36:34.120 --> 36:36.520
+ You can also shift your clock
+
+36:36.520 --> 36:39.200
+ by engaging in exercise in the four hours
+
+36:39.200 --> 36:40.320
+ after your temperature minimum
+
+36:40.320 --> 36:43.120
+ to wake up earlier on subsequent nights
+
+36:43.120 --> 36:46.400
+ or exercise before then to delay your clock, okay?
+
+36:46.400 --> 36:48.880
+ So now you can start to see and understand
+
+36:48.880 --> 36:51.360
+ the logic of this system.
+
+36:51.360 --> 36:53.040
+ And we'll talk about why this works
+
+36:53.040 --> 36:54.240
+ and the underlying biology,
+
+36:54.240 --> 36:58.160
+ but understanding that temperature is the effector
+
+36:58.160 --> 37:00.760
+ and understanding that you have this low point
+
+37:00.760 --> 37:03.580
+ that reflects your most sleepy point, essentially,
+
+37:03.580 --> 37:07.520
+ right before waking up, and then temperature rises,
+
+37:07.520 --> 37:09.480
+ you can now start to shift that temperature
+
+37:09.480 --> 37:12.200
+ according to your travel needs.
+
+37:12.200 --> 37:14.680
+ Here's one way in which you might do that.
+
+37:14.680 --> 37:16.800
+ Let's say I am going to travel to Europe,
+
+37:16.800 --> 37:21.480
+ which is nine hours ahead, typically, from California.
+
+37:21.480 --> 37:24.480
+ I would want to determine my temperature minimum,
+
+37:24.480 --> 37:27.600
+ which for me is about 4.30 a.m., maybe 5 a.m.,
+
+37:27.600 --> 37:32.600
+ and I would want to start getting up at about 5.30 a.m.
+
+37:34.440 --> 37:36.120
+ and getting some bright light exposure,
+
+37:36.120 --> 37:37.600
+ presumably from artificial sources,
+
+37:37.600 --> 37:41.220
+ because the sunlight isn't going to be out at that time,
+
+37:41.220 --> 37:42.640
+ maybe even exercising as well,
+
+37:42.640 --> 37:45.200
+ maybe even eating a meal at that time
+
+37:45.200 --> 37:47.080
+ if that's in your practice.
+
+37:48.240 --> 37:49.720
+ You would want to start doing that
+
+37:49.720 --> 37:51.460
+ two or three days before travel,
+
+37:53.240 --> 37:58.000
+ because once you land in, or I land in Europe,
+
+37:59.120 --> 38:02.640
+ chances are just viewing the sunrise or sunset in Europe
+
+38:02.640 --> 38:05.420
+ is not going to allow me to shift my circadian clock.
+
+38:05.420 --> 38:07.560
+ Some people say, get sunlight in your eyes when you land,
+
+38:07.560 --> 38:09.760
+ but that's not going to work,
+
+38:09.760 --> 38:13.040
+ because one of two things is likely to happen.
+
+38:13.040 --> 38:14.440
+ With a nine-hour shift like that,
+
+38:14.440 --> 38:16.360
+ either I'm going to view sunlight
+
+38:16.360 --> 38:19.080
+ at a time that corresponds to the circadian dead zone,
+
+38:19.080 --> 38:22.500
+ the time in which my circadian clock can't be shifted,
+
+38:22.500 --> 38:25.420
+ or I'm going to end up viewing sunlight at a time
+
+38:25.420 --> 38:28.660
+ that corresponds to the four to six-hour window
+
+38:29.840 --> 38:32.660
+ before my temperature minimum.
+
+38:32.660 --> 38:33.520
+ So it's going to shift me
+
+38:33.520 --> 38:37.160
+ in exactly the opposite direction that I want to go.
+
+38:37.160 --> 38:39.820
+ So it can be very, very challenging
+
+38:39.820 --> 38:41.920
+ for people to adjust to jet lag.
+
+38:41.920 --> 38:44.240
+ So you need to ask, am I traveling east
+
+38:44.240 --> 38:45.120
+ or am I traveling west?
+
+38:45.120 --> 38:47.960
+ Am I trying to advance my clock or delay my clock?
+
+38:47.960 --> 38:51.780
+ Remember, viewing light, exercise, and eating
+
+38:51.780 --> 38:54.080
+ in the four to six hours before your temperature minimum
+
+38:54.080 --> 38:55.120
+ will delay your clock.
+
+38:55.120 --> 38:58.240
+ Eating, viewing sunlight, and exercising,
+
+38:58.240 --> 38:59.280
+ you don't have to do all three,
+
+38:59.280 --> 39:01.920
+ but some combination of those in the four to six hours
+
+39:01.920 --> 39:05.040
+ after your temperature minimum will advance your clock.
+
+39:05.040 --> 39:06.680
+ And this is a powerful mechanism
+
+39:06.680 --> 39:08.680
+ by which you can shift your clock anywhere
+
+39:08.680 --> 39:13.160
+ from one to three hours per day, which is remarkable.
+
+39:13.160 --> 39:15.200
+ That means your temperature minimum is going to shift out
+
+39:15.200 --> 39:18.660
+ as much as three hours, which can make it such
+
+39:18.660 --> 39:21.800
+ that you can travel all the way to Europe.
+
+39:21.800 --> 39:24.920
+ And as long as you've prepared for a day or so
+
+39:24.920 --> 39:27.800
+ by doing what I described back home,
+
+39:27.800 --> 39:30.160
+ and then doing it when you arrive,
+
+39:30.160 --> 39:32.400
+ you can potentially accomplish the entire shift
+
+39:32.400 --> 39:36.160
+ within anywhere from 24 to 36 hours.
+
+39:36.160 --> 39:40.080
+ And this is really important to emphasize
+
+39:40.080 --> 39:42.600
+ that once you arrive in your new location,
+
+39:42.600 --> 39:44.040
+ and here I'm talking about traveling eastward,
+
+39:44.040 --> 39:47.360
+ California to Europe, once you arrive in your new location,
+
+39:48.720 --> 39:51.120
+ you have to keep track of what your temperature minimum
+
+39:51.120 --> 39:54.480
+ was back home and how it's being shifted during your trip.
+
+39:54.480 --> 39:56.680
+ Now, it's much easier to do than you think.
+
+39:56.680 --> 40:01.160
+ One of the unfortunate consequences of the smartphone
+
+40:01.160 --> 40:04.400
+ is that you can't do something goofy
+
+40:04.400 --> 40:05.400
+ like wearing two watches,
+
+40:05.400 --> 40:07.440
+ one watch that corresponds to the time back home
+
+40:07.440 --> 40:10.080
+ and another one that corresponds to the local time.
+
+40:10.080 --> 40:15.080
+ Typically it updates automatically based on wifi, et cetera.
+
+40:15.280 --> 40:19.280
+ But if you can keep track of the time back home,
+
+40:19.280 --> 40:22.520
+ then you can easily shift your clock going forward.
+
+40:22.520 --> 40:24.120
+ I'm hoping this makes sense.
+
+40:24.120 --> 40:27.400
+ I really want to emphasize that you don't have to be precise
+
+40:27.400 --> 40:28.600
+ down to the minute.
+
+40:28.600 --> 40:31.120
+ Some of you may be asking, well, what about, you know,
+
+40:31.120 --> 40:32.380
+ you've got this temperature minimum,
+
+40:32.380 --> 40:34.440
+ and if I view light one minute before it,
+
+40:34.440 --> 40:35.620
+ then I'm going to delay my clock,
+
+40:35.620 --> 40:37.600
+ and one minute after it, I'm going to advance my clock.
+
+40:37.600 --> 40:40.200
+ It doesn't quite work like that, okay?
+
+40:40.200 --> 40:42.760
+ But it's very important to understand
+
+40:42.760 --> 40:44.120
+ that light is the primary way
+
+40:44.120 --> 40:46.340
+ in which we can shift our clock.
+
+40:46.340 --> 40:49.400
+ And now you should also be able to understand things
+
+40:49.400 --> 40:53.880
+ like the circadian dead zone from about 9.30, 10 a.m.
+
+40:53.880 --> 40:56.760
+ all the way until six hours
+
+40:56.760 --> 40:58.780
+ before your temperature minimum.
+
+40:58.780 --> 41:00.240
+ You're not going to shift your clock.
+
+41:00.240 --> 41:01.520
+ Nothing that you do in that time
+
+41:01.520 --> 41:04.720
+ in terms of light viewing behavior, feeding, et cetera,
+
+41:04.720 --> 41:06.160
+ is going to shift your clock.
+
+41:06.160 --> 41:08.280
+ And so a lot of people are landing in Europe,
+
+41:08.280 --> 41:10.240
+ getting sunlight in their eyes,
+
+41:10.240 --> 41:12.820
+ and throwing their clock out of whack,
+
+41:12.820 --> 41:15.120
+ or not shifting their clock at all.
+
+41:15.120 --> 41:18.360
+ This brings me to the other thing that's highly recommended,
+
+41:18.360 --> 41:19.400
+ and I've mentioned this before,
+
+41:19.400 --> 41:21.780
+ but you want to eat on the local meal schedule.
+
+41:21.780 --> 41:26.240
+ If it's in your practice to fast, fast, that's fine.
+
+41:26.240 --> 41:28.240
+ But when you eat, you want to eat
+
+41:28.240 --> 41:31.560
+ within the local schedule for alertness.
+
+41:31.560 --> 41:34.940
+ Okay, that means if you arrive
+
+41:34.940 --> 41:35.920
+ and everyone's eating breakfast
+
+41:35.920 --> 41:38.280
+ and you can't stomach the idea of breakfast
+
+41:38.280 --> 41:40.100
+ in your new location because your appetite isn't there,
+
+41:40.100 --> 41:41.640
+ that means the clock in your liver,
+
+41:41.640 --> 41:44.480
+ you have a clock in your liver, biological clock,
+
+41:44.480 --> 41:46.700
+ has not caught up to the new time zone.
+
+41:48.200 --> 41:51.220
+ You can force yourself to eat if you like,
+
+41:51.220 --> 41:53.200
+ or you can skip that meal,
+
+41:53.200 --> 41:54.720
+ but what you don't want to do
+
+41:54.720 --> 41:57.440
+ is stay on your home meal schedule,
+
+41:57.440 --> 41:58.840
+ waking up in the middle of the night and eating.
+
+41:58.840 --> 42:00.400
+ That is really going to throw things off
+
+42:00.400 --> 42:02.600
+ because a lot of the clocks in the periphery,
+
+42:02.600 --> 42:04.640
+ like from the liver, the peripheral body,
+
+42:04.640 --> 42:06.680
+ will send information back to the brain,
+
+42:06.680 --> 42:09.380
+ and then the brain is getting really conflicted signals.
+
+42:09.380 --> 42:12.240
+ So the temperature minimum is really your anchor point
+
+42:12.240 --> 42:14.200
+ for shifting your clock best.
+
+42:14.200 --> 42:15.260
+ I don't know why this information
+
+42:15.260 --> 42:19.160
+ really hasn't made it into the popular sphere quite so much.
+
+42:19.160 --> 42:20.280
+ There's all sorts of stuff
+
+42:20.280 --> 42:23.800
+ about taking things like melatonin, using binaural beats,
+
+42:23.800 --> 42:28.200
+ a lot of kind of like more sophisticated, complicated,
+
+42:28.200 --> 42:32.640
+ and potentially problematic ways of trying to shift the clock.
+
+42:32.640 --> 42:34.340
+ Let's talk about melatonin,
+
+42:34.340 --> 42:35.880
+ but first I just want to pause
+
+42:35.880 --> 42:38.920
+ and shift gears a little bit
+
+42:38.920 --> 42:41.600
+ because I talked about traveling eastward,
+
+42:41.600 --> 42:43.960
+ but we haven't talked about traveling westward.
+
+42:43.960 --> 42:45.360
+ So I want to do that now.
+
+42:45.360 --> 42:47.660
+ Let's say you're traveling from New York to California
+
+42:47.660 --> 42:49.800
+ or from Europe to California.
+
+42:49.800 --> 42:52.240
+ The challenge there tends to be
+
+42:52.240 --> 42:54.220
+ how can you stay up late enough?
+
+42:54.220 --> 42:56.260
+ Now, some people are able to do this
+
+42:56.260 --> 42:57.680
+ because as I mentioned earlier,
+
+42:57.680 --> 43:00.800
+ the autonomic nervous system is asymmetrically wired
+
+43:00.800 --> 43:03.540
+ such that it's easier to stay up late later
+
+43:03.540 --> 43:05.200
+ than we would naturally want to
+
+43:05.200 --> 43:06.700
+ than it is to go to sleep earlier.
+
+43:06.700 --> 43:11.400
+ So let's say you land and it's 4 p.m. and you're just dying.
+
+43:11.400 --> 43:13.640
+ You're in California, you came from Europe, it's 4 p.m.
+
+43:13.640 --> 43:16.520
+ and you really, really want to go to sleep.
+
+43:16.520 --> 43:19.940
+ That's where the use of things like caffeine, exercise,
+
+43:19.940 --> 43:22.440
+ and sunlight can shift you, right?
+
+43:22.440 --> 43:24.720
+ If it's after your temperature peak,
+
+43:24.720 --> 43:27.680
+ then viewing sunlight around 6 p.m. or 8 p.m.
+
+43:27.680 --> 43:31.160
+ or artificial light, if there's in sunlight,
+
+43:31.160 --> 43:33.500
+ will help shift you later, right?
+
+43:33.500 --> 43:35.120
+ It's going to delay your clock
+
+43:35.120 --> 43:37.240
+ and you're going to be able to stay up later.
+
+43:38.420 --> 43:40.140
+ The worst thing you can do is take a nap
+
+43:40.140 --> 43:43.120
+ that was intended to last 20 minutes or an hour.
+
+43:43.120 --> 43:46.080
+ I do this routinely and then wake up four hours later
+
+43:46.080 --> 43:48.280
+ or you wake up and it's midnight
+
+43:48.280 --> 43:49.480
+ and you can't fall back asleep.
+
+43:49.480 --> 43:52.040
+ You really want to avoid doing that.
+
+43:52.040 --> 43:55.120
+ So provided it's not excessive amounts,
+
+43:55.120 --> 43:57.720
+ stimulants like caffeine and coffee or tea
+
+43:57.720 --> 44:00.920
+ can really help you push past that afternoon barrier
+
+44:00.920 --> 44:05.040
+ and get you to sleep more like on the local schedule
+
+44:05.040 --> 44:07.920
+ and eating on the local schedule as well.
+
+44:09.480 --> 44:10.600
+ A number of people have asked
+
+44:10.600 --> 44:13.880
+ about the use of melatonin to induce sleepiness.
+
+44:13.880 --> 44:16.740
+ All right, well, let's think about what melatonin is.
+
+44:16.740 --> 44:18.440
+ Melatonin is this hormone that's released
+
+44:18.440 --> 44:21.280
+ from the pineal gland, which is this gland.
+
+44:21.280 --> 44:23.040
+ A couple of notes about the pineal
+
+44:23.040 --> 44:25.120
+ because I've been getting a lot of questions about this.
+
+44:25.120 --> 44:26.640
+ I'm probably going to draw some fire for this,
+
+44:26.640 --> 44:31.640
+ but I'd be happy to have a thoughtful, considerate debate
+
+44:31.680 --> 44:34.780
+ with some peer reviewed papers in front of us.
+
+44:34.780 --> 44:37.840
+ The pineal does make this hallucinogenic molecule
+
+44:37.840 --> 44:41.160
+ they call DMT, but in such minuscule amounts
+
+44:41.160 --> 44:44.120
+ that it is not responsible for the hallucinations you see
+
+44:44.120 --> 44:45.220
+ in sleep and dreaming.
+
+44:45.220 --> 44:46.100
+ Sorry, folks.
+
+44:46.100 --> 44:48.000
+ It's also not responsible for the hallucinations
+
+44:48.000 --> 44:51.120
+ you might see through other approaches to DMT.
+
+44:51.120 --> 44:53.680
+ It's just not, that's not where the DMT comes from.
+
+44:53.680 --> 44:56.440
+ It's infinitesimally small amounts.
+
+44:57.720 --> 44:59.940
+ There are a lot of kind of wacky claims out there
+
+44:59.940 --> 45:03.400
+ about calcification of the pineal and fluoride
+
+45:03.400 --> 45:04.560
+ and this kind of thing.
+
+45:05.640 --> 45:10.640
+ Look, the pineal sits in an area of the brain
+
+45:10.680 --> 45:14.320
+ near the fourth ventricle where the skull
+
+45:14.320 --> 45:16.280
+ is not terribly far away,
+
+45:16.280 --> 45:18.620
+ although there's some overlapping neural tissue.
+
+45:18.620 --> 45:22.160
+ And with age, there's some aggregation
+
+45:22.160 --> 45:24.980
+ of some of the meninges and other things around there
+
+45:24.980 --> 45:26.280
+ that stick to the skull.
+
+45:26.280 --> 45:27.860
+ Young brains don't look like old brains,
+
+45:27.860 --> 45:30.880
+ but there's no calcification of the pineal, all right?
+
+45:30.880 --> 45:33.080
+ So you can forget about calcification
+
+45:33.080 --> 45:35.160
+ of the pineal is a problem.
+
+45:35.160 --> 45:36.920
+ I don't know where that whole thing got started,
+
+45:36.920 --> 45:39.000
+ but that's not an issue.
+
+45:39.000 --> 45:43.220
+ Your pineal will churn out melatonin my whole life.
+
+45:43.220 --> 45:45.660
+ Melatonin induces sleepiness.
+
+45:45.660 --> 45:49.600
+ Melatonin during development is also responsible
+
+45:49.600 --> 45:52.300
+ for timing the secretion of certain hormones
+
+45:52.300 --> 45:55.220
+ that are vitally important for puberty.
+
+45:56.160 --> 45:58.900
+ Does melatonin control the onset of puberty?
+
+45:58.900 --> 46:01.480
+ Not directly, but indirectly.
+
+46:01.480 --> 46:03.320
+ Melatonin inhibits something
+
+46:03.320 --> 46:05.180
+ called the gonadotropin-releasing hormone,
+
+46:05.180 --> 46:07.340
+ which is a hormone that's released from your hypothalamus,
+
+46:07.340 --> 46:10.120
+ also roughly above the roof of your mouth and your brain.
+
+46:10.120 --> 46:11.960
+ Gonadotropin-releasing hormone is really interesting
+
+46:11.960 --> 46:14.320
+ because it stimulates the release of another hormone
+
+46:14.320 --> 46:15.800
+ called luteinizing hormone,
+
+46:15.800 --> 46:19.560
+ which in females causes estrogen
+
+46:19.560 --> 46:22.520
+ to be released within the ovaries,
+
+46:22.520 --> 46:24.260
+ it's involved in reproductive cycles,
+
+46:24.260 --> 46:27.320
+ and in males stimulates testosterone
+
+46:27.320 --> 46:30.400
+ from the sertoli cells of the testes.
+
+46:31.660 --> 46:34.640
+ Melatonin is inhibitory to GnRH,
+
+46:34.640 --> 46:35.920
+ gonadotropin-releasing hormone,
+
+46:35.920 --> 46:38.600
+ and therefore is inhibitory to LH, luteinizing hormone,
+
+46:38.600 --> 46:41.560
+ and therefore is inhibitory to testosterone and estrogen.
+
+46:41.560 --> 46:43.200
+ There's just no two ways about it.
+
+46:43.200 --> 46:48.200
+ There is an immense amount of data
+
+46:49.080 --> 46:51.820
+ on the fact that high levels of melatonin
+
+46:51.820 --> 46:54.360
+ in seasonally breeding animals
+
+46:54.360 --> 46:57.000
+ takes the ovaries from nice and robust ovaries
+
+46:57.000 --> 47:00.140
+ that are capable of deploying eggs and this kind of thing,
+
+47:00.140 --> 47:02.040
+ and literally shrinking them
+
+47:02.040 --> 47:04.360
+ and making these animals infertile.
+
+47:04.360 --> 47:05.760
+ These are very high levels of melatonin
+
+47:05.760 --> 47:07.360
+ in seasonal breeders in winter.
+
+47:08.200 --> 47:11.520
+ Melatonin in males of seasonal breeders
+
+47:11.520 --> 47:13.880
+ takes the testes and shrinks them.
+
+47:13.880 --> 47:17.720
+ Long ago when I was at UC Berkeley as a master's student,
+
+47:17.720 --> 47:19.840
+ I was working on neuroendocrinology,
+
+47:19.840 --> 47:22.560
+ and we were working on this hamster species
+
+47:22.560 --> 47:23.500
+ of seasonal breeders,
+
+47:23.500 --> 47:27.480
+ and basically when days are long, which inhibits melatonin,
+
+47:27.480 --> 47:30.720
+ these little Siberian hamsters, as they're called,
+
+47:30.720 --> 47:34.720
+ have testes about the size of sort of typical table grapes,
+
+47:34.720 --> 47:36.620
+ although that's a weird way to put it.
+
+47:37.860 --> 47:41.000
+ When days get shorter and the melatonin signal gets longer,
+
+47:41.000 --> 47:42.360
+ because light inhibits melatonin,
+
+47:42.360 --> 47:43.920
+ days get shorter, melatonin gets longer,
+
+47:43.920 --> 47:46.680
+ those same hamsters would have testes
+
+47:46.680 --> 47:49.440
+ that would involute to the size of about a grain of rice.
+
+47:49.440 --> 47:53.780
+ Now, this does not happen in humans in short days,
+
+47:53.780 --> 47:56.240
+ but nonetheless, the melatonin signal
+
+47:56.240 --> 47:59.100
+ really does have a ton of effects on the hormone system.
+
+47:59.100 --> 48:02.120
+ Now, does that mean that if you've been taking melatonin,
+
+48:02.120 --> 48:03.220
+ you've really screwed up your hormones?
+
+48:03.220 --> 48:04.060
+ Not necessarily.
+
+48:04.060 --> 48:05.760
+ Does it mean if a kid has been taking melatonin,
+
+48:05.760 --> 48:07.320
+ that's really screwing up their puberty?
+
+48:07.320 --> 48:11.880
+ Not necessarily, and here's why.
+
+48:11.880 --> 48:15.600
+ Melatonin operates on a concentration level,
+
+48:15.600 --> 48:18.640
+ so in a child that's very, very small,
+
+48:19.500 --> 48:21.200
+ that has high levels of melatonin,
+
+48:21.200 --> 48:25.360
+ it actually can inhibit GnRH, LH, testosterone, or estrogen,
+
+48:25.360 --> 48:27.960
+ depending on the sex of the child.
+
+48:27.960 --> 48:30.320
+ But as that child grows through other mechanisms,
+
+48:30.320 --> 48:32.060
+ like growth hormone release, et cetera,
+
+48:32.060 --> 48:34.400
+ that same amount of melatonin released from the pineal
+
+48:34.400 --> 48:36.680
+ is now diluted over a much larger body,
+
+48:36.680 --> 48:40.820
+ so the concentration actually goes way, way down, okay?
+
+48:40.820 --> 48:43.200
+ But here's the problem with supplementing melatonin.
+
+48:43.200 --> 48:45.220
+ As I mentioned in the previous episode,
+
+48:45.220 --> 48:48.280
+ concentrations of melatonin in many commercial supplements
+
+48:48.280 --> 48:52.420
+ have been shown to be anywhere from 85% to 400%
+
+48:52.420 --> 48:54.480
+ of what's listed on the bottle.
+
+48:54.480 --> 48:57.280
+ So when you take melatonin, or a child takes melatonin,
+
+48:57.280 --> 48:58.400
+ oftentimes they are taking
+
+48:58.400 --> 49:01.840
+ supra physiological levels of melatonin,
+
+49:01.840 --> 49:06.500
+ which at least by my read and the literature,
+
+49:06.500 --> 49:08.760
+ says that it could have dramatic effects
+
+49:08.760 --> 49:12.640
+ on timing and course of things like puberty.
+
+49:12.640 --> 49:16.160
+ So it's not so much that the journals have come out saying,
+
+49:16.160 --> 49:19.500
+ oh, taking that melatonin inhibits puberty,
+
+49:19.500 --> 49:21.280
+ it's that no single study has been done
+
+49:21.280 --> 49:23.780
+ with the supra physiological levels of melatonin
+
+49:23.780 --> 49:26.120
+ that are present in a lot of these supplements
+
+49:26.120 --> 49:29.040
+ in developing children.
+
+49:29.040 --> 49:33.720
+ So melatonin is used widely for inducing sleepiness
+
+49:33.720 --> 49:34.840
+ when you want to fall asleep
+
+49:34.840 --> 49:37.240
+ in the new location that you've arrived, right?
+
+49:37.240 --> 49:38.080
+ You can't fall asleep,
+
+49:38.080 --> 49:40.480
+ you take melatonin, it helps you fall asleep.
+
+49:40.480 --> 49:42.920
+ It does not help you stay asleep.
+
+49:42.920 --> 49:46.760
+ In addition to that, melatonin has been kind of touted
+
+49:46.760 --> 49:49.480
+ as the best way to shift your circadian clock.
+
+49:49.480 --> 49:51.240
+ I'm happy to go on record saying,
+
+49:51.240 --> 49:53.400
+ look, if you need melatonin and you can work with a doctor
+
+49:53.400 --> 49:55.060
+ or somebody who really understands circadian
+
+49:55.060 --> 49:57.920
+ and sleep biology, go for it if that's your thing.
+
+49:57.920 --> 50:01.720
+ But I, as always on this podcast and elsewhere,
+
+50:01.720 --> 50:05.680
+ I have a bias toward behavioral things
+
+50:05.680 --> 50:06.960
+ that you can titrate and control,
+
+50:06.960 --> 50:09.880
+ like exposure to light, exercise, temperature, et cetera,
+
+50:09.880 --> 50:12.680
+ that have much bigger margins for safety
+
+50:12.680 --> 50:14.680
+ and certainly don't have these other endocrine effects
+
+50:14.680 --> 50:17.380
+ that we've been thinking about and talking about.
+
+50:17.380 --> 50:20.680
+ So if you want to take melatonin in the afternoon
+
+50:20.680 --> 50:23.620
+ in order to fall asleep or in the evening, be my guest,
+
+50:23.620 --> 50:24.840
+ that's up to you.
+
+50:24.840 --> 50:27.720
+ Again, you're responsible for your health, not me.
+
+50:27.720 --> 50:29.640
+ But for many people,
+
+50:29.640 --> 50:32.280
+ melatonin is not going to be the best solution.
+
+50:32.280 --> 50:35.160
+ The best solution is going to be to use light
+
+50:35.160 --> 50:36.920
+ and temperature and exercise
+
+50:36.920 --> 50:39.180
+ on either side of the temperature minimum
+
+50:39.180 --> 50:41.040
+ to shift your clock both before your trip
+
+50:41.040 --> 50:42.760
+ and when you land in your new location
+
+50:42.760 --> 50:44.640
+ and your clock starts to shift.
+
+50:44.640 --> 50:47.920
+ Okay, so now you know my opinions about melatonin.
+
+50:47.920 --> 50:50.960
+ Feel free to filter them through your own opinions
+
+50:50.960 --> 50:53.320
+ and experiences with melatonin.
+
+50:53.320 --> 50:56.880
+ And now you also understand what your temperature minimum is
+
+50:56.880 --> 50:59.560
+ and how it represents an important landmark,
+
+50:59.560 --> 51:02.960
+ either side of which you can use light temperature
+
+51:02.960 --> 51:05.480
+ and exercise to shift your clock.
+
+51:05.480 --> 51:07.120
+ Just to remind you a little bit about temperature,
+
+51:07.120 --> 51:09.840
+ if you want to shift your clock,
+
+51:09.840 --> 51:12.040
+ typically you would do that by,
+
+51:12.040 --> 51:13.120
+ you could take a hot shower
+
+51:13.120 --> 51:15.200
+ and then that will have a cooling effect
+
+51:15.200 --> 51:16.560
+ after the hot shower.
+
+51:17.640 --> 51:20.840
+ And if you were to get into a cold shower or an ice bath,
+
+51:20.840 --> 51:22.220
+ if you have access to one,
+
+51:22.220 --> 51:24.520
+ afterward there's going to be a thermogenic effect
+
+51:24.520 --> 51:26.720
+ of your body increasing temperature.
+
+51:26.720 --> 51:29.480
+ And if you just think about your natural rhythm
+
+51:29.480 --> 51:31.300
+ back home when everything's stable,
+
+51:32.360 --> 51:35.520
+ you have a nadir, a low point in,
+
+51:35.520 --> 51:36.620
+ which is your temperature minimum,
+
+51:36.620 --> 51:38.840
+ and then you have a peak and you think about
+
+51:38.840 --> 51:42.580
+ when you're doing this hot or cold shower in that rhythm,
+
+51:42.580 --> 51:44.000
+ now you should be able to understand
+
+51:44.000 --> 51:45.720
+ how you're shifting your rhythm.
+
+51:45.720 --> 51:48.040
+ That temperature rhythm is the one that's going to move.
+
+51:48.040 --> 51:49.440
+ Give you an example.
+
+51:49.440 --> 51:51.740
+ If I were to wake up in the morning
+
+51:51.740 --> 51:54.440
+ and let's say I wake up at 6 a.m.,
+
+51:54.440 --> 51:55.960
+ my temperature I know is rising,
+
+51:55.960 --> 51:57.640
+ I've passed my temperature minimum.
+
+51:57.640 --> 52:00.160
+ If I were to get into a hot shower
+
+52:01.280 --> 52:04.420
+ that would then lower my body temperature when I got out,
+
+52:04.420 --> 52:06.400
+ that is not normally what's happening
+
+52:06.400 --> 52:08.220
+ first thing in the morning.
+
+52:08.220 --> 52:10.480
+ And therefore, my clock would very likely
+
+52:10.480 --> 52:12.440
+ get phase delayed, right?
+
+52:12.440 --> 52:15.120
+ It's going to delay the increase in temperature.
+
+52:15.120 --> 52:17.360
+ Whereas if I got into a cold shower,
+
+52:17.360 --> 52:18.640
+ something I don't personally like to do,
+
+52:18.640 --> 52:20.800
+ but I've done from time to time,
+
+52:20.800 --> 52:22.440
+ or an ice bath, that's going to then
+
+52:22.440 --> 52:24.880
+ have a rebound increase in body temperature
+
+52:24.880 --> 52:26.700
+ and is going to phase advance my clock.
+
+52:26.700 --> 52:28.880
+ That peak in the afternoon is going to come
+
+52:28.880 --> 52:30.380
+ about an hour earlier.
+
+52:30.380 --> 52:33.000
+ I'm going to want to go to bed earlier later that night.
+
+52:33.000 --> 52:34.940
+ So you can start to play these games with timing
+
+52:34.940 --> 52:37.080
+ and hot and cold, with meals,
+
+52:37.080 --> 52:38.920
+ whether or not you eat or you don't eat,
+
+52:38.920 --> 52:40.140
+ and with light exposure,
+
+52:40.140 --> 52:42.620
+ whether or not you view light or you don't view light.
+
+52:42.620 --> 52:44.600
+ So now you can start to see why understanding
+
+52:44.600 --> 52:46.680
+ the core mechanics of a system
+
+52:46.680 --> 52:48.400
+ can really give you the most flexibility
+
+52:48.400 --> 52:53.200
+ because I could spend the next 25 years of my life
+
+52:53.200 --> 52:56.240
+ answering every question about every nuanced pattern
+
+52:56.240 --> 52:58.000
+ of travel, well, we're going to Sydney,
+
+52:58.000 --> 52:59.600
+ then we're going there, what should I do?
+
+52:59.600 --> 53:00.760
+ But that's on you.
+
+53:00.760 --> 53:02.920
+ You need to figure out your temperature minimum
+
+53:02.920 --> 53:04.700
+ and your temperature peak, if you like,
+
+53:04.700 --> 53:07.440
+ and then use these parameters to, it gives you flexibility.
+
+53:07.440 --> 53:09.480
+ And that really underscores the most important thing
+
+53:09.480 --> 53:10.920
+ is that when you understand mechanism,
+
+53:10.920 --> 53:13.640
+ it's not about being neurotically attached
+
+53:13.640 --> 53:15.800
+ to a specific protocol, it's the opposite.
+
+53:15.800 --> 53:18.600
+ It gives you power to not be neurotically attached
+
+53:18.600 --> 53:20.000
+ to a specific protocol.
+
+53:20.000 --> 53:22.660
+ It can give you great confidence and flexibility
+
+53:22.660 --> 53:24.760
+ in being able to shift your body rhythms however you want.
+
+53:24.760 --> 53:25.720
+ And when things get out of whack,
+
+53:25.720 --> 53:27.760
+ you can tuck them right back into place.
+
+53:28.840 --> 53:30.680
+ One thing that's common
+
+53:30.680 --> 53:32.640
+ is that people need to do a quick trip.
+
+53:32.640 --> 53:34.440
+ It's not always that you're going to go to,
+
+53:34.440 --> 53:35.760
+ you know, on vacation for two weeks
+
+53:35.760 --> 53:40.080
+ or, you know, work someplace else for weeks on end.
+
+53:41.340 --> 53:46.340
+ If your trip is 48 hours or less, stay on your home schedule.
+
+53:46.560 --> 53:50.100
+ This can be tough and it may require scheduling meetings
+
+53:50.100 --> 53:52.240
+ according to your home schedule.
+
+53:52.240 --> 53:55.420
+ But if you can somehow manage that,
+
+53:55.420 --> 53:58.020
+ the best thing to do would be to stay on your home schedule.
+
+53:58.020 --> 54:01.460
+ Your clock is not going to shift more than a couple hours,
+
+54:01.460 --> 54:06.060
+ even if you do everything correctly in one day, okay?
+
+54:06.060 --> 54:09.200
+ So if I were to travel, say to Europe,
+
+54:09.200 --> 54:10.080
+ I've actually done this.
+
+54:10.080 --> 54:12.280
+ I did a 24 hour trip to Basel, Switzerland,
+
+54:12.280 --> 54:13.460
+ gave a talk and came back.
+
+54:13.460 --> 54:14.420
+ People thought I was crazy,
+
+54:14.420 --> 54:16.840
+ but I had a little bit of travel fatigue
+
+54:16.840 --> 54:17.820
+ because remember there's fatigue
+
+54:17.820 --> 54:19.800
+ from the actual travel experience.
+
+54:19.800 --> 54:23.680
+ The novelty of it, the air is never great on the planes.
+
+54:23.680 --> 54:25.880
+ This was even true before there were mask requirements
+
+54:25.880 --> 54:27.080
+ and things like that.
+
+54:27.080 --> 54:28.240
+ So there's the travel fatigue,
+
+54:28.240 --> 54:30.680
+ but you don't throw your clock off.
+
+54:30.680 --> 54:35.680
+ If you stay 48 hours, then you start to shift a little bit.
+
+54:36.440 --> 54:38.840
+ 72, that's when you start running into trouble.
+
+54:38.840 --> 54:41.160
+ The transit time is also important,
+
+54:41.160 --> 54:43.600
+ but I would say if it's three days or less,
+
+54:43.600 --> 54:46.800
+ stay on your home schedule as much as you can.
+
+54:46.800 --> 54:49.920
+ And because sunlight isn't under your control,
+
+54:49.920 --> 54:51.960
+ unless there's something about you I don't know,
+
+54:51.960 --> 54:54.580
+ that's when traveling with some sort of bright light,
+
+54:54.580 --> 54:56.960
+ like the light pad that I have down there
+
+54:56.960 --> 54:58.720
+ that I showed earlier.
+
+54:58.720 --> 55:00.080
+ For those of you listening just on audio,
+
+55:00.080 --> 55:03.320
+ it's just, it looks like an eight and a half by 11 pad.
+
+55:03.320 --> 55:04.840
+ It's actually not designed for wake up.
+
+55:04.840 --> 55:06.720
+ It's actually designed, it's a drawing pad
+
+55:06.720 --> 55:11.720
+ and you can, and it emits about a thousand lux of light.
+
+55:12.140 --> 55:15.080
+ And so if you want to travel with something like that,
+
+55:15.080 --> 55:16.800
+ you can use that in your hotel room
+
+55:16.800 --> 55:19.260
+ to wake up when you like.
+
+55:19.260 --> 55:22.240
+ Some people will use nightshades,
+
+55:23.340 --> 55:24.640
+ not the nightshades that you eat
+
+55:24.640 --> 55:26.000
+ or that some people say you're not supposed to eat,
+
+55:26.000 --> 55:27.060
+ I don't know anything about that,
+
+55:27.060 --> 55:32.080
+ but the eye covers to keep light out.
+
+55:32.080 --> 55:36.480
+ Those can be very useful on planes and in hotels and so on.
+
+55:36.480 --> 55:38.600
+ So you can use light and dark
+
+55:38.600 --> 55:42.320
+ and you can travel with your light and dark devices
+
+55:42.320 --> 55:44.240
+ so that you can stay on your home schedule
+
+55:44.240 --> 55:45.260
+ and get most of your light
+
+55:45.260 --> 55:48.680
+ when it would be your normal wake up time back home.
+
+55:48.680 --> 55:50.420
+ And what's kind of nice
+
+55:50.420 --> 55:53.340
+ is if you know when your circadian dead zone is back home,
+
+55:53.340 --> 55:55.320
+ which is generally for most people
+
+55:55.320 --> 55:59.620
+ around 10 AM to about 3 PM.
+
+55:59.620 --> 56:02.920
+ So basically the rising phase of your temperature,
+
+56:02.920 --> 56:06.640
+ then you can also feel free to be outside
+
+56:06.640 --> 56:07.960
+ without having to wear sunglasses
+
+56:07.960 --> 56:09.880
+ or you don't have to worry about light exposure.
+
+56:09.880 --> 56:13.120
+ But if you know that window
+
+56:13.120 --> 56:14.480
+ before your temperature minimum,
+
+56:14.480 --> 56:15.920
+ that four to six hour window,
+
+56:15.920 --> 56:17.960
+ that's the time when if you're viewing a lot of light
+
+56:17.960 --> 56:19.480
+ in your new location,
+
+56:19.480 --> 56:21.960
+ you are going to shift your clock pretty considerably.
+
+56:21.960 --> 56:24.680
+ And then you can come back home and have a terrible time.
+
+56:24.680 --> 56:25.840
+ At the end of graduate school,
+
+56:25.840 --> 56:28.720
+ I went to Australia, the remarkable country,
+
+56:28.720 --> 56:30.760
+ incredible people, incredible wildlife,
+
+56:30.760 --> 56:31.680
+ an amazing time.
+
+56:31.680 --> 56:34.200
+ I came back and it was the first time in my life
+
+56:34.200 --> 56:36.500
+ where I couldn't sleep on a regular schedule.
+
+56:36.500 --> 56:38.660
+ I was sleeping in like hour long increments
+
+56:38.660 --> 56:39.500
+ throughout the day.
+
+56:39.500 --> 56:40.860
+ It was a nightmare.
+
+56:40.860 --> 56:44.440
+ And it took me weeks to get back on target.
+
+56:44.440 --> 56:46.140
+ And the way I was able to do that
+
+56:46.140 --> 56:50.580
+ was exercising consistently at the same time every 24 hours,
+
+56:50.580 --> 56:54.760
+ turning my home into essentially a cave at night,
+
+56:54.760 --> 56:56.400
+ even covering up the windows,
+
+56:56.400 --> 56:58.480
+ and then getting as much bright light in my eyes
+
+56:58.480 --> 57:00.140
+ as I possibly could during the day,
+
+57:00.140 --> 57:01.960
+ no sunglasses, et cetera.
+
+57:01.960 --> 57:03.200
+ So it can take some real work
+
+57:03.200 --> 57:05.520
+ if your clock gets thrown out of whack.
+
+57:05.520 --> 57:08.600
+ There's a phenomenon called ICU psychosis,
+
+57:08.600 --> 57:11.080
+ where people that are in the intensive care unit
+
+57:11.080 --> 57:13.440
+ in hospitals actually lose their mind.
+
+57:13.440 --> 57:18.000
+ They become psychotic, hallucinations, et cetera.
+
+57:18.880 --> 57:21.240
+ And it's because of altered circadian cycles.
+
+57:21.240 --> 57:23.960
+ We know this because they're exposed to these lights
+
+57:23.960 --> 57:26.000
+ and these sounds, people coming in and checking on them.
+
+57:26.000 --> 57:27.120
+ They leave the hospital,
+
+57:27.120 --> 57:28.840
+ or in some cases there've been experiments
+
+57:28.840 --> 57:30.120
+ where people are placed near a window
+
+57:30.120 --> 57:31.320
+ where they get some natural light,
+
+57:31.320 --> 57:33.760
+ and these psychotic symptoms disappear,
+
+57:33.760 --> 57:37.200
+ presuming there weren't psychotic symptoms beforehand,
+
+57:37.200 --> 57:38.760
+ before they entered the hospital.
+
+57:38.760 --> 57:42.720
+ So it's pretty dramatic what light can do
+
+57:42.720 --> 57:44.840
+ to the psyche and to the body.
+
+57:44.840 --> 57:47.440
+ So let's talk a little bit
+
+57:47.440 --> 57:49.160
+ about a different form of jet lag
+
+57:49.160 --> 57:52.920
+ that requires no planes, no trains, no automobiles,
+
+57:52.920 --> 57:54.420
+ and that's shift work.
+
+57:55.400 --> 57:58.180
+ Shift work is becoming increasingly common.
+
+57:59.280 --> 58:00.680
+ Many of us are shift working,
+
+58:00.680 --> 58:02.040
+ even though we don't have to.
+
+58:02.040 --> 58:03.920
+ We're doing work in the middle of the night.
+
+58:03.920 --> 58:08.200
+ We are working on our computers at odd hours,
+
+58:08.200 --> 58:09.200
+ sleeping during the day.
+
+58:09.200 --> 58:13.440
+ A lot of people who are under shelter in place type stuff
+
+58:13.440 --> 58:15.120
+ are doing more of this.
+
+58:15.120 --> 58:18.040
+ Kids with the drifting school schedules.
+
+58:18.040 --> 58:19.760
+ Here's the deal with shift work.
+
+58:19.760 --> 58:22.640
+ If there's one rule of thumb for shift work,
+
+58:22.640 --> 58:25.840
+ it's that if at all possible,
+
+58:25.840 --> 58:29.820
+ you want to stay on the same schedule for at least 14 days,
+
+58:29.820 --> 58:31.640
+ including weekends.
+
+58:31.640 --> 58:34.920
+ Now that should immediately cue the non-shift workers
+
+58:34.920 --> 58:37.620
+ to the importance of not getting too far off track
+
+58:37.620 --> 58:39.360
+ on the weekend, even if you're not a shift worker.
+
+58:39.360 --> 58:43.000
+ So sleeping in on Sunday is not a good idea.
+
+58:44.700 --> 58:46.440
+ The most important thing about shift work
+
+58:46.440 --> 58:49.120
+ is to stay consistent with your schedule.
+
+58:49.120 --> 58:52.040
+ Now I had a conversation on an Instagram Live
+
+58:52.040 --> 58:53.720
+ with Samir Hattar,
+
+58:53.720 --> 58:55.980
+ who's a neuroscientist
+
+58:55.980 --> 58:57.560
+ at the National Institutes of Mental Health.
+
+58:57.560 --> 58:59.640
+ He's actually the head of the chronobiology unit there.
+
+58:59.640 --> 59:02.200
+ And he was really emphasizing this point
+
+59:02.200 --> 59:03.580
+ because shift work,
+
+59:03.580 --> 59:05.340
+ where people are doing the so-called swing shift,
+
+59:05.340 --> 59:07.000
+ where they're working four days on one shift
+
+59:07.000 --> 59:08.600
+ and four days on another,
+
+59:08.600 --> 59:11.540
+ is extremely detrimental to a number of health parameters.
+
+59:11.540 --> 59:14.880
+ It gets the cortisol release from the adrenals
+
+59:14.880 --> 59:16.360
+ really out of whack.
+
+59:16.360 --> 59:18.440
+ And there are these cortisol spikes
+
+59:18.440 --> 59:20.160
+ at various hours of the day.
+
+59:20.160 --> 59:21.520
+ It messes up learning.
+
+59:21.520 --> 59:24.640
+ It really disrupts the dopamine system and wellbeing.
+
+59:24.640 --> 59:26.560
+ It is a serious, serious problem.
+
+59:26.560 --> 59:29.600
+ So if you can negotiate with your employer
+
+59:30.540 --> 59:34.200
+ to stay on the same shift for two weeks at a time,
+
+59:34.200 --> 59:35.800
+ that's going to be immensely beneficial
+
+59:35.800 --> 59:37.920
+ and will help you offset a lot of the negative effects
+
+59:37.920 --> 59:38.760
+ of shift work.
+
+59:39.880 --> 59:41.680
+ Now, I don't presume that all of you
+
+59:41.680 --> 59:43.240
+ are going to be able to do that.
+
+59:43.240 --> 59:46.400
+ Some of you just don't have that level of control.
+
+59:46.400 --> 59:47.240
+ And of course,
+
+59:47.240 --> 59:50.380
+ I want to acknowledge that shift workers are essential.
+
+59:51.520 --> 59:54.360
+ Of course, first responders, firefighters, police officers,
+
+59:54.360 --> 59:55.700
+ paramedics, et cetera,
+
+59:55.700 --> 59:58.680
+ but also pilots, nurses,
+
+59:58.680 --> 1:00:02.560
+ people working on the hospital wards,
+
+1:00:02.560 --> 1:00:04.160
+ people picking up trash.
+
+1:00:04.160 --> 1:00:06.120
+ These night shifts are critical
+
+1:00:06.120 --> 1:00:07.880
+ to our functioning as a society,
+
+1:00:07.880 --> 1:00:09.860
+ as I'm sure all of you can appreciate.
+
+1:00:11.080 --> 1:00:13.360
+ If you're going to work a shift
+
+1:00:13.360 --> 1:00:15.760
+ where let's say you start at 4 p.m.
+
+1:00:15.760 --> 1:00:19.200
+ and you end at 2 a.m., excuse me,
+
+1:00:19.200 --> 1:00:21.860
+ then there's some important questions that arise.
+
+1:00:21.860 --> 1:00:26.280
+ For instance, should you see light during your shift?
+
+1:00:26.280 --> 1:00:29.600
+ Well, this is a matter of personal choice,
+
+1:00:29.600 --> 1:00:32.280
+ but ideally you want to view as much light as possible
+
+1:00:32.280 --> 1:00:35.240
+ and as safely possible when you need to be alert.
+
+1:00:35.240 --> 1:00:38.120
+ So that would mean from 4 p.m. to 2 a.m.
+
+1:00:38.120 --> 1:00:40.200
+ And then you would want to sleep.
+
+1:00:41.960 --> 1:00:45.900
+ So using light as a correlate of alertness
+
+1:00:45.900 --> 1:00:48.920
+ and using darkness as a correlate of sleepiness,
+
+1:00:48.920 --> 1:00:51.480
+ what this means is see as much light as you safely can
+
+1:00:51.480 --> 1:00:55.100
+ during the phase of your day when you want to be awake.
+
+1:00:55.100 --> 1:00:56.320
+ So it's the same thing I said way back
+
+1:00:56.320 --> 1:00:59.520
+ to the beginning of this podcast episode.
+
+1:00:59.520 --> 1:01:02.800
+ And see as little light as safely possible
+
+1:01:02.800 --> 1:01:04.960
+ and allows you to function during the time
+
+1:01:04.960 --> 1:01:06.320
+ when you want to be asleep.
+
+1:01:06.320 --> 1:01:08.860
+ So if you're finishing out that 2 a.m. shift,
+
+1:01:08.860 --> 1:01:12.760
+ that's when you would want to avoid bright light exposure,
+
+1:01:12.760 --> 1:01:13.880
+ you'd want to go home,
+
+1:01:13.880 --> 1:01:16.600
+ you'd really want to avoid watching TV if possible.
+
+1:01:16.600 --> 1:01:18.200
+ If you need that in order to fall asleep,
+
+1:01:18.200 --> 1:01:21.720
+ that would be a case where something like dimming the screen
+
+1:01:21.720 --> 1:01:24.980
+ plus blue blockers, if that's in your practice,
+
+1:01:26.060 --> 1:01:27.780
+ or you want to do that would be helpful
+
+1:01:27.780 --> 1:01:28.680
+ and then going to sleep.
+
+1:01:28.680 --> 1:01:31.640
+ And then you'll probably wake up late in the afternoon
+
+1:01:31.640 --> 1:01:33.040
+ or early afternoon.
+
+1:01:33.040 --> 1:01:34.960
+ Some of you might say, wait, Huberman,
+
+1:01:34.960 --> 1:01:36.100
+ I thought you don't like blue blockers.
+
+1:01:36.100 --> 1:01:37.440
+ I never said I don't like blue blockers.
+
+1:01:37.440 --> 1:01:38.840
+ I don't like people wearing blue blockers
+
+1:01:38.840 --> 1:01:40.520
+ at the time of day when they want to be alert.
+
+1:01:40.520 --> 1:01:43.200
+ And I don't like people asserting that blue blockers
+
+1:01:43.200 --> 1:01:45.040
+ can prevent circadian shifts
+
+1:01:45.040 --> 1:01:46.380
+ simply because people are wearing them.
+
+1:01:46.380 --> 1:01:48.000
+ The brightness of light is what's important.
+
+1:01:48.000 --> 1:01:49.700
+ It's not about the blue.
+
+1:01:49.700 --> 1:01:53.520
+ So if you want to wear them, wear them,
+
+1:01:53.520 --> 1:01:56.180
+ or just dim the lights or turn the lights off.
+
+1:01:56.180 --> 1:01:59.160
+ So let's say you go to sleep at,
+
+1:01:59.160 --> 1:02:02.600
+ you get home after this 4 p.m. to 2 a.m. shift,
+
+1:02:02.600 --> 1:02:05.480
+ you maybe eat something, you go to sleep,
+
+1:02:05.480 --> 1:02:10.480
+ and you wake up and it's noon or 1 p.m.
+
+1:02:10.560 --> 1:02:13.060
+ Should you get light in your eyes?
+
+1:02:13.060 --> 1:02:14.600
+ Well, your first assumption,
+
+1:02:14.600 --> 1:02:15.880
+ based on what I've said previously,
+
+1:02:15.880 --> 1:02:17.680
+ might be that you're in the circadian dead zone,
+
+1:02:17.680 --> 1:02:20.280
+ that you can't because it's noon or 1 p.m.
+
+1:02:20.280 --> 1:02:21.800
+ But you're not in the circadian dead zone
+
+1:02:21.800 --> 1:02:23.800
+ because you're somebody who goes to sleep
+
+1:02:23.800 --> 1:02:27.300
+ early in the morning at 2 a.m.
+
+1:02:27.300 --> 1:02:29.740
+ So it's not like the circadian dead zone
+
+1:02:29.740 --> 1:02:31.580
+ is a strict time of day.
+
+1:02:31.580 --> 1:02:34.040
+ It's an internal biological clock.
+
+1:02:34.040 --> 1:02:36.080
+ So what do you need to know?
+
+1:02:36.080 --> 1:02:37.000
+ You guessed it.
+
+1:02:37.000 --> 1:02:39.200
+ You need to know your temperature minimum.
+
+1:02:39.200 --> 1:02:40.880
+ You need to know whether or not
+
+1:02:40.880 --> 1:02:43.720
+ your temperature is increasing or decreasing.
+
+1:02:43.720 --> 1:02:45.820
+ And now we can make this whole thing even simpler
+
+1:02:45.820 --> 1:02:49.680
+ and just say, if your temperature is decreasing,
+
+1:02:49.680 --> 1:02:51.360
+ avoid light.
+
+1:02:51.360 --> 1:02:54.520
+ If your temperature is increasing, get light.
+
+1:02:55.400 --> 1:02:58.480
+ It's that simple, okay?
+
+1:02:58.480 --> 1:03:01.120
+ If your temperature is decreasing, avoid light.
+
+1:03:01.120 --> 1:03:03.620
+ If your temperature is increasing, get light.
+
+1:03:04.920 --> 1:03:09.920
+ The shift worker who works from 4 p.m. until 2 a.m.
+
+1:03:09.920 --> 1:03:12.880
+ has a temperature rhythm that's very different than mine
+
+1:03:12.880 --> 1:03:15.600
+ where I wake up around 6 a.m., 5 a.m.,
+
+1:03:15.600 --> 1:03:19.720
+ and I go to sleep around 11 p.m., okay?
+
+1:03:19.720 --> 1:03:23.560
+ We both have a 24 hour-ish circadian cycle
+
+1:03:23.560 --> 1:03:25.960
+ except mine is more aligned to the rise
+
+1:03:25.960 --> 1:03:29.900
+ and setting of the sun and theirs is not, right?
+
+1:03:29.900 --> 1:03:33.360
+ So you have to know your internal temperature rhythm
+
+1:03:33.360 --> 1:03:37.220
+ and know you don't have to walk around with a thermometer
+
+1:03:37.220 --> 1:03:39.360
+ wherever taking your temperature.
+
+1:03:39.360 --> 1:03:41.160
+ Although it'd be great if some of the devices
+
+1:03:41.160 --> 1:03:43.440
+ that are out there, people are counting their steps.
+
+1:03:43.440 --> 1:03:45.040
+ I think it'd be great if people had
+
+1:03:45.040 --> 1:03:46.960
+ a circadian body temperature measurement.
+
+1:03:46.960 --> 1:03:48.900
+ I'm not involved in any of this device development,
+
+1:03:48.900 --> 1:03:52.060
+ but I think it's a real call to arms, pun intended,
+
+1:03:52.060 --> 1:03:55.040
+ to have a wristband that would measure temperature
+
+1:03:55.040 --> 1:03:56.500
+ and would tell you your temperature minimum
+
+1:03:56.500 --> 1:03:57.560
+ when you travel or whatnot.
+
+1:03:57.560 --> 1:04:00.240
+ I don't know, maybe some of these devices already do that,
+
+1:04:00.240 --> 1:04:02.500
+ but if they don't, they should.
+
+1:04:02.500 --> 1:04:03.600
+ It's absolutely absurd to me
+
+1:04:03.600 --> 1:04:05.080
+ why we wouldn't have this simple measurement.
+
+1:04:05.080 --> 1:04:07.400
+ Very easy to get that kind of information.
+
+1:04:07.400 --> 1:04:10.480
+ You don't even need the exact temperature read.
+
+1:04:10.480 --> 1:04:13.120
+ All you need to know is the high and low point.
+
+1:04:13.120 --> 1:04:14.880
+ So let's say you're a shift worker
+
+1:04:14.880 --> 1:04:18.240
+ who really is nocturnal, you're flipped.
+
+1:04:18.240 --> 1:04:20.920
+ Well, you want to stay on that nocturnal schedule.
+
+1:04:20.920 --> 1:04:22.760
+ Now, that can be very hard on families
+
+1:04:22.760 --> 1:04:25.000
+ and social life of all kinds,
+
+1:04:25.000 --> 1:04:29.960
+ but the person who is working, say, from 8 p.m.,
+
+1:04:29.960 --> 1:04:34.400
+ like sundown to sunrise, this raises a question.
+
+1:04:34.400 --> 1:04:37.200
+ Should they be looking at the sunrise
+
+1:04:37.200 --> 1:04:39.480
+ and should they be watching the sunset,
+
+1:04:39.480 --> 1:04:43.080
+ waking up with the sunset, going to sleep with the sunrise?
+
+1:04:43.080 --> 1:04:45.680
+ You think, well, is that light going to throw them off?
+
+1:04:45.680 --> 1:04:47.160
+ Ah, probably not.
+
+1:04:47.160 --> 1:04:48.480
+ It's just actually going to invert
+
+1:04:48.480 --> 1:04:50.200
+ what sunrise and sunset are.
+
+1:04:50.200 --> 1:04:52.600
+ When they're waking up in the morning,
+
+1:04:52.600 --> 1:04:55.700
+ if they get some sunlight in their eyes,
+
+1:04:55.700 --> 1:04:57.440
+ they look at the sun and get some bright light
+
+1:04:57.440 --> 1:05:01.040
+ from devices or overhead lights in their apartment or home,
+
+1:05:01.040 --> 1:05:03.200
+ well, that's going to tend to wake them up
+
+1:05:04.640 --> 1:05:06.240
+ if it's in the evening, right?
+
+1:05:06.240 --> 1:05:08.760
+ So I don't know if I stated that clearly,
+
+1:05:08.760 --> 1:05:10.360
+ but if in the evening the sun is setting
+
+1:05:10.360 --> 1:05:11.800
+ and they're looking at that setting sun,
+
+1:05:11.800 --> 1:05:15.420
+ that is the morning sun for that person
+
+1:05:15.420 --> 1:05:18.520
+ and it will wake them up for their night shift.
+
+1:05:18.520 --> 1:05:20.280
+ So temperature rising.
+
+1:05:20.280 --> 1:05:22.600
+ Then toward morning, what's happening?
+
+1:05:22.600 --> 1:05:24.400
+ Okay, well, they're closing out their work shift.
+
+1:05:24.400 --> 1:05:25.720
+ You're going home.
+
+1:05:25.720 --> 1:05:26.980
+ The sun is rising.
+
+1:05:26.980 --> 1:05:28.440
+ Do you look at the rising sun?
+
+1:05:28.440 --> 1:05:31.280
+ Well, based on what you now know,
+
+1:05:31.280 --> 1:05:32.680
+ your eyes are very sensitive
+
+1:05:32.680 --> 1:05:34.040
+ to resetting of circadian clocks.
+
+1:05:34.040 --> 1:05:35.360
+ What will it do at that time?
+
+1:05:35.360 --> 1:05:36.240
+ If this were a classroom,
+
+1:05:36.240 --> 1:05:38.280
+ I would either cold call on somebody
+
+1:05:38.280 --> 1:05:41.480
+ or I'd wait for the oh, oh, oh, oh person in the audience.
+
+1:05:41.480 --> 1:05:42.880
+ It inevitably exists.
+
+1:05:42.880 --> 1:05:46.760
+ So temperature for that person,
+
+1:05:46.760 --> 1:05:48.040
+ they've been up for a while.
+
+1:05:48.040 --> 1:05:50.320
+ Temperature is falling, not rising.
+
+1:05:50.320 --> 1:05:52.380
+ For me, it would be rising,
+
+1:05:52.380 --> 1:05:56.520
+ but because I'm diurnal, I'm awake during the day.
+
+1:05:56.520 --> 1:05:58.280
+ For that person, the temperature is falling
+
+1:05:58.280 --> 1:06:01.120
+ and so they view light while temperature is falling.
+
+1:06:01.120 --> 1:06:01.960
+ What's it going to do?
+
+1:06:01.960 --> 1:06:04.000
+ It's going to phase delay them.
+
+1:06:04.000 --> 1:06:05.400
+ It's going to make it harder for them
+
+1:06:05.400 --> 1:06:07.240
+ to get to sleep the following night.
+
+1:06:07.240 --> 1:06:10.500
+ So you would say that person should watch the setting sun
+
+1:06:10.500 --> 1:06:12.160
+ to help them wake up
+
+1:06:12.160 --> 1:06:13.580
+ because they're going to work the night shift,
+
+1:06:13.580 --> 1:06:15.200
+ but should probably have sunglasses on
+
+1:06:15.200 --> 1:06:19.160
+ or avoid viewing bright light before they go to sleep.
+
+1:06:19.160 --> 1:06:20.200
+ So it's the same thing.
+
+1:06:20.200 --> 1:06:21.320
+ They're just on an inverted,
+
+1:06:21.320 --> 1:06:24.240
+ as a typical person who's diurnal,
+
+1:06:24.240 --> 1:06:26.520
+ but they're on an inverted schedule.
+
+1:06:26.520 --> 1:06:28.840
+ So I'm really trying hard here
+
+1:06:28.840 --> 1:06:31.120
+ to make this all really clear.
+
+1:06:31.120 --> 1:06:35.600
+ There are kind of two patterns of requests in the world
+
+1:06:35.600 --> 1:06:37.240
+ I'm noticing as I've kind of ventured
+
+1:06:37.240 --> 1:06:40.840
+ into this landscape of social media and podcasts.
+
+1:06:40.840 --> 1:06:42.480
+ There are people who want to know every detail
+
+1:06:42.480 --> 1:06:43.600
+ and want to quantify everything
+
+1:06:43.600 --> 1:06:45.000
+ because they want to get exactly right.
+
+1:06:45.000 --> 1:06:47.700
+ These are like the graduate students and students
+
+1:06:47.700 --> 1:06:49.180
+ that don't want to make a mistake.
+
+1:06:49.180 --> 1:06:51.220
+ And to quote my graduate advisor,
+
+1:06:51.220 --> 1:06:54.600
+ provided the mistakes are not dangerous,
+
+1:06:54.600 --> 1:06:56.160
+ certainly not lethal,
+
+1:06:56.160 --> 1:06:59.720
+ you kind of want to make a few little mistakes
+
+1:06:59.720 --> 1:07:01.620
+ so that you can adjust, right?
+
+1:07:01.620 --> 1:07:03.080
+ You don't want to endanger yourself,
+
+1:07:03.080 --> 1:07:05.960
+ but it's actually, you're not going to get things perfect.
+
+1:07:05.960 --> 1:07:06.780
+ That's called learning.
+
+1:07:06.780 --> 1:07:07.880
+ Learning is when you realize,
+
+1:07:07.880 --> 1:07:10.020
+ ah, I viewed sun this time and then I stayed up
+
+1:07:10.020 --> 1:07:11.160
+ and it really messed me up.
+
+1:07:11.160 --> 1:07:12.460
+ I'll never do that again.
+
+1:07:14.240 --> 1:07:18.040
+ The other category of people seem to want
+
+1:07:18.040 --> 1:07:20.160
+ the one size fits all kind of like,
+
+1:07:20.160 --> 1:07:22.820
+ give me this pill or give me this protocol.
+
+1:07:22.820 --> 1:07:25.000
+ And those things generally work,
+
+1:07:25.000 --> 1:07:27.560
+ but they don't afford people flexibility.
+
+1:07:27.560 --> 1:07:29.580
+ And if there's anything like that,
+
+1:07:29.580 --> 1:07:31.820
+ it's this temperature minimum thing
+
+1:07:31.820 --> 1:07:33.720
+ that I've been just hammering on again
+
+1:07:33.720 --> 1:07:34.700
+ and again and again today,
+
+1:07:34.700 --> 1:07:36.840
+ because it's something that you own
+
+1:07:36.840 --> 1:07:39.820
+ and that you can really use as a key landmark
+
+1:07:39.820 --> 1:07:41.760
+ for shifting your clock.
+
+1:07:41.760 --> 1:07:44.140
+ I suppose there's a third category,
+
+1:07:44.140 --> 1:07:48.040
+ which is people who accept that biological systems
+
+1:07:48.040 --> 1:07:49.600
+ are actually much more forgiving
+
+1:07:49.600 --> 1:07:51.960
+ than the way they're sometimes described.
+
+1:07:51.960 --> 1:07:53.800
+ And I'm going to use this as an opportunity
+
+1:07:53.800 --> 1:07:56.120
+ to editorialize a little bit.
+
+1:07:56.120 --> 1:07:58.540
+ You know, there's so much made of sleep debt.
+
+1:07:58.540 --> 1:08:01.480
+ Look, there isn't an IRS equivalent for sleep.
+
+1:08:01.480 --> 1:08:02.560
+ They're not going to come around
+
+1:08:02.560 --> 1:08:05.520
+ and try and collect all the sleep that you didn't get.
+
+1:08:05.520 --> 1:08:09.080
+ No one really knows what the consequences
+
+1:08:09.080 --> 1:08:10.840
+ are going to be for you and for me
+
+1:08:10.840 --> 1:08:13.020
+ and for the next person for the sleep you didn't get.
+
+1:08:13.020 --> 1:08:16.900
+ You can't really recover the sleep you missed out on,
+
+1:08:16.900 --> 1:08:19.380
+ but you also don't want to get neurotically attached
+
+1:08:19.380 --> 1:08:20.660
+ to a schedule because there's this thing
+
+1:08:20.660 --> 1:08:21.700
+ called sleep anxiety,
+
+1:08:21.700 --> 1:08:23.200
+ and then people have trouble falling asleep
+
+1:08:23.200 --> 1:08:24.080
+ and staying asleep.
+
+1:08:24.080 --> 1:08:25.840
+ So I want to spend a moment on that
+
+1:08:25.840 --> 1:08:29.200
+ and go back to a theme that I've said many times before,
+
+1:08:29.200 --> 1:08:30.960
+ because these tools work,
+
+1:08:30.960 --> 1:08:33.480
+ what I called NSDR, non-sleep deep rest.
+
+1:08:33.480 --> 1:08:35.240
+ So this would be hypnosis.
+
+1:08:35.240 --> 1:08:37.360
+ I give you the link, but I'll say it again,
+
+1:08:37.360 --> 1:08:41.440
+ reveriehealth.com for clinically tested, research tested,
+
+1:08:41.440 --> 1:08:46.440
+ free hypnosis for anxiety, but also for sleep.
+
+1:08:46.720 --> 1:08:48.120
+ Those are very beneficial people.
+
+1:08:48.120 --> 1:08:50.440
+ NSDR protocols, non-sleep deep rest protocols
+
+1:08:50.440 --> 1:08:53.140
+ for things like yoga nidra.
+
+1:08:53.140 --> 1:08:54.720
+ I provide some links to those in the caption
+
+1:08:54.720 --> 1:08:56.280
+ for episode two.
+
+1:08:56.280 --> 1:08:57.240
+ These things really work.
+
+1:08:57.240 --> 1:09:00.200
+ Last night I woke up, I went to bed about 1030.
+
+1:09:00.200 --> 1:09:02.120
+ I woke up at three in the morning.
+
+1:09:02.120 --> 1:09:04.360
+ I knew I wasn't feeling rested.
+
+1:09:04.360 --> 1:09:07.200
+ I did a NSDR protocol.
+
+1:09:07.200 --> 1:09:08.280
+ I fell back asleep.
+
+1:09:08.280 --> 1:09:10.520
+ I woke up at 630, okay?
+
+1:09:10.520 --> 1:09:13.440
+ You need to teach your brain and your nervous system
+
+1:09:13.440 --> 1:09:15.720
+ how to turn off your thoughts and go to sleep.
+
+1:09:15.720 --> 1:09:17.340
+ And ideally you do that without medication,
+
+1:09:17.340 --> 1:09:18.740
+ unless there's a real need,
+
+1:09:18.740 --> 1:09:20.360
+ you do that through these behavioral protocols.
+
+1:09:20.360 --> 1:09:23.720
+ They work because they involve using the body
+
+1:09:23.720 --> 1:09:24.540
+ to shift the mind,
+
+1:09:24.540 --> 1:09:26.000
+ not trying to just turn off your thoughts
+
+1:09:26.000 --> 1:09:27.420
+ in the middle of the night.
+
+1:09:27.420 --> 1:09:28.960
+ Now, there are periods of life
+
+1:09:28.960 --> 1:09:30.760
+ where things are stressful and people are concerned
+
+1:09:30.760 --> 1:09:35.240
+ and you will have some struggle getting and staying asleep.
+
+1:09:35.240 --> 1:09:39.020
+ And that really has to do more with anxiety,
+
+1:09:39.020 --> 1:09:42.520
+ which NSDR protocols also can help with.
+
+1:09:42.520 --> 1:09:43.960
+ As I always say, do them in the middle of the night
+
+1:09:43.960 --> 1:09:45.420
+ if you wake up and you want to go back to sleep,
+
+1:09:45.420 --> 1:09:46.260
+ do in the middle of the day
+
+1:09:46.260 --> 1:09:47.540
+ to teach your nervous system how to calm down
+
+1:09:47.540 --> 1:09:48.560
+ or do them first thing in the morning
+
+1:09:48.560 --> 1:09:49.800
+ if you didn't feel you got enough sleep.
+
+1:09:49.800 --> 1:09:52.080
+ In other words, do them whenever you have an opportunity
+
+1:09:52.080 --> 1:09:55.960
+ to do them because they really can help you learn
+
+1:09:55.960 --> 1:10:00.200
+ how to turn on the parasympathetic slash calming arm
+
+1:10:00.200 --> 1:10:01.840
+ of your autonomic nervous system.
+
+1:10:01.840 --> 1:10:05.500
+ There's no other way that I'm aware of
+
+1:10:05.500 --> 1:10:07.780
+ to teach your system to slow down
+
+1:10:07.780 --> 1:10:09.460
+ and turn off your thoughts and go back to sleep.
+
+1:10:09.460 --> 1:10:10.660
+ But these are powerful protocols
+
+1:10:10.660 --> 1:10:12.120
+ and there's a lot of research now
+
+1:10:12.120 --> 1:10:15.120
+ to support the fact that they can really help.
+
+1:10:15.120 --> 1:10:17.060
+ Meditation would be another example.
+
+1:10:18.120 --> 1:10:20.880
+ Meditation of certain kinds of meditation
+
+1:10:20.880 --> 1:10:23.180
+ involve focus and alertness.
+
+1:10:23.180 --> 1:10:25.140
+ Those are slightly different than meditations
+
+1:10:25.140 --> 1:10:26.660
+ that involve lack of focus
+
+1:10:26.660 --> 1:10:29.240
+ and attention to say internal states.
+
+1:10:30.740 --> 1:10:31.620
+ I'm going to pause there
+
+1:10:31.620 --> 1:10:34.020
+ and then I want to talk about kids and the elderly.
+
+1:10:34.020 --> 1:10:37.620
+ In other words, how do we control sleep
+
+1:10:37.620 --> 1:10:40.740
+ and circadian rhythms and wakefulness in babies,
+
+1:10:40.740 --> 1:10:44.820
+ adolescents, teens, and aged folks?
+
+1:10:44.820 --> 1:10:49.060
+ All right, before we talk about sleep and kids,
+
+1:10:49.060 --> 1:10:50.620
+ I want to tell a little story.
+
+1:10:50.620 --> 1:10:52.060
+ It's not a joke.
+
+1:10:52.060 --> 1:10:53.060
+ Many of you will be relieved
+
+1:10:53.060 --> 1:10:54.780
+ that I'm not going to try and tell another joke
+
+1:10:54.780 --> 1:10:58.160
+ this episode, which is the relationship
+
+1:10:58.160 --> 1:11:02.700
+ between light, skin, and pelage color,
+
+1:11:03.860 --> 1:11:08.860
+ dopamine, and reproduction, mating.
+
+1:11:09.100 --> 1:11:13.980
+ So many seasonally breeding animals,
+
+1:11:13.980 --> 1:11:16.060
+ Siberian hamsters, which I mentioned earlier,
+
+1:11:16.060 --> 1:11:20.420
+ rabbits, fox, other animals change their color
+
+1:11:20.420 --> 1:11:22.020
+ of their coat.
+
+1:11:22.020 --> 1:11:24.140
+ In the winter, they tend to be a lighter color,
+
+1:11:24.140 --> 1:11:28.380
+ sometimes a pure white, sometimes with flecks of black
+
+1:11:28.380 --> 1:11:31.380
+ or brown, and in the summer,
+
+1:11:31.380 --> 1:11:36.380
+ their pelage changes to a color of brown or red,
+
+1:11:36.480 --> 1:11:38.420
+ some other vastly different color.
+
+1:11:39.620 --> 1:11:43.580
+ That shift is controlled by light and by melatonin.
+
+1:11:45.580 --> 1:11:48.680
+ This has an interesting correlate in humans.
+
+1:11:48.680 --> 1:11:52.640
+ So humans obviously have different skin tones
+
+1:11:52.640 --> 1:11:56.140
+ just genetically because of the amount of melanin
+
+1:11:56.140 --> 1:11:59.180
+ in one's skin, depending on genetic background.
+
+1:12:00.220 --> 1:12:02.900
+ But of course, sunlight will increase the amount
+
+1:12:02.900 --> 1:12:05.660
+ of melanin in the skin regardless, right?
+
+1:12:05.660 --> 1:12:09.400
+ This is suntan, sunburn, et cetera, bronzing, whatever.
+
+1:12:12.240 --> 1:12:16.500
+ The whole system is wired so that shifts in skin color
+
+1:12:16.500 --> 1:12:20.900
+ and shifts in these cells within the eye and melatonin
+
+1:12:20.900 --> 1:12:22.420
+ are actually very closely linked.
+
+1:12:22.420 --> 1:12:23.460
+ So here's the story.
+
+1:12:24.860 --> 1:12:29.860
+ Many years ago, meaning about 10 years ago, 15 years ago,
+
+1:12:30.220 --> 1:12:35.040
+ let's see, it was 20 years ago, forgive me,
+
+1:12:35.040 --> 1:12:39.540
+ a guy named Iggy Provencio who was running his own lab
+
+1:12:39.540 --> 1:12:42.220
+ at Uniformed Armed Services,
+
+1:12:42.220 --> 1:12:45.020
+ this is a standard biological laboratory,
+
+1:12:45.020 --> 1:12:50.020
+ discovered that there was an opsin in the eye,
+
+1:12:50.100 --> 1:12:51.640
+ in the cells of the eye that connect
+
+1:12:51.640 --> 1:12:54.340
+ to the rest of the brain called melanopsin.
+
+1:12:54.340 --> 1:12:56.300
+ Melanopsin, as many of you now know,
+
+1:12:56.300 --> 1:12:59.800
+ is the opsin, it's like a pigment, it absorbs light.
+
+1:13:00.900 --> 1:13:03.700
+ It is the opsin that converts light into electrical signals
+
+1:13:03.700 --> 1:13:05.300
+ and then set the circadian clock.
+
+1:13:07.100 --> 1:13:12.100
+ Iggy discovered melanopsin because it was similar in form
+
+1:13:14.040 --> 1:13:18.660
+ to what was in frog melanophores.
+
+1:13:18.660 --> 1:13:20.980
+ It was actually in the skin of frogs
+
+1:13:20.980 --> 1:13:24.700
+ that allowed those frogs to go from pale white
+
+1:13:24.700 --> 1:13:28.260
+ when it was dark for most of the 24-hour cycle
+
+1:13:28.260 --> 1:13:33.100
+ to pigmented, green or brown for a frog.
+
+1:13:34.060 --> 1:13:37.820
+ So there's this relationship between the cells in our eye
+
+1:13:37.820 --> 1:13:39.620
+ and the pigment cells of our skin.
+
+1:13:40.540 --> 1:13:44.280
+ And we also know that in long days, there's more breeding.
+
+1:13:44.280 --> 1:13:45.120
+ How does that work?
+
+1:13:45.120 --> 1:13:47.500
+ Well, that's actually from dopamine
+
+1:13:47.500 --> 1:13:51.300
+ triggering increases in testosterone mainly in males
+
+1:13:51.300 --> 1:13:52.980
+ and estrogen mainly in females,
+
+1:13:52.980 --> 1:13:55.400
+ although of course there's testosterone estrogen
+
+1:13:55.400 --> 1:13:57.180
+ in both sexes.
+
+1:13:57.180 --> 1:14:01.420
+ So we have this kind of pathway where it's light,
+
+1:14:01.420 --> 1:14:04.780
+ increases in melanin, dopamine and reproduction
+
+1:14:04.780 --> 1:14:07.040
+ on the one hand and lack of light,
+
+1:14:07.040 --> 1:14:11.860
+ melatonin decreases in the darkness of skin,
+
+1:14:11.860 --> 1:14:14.380
+ less melanin in the skin,
+
+1:14:14.380 --> 1:14:16.980
+ or in the case of an animal with fur, white fur
+
+1:14:16.980 --> 1:14:18.920
+ and no reproduction on the other hand.
+
+1:14:19.780 --> 1:14:24.780
+ And humans don't actually shift their breeding patterns
+
+1:14:25.340 --> 1:14:28.380
+ tremendously from long days and short days,
+
+1:14:28.380 --> 1:14:31.640
+ although there are some data that there's some shifts.
+
+1:14:31.640 --> 1:14:34.560
+ We also don't radically change our skin color
+
+1:14:34.560 --> 1:14:37.560
+ depending on how much sunlight exposure we have.
+
+1:14:37.560 --> 1:14:41.680
+ But the simple way to put this is when days are long,
+
+1:14:41.680 --> 1:14:44.740
+ there's a lot more dopamine and we feel really good
+
+1:14:44.740 --> 1:14:47.940
+ and there's a lot more breeding and breeding like behavior.
+
+1:14:47.940 --> 1:14:51.660
+ When days are short, there's a lot less dopamine
+
+1:14:51.660 --> 1:14:53.420
+ and a lot less breeding behavior
+
+1:14:53.420 --> 1:14:57.660
+ because these pathways are very highly conserved.
+
+1:14:57.660 --> 1:15:02.180
+ Now, what's interesting is that as we've moved
+
+1:15:02.180 --> 1:15:06.240
+ into a modern society where much of our waking days,
+
+1:15:06.240 --> 1:15:08.040
+ we are looking at screens, which is fine
+
+1:15:08.040 --> 1:15:09.380
+ because we're getting a lot of light that way,
+
+1:15:09.380 --> 1:15:11.140
+ although not as much as sunlight,
+
+1:15:11.140 --> 1:15:14.180
+ but also at night, we're getting a lot of light
+
+1:15:14.180 --> 1:15:17.960
+ from screens, what's happened is all these pathways,
+
+1:15:19.380 --> 1:15:23.060
+ melanin in the skin, turnover of skin cells, dopamine,
+
+1:15:23.060 --> 1:15:26.620
+ all of this stuff has become completely disrupted.
+
+1:15:26.620 --> 1:15:28.640
+ Now, that's not to say that we should go back to a time
+
+1:15:28.640 --> 1:15:30.620
+ in which we didn't use artificial lights,
+
+1:15:30.620 --> 1:15:32.400
+ but I think the important thing to realize
+
+1:15:32.400 --> 1:15:36.320
+ is that feeling good with getting a lot of light,
+
+1:15:37.560 --> 1:15:42.560
+ the relationship to dopamine and melanin in the skin
+
+1:15:42.560 --> 1:15:46.440
+ and the good feelings of getting light also on our skin,
+
+1:15:46.440 --> 1:15:47.980
+ provided you're not getting burned
+
+1:15:47.980 --> 1:15:50.540
+ or you're not getting excessive UV exposure,
+
+1:15:50.540 --> 1:15:53.160
+ those are not just coincidences,
+
+1:15:53.160 --> 1:15:55.400
+ those are hardwired biological mechanisms
+
+1:15:55.400 --> 1:15:56.460
+ that exist in everybody,
+
+1:15:56.460 --> 1:16:00.060
+ regardless of how light or dark your skin is to begin with.
+
+1:16:01.260 --> 1:16:03.220
+ There's another point which is important,
+
+1:16:03.220 --> 1:16:05.760
+ which is that the dopamine system,
+
+1:16:05.760 --> 1:16:07.900
+ which is this feel-good molecule,
+
+1:16:07.900 --> 1:16:11.620
+ is very closely related to the testosterone and estrogen
+
+1:16:11.620 --> 1:16:12.700
+ in reproductive cycles.
+
+1:16:12.700 --> 1:16:16.640
+ Remember, melatonin inhibits gonadotropin-releasing hormone,
+
+1:16:16.640 --> 1:16:19.460
+ luteinizing hormone and the production of these hormones
+
+1:16:19.460 --> 1:16:21.520
+ and melatonin is the effector,
+
+1:16:21.520 --> 1:16:24.440
+ it is the hormone of darkness.
+
+1:16:24.440 --> 1:16:27.920
+ So I just threw a lot of biology at you
+
+1:16:27.920 --> 1:16:30.820
+ and I'm not saying you're like a Siberian hamster,
+
+1:16:30.820 --> 1:16:32.800
+ at least not in ways that I'm aware of,
+
+1:16:32.800 --> 1:16:36.120
+ I'm not saying that your pelage color is going to change.
+
+1:16:36.120 --> 1:16:37.840
+ Actually, the reason people go gray
+
+1:16:37.840 --> 1:16:40.760
+ is because when you're really stressed, did you know this?
+
+1:16:40.760 --> 1:16:42.440
+ When you're really stressed,
+
+1:16:42.440 --> 1:16:44.680
+ there's an increase in the nerve fibers
+
+1:16:44.680 --> 1:16:48.320
+ that release adrenaline to the hair follicle
+
+1:16:48.320 --> 1:16:52.860
+ and that activates peroxide groups in the hair follicle
+
+1:16:52.860 --> 1:16:55.600
+ that cause the hair to actually go gray or white.
+
+1:16:55.600 --> 1:16:58.760
+ So actually, stress does make your hair gray or white,
+
+1:16:58.760 --> 1:16:59.840
+ aging does it too.
+
+1:17:02.020 --> 1:17:03.140
+ That was a brief aside,
+
+1:17:03.140 --> 1:17:04.820
+ but for those of you that are interested
+
+1:17:04.820 --> 1:17:07.640
+ in the relationship between light and skin tone
+
+1:17:07.640 --> 1:17:08.480
+ and all that kind of stuff,
+
+1:17:08.480 --> 1:17:09.520
+ I thought you might find it interesting
+
+1:17:09.520 --> 1:17:11.960
+ that these cells in your eye are a lot like
+
+1:17:11.960 --> 1:17:15.360
+ these skin cells in frogs or in animals
+
+1:17:15.360 --> 1:17:18.080
+ that shift their entire color
+
+1:17:18.080 --> 1:17:20.360
+ and sometimes it will metamorphosize.
+
+1:17:20.360 --> 1:17:22.500
+ You know, there are some species that literally change shape
+
+1:17:22.500 --> 1:17:23.460
+ in the reproductive organs.
+
+1:17:23.460 --> 1:17:25.940
+ In fact, if that wasn't weird enough,
+
+1:17:25.940 --> 1:17:27.700
+ when I was in graduate school at Berkeley,
+
+1:17:27.700 --> 1:17:30.880
+ there was another graduate student studying a species
+
+1:17:30.880 --> 1:17:33.600
+ of hermaphroditic mole, right?
+
+1:17:33.600 --> 1:17:35.320
+ Those little things that dig.
+
+1:17:35.320 --> 1:17:39.760
+ Hermaphroditic mole that would change from having ovaries
+
+1:17:39.760 --> 1:17:43.880
+ to testes and back again depending on day life.
+
+1:17:43.880 --> 1:17:46.080
+ Super cool, super different
+
+1:17:47.400 --> 1:17:50.000
+ and wild biological mechanism.
+
+1:17:50.960 --> 1:17:52.880
+ If you're wondering how those animals reproduce,
+
+1:17:52.880 --> 1:17:55.020
+ they actually adjust the numbers of males and females
+
+1:17:55.020 --> 1:17:56.760
+ depending on the density of males and females.
+
+1:17:56.760 --> 1:17:58.420
+ So if there are too many males,
+
+1:17:59.280 --> 1:18:02.920
+ some of the males turn their testes into ovaries
+
+1:18:02.920 --> 1:18:03.960
+ and if there are too many females,
+
+1:18:03.960 --> 1:18:05.640
+ they turn their ovaries into testes.
+
+1:18:05.640 --> 1:18:08.640
+ They actually are true hermaphroditic animals
+
+1:18:08.640 --> 1:18:10.840
+ as opposed to pseudo hermaphroditic animals.
+
+1:18:11.760 --> 1:18:13.940
+ Okay, let's get back on track.
+
+1:18:13.940 --> 1:18:17.160
+ Let's talk about the animal that most of you care about
+
+1:18:17.160 --> 1:18:18.540
+ which is the human animal.
+
+1:18:19.640 --> 1:18:22.120
+ New parents and babies.
+
+1:18:22.120 --> 1:18:26.880
+ All right, as I mentioned earlier, melatonin is not cyclic.
+
+1:18:26.880 --> 1:18:29.560
+ It's not cycling in babies, it's more phasic.
+
+1:18:29.560 --> 1:18:32.680
+ It's being released at a kind of a constant level
+
+1:18:32.680 --> 1:18:35.920
+ and babies tend to be smaller than adults, they are
+
+1:18:35.920 --> 1:18:38.740
+ and so those concentrations of melatonin are very high.
+
+1:18:38.740 --> 1:18:41.680
+ As a baby grows, those concentrations per unit volume
+
+1:18:41.680 --> 1:18:42.680
+ are going to go down.
+
+1:18:44.200 --> 1:18:47.320
+ Babies are not born with a typical sleep-wake cycle
+
+1:18:47.320 --> 1:18:48.960
+ and now all the parents saying,
+
+1:18:48.960 --> 1:18:50.560
+ tell me something I didn't know.
+
+1:18:51.680 --> 1:18:55.440
+ They also have, and I really want to emphasize this,
+
+1:18:55.440 --> 1:18:59.780
+ they also have much more sensitive optics of the eye.
+
+1:18:59.780 --> 1:19:02.200
+ So a number of people have asked me,
+
+1:19:02.200 --> 1:19:04.780
+ should I be exposing my baby to sunlight?
+
+1:19:04.780 --> 1:19:06.240
+ You don't want to avoid sunlight
+
+1:19:06.240 --> 1:19:08.240
+ but their eyes are very sensitive,
+
+1:19:08.240 --> 1:19:10.560
+ the optics of their eyes aren't quite developed.
+
+1:19:10.560 --> 1:19:14.520
+ So much so that when you look at a newborn baby
+
+1:19:14.520 --> 1:19:16.720
+ and they look a little glassy on
+
+1:19:16.720 --> 1:19:17.760
+ and they're kind of looking through you
+
+1:19:17.760 --> 1:19:20.300
+ or even a young child, a lot of people think
+
+1:19:20.300 --> 1:19:23.080
+ that they're seeing you the way that you're seeing them.
+
+1:19:23.080 --> 1:19:24.080
+ Hate to break it to you
+
+1:19:24.080 --> 1:19:29.080
+ but if you ever can just Google a visual image
+
+1:19:29.080 --> 1:19:33.400
+ of a like a one month old, the optics of their eyes
+
+1:19:33.400 --> 1:19:35.960
+ are so poor that you're a cloudy image.
+
+1:19:35.960 --> 1:19:38.180
+ They're not seeing your fine detail.
+
+1:19:38.180 --> 1:19:39.840
+ As the optics get better,
+
+1:19:40.720 --> 1:19:43.280
+ then they will see you with more and more clarity.
+
+1:19:43.280 --> 1:19:45.060
+ But a lot of that is clearing of the lens
+
+1:19:45.060 --> 1:19:48.880
+ and some of the other aqueous features of the newborn eye.
+
+1:19:48.880 --> 1:19:50.400
+ They don't see very well
+
+1:19:51.320 --> 1:19:54.260
+ but they also don't have such great ways
+
+1:19:54.260 --> 1:19:55.700
+ of adjusting to bright light.
+
+1:19:55.700 --> 1:19:58.320
+ And so babies have a natural aversion to bright light.
+
+1:19:58.320 --> 1:20:00.280
+ So you really want to avoid
+
+1:20:00.280 --> 1:20:02.360
+ trying to use sunlight or really bright light
+
+1:20:02.360 --> 1:20:04.240
+ in the same way that you would for an adult
+
+1:20:04.240 --> 1:20:06.920
+ on a young baby or child.
+
+1:20:06.920 --> 1:20:10.120
+ As children get older however,
+
+1:20:10.120 --> 1:20:13.160
+ melatonin does start to become slightly more cyclic,
+
+1:20:13.160 --> 1:20:14.400
+ slightly more cycled.
+
+1:20:14.400 --> 1:20:15.920
+ And their body temperature rhythms
+
+1:20:15.920 --> 1:20:19.280
+ also start to fall into a more regular,
+
+1:20:19.280 --> 1:20:20.920
+ not quite 24 hour rhythm.
+
+1:20:20.920 --> 1:20:22.480
+ They're more of these all trading rhythms.
+
+1:20:22.480 --> 1:20:26.720
+ So in episode, I think it was one or two of the podcast
+
+1:20:26.720 --> 1:20:28.840
+ or maybe both, we talked about these 90 minute
+
+1:20:28.840 --> 1:20:32.280
+ so-called ultradian rhythms where every 90 minutes
+
+1:20:33.200 --> 1:20:37.640
+ babies are going through a cycle of body temperature
+
+1:20:37.640 --> 1:20:39.160
+ and some other hormonal features.
+
+1:20:39.160 --> 1:20:42.060
+ I mean, so much is changing in their system.
+
+1:20:42.060 --> 1:20:45.640
+ So what to do if a child isn't sleeping?
+
+1:20:45.640 --> 1:20:49.440
+ You can use phases of darkness and phases of light
+
+1:20:49.440 --> 1:20:50.880
+ but they're going to have to be shortened
+
+1:20:50.880 --> 1:20:52.440
+ in order to try and encourage sleep
+
+1:20:52.440 --> 1:20:53.600
+ when you want the child to sleep.
+
+1:20:53.600 --> 1:20:55.680
+ It's not that they're just not going to fall
+
+1:20:55.680 --> 1:20:58.740
+ into an adult light regime of a temperature minimum
+
+1:20:58.740 --> 1:21:00.120
+ and a temperature maximum.
+
+1:21:00.120 --> 1:21:01.680
+ Their temperature minimums and maximums
+
+1:21:01.680 --> 1:21:03.800
+ are fluctuating much more quickly
+
+1:21:03.800 --> 1:21:05.380
+ and it varies tremendously.
+
+1:21:06.640 --> 1:21:08.680
+ Actually, there's an interesting literature
+
+1:21:08.680 --> 1:21:10.040
+ of whether or not they have siblings,
+
+1:21:10.040 --> 1:21:11.000
+ whether or not they're twins,
+
+1:21:11.000 --> 1:21:13.120
+ whether or not they're in a nursery environment,
+
+1:21:13.120 --> 1:21:14.640
+ whether or not they're alone,
+
+1:21:14.640 --> 1:21:15.760
+ well, hopefully the baby's not alone
+
+1:21:15.760 --> 1:21:16.600
+ but you know what I mean?
+
+1:21:16.600 --> 1:21:17.600
+ That they're sleeping alone in a room
+
+1:21:17.600 --> 1:21:19.640
+ while you're in the other room.
+
+1:21:19.640 --> 1:21:21.620
+ There are a couple of things that seem to help
+
+1:21:21.620 --> 1:21:23.480
+ which is getting the overall environment
+
+1:21:23.480 --> 1:21:25.200
+ into a 24 hour schedule.
+
+1:21:25.200 --> 1:21:27.840
+ So having the room slightly colder,
+
+1:21:27.840 --> 1:21:29.960
+ obviously you want babies to be nice and cozy,
+
+1:21:29.960 --> 1:21:32.740
+ slightly colder when you would like them to be asleep,
+
+1:21:32.740 --> 1:21:34.120
+ slightly warmer for the times
+
+1:21:34.120 --> 1:21:35.120
+ you would like them to be awake.
+
+1:21:35.120 --> 1:21:37.920
+ Babies tend to run pretty hot anyway
+
+1:21:39.640 --> 1:21:43.000
+ and obviously you want to be very careful
+
+1:21:43.000 --> 1:21:47.200
+ about avoiding all extremes of temperature, cold or hot.
+
+1:21:48.200 --> 1:21:50.980
+ So if they're going through these 90 minute cycles,
+
+1:21:50.980 --> 1:21:52.280
+ you're going to have to adjust
+
+1:21:52.280 --> 1:21:53.800
+ those 90 minute cycles as well.
+
+1:21:53.800 --> 1:21:55.800
+ So then people say, well, that's not going to help me at all
+
+1:21:55.800 --> 1:21:57.280
+ because how do I deal with the fact
+
+1:21:57.280 --> 1:21:59.440
+ that I need to be up every 90 minutes at night?
+
+1:21:59.440 --> 1:22:02.160
+ There are a couple tools that can be helpful.
+
+1:22:02.160 --> 1:22:06.320
+ The first one is going to be to try and understand
+
+1:22:06.320 --> 1:22:09.640
+ the relationship between calm and deep sleep.
+
+1:22:09.640 --> 1:22:11.720
+ So the autonomic nervous system
+
+1:22:11.720 --> 1:22:14.260
+ can put us into states of panic
+
+1:22:14.260 --> 1:22:16.700
+ where that's kind of seesaw of autonomic alertness
+
+1:22:16.700 --> 1:22:18.040
+ goes all the way to panic
+
+1:22:18.040 --> 1:22:20.560
+ or it can be alertness or it can be alert and calm, right?
+
+1:22:20.560 --> 1:22:23.120
+ So there's a range there, it's a continuum.
+
+1:22:23.120 --> 1:22:26.040
+ Can also be that you're in deep sleep,
+
+1:22:26.040 --> 1:22:27.720
+ so the other end of the seesaw is way up
+
+1:22:27.720 --> 1:22:30.080
+ or you're in light sleep or you're kind of sleepy
+
+1:22:30.080 --> 1:22:32.140
+ or you're just feeling kind of relaxed.
+
+1:22:33.160 --> 1:22:36.280
+ Perhaps the most important thing
+
+1:22:36.280 --> 1:22:39.520
+ if you're having to map to a baby's schedule
+
+1:22:39.520 --> 1:22:41.780
+ in order to make sure that they're getting changings
+
+1:22:41.780 --> 1:22:44.340
+ and nursing, et cetera, at the appropriate times
+
+1:22:44.340 --> 1:22:48.360
+ is to try and maintain,
+
+1:22:48.360 --> 1:22:51.840
+ if you can't sleep or you can't sleep continuously,
+
+1:22:51.840 --> 1:22:56.040
+ to try and maintain your autonomic nervous system
+
+1:22:56.040 --> 1:22:58.080
+ in a place where you're not
+
+1:22:58.080 --> 1:23:00.440
+ going into heightened states of alertness
+
+1:23:00.440 --> 1:23:03.100
+ when you would ideally be sleeping.
+
+1:23:03.100 --> 1:23:05.920
+ Now, I realize that this could be translated
+
+1:23:05.920 --> 1:23:07.880
+ to try and stay calm while you're sleep deprived
+
+1:23:07.880 --> 1:23:10.000
+ which is very hard for people to do
+
+1:23:10.000 --> 1:23:11.360
+ but this is where
+
+1:23:11.360 --> 1:23:13.720
+ the non-sleep deep breath protocol surface again
+
+1:23:13.720 --> 1:23:16.120
+ and can potentially be very beneficial
+
+1:23:16.120 --> 1:23:19.920
+ for people to be able to recover not necessarily sleep
+
+1:23:19.920 --> 1:23:22.360
+ but for them to maintain a certain amount
+
+1:23:22.360 --> 1:23:24.000
+ of autonomic regulation.
+
+1:23:24.000 --> 1:23:25.040
+ So what would this look like?
+
+1:23:25.040 --> 1:23:27.200
+ This would look like a baby goes down,
+
+1:23:27.200 --> 1:23:29.560
+ maybe it's only going to go down for 45 minutes.
+
+1:23:29.560 --> 1:23:31.440
+ If you can capture sleep,
+
+1:23:33.480 --> 1:23:35.960
+ there are some data showing what's called polyphasic sleep.
+
+1:23:35.960 --> 1:23:38.960
+ If you can sleep in 45 minute increments or batches,
+
+1:23:38.960 --> 1:23:40.620
+ even if it's spread throughout the day
+
+1:23:40.620 --> 1:23:42.120
+ with periods of wakefulness in between,
+
+1:23:42.120 --> 1:23:43.240
+ as miserable as that sound,
+
+1:23:43.240 --> 1:23:44.160
+ there are actually some adults
+
+1:23:44.160 --> 1:23:46.080
+ that have deliberately employed that
+
+1:23:46.080 --> 1:23:49.280
+ who don't have children for sake of work productivity
+
+1:23:49.280 --> 1:23:51.880
+ and it does tend to reduce the total overall amount
+
+1:23:51.880 --> 1:23:53.560
+ of sleep that you need.
+
+1:23:53.560 --> 1:23:55.760
+ It is a very hard schedule for most people to maintain
+
+1:23:55.760 --> 1:23:56.600
+ but if you have a baby,
+
+1:23:56.600 --> 1:23:57.560
+ the baby may be throwing you
+
+1:23:57.560 --> 1:23:58.840
+ into that kind of schedule anyway.
+
+1:23:58.840 --> 1:24:02.040
+ So if you can get 45 minutes sleep while they sleep, great.
+
+1:24:02.040 --> 1:24:03.960
+ If you can get another 45 minutes after waking
+
+1:24:03.960 --> 1:24:05.800
+ and then they go back down to sleep, great.
+
+1:24:05.800 --> 1:24:07.800
+ So as many phases of sleep as you can get
+
+1:24:07.800 --> 1:24:09.600
+ but if you can't sleep,
+
+1:24:09.600 --> 1:24:12.480
+ the data on non-sleep deep rest type protocols
+
+1:24:12.480 --> 1:24:15.480
+ does show that at least from a neurochemical level,
+
+1:24:15.480 --> 1:24:16.820
+ I want to be clear what that means,
+
+1:24:16.820 --> 1:24:20.440
+ reset of things like dopamine levels in the basal ganglia,
+
+1:24:20.440 --> 1:24:22.800
+ measured by things like positron emission tomography,
+
+1:24:22.800 --> 1:24:26.640
+ et cetera, those things tend to reset themselves pretty well
+
+1:24:26.640 --> 1:24:29.140
+ if you can access these deep rest states.
+
+1:24:29.140 --> 1:24:32.280
+ So that means not being alert
+
+1:24:32.280 --> 1:24:34.200
+ throughout the entire time that the baby is sleeping,
+
+1:24:34.200 --> 1:24:37.440
+ trying to sort of mirror the baby's sleep cycle,
+
+1:24:37.440 --> 1:24:39.040
+ which can be brutal for certain people
+
+1:24:39.040 --> 1:24:40.820
+ and especially if you're trying to prepare meals
+
+1:24:40.820 --> 1:24:41.660
+ and do all these things.
+
+1:24:41.660 --> 1:24:43.380
+ So I do recognize that there are a lot of constraints
+
+1:24:43.380 --> 1:24:44.560
+ on parenting, not just mapping
+
+1:24:44.560 --> 1:24:46.360
+ on your baby's sleep schedule.
+
+1:24:46.360 --> 1:24:50.960
+ As children approach ages one, two, three, four,
+
+1:24:50.960 --> 1:24:54.440
+ that's when certainly the optics of the eyes have improved
+
+1:24:54.440 --> 1:24:56.440
+ but you don't want to damage the eyes, of course,
+
+1:24:56.440 --> 1:24:57.960
+ with very bright light.
+
+1:24:57.960 --> 1:24:59.600
+ They are much more sensitive
+
+1:24:59.600 --> 1:25:02.940
+ even until they're kind of 10, 11 years old.
+
+1:25:04.040 --> 1:25:06.440
+ And we'll talk about vision in children in a moment
+
+1:25:06.440 --> 1:25:11.000
+ but trying to get longer and longer batches of sleep
+
+1:25:11.000 --> 1:25:13.240
+ through, hopefully not through the use
+
+1:25:13.240 --> 1:25:15.440
+ of administering melatonin to the kids
+
+1:25:15.440 --> 1:25:17.740
+ because that's what I talked about before,
+
+1:25:17.740 --> 1:25:19.540
+ why that could potentially be detrimental.
+
+1:25:19.540 --> 1:25:21.100
+ Talk about that with your doctor.
+
+1:25:21.100 --> 1:25:25.840
+ But more so trying to get longer blocks of sleep
+
+1:25:25.840 --> 1:25:27.980
+ that map onto these ultradian cycles.
+
+1:25:27.980 --> 1:25:30.560
+ So it would be better off to get a three hour,
+
+1:25:30.560 --> 1:25:32.080
+ like two 90 minute cycles,
+
+1:25:32.080 --> 1:25:34.240
+ than a four hour batch of sleep
+
+1:25:34.240 --> 1:25:36.820
+ because waking up in the middle of those ultradian cycles
+
+1:25:36.820 --> 1:25:39.440
+ can just be brutal for parent and kid.
+
+1:25:39.440 --> 1:25:42.800
+ So if one can't get a full six or 10
+
+1:25:42.800 --> 1:25:44.600
+ or some kids should even be sleeping 12 hours
+
+1:25:44.600 --> 1:25:45.800
+ when they're growing quickly,
+
+1:25:45.800 --> 1:25:47.900
+ trying to get batches of sleep,
+
+1:25:47.900 --> 1:25:51.020
+ even if they're fractured throughout the 24 hour cycle
+
+1:25:51.020 --> 1:25:54.000
+ that are matched more to these 90 minute cycles,
+
+1:25:54.000 --> 1:25:56.600
+ meaning maybe one ultradian cycle of 90 minutes
+
+1:25:56.600 --> 1:26:01.080
+ or two back to back or three back to back to back,
+
+1:26:01.080 --> 1:26:02.540
+ that's going to be better than waking up
+
+1:26:02.540 --> 1:26:04.240
+ in the middle of an ultradian cycle.
+
+1:26:04.240 --> 1:26:06.860
+ It's just going to set any number of other things
+
+1:26:06.860 --> 1:26:10.760
+ in a better direction than were you to try to say,
+
+1:26:10.760 --> 1:26:15.040
+ just enforce or force a full eight or 10 hours of sleep.
+
+1:26:15.040 --> 1:26:17.380
+ That's at least what the literature shows.
+
+1:26:17.380 --> 1:26:19.160
+ Some kids sleep great through the night
+
+1:26:19.160 --> 1:26:20.920
+ starting at a very young age, others don't.
+
+1:26:20.920 --> 1:26:22.420
+ I typically hear from people
+
+1:26:22.420 --> 1:26:24.320
+ who are struggling tremendously.
+
+1:26:24.320 --> 1:26:26.320
+ They're losing their mind understandably
+
+1:26:26.320 --> 1:26:29.500
+ because they're not sleeping, their kid's not sleeping
+
+1:26:29.500 --> 1:26:31.280
+ or their kid is sleeping for such brief periods.
+
+1:26:31.280 --> 1:26:33.660
+ So in other words, trying to access deep calm
+
+1:26:33.660 --> 1:26:34.500
+ if you can't sleep,
+
+1:26:34.500 --> 1:26:35.920
+ trying to access sleep if you can sleep
+
+1:26:35.920 --> 1:26:37.240
+ even if it's fractured.
+
+1:26:37.240 --> 1:26:39.440
+ And then you say, well, what about all the sunlight viewing
+
+1:26:39.440 --> 1:26:44.440
+ and the exercise stuff when sleep is really, really
+
+1:26:44.680 --> 1:26:47.560
+ dismantled in meaning it's happening
+
+1:26:47.560 --> 1:26:49.440
+ in various times of day or night.
+
+1:26:49.440 --> 1:26:52.600
+ That's especially, at those times,
+
+1:26:52.600 --> 1:26:54.960
+ it's going to be especially important for the parent
+
+1:26:54.960 --> 1:26:56.600
+ to get morning and evening sunlight
+
+1:26:56.600 --> 1:26:59.520
+ because your circadian clock is going into a tailspin
+
+1:26:59.520 --> 1:27:01.720
+ and it basically wants to anchor to something.
+
+1:27:01.720 --> 1:27:02.920
+ So you want to give it two anchors,
+
+1:27:02.920 --> 1:27:05.320
+ morning and evening light, okay?
+
+1:27:05.320 --> 1:27:07.560
+ So this is rather different
+
+1:27:07.560 --> 1:27:09.160
+ than what I described for shift work.
+
+1:27:09.160 --> 1:27:10.760
+ This is when things are really chaotic
+
+1:27:10.760 --> 1:27:12.080
+ and you're just not able to sleep.
+
+1:27:12.080 --> 1:27:13.600
+ Similar circumstances can arise
+
+1:27:13.600 --> 1:27:15.500
+ if you're taking care of a very sick loved one,
+
+1:27:15.500 --> 1:27:16.840
+ you're up all night,
+
+1:27:16.840 --> 1:27:19.420
+ try and stay calm using NSDR protocols.
+
+1:27:19.420 --> 1:27:22.620
+ I know it's harder to do than to say,
+
+1:27:22.620 --> 1:27:24.880
+ but those protocols are there, they're free,
+
+1:27:24.880 --> 1:27:26.600
+ there's research to support them.
+
+1:27:26.600 --> 1:27:28.640
+ Try and get sleep whenever you can,
+
+1:27:28.640 --> 1:27:31.920
+ but also try to get morning sunlight
+
+1:27:31.920 --> 1:27:34.160
+ and evening sunlight in your eyes if you can
+
+1:27:34.160 --> 1:27:37.600
+ and if you can't get that, use artificial light, okay?
+
+1:27:37.600 --> 1:27:39.940
+ What about later life?
+
+1:27:39.940 --> 1:27:42.160
+ So kids now, adolescents, teens,
+
+1:27:42.160 --> 1:27:46.260
+ it is true that teens have a tendency to wake up later
+
+1:27:46.260 --> 1:27:47.700
+ and go to sleep later.
+
+1:27:47.700 --> 1:27:50.580
+ In part, just because they're sleeping a lot more,
+
+1:27:50.580 --> 1:27:52.780
+ they're churning out gonadotropin-releasing hormone
+
+1:27:52.780 --> 1:27:56.340
+ and luteinizing hormone, their whole bodies are changing.
+
+1:27:56.340 --> 1:27:58.420
+ I don't know whether or not people realize this,
+
+1:27:58.420 --> 1:28:00.460
+ but the fastest rate of aging
+
+1:28:00.460 --> 1:28:03.480
+ that any of us will ever undergo is puberty.
+
+1:28:04.340 --> 1:28:06.060
+ That is the fastest rate of aging.
+
+1:28:06.060 --> 1:28:08.620
+ And so there's a huge number of biological processes
+
+1:28:08.620 --> 1:28:10.140
+ that are happening during puberty.
+
+1:28:10.140 --> 1:28:12.580
+ Probably devote a whole episode to puberty
+
+1:28:12.580 --> 1:28:16.640
+ as a fascinating aspect to the life course,
+
+1:28:16.640 --> 1:28:19.340
+ but it is an accelerated period of aging.
+
+1:28:19.340 --> 1:28:24.340
+ And the circadian clock mechanisms sometimes are very intact
+
+1:28:24.500 --> 1:28:25.920
+ and sometimes they're a little dismantled
+
+1:28:25.920 --> 1:28:27.700
+ and going through some change,
+
+1:28:27.700 --> 1:28:31.260
+ but prioritize the duration of sleep
+
+1:28:31.260 --> 1:28:33.020
+ for adolescents and teens.
+
+1:28:33.020 --> 1:28:34.960
+ Now, if that means they're sleeping until 2 p.m.
+
+1:28:34.960 --> 1:28:36.680
+ and then waking up and then they're up all night,
+
+1:28:36.680 --> 1:28:38.540
+ the up all night part can become a problem,
+
+1:28:38.540 --> 1:28:41.300
+ especially with all the devices texting in their rooms
+
+1:28:41.300 --> 1:28:43.220
+ or playing video games.
+
+1:28:43.220 --> 1:28:45.080
+ Morning and evening sunlight would be ideal,
+
+1:28:45.080 --> 1:28:46.480
+ but some kids are just going to sleep
+
+1:28:46.480 --> 1:28:47.800
+ through the morning sunlight.
+
+1:28:47.800 --> 1:28:49.640
+ However, if you were to measure their temperature,
+
+1:28:49.640 --> 1:28:52.160
+ what you would find is that their temperature minimum
+
+1:28:52.160 --> 1:28:54.100
+ would come later in the morning.
+
+1:28:54.100 --> 1:28:57.100
+ It's not going to be 8 a.m.,
+
+1:28:57.100 --> 1:28:58.640
+ it's going to be maybe even 10 a.m.
+
+1:28:58.640 --> 1:29:01.200
+ if they're sleeping until 11 or 12,
+
+1:29:01.200 --> 1:29:03.860
+ or it might be 8 a.m. if they're sleeping until 10.
+
+1:29:03.860 --> 1:29:05.500
+ Remember, temperature minimum is two hours
+
+1:29:05.500 --> 1:29:08.300
+ before your average waking time, typically.
+
+1:29:08.300 --> 1:29:11.220
+ So in teens, it maximizes the total amount of sleep.
+
+1:29:11.220 --> 1:29:13.940
+ Try and get regular sunlight either in the morning
+
+1:29:13.940 --> 1:29:15.540
+ or in the evening or both,
+
+1:29:15.540 --> 1:29:17.260
+ but if they're sleeping through the morning sunrise,
+
+1:29:17.260 --> 1:29:20.440
+ that's probably not as much of an issue.
+
+1:29:20.440 --> 1:29:23.360
+ Waking them up and depriving them of sleep is probably worse
+
+1:29:23.360 --> 1:29:25.740
+ because their T-min, their temperature minimum,
+
+1:29:25.740 --> 1:29:27.960
+ is actually falling later.
+
+1:29:27.960 --> 1:29:30.760
+ So their circadian dead zone is later, et cetera.
+
+1:29:30.760 --> 1:29:32.720
+ So I think with adolescents and teens,
+
+1:29:32.720 --> 1:29:35.920
+ it makes sense to kind of give them a little bit more rope
+
+1:29:35.920 --> 1:29:39.040
+ in terms of allowing them some leeway
+
+1:29:39.040 --> 1:29:40.160
+ to adjust their own schedule.
+
+1:29:40.160 --> 1:29:42.200
+ Some schools are even starting classes later
+
+1:29:42.200 --> 1:29:45.080
+ on the basis of some very good biology
+
+1:29:45.080 --> 1:29:46.860
+ to support this late-shifted rhythm
+
+1:29:46.860 --> 1:29:48.500
+ and this extended sleep phase.
+
+1:29:49.900 --> 1:29:53.240
+ There are data from Dr. Jamie Zeitzer,
+
+1:29:53.240 --> 1:29:54.840
+ Department of Psychiatry and Behavioral Sciences,
+
+1:29:54.840 --> 1:29:57.660
+ and others at Stanford showing that turning on the lights
+
+1:29:57.660 --> 1:29:59.800
+ in the room of a teen before they wake up
+
+1:29:59.800 --> 1:30:03.640
+ helps them get more sleep the subsequent night.
+
+1:30:03.640 --> 1:30:05.280
+ It also tricks them into going to sleep
+
+1:30:05.280 --> 1:30:06.120
+ a little bit earlier,
+
+1:30:06.120 --> 1:30:09.280
+ but it gives them about 45 minutes more of deep sleep,
+
+1:30:09.280 --> 1:30:10.980
+ and that's been shown statistically.
+
+1:30:10.980 --> 1:30:13.340
+ Total sleep time increases as well.
+
+1:30:13.340 --> 1:30:15.140
+ If they're hiding under the covers, that's not going to work,
+
+1:30:15.140 --> 1:30:17.040
+ but their eyes don't have to be open.
+
+1:30:17.040 --> 1:30:18.880
+ I know a few parents now that are coming in
+
+1:30:18.880 --> 1:30:22.760
+ with a flashlight and flashing their kids over their eyelids
+
+1:30:22.760 --> 1:30:24.940
+ before they wake up in hopes of getting this to work.
+
+1:30:24.940 --> 1:30:27.320
+ Some have told me this is working.
+
+1:30:27.320 --> 1:30:29.680
+ That's not part of a standard study,
+
+1:30:30.760 --> 1:30:35.040
+ but it does seem to work because, now you should know why,
+
+1:30:35.040 --> 1:30:37.200
+ because if light's getting through the eyelids
+
+1:30:37.200 --> 1:30:40.400
+ and it's, say, 8 a.m. and the kid is still asleep
+
+1:30:40.400 --> 1:30:41.800
+ and they're going to wake up at 10,
+
+1:30:41.800 --> 1:30:44.920
+ you're giving them light just after
+
+1:30:44.920 --> 1:30:47.340
+ or around their temperature minimum,
+
+1:30:47.340 --> 1:30:50.120
+ which is going to make them want to go to sleep earlier,
+
+1:30:50.120 --> 1:30:51.560
+ and in the case of teens,
+
+1:30:51.560 --> 1:30:53.000
+ for some reason we don't quite understand,
+
+1:30:53.000 --> 1:30:55.760
+ sleep longer, about 45 minutes longer,
+
+1:30:55.760 --> 1:30:57.280
+ spend more time in deep sleep.
+
+1:30:57.280 --> 1:30:58.320
+ Adults can do this too.
+
+1:30:58.320 --> 1:31:00.660
+ If you can persuade someone or put your lights on timer
+
+1:31:00.660 --> 1:31:02.960
+ for lights to go on before you wake up,
+
+1:31:02.960 --> 1:31:06.200
+ that's really going to help you wake up earlier, okay?
+
+1:31:06.200 --> 1:31:08.920
+ So if you're starting to hear some themes
+
+1:31:08.920 --> 1:31:11.160
+ are really resounding over and over again,
+
+1:31:11.160 --> 1:31:13.360
+ that should be reassuring to you, right?
+
+1:31:13.360 --> 1:31:15.740
+ These are core mechanisms.
+
+1:31:15.740 --> 1:31:18.700
+ Fortunately, there aren't a thousand different mechanisms.
+
+1:31:18.700 --> 1:31:23.240
+ Now, in the elderly, there's a real tendency
+
+1:31:23.240 --> 1:31:27.280
+ to want to go to sleep very early and wake up very early,
+
+1:31:27.280 --> 1:31:31.200
+ and people should talk to their physician.
+
+1:31:31.200 --> 1:31:33.800
+ There is some evidence that melatonin levels
+
+1:31:33.800 --> 1:31:36.180
+ and patterns of melatonin secretion
+
+1:31:36.180 --> 1:31:39.640
+ can become a little chaotic in elderly folks.
+
+1:31:39.640 --> 1:31:40.660
+ What do I mean by elderly?
+
+1:31:40.660 --> 1:31:41.560
+ Well, it's going to differ.
+
+1:31:41.560 --> 1:31:42.980
+ Rates of aging differ, right?
+
+1:31:42.980 --> 1:31:46.640
+ You see some 65-year-olds that are struggling to move
+
+1:31:46.640 --> 1:31:50.040
+ and seem much older than some 65-year-olds
+
+1:31:50.040 --> 1:31:53.520
+ that are still hustling around and have tons of energy.
+
+1:31:53.520 --> 1:31:55.100
+ There's a lot of variation.
+
+1:31:55.100 --> 1:31:57.900
+ Some of it's genetic, some of it's lifestyle factors.
+
+1:31:59.240 --> 1:32:00.720
+ It really varies.
+
+1:32:00.720 --> 1:32:03.460
+ Certainly lifestyle factors can play an important role
+
+1:32:03.460 --> 1:32:04.660
+ in rates of aging.
+
+1:32:06.080 --> 1:32:09.760
+ I think that the most prominent results
+
+1:32:09.760 --> 1:32:12.840
+ from sleep and circadian rhythms in the elderly
+
+1:32:12.840 --> 1:32:15.800
+ are they need to get as much natural light
+
+1:32:15.800 --> 1:32:16.960
+ even if it's through windows.
+
+1:32:16.960 --> 1:32:20.200
+ I realize that some elderly folks can't get outside
+
+1:32:20.200 --> 1:32:21.040
+ as easily.
+
+1:32:21.040 --> 1:32:22.000
+ It's not safe for them to do it.
+
+1:32:22.000 --> 1:32:23.960
+ They can't move around as easily.
+
+1:32:25.100 --> 1:32:26.920
+ Exercise can come in various forms
+
+1:32:26.920 --> 1:32:29.400
+ for people that can't get outside
+
+1:32:29.400 --> 1:32:32.100
+ and get a ton of sunlight by jogging or cycling.
+
+1:32:32.100 --> 1:32:33.320
+ They're not able to do that.
+
+1:32:33.320 --> 1:32:35.840
+ Light through a window in that case, open window ideally,
+
+1:32:35.840 --> 1:32:37.720
+ but for temperature reasons, et cetera,
+
+1:32:37.720 --> 1:32:39.520
+ sometimes the window has to be closed.
+
+1:32:39.520 --> 1:32:40.840
+ Getting people near that window
+
+1:32:40.840 --> 1:32:43.580
+ and away from artificial light early in the day
+
+1:32:43.580 --> 1:32:46.740
+ and away from artificial lights during the night phase
+
+1:32:46.740 --> 1:32:49.440
+ can have a tremendous effect.
+
+1:32:49.440 --> 1:32:50.680
+ And in the elderly,
+
+1:32:50.680 --> 1:32:55.180
+ that's when melatonin might be a viable option.
+
+1:32:55.180 --> 1:32:57.020
+ And this should be discussed with a physician, of course,
+
+1:32:57.020 --> 1:33:00.920
+ but you're way past the puberty time point.
+
+1:33:00.920 --> 1:33:05.000
+ In most cases, people who are in their 70s and 80s and 90s
+
+1:33:05.000 --> 1:33:07.000
+ are not churning out a lot of GnRH
+
+1:33:07.000 --> 1:33:09.060
+ and luteinizing hormone to begin with.
+
+1:33:09.060 --> 1:33:11.540
+ And that's where struggles with falling asleep
+
+1:33:11.540 --> 1:33:12.920
+ and staying asleep,
+
+1:33:12.920 --> 1:33:15.520
+ all the same parameters and things we've described before
+
+1:33:15.520 --> 1:33:19.560
+ still apply, light, exercise, temperature, et cetera,
+
+1:33:19.560 --> 1:33:22.960
+ but that's where melatonin might be of greatest benefit.
+
+1:33:22.960 --> 1:33:24.680
+ And again, I'm not pushing melatonin here,
+
+1:33:24.680 --> 1:33:26.920
+ but I think for elderly folks who are having trouble
+
+1:33:26.920 --> 1:33:29.740
+ falling and staying asleep, that might be worthwhile.
+
+1:33:31.100 --> 1:33:33.760
+ There are, and I should just also mention
+
+1:33:33.760 --> 1:33:37.320
+ that regular schedule for folks that are elderly
+
+1:33:37.320 --> 1:33:40.880
+ and as much natural light as safely possible,
+
+1:33:40.880 --> 1:33:43.800
+ those are going to be the key levers
+
+1:33:43.800 --> 1:33:46.180
+ for adjusting sleep in circadian schedules.
+
+1:33:47.560 --> 1:33:49.440
+ I've mentioned before in previous podcasts,
+
+1:33:49.440 --> 1:33:52.400
+ other supplements besides melatonin.
+
+1:33:52.400 --> 1:33:55.120
+ And some of those supplements are quite good for sleep.
+
+1:33:55.120 --> 1:33:56.600
+ I'm not a supplement pusher.
+
+1:33:56.600 --> 1:33:59.360
+ I am somebody who takes supplements.
+
+1:33:59.360 --> 1:34:00.280
+ I believe in them.
+
+1:34:01.160 --> 1:34:03.840
+ Some have worked for me, some have not worked as well,
+
+1:34:03.840 --> 1:34:07.800
+ but I certainly believe in getting the behaviors right,
+
+1:34:07.800 --> 1:34:09.400
+ whether or not it's NSDR protocols,
+
+1:34:09.400 --> 1:34:11.760
+ viewing natural light, exercise,
+
+1:34:11.760 --> 1:34:15.760
+ it's hot baths or cold showers or what have you,
+
+1:34:15.760 --> 1:34:18.120
+ behavioral protocols first.
+
+1:34:18.120 --> 1:34:19.160
+ There are some supplements
+
+1:34:19.160 --> 1:34:20.960
+ that I've mentioned in previous podcasts,
+
+1:34:20.960 --> 1:34:22.600
+ but I've seemed to get a lot of questions about.
+
+1:34:22.600 --> 1:34:23.680
+ So I just want to take a couple of minutes
+
+1:34:23.680 --> 1:34:25.520
+ and just talk about some of the supplements
+
+1:34:25.520 --> 1:34:29.220
+ that can be beneficial for helping turning off thinking,
+
+1:34:29.220 --> 1:34:30.820
+ accessing deeper sleep,
+
+1:34:30.820 --> 1:34:33.860
+ and even being able to compact your sleep schedule
+
+1:34:33.860 --> 1:34:35.200
+ into a shorter period of hours,
+
+1:34:35.200 --> 1:34:37.600
+ meaning getting by well with less sleep.
+
+1:34:37.600 --> 1:34:39.560
+ People take a lot of sleeping pills.
+
+1:34:39.560 --> 1:34:42.280
+ I'm not going to tell people not to take sleeping pills.
+
+1:34:42.280 --> 1:34:44.560
+ They can be very problematic, habit forming,
+
+1:34:45.460 --> 1:34:49.360
+ high side effect incidents in many cases.
+
+1:34:49.360 --> 1:34:52.000
+ Some people can handle them just fine.
+
+1:34:52.000 --> 1:34:54.320
+ Again, I'm not a physician.
+
+1:34:54.320 --> 1:34:56.480
+ I don't prescribe anything or a professor.
+
+1:34:56.480 --> 1:34:59.800
+ So I profess a lot of things, some of which are my opinion.
+
+1:34:59.800 --> 1:35:02.060
+ Although if you look at the scientific literature,
+
+1:35:02.060 --> 1:35:03.600
+ there's some impressive data
+
+1:35:03.600 --> 1:35:06.780
+ around some non-prescription drug type supplements
+
+1:35:06.780 --> 1:35:09.440
+ that have fairly high safety margins
+
+1:35:09.440 --> 1:35:10.280
+ that you might consider,
+
+1:35:10.280 --> 1:35:11.900
+ but you should talk to your doctor always
+
+1:35:11.900 --> 1:35:13.720
+ before adding or taking anything
+
+1:35:13.720 --> 1:35:15.700
+ out of your health regimes, right?
+
+1:35:15.700 --> 1:35:17.440
+ Your health is not my responsibility.
+
+1:35:17.440 --> 1:35:18.420
+ It's your responsibility.
+
+1:35:18.420 --> 1:35:20.200
+ So be a stringent filter.
+
+1:35:20.200 --> 1:35:22.240
+ Along those lines, one of the most powerful
+
+1:35:22.240 --> 1:35:24.440
+ and useful tools that I've mentioned here on many times,
+
+1:35:24.440 --> 1:35:26.560
+ and I plan to mention many, many more times,
+
+1:35:26.560 --> 1:35:29.600
+ is the website examine.com,
+
+1:35:29.600 --> 1:35:31.800
+ which I have no affiliation with,
+
+1:35:31.800 --> 1:35:33.200
+ but is a wonderful site
+
+1:35:33.200 --> 1:35:35.840
+ that links you to quality peer-reviewed studies
+
+1:35:36.800 --> 1:35:38.360
+ related to just about any supplement,
+
+1:35:38.360 --> 1:35:40.440
+ including some safety warnings.
+
+1:35:40.440 --> 1:35:41.960
+ We'll also tell you what subjects,
+
+1:35:41.960 --> 1:35:45.440
+ whether or not it was rats, cats, elderly folks, or kids,
+
+1:35:45.440 --> 1:35:47.120
+ that a given study was done on,
+
+1:35:47.120 --> 1:35:50.760
+ which is important, can be kind of hard to pull from sites
+
+1:35:50.760 --> 1:35:52.680
+ where people are just advertising supplements, right?
+
+1:35:52.680 --> 1:35:54.640
+ They usually don't tell you what the study was
+
+1:35:54.640 --> 1:35:57.000
+ and who were these rats?
+
+1:35:57.000 --> 1:35:58.300
+ Who were these kids?
+
+1:35:59.880 --> 1:36:00.720
+ Et cetera.
+
+1:36:02.020 --> 1:36:04.120
+ There are three supplements that, at least for me,
+
+1:36:04.120 --> 1:36:08.120
+ have had a tremendously positive effect on my sleep
+
+1:36:08.120 --> 1:36:10.200
+ that some of you might consider.
+
+1:36:11.440 --> 1:36:14.840
+ I would say if you're doing everything properly,
+
+1:36:14.840 --> 1:36:17.200
+ behaviorally, and you're still having issues,
+
+1:36:17.200 --> 1:36:19.840
+ then supplements might be a good thing for you.
+
+1:36:19.840 --> 1:36:21.600
+ Or if you are traveling
+
+1:36:21.600 --> 1:36:23.720
+ and you want a little bit of extra help
+
+1:36:23.720 --> 1:36:26.200
+ in buffering your sleep wakefulness protocols.
+
+1:36:27.280 --> 1:36:29.120
+ Some people like to go just to the supplements.
+
+1:36:29.120 --> 1:36:30.040
+ They're like, what should I take?
+
+1:36:30.040 --> 1:36:32.040
+ I have people in my life that are like,
+
+1:36:32.040 --> 1:36:32.920
+ just tell me what to take.
+
+1:36:32.920 --> 1:36:34.960
+ You know, more of here's what you might want to do
+
+1:36:34.960 --> 1:36:37.040
+ or not do, but,
+
+1:36:37.040 --> 1:36:39.120
+ and then think about what you might want to take or not take.
+
+1:36:39.120 --> 1:36:42.700
+ But personal preference and it's free country,
+
+1:36:42.700 --> 1:36:45.080
+ so you can do what you like.
+
+1:36:47.580 --> 1:36:48.780
+ Magnesium.
+
+1:36:48.780 --> 1:36:53.280
+ So magnesium has been shown to increase the depth of sleep
+
+1:36:53.280 --> 1:36:56.600
+ and has been shown to decrease the amount of time
+
+1:36:56.600 --> 1:36:59.920
+ that it takes to access sleep, to fall asleep.
+
+1:36:59.920 --> 1:37:01.640
+ It comes in various forms.
+
+1:37:01.640 --> 1:37:04.920
+ I've talked a bunch of times about magnesium threonate,
+
+1:37:04.920 --> 1:37:09.160
+ T-H-R-E-O-N-A-T-E, threonate,
+
+1:37:09.160 --> 1:37:13.160
+ which seems to be the more bioavailable form of magnesium.
+
+1:37:13.160 --> 1:37:16.420
+ And magnesium threonate, it seems,
+
+1:37:16.420 --> 1:37:19.360
+ is shuttled preferentially to the brain,
+
+1:37:19.360 --> 1:37:21.880
+ which is where you want it.
+
+1:37:21.880 --> 1:37:23.640
+ And there are certain transporters,
+
+1:37:23.640 --> 1:37:26.060
+ it actually engages the GABA pathway,
+
+1:37:26.060 --> 1:37:28.320
+ which tends to turn off certain areas of the forebrain,
+
+1:37:28.320 --> 1:37:30.160
+ allows you to fall asleep.
+
+1:37:31.480 --> 1:37:34.080
+ There is a study, if you would like to explore it,
+
+1:37:34.080 --> 1:37:36.480
+ since people serious about supplementation
+
+1:37:36.480 --> 1:37:38.320
+ might want to explore the study,
+
+1:37:38.320 --> 1:37:41.040
+ which is Aetes et al., A-T-E-S,
+
+1:37:41.040 --> 1:37:42.560
+ dose dependent absorption profile
+
+1:37:42.560 --> 1:37:44.960
+ of different magnesium compounds.
+
+1:37:44.960 --> 1:37:47.960
+ Looks to me like a quality peer reviewed paper.
+
+1:37:47.960 --> 1:37:50.200
+ I can put the link in the caption.
+
+1:37:50.200 --> 1:37:52.920
+ And it explores all the different forms of magnesium.
+
+1:37:53.960 --> 1:37:56.080
+ It does seem like magnesium glycinate
+
+1:37:56.080 --> 1:37:57.840
+ can be similar to magnesium threonate
+
+1:37:57.840 --> 1:37:59.520
+ in terms of which tissues it shuttled to.
+
+1:37:59.520 --> 1:38:02.320
+ Magnesium malate, M-A-L-A-T-E,
+
+1:38:02.320 --> 1:38:04.500
+ is preferentially shuttled to the muscle, it appears,
+
+1:38:04.500 --> 1:38:05.340
+ as opposed to the brain.
+
+1:38:05.340 --> 1:38:08.260
+ So it's going to be more of a muscle repair type thing
+
+1:38:08.260 --> 1:38:10.800
+ or restoring magnesium stores in the periphery
+
+1:38:10.800 --> 1:38:11.920
+ as opposed to the brain.
+
+1:38:11.920 --> 1:38:14.640
+ Magnesium citrate has another name
+
+1:38:14.640 --> 1:38:17.240
+ that I won't mention in jest
+
+1:38:17.240 --> 1:38:20.160
+ because magnesium citrate's main effect,
+
+1:38:20.160 --> 1:38:21.900
+ at least on me and the people I know,
+
+1:38:21.900 --> 1:38:24.100
+ seems to be a laxative effect
+
+1:38:24.100 --> 1:38:25.680
+ as opposed to a cognitive effect.
+
+1:38:25.680 --> 1:38:27.160
+ There's also some evidence
+
+1:38:27.160 --> 1:38:29.880
+ that magnesium threonate can be neuroprotective.
+
+1:38:29.880 --> 1:38:32.380
+ Those data come from quality labs,
+
+1:38:32.380 --> 1:38:34.860
+ mostly rodent studies, not human studies,
+
+1:38:34.860 --> 1:38:36.160
+ but it's kind of interesting.
+
+1:38:36.160 --> 1:38:37.880
+ And again, the safety margins for these things
+
+1:38:37.880 --> 1:38:39.180
+ tend to be pretty high,
+
+1:38:39.180 --> 1:38:41.040
+ but anytime you're going to take something new,
+
+1:38:41.040 --> 1:38:42.440
+ you should approach it with caution,
+
+1:38:42.440 --> 1:38:44.640
+ especially since magnesium could be involved
+
+1:38:44.640 --> 1:38:47.320
+ in a heart rhythm and things of that sort.
+
+1:38:47.320 --> 1:38:50.480
+ The other supplement that has been very beneficial for me
+
+1:38:50.480 --> 1:38:51.320
+ is theanine.
+
+1:38:51.320 --> 1:38:55.820
+ So this is T-H-E-A-N-I-N-E, theanine,
+
+1:38:55.820 --> 1:38:59.560
+ T-H-E-A-N-I-N-E.
+
+1:38:59.560 --> 1:39:02.920
+ Theanine activates certain GABA pathways
+
+1:39:02.920 --> 1:39:05.640
+ which are involved in turning off top-down processing
+
+1:39:05.640 --> 1:39:08.720
+ and thinking, making it easier to fall asleep.
+
+1:39:08.720 --> 1:39:13.400
+ And theanine, 100 milligrams to 300 milligrams,
+
+1:39:13.400 --> 1:39:15.120
+ has a calming effect.
+
+1:39:15.120 --> 1:39:16.320
+ Theanine is now showing up
+
+1:39:16.320 --> 1:39:19.320
+ in a number of different energy drinks
+
+1:39:19.320 --> 1:39:21.560
+ and even some coffees as a way to try
+
+1:39:21.560 --> 1:39:23.800
+ and get people to ingest more of a given type of coffee
+
+1:39:23.800 --> 1:39:26.640
+ because the idea is it would take away the jitters
+
+1:39:26.640 --> 1:39:29.660
+ and the anxiety, allowing people to drink more coffee.
+
+1:39:29.660 --> 1:39:33.200
+ I'm talking about taking magnesium and theanine
+
+1:39:33.200 --> 1:39:35.020
+ 30 to 60 minutes before bedtime,
+
+1:39:35.020 --> 1:39:37.540
+ not during the day to quell anxiety,
+
+1:39:37.540 --> 1:39:40.100
+ but rather 30 to 60 minutes before bedtime
+
+1:39:40.100 --> 1:39:43.360
+ with or without food for me has made a difference.
+
+1:39:43.360 --> 1:39:45.920
+ And the combination of those two things has really helped.
+
+1:39:45.920 --> 1:39:49.200
+ Theanine for sleepwalkers can be a problem.
+
+1:39:49.200 --> 1:39:51.600
+ It does increase the intensity of your dreams.
+
+1:39:51.600 --> 1:39:53.920
+ It gives you very vivid dreams.
+
+1:39:53.920 --> 1:39:56.040
+ So for sleepwalkers or people that get night terrors,
+
+1:39:56.040 --> 1:39:59.080
+ stay away from theanine is my advice.
+
+1:39:59.080 --> 1:40:01.320
+ Magnesium, theanine might be something to explore
+
+1:40:01.320 --> 1:40:03.560
+ for those of you that don't have those issues
+
+1:40:03.560 --> 1:40:05.520
+ with the emphasis on might.
+
+1:40:05.520 --> 1:40:07.380
+ And then I've talked about a compound.
+
+1:40:07.380 --> 1:40:10.560
+ And last time I talked about the mechanisms of apigenin,
+
+1:40:10.560 --> 1:40:13.900
+ which is a derivative of chamomile, A-P-I-G-E-N,
+
+1:40:14.760 --> 1:40:16.600
+ which acts as a little bit of a hypnotic
+
+1:40:16.600 --> 1:40:17.960
+ by activating chloride channels,
+
+1:40:17.960 --> 1:40:20.860
+ hyperpolarized neurons, increases GABA in the brain,
+
+1:40:20.860 --> 1:40:23.720
+ basically makes you feel a little sleepy.
+
+1:40:23.720 --> 1:40:26.560
+ And chamomile, for those of you that read your,
+
+1:40:27.640 --> 1:40:31.200
+ what was it, Peter Rabbit snuck into Mr. McGregor's garden,
+
+1:40:31.200 --> 1:40:33.720
+ ate the chamomile, fell asleep, Mr. McGregor came back.
+
+1:40:33.720 --> 1:40:35.920
+ Okay, anyone flashing back to elementary school?
+
+1:40:35.920 --> 1:40:38.200
+ Okay, there's a story about chamomile
+
+1:40:38.200 --> 1:40:40.000
+ having these kind of sedative-like effects.
+
+1:40:40.000 --> 1:40:41.480
+ Apigenin is highly concentrated.
+
+1:40:41.480 --> 1:40:44.500
+ Chamomile also has anti-estrogenic effects.
+
+1:40:44.500 --> 1:40:46.740
+ So if you want to keep your estrogen up,
+
+1:40:46.740 --> 1:40:49.160
+ you might want to be cautious about apigenin.
+
+1:40:49.160 --> 1:40:52.120
+ That's where things like examine.com become really useful
+
+1:40:52.120 --> 1:40:54.520
+ because you can go to examine, you put in apigenin,
+
+1:40:54.520 --> 1:40:56.240
+ and it'll tell you all the things that it does,
+
+1:40:56.240 --> 1:40:57.540
+ and all the things that it does
+
+1:40:57.540 --> 1:40:59.480
+ can sometimes include things that you had no idea,
+
+1:40:59.480 --> 1:41:04.480
+ like reducing conversion of certain androgens to estrogens,
+
+1:41:05.100 --> 1:41:07.560
+ which you might like or you might want to avoid.
+
+1:41:07.560 --> 1:41:09.660
+ That's up to you and where you want your estrogen levels,
+
+1:41:09.660 --> 1:41:10.640
+ depending on who you are
+
+1:41:10.640 --> 1:41:13.240
+ and what your life circumstances and goals are.
+
+1:41:14.100 --> 1:41:17.800
+ A few other things that can help the transition to sleep
+
+1:41:17.800 --> 1:41:20.800
+ are things like 5-HTP, L-Tryptophan.
+
+1:41:20.800 --> 1:41:22.920
+ I've talked about why I'm not a fan of those.
+
+1:41:22.920 --> 1:41:25.700
+ For me, they tend to throw me into deep sleep,
+
+1:41:25.700 --> 1:41:27.580
+ and then I wake up and I can't fall back asleep.
+
+1:41:27.580 --> 1:41:30.360
+ So I don't like to tinker with my serotonin system.
+
+1:41:30.360 --> 1:41:32.640
+ I don't like to tinker with my dopamine system
+
+1:41:32.640 --> 1:41:34.120
+ for entirely other reasons,
+
+1:41:34.120 --> 1:41:38.240
+ but none of which are particularly concerning.
+
+1:41:38.240 --> 1:41:40.320
+ It's just that I find that if I increase my dopamine
+
+1:41:40.320 --> 1:41:43.000
+ by taking L-tyrosine in pill form,
+
+1:41:43.000 --> 1:41:44.640
+ then I crash really hard the next day.
+
+1:41:44.640 --> 1:41:47.000
+ Or if I take 5-HTP or L-Tryptophan,
+
+1:41:47.000 --> 1:41:49.720
+ I fall deeply asleep and then I wake up.
+
+1:41:49.720 --> 1:41:51.880
+ But I did mention that there might be ways
+
+1:41:51.880 --> 1:41:53.840
+ to make sleep more compact.
+
+1:41:53.840 --> 1:41:56.160
+ And so this is actually a request to you.
+
+1:41:56.160 --> 1:42:00.000
+ I had a really interesting experience when I was a postdoc.
+
+1:42:00.000 --> 1:42:02.880
+ I went for the first time to an acupuncturist.
+
+1:42:02.880 --> 1:42:05.760
+ I know there are varying thoughts and opinions out there
+
+1:42:05.760 --> 1:42:06.880
+ about acupuncture.
+
+1:42:08.140 --> 1:42:11.880
+ I can't say that I benefited so much from the acupuncture.
+
+1:42:11.880 --> 1:42:14.840
+ There are now quality peer-reviewed studies
+
+1:42:14.840 --> 1:42:17.400
+ published in Neuron, cell press journal, excellent journal,
+
+1:42:17.400 --> 1:42:20.280
+ showing that acupuncture can stimulate
+
+1:42:20.280 --> 1:42:22.600
+ some anti-inflammatory compounds,
+
+1:42:22.600 --> 1:42:24.080
+ depending on where the acupuncture is done.
+
+1:42:24.080 --> 1:42:26.280
+ There's a really good studies came out last year.
+
+1:42:26.280 --> 1:42:27.480
+ I talked about this on Instagram.
+
+1:42:27.480 --> 1:42:28.720
+ I may talk about it again.
+
+1:42:28.720 --> 1:42:30.880
+ As well as certain acupuncture sites
+
+1:42:30.880 --> 1:42:32.580
+ that increase inflammation.
+
+1:42:32.580 --> 1:42:36.480
+ So you can get different types of effects.
+
+1:42:36.480 --> 1:42:39.480
+ You can't just say acupuncture is great across the board.
+
+1:42:39.480 --> 1:42:41.880
+ And I'm assuming that the acupuncturists know
+
+1:42:41.880 --> 1:42:43.760
+ which sites are good for increasing inflammation,
+
+1:42:43.760 --> 1:42:46.640
+ which ones are good for decreasing inflammation.
+
+1:42:46.640 --> 1:42:50.400
+ However, this acupuncturist that I went to
+
+1:42:50.400 --> 1:42:52.040
+ gave me these red pills.
+
+1:42:52.040 --> 1:42:53.800
+ He said, these are minerals for sleep.
+
+1:42:53.800 --> 1:42:54.660
+ And it was remarkable.
+
+1:42:54.660 --> 1:42:56.240
+ I took the red pills.
+
+1:42:56.240 --> 1:42:57.280
+ Isn't that the thing now?
+
+1:42:57.280 --> 1:42:58.100
+ Take the red pill.
+
+1:42:58.100 --> 1:43:00.760
+ I don't know what that means because I'm not tuned in.
+
+1:43:00.760 --> 1:43:03.360
+ But these red pills look like little M&Ms.
+
+1:43:03.360 --> 1:43:05.440
+ I took a couple of them on his suggestion.
+
+1:43:05.440 --> 1:43:07.960
+ And I fell deeply asleep and four hours later
+
+1:43:07.960 --> 1:43:09.920
+ woke up feeling incredibly rested,
+
+1:43:09.920 --> 1:43:12.000
+ more rested than I had ever felt in my entire life.
+
+1:43:12.000 --> 1:43:13.940
+ And I never required more than four hours sleep.
+
+1:43:13.940 --> 1:43:16.240
+ Unfortunately, acupuncturist moved away.
+
+1:43:16.240 --> 1:43:18.560
+ I never figured out what was in those red pills.
+
+1:43:18.560 --> 1:43:20.880
+ I didn't get a chance to do the mass spectroscopy.
+
+1:43:20.880 --> 1:43:24.000
+ And I still wonder, he said they were minerals.
+
+1:43:24.000 --> 1:43:27.360
+ So somebody out there knows what these red pills are
+
+1:43:27.360 --> 1:43:28.600
+ and what this compound is.
+
+1:43:28.600 --> 1:43:30.920
+ And it was incredible.
+
+1:43:30.920 --> 1:43:33.640
+ And I would love to know what those are.
+
+1:43:33.640 --> 1:43:37.440
+ So if you know, please don't go taking red pills at random
+
+1:43:37.440 --> 1:43:41.880
+ to try and recreate this non-experiment experience of mine.
+
+1:43:41.880 --> 1:43:44.960
+ But please do contact me if you find out
+
+1:43:44.960 --> 1:43:46.360
+ or if you're an acupuncturist and you know
+
+1:43:46.360 --> 1:43:48.560
+ what these mysterious red pills were
+
+1:43:48.560 --> 1:43:51.740
+ because they were pretty awesome.
+
+1:43:51.740 --> 1:43:53.520
+ Once again, I've thrown a tremendous amount
+
+1:43:53.520 --> 1:43:55.620
+ of information at you.
+
+1:43:55.620 --> 1:43:58.180
+ I hope you will figure out your temperature minimum
+
+1:43:58.180 --> 1:44:02.200
+ and start working with that to access the sleep
+
+1:44:02.200 --> 1:44:04.820
+ and wakeful cycles that you want to access.
+
+1:44:04.820 --> 1:44:07.420
+ I hope that you'll explore NSDR.
+
+1:44:07.420 --> 1:44:10.580
+ You might want to explore supplementation
+
+1:44:10.580 --> 1:44:11.900
+ if that's your thing.
+
+1:44:11.900 --> 1:44:14.920
+ You have now access to a lot of mechanism
+
+1:44:14.920 --> 1:44:16.640
+ about sleep and wakefulness.
+
+1:44:16.640 --> 1:44:18.580
+ But in keeping with the theme of this podcast
+
+1:44:18.580 --> 1:44:21.200
+ where we stay on topic for an entire month
+
+1:44:21.200 --> 1:44:22.520
+ or even slightly more,
+
+1:44:22.520 --> 1:44:24.920
+ we are not done with sleep and wakefulness.
+
+1:44:24.920 --> 1:44:26.720
+ I know this is very different
+
+1:44:26.720 --> 1:44:28.240
+ than the typical podcast format
+
+1:44:28.240 --> 1:44:31.480
+ where one week it's how to become superhuman
+
+1:44:31.480 --> 1:44:35.800
+ and the next week it's how to develop growth mindset.
+
+1:44:35.800 --> 1:44:38.080
+ It's kind of all over the place with episode to episode.
+
+1:44:38.080 --> 1:44:40.900
+ We are staying on track because I really believe
+
+1:44:40.900 --> 1:44:43.760
+ that as we drill deeper and deeper into these mechanisms
+
+1:44:43.760 --> 1:44:45.900
+ and you start hearing some of the same themes again
+
+1:44:45.900 --> 1:44:49.360
+ and again, you're going to start to develop an intuition
+
+1:44:49.360 --> 1:44:51.700
+ and an understanding of how these systems work in you
+
+1:44:51.700 --> 1:44:53.760
+ and your particular life circumstances.
+
+1:44:53.760 --> 1:44:56.800
+ And my goal is really to eventually become obsolete.
+
+1:44:56.800 --> 1:44:58.620
+ It's what my graduate advisor used to call
+
+1:44:58.620 --> 1:45:00.800
+ the hit by a bus principle.
+
+1:45:01.800 --> 1:45:03.640
+ She had a somewhat morbid sense of humor
+
+1:45:03.640 --> 1:45:05.640
+ and used to be, well, if I get hit by a bus tomorrow,
+
+1:45:05.640 --> 1:45:09.200
+ what are you going to do without me blabbing at you here?
+
+1:45:09.200 --> 1:45:11.400
+ So I don't want to get hit by a bus.
+
+1:45:11.400 --> 1:45:13.000
+ I plan on living a very long time
+
+1:45:13.000 --> 1:45:14.840
+ if I have anything to say about it,
+
+1:45:14.840 --> 1:45:17.640
+ but were I to get hit by a bus tomorrow,
+
+1:45:17.640 --> 1:45:19.940
+ what would you do for your sleep and wakefulness?
+
+1:45:19.940 --> 1:45:22.440
+ You could put a comment on YouTube, which I hope you'll do,
+
+1:45:22.440 --> 1:45:24.080
+ but if I were hit by a bus and killed,
+
+1:45:24.080 --> 1:45:26.800
+ then I wouldn't be able to answer your question.
+
+1:45:27.640 --> 1:45:29.720
+ So know your temperature minimum.
+
+1:45:29.720 --> 1:45:32.840
+ Understand light in the early part of the day is valuable.
+
+1:45:32.840 --> 1:45:34.000
+ Light when you want to be awake,
+
+1:45:34.000 --> 1:45:35.640
+ provided it's not so bright, it's damaging.
+
+1:45:35.640 --> 1:45:37.340
+ It's great for you whether or not it comes from screens
+
+1:45:37.340 --> 1:45:39.320
+ or sunlight, but sunlight's better.
+
+1:45:39.320 --> 1:45:42.200
+ Avoid light in the four to six hours
+
+1:45:42.200 --> 1:45:43.560
+ before your temperature minimum
+
+1:45:43.560 --> 1:45:45.000
+ or else you're going to delay your clock
+
+1:45:45.000 --> 1:45:48.040
+ unless you're traveling and that's what you want to do.
+
+1:45:48.040 --> 1:45:49.480
+ Okay, use temperature,
+
+1:45:49.480 --> 1:45:51.980
+ increased temperature to shift your clock,
+
+1:45:51.980 --> 1:45:54.800
+ decreased temperature to delay your clock.
+
+1:45:54.800 --> 1:45:58.120
+ Okay, map out your temperature and understand it.
+
+1:45:58.120 --> 1:46:00.960
+ You don't have to know degree by degree across the day.
+
+1:46:00.960 --> 1:46:03.040
+ Know your minimum, know your maximum temperature
+
+1:46:03.040 --> 1:46:04.200
+ in your 24 hour cycle
+
+1:46:04.200 --> 1:46:07.120
+ and you will feel great power through that
+
+1:46:07.120 --> 1:46:10.600
+ because then you'll know also about these ultradian cycles,
+
+1:46:10.600 --> 1:46:13.360
+ these 90 minute cycles within which you can do focused work.
+
+1:46:13.360 --> 1:46:15.000
+ Don't expect the focus to come early,
+
+1:46:15.000 --> 1:46:16.120
+ expect the focus to come in the middle
+
+1:46:16.120 --> 1:46:18.120
+ and then kind of taper off.
+
+1:46:18.120 --> 1:46:19.240
+ Talked a little bit about kids,
+
+1:46:19.240 --> 1:46:21.120
+ a little bit about elderly, about parenting.
+
+1:46:21.120 --> 1:46:22.160
+ We are going to continue.
+
+1:46:22.160 --> 1:46:25.680
+ There's going to be more, but now shift workers, travelers,
+
+1:46:25.680 --> 1:46:27.760
+ people that are jet-lacking themselves at home,
+
+1:46:27.760 --> 1:46:30.580
+ you now have levers in place.
+
+1:46:30.580 --> 1:46:31.980
+ Information can be powerful,
+
+1:46:31.980 --> 1:46:34.360
+ but you have to implement it in ways,
+
+1:46:34.360 --> 1:46:36.460
+ obviously safe ways and reasonable ways,
+
+1:46:36.460 --> 1:46:38.460
+ but implementing this knowledge
+
+1:46:38.460 --> 1:46:41.320
+ in the ways that you trust are safe and reasonable for you
+
+1:46:41.320 --> 1:46:43.420
+ is going to be the way that you can develop
+
+1:46:43.420 --> 1:46:45.560
+ a bit of a laboratory about yourself.
+
+1:46:45.560 --> 1:46:49.080
+ I loathe the term biohacking, sorry biohackers.
+
+1:46:49.080 --> 1:46:50.660
+ I don't believe in hacking anything.
+
+1:46:50.660 --> 1:46:52.240
+ I believe in understanding mechanism
+
+1:46:52.240 --> 1:46:54.380
+ and applying the principles of mechanism
+
+1:46:54.380 --> 1:46:56.280
+ for which there are large bodies
+
+1:46:56.280 --> 1:46:58.320
+ of quality peer reviewed data
+
+1:46:58.320 --> 1:47:00.400
+ and even a whole center of mass
+
+1:47:00.400 --> 1:47:02.240
+ around certain biological principles
+
+1:47:02.240 --> 1:47:04.820
+ like the effects of light and temperature minimums
+
+1:47:04.820 --> 1:47:07.240
+ that will allow you to shift your biology
+
+1:47:07.240 --> 1:47:08.440
+ in the ways that you want it to go,
+
+1:47:08.440 --> 1:47:10.420
+ that will allow you to shift your psychology
+
+1:47:10.420 --> 1:47:12.520
+ in the ways you want it to go.
+
+1:47:12.520 --> 1:47:14.560
+ Next podcast episode,
+
+1:47:14.560 --> 1:47:17.820
+ we are going to talk more about a few things.
+
+1:47:17.820 --> 1:47:20.120
+ First of all, we're going to answer more of your questions
+
+1:47:20.120 --> 1:47:21.240
+ because during office hours,
+
+1:47:21.240 --> 1:47:22.480
+ I didn't get to all your questions
+
+1:47:22.480 --> 1:47:24.580
+ from the previous episode.
+
+1:47:24.580 --> 1:47:27.720
+ So I do read the comments and we're paying attention
+
+1:47:27.720 --> 1:47:29.680
+ and figuring out the most common questions.
+
+1:47:29.680 --> 1:47:31.360
+ We are going to get to some of the harder topics.
+
+1:47:31.360 --> 1:47:33.680
+ Someone came at me, it's always fun when somebody does this,
+
+1:47:33.680 --> 1:47:35.760
+ and they say, well, these are just the kind of
+
+1:47:35.760 --> 1:47:37.000
+ basal low-level questions.
+
+1:47:37.000 --> 1:47:38.020
+ What about the big stuff?
+
+1:47:38.020 --> 1:47:40.560
+ What about dreaming and lucid dreaming and consciousness?
+
+1:47:40.560 --> 1:47:42.420
+ Look, I'll talk about that stuff.
+
+1:47:42.420 --> 1:47:44.160
+ And I'm planning to do that,
+
+1:47:44.160 --> 1:47:45.360
+ some of which in the next episode
+
+1:47:45.360 --> 1:47:47.340
+ and the following episode maybe even.
+
+1:47:47.340 --> 1:47:49.880
+ But I want to give you data.
+
+1:47:49.880 --> 1:47:52.320
+ I want to give you things that are supported by data.
+
+1:47:52.320 --> 1:47:56.680
+ So I will try to speculate as little as possible
+
+1:47:56.680 --> 1:47:59.040
+ because this is a podcast about science
+
+1:47:59.040 --> 1:48:01.160
+ and science-based tools for everyday life.
+
+1:48:01.160 --> 1:48:03.740
+ This is not about me speculating.
+
+1:48:03.740 --> 1:48:04.840
+ Many people have speculated
+
+1:48:04.840 --> 1:48:06.800
+ about the role of sleep, dreaming, and consciousness.
+
+1:48:06.800 --> 1:48:11.160
+ Fascinating topics and a rather circular argument, frankly.
+
+1:48:11.160 --> 1:48:12.800
+ It's been going on for centuries.
+
+1:48:12.800 --> 1:48:14.080
+ Someday we'll get there.
+
+1:48:14.080 --> 1:48:15.300
+ Right now, we're concentrating
+
+1:48:15.300 --> 1:48:17.020
+ on these deep biological mechanisms
+
+1:48:17.020 --> 1:48:18.400
+ that make you who you are
+
+1:48:18.400 --> 1:48:21.460
+ and allow you to feel certain ways, good or bad,
+
+1:48:21.460 --> 1:48:25.040
+ allow you to function physically in certain ways,
+
+1:48:25.040 --> 1:48:27.720
+ good or bad, and give you more of a sense of control.
+
+1:48:27.720 --> 1:48:29.200
+ That's my goal here.
+
+1:48:29.200 --> 1:48:31.220
+ Many people have quite graciously asked
+
+1:48:31.220 --> 1:48:33.800
+ how they can help support the podcast.
+
+1:48:33.800 --> 1:48:35.000
+ First of all, thank you.
+
+1:48:35.000 --> 1:48:36.780
+ We appreciate the question.
+
+1:48:36.780 --> 1:48:38.380
+ You can support the podcast
+
+1:48:38.380 --> 1:48:41.620
+ by subscribing to the podcast on YouTube,
+
+1:48:41.620 --> 1:48:45.040
+ as well as subscribing on Apple or Spotify.
+
+1:48:45.040 --> 1:48:47.280
+ And you can also leave us comments
+
+1:48:47.280 --> 1:48:50.320
+ and feedback on YouTube and at Apple.
+
+1:48:50.320 --> 1:48:51.480
+ That really helps.
+
+1:48:51.480 --> 1:48:53.300
+ We would hope the feedback would be positive,
+
+1:48:53.300 --> 1:48:56.140
+ but nonetheless, leave us feedback, ask questions.
+
+1:48:56.140 --> 1:48:57.480
+ We will use those questions
+
+1:48:57.480 --> 1:49:00.280
+ to create future content for the podcast.
+
+1:49:00.280 --> 1:49:02.120
+ As well, if you can recommend the podcast
+
+1:49:02.120 --> 1:49:03.880
+ to friends and family and other people
+
+1:49:03.880 --> 1:49:05.760
+ that you think might find the information of use,
+
+1:49:05.760 --> 1:49:07.020
+ that's terrific.
+
+1:49:07.020 --> 1:49:08.440
+ And check out our sponsors
+
+1:49:08.440 --> 1:49:10.040
+ that we mentioned at the beginning.
+
+1:49:10.040 --> 1:49:12.500
+ That's a really great way to help support us
+
+1:49:12.500 --> 1:49:15.020
+ and our ability to bring you this information.
+
+1:49:15.020 --> 1:49:17.720
+ Along those lines, a lot of people have asked me
+
+1:49:17.720 --> 1:49:21.480
+ about supplements and supplement companies.
+
+1:49:21.480 --> 1:49:25.360
+ So up until now, I've been reluctant
+
+1:49:25.360 --> 1:49:27.760
+ to recommend specific supplement brands.
+
+1:49:27.760 --> 1:49:30.980
+ The supplement industry is kind of a Wild West
+
+1:49:30.980 --> 1:49:33.600
+ of different brands, different levels of quality
+
+1:49:33.600 --> 1:49:35.280
+ and stringency.
+
+1:49:35.280 --> 1:49:37.080
+ It can be very complicated.
+
+1:49:37.080 --> 1:49:40.040
+ And what's on the bottle is not always what you're getting.
+
+1:49:40.040 --> 1:49:42.000
+ The quality of what you're getting varies
+
+1:49:42.000 --> 1:49:42.900
+ from company to company,
+
+1:49:42.900 --> 1:49:45.980
+ and even from substance to substance, batch to batch.
+
+1:49:45.980 --> 1:49:50.000
+ So I'm pleased to say that I'm partnering with Thorne.
+
+1:49:50.000 --> 1:49:53.140
+ Thorne, spelled T-H-O-R-N-E,
+
+1:49:53.140 --> 1:49:56.840
+ is a supplement company that works with the Mayo Clinic
+
+1:49:56.840 --> 1:50:00.140
+ and with pretty much all the major sports team organizations
+
+1:50:00.140 --> 1:50:03.680
+ and that I know to have the highest levels of stringency
+
+1:50:03.680 --> 1:50:06.440
+ in terms of what's in the bottle matches
+
+1:50:06.440 --> 1:50:08.680
+ what's listed on the bottle
+
+1:50:08.680 --> 1:50:10.040
+ and in terms of the quality
+
+1:50:10.040 --> 1:50:12.160
+ of what they put in those supplements.
+
+1:50:12.160 --> 1:50:14.460
+ So while I mentioned earlier
+
+1:50:14.460 --> 1:50:16.200
+ that supplements aren't for everybody,
+
+1:50:16.200 --> 1:50:18.340
+ if you're interested in trying some of these supplements,
+
+1:50:18.340 --> 1:50:20.120
+ you might want to check out Thorne.
+
+1:50:20.120 --> 1:50:23.560
+ If you want to do that, you can go to thorne.com
+
+1:50:23.560 --> 1:50:27.100
+ slash the letter U slash Huberman.
+
+1:50:27.100 --> 1:50:31.720
+ So it's T-H-O-R-N-E dot com,
+
+1:50:31.720 --> 1:50:36.020
+ C-O-M slash the letter U slash Huberman.
+
+1:50:36.020 --> 1:50:38.720
+ And if you do that, they'll give you 20% off
+
+1:50:38.720 --> 1:50:39.760
+ any of the supplements
+
+1:50:39.760 --> 1:50:42.040
+ that you happen to purchase from Thorne.
+
+1:50:42.040 --> 1:50:43.680
+ Thanks so much for your time and attention.
+
+1:50:43.680 --> 1:50:45.020
+ I really appreciate it.
+
+1:50:45.020 --> 1:50:47.840
+ See you next time on the Huberman Lab Podcast.
+
+1:50:47.840 --> 1:50:50.680
+ And as always, thanks for your interest in science.
+

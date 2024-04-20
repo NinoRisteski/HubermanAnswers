@@ -1,6 +1,3 @@
-import sys
-sys.path.append('/Users/fliprise/HubermanAnswers')
-
 import os
 import re
 import ast 
@@ -8,6 +5,7 @@ import html
 import time
 import openai
 import gradio as gr
+from openai import OpenAI
 from typing import List, Tuple
 from utils.load_config import LoadConfig
 from langchain.vectorstores.chroma import Chroma
@@ -17,38 +15,40 @@ APPCFG = LoadConfig()
 class Chatbot:
     @staticmethod
     def respond(chatbot: List, message: str, temperature: float = 0.0) -> Tuple:
-        if not os.path.exists(APPCFG.persist_directory):
-            # If the directory does not exist, show the error message.
-            chatbot.append(
-                (message, f"VectorDB doesn't exist. Please upload a document and execute the 'upload_data_manually.py' to create VectorDB."))
-            return "", chatbot, None
-        else:
-            # If the directory exists, proceed with creating and using the vector database.
+        if  os.path.exists(APPCFG.persist_directory):
             vectordb = Chroma(persist_directory=APPCFG.persist_directory,
                               embedding_function=APPCFG.embedding_model)
-
-            docs = vectordb.similarity_search(message, k=APPCFG.k)
-            print(docs)
-            question = "# User new question:\n" + message
-            retrieved_content = Chatbot.clean_references(docs)
-            # Memory: previous two Q&A pairs
-            chat_history = f"Chat history:\n {str(chatbot[-APPCFG.number_of_q_a_pairs:])}\n\n"
-            prompt = f"{chat_history}{retrieved_content}{question}"
-            print("========================")
-            print(prompt)
-            response = openai.ChatCompletion.create(
-                engine=APPCFG.llm_engine,
-                messages=[
-                    {"role": "system", "content": APPCFG.llm_system_role},
-                    {"role": "user", "content": prompt}
-                ],
-                temperature=temperature,
-            )
+        else:
             chatbot.append(
-                (message, response["choices"][0]["message"]["content"]))
-            time.sleep(2)
+                (message, f"VectorDB doesn't exist. Please upload a document and execute the 'upload_data_manually.py' to create VectorDB."))
+                
+            return "", chatbot, None
 
-            return "", chatbot, retrieved_content
+        docs = vectordb.similarity_search(message, k=APPCFG.k)
+        print(docs)
+
+        question = "# User new question:\n" + message
+        retrieved_content = Chatbot.clean_references(docs)
+        # Memory: previous two Q&A pairs
+        chat_history = f"Chat history:\n {str(chatbot[-APPCFG.number_of_q_a_pairs:])}\n\n"
+        prompt = f"{chat_history}{retrieved_content}{question}"
+        print("========================")
+        print(prompt)
+        client = OpenAI()
+        response = client.chat.completions.create(
+            model=APPCFG.llm_engine,
+            messages=[
+                {"role": "system", "content": APPCFG.llm_system_role},
+                {"role": "user", "content": prompt}
+            ],
+            temperature=temperature,
+        )
+        chatbot.append(
+            (message, response.choices[0].message.content)
+        )
+        time.sleep(2)
+
+        return "", chatbot, retrieved_content
 
     @staticmethod
     def clean_references(documents: List) -> str:
@@ -65,12 +65,9 @@ class Chatbot:
                 metadata_dict = ast.literal_eval(metadata)
 
             else:
-            # Handle the case when the regex pattern doesn't match
-            # You can raise an exception or provide a default value for content and metadata
                 content = ""
                 metadata = ""
                 metadata_dict = {}
-            # Rest of the code...
 
             # Decode newlines and escape sequences
             content = bytes(content, 'utf-8').decode('unicode_escape')
@@ -101,12 +98,13 @@ class Chatbot:
             content = re.sub(r'â', '$', content)
 
 
-          #  txt_url = f"{server_url}/{os.path.basename(metadata_dict['file_name'])}"
+            txt_url = f"{server_url}/{os.path.basename(metadata_dict['description'])}"
 
             # Append cleaned content to the markdown string with two newlines between documents
-           # markdown_documents += f"# Retrieved content {counter}:\n" + content + "\n\n" + \
-            #    f"file_name: {os.path.basename(metadata_dict['file_name'])}" + " | " +\
-            #    f"[View Episode txt]({txt_url})" "\n\n"
-            #counter += 1
+            markdown_documents += f"# Retrieved content {counter}:\n" + content + "\n\n" + \
+                f"description: {os.path.basename(metadata_dict['description'])}" + " | " +\
+                f"Page number: {str(metadata_dict['page'])}" + " | " +\
+                f"[View Episode txt]({txt_url})" "\n\n"
+            counter += 1
 
         return markdown_documents

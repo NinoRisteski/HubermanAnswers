@@ -1,0 +1,8258 @@
+WEBVTT
+
+00:00.000 --> 00:02.260
+ Welcome to the Huberman Lab Podcast,
+
+00:02.260 --> 00:04.900
+ where we discuss science and science-based tools
+
+00:04.900 --> 00:05.920
+ for everyday life.
+
+00:09.220 --> 00:11.740
+ I'm Andrew Huberman, and I'm a professor of neurobiology
+
+00:11.740 --> 00:14.920
+ and ophthalmology at Stanford School of Medicine.
+
+00:14.920 --> 00:17.540
+ Today, I have the pleasure of introducing the first guest
+
+00:17.540 --> 00:19.380
+ of the Huberman Lab Podcast.
+
+00:19.380 --> 00:22.020
+ My guest is Dr. Karl Deisseroth.
+
+00:22.020 --> 00:24.300
+ Dr. Karl Deisseroth is a medical doctor.
+
+00:24.300 --> 00:26.880
+ He's a psychiatrist and a research scientist
+
+00:26.880 --> 00:28.900
+ at Stanford School of Medicine.
+
+00:28.900 --> 00:31.700
+ In his clinical practice, he sees patients dealing
+
+00:31.700 --> 00:33.540
+ with a range of nervous system disorders,
+
+00:33.540 --> 00:37.300
+ including obsessive compulsive disorder, autism,
+
+00:37.300 --> 00:41.440
+ attention deficit disorders, schizophrenia, mania,
+
+00:41.440 --> 00:44.340
+ anxiety disorders, and eating disorders.
+
+00:44.340 --> 00:47.680
+ His laboratory develops and explores tools
+
+00:47.680 --> 00:50.280
+ with which to understand how the nervous system works
+
+00:50.280 --> 00:51.900
+ in the healthy situation,
+
+00:51.900 --> 00:54.120
+ as well as in disorders of the mind.
+
+00:54.120 --> 00:57.320
+ Dr. Deisseroth's laboratory has pioneered the development
+
+00:57.320 --> 00:59.440
+ and use of what are called channelopsins,
+
+00:59.440 --> 01:01.620
+ proteins that come from algae,
+
+01:01.620 --> 01:04.300
+ which can now be introduced to the nervous systems
+
+01:04.300 --> 01:07.480
+ of animals and humans in order to precisely control
+
+01:07.480 --> 01:09.780
+ the activity of neurons in the brain and body
+
+01:09.780 --> 01:11.540
+ with the use of light.
+
+01:11.540 --> 01:15.000
+ This is a absolutely transformative technology,
+
+01:15.000 --> 01:17.060
+ because whereas certain drug treatments
+
+01:17.060 --> 01:19.520
+ can often relieve certain symptoms of disorders,
+
+01:19.520 --> 01:21.980
+ they often carry various side effects.
+
+01:21.980 --> 01:24.580
+ And in some individuals, often many individuals,
+
+01:24.580 --> 01:26.900
+ these drug treatments simply do not work.
+
+01:26.900 --> 01:29.280
+ The channelopsins and their related technologies
+
+01:29.280 --> 01:31.340
+ stand to transform the way that we treat
+
+01:31.340 --> 01:34.140
+ psychiatric illness and various disorders
+
+01:34.140 --> 01:36.340
+ of movement and perception.
+
+01:36.340 --> 01:39.440
+ In fact, just recently, the channelopsins were applied
+
+01:39.440 --> 01:42.060
+ in a human patient to allow an adult,
+
+01:42.060 --> 01:44.580
+ fully blind human being to see light
+
+01:44.580 --> 01:46.060
+ for the very first time.
+
+01:46.060 --> 01:49.180
+ We also discuss Dr. Deisseroth's newly released book,
+
+01:49.180 --> 01:52.960
+ which is entitled, Projections, a Story of Human Emotions.
+
+01:52.960 --> 01:55.600
+ This is an absolutely remarkable book
+
+01:55.600 --> 01:59.420
+ that uses stories about his interactions with his patients
+
+01:59.420 --> 02:01.420
+ to teach you how the brain works
+
+02:01.420 --> 02:03.260
+ in the healthy and diseased state,
+
+02:03.260 --> 02:07.020
+ and also reveals the motivation for and discovery of
+
+02:07.020 --> 02:09.220
+ these channelopsins and other technologies
+
+02:09.220 --> 02:12.260
+ by Carl's Laboratory that are being used now
+
+02:12.260 --> 02:14.500
+ to treat various disorders of the nervous system,
+
+02:14.500 --> 02:17.300
+ and that in the future are certain to transform
+
+02:17.300 --> 02:19.500
+ the fields of psychiatry, mental health,
+
+02:19.500 --> 02:20.980
+ and health in general.
+
+02:20.980 --> 02:24.000
+ I found our conversation to be an absolutely fascinating one
+
+02:24.000 --> 02:27.200
+ about how the brain functions in the healthy state
+
+02:27.200 --> 02:30.900
+ and why and how it breaks down in disorders of the mind.
+
+02:30.900 --> 02:33.700
+ We also discuss the current status and future
+
+02:33.700 --> 02:36.680
+ of psychedelic treatments for psychiatric illness,
+
+02:36.680 --> 02:37.760
+ as well as for understanding
+
+02:37.760 --> 02:39.780
+ how the brain works more generally.
+
+02:39.780 --> 02:42.040
+ We also discuss issues of consciousness,
+
+02:42.040 --> 02:45.060
+ and we even delve into how somebody like Carl
+
+02:45.060 --> 02:47.820
+ who's managing a full-time clinical practice
+
+02:47.820 --> 02:50.300
+ and a 40-plus person laboratory
+
+02:50.300 --> 02:53.340
+ and a family of five children and is happily married,
+
+02:53.340 --> 02:55.580
+ how he organizes his internal landscape,
+
+02:55.580 --> 02:59.540
+ his own thinking in order to manage that immense workload
+
+02:59.540 --> 03:02.380
+ and to progress forward for the sake of medicine
+
+03:02.380 --> 03:04.360
+ and his pursuits in science.
+
+03:04.360 --> 03:06.340
+ I found this to be an incredible conversation.
+
+03:06.340 --> 03:07.740
+ I learned so much.
+
+03:07.740 --> 03:09.340
+ I also learned through the course
+
+03:09.340 --> 03:11.600
+ of reading Carl's book, Projections,
+
+03:11.600 --> 03:14.180
+ that not only is he an accomplished psychiatrist
+
+03:14.180 --> 03:16.940
+ and obviously an accomplished research scientist
+
+03:16.940 --> 03:19.780
+ and a family man, but he's also a phenomenal writer.
+
+03:19.780 --> 03:22.300
+ Projections is absolutely masterfully written.
+
+03:22.300 --> 03:25.060
+ It's just beautiful, and it's accessible to anybody,
+
+03:25.060 --> 03:27.380
+ even if you don't have a science background.
+
+03:27.380 --> 03:29.860
+ So I hope that you'll enjoy my conversation
+
+03:29.860 --> 03:32.020
+ with Carl Deisseroth as much as I did,
+
+03:32.020 --> 03:33.380
+ and thank you for tuning in.
+
+03:33.380 --> 03:35.340
+ Before we begin, I want to point out
+
+03:35.340 --> 03:36.540
+ that this podcast is separate
+
+03:36.540 --> 03:39.100
+ from my teaching and research roles at Stanford.
+
+03:39.100 --> 03:41.100
+ In my desire and effort to bring zero cost
+
+03:41.100 --> 03:42.740
+ to consumer information about science
+
+03:42.740 --> 03:45.020
+ and science-related tools to the general public,
+
+03:45.020 --> 03:47.960
+ I'd like to acknowledge the sponsors of today's podcast.
+
+03:47.960 --> 03:49.940
+ Our first sponsor is Roca.
+
+03:49.940 --> 03:52.060
+ Roca makes eyeglasses and sunglasses
+
+03:52.060 --> 03:55.340
+ that in my opinion are the very highest quality out there.
+
+03:55.340 --> 03:56.260
+ The company was founded
+
+03:56.260 --> 03:58.460
+ by two all-American swimmers from Stanford,
+
+03:58.460 --> 04:00.940
+ and everything about the eyeglasses and sunglasses
+
+04:00.940 --> 04:03.780
+ was developed with performance in mind.
+
+04:03.780 --> 04:06.660
+ One of the things I really love about Roca sunglasses
+
+04:06.660 --> 04:09.860
+ is that unlike other sunglasses that make it hard to see
+
+04:09.860 --> 04:12.980
+ when there's a lot of cloud cover or when the shadows change
+
+04:12.980 --> 04:14.740
+ or environmental conditions change,
+
+04:14.740 --> 04:17.820
+ with Roca sunglasses, they clearly understand the science
+
+04:17.820 --> 04:18.960
+ of the visual system,
+
+04:18.960 --> 04:20.820
+ because when I put them on for the first time,
+
+04:20.820 --> 04:23.200
+ I noticed that as I moved into shadows
+
+04:23.200 --> 04:24.420
+ or the cloud cover changed
+
+04:24.420 --> 04:26.900
+ or the day got brighter or dimmer,
+
+04:26.900 --> 04:28.500
+ everything was still crystal clear.
+
+04:28.500 --> 04:29.980
+ And that's also because the lenses
+
+04:29.980 --> 04:32.540
+ are tremendously high optical clarity
+
+04:32.540 --> 04:34.580
+ and the glasses are really lightweight.
+
+04:34.580 --> 04:36.580
+ You don't even notice that they're on.
+
+04:36.580 --> 04:38.140
+ The other thing is that the eyeglasses,
+
+04:38.140 --> 04:40.780
+ I wear readers at night, they're incredibly lightweight,
+
+04:40.780 --> 04:42.620
+ and for both the sunglasses and eyeglasses,
+
+04:42.620 --> 04:44.420
+ the aesthetic is terrific.
+
+04:44.420 --> 04:46.620
+ Unlike a lot of performance eyewear,
+
+04:46.620 --> 04:48.780
+ which frankly can look kind of cyborg-like
+
+04:48.780 --> 04:49.620
+ and kind of ridiculous,
+
+04:49.620 --> 04:51.260
+ the aesthetic of the glasses is such
+
+04:51.260 --> 04:53.180
+ that you could really wear them anywheres,
+
+04:53.180 --> 04:54.960
+ indoors or outdoors.
+
+04:54.960 --> 04:56.660
+ If you'd like to try Roca eyeglasses,
+
+04:56.660 --> 04:59.780
+ you can go to Roca, that's R-O-K-A.com,
+
+04:59.780 --> 05:03.620
+ and enter the code Huberman to save 20% on your first order.
+
+05:03.620 --> 05:05.980
+ That's Roca, R-O-K-A.com,
+
+05:05.980 --> 05:08.140
+ and enter the code Huberman at checkout.
+
+05:08.140 --> 05:11.760
+ Today's podcast is also brought to us by Inside Tracker.
+
+05:11.760 --> 05:14.140
+ Inside Tracker is a personalized nutrition platform
+
+05:14.140 --> 05:16.860
+ that analyzes data from your blood and DNA
+
+05:16.860 --> 05:18.480
+ to help you better understand your body
+
+05:18.480 --> 05:20.300
+ and reach your health goals.
+
+05:20.300 --> 05:23.220
+ I am a big believer in getting regular blood work done,
+
+05:23.220 --> 05:26.260
+ and now with the advent of good genetic DNA tests,
+
+05:26.260 --> 05:29.140
+ I'm also a believer in analyzing your DNA.
+
+05:29.140 --> 05:31.620
+ The simple reason for this is that many of the factors
+
+05:31.620 --> 05:33.880
+ that impact our immediate and long-term health
+
+05:33.880 --> 05:35.980
+ can only be measured and evaluated
+
+05:35.980 --> 05:37.540
+ with a quality blood test,
+
+05:37.540 --> 05:40.340
+ and now the DNA tests further inform our immediate
+
+05:40.340 --> 05:41.780
+ and long-term health.
+
+05:41.780 --> 05:43.960
+ One of the problems with a lot of DNA tests
+
+05:43.960 --> 05:45.660
+ and blood tests out there, however,
+
+05:45.660 --> 05:47.140
+ is that you get the information back
+
+05:47.140 --> 05:49.140
+ and you don't know what to do with that information.
+
+05:49.140 --> 05:51.340
+ With Inside Tracker, you get the numbers back
+
+05:51.340 --> 05:53.980
+ of different metabolic factors, hormones, et cetera,
+
+05:53.980 --> 05:56.140
+ but it also provides simple directives
+
+05:56.140 --> 05:58.080
+ as to how perhaps you might want to change
+
+05:58.080 --> 06:00.980
+ your nutritional intake or your exercise regimen
+
+06:00.980 --> 06:03.860
+ or other lifestyle factors to bring those numbers
+
+06:03.860 --> 06:06.500
+ into alignment with where you'd like them to be.
+
+06:06.500 --> 06:08.620
+ Inside Tracker also makes this really easy.
+
+06:08.620 --> 06:10.320
+ They have a dashboard that makes organizing
+
+06:10.320 --> 06:11.680
+ that all very simple,
+
+06:11.680 --> 06:13.940
+ and they can even have someone come to your house
+
+06:13.940 --> 06:15.860
+ to take the blood and DNA test.
+
+06:15.860 --> 06:17.340
+ If you'd like to try Inside Tracker,
+
+06:17.340 --> 06:20.340
+ you can visit insidetracker.com slash Huberman
+
+06:20.340 --> 06:23.340
+ to get 25% off any of Inside Tracker's plans.
+
+06:23.340 --> 06:25.500
+ Just use the code Huberman at checkout.
+
+06:25.500 --> 06:28.620
+ Today's episode is also brought to us by Athletic Greens.
+
+06:28.620 --> 06:30.140
+ Athletic Greens is an all-in-one
+
+06:30.140 --> 06:32.500
+ vitamin mineral probiotic drink.
+
+06:32.500 --> 06:35.500
+ I started taking Athletic Greens way back in 2012,
+
+06:35.500 --> 06:36.480
+ and I've taken it ever since,
+
+06:36.480 --> 06:39.020
+ so I'm delighted that they're sponsoring the podcast.
+
+06:39.020 --> 06:40.800
+ The reason I started taking Athletic Greens
+
+06:40.800 --> 06:42.860
+ and that I continue to take Athletic Greens
+
+06:42.860 --> 06:45.740
+ is that it covers all my vitamin and mineral bases
+
+06:45.740 --> 06:48.260
+ and it covers my probiotic needs.
+
+06:48.260 --> 06:50.080
+ There's now a wealth of data showing
+
+06:50.080 --> 06:53.000
+ that probiotics support a healthy gut microbiome
+
+06:53.000 --> 06:54.700
+ and that a healthy gut microbiome
+
+06:54.700 --> 06:57.020
+ supports the gut brain access for healthy mood.
+
+06:57.020 --> 06:59.880
+ It also supports metabolism, immune function,
+
+06:59.880 --> 07:01.620
+ endocrine, that means hormone function,
+
+07:01.620 --> 07:04.860
+ and a host of other important biological functions.
+
+07:04.860 --> 07:06.700
+ I drink it once or twice a day.
+
+07:06.700 --> 07:08.580
+ I mix it with water and a little bit of lemon juice
+
+07:08.580 --> 07:11.060
+ or some lime juice, and it's absolutely delicious.
+
+07:11.060 --> 07:12.660
+ If you'd like to try Athletic Greens,
+
+07:12.660 --> 07:15.740
+ you can go to athleticgreens.com slash Huberman,
+
+07:15.740 --> 07:18.420
+ and if you do that, you can claim a special offer
+
+07:18.420 --> 07:21.680
+ where they will give you a year's supply of vitamin D3.
+
+07:21.680 --> 07:24.220
+ In addition, they'll give you five free travel packs.
+
+07:24.220 --> 07:26.740
+ Vitamin D3, as we all know, is very important
+
+07:26.740 --> 07:29.980
+ for a huge range of biological functions and health.
+
+07:29.980 --> 07:32.760
+ Again, that's athleticgreens.com slash Huberman
+
+07:32.760 --> 07:35.020
+ for your Athletic Greens, the five free travel packs,
+
+07:35.020 --> 07:37.380
+ and the year's supply of vitamin D3.
+
+07:37.380 --> 07:41.720
+ And now my conversation with Dr. Carl Deisseroth.
+
+07:41.720 --> 07:43.060
+ Well, thanks for being here.
+
+07:43.060 --> 07:44.440
+ Thanks for having me.
+
+07:44.440 --> 07:46.940
+ It's been a long time coming for me
+
+07:46.940 --> 07:49.220
+ because you may not know this,
+
+07:49.220 --> 07:51.840
+ but one of the reasons I started this podcast
+
+07:51.840 --> 07:54.420
+ was actually so I could have this conversation.
+
+07:54.420 --> 07:57.420
+ It's but one, there are other reasons,
+
+07:57.420 --> 08:02.340
+ but one of the goals is to be able to hold conversations
+
+08:02.340 --> 08:05.560
+ with colleagues of mine that are doing incredible work
+
+08:05.560 --> 08:06.660
+ in the realm of science,
+
+08:06.660 --> 08:09.540
+ and then here we also have this really special opportunity
+
+08:09.540 --> 08:12.060
+ because you're also a clinician, you see patients
+
+08:12.060 --> 08:13.620
+ in and out for a long time.
+
+08:13.620 --> 08:16.040
+ So for people that might not be so familiar
+
+08:16.040 --> 08:18.600
+ with the fields of neuroscience, et cetera,
+
+08:18.600 --> 08:22.880
+ what is the difference between neurology and psychiatry?
+
+08:22.880 --> 08:26.660
+ Well, I'm married to a neurologist and I am a psychiatrist
+
+08:26.660 --> 08:28.300
+ and we make fun of each other all the time.
+
+08:28.300 --> 08:32.020
+ So this is a lot of neuroscientists
+
+08:32.020 --> 08:34.340
+ and a lot of brain clinicians actually think
+
+08:34.340 --> 08:36.900
+ these two should be the same field
+
+08:36.900 --> 08:38.220
+ at some point in the future.
+
+08:38.220 --> 08:40.860
+ They were in the past, they started together.
+
+08:40.860 --> 08:44.320
+ Psychiatry though focuses on disorders
+
+08:44.320 --> 08:47.660
+ where we can't see something that's physically wrong,
+
+08:47.660 --> 08:49.020
+ where we don't have a measurable,
+
+08:49.020 --> 08:52.460
+ where there's no blood test that makes the diagnosis,
+
+08:52.460 --> 08:55.220
+ there's no brain scan that tells us this is schizophrenia,
+
+08:55.220 --> 08:57.480
+ this is depression for an individual patient.
+
+08:58.540 --> 09:02.120
+ And so psychiatry is much more mysterious
+
+09:02.120 --> 09:05.580
+ and the only tools we have are words.
+
+09:05.580 --> 09:08.780
+ Neurologists are fantastic physicians,
+
+09:08.780 --> 09:12.140
+ they see the stroke on brain scans,
+
+09:12.140 --> 09:15.580
+ they see the seizure and the pre-seizure activity
+
+09:15.580 --> 09:20.580
+ with an EEG and they can measure and treat
+
+09:20.780 --> 09:22.540
+ based on those measurables.
+
+09:22.540 --> 09:24.900
+ In psychiatry, we have a harder job, I think.
+
+09:24.900 --> 09:29.100
+ We use words, we have rating scales for symptoms,
+
+09:29.100 --> 09:31.900
+ we can measure depression and autism with rating scales,
+
+09:31.900 --> 09:34.320
+ but those are words still.
+
+09:34.320 --> 09:37.180
+ And ultimately that's what psychiatry is built around.
+
+09:37.180 --> 09:42.180
+ It's an odd situation because we've got the most complex,
+
+09:42.700 --> 09:47.660
+ beautiful, mysterious, incredibly engineered object
+
+09:47.660 --> 09:49.300
+ in the universe and yet all we have
+
+09:49.300 --> 09:52.180
+ are words to find our way in.
+
+09:52.180 --> 09:56.360
+ So do you find that if a patient is very verbal
+
+09:56.360 --> 10:00.080
+ or hyperverbal that you have an easier time diagnosing them
+
+10:00.080 --> 10:03.640
+ as opposed to somebody who's more quiet and reserved
+
+10:03.640 --> 10:06.900
+ or I could imagine the opposite might be true as well?
+
+10:06.900 --> 10:08.580
+ Well, because we only have words,
+
+10:08.580 --> 10:10.760
+ you've put your finger on a key point.
+
+10:10.760 --> 10:14.040
+ If they don't speak that much in principle, it's harder.
+
+10:14.040 --> 10:15.820
+ The lack of speech can be a symptom.
+
+10:15.820 --> 10:17.140
+ We can see that in depression,
+
+10:17.140 --> 10:19.780
+ we can see that in the negative symptoms of schizophrenia,
+
+10:19.780 --> 10:21.280
+ we can see that in autism.
+
+10:21.280 --> 10:25.180
+ Sometimes by itself, that is a symptom of reduced speech.
+
+10:25.180 --> 10:26.540
+ But ultimately you do need something.
+
+10:26.540 --> 10:29.300
+ You need some words to help guide you.
+
+10:29.300 --> 10:31.780
+ And that, in fact, there's challenges
+
+10:31.780 --> 10:35.480
+ that I can tell you about where patients with depression
+
+10:35.480 --> 10:38.100
+ who are so depressed they can't speak,
+
+10:38.100 --> 10:41.380
+ that makes it a bit of a challenge to distinguish depression
+
+10:41.380 --> 10:43.640
+ from some of the other reasons they might not be speaking.
+
+10:43.640 --> 10:46.920
+ And this is sort of the art and the science of psychiatry.
+
+10:47.920 --> 10:52.160
+ Do you find that there are patients that have,
+
+10:52.160 --> 10:54.460
+ well, let's call them comorbidities or conditions
+
+10:54.460 --> 10:58.020
+ where they would land in both psychiatry and neurology,
+
+10:58.020 --> 11:01.100
+ meaning there's damage to a particular area of the brain
+
+11:01.100 --> 11:02.460
+ and therefore they're depressed?
+
+11:02.460 --> 11:06.020
+ And how do you tease that out as a psychiatrist?
+
+11:06.020 --> 11:08.140
+ Yeah, this happens all the time.
+
+11:08.140 --> 11:10.280
+ Parkinson's disease is a great example.
+
+11:12.260 --> 11:15.500
+ It can be debilitating in so many ways.
+
+11:15.500 --> 11:17.980
+ People have trouble moving, they have trouble walking,
+
+11:17.980 --> 11:19.620
+ they have trouble swallowing,
+
+11:19.620 --> 11:24.620
+ and they can have truly severe depression.
+
+11:25.140 --> 11:26.540
+ And this is, you might say,
+
+11:26.540 --> 11:30.420
+ oh, well, they've got a life-threatening illness,
+
+11:30.420 --> 11:32.360
+ but there are plenty of neurological disorders
+
+11:32.360 --> 11:37.360
+ where depression is not a strongly comorbid symptom,
+
+11:37.620 --> 11:40.020
+ like ALS, Lou Gehrig's disease, for example.
+
+11:40.020 --> 11:43.980
+ Depression is not as strongly comorbid in that disease,
+
+11:43.980 --> 11:46.820
+ but in Parkinson's, it is extremely common.
+
+11:46.820 --> 11:49.340
+ And as you know, in Parkinson's disease,
+
+11:49.340 --> 11:53.380
+ we have loss of the dopamine neurons in the midbrain.
+
+11:53.380 --> 11:58.020
+ And this is a very specific population of cells
+
+11:58.020 --> 12:00.400
+ that's dying and probably that leads
+
+12:00.400 --> 12:04.020
+ to both the movement disorder and the depression.
+
+12:04.020 --> 12:05.160
+ There are many examples of that
+
+12:05.160 --> 12:06.820
+ where these two fields come together
+
+12:06.820 --> 12:09.220
+ and you really need to work as a team.
+
+12:09.220 --> 12:11.320
+ I've had patients in my clinic
+
+12:11.320 --> 12:13.660
+ that I treat the depression associated
+
+12:13.660 --> 12:16.580
+ with their Parkinson's and a neurologist treats the movement
+
+12:16.580 --> 12:19.740
+ associated with the Parkinson's and we work together.
+
+12:19.740 --> 12:22.180
+ Do you think we will ever have a blood test
+
+12:22.180 --> 12:24.700
+ for depression or schizophrenia or autism?
+
+12:24.700 --> 12:27.960
+ And would that be a good or a bad thing?
+
+12:29.540 --> 12:33.060
+ I think ultimately there will be quantitative tests.
+
+12:33.060 --> 12:36.200
+ Already efforts are being made to look at certain rhythms
+
+12:36.200 --> 12:38.780
+ in the brain using external EEGs
+
+12:38.780 --> 12:40.880
+ to look at brainwaves effectively,
+
+12:40.880 --> 12:43.420
+ look at the ratios of certain frequencies
+
+12:43.420 --> 12:45.060
+ to other frequencies.
+
+12:45.060 --> 12:47.460
+ And there's some progress being made on that front.
+
+12:47.460 --> 12:49.260
+ It's not as good as it could be.
+
+12:49.260 --> 12:51.100
+ It doesn't really give you the confidence
+
+12:51.100 --> 12:54.200
+ for the individual patient that you would like.
+
+12:54.200 --> 12:56.380
+ But ultimately what's going on in the brain
+
+12:56.380 --> 12:59.740
+ in psychiatric disease is physical
+
+12:59.740 --> 13:02.660
+ and it's due to the circuits and the connections
+
+13:02.660 --> 13:05.440
+ and the projections in the brain that are not working
+
+13:05.440 --> 13:07.940
+ as they would in a typical situation.
+
+13:07.940 --> 13:12.280
+ And I do think we'll have those measurables at some point.
+
+13:12.280 --> 13:14.460
+ Now, is that good or bad?
+
+13:14.460 --> 13:15.980
+ I think that will be good.
+
+13:15.980 --> 13:19.340
+ One of the challenges we have with psychiatry
+
+13:19.340 --> 13:21.940
+ is it is an art as well as a science
+
+13:21.940 --> 13:26.340
+ to elicit these symptoms in a precise way.
+
+13:26.340 --> 13:29.340
+ It does take some time and it would be great
+
+13:29.340 --> 13:31.860
+ if we could just do a quick measurement.
+
+13:31.860 --> 13:35.220
+ Could it be abused or misused?
+
+13:35.220 --> 13:38.380
+ Certainly, but that's, I think, true for all of medicine.
+
+13:38.380 --> 13:40.320
+ I want to know, and I'm sure there are several,
+
+13:40.320 --> 13:42.660
+ but what do you see as the biggest challenge
+
+13:42.660 --> 13:47.420
+ facing psychiatry and the treatment of mental illness today?
+
+13:47.420 --> 13:52.300
+ I think we have, we're making progress
+
+13:52.300 --> 13:53.940
+ on what the biggest challenge is,
+
+13:53.940 --> 13:56.260
+ which I think there's still such a strong stigma
+
+13:56.260 --> 14:01.260
+ for psychiatric disease that patients often don't come to us
+
+14:01.380 --> 14:05.660
+ and they feel that they should be able
+
+14:05.660 --> 14:07.480
+ to handle this on their own.
+
+14:08.540 --> 14:10.700
+ And that can slow treatment.
+
+14:10.700 --> 14:13.660
+ It can lead to worsening symptoms.
+
+14:13.660 --> 14:17.460
+ We know, for example, patients who have untreated anxiety
+
+14:17.460 --> 14:20.400
+ issues, if you go for a year or more
+
+14:20.400 --> 14:22.660
+ with a serious untreated anxiety issue,
+
+14:22.660 --> 14:24.380
+ that can convert to depression.
+
+14:24.380 --> 14:28.740
+ You can add another problem on top of the anxiety.
+
+14:28.740 --> 14:32.700
+ And so it would be, why do people not come for treatment?
+
+14:32.700 --> 14:35.180
+ They feel like this is something they should be able
+
+14:35.180 --> 14:38.260
+ to master on their own, which can be true,
+
+14:38.260 --> 14:43.180
+ but usually some help is a good thing.
+
+14:43.180 --> 14:45.660
+ That raises a question related to something
+
+14:45.660 --> 14:48.360
+ I heard you say many years ago at a lecture,
+
+14:48.360 --> 14:51.320
+ which was that, this was a scientific lecture,
+
+14:51.320 --> 14:54.780
+ and you said, we don't know how other people feel.
+
+14:54.780 --> 14:57.940
+ Most of the time, we don't even really know how we feel.
+
+14:57.940 --> 14:59.680
+ Maybe you could elaborate on that a little bit
+
+14:59.680 --> 15:04.680
+ and the dearth of ways that we have to talk about feelings.
+
+15:07.460 --> 15:10.060
+ I mean, there are so many words, I don't know how many,
+
+15:10.060 --> 15:11.820
+ but I'm guessing there are more than a dozen words
+
+15:11.820 --> 15:14.980
+ to describe the state that I call sadness.
+
+15:14.980 --> 15:16.960
+ But as far as I understand, we don't have any way
+
+15:16.960 --> 15:20.160
+ of comparing that in a real objective sense.
+
+15:20.160 --> 15:23.480
+ So how, as a psychiatrist, when your job is to use words
+
+15:23.480 --> 15:26.820
+ to diagnose, words of the patient to diagnose,
+
+15:26.820 --> 15:28.620
+ do you maneuver around that?
+
+15:28.620 --> 15:33.060
+ And what is this landscape that we call feelings or emotions?
+
+15:33.060 --> 15:35.820
+ This is really interesting.
+
+15:35.820 --> 15:38.260
+ People, here we have, there's a tension
+
+15:38.260 --> 15:41.220
+ between the words that we've built up in the clinic
+
+15:41.220 --> 15:43.980
+ that mean something to the physicians.
+
+15:43.980 --> 15:46.140
+ And then there's the colloquial use of words
+
+15:46.140 --> 15:47.240
+ that may not be the same.
+
+15:47.240 --> 15:49.560
+ And so that's the first level we have to sort out.
+
+15:49.560 --> 15:53.620
+ When someone says, I'm depressed,
+
+15:53.620 --> 15:56.300
+ what exactly do they mean by that?
+
+15:56.300 --> 15:58.460
+ That may be different from what we're talking about
+
+15:58.460 --> 15:59.460
+ in terms of depression.
+
+15:59.460 --> 16:02.860
+ So part of psychiatry is to get beyond that word
+
+16:02.860 --> 16:05.340
+ and to get into how they're actually feeling,
+
+16:05.340 --> 16:09.580
+ get rid of the jargon and get to real world examples
+
+16:09.580 --> 16:10.700
+ of how they're feeling.
+
+16:10.700 --> 16:15.700
+ So, how much do you look forward into the future?
+
+16:16.620 --> 16:18.960
+ How much hope do you have?
+
+16:18.960 --> 16:21.020
+ How much planning are you doing for the future?
+
+16:21.020 --> 16:24.220
+ So these, here now you're getting into actual things
+
+16:24.220 --> 16:26.420
+ you can talk about that are unambiguous.
+
+16:26.420 --> 16:30.140
+ Someone says, yeah, I can't even think about tomorrow.
+
+16:30.140 --> 16:33.860
+ I'm not, I don't see how I'm gonna get to tomorrow.
+
+16:33.860 --> 16:38.260
+ That's a nice, precise thing that, it's sad, it's tragic,
+
+16:38.260 --> 16:41.220
+ but it's also, that means something,
+
+16:41.220 --> 16:42.200
+ and we know what that means.
+
+16:42.200 --> 16:45.020
+ That's the hopelessness symptom of depression.
+
+16:45.020 --> 16:46.860
+ And that is what I try to do
+
+16:46.860 --> 16:48.080
+ when I do a psychiatric interview.
+
+16:48.080 --> 16:49.780
+ I try to get past the jargon
+
+16:49.780 --> 16:51.980
+ and get to what's actually happening in a patient's life
+
+16:51.980 --> 16:53.380
+ and in their mind.
+
+16:53.380 --> 16:57.780
+ But as you say, ultimately, and this shows up across,
+
+16:57.780 --> 17:00.940
+ I address this issue every day in my life,
+
+17:00.940 --> 17:04.940
+ whether it's in the lab where we're looking at animals,
+
+17:04.940 --> 17:06.780
+ whether fish or mice or rats
+
+17:06.780 --> 17:08.660
+ and studying their behavior,
+
+17:08.660 --> 17:11.120
+ or when I'm in a conversation
+
+17:11.120 --> 17:13.800
+ with just a friend or a colleague,
+
+17:13.800 --> 17:15.780
+ or when I'm talking to a patient,
+
+17:15.780 --> 17:17.580
+ I never really know what's going on
+
+17:17.580 --> 17:19.540
+ inside the mind of the other person.
+
+17:20.700 --> 17:24.860
+ I get some feedback, I get words, I get behaviors,
+
+17:24.860 --> 17:27.220
+ I get actions, but I never really know.
+
+17:27.220 --> 17:29.700
+ And as you said at the very beginning of the question,
+
+17:29.700 --> 17:32.460
+ often we don't even have the words and the insight
+
+17:32.460 --> 17:34.940
+ to even understand what's going on in our own mind.
+
+17:34.940 --> 17:37.860
+ I think a lot of psychiatrists are pretty introspective.
+
+17:37.860 --> 17:40.060
+ That's part of the reason they end up in that specialty.
+
+17:40.060 --> 17:44.160
+ And so maybe we spend a little more time
+
+17:44.160 --> 17:45.500
+ than the average person thinking about
+
+17:45.500 --> 17:46.620
+ what's going on within,
+
+17:46.620 --> 17:49.440
+ but it doesn't mean we have answers.
+
+17:49.440 --> 17:53.600
+ So in this area of trying to figure out
+
+17:53.600 --> 17:55.940
+ what's going on under the hood through words,
+
+17:55.940 --> 17:58.880
+ it sounds like certain words would relate
+
+17:58.880 --> 18:03.020
+ to this idea of anticipation and hope.
+
+18:03.020 --> 18:05.140
+ Is it fair to say that that somehow relates
+
+18:05.140 --> 18:07.780
+ to the dopamine system in the sense that
+
+18:07.780 --> 18:10.460
+ dopamine is involved in motivated behaviors?
+
+18:10.460 --> 18:13.140
+ I mean, if I say, for instance,
+
+18:13.140 --> 18:17.940
+ and I won't ask you to run a session with me here for free.
+
+18:17.940 --> 18:18.820
+ We'll do that off camera.
+
+18:18.820 --> 18:19.660
+ Okay, right.
+
+18:20.720 --> 18:25.720
+ If I were to say, I just can't imagine tomorrow.
+
+18:26.900 --> 18:28.880
+ I just can't do it.
+
+18:28.880 --> 18:31.100
+ So that's not action-based,
+
+18:31.100 --> 18:34.680
+ that's purely based on my internal narrative.
+
+18:34.680 --> 18:36.580
+ But I could imagine things like,
+
+18:37.940 --> 18:39.700
+ I have a terrible time sleeping,
+
+18:39.700 --> 18:41.180
+ I'm not hungry, I'm not eating.
+
+18:41.180 --> 18:43.980
+ So statements about physical actions, I'm guessing,
+
+18:43.980 --> 18:46.380
+ also have validity.
+
+18:46.380 --> 18:47.220
+ Absolutely.
+
+18:47.220 --> 18:50.260
+ And there are now ways to measure
+
+18:50.260 --> 18:51.780
+ the accuracy of those statements.
+
+18:51.780 --> 18:53.700
+ Like for instance, if I gave you permission,
+
+18:53.700 --> 18:55.860
+ you could know if I slept last night
+
+18:55.860 --> 18:57.060
+ or whether or not I was just saying
+
+18:57.060 --> 18:58.340
+ I had a poor night's sleep.
+
+18:58.340 --> 18:59.420
+ Yes, that's right.
+
+18:59.420 --> 19:02.700
+ So in moving forward through 2021
+
+19:02.700 --> 19:05.700
+ and into the next 10 and 100 years of psychiatry,
+
+19:05.700 --> 19:08.820
+ do you think that the body reporting
+
+19:08.820 --> 19:12.420
+ some of the actions of a human
+
+19:12.420 --> 19:16.580
+ are going to become useful and mesh with the words
+
+19:16.580 --> 19:18.980
+ in a way that's going to make your job easier?
+
+19:18.980 --> 19:19.940
+ I do think that's true.
+
+19:19.940 --> 19:22.560
+ And the two things you've mentioned, eating and sleeping,
+
+19:22.560 --> 19:25.300
+ those are additional criteria
+
+19:25.300 --> 19:26.860
+ that we use to diagnose depression.
+
+19:26.860 --> 19:28.220
+ These are the vegetative signs,
+
+19:28.220 --> 19:30.820
+ we call them of depression, poor sleep and poor eating.
+
+19:30.820 --> 19:32.420
+ And if you have a baseline for somebody,
+
+19:32.420 --> 19:34.020
+ that's the real challenge though.
+
+19:34.020 --> 19:35.700
+ What's different in that person?
+
+19:35.700 --> 19:37.740
+ Some people with depressed, they sleep more.
+
+19:37.740 --> 19:40.500
+ Some people who are depressed, they sleep less.
+
+19:40.500 --> 19:41.620
+ Some people who are depressed,
+
+19:41.620 --> 19:44.940
+ they're more physically agitated and they move around more.
+
+19:44.940 --> 19:46.020
+ Some people who are depressed,
+
+19:46.020 --> 19:48.340
+ they move less even while they're awake.
+
+19:48.340 --> 19:50.100
+ And so you need, here's the challenge
+
+19:50.100 --> 19:53.180
+ is you can't just look at how they are now,
+
+19:53.180 --> 19:57.300
+ you have to get a baseline and then see how it's changed.
+
+19:57.300 --> 20:02.180
+ And that can be a challenge that raises ethical issues.
+
+20:02.180 --> 20:04.700
+ How do you collect that baseline information
+
+20:04.700 --> 20:05.540
+ from someone healthy?
+
+20:05.540 --> 20:08.560
+ I don't think that's something we have solved.
+
+20:08.560 --> 20:11.860
+ Of course, with phones and accelerometers and phones,
+
+20:11.860 --> 20:14.780
+ you could in principle collect a lot of baseline information
+
+20:14.780 --> 20:18.100
+ from people, but that would have to be treated
+
+20:18.100 --> 20:21.540
+ very carefully for privacy reasons.
+
+20:21.540 --> 20:24.200
+ And in terms of measuring one's own behavior,
+
+20:24.200 --> 20:27.880
+ I've heard of work that's going on,
+
+20:27.880 --> 20:30.440
+ Sam Golden up at the University of Washington
+
+20:30.440 --> 20:32.080
+ who works on aggression and animal models
+
+20:32.080 --> 20:34.600
+ was telling me that there's some efforts that he's making
+
+20:34.600 --> 20:36.560
+ and perhaps you're involved in this work as well.
+
+20:36.560 --> 20:41.160
+ I don't know of devices that would allow people
+
+20:41.160 --> 20:42.580
+ to detect for instance,
+
+20:42.580 --> 20:44.760
+ when they're veering towards a depressive episode
+
+20:44.760 --> 20:46.640
+ for themselves, that they may choose
+
+20:46.640 --> 20:48.800
+ or not choose to report that to their clinician.
+
+20:48.800 --> 20:50.200
+ Maybe they don't even have a clinician.
+
+20:50.200 --> 20:53.360
+ Maybe this person that you referred to at the beginning,
+
+20:53.360 --> 20:54.800
+ this person who doesn't feel comfortable
+
+20:54.800 --> 20:55.900
+ coming to talk to you,
+
+20:57.740 --> 20:59.480
+ maybe something is measuring changes
+
+20:59.480 --> 21:01.080
+ in the inflection of their voice
+
+21:01.080 --> 21:03.560
+ or the speed at which they get up from a chair.
+
+21:03.560 --> 21:04.920
+ Do you think that those kinds of metrics
+
+21:04.920 --> 21:08.000
+ will eventually inform somebody, hey, you're in trouble?
+
+21:08.000 --> 21:10.080
+ This is getting to this question of,
+
+21:10.080 --> 21:11.840
+ back to the statement that I heard you make
+
+21:11.840 --> 21:14.360
+ and rung in my mind now, I think for more than a decade,
+
+21:14.360 --> 21:16.960
+ which is oftentimes we don't even know how we feel.
+
+21:16.960 --> 21:20.480
+ Yeah, that I do like because that gives the patient,
+
+21:20.480 --> 21:23.040
+ the agency to detect what's going on.
+
+21:23.040 --> 21:25.160
+ And even separate from modern technology,
+
+21:25.160 --> 21:27.360
+ this has been part of the art of psychiatry
+
+21:27.360 --> 21:29.000
+ is to help patients realize
+
+21:29.000 --> 21:32.020
+ that sometimes other people observing them
+
+21:32.020 --> 21:34.960
+ can give them the earliest warning signs of depression.
+
+21:34.960 --> 21:37.920
+ We see this very often in family.
+
+21:37.920 --> 21:40.480
+ They'll notice when the patient is changing
+
+21:40.480 --> 21:42.040
+ before the patient does.
+
+21:42.040 --> 21:43.880
+ And then there are things the patient may notice,
+
+21:43.880 --> 21:47.480
+ but not correctly ascribe to the onset of depression.
+
+21:47.480 --> 21:48.800
+ And a classic example of that
+
+21:48.800 --> 21:51.200
+ is what we call early morning awakening.
+
+21:51.200 --> 21:53.480
+ And this is something that can happen very early
+
+21:53.480 --> 21:55.240
+ as people start to slide into depression.
+
+21:55.240 --> 21:57.760
+ They start to wake up earlier and earlier,
+
+21:57.760 --> 21:59.760
+ just inexplicably, they're awake.
+
+21:59.760 --> 22:02.120
+ So this is like 2 a.m., 3 a.m. time waking?
+
+22:02.120 --> 22:04.240
+ It could start, yeah, it could start at 5 a.m.,
+
+22:04.240 --> 22:05.440
+ could go to four, to three.
+
+22:05.440 --> 22:06.920
+ And unable to fall back asleep.
+
+22:06.920 --> 22:08.840
+ Unable to fall back asleep, exactly.
+
+22:08.840 --> 22:12.360
+ So that's, and that, they may not know what to do with that.
+
+22:12.360 --> 22:14.120
+ It could just be, from their perspective,
+
+22:14.120 --> 22:15.840
+ it's just something that's happening.
+
+22:15.840 --> 22:18.080
+ But if you put enough of that information together,
+
+22:18.080 --> 22:20.760
+ that could be a useful warning sign for the patient
+
+22:20.760 --> 22:21.960
+ and it could help them seek treatment.
+
+22:21.960 --> 22:24.840
+ And I think that is something that could be really valuable.
+
+22:24.840 --> 22:25.900
+ Interesting.
+
+22:25.900 --> 22:30.900
+ So in this framework of needing words to self-report
+
+22:31.920 --> 22:34.080
+ or machines to detect how we feel
+
+22:34.080 --> 22:38.320
+ or maybe inform a psychiatrist how a patient feels,
+
+22:38.320 --> 22:42.120
+ I want to touch on some of the technologies
+
+22:42.120 --> 22:44.080
+ that you've been involved in building.
+
+22:44.080 --> 22:46.960
+ But as a way to march into that,
+
+22:46.960 --> 22:51.960
+ are there any very good treatments for psychiatric disease?
+
+22:52.160 --> 22:55.640
+ Meaning, are there currently any pills, potions,
+
+22:55.640 --> 23:00.080
+ forms of communication that reliably work every time
+
+23:00.080 --> 23:01.520
+ or work in most patients?
+
+23:01.520 --> 23:02.760
+ And could you give a couple of examples
+
+23:02.760 --> 23:05.360
+ of great successes of psychiatry if they exist?
+
+23:05.360 --> 23:06.200
+ Yes.
+
+23:06.200 --> 23:09.040
+ Yeah, we are fortunate, and this, coming back to my,
+
+23:09.040 --> 23:12.800
+ you know, the joking between my wife and myself
+
+23:12.800 --> 23:15.280
+ in terms of neurology and psychiatry,
+
+23:15.280 --> 23:19.680
+ we actually, in psychiatry, despite the depths of our,
+
+23:19.680 --> 23:21.660
+ the mystery we struggle with,
+
+23:21.660 --> 23:24.040
+ many of our treatments are actually, you know,
+
+23:24.040 --> 23:26.160
+ we may be doing better than some other specialties
+
+23:26.160 --> 23:28.040
+ in terms of actually causing, you know,
+
+23:28.040 --> 23:30.000
+ the therapeutic benefit for patients.
+
+23:30.000 --> 23:34.720
+ We do help patients, you know, the patients who suffer from,
+
+23:34.720 --> 23:36.660
+ by the way, both medications and talk therapy
+
+23:36.660 --> 23:39.400
+ have been shown to be extremely effective in many cases.
+
+23:39.400 --> 23:42.620
+ For example, people with panic disorder,
+
+23:42.620 --> 23:45.160
+ cognitive behavioral therapy, just working with words,
+
+23:45.160 --> 23:47.280
+ helping people identify the early signs
+
+23:47.280 --> 23:49.560
+ of when they're starting to move toward a panic attack,
+
+23:49.560 --> 23:52.060
+ what are the cognitions that are happening?
+
+23:52.060 --> 23:54.160
+ You can train people to derail that,
+
+23:54.160 --> 23:57.480
+ and you can very potently treat panic disorder that way.
+
+23:57.480 --> 24:00.400
+ How long does something like that take on average?
+
+24:00.400 --> 24:02.360
+ For a motivated, insightful patient,
+
+24:02.360 --> 24:06.920
+ you can have a very cookbook-y series of sessions,
+
+24:06.920 --> 24:08.740
+ you know, six to 12 sessions,
+
+24:08.740 --> 24:12.040
+ or even less for someone who's very insightful and motivated
+
+24:12.040 --> 24:15.440
+ and can have a very powerful effect that quickly.
+
+24:15.440 --> 24:17.480
+ And that's just with words.
+
+24:17.480 --> 24:19.540
+ There are many psychiatric medications
+
+24:19.540 --> 24:22.400
+ that are very effective for the conditions
+
+24:22.400 --> 24:25.500
+ that they're treating, anti-psychotic medications.
+
+24:25.500 --> 24:27.920
+ They have side effects, but boy, do they work.
+
+24:27.920 --> 24:29.800
+ They really can clear up,
+
+24:29.800 --> 24:33.120
+ particularly the positive symptoms of schizophrenia,
+
+24:33.120 --> 24:36.720
+ for example, the auditory hallucinations, the paranoia.
+
+24:36.720 --> 24:39.120
+ People's lives can be turned around by these.
+
+24:39.120 --> 24:40.780
+ We should clarify positive symptoms.
+
+24:40.780 --> 24:43.780
+ You mean not positive in the qualitative sense.
+
+24:43.780 --> 24:45.400
+ You mean positive meaning that the appearance
+
+24:45.400 --> 24:46.600
+ of something abnormal.
+
+24:46.600 --> 24:48.760
+ Exactly, yeah, and thank you for that clarification.
+
+24:48.760 --> 24:50.420
+ When we say positive symptoms,
+
+24:50.420 --> 24:53.100
+ we do mean the addition of something that wasn't there before
+
+24:53.100 --> 24:55.040
+ like a hallucination or a paranoia.
+
+24:55.040 --> 24:57.720
+ And that stands in contrast to the negative symptoms
+
+24:57.720 --> 24:59.400
+ where something is taken away.
+
+24:59.400 --> 25:02.600
+ And these are patients who are withdrawn.
+
+25:02.600 --> 25:05.200
+ They have what we call thought blocking.
+
+25:05.200 --> 25:08.420
+ They can't even progress forward in a sequence of thoughts.
+
+25:08.420 --> 25:11.060
+ Both of those can be part of schizophrenia.
+
+25:11.060 --> 25:14.460
+ The hallucinations and the paranoia
+
+25:14.460 --> 25:15.900
+ are more effectively treated right now,
+
+25:15.900 --> 25:18.180
+ but they are effectively treated.
+
+25:18.180 --> 25:21.380
+ And then, you know, this is a frustrating
+
+25:21.380 --> 25:23.940
+ and yet heartening aspect of psychiatry.
+
+25:23.940 --> 25:27.260
+ There are treatments like electroconvulsive therapy,
+
+25:27.260 --> 25:29.220
+ which is where, you know,
+
+25:29.220 --> 25:31.100
+ it's extremely effective for depression.
+
+25:31.100 --> 25:35.460
+ We have patients who nothing else works for them
+
+25:35.460 --> 25:37.360
+ or they can't tolerate medications.
+
+25:37.360 --> 25:39.980
+ And you can administer
+
+25:39.980 --> 25:42.500
+ under a very safe controlled condition
+
+25:42.500 --> 25:44.580
+ where the patient's body is not moving.
+
+25:44.580 --> 25:46.940
+ They're put into a very safe situation
+
+25:46.940 --> 25:48.580
+ where the body doesn't move or seize.
+
+25:48.580 --> 25:52.780
+ It's just an internal process that's triggered in the brain.
+
+25:52.780 --> 25:54.820
+ This is an extraordinarily effective treatment
+
+25:54.820 --> 25:56.900
+ for treatment-resistant depression.
+
+25:56.900 --> 26:00.060
+ At the same time, I find it as heartening as it is
+
+26:00.060 --> 26:02.220
+ to see patients respond to this
+
+26:03.540 --> 26:04.980
+ who have severe depression.
+
+26:04.980 --> 26:06.180
+ I'm also frustrated by it.
+
+26:06.180 --> 26:09.700
+ Why can't we do something more precise than this
+
+26:09.700 --> 26:11.600
+ for these very severe cases?
+
+26:11.600 --> 26:14.940
+ And people have sought for decades to understand
+
+26:14.940 --> 26:17.360
+ how is it that a seizure is leading
+
+26:17.360 --> 26:19.020
+ to the relief of depression
+
+26:19.020 --> 26:20.420
+ and we don't know the answer yet.
+
+26:20.420 --> 26:21.540
+ We would love to do that.
+
+26:21.540 --> 26:23.420
+ People are working hard on that,
+
+26:23.420 --> 26:26.060
+ but that is a treatment that does work too.
+
+26:26.060 --> 26:28.020
+ In all of these cases, though, in psychiatry,
+
+26:28.020 --> 26:30.660
+ the frustrating thing is that we don't have
+
+26:31.740 --> 26:34.780
+ the level of understanding that a cardiologist has
+
+26:34.780 --> 26:35.900
+ in thinking about the heart.
+
+26:35.900 --> 26:38.180
+ You know, the heart is, we now know, it's a pump.
+
+26:38.180 --> 26:39.180
+ It's pumping blood.
+
+26:39.180 --> 26:42.660
+ And so you can look at everything about how it's working
+
+26:42.660 --> 26:45.460
+ or not working in terms of that frame.
+
+26:45.460 --> 26:47.140
+ It's clearly a pump.
+
+26:47.140 --> 26:50.180
+ We don't really have that level of
+
+26:50.180 --> 26:54.100
+ what is the circuit really there for in psychiatry?
+
+26:54.100 --> 26:56.900
+ And that's what is missing.
+
+26:56.900 --> 26:58.620
+ That's what we need to find
+
+26:58.620 --> 27:02.140
+ so we can design truly effective and specific treatments.
+
+27:02.140 --> 27:05.940
+ So what are the pieces that are going to be required
+
+27:05.940 --> 27:10.940
+ to cure autism, cure Parkinson's, cure schizophrenia?
+
+27:11.920 --> 27:16.240
+ I would imagine there are several elements and bins here,
+
+27:16.240 --> 27:18.820
+ understanding that the natural biology,
+
+27:18.820 --> 27:21.420
+ understanding what the activity patterns are,
+
+27:21.420 --> 27:22.240
+ how to modify those.
+
+27:22.240 --> 27:25.220
+ Maybe you could just tell us what you think.
+
+27:25.220 --> 27:29.060
+ What is the bento box of the perfect cure?
+
+27:29.060 --> 27:31.860
+ Yeah, I think the first thing we need is understanding.
+
+27:31.860 --> 27:35.520
+ We need, almost every psychiatric treatment
+
+27:35.520 --> 27:37.620
+ has been serendipitously identified.
+
+27:37.620 --> 27:41.460
+ Just noting by chance that something that was done
+
+27:41.460 --> 27:44.140
+ for some person also had a side effect.
+
+27:44.140 --> 27:44.980
+ Like lithium or something.
+
+27:44.980 --> 27:46.780
+ Like lithium is a good example.
+
+27:46.780 --> 27:49.280
+ Is it true that it was the urine of guinea pigs
+
+27:49.280 --> 27:51.700
+ given lithium that was given to manic patients
+
+27:51.700 --> 27:52.840
+ that made them not manic?
+
+27:52.840 --> 27:53.700
+ Is that true?
+
+27:53.700 --> 27:55.420
+ I don't have firsthand knowledge of that,
+
+27:55.420 --> 27:57.240
+ but I would defer that.
+
+27:57.240 --> 27:59.460
+ But it's true for essentially every treatment.
+
+27:59.460 --> 28:02.660
+ You know, the antidepressants originally, you know,
+
+28:02.660 --> 28:05.420
+ arose as anti-tuberculosis drugs, for example.
+
+28:05.420 --> 28:06.260
+ I did not know that.
+
+28:06.260 --> 28:08.680
+ And so this is a classic example for,
+
+28:09.940 --> 28:12.760
+ and this is across all of psychiatry.
+
+28:12.760 --> 28:14.340
+ And of course there's the seizures as well.
+
+28:14.340 --> 28:16.380
+ That was noticed that patients who had epilepsy,
+
+28:16.380 --> 28:19.260
+ they had a seizure and also had depression
+
+28:19.260 --> 28:21.380
+ that they became much, at least for a while,
+
+28:21.380 --> 28:23.580
+ they were improved after the seizure.
+
+28:23.580 --> 28:24.420
+ That's amazing.
+
+28:24.420 --> 28:26.220
+ I don't want to take you off course of the question,
+
+28:26.220 --> 28:27.200
+ answering the question I asked,
+
+28:27.200 --> 28:31.260
+ but I've heard before that if autistic children get a fever,
+
+28:31.260 --> 28:32.860
+ that their symptoms improve.
+
+28:32.860 --> 28:33.860
+ Is that true?
+
+28:33.860 --> 28:37.820
+ I've done a fair bit of work with autism.
+
+28:37.820 --> 28:40.180
+ In my clinical practice, I work with adult autism,
+
+28:40.180 --> 28:42.420
+ and I have heard statements like that
+
+28:42.420 --> 28:43.580
+ and descriptions like that
+
+28:43.580 --> 28:45.740
+ from patients and their families.
+
+28:48.000 --> 28:50.240
+ That is very hard to study quantitatively
+
+28:50.240 --> 28:51.380
+ because often with the children,
+
+28:51.380 --> 28:55.780
+ you have this not as quantitative as you'd like
+
+28:55.780 --> 28:59.720
+ a collection of symptom information from home.
+
+28:59.720 --> 29:01.260
+ But I have heard that enough
+
+29:01.260 --> 29:04.140
+ that I think there may well be something to that.
+
+29:04.140 --> 29:08.940
+ And what is, anytime you have a fever, what's going on?
+
+29:08.940 --> 29:11.620
+ Well, we know all the cells in the brain,
+
+29:11.620 --> 29:13.540
+ and I know this as an electrophysiologist,
+
+29:13.540 --> 29:15.580
+ if you just change the temperature by a few degrees,
+
+29:15.580 --> 29:17.540
+ everything changes about how neurons work.
+
+29:17.540 --> 29:19.460
+ And that's even just a single neuron.
+
+29:19.460 --> 29:21.980
+ It's even more likely to be complex
+
+29:21.980 --> 29:23.500
+ and different with a circuit of neurons
+
+29:23.500 --> 29:25.080
+ that are all affecting each other.
+
+29:25.080 --> 29:26.740
+ Just elevate the temperature a little bit,
+
+29:26.740 --> 29:27.620
+ everything's different.
+
+29:27.620 --> 29:31.380
+ And so it's plausible for sure that things like that
+
+29:31.380 --> 29:32.760
+ could happen and do happen.
+
+29:34.580 --> 29:37.660
+ And yet, when you think about autism, to take your example,
+
+29:39.120 --> 29:40.740
+ yes, we see changes,
+
+29:40.740 --> 29:44.500
+ but what is the element in the brain
+
+29:44.500 --> 29:46.580
+ that's analogous to the pumping heart?
+
+29:46.580 --> 29:49.620
+ When we think about the symptoms of depression,
+
+29:49.620 --> 29:52.500
+ that's maybe, we think about motivation
+
+29:52.500 --> 29:53.940
+ and dopamine neurons.
+
+29:53.940 --> 29:57.220
+ When we think about autism, it's a little more challenging.
+
+29:58.220 --> 30:03.220
+ There's a deficit in social interaction
+
+30:03.460 --> 30:04.940
+ and in communication.
+
+30:06.180 --> 30:07.260
+ And so where is that?
+
+30:07.260 --> 30:09.840
+ Where is that situated?
+
+30:09.840 --> 30:14.840
+ What is the key principle governing the social interaction?
+
+30:15.580 --> 30:17.740
+ This is where we need the basic science
+
+30:17.740 --> 30:19.340
+ to bring us a step forward.
+
+30:19.340 --> 30:21.820
+ So we can say, okay, this is the process that's going on.
+
+30:21.820 --> 30:25.140
+ This is what's needed for the incredibly complex task
+
+30:25.140 --> 30:26.980
+ of social interaction,
+
+30:26.980 --> 30:29.540
+ where you've got incredibly rich data streams
+
+30:29.540 --> 30:33.100
+ of sound and meaning, eye contact, body movement.
+
+30:33.100 --> 30:34.220
+ And that's just for one person.
+
+30:34.220 --> 30:36.100
+ What if there's a group of people?
+
+30:36.100 --> 30:39.500
+ This is overwhelming for people with autism.
+
+30:39.500 --> 30:41.900
+ What's the unifying theme there?
+
+30:41.900 --> 30:43.420
+ It's a lot of information.
+
+30:43.420 --> 30:48.420
+ And that maybe is unmatched in any realm of biology,
+
+30:48.480 --> 30:49.860
+ the amount of information coming in
+
+30:49.860 --> 30:52.100
+ through a social interaction, particularly with words
+
+30:52.100 --> 30:52.940
+ and language.
+
+30:53.800 --> 30:56.980
+ And so then that turns our attention as neuroscientists.
+
+30:56.980 --> 31:00.080
+ We think, okay, let's think about the parts of the brain
+
+31:00.080 --> 31:05.080
+ that are involved in dealing with merging complex data
+
+31:05.860 --> 31:08.300
+ streams that are very high in bit rate
+
+31:08.300 --> 31:11.820
+ that need to be fused together into a unitary concept.
+
+31:12.700 --> 31:15.140
+ And that starts to guide us and maybe we can,
+
+31:15.140 --> 31:17.780
+ and we know other animals are social in their own way
+
+31:17.780 --> 31:19.060
+ and we can study those animals.
+
+31:19.060 --> 31:21.100
+ And so that's how I think about it.
+
+31:21.100 --> 31:22.360
+ There's hope for the future,
+
+31:22.360 --> 31:25.620
+ thinking about the symptoms as an engineer might,
+
+31:25.620 --> 31:30.140
+ and trying to identify the circuits that are likely working
+
+31:30.140 --> 31:32.380
+ to make this typical behavior happen.
+
+31:32.380 --> 31:35.100
+ And that will help us understand how it becomes atypical.
+
+31:35.100 --> 31:37.500
+ So that seems like the first, to me,
+
+31:37.500 --> 31:40.980
+ the first bin of this, what I call the bento box,
+
+31:40.980 --> 31:42.980
+ for lack of a better analogy,
+
+31:42.980 --> 31:44.660
+ that we need to know the circuits.
+
+31:44.660 --> 31:47.940
+ We need to know the cells in the various brain regions
+
+31:47.940 --> 31:49.340
+ and portions of the body
+
+31:49.340 --> 31:52.260
+ and how they connect to one another
+
+31:52.260 --> 31:54.460
+ and what the patterns of activity are
+
+31:54.460 --> 31:57.800
+ under a normal quote unquote healthy interaction.
+
+31:59.060 --> 32:01.540
+ If we understand that,
+
+32:01.540 --> 32:04.220
+ then it seems that the next step,
+
+32:04.220 --> 32:06.260
+ which of course could be carried out in parallel, right?
+
+32:06.260 --> 32:09.100
+ That work can be done alongside work
+
+32:09.100 --> 32:12.420
+ where various elements within those circuits
+
+32:12.420 --> 32:14.060
+ are tweaked just right.
+
+32:14.060 --> 32:16.140
+ Like the tuning of a piano in the subtle way,
+
+32:16.140 --> 32:18.260
+ or maybe even like the replacement of a whole set of keys
+
+32:18.260 --> 32:20.620
+ if the piano is lacking keys, so to speak.
+
+32:21.460 --> 32:25.120
+ You've been very involved in trying to generate those tools.
+
+32:25.120 --> 32:29.620
+ So tell us about channelopsins,
+
+32:29.620 --> 32:31.940
+ why you created them,
+
+32:31.940 --> 32:35.980
+ and where they're at now in the laboratory
+
+32:35.980 --> 32:38.540
+ and perhaps also in the clinic.
+
+32:38.540 --> 32:39.900
+ Well, this is a, first of all,
+
+32:39.900 --> 32:43.940
+ I give nature the credit for creating channelopsins.
+
+32:43.940 --> 32:48.100
+ These are beautiful little proteins that are made by algae,
+
+32:48.100 --> 32:50.260
+ single-celled green algae.
+
+32:50.260 --> 32:53.140
+ And it's a great story in basic science
+
+32:53.140 --> 32:57.460
+ that our understanding of animal behavior,
+
+32:57.460 --> 33:00.660
+ sensation, cognition, and action in our brains,
+
+33:00.660 --> 33:05.660
+ all the way back to a botanist in the 1850s and 1860s
+
+33:06.060 --> 33:08.500
+ in Russia is where the story begins.
+
+33:08.500 --> 33:12.300
+ So this was a botanist named Andrei Fominzin
+
+33:12.300 --> 33:14.860
+ who worked at St. Petersburg.
+
+33:14.860 --> 33:19.860
+ And he had noticed in the river near his laboratory
+
+33:19.940 --> 33:23.660
+ that there were algae that he could look at
+
+33:23.660 --> 33:25.100
+ in a dish, in a saucer.
+
+33:25.100 --> 33:26.520
+ He could put them there.
+
+33:26.520 --> 33:29.320
+ And when he had light shining from the side,
+
+33:29.320 --> 33:34.320
+ the green tinge in the saucer of water would move
+
+33:36.780 --> 33:38.780
+ to a particular distance from the light
+
+33:38.780 --> 33:40.380
+ that he was shining from the side,
+
+33:40.380 --> 33:42.420
+ which was an amazing thing.
+
+33:42.420 --> 33:44.840
+ If he made the light brighter,
+
+33:44.840 --> 33:47.060
+ the green tinge would back off a little bit
+
+33:47.060 --> 33:48.580
+ to a more optimal location.
+
+33:48.580 --> 33:50.380
+ So just the right light level.
+
+33:50.380 --> 33:52.980
+ So this was plant behavior.
+
+33:52.980 --> 33:54.640
+ It was light-driven plant behavior.
+
+33:54.640 --> 33:56.180
+ And he delved into this a little bit.
+
+33:56.180 --> 33:58.700
+ He identified that with microscopy,
+
+33:58.700 --> 34:01.020
+ he could see that there were little single-celled algae
+
+34:01.020 --> 34:05.340
+ with flagella that were swimming to the right light level.
+
+34:05.340 --> 34:07.860
+ So behaving plants, and this has been the secret
+
+34:07.860 --> 34:10.860
+ that's helped us unlock so many principles
+
+34:10.860 --> 34:12.780
+ of animal behavior.
+
+34:12.780 --> 34:17.780
+ So it turns out these algae achieve this amazing result
+
+34:20.380 --> 34:25.380
+ with a single gene that encodes a single protein.
+
+34:25.920 --> 34:26.760
+ What's a protein?
+
+34:26.760 --> 34:30.300
+ It's just a little biomolecule that does a job in a cell.
+
+34:30.300 --> 34:34.260
+ And these are proteins that sit in the surface of cells
+
+34:34.260 --> 34:36.240
+ in their surface membrane.
+
+34:36.240 --> 34:39.460
+ And when a photon, a light particle, hits them,
+
+34:39.460 --> 34:42.220
+ they open a little pore, a little hole in the membrane,
+
+34:42.220 --> 34:45.500
+ and charged particles, ions, like sodium,
+
+34:45.500 --> 34:47.320
+ rush across the pore.
+
+34:48.200 --> 34:49.620
+ Now, why do they do that?
+
+34:49.620 --> 34:51.920
+ They do that to guide their flagella.
+
+34:51.920 --> 34:54.380
+ That signal coming in, those ions coming in
+
+34:54.380 --> 34:56.640
+ through the pore in response to light,
+
+34:56.640 --> 34:59.780
+ guide their flagellar motor that guides them
+
+34:59.780 --> 35:02.760
+ to a particular spot in the saucer, okay?
+
+35:03.660 --> 35:05.020
+ Now that's plant behavior,
+
+35:05.020 --> 35:07.800
+ but it turns out, as you know,
+
+35:07.800 --> 35:09.860
+ this movement of ions across the membrane,
+
+35:09.860 --> 35:13.180
+ this happens to also be neural code in our brains
+
+35:13.180 --> 35:15.100
+ for on or off.
+
+35:15.100 --> 35:18.400
+ Sodium ions rushing into cells turns them on,
+
+35:18.400 --> 35:20.880
+ makes them fire away, fire action potentials,
+
+35:20.880 --> 35:24.460
+ communicate to the next cell down the chain.
+
+35:24.460 --> 35:26.980
+ And this is an amazing opportunity
+
+35:26.980 --> 35:31.300
+ because we can borrow these proteins.
+
+35:31.300 --> 35:32.800
+ In fact, we can take the gene
+
+35:32.800 --> 35:35.300
+ that directs the creation of the protein,
+
+35:35.300 --> 35:37.540
+ and we can use genetic tricks, modern genetic tricks,
+
+35:37.540 --> 35:42.260
+ to put that gene into neurons in the brains of mammals,
+
+35:43.100 --> 35:46.540
+ and then use light to turn those cells,
+
+35:46.540 --> 35:49.260
+ the specific cells that we've put this gene into,
+
+35:49.260 --> 35:50.200
+ turn them on.
+
+35:50.200 --> 35:52.940
+ There are other opsins, we call them,
+
+35:52.940 --> 35:55.260
+ that you can use to turn cells off.
+
+35:55.260 --> 35:57.860
+ It's all fast, real time.
+
+35:57.860 --> 36:00.660
+ You can play in patterns of activity in real time
+
+36:00.660 --> 36:03.940
+ into cells or kinds of cells, just as a conductor.
+
+36:03.940 --> 36:05.740
+ It elicits the music from the orchestra,
+
+36:05.740 --> 36:07.660
+ the strings and the woodwinds.
+
+36:07.660 --> 36:09.760
+ And you can see what matters,
+
+36:09.760 --> 36:12.220
+ what matters for sensation, what matters for cognition,
+
+36:12.220 --> 36:15.200
+ what matters for action, and we call this optogenetics.
+
+36:15.200 --> 36:16.040
+ Beautiful.
+
+36:16.040 --> 36:19.100
+ And I must say it was quite an honor and a privilege
+
+36:19.100 --> 36:24.100
+ to watch optogenetics move from idea to discovery
+
+36:25.060 --> 36:26.780
+ to the laboratory.
+
+36:26.780 --> 36:29.140
+ I think we were postdocs at the same time,
+
+36:29.140 --> 36:32.440
+ which is living proof that people move at different rates.
+
+36:32.440 --> 36:36.340
+ Because that's a joke at my expense, by the way.
+
+36:37.700 --> 36:38.540
+ But it's really-
+
+36:38.540 --> 36:39.380
+ We end up in the same spot.
+
+36:39.380 --> 36:44.180
+ And we're less physically, if not professionally,
+
+36:44.180 --> 36:48.420
+ but nonetheless, it's been a marvelous story thus far.
+
+36:48.420 --> 36:50.720
+ And I'd like to, maybe you could give us,
+
+36:50.720 --> 36:53.220
+ I'd like to just touch on a couple examples
+
+36:53.220 --> 36:56.820
+ of where the technology resides in laboratories now.
+
+36:56.820 --> 36:59.220
+ So maybe the range of animals that it's being used in
+
+36:59.220 --> 37:03.380
+ and some of the phenomenon that channel rhodopsins
+
+37:03.380 --> 37:06.180
+ and their related genes and proteins
+
+37:06.180 --> 37:09.800
+ are starting to elicit what you've seen.
+
+37:10.820 --> 37:13.420
+ And then I'd like to talk about their applicability
+
+37:13.420 --> 37:15.860
+ to the clinic, which is, I think,
+
+37:15.860 --> 37:18.020
+ the bigger mission, if you will.
+
+37:18.020 --> 37:22.660
+ Yeah, so this whole thing,
+
+37:22.660 --> 37:25.780
+ it's been about now going on 17 years
+
+37:25.780 --> 37:28.420
+ that we've been putting channel rhodopsins into neurons.
+
+37:28.420 --> 37:32.540
+ It started, just like Andrei Fominsson's work in a dish,
+
+37:32.540 --> 37:35.820
+ by 2000, that was in 2004, in 2007,
+
+37:35.820 --> 37:38.180
+ we were putting these into behaving mice
+
+37:38.180 --> 37:41.940
+ and we were able to, with a switch,
+
+37:41.940 --> 37:44.660
+ cause them to move one direction or another.
+
+37:44.660 --> 37:45.900
+ By 2009-
+
+37:45.900 --> 37:48.340
+ So basically, you're controlling the mouse's behavior.
+
+37:48.340 --> 37:49.620
+ Yeah, exactly, in real time.
+
+37:49.620 --> 37:51.260
+ So we could make a mouse that was just sitting there
+
+37:51.260 --> 37:54.620
+ doing nothing to then turn left very consistently,
+
+37:54.620 --> 37:55.940
+ in fact, go around in a circle
+
+37:55.940 --> 37:58.060
+ and as soon as we turn off the light, it would stop.
+
+37:58.060 --> 37:59.740
+ That was an eye-opening moment.
+
+38:01.540 --> 38:04.980
+ It took really a few years to make optogenetics work.
+
+38:04.980 --> 38:08.060
+ There was a lot of putting all the,
+
+38:08.060 --> 38:10.180
+ there were a lot of problems that had to be solved.
+
+38:10.180 --> 38:14.140
+ These channel rhodopsins actually don't move many ions.
+
+38:14.140 --> 38:17.060
+ They have a small current, small conductance, as we say.
+
+38:17.060 --> 38:20.100
+ And so we had to figure out ways to pack a lot of them
+
+38:20.100 --> 38:23.420
+ into cells without damaging cells
+
+38:23.420 --> 38:25.140
+ and still make them targetable.
+
+38:25.140 --> 38:27.100
+ So we don't want them to just be in all the cells
+
+38:27.100 --> 38:29.500
+ cause then it becomes just like an electrode.
+
+38:29.500 --> 38:31.220
+ You're just stimulating all the cells that are nearby.
+
+38:31.220 --> 38:33.620
+ We had to keep that specificity,
+
+38:33.620 --> 38:37.500
+ make them targetable to just one kind of cell or another
+
+38:37.500 --> 38:39.420
+ while still packing in large numbers of them
+
+38:39.420 --> 38:40.940
+ into those cells.
+
+38:40.940 --> 38:43.460
+ And we had to get in the light in safe and specific ways.
+
+38:43.460 --> 38:46.380
+ And so it took probably about four or five years
+
+38:46.380 --> 38:50.580
+ to really create optogenetics between 2004 and 2009.
+
+38:50.580 --> 38:51.780
+ By the end of that time though,
+
+38:51.780 --> 38:55.900
+ we had all the basic light delivery,
+
+38:55.900 --> 38:58.500
+ gene delivery principles worked out
+
+38:58.500 --> 39:01.820
+ and people started to apply the technology
+
+39:01.820 --> 39:05.540
+ to fish, to rats, to mice,
+
+39:05.540 --> 39:09.860
+ to non-human primates like monkeys.
+
+39:09.860 --> 39:14.260
+ And just a couple months ago,
+
+39:14.260 --> 39:17.020
+ my colleague Botond Roska in Switzerland
+
+39:17.020 --> 39:19.860
+ succeeded in putting channel rhodopsins
+
+39:19.860 --> 39:21.660
+ into the eyes of human beings.
+
+39:21.660 --> 39:23.820
+ And making a blind person see.
+
+39:23.820 --> 39:25.780
+ And so that's pretty cool.
+
+39:26.900 --> 39:30.660
+ This was a patient with retinal degeneration
+
+39:30.660 --> 39:32.900
+ and he provided a channel rhodopsin
+
+39:32.900 --> 39:34.860
+ into the eye of this patient
+
+39:34.860 --> 39:36.860
+ and was able to confer some light sensitivity
+
+39:36.860 --> 39:38.780
+ onto this patient that wasn't there before.
+
+39:38.780 --> 39:40.620
+ An amazing paper and discovery.
+
+39:40.620 --> 39:42.100
+ I realized it was one patient,
+
+39:42.100 --> 39:44.060
+ but it's such an important milestone.
+
+39:44.060 --> 39:46.820
+ Well, as you say, it's a very important milestone.
+
+39:46.820 --> 39:50.660
+ And the history of that is very deep.
+
+39:50.660 --> 39:53.460
+ Almost 10 years earlier, Botond, Roska, and I
+
+39:53.460 --> 39:57.060
+ had published a paper in science in human retina,
+
+39:57.060 --> 39:59.460
+ but explanted, taken from cadavers
+
+39:59.460 --> 40:01.940
+ from someone who had died living retina,
+
+40:01.940 --> 40:06.940
+ taken out, opsins put into this retinal tissue
+
+40:07.100 --> 40:08.500
+ and showing that it worked,
+
+40:08.500 --> 40:09.580
+ recording from the cells,
+
+40:09.580 --> 40:11.340
+ showing that in these human neurons,
+
+40:11.340 --> 40:14.620
+ retinal neurons, that you could get light responses.
+
+40:14.620 --> 40:16.740
+ But then from that moment,
+
+40:16.740 --> 40:20.020
+ almost 10 years of how clinical development goes,
+
+40:20.020 --> 40:21.580
+ and this is a gene therapy,
+
+40:21.580 --> 40:24.020
+ so you've got all the regulations
+
+40:24.020 --> 40:25.220
+ and concerns and all that.
+
+40:25.220 --> 40:27.780
+ It took almost 10 years to get to this point now
+
+40:27.780 --> 40:30.860
+ where a living human being has a new functionality
+
+40:30.860 --> 40:32.800
+ that wasn't there before.
+
+40:32.800 --> 40:34.700
+ Now that's incredibly inspiring,
+
+40:35.540 --> 40:38.300
+ and it's a beautiful thing.
+
+40:38.300 --> 40:42.900
+ I would say though, that the broader significance
+
+40:42.900 --> 40:45.140
+ of optogenetics is really still understanding
+
+40:45.140 --> 40:48.660
+ because once you understand how the circuitry works
+
+40:48.660 --> 40:50.460
+ and which cells actually matter,
+
+40:50.460 --> 40:53.680
+ then any kind of treatment becomes more grounded
+
+40:53.680 --> 40:57.180
+ and logical and specific and principled.
+
+40:57.180 --> 40:59.360
+ And whether it's a medication or a talk therapy
+
+40:59.360 --> 41:00.780
+ or brain stimulation treatment
+
+41:00.780 --> 41:03.460
+ with electrical or magnetic means,
+
+41:03.460 --> 41:05.560
+ if you actually know what matters,
+
+41:05.560 --> 41:06.760
+ that is incredibly powerful.
+
+41:06.760 --> 41:08.680
+ And I think, no,
+
+41:10.700 --> 41:14.580
+ not intended to disparage the beautiful retinal work
+
+41:14.580 --> 41:17.700
+ and conferring vision on someone who couldn't see,
+
+41:17.700 --> 41:19.440
+ of course, that's wonderful.
+
+41:19.440 --> 41:22.540
+ But, and that's direct, what you might call
+
+41:22.540 --> 41:24.140
+ direct optogenetics in patients.
+
+41:24.140 --> 41:27.420
+ Indirect is everything that comes from understanding.
+
+41:27.420 --> 41:30.340
+ Okay, we know these cells matter now for this symptom.
+
+41:30.340 --> 41:33.020
+ Well, how can we target those cells
+
+41:33.020 --> 41:35.580
+ and help them work better in patients by any means?
+
+41:35.580 --> 41:37.640
+ And I think that's the broader significance
+
+41:37.640 --> 41:39.220
+ of optogenetics clinically.
+
+41:39.220 --> 41:40.720
+ You and I know Boton well,
+
+41:40.720 --> 41:45.720
+ and you and Boton share this incredible big vision
+
+41:45.720 --> 41:50.360
+ that I think only a clinician can really understand,
+
+41:50.360 --> 41:54.580
+ being in close contact with and the suffering of patients
+
+41:54.580 --> 41:57.640
+ as a ultimate motivator of developing technologies,
+
+41:57.640 --> 42:00.340
+ which makes me have to ask,
+
+42:00.340 --> 42:02.880
+ did you decide to become a scientist
+
+42:02.880 --> 42:06.300
+ to find cures for mental disease?
+
+42:08.500 --> 42:09.680
+ No, I didn't.
+
+42:09.680 --> 42:11.200
+ It's a really important question
+
+42:11.200 --> 42:13.620
+ to actually look back and see the steps
+
+42:13.620 --> 42:16.480
+ that brought you to a particular place.
+
+42:16.480 --> 42:20.640
+ And that was not what brought me initially to science.
+
+42:20.640 --> 42:24.360
+ And it's okay to, I think, to embrace the twists and turns
+
+42:24.360 --> 42:27.360
+ that life brings to you.
+
+42:27.360 --> 42:29.040
+ But I was always interested in the brain.
+
+42:29.040 --> 42:32.600
+ And so that was something that for me started
+
+42:32.600 --> 42:34.440
+ from a very early age.
+
+42:34.440 --> 42:36.840
+ I was, you know, we talked about being introspective.
+
+42:36.840 --> 42:38.800
+ I noticed very early on,
+
+42:38.800 --> 42:43.420
+ I had a deep love of poetry and stories.
+
+42:43.420 --> 42:48.420
+ And I was a voracious reader and I was amazed
+
+42:49.280 --> 42:53.880
+ by how words could make me feel in particular ways,
+
+42:53.880 --> 42:57.040
+ just even separate from their, you know,
+
+42:57.040 --> 42:58.360
+ of course, dictionary meanings,
+
+42:58.360 --> 43:01.160
+ the rhythm and how they work together,
+
+43:01.160 --> 43:03.240
+ even separate from meaning.
+
+43:03.240 --> 43:06.580
+ And I was stunned by poets that could use words
+
+43:06.580 --> 43:09.400
+ in new ways that were even divorced
+
+43:09.400 --> 43:10.440
+ from their meaning at all,
+
+43:10.440 --> 43:12.440
+ and yet could still trigger specific emotions.
+
+43:12.440 --> 43:14.820
+ And I was, this was always fascinating to me.
+
+43:15.780 --> 43:19.780
+ So, you know, I wanted to understand that.
+
+43:19.780 --> 43:21.120
+ And so I was interested,
+
+43:21.120 --> 43:23.280
+ and I became interested in the brain.
+
+43:23.280 --> 43:26.720
+ And I thought, well, I'm gonna have to study the human brain
+
+43:26.720 --> 43:31.180
+ because only human beings can describe
+
+43:31.180 --> 43:33.200
+ what's going on inside enough.
+
+43:34.080 --> 43:38.480
+ So in college, I began to steer myself toward medicine
+
+43:38.480 --> 43:40.920
+ and with the idea of becoming a neurosurgeon.
+
+43:40.920 --> 43:45.920
+ And so I came here to medical school
+
+43:47.060 --> 43:48.880
+ and did an MD PhD program,
+
+43:50.200 --> 43:52.060
+ planning neurosurgery all the way through.
+
+43:52.060 --> 43:55.780
+ The first rotation I did at the end of medical school,
+
+43:55.780 --> 43:57.500
+ as you know, you do rotations,
+
+43:57.500 --> 43:59.060
+ you go through different specialties,
+
+43:59.060 --> 44:01.060
+ and some of these are required rotations
+
+44:01.060 --> 44:01.900
+ that everybody has to do.
+
+44:01.900 --> 44:04.820
+ Some are elective where you can pick what you wanna do.
+
+44:06.180 --> 44:08.180
+ I elected to do neurosurgery first,
+
+44:08.180 --> 44:09.780
+ even before regular surgery,
+
+44:09.780 --> 44:11.140
+ I was not sure I wanted to do it.
+
+44:11.140 --> 44:11.980
+ And I loved it.
+
+44:11.980 --> 44:13.380
+ I had a fantastic time.
+
+44:13.380 --> 44:17.580
+ There was an amazing patient who had a thalamic damage,
+
+44:17.580 --> 44:19.020
+ and there was a neglect syndrome
+
+44:19.020 --> 44:22.600
+ where the patient was not able to be aware of something
+
+44:22.600 --> 44:24.820
+ that was right in front of him.
+
+44:24.820 --> 44:25.980
+ Even though their vision was perfectly fine.
+
+44:25.980 --> 44:28.860
+ Even though their vision was perfectly fine, exactly.
+
+44:28.860 --> 44:31.460
+ And so I was, and I loved the operating room.
+
+44:31.460 --> 44:36.260
+ I loved the rhythm of suturing and the precision of it.
+
+44:36.260 --> 44:40.060
+ And I loved being able to help patients immediately.
+
+44:40.060 --> 44:44.220
+ But then a required rotation was in psychiatry,
+
+44:45.340 --> 44:48.420
+ which I was not looking forward to at all.
+
+44:48.420 --> 44:51.560
+ And that completely reset my whole life,
+
+44:51.560 --> 44:53.960
+ that experience in psychiatry.
+
+44:53.960 --> 44:58.020
+ And it was at that moment that I saw this is,
+
+44:58.020 --> 45:00.100
+ first of all, the greatest need,
+
+45:00.100 --> 45:04.680
+ the depth of suffering and the depth of the mystery together.
+
+45:04.680 --> 45:09.220
+ And also it was, I almost feel a little guilty about this.
+
+45:09.220 --> 45:10.880
+ It's so interesting too.
+
+45:10.880 --> 45:13.860
+ Yes, yes, we can help.
+
+45:13.860 --> 45:14.820
+ Yes, there's need.
+
+45:14.820 --> 45:18.300
+ But as a scientist, this is amazing
+
+45:18.300 --> 45:22.140
+ that someone's reality can be different from my own.
+
+45:22.140 --> 45:25.380
+ With everything physically, as far as we can tell,
+
+45:25.380 --> 45:29.060
+ the same with the measures we have,
+
+45:29.060 --> 45:30.500
+ and yet we've got a different reality.
+
+45:30.500 --> 45:32.140
+ That is an amazing thing.
+
+45:32.140 --> 45:35.300
+ And if we can understand that and help these people,
+
+45:35.300 --> 45:39.340
+ that would be just more than anybody could ask for it.
+
+45:39.340 --> 45:42.460
+ And so that's how I ended up taking this path,
+
+45:42.460 --> 45:46.260
+ just a required rotation in psychiatry.
+
+45:46.260 --> 45:47.940
+ It all started with poetry.
+
+45:47.940 --> 45:49.540
+ And it started with poetry.
+
+45:49.540 --> 45:52.020
+ Out of respect for poetry,
+
+45:52.020 --> 45:54.900
+ are there any favorites that you spend time with
+
+45:55.860 --> 45:57.500
+ on a regular basis?
+
+45:57.500 --> 46:01.860
+ I mean, the ones who got me down this path
+
+46:01.860 --> 46:04.900
+ early on, I remember in childhood in high school,
+
+46:05.940 --> 46:08.400
+ Borges had an immense influence on me.
+
+46:09.260 --> 46:14.060
+ I studied Spanish all the way through and reading his work.
+
+46:14.060 --> 46:15.580
+ He was a great writer.
+
+46:15.580 --> 46:17.780
+ He wrote both in English and in Spanish,
+
+46:17.780 --> 46:20.060
+ and being able to appreciate his poetry
+
+46:20.060 --> 46:23.140
+ both in English and in Spanish was a pretty amazing thing.
+
+46:23.140 --> 46:25.660
+ Not many poets can do that.
+
+46:25.660 --> 46:26.500
+ You're bilingual.
+
+46:26.500 --> 46:28.580
+ I wouldn't say now.
+
+46:28.580 --> 46:32.300
+ At one point, I was effectively fluent in Spanish,
+
+46:32.300 --> 46:34.520
+ and I'm pretty good with medical Spanish still,
+
+46:34.520 --> 46:38.940
+ because we use Spanish all the time in the clinic here.
+
+46:39.820 --> 46:41.460
+ I wouldn't claim full fluency,
+
+46:41.460 --> 46:44.260
+ but it's something I definitely use all the time.
+
+46:44.260 --> 46:45.900
+ That's been very helpful in the clinic.
+
+46:45.900 --> 46:46.980
+ Yeah, Borges is wonderful.
+
+46:46.980 --> 46:49.820
+ As the son of an Argentine, I grew up hearing about it,
+
+46:49.820 --> 46:53.580
+ and I learned that Borges' favorite city was Geneva.
+
+46:53.580 --> 46:56.380
+ So I spent time in Geneva only for that reason.
+
+46:56.380 --> 46:58.380
+ It also turns out to be an interesting city.
+
+46:58.380 --> 46:59.220
+ Yes.
+
+47:00.200 --> 47:04.720
+ So you developed methods to control neurons
+
+47:04.720 --> 47:08.740
+ with these algae proteins using light.
+
+47:10.260 --> 47:14.340
+ In 2015, there was what I thought was a very nice article
+
+47:14.340 --> 47:17.180
+ published in the New Yorker describing your work
+
+47:17.180 --> 47:19.900
+ and the current state of your work
+
+47:19.900 --> 47:21.900
+ in the laboratory in the clinic,
+
+47:21.900 --> 47:24.420
+ and an interaction with a patient.
+
+47:24.420 --> 47:28.300
+ So this is, as I recall, a woman who was severely depressed.
+
+47:28.300 --> 47:30.340
+ And you reported in that article
+
+47:30.340 --> 47:32.460
+ some of the discussion with this patient,
+
+47:32.460 --> 47:34.820
+ and then in real time,
+
+47:34.820 --> 47:38.220
+ increased the activation of the so-called vagus nerve,
+
+47:38.220 --> 47:40.360
+ this 10th cranial nerve that extends out of the skull
+
+47:40.360 --> 47:43.280
+ and innervates many of the viscera and body.
+
+47:45.520 --> 47:48.840
+ What is the potential for channelrhodopsins,
+
+47:48.840 --> 47:52.300
+ or related types of algae engineering,
+
+47:52.300 --> 47:56.140
+ to be used to manipulate the vagus?
+
+47:56.140 --> 47:57.340
+ Because I believe in that instance,
+
+47:57.340 --> 47:58.980
+ it wasn't channelopsin stimulation,
+
+47:58.980 --> 48:00.700
+ it was electrical stimulation, right?
+
+48:00.700 --> 48:02.240
+ Or to manipulate, for instance,
+
+48:02.240 --> 48:04.820
+ a very small localized region of the brain.
+
+48:04.820 --> 48:07.380
+ Let me frame it a little bit differently
+
+48:07.380 --> 48:08.380
+ in light of what we were talking about
+
+48:08.380 --> 48:09.580
+ a couple of minutes ago.
+
+48:11.020 --> 48:14.000
+ My understanding is that if somebody has severe depression
+
+48:14.000 --> 48:17.300
+ and they take any number of the available
+
+48:17.300 --> 48:19.660
+ pharmaceutical agents that are out there,
+
+48:19.660 --> 48:22.040
+ SSRI, serotoninergic agents,
+
+48:22.040 --> 48:23.980
+ increased dopamine, increased whatever,
+
+48:23.980 --> 48:26.360
+ that sometimes they experience relief,
+
+48:26.360 --> 48:28.200
+ but there are often serious side effects.
+
+48:28.200 --> 48:29.940
+ Sometimes they don't experience relief,
+
+48:29.940 --> 48:32.060
+ but as I understand it,
+
+48:32.060 --> 48:35.660
+ channelopsins and their related technology, in principle,
+
+48:35.660 --> 48:39.620
+ would allow you to turn on or off
+
+48:39.620 --> 48:41.580
+ the specific regions of the brain
+
+48:41.580 --> 48:43.380
+ that lead to the depressive symptoms,
+
+48:43.380 --> 48:45.500
+ or maybe you turn up a happiness circuit
+
+48:45.500 --> 48:49.780
+ or a positive anticipation circuit.
+
+48:49.780 --> 48:53.400
+ Where are we at now in terms of bringing this technology
+
+48:53.400 --> 48:54.980
+ to the nervous system?
+
+48:54.980 --> 48:58.920
+ And let's start with the body and then move into the skull.
+
+48:58.920 --> 49:01.420
+ Yeah, so starting with the body is a good example
+
+49:01.420 --> 49:04.660
+ because it highlights the opportunity
+
+49:04.660 --> 49:06.700
+ and how far we have to go.
+
+49:06.700 --> 49:09.740
+ So let's take this example of vagus nerve stimulation.
+
+49:09.740 --> 49:12.100
+ So the vagus nerve, it's the 10th cranial nerve.
+
+49:12.100 --> 49:14.060
+ It comes from the brain, it goes down,
+
+49:14.060 --> 49:16.420
+ it innervates the heart, innervates the gut.
+
+49:16.420 --> 49:18.860
+ And by innervate, I mean it sends little connections down
+
+49:18.860 --> 49:22.100
+ to help guide what happens in these organs
+
+49:22.100 --> 49:25.480
+ in the abdomen and chest.
+
+49:25.480 --> 49:27.820
+ It also collects information back,
+
+49:27.820 --> 49:30.700
+ and there's information coming back from all those organs
+
+49:30.700 --> 49:32.660
+ that also go through this vagus nerve,
+
+49:32.660 --> 49:35.220
+ the 10th cranial nerve, back to the brain.
+
+49:35.220 --> 49:39.500
+ And so this is somewhat of a super highway to the brain then
+
+49:39.500 --> 49:40.340
+ was the idea.
+
+49:40.340 --> 49:43.180
+ And maybe the idea is maybe we could put a little cuff,
+
+49:43.180 --> 49:48.180
+ a little electrical device around the vagus nerve itself
+
+49:48.580 --> 49:50.660
+ and maybe have just like a pacemaker battery,
+
+49:50.660 --> 49:53.380
+ have a little power source here under the clavicle,
+
+49:53.380 --> 49:55.020
+ everything under the skin,
+
+49:55.020 --> 49:57.940
+ and have a little cuff and drive signals
+
+49:57.940 --> 49:59.380
+ and maybe they'll get back to the brain.
+
+49:59.380 --> 50:00.940
+ So a way of getting into the brain
+
+50:00.940 --> 50:03.700
+ without putting something physical into the brain.
+
+50:03.700 --> 50:04.760
+ And why the vagus?
+
+50:04.760 --> 50:06.860
+ I mean, it's there and it's accessible.
+
+50:06.860 --> 50:07.780
+ That's the reason.
+
+50:07.780 --> 50:08.620
+ That's the reason?
+
+50:08.620 --> 50:09.440
+ That's the reason, yes.
+
+50:09.440 --> 50:10.280
+ Really? Yeah.
+
+50:10.280 --> 50:11.120
+ You're not kidding.
+
+50:11.120 --> 50:11.940
+ I'm not kidding.
+
+50:11.940 --> 50:13.680
+ So stimulating the vagus to treat depression
+
+50:13.680 --> 50:15.420
+ simply because it's accessible.
+
+50:15.420 --> 50:19.420
+ It started as actually as an epilepsy treatment
+
+50:19.420 --> 50:20.820
+ and it can help with epilepsy.
+
+50:20.820 --> 50:22.660
+ But yes, it's simply because it's accessible.
+
+50:22.660 --> 50:23.660
+ You got to love the medicine.
+
+50:23.660 --> 50:26.900
+ As a scientist, this is where I get to chuckle and just say,
+
+50:26.900 --> 50:30.220
+ I'm in the field of medicine from that perspective,
+
+50:30.220 --> 50:33.140
+ from the perspective of a scientist and outsider,
+
+50:33.140 --> 50:35.360
+ the field of medicine as a field that goes in
+
+50:35.360 --> 50:39.820
+ and tickles pathways because they're there.
+
+50:39.820 --> 50:42.420
+ It's, I don't know what to say.
+
+50:42.420 --> 50:44.620
+ It's a little shocking.
+
+50:44.620 --> 50:45.460
+ Yeah.
+
+50:45.460 --> 50:50.020
+ And we all, at least in my laboratory,
+
+50:50.020 --> 50:53.000
+ I always say you never do an experiment because you can.
+
+50:53.000 --> 50:56.020
+ You do an experiment to test a specific hypothesis.
+
+50:56.020 --> 50:57.300
+ Yeah, yeah.
+
+50:57.300 --> 50:59.600
+ I mean, there are stories people tell.
+
+50:59.600 --> 51:04.320
+ So the vagus nerve lands on a particular spot on the brain
+
+51:04.320 --> 51:05.920
+ called the solitary tract nucleus,
+
+51:05.920 --> 51:09.300
+ which is just one synapse away from the serotonin
+
+51:09.300 --> 51:10.700
+ and dopamine and the norepinephrine.
+
+51:10.700 --> 51:13.260
+ So there's a link to chemical systems in the brain
+
+51:13.260 --> 51:14.740
+ that make it a rational choice.
+
+51:14.740 --> 51:16.180
+ Yes, it's not irrational,
+
+51:16.180 --> 51:19.340
+ but I can tell you that even if that were not true,
+
+51:19.340 --> 51:21.800
+ the same thing would have been tried.
+
+51:21.800 --> 51:22.640
+ You actually would have done it anyway.
+
+51:22.640 --> 51:23.940
+ Because it's accessible, yeah.
+
+51:23.940 --> 51:24.980
+ I see, okay.
+
+51:24.980 --> 51:26.940
+ And why?
+
+51:26.940 --> 51:31.940
+ Well, again, not to disparage what's been happening
+
+51:31.940 --> 51:33.940
+ in this branch of medicine.
+
+51:33.940 --> 51:36.180
+ There's immense suffering, treatments.
+
+51:36.180 --> 51:39.780
+ Many treatments don't work and we try things.
+
+51:39.780 --> 51:42.980
+ And this is how so many advances in medicine happen.
+
+51:42.980 --> 51:44.620
+ You think about kidney dialysis,
+
+51:44.620 --> 51:46.680
+ which has kept many people alive.
+
+51:46.680 --> 51:48.360
+ That was just started by someone saying,
+
+51:48.360 --> 51:49.720
+ hey, let's try this.
+
+51:49.720 --> 51:51.500
+ Maybe there's something building up in the blood.
+
+51:51.500 --> 51:53.420
+ Maybe we can dialyze something and help them.
+
+51:53.420 --> 51:54.240
+ Yeah, it worked.
+
+51:54.240 --> 51:56.660
+ And it was just sort of a test pilot mentality.
+
+51:57.500 --> 51:59.680
+ We can access the blood.
+
+51:59.680 --> 52:01.700
+ Let's run it across a dialysis membrane,
+
+52:01.700 --> 52:02.660
+ put it back in the body.
+
+52:02.660 --> 52:03.940
+ Oh my God, that actually works.
+
+52:03.940 --> 52:06.940
+ And sometimes you do need that test pilot mentality,
+
+52:06.940 --> 52:10.120
+ of course, to do it in a rigorous, safe, controlled way,
+
+52:10.120 --> 52:10.960
+ which is what we do.
+
+52:10.960 --> 52:14.500
+ And so anyway, that's how we ended up
+
+52:14.500 --> 52:16.620
+ but still with the vagus nerve stimulation.
+
+52:16.620 --> 52:18.720
+ Okay, so what does it, does it work?
+
+52:19.780 --> 52:22.780
+ It has, it's FDA approved for depression,
+
+52:22.780 --> 52:24.080
+ this vagus nerve stimulation.
+
+52:24.080 --> 52:25.520
+ But on a population level,
+
+52:25.520 --> 52:28.120
+ if you average across all people,
+
+52:28.120 --> 52:30.740
+ the effect sizes are pretty small.
+
+52:30.740 --> 52:33.660
+ Some patients it has an amazing effect in,
+
+52:33.660 --> 52:35.540
+ but some patients it doesn't work at all.
+
+52:35.540 --> 52:37.180
+ And average across everybody,
+
+52:37.180 --> 52:38.500
+ the effect size is pretty small.
+
+52:38.500 --> 52:39.980
+ How do you think it's working when it does work?
+
+52:39.980 --> 52:42.420
+ Is it triggering the activation of neurons
+
+52:42.420 --> 52:44.440
+ that release more serotonin or dopamine?
+
+52:44.440 --> 52:46.100
+ It could be, but I would say
+
+52:46.100 --> 52:47.900
+ we don't have evidence for that.
+
+52:47.900 --> 52:50.500
+ And so I just don't know.
+
+52:50.500 --> 52:53.340
+ But what is clear is that it's dose limited
+
+52:54.260 --> 52:56.660
+ in how high and strongly we can stimulate.
+
+52:56.660 --> 52:57.500
+ And why?
+
+52:57.500 --> 52:58.940
+ It's because it's an electrode
+
+52:58.940 --> 53:01.460
+ and it's stimulating everything nearby.
+
+53:01.460 --> 53:03.660
+ And when you turn on the vagus nerve stimulator,
+
+53:03.660 --> 53:07.220
+ the voice, patient's voice becomes strangulated and hoarse.
+
+53:07.220 --> 53:09.060
+ They can have trouble swallowing.
+
+53:09.060 --> 53:11.340
+ They can have trouble speaking for sure.
+
+53:11.340 --> 53:12.980
+ Even some trouble breathing
+
+53:12.980 --> 53:14.300
+ because everything in the neck,
+
+53:14.300 --> 53:17.580
+ every electrically responsive cell and projection
+
+53:17.580 --> 53:20.060
+ in the neck is being affected by this electrode.
+
+53:20.060 --> 53:24.020
+ And so you can go up just so far with the intensity
+
+53:24.020 --> 53:25.700
+ and then you have to stop.
+
+53:25.700 --> 53:27.980
+ So to your initial question,
+
+53:27.980 --> 53:31.040
+ could a more precise stimulation method
+
+53:31.040 --> 53:33.420
+ like optogenetics help in this setting?
+
+53:33.420 --> 53:34.380
+ In principle, it could,
+
+53:34.380 --> 53:38.140
+ because if you would target the light sensitivity
+
+53:38.140 --> 53:39.780
+ to just the right kind of cell,
+
+53:41.180 --> 53:44.060
+ let's say cell X that goes from point A to point B
+
+53:44.060 --> 53:47.400
+ that you know causes symptom relief of a particular kind,
+
+53:47.400 --> 53:48.240
+ then you're in business.
+
+53:48.240 --> 53:51.500
+ You can have that be the only cell that's light sensitive.
+
+53:51.500 --> 53:53.460
+ You're not going to affect any of the other cells,
+
+53:53.460 --> 53:54.900
+ the larynx and the pharynx
+
+53:54.900 --> 53:57.460
+ and the projections passing through.
+
+53:57.460 --> 53:58.300
+ So that's the hope.
+
+53:58.300 --> 53:59.120
+ That's the opportunity.
+
+53:59.120 --> 54:01.480
+ The problem is that we don't yet have
+
+54:01.480 --> 54:02.900
+ that level of specific knowledge.
+
+54:02.900 --> 54:04.620
+ We don't know, okay,
+
+54:04.620 --> 54:07.420
+ it's the cell starting in point A going to point B
+
+54:07.420 --> 54:09.180
+ that relieves this particular symptom.
+
+54:09.180 --> 54:11.500
+ We want to fix this key on the piano.
+
+54:11.500 --> 54:14.960
+ And then I see two other steps that are required.
+
+54:14.960 --> 54:17.540
+ One is to get the channelopsin gene into the cell.
+
+54:17.540 --> 54:20.020
+ In the case of Boton, Rosco and colleagues
+
+54:20.020 --> 54:21.740
+ rescuing vision in this patient,
+
+54:23.380 --> 54:25.540
+ they did that by an injection of a virus
+
+54:25.540 --> 54:27.620
+ that doesn't damage the neurons.
+
+54:27.620 --> 54:30.300
+ The virus itself is fairly innocuous,
+
+54:30.300 --> 54:31.780
+ but carries a cargo,
+
+54:31.780 --> 54:33.080
+ and it's a one-time injection.
+
+54:33.080 --> 54:34.060
+ The cells express,
+
+54:34.060 --> 54:36.300
+ and then they used light to stimulate.
+
+54:36.300 --> 54:40.260
+ So let's say I'm depressed,
+
+54:40.260 --> 54:41.140
+ which I don't think I am,
+
+54:41.140 --> 54:42.940
+ although now sitting in front of a psychiatrist,
+
+54:42.940 --> 54:44.900
+ you probably can see signs that maybe I am,
+
+54:44.900 --> 54:46.020
+ or maybe I'm not.
+
+54:46.020 --> 54:48.580
+ But let's say we put channelopsin
+
+54:48.580 --> 54:51.860
+ into a specific branch of the vagus
+
+54:51.860 --> 54:56.580
+ that we understand is responsible for mood.
+
+54:56.580 --> 54:58.360
+ How are we going to get it in there?
+
+54:58.360 --> 55:00.320
+ And then how are we going to deliver the light?
+
+55:00.320 --> 55:01.780
+ Because we're not talking about sunlight
+
+55:01.780 --> 55:04.260
+ or standing in front of a light bulb necessarily,
+
+55:04.260 --> 55:07.020
+ but what are the mechanisms for the body?
+
+55:07.020 --> 55:09.580
+ Yeah, so we had to solve exactly these questions.
+
+55:09.580 --> 55:10.900
+ You're saying, how do you get the light in?
+
+55:10.900 --> 55:14.100
+ How do you get the gene in in a potent
+
+55:14.100 --> 55:16.640
+ and robust and safe way?
+
+55:16.640 --> 55:19.000
+ And that's now solved,
+
+55:19.000 --> 55:20.740
+ and that's not a challenge.
+
+55:20.740 --> 55:22.460
+ So there are very safe,
+
+55:22.460 --> 55:27.400
+ well-tolerated gene delivery mechanisms
+
+55:27.400 --> 55:31.140
+ that are called adeno-associated viruses, AAVs.
+
+55:31.140 --> 55:34.220
+ And these are things that are associated
+
+55:34.220 --> 55:35.740
+ with the common cold.
+
+55:35.740 --> 55:39.340
+ They themselves don't cause any symptoms.
+
+55:39.340 --> 55:40.380
+ They've been engineered,
+
+55:40.380 --> 55:43.420
+ and there's been a broad community of viral engineering
+
+55:43.420 --> 55:44.660
+ that's been going on for decades,
+
+55:44.660 --> 55:48.300
+ making these safer, well-tolerated, and so on.
+
+55:48.300 --> 55:49.920
+ We can put the channelrhodopsin gene
+
+55:49.920 --> 55:54.920
+ into these viral vectors that deliver the gene,
+
+55:55.060 --> 55:57.560
+ and we can have little bits of additional DNA
+
+55:57.560 --> 56:00.000
+ that govern expression only in one kind of cell,
+
+56:00.000 --> 56:00.840
+ but not another.
+
+56:00.840 --> 56:03.180
+ These are called promoters and enhancers,
+
+56:03.180 --> 56:06.060
+ all genetic tricks built up by a very broad community
+
+56:06.060 --> 56:08.820
+ of great scientists over the decades.
+
+56:08.820 --> 56:10.740
+ We can put these different bits of DNA,
+
+56:10.740 --> 56:13.820
+ package them into this AAV, this little virus,
+
+56:13.820 --> 56:16.580
+ and that can be then injected
+
+56:16.580 --> 56:20.380
+ into a particular part of the body.
+
+56:20.380 --> 56:23.220
+ And sticking with this vagus nerve example,
+
+56:23.220 --> 56:25.620
+ we know that there are particular clumps of neurons.
+
+56:25.620 --> 56:27.880
+ There's one called the nodos ganglion
+
+56:27.880 --> 56:32.060
+ that has a clump of cells related to the vagus nerve,
+
+56:32.060 --> 56:33.260
+ and you could, for example,
+
+56:33.260 --> 56:35.980
+ target a little injection into that ganglion.
+
+56:35.980 --> 56:37.620
+ Would that be an outpatient procedure?
+
+56:37.620 --> 56:39.380
+ Yeah, yeah, so you come in in the morning,
+
+56:39.380 --> 56:41.700
+ get your injection, maybe walk out a few hours later.
+
+56:41.700 --> 56:44.200
+ Yeah, that's right, and so that's the gene.
+
+56:45.260 --> 56:46.380
+ Then the light delivery,
+
+56:46.380 --> 56:48.660
+ this is also something that we've worked out.
+
+56:48.660 --> 56:52.540
+ We've worked on making very, very light-sensitive opsins.
+
+56:52.540 --> 56:57.500
+ One challenge, and Botand would be the first to state this,
+
+56:57.500 --> 57:00.100
+ in fact, in solving this problem for the patient,
+
+57:00.100 --> 57:05.100
+ he had to build goggles that created much brighter light
+
+57:05.100 --> 57:08.740
+ than the normal ambient light delivery,
+
+57:08.740 --> 57:10.620
+ because as I mentioned earlier,
+
+57:10.620 --> 57:13.920
+ you have to pack a lot of these channelrhodopsins in.
+
+57:13.920 --> 57:15.620
+ They don't have much current.
+
+57:15.620 --> 57:17.220
+ You have to really make sure
+
+57:17.220 --> 57:19.520
+ that you've got a tense enough light
+
+57:19.520 --> 57:21.740
+ to activate enough of them to cause a stimulation.
+
+57:21.740 --> 57:23.100
+ And it has to be the right wavelength, correct?
+
+57:23.100 --> 57:23.940
+ It has to be the right wavelength.
+
+57:23.940 --> 57:24.820
+ And going back to your example
+
+57:24.820 --> 57:28.460
+ of the algae moving toward or away the light,
+
+57:28.460 --> 57:30.180
+ it has to be tuned just right.
+
+57:30.180 --> 57:34.420
+ So could you, I'm imagining in my mind as a non-engineer,
+
+57:34.420 --> 57:36.820
+ I know you're also a bioengineer,
+
+57:38.060 --> 57:42.660
+ I'm imagining a little tiny blue light-emitting thing,
+
+57:43.780 --> 57:47.220
+ object that's a little bigger than a clump of cells,
+
+57:47.220 --> 57:49.340
+ or maybe about the size of a clump of cells.
+
+57:49.340 --> 57:50.840
+ And for those who don't know,
+
+57:51.780 --> 57:56.580
+ your credit card is about 200 microns thick on the side,
+
+57:56.580 --> 57:58.740
+ and a micron is a thousandths of a millimeter.
+
+57:58.740 --> 58:02.140
+ And so we're talking about a little tiny stamp
+
+58:02.140 --> 58:07.140
+ that's basically half a millimeter in size all around.
+
+58:10.260 --> 58:12.400
+ Each edge, half a millimeter in size.
+
+58:12.400 --> 58:14.740
+ I can imagine that being put under my skin.
+
+58:14.740 --> 58:17.540
+ And then I would, what, I'd hit an app on my phone,
+
+58:17.540 --> 58:22.220
+ and I'd say, Dr. Deisseroth, I'm not feeling great today.
+
+58:22.220 --> 58:23.660
+ Can I increase the stimulation?
+
+58:23.660 --> 58:24.760
+ And you say, go for it.
+
+58:24.760 --> 58:25.680
+ And then I ramp it up.
+
+58:25.680 --> 58:26.520
+ Is that how it would go?
+
+58:26.520 --> 58:28.220
+ I mean, that's effectively what we already do
+
+58:28.220 --> 58:31.040
+ with the vagus nerve stimulation, the doctor in this case.
+
+58:31.040 --> 58:33.260
+ And I have this in some of my patients in the clinic.
+
+58:33.260 --> 58:34.500
+ I do vagus nerve stimulation.
+
+58:34.500 --> 58:35.320
+ I talk to them.
+
+58:35.320 --> 58:37.380
+ I say, hi, I go through the symptoms.
+
+58:37.380 --> 58:39.100
+ I use the psychiatric interview
+
+58:39.100 --> 58:41.180
+ to elicit their internal states.
+
+58:41.180 --> 58:44.060
+ And then I have a radio frequency controller
+
+58:44.060 --> 58:45.620
+ that I can dial in.
+
+58:45.620 --> 58:46.460
+ Right there in real time.
+
+58:46.460 --> 58:47.280
+ Right there in real time.
+
+58:47.280 --> 58:48.460
+ You're holding the remote control
+
+58:48.460 --> 58:49.740
+ essentially to their brain,
+
+58:49.740 --> 58:51.420
+ although it's remote, remote control.
+
+58:51.420 --> 58:53.460
+ Through a couple of steps, but yeah.
+
+58:53.460 --> 58:56.420
+ And I can turn up the frequency.
+
+58:56.420 --> 59:00.220
+ I can turn up the intensity, all with the radio frequency.
+
+59:00.220 --> 59:05.220
+ And control, and then it's reprogrammed or re-dosed.
+
+59:05.680 --> 59:09.000
+ And then the patient can then leave at this altered dose.
+
+59:09.000 --> 59:10.100
+ So this is happening now?
+
+59:10.100 --> 59:11.260
+ This is happening right now, electrically.
+
+59:11.260 --> 59:12.220
+ You do this routinely?
+
+59:12.220 --> 59:14.060
+ I do it routinely in my clinic, electrically.
+
+59:14.060 --> 59:17.140
+ And you're getting the verbal content,
+
+59:17.140 --> 59:19.520
+ which as you described earlier,
+
+59:19.520 --> 59:21.500
+ is the indication of how well
+
+59:21.500 --> 59:23.380
+ something is working in real time.
+
+59:23.380 --> 59:25.300
+ So maybe you could just describe a little bit
+
+59:25.300 --> 59:27.220
+ of the interaction with that particular patient
+
+59:27.220 --> 59:28.300
+ or another patient.
+
+59:28.300 --> 59:32.460
+ What's a typical arc of narrative
+
+59:32.460 --> 59:36.180
+ as you go from no stimulation to increased stimulation?
+
+59:36.180 --> 59:39.540
+ In most patients, the actual therapeutic effects,
+
+59:39.540 --> 59:42.980
+ the benefits actually take many days to weeks.
+
+59:42.980 --> 59:46.620
+ And so what I'm mostly focusing on in the office
+
+59:46.620 --> 59:48.420
+ in real time is making sure
+
+59:48.420 --> 59:51.460
+ I'm in a safe, low side effect regime.
+
+59:51.460 --> 59:53.420
+ And so first I talked to the patient, you know,
+
+59:53.420 --> 59:56.220
+ who has been on a particular dose of the stimulation
+
+59:56.220 --> 59:58.700
+ for weeks or longer.
+
+59:58.700 --> 1:00:00.500
+ And I talked about symptoms.
+
+1:00:00.500 --> 1:00:02.720
+ How were things over the past month?
+
+1:00:02.720 --> 1:00:03.560
+ How was your hope?
+
+1:00:03.560 --> 1:00:05.000
+ How was your energy level?
+
+1:00:05.000 --> 1:00:05.840
+ Sleep?
+
+1:00:05.840 --> 1:00:07.860
+ You know, what is your mood?
+
+1:00:07.860 --> 1:00:10.060
+ And then we talk with the patient and we decide,
+
+1:00:10.060 --> 1:00:12.260
+ oh, this is not yet where we'd like to be.
+
+1:00:12.260 --> 1:00:15.740
+ And so then I can turn up the intensity of the stimulation
+
+1:00:15.740 --> 1:00:16.740
+ in real time in the office.
+
+1:00:16.740 --> 1:00:18.080
+ I don't, in most patients,
+
+1:00:18.080 --> 1:00:21.100
+ I don't expect an immediate mood change.
+
+1:00:21.100 --> 1:00:23.180
+ What I do is I increase the dose
+
+1:00:23.180 --> 1:00:27.340
+ until a next level up while asking the patient
+
+1:00:27.340 --> 1:00:28.180
+ for side effects.
+
+1:00:28.180 --> 1:00:29.460
+ Can you still breathe okay?
+
+1:00:29.460 --> 1:00:30.820
+ Can you still swallow okay?
+
+1:00:30.820 --> 1:00:32.220
+ And I can hear their voice as well.
+
+1:00:32.220 --> 1:00:33.060
+ And I can get a sense.
+
+1:00:33.060 --> 1:00:33.900
+ And you're looking at their face.
+
+1:00:33.900 --> 1:00:34.980
+ And I'm looking at their face.
+
+1:00:34.980 --> 1:00:37.500
+ And so I can get a sense, is there a,
+
+1:00:37.500 --> 1:00:40.420
+ am I still in a safe side effect regime?
+
+1:00:40.420 --> 1:00:44.860
+ And then, you know, I stop at a particular point
+
+1:00:44.860 --> 1:00:48.100
+ that looks safe and then patient goes home,
+
+1:00:48.100 --> 1:00:49.500
+ comes back a month later,
+
+1:00:49.500 --> 1:00:53.200
+ and I get the report on how things were over that month.
+
+1:00:53.200 --> 1:00:54.940
+ I asked if you're looking at their face,
+
+1:00:54.940 --> 1:00:56.040
+ because in your book,
+
+1:00:57.060 --> 1:01:00.040
+ you described the incredible complexity
+
+1:01:00.040 --> 1:01:01.860
+ of social interactions.
+
+1:01:01.860 --> 1:01:04.340
+ And at one point,
+
+1:01:04.340 --> 1:01:09.100
+ you described the incredible amount of information
+
+1:01:09.100 --> 1:01:12.500
+ that the eyes inform about the brain
+
+1:01:12.500 --> 1:01:14.900
+ and the context of somebody's inner experience,
+
+1:01:14.900 --> 1:01:17.200
+ whether depressed or happy or otherwise.
+
+1:01:17.200 --> 1:01:21.880
+ I want to make sure that we get back to how to maneuver them
+
+1:01:21.880 --> 1:01:24.420
+ and manipulate the nervous system for sake of mental health.
+
+1:01:24.420 --> 1:01:28.820
+ But what are you looking for?
+
+1:01:28.820 --> 1:01:31.080
+ So as a vision scientist, I think, you know,
+
+1:01:31.080 --> 1:01:33.140
+ pupils dilating is a sign of arousal,
+
+1:01:33.140 --> 1:01:34.800
+ but that could be a positive arousal,
+
+1:01:34.800 --> 1:01:38.300
+ positive valence, like excitement, or it could be terror.
+
+1:01:38.300 --> 1:01:40.940
+ You're going to get the same dilation of the pupils.
+
+1:01:42.540 --> 1:01:43.940
+ And I'm always reminding people
+
+1:01:43.940 --> 1:01:45.900
+ that these two little goodies are two pieces of brain,
+
+1:01:45.900 --> 1:01:47.940
+ basically, they're just outside the cranial vault.
+
+1:01:47.940 --> 1:01:49.780
+ So they're not unlike the vagus in that sense,
+
+1:01:49.780 --> 1:01:52.300
+ but they're more of a report than a control knob,
+
+1:01:52.300 --> 1:01:54.420
+ although I like to think they could be
+
+1:01:54.420 --> 1:01:55.820
+ used as control knobs too.
+
+1:01:57.060 --> 1:02:01.380
+ So without putting you on the spot, again, to diagnose me,
+
+1:02:01.380 --> 1:02:03.300
+ something I would never ask you to do
+
+1:02:03.300 --> 1:02:04.540
+ with the cameras rolling,
+
+1:02:04.540 --> 1:02:06.940
+ but what are you looking for
+
+1:02:06.940 --> 1:02:09.160
+ that the patient might not be aware of?
+
+1:02:09.160 --> 1:02:12.560
+ In other words, can you see depression in somebody's eyes?
+
+1:02:12.560 --> 1:02:15.220
+ And if you know a patient or if you don't,
+
+1:02:15.220 --> 1:02:19.140
+ can you see it in their body posture when they walk in?
+
+1:02:19.980 --> 1:02:22.380
+ Realizing, of course, that a trained psychiatrist
+
+1:02:22.380 --> 1:02:25.260
+ like yourself develops an intuitive sense
+
+1:02:25.260 --> 1:02:29.020
+ that's aggregating lots of different features of a patient.
+
+1:02:29.020 --> 1:02:30.220
+ But what about the eyes?
+
+1:02:30.220 --> 1:02:32.060
+ What's going on there?
+
+1:02:32.060 --> 1:02:34.580
+ The eyes are incredibly rich in information.
+
+1:02:34.580 --> 1:02:37.540
+ And as you allude to though,
+
+1:02:37.540 --> 1:02:40.900
+ it's not as if any one measurable
+
+1:02:40.900 --> 1:02:42.420
+ conveys all the information you need.
+
+1:02:42.420 --> 1:02:45.140
+ It's what we, you know, what an engineer would say,
+
+1:02:45.140 --> 1:02:49.020
+ joint statistics, it's many things all at once,
+
+1:02:49.020 --> 1:02:52.060
+ whether they're in synchrony or out of synchrony
+
+1:02:52.060 --> 1:02:54.700
+ that actually turns out to matter.
+
+1:02:54.700 --> 1:02:57.980
+ And, you know, the eye contact question,
+
+1:02:57.980 --> 1:03:00.140
+ we all know eye contact is incredibly important.
+
+1:03:00.140 --> 1:03:02.620
+ You don't feel you've connected with somebody
+
+1:03:02.620 --> 1:03:04.420
+ unless there's eye contact,
+
+1:03:04.420 --> 1:03:06.260
+ but eye contact can go awry too.
+
+1:03:06.260 --> 1:03:11.260
+ It can be too intense or it can be mistimed
+
+1:03:11.260 --> 1:03:15.560
+ or if there's someone with autism,
+
+1:03:15.560 --> 1:03:17.280
+ it can be barely there at all.
+
+1:03:17.280 --> 1:03:21.240
+ And this is one of the most striking symptoms of autism
+
+1:03:21.240 --> 1:03:23.960
+ is the avoidance of eye contact
+
+1:03:28.560 --> 1:03:31.640
+ almost as if it's a harmful quantity.
+
+1:03:31.640 --> 1:03:35.160
+ And so there's an immense amount of information
+
+1:03:35.160 --> 1:03:36.440
+ you get from the eyes,
+
+1:03:36.440 --> 1:03:40.360
+ but it's the pairing of what's going on in the eyes
+
+1:03:40.360 --> 1:03:43.160
+ with everything else going on, the body language,
+
+1:03:43.160 --> 1:03:46.900
+ the verbal content of what's coming out.
+
+1:03:46.900 --> 1:03:51.040
+ All that together is the art of psychiatry
+
+1:03:51.040 --> 1:03:53.160
+ and social interaction.
+
+1:03:53.160 --> 1:03:55.160
+ But, you know, sometimes you don't have the eye contact
+
+1:03:55.160 --> 1:03:56.280
+ and this is an amazing thing.
+
+1:03:56.280 --> 1:03:58.140
+ And I do talk about this in the book as well.
+
+1:03:58.140 --> 1:04:00.520
+ In many cases, you know, in psychiatry,
+
+1:04:00.520 --> 1:04:01.640
+ sometimes it's over the phone
+
+1:04:01.640 --> 1:04:04.120
+ that you have to make key decisions.
+
+1:04:04.120 --> 1:04:09.120
+ And as I recall, you know, vividly being as a resident,
+
+1:04:09.120 --> 1:04:12.720
+ very often you have to take these phone calls
+
+1:04:12.720 --> 1:04:17.080
+ from people who are not in the hospital,
+
+1:04:17.080 --> 1:04:19.600
+ people you can't see, can't see their eye,
+
+1:04:19.600 --> 1:04:21.640
+ can't see their body, anything about them,
+
+1:04:21.640 --> 1:04:23.180
+ just the sound of their voice.
+
+1:04:23.180 --> 1:04:24.720
+ And you can ask them questions
+
+1:04:24.720 --> 1:04:28.320
+ and you have to make, in some cases, life or death decisions.
+
+1:04:28.320 --> 1:04:31.720
+ You know, is this person truly suicidal,
+
+1:04:31.720 --> 1:04:35.120
+ something like that, as it comes up all the time.
+
+1:04:35.120 --> 1:04:39.280
+ And so I developed over the course of training,
+
+1:04:39.280 --> 1:04:41.840
+ and I think all psychiatrists do this,
+
+1:04:41.840 --> 1:04:44.980
+ is you develop a way to, whatever data stream you have,
+
+1:04:44.980 --> 1:04:47.480
+ whether it's the eyes or whether it's just the sound
+
+1:04:47.480 --> 1:04:49.520
+ of a voice coming over the phone,
+
+1:04:49.520 --> 1:04:51.720
+ you learn to hone in on that data stream you have
+
+1:04:51.720 --> 1:04:55.320
+ and focus on it and identify changes.
+
+1:04:55.320 --> 1:04:58.560
+ And it's quite amazing.
+
+1:04:58.560 --> 1:05:03.360
+ I found that you can actually, if you know a patient,
+
+1:05:03.360 --> 1:05:05.720
+ you can detect very precise changes in mood
+
+1:05:05.720 --> 1:05:07.180
+ just from the sound of the voice.
+
+1:05:07.180 --> 1:05:11.160
+ And you can have a realization that,
+
+1:05:11.160 --> 1:05:15.840
+ oh, this patient's depression has improved by about half,
+
+1:05:15.840 --> 1:05:18.600
+ just by the tone of their voice.
+
+1:05:18.600 --> 1:05:21.400
+ And same with eyes, with enough practice,
+
+1:05:21.400 --> 1:05:24.760
+ you can get enough information from a single data stream
+
+1:05:24.760 --> 1:05:26.360
+ to give you some information.
+
+1:05:26.360 --> 1:05:27.940
+ But when you do have the whole picture,
+
+1:05:27.940 --> 1:05:29.840
+ that of course is best.
+
+1:05:29.840 --> 1:05:34.840
+ So many theories out there about excessive blinking
+
+1:05:34.980 --> 1:05:38.100
+ and lying, lack of blinking in sociopathy.
+
+1:05:38.960 --> 1:05:42.400
+ I like to remind people that people have varying degrees
+
+1:05:42.400 --> 1:05:43.620
+ of lubrication of the eyes,
+
+1:05:43.620 --> 1:05:45.740
+ which also influence the frequency of blinking
+
+1:05:45.740 --> 1:05:48.880
+ and presumably have nothing to do with whether or not
+
+1:05:48.880 --> 1:05:50.600
+ what they're saying is true or not.
+
+1:05:50.600 --> 1:05:52.320
+ But incredible nonetheless,
+
+1:05:52.320 --> 1:05:56.520
+ that the eyes are a portal to overall arousal state.
+
+1:05:56.520 --> 1:05:59.040
+ I'm fascinated by the effects of light on circadian biology
+
+1:05:59.040 --> 1:06:02.600
+ just overall desire to be awake or asleep, et cetera.
+
+1:06:04.160 --> 1:06:06.440
+ So the eyes are on the outside of the cranial vault.
+
+1:06:06.440 --> 1:06:10.820
+ The vagus is outside the cranial vault, obviously.
+
+1:06:11.720 --> 1:06:14.520
+ What about the goodies in here?
+
+1:06:15.620 --> 1:06:19.040
+ Parkinson's, we know at least one of the major sites
+
+1:06:19.040 --> 1:06:22.320
+ of degeneration and failure that lead to those symptoms.
+
+1:06:24.140 --> 1:06:25.860
+ I can name off any number of other things.
+
+1:06:25.860 --> 1:06:27.560
+ In your book, you talk about the beautiful work
+
+1:06:27.560 --> 1:06:30.520
+ done with optogenetics of active versus passive coping,
+
+1:06:30.520 --> 1:06:32.360
+ that there are areas of the brain like the habenula
+
+1:06:32.360 --> 1:06:36.400
+ that make, when active, make animals and presumably people
+
+1:06:36.400 --> 1:06:39.680
+ passive and unwilling or uninterested
+
+1:06:39.680 --> 1:06:42.160
+ in fighting back against pressures of life.
+
+1:06:42.160 --> 1:06:46.120
+ Whereas another region, the raphe, you stimulate that
+
+1:06:46.120 --> 1:06:47.640
+ and they actively cope.
+
+1:06:47.640 --> 1:06:49.520
+ They get their grit going
+
+1:06:49.520 --> 1:06:51.860
+ and they are able to lean into life.
+
+1:06:51.860 --> 1:06:56.860
+ So how does one get to those structures in a focused way?
+
+1:06:57.520 --> 1:07:02.520
+ And what does the next two to five to 10 years look like?
+
+1:07:03.480 --> 1:07:05.400
+ Well, this is the promise on that,
+
+1:07:05.400 --> 1:07:07.360
+ and it is on that timescale
+
+1:07:08.220 --> 1:07:10.800
+ that I think things may start to play out.
+
+1:07:11.920 --> 1:07:14.880
+ You know, the specificity of optogenetics
+
+1:07:14.880 --> 1:07:18.240
+ is really only useful if you have some idea
+
+1:07:18.240 --> 1:07:20.480
+ of how to use that specificity.
+
+1:07:20.480 --> 1:07:23.860
+ And it's an actually, it's a frustrating aspect
+
+1:07:23.860 --> 1:07:26.320
+ of psychiatry that in many cases,
+
+1:07:26.320 --> 1:07:28.920
+ the most effective treatments we have
+
+1:07:28.920 --> 1:07:30.920
+ have the least specificity.
+
+1:07:30.920 --> 1:07:33.280
+ Electroconvulsive therapy being a great example
+
+1:07:33.280 --> 1:07:34.880
+ where you're causing a brain-wide-
+
+1:07:34.880 --> 1:07:37.680
+ Which looks barbaric, but as you mentioned, is effective.
+
+1:07:37.680 --> 1:07:39.000
+ I mean, it is.
+
+1:07:39.000 --> 1:07:41.680
+ These days, it's much more clinically, you know-
+
+1:07:41.680 --> 1:07:42.840
+ It doesn't look like one flu,
+
+1:07:42.840 --> 1:07:45.260
+ the last seen in one flu over the cuckoo's nest.
+
+1:07:45.260 --> 1:07:47.980
+ Now it's a very clinically safe and stable procedure.
+
+1:07:47.980 --> 1:07:51.400
+ But where I would say, yeah,
+
+1:07:51.400 --> 1:07:56.240
+ it's got this almost medieval lack of specificity,
+
+1:07:56.240 --> 1:07:58.120
+ even if the procedure is well-controlled
+
+1:07:58.120 --> 1:07:59.720
+ and clinically safe and stable,
+
+1:07:59.720 --> 1:08:02.720
+ and it's not very specific.
+
+1:08:02.720 --> 1:08:04.240
+ You're causing a brain-wide seizure.
+
+1:08:04.240 --> 1:08:06.200
+ How could you be less specific than that?
+
+1:08:06.200 --> 1:08:09.000
+ And we don't know the source of the relief.
+
+1:08:09.000 --> 1:08:09.840
+ We don't know-
+
+1:08:09.840 --> 1:08:11.320
+ Presumably it's a dump of neuromodulators
+
+1:08:11.320 --> 1:08:13.080
+ like dopamine and serotonin, but we don't-
+
+1:08:13.080 --> 1:08:14.880
+ There certainly is a dump of neuromodulators.
+
+1:08:14.880 --> 1:08:18.180
+ We don't know that that's the cause for the relief.
+
+1:08:18.180 --> 1:08:20.180
+ And likewise with medications,
+
+1:08:20.180 --> 1:08:22.060
+ this is also an interesting thing.
+
+1:08:23.480 --> 1:08:26.120
+ Some of the most effective antidepressants,
+
+1:08:26.120 --> 1:08:28.200
+ some of the most effective antipsychotics
+
+1:08:28.200 --> 1:08:30.700
+ are the ones that have the most side effects.
+
+1:08:30.700 --> 1:08:33.000
+ And many examples of this, for example,
+
+1:08:33.000 --> 1:08:35.160
+ the most effective antipsychotic
+
+1:08:35.160 --> 1:08:37.000
+ is something called clozapine,
+
+1:08:37.000 --> 1:08:39.680
+ which has, it's unquestionably has the most side effects.
+
+1:08:39.680 --> 1:08:40.960
+ It had terrible, terrible side effects.
+
+1:08:40.960 --> 1:08:42.320
+ It's a D4 antagonist?
+
+1:08:42.320 --> 1:08:44.840
+ It has basically every receptor.
+
+1:08:44.840 --> 1:08:45.680
+ Does it really?
+
+1:08:45.680 --> 1:08:46.520
+ Yeah, it acts- Interesting.
+
+1:08:46.520 --> 1:08:51.000
+ Yeah, it has prominent serotonin, prominent muscarinic,
+
+1:08:51.000 --> 1:08:52.840
+ certainly acts on dopamine receptors,
+
+1:08:52.840 --> 1:08:57.840
+ but it causes blood cell counts to change.
+
+1:08:58.160 --> 1:08:59.360
+ How do people feel?
+
+1:08:59.360 --> 1:09:02.040
+ So if I were schizophrenic
+
+1:09:02.040 --> 1:09:05.200
+ and I was getting auditory hallucinations, et cetera,
+
+1:09:05.200 --> 1:09:10.200
+ and I took clozapine, what could I expect to feel?
+
+1:09:10.840 --> 1:09:13.520
+ Well, so you would notice side effects
+
+1:09:13.520 --> 1:09:16.200
+ and you would notice resolution of symptoms both.
+
+1:09:16.200 --> 1:09:17.040
+ And-
+
+1:09:17.040 --> 1:09:20.160
+ So the voices would go away in a good situation,
+
+1:09:20.160 --> 1:09:21.360
+ the voices would go away,
+
+1:09:21.360 --> 1:09:23.680
+ but I would feel not good in my body?
+
+1:09:23.680 --> 1:09:26.240
+ You would have, you might have dizziness,
+
+1:09:26.240 --> 1:09:28.840
+ you might have drooling,
+
+1:09:28.840 --> 1:09:33.200
+ you might have any number of physical sensations
+
+1:09:35.720 --> 1:09:38.160
+ that would be due to these off-target effects,
+
+1:09:38.160 --> 1:09:40.480
+ the medication acting on these other receptors.
+
+1:09:40.480 --> 1:09:41.760
+ And I'm certainly not suggesting this,
+
+1:09:41.760 --> 1:09:45.280
+ but what if somebody without schizophrenia took clozapine?
+
+1:09:45.280 --> 1:09:47.320
+ They had the same side effects, presumably, yeah.
+
+1:09:47.320 --> 1:09:50.920
+ And so it would not be something that I would recommend.
+
+1:09:50.920 --> 1:09:53.560
+ Do psychiatrists take the drugs that they prescribe?
+
+1:09:53.560 --> 1:09:55.720
+ I just finished for the third time
+
+1:09:55.720 --> 1:09:59.280
+ Oliver Sacks' autobiography, which is marvelous
+
+1:09:59.280 --> 1:10:02.080
+ and I highly recommend to people.
+
+1:10:02.080 --> 1:10:03.820
+ He certainly took a lot of drugs,
+
+1:10:05.000 --> 1:10:07.120
+ not as part of his professional role,
+
+1:10:08.020 --> 1:10:10.040
+ but just out of curiosity,
+
+1:10:10.040 --> 1:10:13.720
+ what is the interest or kind of role of drugs
+
+1:10:13.720 --> 1:10:14.960
+ in the field of psychiatry?
+
+1:10:14.960 --> 1:10:16.560
+ Because I would imagine for a group
+
+1:10:16.560 --> 1:10:19.160
+ of very curious, introspective people
+
+1:10:19.160 --> 1:10:21.600
+ who are making recommendations about what to take,
+
+1:10:21.600 --> 1:10:23.440
+ there could actually be some benefit
+
+1:10:23.440 --> 1:10:25.960
+ for understanding what the experience of those drugs
+
+1:10:25.960 --> 1:10:27.320
+ was like for their patients.
+
+1:10:27.320 --> 1:10:28.800
+ I think that's true.
+
+1:10:28.800 --> 1:10:32.200
+ And I will say that probably many or most psychiatrists
+
+1:10:32.200 --> 1:10:35.360
+ have sampled a number of these
+
+1:10:35.360 --> 1:10:37.040
+ for exactly the reason that you're saying
+
+1:10:37.040 --> 1:10:38.520
+ is to understand better
+
+1:10:38.520 --> 1:10:40.080
+ and to help treat their patients better.
+
+1:10:40.080 --> 1:10:44.660
+ And I've spoken to people who have really been,
+
+1:10:45.640 --> 1:10:47.040
+ have found this very helpful to know,
+
+1:10:47.040 --> 1:10:50.300
+ okay, this sleep disruption caused by this medication
+
+1:10:50.300 --> 1:10:53.240
+ or the libido disruption caused by this other medication,
+
+1:10:53.240 --> 1:10:55.160
+ wow, that is a big effect.
+
+1:10:55.160 --> 1:10:57.640
+ And it really helps with empathy
+
+1:10:57.640 --> 1:11:00.040
+ for the patients to understand.
+
+1:11:00.040 --> 1:11:02.520
+ I'm not suggesting that physicians
+
+1:11:02.520 --> 1:11:05.640
+ or anybody experiment with drugs,
+
+1:11:05.640 --> 1:11:07.440
+ but I am relieved to hear that
+
+1:11:07.440 --> 1:11:09.640
+ because I think that when you're talking about
+
+1:11:09.640 --> 1:11:12.540
+ accessing somebody's mind and their basic physiology,
+
+1:11:12.540 --> 1:11:13.380
+ as you've mentioned,
+
+1:11:13.380 --> 1:11:15.480
+ related to appetite, libido, and sleep,
+
+1:11:15.480 --> 1:11:18.720
+ you really, one is acting as a mechanic
+
+1:11:18.720 --> 1:11:20.800
+ of the person's whole experience.
+
+1:11:20.800 --> 1:11:24.320
+ They walk out of the office and they have a life experience
+
+1:11:24.320 --> 1:11:27.000
+ that extends beyond the script, yeah.
+
+1:11:27.000 --> 1:11:30.380
+ And so, yeah, and so at the same time though,
+
+1:11:30.380 --> 1:11:32.760
+ you can't let that completely guide your clinical decisions
+
+1:11:32.760 --> 1:11:33.900
+ because as I mentioned,
+
+1:11:33.900 --> 1:11:36.440
+ some of these medications that have the most side effects,
+
+1:11:36.440 --> 1:11:38.160
+ they are also the most effective.
+
+1:11:38.160 --> 1:11:39.580
+ And clozapine is a great example.
+
+1:11:39.580 --> 1:11:42.460
+ That will work in patients where nothing else works.
+
+1:11:42.460 --> 1:11:43.300
+ And believe me,
+
+1:11:43.300 --> 1:11:46.680
+ we don't take the step of clozapine prescription lightly
+
+1:11:46.680 --> 1:11:48.260
+ because of all these side effects.
+
+1:11:48.260 --> 1:11:50.640
+ You have to come in for a weekly blood cell
+
+1:11:50.640 --> 1:11:52.440
+ or every few weeks of blood cell check
+
+1:11:52.440 --> 1:11:55.780
+ to make sure that the blood counts are not off, for example.
+
+1:11:55.780 --> 1:11:58.580
+ But there are patients where no other medication works
+
+1:11:58.580 --> 1:12:01.320
+ for the schizophrenia and clozapine works amazingly well.
+
+1:12:01.320 --> 1:12:05.280
+ And so we do it even though there are the side effects.
+
+1:12:05.280 --> 1:12:07.300
+ And so then this comes back to your question,
+
+1:12:07.300 --> 1:12:09.820
+ what if we had better and better specificity?
+
+1:12:09.820 --> 1:12:12.940
+ Well, only if we know exactly what we're doing is the point.
+
+1:12:12.940 --> 1:12:15.880
+ And so, because as we become more refined,
+
+1:12:15.880 --> 1:12:19.240
+ we better be right about where we're refining to.
+
+1:12:19.240 --> 1:12:22.560
+ And you imagine a day where it will be a single,
+
+1:12:22.560 --> 1:12:24.280
+ maybe even outpatient neurosurgery
+
+1:12:24.280 --> 1:12:26.360
+ would go in through the skull or the back of the ear,
+
+1:12:26.360 --> 1:12:27.960
+ deliver a small viral injection
+
+1:12:27.960 --> 1:12:29.560
+ of one of these adenoviruses,
+
+1:12:29.560 --> 1:12:32.520
+ a little sticker of light emitting diode.
+
+1:12:32.520 --> 1:12:34.320
+ Is that it deep in the brain?
+
+1:12:34.320 --> 1:12:36.600
+ Is that how you envision this someday?
+
+1:12:36.600 --> 1:12:37.680
+ That certainly could happen.
+
+1:12:37.680 --> 1:12:42.680
+ What I actually prefer as a vision is still medications
+
+1:12:43.920 --> 1:12:48.720
+ because those are minimally invasive.
+
+1:12:48.720 --> 1:12:49.840
+ If we knew what we were doing,
+
+1:12:49.840 --> 1:12:53.940
+ we could make them more specific, have fewer side effects.
+
+1:12:53.940 --> 1:12:56.080
+ But optogenetics that'll arm us
+
+1:12:56.080 --> 1:12:58.000
+ with true causal understanding.
+
+1:12:58.000 --> 1:13:00.000
+ And so we'll know,
+
+1:13:00.000 --> 1:13:02.440
+ and we're already moving rapidly toward this point,
+
+1:13:02.440 --> 1:13:04.520
+ we'll know, okay, this symptom,
+
+1:13:05.480 --> 1:13:08.320
+ the loss of pleasure in life that we call anhedonia
+
+1:13:08.320 --> 1:13:12.200
+ or the loss of motivation or energy
+
+1:13:12.200 --> 1:13:14.400
+ to overcome challenges, active coping,
+
+1:13:15.360 --> 1:13:18.600
+ these are largely subserved,
+
+1:13:18.600 --> 1:13:21.720
+ largely controlled by this circuit or that circuit
+
+1:13:21.720 --> 1:13:24.200
+ or the cell that inhabits this other circuit.
+
+1:13:24.200 --> 1:13:25.080
+ And we will know that
+
+1:13:25.080 --> 1:13:27.440
+ because of the work done with channel ops.
+
+1:13:27.440 --> 1:13:28.760
+ Exactly. Yeah, I agree.
+
+1:13:28.760 --> 1:13:32.300
+ In ways that we never could have the confidence otherwise.
+
+1:13:32.300 --> 1:13:34.280
+ And so we'll know that this is the circuit
+
+1:13:34.280 --> 1:13:38.560
+ that underlies the symptom or its resolution.
+
+1:13:38.560 --> 1:13:42.880
+ And then we'll get to understand these cells very deeply.
+
+1:13:42.880 --> 1:13:46.520
+ Okay, these cells that are causal, that do matter,
+
+1:13:46.520 --> 1:13:47.800
+ who are they?
+
+1:13:47.800 --> 1:13:48.820
+ What's their wiring?
+
+1:13:48.820 --> 1:13:51.120
+ What are the proteins that they make?
+
+1:13:51.120 --> 1:13:54.040
+ What are the little things that are on the surface
+
+1:13:54.040 --> 1:13:57.560
+ of the cell that could be receptors for specific medications
+
+1:13:57.560 --> 1:14:00.280
+ or combinations of receptors
+
+1:14:00.280 --> 1:14:02.820
+ that would give us the specificity we need?
+
+1:14:02.820 --> 1:14:05.680
+ And then armed with that causal
+
+1:14:05.680 --> 1:14:07.360
+ and precise and rigorous knowledge,
+
+1:14:07.360 --> 1:14:10.000
+ then you can imagine medication development
+
+1:14:10.000 --> 1:14:13.200
+ becoming totally different, no longer serendipitous,
+
+1:14:13.200 --> 1:14:15.360
+ but truly grounded in causality.
+
+1:14:15.360 --> 1:14:16.200
+ I see.
+
+1:14:16.200 --> 1:14:19.160
+ So using channel ops as a way to probe the circuitry
+
+1:14:19.160 --> 1:14:22.940
+ and figure out the sites that are disrupted,
+
+1:14:22.940 --> 1:14:24.880
+ what patterns of activity are required,
+
+1:14:24.880 --> 1:14:28.360
+ and then by understanding the constituents of those cells,
+
+1:14:28.360 --> 1:14:30.000
+ like what they express and what they make,
+
+1:14:30.000 --> 1:14:32.840
+ then developing drugs that could target those cells,
+
+1:14:32.840 --> 1:14:35.260
+ not necessarily putting light-inducing diodes
+
+1:14:35.260 --> 1:14:38.160
+ into the brain or walking around with wire packs
+
+1:14:38.160 --> 1:14:40.840
+ attached to our skull or something like that.
+
+1:14:40.840 --> 1:14:42.000
+ That's fantastic.
+
+1:14:42.000 --> 1:14:46.400
+ And I realize no one has a crystal ball,
+
+1:14:46.400 --> 1:14:50.360
+ but what do you think the arc of that is?
+
+1:14:50.360 --> 1:14:53.000
+ Meaning, are we going to see that in a year,
+
+1:14:53.000 --> 1:14:55.360
+ in two years, three years?
+
+1:14:55.360 --> 1:14:56.380
+ Let me reframe that.
+
+1:14:56.380 --> 1:15:00.820
+ If, how soon will a pill-based treatment
+
+1:15:00.820 --> 1:15:03.060
+ for a psychiatric disease be available
+
+1:15:03.060 --> 1:15:06.320
+ that targets a specific set of cells
+
+1:15:06.320 --> 1:15:07.900
+ that we know are important
+
+1:15:08.820 --> 1:15:11.900
+ because of the work done with channel ops?
+
+1:15:11.900 --> 1:15:14.460
+ I think that is, in some ways,
+
+1:15:14.460 --> 1:15:19.460
+ it's already happening at the level of individual patients.
+
+1:15:19.540 --> 1:15:20.960
+ And- Here at Stanford.
+
+1:15:20.960 --> 1:15:22.300
+ Yeah, yep.
+
+1:15:22.300 --> 1:15:26.460
+ And more broadly, in terms of new drugs,
+
+1:15:26.460 --> 1:15:29.900
+ new multicenter clinical trials
+
+1:15:29.900 --> 1:15:32.180
+ that'll play out over the next few years.
+
+1:15:33.100 --> 1:15:36.900
+ And these could be drugs that are already safe and approved
+
+1:15:36.900 --> 1:15:40.100
+ for other purposes, but we might say,
+
+1:15:40.100 --> 1:15:43.300
+ okay, now we know that this medication,
+
+1:15:44.380 --> 1:15:47.420
+ based on what we know from causal optogenetics,
+
+1:15:47.420 --> 1:15:50.500
+ this could be useful for this other purpose,
+
+1:15:50.500 --> 1:15:52.700
+ this psychiatric symptom.
+
+1:15:52.700 --> 1:15:56.500
+ And so the path to helping patients
+
+1:15:56.500 --> 1:15:58.980
+ could be relatively swift.
+
+1:15:58.980 --> 1:16:00.700
+ That's very exciting.
+
+1:16:00.700 --> 1:16:03.900
+ What are your thoughts about brain-machine interface?
+
+1:16:03.900 --> 1:16:06.700
+ And Neuralink always comes up,
+
+1:16:06.700 --> 1:16:08.620
+ although I do want to point out,
+
+1:16:08.620 --> 1:16:10.780
+ I have tremendous respect for the folks at Neuralink,
+
+1:16:10.780 --> 1:16:12.480
+ including someone who came up through my lab,
+
+1:16:12.480 --> 1:16:13.700
+ is now there as a neurosurgeon,
+
+1:16:13.700 --> 1:16:16.940
+ but the brain-machine interface is something
+
+1:16:16.940 --> 1:16:19.180
+ that's been happening for a long time now.
+
+1:16:19.180 --> 1:16:21.140
+ Some of the best work,
+
+1:16:21.140 --> 1:16:23.100
+ among the best work being done here at Stanford
+
+1:16:23.100 --> 1:16:25.340
+ and elsewhere too, of course.
+
+1:16:25.340 --> 1:16:27.980
+ How is what you just described compatible with
+
+1:16:27.980 --> 1:16:29.740
+ or different than brain-machine interface,
+
+1:16:29.740 --> 1:16:31.780
+ meaning devices, little probes,
+
+1:16:31.780 --> 1:16:33.580
+ they're going to stimulate different patterns of activity
+
+1:16:33.580 --> 1:16:35.420
+ and ensembles of neurons.
+
+1:16:35.420 --> 1:16:36.700
+ And what are your general thoughts
+
+1:16:36.700 --> 1:16:40.240
+ about brain-machine interface as going forward?
+
+1:16:40.240 --> 1:16:43.300
+ Yeah, I mean, this is, first of all,
+
+1:16:43.300 --> 1:16:47.260
+ it's an amazing scientific discovery approach.
+
+1:16:47.260 --> 1:16:49.380
+ As you mentioned, we and others here at Stanford
+
+1:16:49.380 --> 1:16:52.140
+ are using electrodes, collecting information
+
+1:16:52.140 --> 1:16:54.500
+ from tens of thousands of neurons.
+
+1:16:54.500 --> 1:16:56.340
+ In humans, I should add.
+
+1:16:56.340 --> 1:16:59.740
+ And even, yes, there's quite,
+
+1:16:59.740 --> 1:17:01.260
+ even separate from the Neuralink work,
+
+1:17:01.260 --> 1:17:02.140
+ as you point out,
+
+1:17:02.140 --> 1:17:05.100
+ many people have been doing this in humans
+
+1:17:05.100 --> 1:17:06.800
+ as well as in non-human primates.
+
+1:17:07.760 --> 1:17:10.820
+ And this is pretty powerful, it's important.
+
+1:17:10.820 --> 1:17:13.700
+ This will let us understand what's going on in the brain
+
+1:17:13.700 --> 1:17:18.100
+ in psychiatric disease and neurological disease
+
+1:17:18.100 --> 1:17:20.100
+ and will give us ideas for treatment.
+
+1:17:21.860 --> 1:17:24.740
+ It is, of course, it's still invasive.
+
+1:17:24.740 --> 1:17:29.740
+ You still are talking about putting a device into the brain
+
+1:17:30.100 --> 1:17:35.100
+ and that has to be treated as a situation
+
+1:17:35.900 --> 1:17:38.020
+ that has some risks and a step
+
+1:17:38.020 --> 1:17:39.580
+ that has to be taken carefully.
+
+1:17:39.580 --> 1:17:44.580
+ I see that as something that will be part of psychiatry
+
+1:17:45.580 --> 1:17:47.940
+ in the long run.
+
+1:17:47.940 --> 1:17:51.020
+ Already with deep brain stimulation approaches,
+
+1:17:51.020 --> 1:17:54.620
+ we can help people with psychiatric disorders,
+
+1:17:54.620 --> 1:17:56.500
+ and that's putting just a single electrode,
+
+1:17:56.500 --> 1:18:00.260
+ not even a complex closed loop system
+
+1:18:00.260 --> 1:18:02.780
+ where you're both playing in and getting information back.
+
+1:18:02.780 --> 1:18:05.940
+ Even just a single stimulation electrode in the brain
+
+1:18:05.940 --> 1:18:09.140
+ can help people with OCD, for example,
+
+1:18:09.140 --> 1:18:10.060
+ quite powerfully.
+
+1:18:11.180 --> 1:18:12.700
+ And that will become much more powerful
+
+1:18:12.700 --> 1:18:14.980
+ when we get to a true brain-machine interface,
+
+1:18:14.980 --> 1:18:17.340
+ collecting information back,
+
+1:18:17.340 --> 1:18:18.900
+ stimulating only when you need to.
+
+1:18:18.900 --> 1:18:23.260
+ If we could identify a pathological activity pattern,
+
+1:18:23.260 --> 1:18:25.620
+ a particular, almost like the prodrome
+
+1:18:25.620 --> 1:18:27.100
+ or the early stage of a seizure,
+
+1:18:27.100 --> 1:18:30.300
+ maybe there are events that happen leading up to,
+
+1:18:30.300 --> 1:18:34.580
+ on some timescale, a psychiatric symptom.
+
+1:18:34.580 --> 1:18:37.260
+ We could intervene in a closed loop way,
+
+1:18:37.260 --> 1:18:40.220
+ detect what's happening, what's starting to go wrong,
+
+1:18:40.220 --> 1:18:43.260
+ feed that back to the brain stimulation electrode,
+
+1:18:43.260 --> 1:18:47.300
+ have it be in that way more efficient and more principled.
+
+1:18:47.300 --> 1:18:50.340
+ This is, I think, it's great.
+
+1:18:50.340 --> 1:18:53.380
+ It's something that, of course, will be grounded again
+
+1:18:53.380 --> 1:18:54.380
+ in causal understanding.
+
+1:18:54.380 --> 1:18:56.700
+ We'll need to know what is that pathological pattern
+
+1:18:56.700 --> 1:18:59.060
+ that we're detecting, and we need to know that it matters.
+
+1:18:59.060 --> 1:19:01.300
+ And so again, that's where optogenetics is helping us,
+
+1:19:01.300 --> 1:19:04.180
+ helping us know, okay, this pattern of activity
+
+1:19:04.180 --> 1:19:05.620
+ in these cells, in these circuits,
+
+1:19:05.620 --> 1:19:10.260
+ this does mean that there's a particular kind of symptom
+
+1:19:10.260 --> 1:19:11.100
+ that's happening.
+
+1:19:12.180 --> 1:19:14.260
+ But armed with that knowledge, absolutely.
+
+1:19:14.260 --> 1:19:17.580
+ Even the simple closed loop device detect and stimulate
+
+1:19:17.580 --> 1:19:19.260
+ is going to be part of psychiatry in the future.
+
+1:19:19.260 --> 1:19:22.620
+ And then, of course, as you get to more cells,
+
+1:19:22.620 --> 1:19:25.740
+ more connections, the ability that we have to help people
+
+1:19:25.740 --> 1:19:27.020
+ will become more powerful.
+
+1:19:28.020 --> 1:19:32.140
+ One of the questions I get asked a lot is about ADHD
+
+1:19:32.140 --> 1:19:34.980
+ and attention deficit of various kinds.
+
+1:19:34.980 --> 1:19:39.180
+ I have the hunch that one reason I get asked so often
+
+1:19:39.180 --> 1:19:42.260
+ is that people are feeling really distracted
+
+1:19:42.260 --> 1:19:46.020
+ and challenged in funneling their attention
+
+1:19:46.020 --> 1:19:47.100
+ and their behavior.
+
+1:19:47.100 --> 1:19:51.220
+ But, and there are a number of reasons for that, of course.
+
+1:19:51.220 --> 1:19:56.220
+ But what is true ADHD, and what does it look like?
+
+1:19:56.460 --> 1:19:57.980
+ What can be done for it?
+
+1:19:57.980 --> 1:20:01.340
+ And what, if any, role for channel opsins
+
+1:20:01.340 --> 1:20:04.700
+ or these downstream technologies that you're developing?
+
+1:20:04.700 --> 1:20:08.460
+ What do they offer for people that suffer from ADHD
+
+1:20:08.460 --> 1:20:11.420
+ or have a family member that suffers from ADHD?
+
+1:20:11.420 --> 1:20:12.580
+ Yeah.
+
+1:20:12.580 --> 1:20:16.780
+ This is a pretty interesting branch of psychiatry.
+
+1:20:16.780 --> 1:20:18.620
+ There's no question that people have been helped
+
+1:20:18.620 --> 1:20:20.620
+ by the treatments.
+
+1:20:20.620 --> 1:20:25.460
+ There's active debate over what fraction of people
+
+1:20:25.460 --> 1:20:29.820
+ who have these symptoms can or should be treated.
+
+1:20:29.820 --> 1:20:32.820
+ This is typically Adderall or stimulants of some kind.
+
+1:20:32.820 --> 1:20:34.660
+ For example, the stimulants, that's right.
+
+1:20:34.660 --> 1:20:39.340
+ So ADHD, as its name suggests, it has symptoms of,
+
+1:20:39.340 --> 1:20:41.860
+ it can have either a hyperactive state
+
+1:20:41.860 --> 1:20:44.360
+ or an inattentive state.
+
+1:20:44.360 --> 1:20:48.020
+ And those can be completely separate from each other.
+
+1:20:48.020 --> 1:20:51.460
+ You could have a patient who effectively
+
+1:20:51.460 --> 1:20:53.080
+ is not hyperactive at all,
+
+1:20:53.080 --> 1:20:57.020
+ but can't remain focused on what's going on around them.
+
+1:20:57.020 --> 1:20:58.420
+ So their body can be still,
+
+1:20:58.420 --> 1:21:00.580
+ but their mind is darting around.
+
+1:21:00.580 --> 1:21:01.420
+ That's right.
+
+1:21:01.420 --> 1:21:03.600
+ They can be very hyperactive with their body.
+
+1:21:03.600 --> 1:21:04.440
+ It happens both ways.
+
+1:21:04.440 --> 1:21:06.080
+ Probably rarely is somebody hyperactive with their body,
+
+1:21:06.080 --> 1:21:07.260
+ but their mind is still.
+
+1:21:07.260 --> 1:21:08.100
+ Although I have to say,
+
+1:21:08.100 --> 1:21:11.020
+ and this is a benevolent shout out to Botan Roska,
+
+1:21:11.020 --> 1:21:15.380
+ Botan has an incredibly sharp and focused mind.
+
+1:21:15.380 --> 1:21:17.940
+ And his hand movements are extremely exact also.
+
+1:21:17.940 --> 1:21:21.460
+ So I do sometimes wonder whether or not our body movements
+
+1:21:21.460 --> 1:21:22.940
+ and our head movements are,
+
+1:21:22.940 --> 1:21:25.540
+ whether or not they're coordinated or not is a readout
+
+1:21:25.540 --> 1:21:28.480
+ of how directed our attention is.
+
+1:21:28.480 --> 1:21:31.360
+ I notice I have to think complex abstract thoughts.
+
+1:21:31.360 --> 1:21:32.940
+ I notice I have to be very still.
+
+1:21:32.940 --> 1:21:35.980
+ So my body has to be almost completely unmoving
+
+1:21:35.980 --> 1:21:39.580
+ for me to think very abstractly and deeply.
+
+1:21:39.580 --> 1:21:40.580
+ Other people are different.
+
+1:21:40.580 --> 1:21:41.780
+ Some people, when they're running,
+
+1:21:41.780 --> 1:21:42.760
+ they get their best thoughts.
+
+1:21:42.760 --> 1:21:44.060
+ I can't even imagine that.
+
+1:21:44.060 --> 1:21:45.820
+ My brain does not work that way at all.
+
+1:21:45.820 --> 1:21:47.820
+ I have to be totally motionless,
+
+1:21:47.820 --> 1:21:48.860
+ which is kind of interesting.
+
+1:21:48.860 --> 1:21:50.020
+ How do you go about that?
+
+1:21:50.020 --> 1:21:53.020
+ I sit much like this.
+
+1:21:53.020 --> 1:21:56.100
+ I try to have time in each day
+
+1:21:56.100 --> 1:22:01.100
+ where I am literally sitting almost in this position,
+
+1:22:01.940 --> 1:22:04.180
+ but without distraction and thinking.
+
+1:22:04.180 --> 1:22:05.760
+ And so it's kind of a,
+
+1:22:05.760 --> 1:22:07.400
+ it's almost meditative in some ways,
+
+1:22:07.400 --> 1:22:10.400
+ except it's not true meditation,
+
+1:22:10.400 --> 1:22:12.940
+ but I am thinking while not moving.
+
+1:22:12.940 --> 1:22:15.580
+ You're trying to structure your thoughts in that time.
+
+1:22:15.580 --> 1:22:17.500
+ Yeah, that's right. Interesting.
+
+1:22:17.500 --> 1:22:20.740
+ So, but everybody, as you say, is very different.
+
+1:22:20.740 --> 1:22:23.180
+ And so with ADHD, you have,
+
+1:22:23.180 --> 1:22:24.580
+ the key thing is we want to make sure
+
+1:22:24.580 --> 1:22:28.960
+ that this is present across different domains of life,
+
+1:22:28.960 --> 1:22:30.460
+ school and home,
+
+1:22:30.460 --> 1:22:32.820
+ to show that it really is a pervasive pattern
+
+1:22:32.820 --> 1:22:35.460
+ and not something specific to the teacher
+
+1:22:35.460 --> 1:22:37.980
+ or the home situation or something.
+
+1:22:37.980 --> 1:22:39.140
+ And then you can help patients.
+
+1:22:39.140 --> 1:22:42.540
+ It's interesting that ADHD is one of those disorders
+
+1:22:42.540 --> 1:22:43.860
+ where people are trying to work
+
+1:22:43.860 --> 1:22:46.580
+ on quantitative EEG-based diagnoses.
+
+1:22:46.580 --> 1:22:50.780
+ And so there's some progress toward making up a diagnosis
+
+1:22:50.780 --> 1:22:54.020
+ with looking at particular externally detectable
+
+1:22:54.020 --> 1:22:55.340
+ brainwave rhythms.
+
+1:22:55.340 --> 1:22:57.020
+ So skull cap with some electrodes
+
+1:22:57.020 --> 1:22:58.300
+ that don't penetrate the skull.
+
+1:22:58.300 --> 1:22:59.140
+ That's right.
+
+1:22:59.140 --> 1:23:01.700
+ And this can be done in an hour or two hour session.
+
+1:23:01.700 --> 1:23:02.540
+ That's right.
+
+1:23:02.540 --> 1:23:03.940
+ Has to be done in a clinic, right?
+
+1:23:03.940 --> 1:23:04.940
+ Yeah, in the clinic, right,
+
+1:23:04.940 --> 1:23:07.620
+ you have to have the right recording apparatus and so on.
+
+1:23:07.620 --> 1:23:11.440
+ But that's in principle,
+
+1:23:11.440 --> 1:23:13.380
+ as increasing confidence comes
+
+1:23:13.380 --> 1:23:18.340
+ in exactly which measurements one could even imagine
+
+1:23:18.340 --> 1:23:21.480
+ moving toward home tests, but we're not there yet.
+
+1:23:22.420 --> 1:23:23.260
+ Amazing.
+
+1:23:23.260 --> 1:23:25.260
+ One of the reasons I get asked about it so much
+
+1:23:25.260 --> 1:23:27.980
+ is a lot of people wonder if they have ADHD.
+
+1:23:27.980 --> 1:23:30.820
+ Do you think that some of the lifestyle factors
+
+1:23:30.820 --> 1:23:34.480
+ that inhabit us all these days
+
+1:23:34.480 --> 1:23:39.260
+ could induce a subclinical or a clinical-like ADHD?
+
+1:23:39.260 --> 1:23:42.700
+ Meaning if I look at people's phone use, including my own,
+
+1:23:42.700 --> 1:23:44.460
+ and I don't think of it like addiction,
+
+1:23:44.460 --> 1:23:47.060
+ it looks to me and feels to me more like OCD.
+
+1:23:47.060 --> 1:23:48.940
+ And I'll come clean here by saying when I was younger,
+
+1:23:48.940 --> 1:23:51.340
+ when I was a kid, I had a grunting tic.
+
+1:23:51.340 --> 1:23:52.180
+ I used to hide it.
+
+1:23:52.180 --> 1:23:53.500
+ I actually used to hide in the closet
+
+1:23:53.500 --> 1:23:55.700
+ because my dad would make me stop.
+
+1:23:55.700 --> 1:23:59.180
+ And I used to, I couldn't feel any relief of my mind
+
+1:23:59.180 --> 1:24:00.540
+ until I would do this.
+
+1:24:00.540 --> 1:24:02.860
+ And actually now, if I get very tired,
+
+1:24:02.860 --> 1:24:05.540
+ if I've been pushing long hours, it'll come back.
+
+1:24:05.540 --> 1:24:06.960
+ I was not treated for it,
+
+1:24:08.040 --> 1:24:11.740
+ but I will confess that I've had the experience of,
+
+1:24:11.740 --> 1:24:14.460
+ I always liked sports where I involved a lot of impact,
+
+1:24:14.460 --> 1:24:16.940
+ fortunately not football, because I went to high school
+
+1:24:16.940 --> 1:24:18.420
+ where the football team was terrible.
+
+1:24:18.420 --> 1:24:20.280
+ Maybe that would have avoided more impact,
+
+1:24:20.280 --> 1:24:24.600
+ but things like skateboarding, boxing, they bring relief.
+
+1:24:24.600 --> 1:24:27.980
+ I feel clarity after a head hit, which I avoid,
+
+1:24:27.980 --> 1:24:30.080
+ but I used to say that's the only time
+
+1:24:30.080 --> 1:24:31.700
+ I feel truly clear for a long,
+
+1:24:31.700 --> 1:24:33.180
+ and then eventually it dissipated.
+
+1:24:33.180 --> 1:24:35.720
+ By about age 16, 17, it just disappeared.
+
+1:24:36.860 --> 1:24:40.000
+ So I have great empathy for those that feel
+
+1:24:40.000 --> 1:24:41.600
+ like there's something contained in them
+
+1:24:41.600 --> 1:24:42.940
+ that won't allow them to focus on
+
+1:24:42.940 --> 1:24:44.580
+ what they want to focus on.
+
+1:24:44.580 --> 1:24:49.080
+ And these days with the phone and all these email, et cetera,
+
+1:24:49.080 --> 1:24:52.340
+ I wonder, and I empathize a bit
+
+1:24:52.340 --> 1:24:54.580
+ when I hear people saying like,
+
+1:24:54.580 --> 1:24:57.520
+ I think I might have ADHD or ADD.
+
+1:24:57.520 --> 1:25:00.220
+ Do you think it's possible that our behaviors
+
+1:25:00.220 --> 1:25:02.580
+ and our interaction with the sensory world,
+
+1:25:02.580 --> 1:25:04.900
+ which is really what phones and email really are,
+
+1:25:04.900 --> 1:25:07.720
+ could induce ADD or reactivate it?
+
+1:25:09.460 --> 1:25:10.420
+ This is a great question.
+
+1:25:10.420 --> 1:25:11.780
+ I think about it a lot.
+
+1:25:12.620 --> 1:25:16.580
+ And you mentioned this tic-like behavior in yourself.
+
+1:25:16.580 --> 1:25:19.280
+ It's very common that people who have tics
+
+1:25:19.280 --> 1:25:20.820
+ have this building up of something
+
+1:25:20.820 --> 1:25:23.340
+ that can only be relieved by executing the tic,
+
+1:25:23.340 --> 1:25:25.340
+ which can be a motor movement
+
+1:25:25.340 --> 1:25:28.460
+ or a vocalization or even a thought.
+
+1:25:28.460 --> 1:25:32.580
+ And people do, I think these days do have this,
+
+1:25:32.580 --> 1:25:34.260
+ if they haven't checked their phone in a while,
+
+1:25:34.260 --> 1:25:36.140
+ they do have a buildup, a buildup, a buildup
+
+1:25:36.140 --> 1:25:38.580
+ until they can check it and relieve it.
+
+1:25:38.580 --> 1:25:41.060
+ And there's some similarities.
+
+1:25:41.060 --> 1:25:44.820
+ There is a little reward that comes with the checking,
+
+1:25:44.820 --> 1:25:48.820
+ but the key question in all of psychiatry,
+
+1:25:48.820 --> 1:25:50.980
+ what we do is we don't diagnose something
+
+1:25:50.980 --> 1:25:54.540
+ unless it's disrupting what we call
+
+1:25:54.540 --> 1:25:56.300
+ social or occupational functioning.
+
+1:25:56.300 --> 1:25:59.180
+ Like you could have any number of symptoms,
+
+1:25:59.180 --> 1:26:03.620
+ but literally every psychiatric diagnosis requires
+
+1:26:03.620 --> 1:26:06.660
+ that it has to be disrupting someone's social
+
+1:26:06.660 --> 1:26:08.380
+ or occupational functioning.
+
+1:26:08.380 --> 1:26:11.020
+ And these days, checking your phone is pretty adaptive.
+
+1:26:11.020 --> 1:26:12.860
+ That pretty much helps your social
+
+1:26:12.860 --> 1:26:13.980
+ and occupational functioning.
+
+1:26:13.980 --> 1:26:18.980
+ And so we can't make it a psychiatric diagnosis,
+
+1:26:19.580 --> 1:26:22.000
+ at least in the world of today.
+
+1:26:22.000 --> 1:26:24.380
+ Yeah, opting out of communication now
+
+1:26:24.380 --> 1:26:27.340
+ makes you in some ways less adaptive,
+
+1:26:27.340 --> 1:26:29.820
+ though I would point to you as an example
+
+1:26:29.820 --> 1:26:34.480
+ of somebody who is quite good at managing his interactions,
+
+1:26:34.480 --> 1:26:36.760
+ at least from the outsider perspective.
+
+1:26:36.760 --> 1:26:39.500
+ I do want to ask you a little bit about you.
+
+1:26:39.500 --> 1:26:43.080
+ And first of all,
+
+1:26:43.080 --> 1:26:44.940
+ and I realize this is only a partial list,
+
+1:26:44.940 --> 1:26:48.100
+ but you're a clinician, you see patients,
+
+1:26:48.100 --> 1:26:49.220
+ you run a big laboratory.
+
+1:26:49.220 --> 1:26:51.460
+ How many people are in your laboratory now?
+
+1:26:51.460 --> 1:26:53.840
+ That's a huge laboratory.
+
+1:26:53.840 --> 1:26:56.800
+ From experience, I can say that's an enormous laboratory.
+
+1:26:58.580 --> 1:27:00.940
+ You have a family of five children
+
+1:27:00.940 --> 1:27:02.400
+ and you're happily married
+
+1:27:02.400 --> 1:27:04.620
+ to a wonderful colleague of ours as well,
+
+1:27:04.620 --> 1:27:06.380
+ who does incredible work.
+
+1:27:06.380 --> 1:27:11.380
+ How do you organize at a kind of conceptual level
+
+1:27:13.940 --> 1:27:15.700
+ the day and the week?
+
+1:27:16.600 --> 1:27:20.740
+ And I should say what stress mitigation practices, if any,
+
+1:27:20.740 --> 1:27:21.700
+ do you incorporate?
+
+1:27:21.700 --> 1:27:24.540
+ I've received emails from you at three in the morning.
+
+1:27:24.540 --> 1:27:26.060
+ I sometimes send emails at three in the morning,
+
+1:27:26.060 --> 1:27:28.420
+ but that's when I wake up, maybe I'm depressed,
+
+1:27:28.420 --> 1:27:30.060
+ but I go back to sleep.
+
+1:27:30.060 --> 1:27:34.660
+ So maybe you just describe the arc of the blocks of the day,
+
+1:27:34.660 --> 1:27:37.020
+ not hour by hour, necessarily the details
+
+1:27:37.020 --> 1:27:38.240
+ of what are in those blocks,
+
+1:27:38.240 --> 1:27:41.120
+ but how do you conceptualize the day?
+
+1:27:41.120 --> 1:27:43.540
+ How do you conceptualize the week?
+
+1:27:43.540 --> 1:27:47.920
+ And how do you feel about how that's lined up
+
+1:27:47.920 --> 1:27:50.620
+ with your larger goals of making sure
+
+1:27:50.620 --> 1:27:55.100
+ these five young people flourish, which I hear they are.
+
+1:27:56.120 --> 1:27:58.300
+ But how do you go about this?
+
+1:27:58.300 --> 1:27:59.700
+ What for most people would just be
+
+1:27:59.700 --> 1:28:02.340
+ an overwhelming set of items?
+
+1:28:02.340 --> 1:28:07.340
+ Well, of course, sometimes it's just take it day by day,
+
+1:28:08.420 --> 1:28:10.940
+ and so I don't claim-
+
+1:28:10.940 --> 1:28:13.140
+ So you bring the horizon into the unit of the day.
+
+1:28:13.140 --> 1:28:16.780
+ I do, I do, the unit is the day, that's right.
+
+1:28:16.780 --> 1:28:21.500
+ And what I try to have in each day,
+
+1:28:21.500 --> 1:28:24.960
+ as I mentioned earlier, some, at least an hour of time
+
+1:28:24.960 --> 1:28:27.820
+ where I can think, and that can be,
+
+1:28:27.820 --> 1:28:30.380
+ it can be when kids are napping, it can be,
+
+1:28:30.380 --> 1:28:33.820
+ you know, actually, because I, while driving,
+
+1:28:33.820 --> 1:28:36.380
+ I can do that too, because I'm sitting still.
+
+1:28:37.980 --> 1:28:42.220
+ But that's the one thing I try to preserve.
+
+1:28:42.220 --> 1:28:43.420
+ When I was writing the book,
+
+1:28:43.420 --> 1:28:46.960
+ I adapted that time to be my writing time,
+
+1:28:46.960 --> 1:28:48.380
+ but it wasn't enough.
+
+1:28:48.380 --> 1:28:52.140
+ It's, you know, so I had to add in a new block of time,
+
+1:28:52.140 --> 1:28:56.340
+ which was sort of midnight to 2 a.m. writing time.
+
+1:28:56.340 --> 1:29:01.340
+ And so that, carving out these even small protected times
+
+1:29:02.700 --> 1:29:04.140
+ are very important.
+
+1:29:04.140 --> 1:29:05.860
+ There's, of course, you know,
+
+1:29:05.860 --> 1:29:09.580
+ obligations will expand to fill the time available,
+
+1:29:09.580 --> 1:29:11.460
+ and you have to be disciplined in my,
+
+1:29:11.460 --> 1:29:13.420
+ at least I found I had to be disciplined
+
+1:29:13.420 --> 1:29:18.220
+ in truly protecting those times where one can think.
+
+1:29:18.220 --> 1:29:19.620
+ So that means no phone?
+
+1:29:19.620 --> 1:29:22.080
+ That means no phone, no checking of the phone.
+
+1:29:23.620 --> 1:29:25.460
+ I would, you know, when I was writing the book,
+
+1:29:25.460 --> 1:29:30.460
+ I would have, there's a focus mode on the MacBook,
+
+1:29:32.300 --> 1:29:35.940
+ which kind of removes the border,
+
+1:29:35.940 --> 1:29:38.380
+ and you just have your documents,
+
+1:29:38.380 --> 1:29:39.500
+ and it's very pure,
+
+1:29:39.500 --> 1:29:43.740
+ and you don't have the temptation of distraction.
+
+1:29:43.740 --> 1:29:45.460
+ I'm a big believer in,
+
+1:29:45.460 --> 1:29:48.560
+ because the vision and the eyes play such a prominent role
+
+1:29:48.560 --> 1:29:49.720
+ in directing our cognition,
+
+1:29:49.720 --> 1:29:53.020
+ something you talk about in the book really beautifully,
+
+1:29:53.020 --> 1:29:58.020
+ and with a lot of depth and rigor, using visual tools
+
+1:29:58.700 --> 1:30:01.820
+ to harness one's complete mental attention.
+
+1:30:01.820 --> 1:30:04.480
+ When you do this practice of sitting and just thinking,
+
+1:30:04.480 --> 1:30:07.640
+ sitting still and thinking, you said your eyes are open.
+
+1:30:08.560 --> 1:30:11.700
+ Are you hearing your own verbal voice,
+
+1:30:11.700 --> 1:30:12.540
+ although in your head?
+
+1:30:12.540 --> 1:30:15.340
+ So you're actually in conversation with yourself.
+
+1:30:15.340 --> 1:30:18.300
+ Yes, and hearing, literally, I mean, not quite literally.
+
+1:30:18.300 --> 1:30:21.620
+ I don't actually hear a phonation, but I'm hearing words.
+
+1:30:21.620 --> 1:30:25.540
+ And so I discovered this about myself.
+
+1:30:25.540 --> 1:30:29.620
+ Other people, I think, may operate differently,
+
+1:30:29.620 --> 1:30:32.300
+ but I'm extremely verbal in how I think.
+
+1:30:32.300 --> 1:30:33.860
+ That's how all my reasoning is done.
+
+1:30:33.860 --> 1:30:38.860
+ It's with sentences and construction of, you know,
+
+1:30:39.300 --> 1:30:41.060
+ almost equations with words.
+
+1:30:41.060 --> 1:30:42.280
+ Complete sentences?
+
+1:30:42.280 --> 1:30:45.860
+ Complete sentences, or completish, anyway, mostly complete.
+
+1:30:45.860 --> 1:30:47.780
+ And then, when writing the book,
+
+1:30:47.780 --> 1:30:50.540
+ everything about the writing, I would always,
+
+1:30:50.540 --> 1:30:54.180
+ every sentence was always played out in my mind,
+
+1:30:54.180 --> 1:30:56.860
+ listening for rhythm and timing,
+
+1:30:56.860 --> 1:31:01.260
+ and I would obsess over exact placement of words
+
+1:31:01.260 --> 1:31:04.980
+ to get the right rhythm of the spoken sentence in my mind.
+
+1:31:04.980 --> 1:31:08.060
+ I don't mean to interrupt your flow, but when you do that,
+
+1:31:08.060 --> 1:31:10.260
+ and having experienced this process a bit,
+
+1:31:10.260 --> 1:31:12.300
+ although differently,
+
+1:31:12.300 --> 1:31:15.200
+ do you experience any kind of welling up of anxiety
+
+1:31:15.200 --> 1:31:18.000
+ when you're hitting the friction points?
+
+1:31:18.000 --> 1:31:21.540
+ And if so, do you have tools or ways
+
+1:31:21.540 --> 1:31:24.060
+ that you quell that anxiety in real time?
+
+1:31:24.060 --> 1:31:26.980
+ Because what we're really talking about here is your mind,
+
+1:31:26.980 --> 1:31:29.140
+ but what we're really talking about is this process
+
+1:31:29.140 --> 1:31:32.920
+ of converting the activity of neurons
+
+1:31:32.920 --> 1:31:36.100
+ into something physically concrete in the world,
+
+1:31:36.100 --> 1:31:39.500
+ and these intermediate steps are so mysterious to everybody.
+
+1:31:39.500 --> 1:31:41.860
+ We hear, you know, just write the book, just do it,
+
+1:31:41.860 --> 1:31:43.180
+ whatever that means.
+
+1:31:43.180 --> 1:31:44.480
+ In fact, statements like that, to me,
+
+1:31:44.480 --> 1:31:47.020
+ are kind of empty and meaningless.
+
+1:31:47.020 --> 1:31:49.400
+ But when you hear your voice
+
+1:31:49.400 --> 1:31:51.580
+ and you're trying to find the correct word
+
+1:31:51.580 --> 1:31:55.680
+ and you keep hitting, it doesn't sound quite right,
+
+1:31:55.680 --> 1:31:58.140
+ what is the experience in your body?
+
+1:31:58.140 --> 1:32:03.060
+ Yeah, when it's not right, it's definitely, it's aversive.
+
+1:32:03.060 --> 1:32:07.060
+ It doesn't feel good, but it's not,
+
+1:32:07.060 --> 1:32:10.220
+ but there's also a hope because I know I can solve it too,
+
+1:32:10.220 --> 1:32:12.380
+ and so there's this,
+
+1:32:14.020 --> 1:32:16.600
+ it's almost like you're almost there, you know?
+
+1:32:16.600 --> 1:32:19.220
+ There's a path that you know is there.
+
+1:32:19.220 --> 1:32:22.500
+ You don't quite see it, but it's there,
+
+1:32:22.500 --> 1:32:24.140
+ and I keep that in mind,
+
+1:32:24.140 --> 1:32:29.140
+ and so there's this propulsive force forward
+
+1:32:29.600 --> 1:32:31.520
+ because I know that the solution is there,
+
+1:32:31.520 --> 1:32:36.520
+ and that said, you know, there were single words
+
+1:32:36.640 --> 1:32:39.620
+ that I would spend days on
+
+1:32:39.620 --> 1:32:42.380
+ because I was just not happy until I got it right,
+
+1:32:42.380 --> 1:32:45.380
+ and there were some things that I never quite got perfect,
+
+1:32:45.380 --> 1:32:47.060
+ and so I left out of the book entirely
+
+1:32:47.060 --> 1:32:50.420
+ because it was so close, but not quite there,
+
+1:32:50.420 --> 1:32:53.640
+ and so at the end, I was like, no, I can't put that in.
+
+1:32:53.640 --> 1:32:55.440
+ Everything you just said is entirely consistent
+
+1:32:55.440 --> 1:32:56.940
+ with my experience of you
+
+1:32:58.260 --> 1:33:00.940
+ and the way you go about everything.
+
+1:33:00.940 --> 1:33:02.980
+ I have to ask, are your kids writers,
+
+1:33:02.980 --> 1:33:05.240
+ do they like books and words and poetry?
+
+1:33:05.240 --> 1:33:07.160
+ I know one of your children is going on
+
+1:33:07.160 --> 1:33:09.240
+ to a career in medicine and science.
+
+1:33:09.240 --> 1:33:11.660
+ Yeah, they're each different, which is amazing,
+
+1:33:11.660 --> 1:33:14.400
+ yet they all, I think, do have some appreciation
+
+1:33:14.400 --> 1:33:17.120
+ or a lot of appreciation for reading,
+
+1:33:17.120 --> 1:33:19.020
+ but some are very musical.
+
+1:33:19.020 --> 1:33:21.460
+ Two of the five are extremely musical,
+
+1:33:21.460 --> 1:33:23.840
+ very, very talented with guitar and singing
+
+1:33:23.840 --> 1:33:27.280
+ and vocal impressions.
+
+1:33:27.280 --> 1:33:28.640
+ It's just astonishing,
+
+1:33:28.640 --> 1:33:32.920
+ and some of them are great with drawing and artistry,
+
+1:33:32.920 --> 1:33:35.660
+ and some are very physical and vigorous
+
+1:33:35.660 --> 1:33:39.340
+ and are never happy except when leaping about,
+
+1:33:39.340 --> 1:33:42.420
+ and so it's just amazing how different they are, honestly,
+
+1:33:42.420 --> 1:33:46.040
+ but I think there is a shared appreciation for language.
+
+1:33:46.040 --> 1:33:49.900
+ Do you think that one can train their mind
+
+1:33:49.900 --> 1:33:52.040
+ in using these practices?
+
+1:33:52.040 --> 1:33:55.920
+ I really like your description of the sitting,
+
+1:33:55.920 --> 1:33:57.140
+ staying physically still
+
+1:33:57.140 --> 1:34:00.620
+ and learning to grapple with those challenges.
+
+1:34:00.620 --> 1:34:03.140
+ It's something that, especially in laboratory science,
+
+1:34:03.140 --> 1:34:05.520
+ we aren't really trained to do.
+
+1:34:05.520 --> 1:34:06.460
+ Like many professions,
+
+1:34:06.460 --> 1:34:09.100
+ we're taught to come in and just get into motion,
+
+1:34:09.100 --> 1:34:10.700
+ and I found that very relaxing
+
+1:34:10.700 --> 1:34:13.140
+ as someone who probably has an underlying tick
+
+1:34:13.140 --> 1:34:15.340
+ or something like that, it felt great to be in motion.
+
+1:34:15.340 --> 1:34:16.180
+ One of the hardest things
+
+1:34:16.180 --> 1:34:18.880
+ about becoming a university professor and running a lab
+
+1:34:18.880 --> 1:34:21.680
+ was that I was no longer working with my hands,
+
+1:34:21.680 --> 1:34:26.620
+ and it felt like some big important part of my life
+
+1:34:26.620 --> 1:34:28.140
+ had been amputated,
+
+1:34:28.140 --> 1:34:31.100
+ but what sorts of practices do you incorporate there,
+
+1:34:31.100 --> 1:34:35.500
+ and do you think people can learn to get better at focusing
+
+1:34:35.500 --> 1:34:38.800
+ through a dedicated practice of the sort that you describe?
+
+1:34:38.800 --> 1:34:42.280
+ I think, you know, that I also,
+
+1:34:42.280 --> 1:34:46.140
+ I remember the rhythms of physical work
+
+1:34:46.140 --> 1:34:47.440
+ in the laboratory very well.
+
+1:34:47.440 --> 1:34:52.440
+ I, my work, you know, these days as the laboratory leader,
+
+1:34:54.200 --> 1:34:57.040
+ my job is returned mostly to words now again,
+
+1:34:57.040 --> 1:34:59.280
+ and so it's kind of coming full circle.
+
+1:34:59.280 --> 1:35:04.280
+ It was, so it's a different mode.
+
+1:35:04.360 --> 1:35:06.040
+ I think you just have to embrace
+
+1:35:06.040 --> 1:35:07.880
+ that different stages of life
+
+1:35:07.880 --> 1:35:09.220
+ come with different modes,
+
+1:35:09.220 --> 1:35:11.240
+ but you can definitely train yourself for each mode.
+
+1:35:11.240 --> 1:35:16.240
+ I was not, you know, I loved, you know,
+
+1:35:16.800 --> 1:35:20.020
+ as I mentioned, the rhythm of sewing
+
+1:35:20.020 --> 1:35:22.480
+ and suturing and surgery,
+
+1:35:23.640 --> 1:35:27.960
+ and I worked really hard on that and became good at it,
+
+1:35:27.960 --> 1:35:31.460
+ and now I never do it, but it's what's the next challenge.
+
+1:35:31.460 --> 1:35:33.720
+ You know, there's all the various experimental techniques,
+
+1:35:33.720 --> 1:35:36.080
+ the dissections of the brain, you know,
+
+1:35:36.080 --> 1:35:39.200
+ I can't tell you how many thousands of brain dissections
+
+1:35:39.200 --> 1:35:41.280
+ I've done in my life, and now I don't do them at all.
+
+1:35:41.280 --> 1:35:42.480
+ And then you developed a method
+
+1:35:42.480 --> 1:35:44.200
+ so that we don't have to dissect brains.
+
+1:35:44.200 --> 1:35:46.800
+ As you mentioned, maybe tell us for a moment about clarity
+
+1:35:46.800 --> 1:35:50.600
+ and for people who will probably never set foot
+
+1:35:50.600 --> 1:35:53.840
+ into a laboratory, what an incredible,
+
+1:35:53.840 --> 1:35:58.840
+ yet another incredible discovery and development clarity is
+
+1:35:59.120 --> 1:36:02.380
+ and why it helps us understand how the brain is structured.
+
+1:36:02.380 --> 1:36:04.840
+ Yeah, so this is a different technology
+
+1:36:04.840 --> 1:36:06.840
+ also developed in my lab here,
+
+1:36:06.840 --> 1:36:10.000
+ and it's a part of a broader approach
+
+1:36:10.000 --> 1:36:12.240
+ that we call hydrogel tissue chemistry.
+
+1:36:12.240 --> 1:36:15.240
+ And what this is is it's building a gel,
+
+1:36:15.240 --> 1:36:18.380
+ like a clear, jello-like substance
+
+1:36:18.380 --> 1:36:22.000
+ from within all the cells of a tissue
+
+1:36:22.000 --> 1:36:23.920
+ or even an animal all at once.
+
+1:36:23.920 --> 1:36:26.440
+ So you're building, effectively building a gel
+
+1:36:26.440 --> 1:36:28.800
+ inside all the cells at once.
+
+1:36:28.800 --> 1:36:30.920
+ Now that's an odd thing to do.
+
+1:36:30.920 --> 1:36:31.760
+ Why do we do it?
+
+1:36:31.760 --> 1:36:36.000
+ Well, we do it to transform the tissue
+
+1:36:36.000 --> 1:36:39.840
+ into a more tractable, accessible object.
+
+1:36:39.840 --> 1:36:43.200
+ And the reason that works is having built this gel,
+
+1:36:43.200 --> 1:36:47.120
+ this new infrastructure inside the tissue,
+
+1:36:47.120 --> 1:36:48.720
+ we can then use chemical tricks
+
+1:36:48.720 --> 1:36:51.420
+ and we can link the molecules we care about,
+
+1:36:51.420 --> 1:36:55.520
+ like proteins or RNAs, which are the things,
+
+1:36:55.520 --> 1:36:57.960
+ as you know, right before they become proteins,
+
+1:36:57.960 --> 1:37:01.480
+ we can link them, physically anchor them
+
+1:37:01.480 --> 1:37:04.480
+ to this gel, which is a scaffold, basically.
+
+1:37:04.480 --> 1:37:07.960
+ It's an interlocking network of polymers.
+
+1:37:07.960 --> 1:37:10.640
+ We can link all these interesting molecules in place,
+
+1:37:10.640 --> 1:37:13.280
+ lock them in where they were initially,
+
+1:37:13.280 --> 1:37:16.400
+ in the tissue, in the cell, in all the cells.
+
+1:37:16.400 --> 1:37:18.520
+ And then we can remove very vigorously
+
+1:37:18.520 --> 1:37:19.880
+ everything we don't care about
+
+1:37:19.880 --> 1:37:21.840
+ that's blocking our light,
+
+1:37:21.840 --> 1:37:23.940
+ that's blocking our molecules coming in
+
+1:37:23.940 --> 1:37:26.520
+ to exchange information with the tissue.
+
+1:37:26.520 --> 1:37:28.080
+ We can get rid of everything else,
+
+1:37:28.080 --> 1:37:29.420
+ like the lipids, the fats.
+
+1:37:29.420 --> 1:37:33.560
+ We can effectively use detergents to get them all out.
+
+1:37:33.560 --> 1:37:35.600
+ And then we can see in all the things
+
+1:37:35.600 --> 1:37:38.080
+ that we're absorbing, our scattering light are gone.
+
+1:37:38.080 --> 1:37:40.760
+ You can have a brain that's completely transparent,
+
+1:37:40.760 --> 1:37:42.320
+ and yet all the interesting molecules
+
+1:37:42.320 --> 1:37:43.560
+ are still locked into place there
+
+1:37:43.560 --> 1:37:45.760
+ at the cellular and subcellular level.
+
+1:37:45.760 --> 1:37:47.620
+ And so this is hydrogel tissue chemistry.
+
+1:37:47.620 --> 1:37:50.860
+ The first form we described was called Clarity.
+
+1:37:50.860 --> 1:37:52.440
+ We use that quite a bit still,
+
+1:37:52.440 --> 1:37:54.240
+ but there are many variants now
+
+1:37:54.240 --> 1:37:55.480
+ that we and others have developed
+
+1:37:55.480 --> 1:37:58.360
+ on this basic concept of building this gel
+
+1:37:58.360 --> 1:38:00.560
+ within the tissue and anchoring molecules into place.
+
+1:38:00.560 --> 1:38:02.120
+ Literally glass clear brains.
+
+1:38:02.120 --> 1:38:05.320
+ I've done this, I've taken a brain clear with this method
+
+1:38:05.320 --> 1:38:06.880
+ and looked at somebody through it.
+
+1:38:06.880 --> 1:38:08.760
+ And although you don't want to get it too close to your eye,
+
+1:38:08.760 --> 1:38:10.240
+ you don't want to touch it to your own eye.
+
+1:38:10.240 --> 1:38:13.440
+ But, and you can see direct all the way through it.
+
+1:38:16.280 --> 1:38:18.180
+ That's incredible for the,
+
+1:38:18.180 --> 1:38:19.700
+ it raises an important question,
+
+1:38:19.700 --> 1:38:22.160
+ which is again about the human brain.
+
+1:38:22.160 --> 1:38:23.880
+ I mean, as somebody who essentially started out
+
+1:38:23.880 --> 1:38:26.440
+ in neuroanatomy and then got into other things,
+
+1:38:26.440 --> 1:38:31.320
+ I always am bothered by the fact
+
+1:38:31.320 --> 1:38:32.880
+ that we actually know very little
+
+1:38:32.880 --> 1:38:35.760
+ about the microstructure of the human brain
+
+1:38:35.760 --> 1:38:38.580
+ compared to the brains of other organisms.
+
+1:38:38.580 --> 1:38:41.400
+ And in thinking about understanding the circuitry
+
+1:38:41.400 --> 1:38:43.600
+ and the piano, so to speak,
+
+1:38:43.600 --> 1:38:47.660
+ and how to manipulate it in order to relieve suffering,
+
+1:38:49.440 --> 1:38:53.480
+ one wonders are the structures in these animal brains
+
+1:38:53.480 --> 1:38:56.720
+ and how they behave in active coping,
+
+1:38:56.720 --> 1:39:00.000
+ passive coping, ADD, et cetera, those models,
+
+1:39:00.000 --> 1:39:03.900
+ how well they translate to the human condition.
+
+1:39:03.900 --> 1:39:06.600
+ Do you think it's fair to say that there are entire regions
+
+1:39:06.600 --> 1:39:09.440
+ of the human brain that aren't just bigger,
+
+1:39:09.440 --> 1:39:12.500
+ but that exist only in the brains of humans,
+
+1:39:12.500 --> 1:39:14.840
+ especially given that we have this speech,
+
+1:39:14.840 --> 1:39:17.000
+ although I do wonder sometimes if, you know,
+
+1:39:17.000 --> 1:39:18.940
+ animals are reporting to each other there,
+
+1:39:18.940 --> 1:39:20.780
+ maybe they have little psychiatric sessions
+
+1:39:20.780 --> 1:39:22.280
+ with one another.
+
+1:39:22.280 --> 1:39:23.900
+ You know, I'm always careful
+
+1:39:23.900 --> 1:39:26.980
+ to not assume we do things better.
+
+1:39:26.980 --> 1:39:29.460
+ We certainly understand what we're doing better
+
+1:39:29.460 --> 1:39:31.000
+ than we understand what animals are doing,
+
+1:39:31.000 --> 1:39:33.980
+ and they certainly do things better than we do.
+
+1:39:33.980 --> 1:39:36.800
+ That said, we do have amazing, wonderful brains
+
+1:39:36.800 --> 1:39:39.420
+ and many structures that are very highly developed
+
+1:39:39.420 --> 1:39:42.300
+ in our brains that are not nearly so developed
+
+1:39:42.300 --> 1:39:45.440
+ in mice and fish, for example.
+
+1:39:45.440 --> 1:39:49.220
+ Now, that said, when I look at the big picture,
+
+1:39:49.220 --> 1:39:52.880
+ you know, what is the mammalian brain really doing?
+
+1:39:54.540 --> 1:39:57.020
+ There are things that you would never have thought
+
+1:39:57.020 --> 1:40:00.540
+ we could study in animals, in laboratory,
+
+1:40:00.540 --> 1:40:05.540
+ in mammals like mice that it turns out you can, actually.
+
+1:40:05.780 --> 1:40:08.140
+ And so I would never draw the line and say,
+
+1:40:08.140 --> 1:40:10.100
+ here's something you can't study in mice,
+
+1:40:10.100 --> 1:40:12.740
+ or here's something that has no parallel in mice.
+
+1:40:12.740 --> 1:40:14.540
+ I would be very careful before making
+
+1:40:14.540 --> 1:40:17.140
+ any statement like that.
+
+1:40:17.140 --> 1:40:19.040
+ A good example of that is we've been able to study
+
+1:40:19.040 --> 1:40:20.900
+ just in the past year come to an understanding
+
+1:40:20.900 --> 1:40:25.060
+ of dissociation, and we had a paper that came out
+
+1:40:25.060 --> 1:40:28.660
+ in late 2020, both mouse and human work,
+
+1:40:28.660 --> 1:40:32.400
+ in which we got to sort of the circuit basis
+
+1:40:32.400 --> 1:40:34.100
+ for dissociation.
+
+1:40:34.100 --> 1:40:35.540
+ Now, what is dissociation?
+
+1:40:35.540 --> 1:40:38.760
+ A lot of people might not have experienced it,
+
+1:40:38.760 --> 1:40:40.500
+ but it's actually very common.
+
+1:40:40.500 --> 1:40:44.260
+ More than 70% of people who've been through trauma
+
+1:40:44.260 --> 1:40:45.820
+ experience dissociation.
+
+1:40:45.820 --> 1:40:47.840
+ It shows up in borderline personality.
+
+1:40:47.840 --> 1:40:49.700
+ It shows up in PTSD.
+
+1:40:49.700 --> 1:40:53.580
+ What it is is it's a separation of the sense of self
+
+1:40:53.580 --> 1:40:55.980
+ from the body, and so you can have someone who,
+
+1:40:55.980 --> 1:40:58.500
+ it's not as if you're numb, you're not anesthetized.
+
+1:40:58.500 --> 1:41:00.820
+ You can still, you know that something's happening
+
+1:41:00.820 --> 1:41:03.260
+ to the body, but you just don't care
+
+1:41:03.260 --> 1:41:05.980
+ because you don't ascribe it to yourself,
+
+1:41:05.980 --> 1:41:07.740
+ which is very interesting, right?
+
+1:41:07.740 --> 1:41:09.100
+ That is, how interesting is that?
+
+1:41:09.100 --> 1:41:10.420
+ The self-report narrative.
+
+1:41:10.420 --> 1:41:11.260
+ Yeah, yeah.
+
+1:41:11.260 --> 1:41:13.560
+ Almost in your book, you touch on this,
+
+1:41:13.560 --> 1:41:18.560
+ and I will say is the most precise and meaningful
+
+1:41:18.740 --> 1:41:21.740
+ and eloquent description of what might be consciousness,
+
+1:41:21.740 --> 1:41:25.300
+ this narrative toward the self or of the self
+
+1:41:25.300 --> 1:41:26.380
+ and where it might reside.
+
+1:41:26.380 --> 1:41:29.480
+ So in dissociative conditions,
+
+1:41:29.480 --> 1:41:32.760
+ people are feeling as kind of an absence of a merge
+
+1:41:32.760 --> 1:41:34.020
+ between mind and body.
+
+1:41:34.020 --> 1:41:35.420
+ Is that one way to describe it?
+
+1:41:35.420 --> 1:41:37.520
+ And as I recall, this paper involved
+
+1:41:37.520 --> 1:41:39.300
+ an exploration of ketamine.
+
+1:41:39.300 --> 1:41:40.940
+ Ketamine was a big part of it, yeah, that's right.
+
+1:41:40.940 --> 1:41:43.000
+ And so ketamine is another one of those cases
+
+1:41:43.000 --> 1:41:45.500
+ where people can experience dissociation.
+
+1:41:45.500 --> 1:41:48.880
+ Ketamine or PCP, we call these the dissociative drugs.
+
+1:41:48.880 --> 1:41:51.240
+ They cause it just like these other
+
+1:41:51.240 --> 1:41:53.540
+ psychiatric conditions can cause it.
+
+1:41:55.300 --> 1:41:59.300
+ But we were able to manifest this in mice,
+
+1:41:59.300 --> 1:42:02.100
+ administering these dissociative agents in mice.
+
+1:42:02.100 --> 1:42:04.580
+ We could make them still able to detect stimulus
+
+1:42:04.580 --> 1:42:07.140
+ but not care that it was happening.
+
+1:42:07.140 --> 1:42:11.380
+ All the while, we were recording the activity
+
+1:42:11.380 --> 1:42:14.380
+ of individual cells in the brain to see what was going on,
+
+1:42:14.380 --> 1:42:18.060
+ what was happening along with this dissociation
+
+1:42:18.060 --> 1:42:20.540
+ and then use optogenetics to see that it mattered
+
+1:42:20.540 --> 1:42:23.380
+ to actually provide that pattern of activity
+
+1:42:23.380 --> 1:42:26.580
+ and see, oh, that actually causes the dissociation.
+
+1:42:26.580 --> 1:42:28.900
+ So we could do all that in mice,
+
+1:42:28.900 --> 1:42:32.860
+ which was just a, who would have thought
+
+1:42:32.860 --> 1:42:34.660
+ that you could study something like this in mice?
+
+1:42:34.660 --> 1:42:38.340
+ And we were able to go back and forth with human work
+
+1:42:38.340 --> 1:42:41.940
+ because here in our Stanford Comprehensive Epilepsy Center,
+
+1:42:41.940 --> 1:42:45.300
+ there are a lot of what we call stereo EEG recording.
+
+1:42:45.300 --> 1:42:46.180
+ Patients who come in
+
+1:42:46.180 --> 1:42:48.580
+ and in the course of normal clinical care,
+
+1:42:48.580 --> 1:42:51.540
+ they have electrodes recording in their brain
+
+1:42:51.540 --> 1:42:53.420
+ to identify where the seizure is
+
+1:42:53.420 --> 1:42:56.700
+ so they can be candidates for removing
+
+1:42:56.700 --> 1:42:58.700
+ a little patch of the brain that's causing the seizure.
+
+1:42:58.700 --> 1:43:00.780
+ This is done for patients who medications
+
+1:43:00.780 --> 1:43:03.560
+ are not helping their seizure disorder.
+
+1:43:03.560 --> 1:43:08.160
+ And there was a patient who had a dissociative state
+
+1:43:08.160 --> 1:43:09.340
+ before every seizure.
+
+1:43:09.340 --> 1:43:11.460
+ So this was a human being who was really dissociating,
+
+1:43:11.460 --> 1:43:13.620
+ who could tell us literally as it was happening.
+
+1:43:13.620 --> 1:43:15.980
+ And we could see this pattern,
+
+1:43:15.980 --> 1:43:18.300
+ the same pattern that was happening in the mice
+
+1:43:18.300 --> 1:43:20.780
+ in the same patch of the brain,
+
+1:43:20.780 --> 1:43:22.700
+ we could see that happening in the human being
+
+1:43:22.700 --> 1:43:25.260
+ at exactly the right time in the same patch of the brain
+
+1:43:25.260 --> 1:43:27.060
+ that's homologous across these
+
+1:43:27.060 --> 1:43:29.580
+ immense evolutionary distances.
+
+1:43:29.580 --> 1:43:31.960
+ And we knew that it mattered too, both in mouse and human,
+
+1:43:31.960 --> 1:43:34.540
+ because in the human, we could cause it to happen.
+
+1:43:34.540 --> 1:43:35.380
+ So that-
+
+1:43:35.380 --> 1:43:38.420
+ I want to underscore the power of not just that,
+
+1:43:38.420 --> 1:43:41.140
+ I want to underscore the power of optogenetics
+
+1:43:41.140 --> 1:43:45.500
+ and the ability to not just remove a particular experience
+
+1:43:45.500 --> 1:43:47.380
+ or behavior by lesioning or destroying,
+
+1:43:47.380 --> 1:43:51.020
+ but then to go back and actually activate
+
+1:43:51.020 --> 1:43:52.740
+ the same structure or group of structures
+
+1:43:52.740 --> 1:43:54.100
+ and see the emergence.
+
+1:43:54.100 --> 1:43:56.620
+ So it's essentially, these days you hear a lot
+
+1:43:56.620 --> 1:43:57.940
+ about gain-of-function research
+
+1:43:57.940 --> 1:43:59.540
+ in the context of viral manipulation,
+
+1:43:59.540 --> 1:44:00.660
+ but gain-of-function is something
+
+1:44:00.660 --> 1:44:04.580
+ that we do in the laboratory and you do in patients
+
+1:44:04.580 --> 1:44:07.740
+ to both take away something and put it back,
+
+1:44:07.740 --> 1:44:09.140
+ which gives you causality.
+
+1:44:09.140 --> 1:44:09.980
+ That's right.
+
+1:44:09.980 --> 1:44:11.060
+ Yeah, and so, exactly.
+
+1:44:11.060 --> 1:44:14.140
+ And so with optogenetics, we were able to provide
+
+1:44:14.140 --> 1:44:18.100
+ in animals without being on any ketamine or any drug,
+
+1:44:18.100 --> 1:44:19.620
+ and we could cause the dissociative state
+
+1:44:19.620 --> 1:44:22.220
+ by playing in a precise pattern of activity.
+
+1:44:22.220 --> 1:44:23.660
+ And that, who would have thought you could do that?
+
+1:44:23.660 --> 1:44:26.300
+ But there was a combined mouse and human paper.
+
+1:44:26.300 --> 1:44:31.300
+ Likewise, we've been able to play in visual sensations
+
+1:44:31.300 --> 1:44:36.300
+ into the brains of mice, and by observing
+
+1:44:37.300 --> 1:44:39.740
+ which cells in the visual part of the brain,
+
+1:44:39.740 --> 1:44:43.020
+ visual cortex, are naturally responsive to,
+
+1:44:43.020 --> 1:44:46.020
+ for example, vertical bars instead of horizontal bars
+
+1:44:46.020 --> 1:44:48.620
+ in the visual world, we could see which cells
+
+1:44:48.620 --> 1:44:51.200
+ were normally reporting on vertical bars,
+
+1:44:51.200 --> 1:44:52.580
+ and then we could use optogenetics
+
+1:44:52.580 --> 1:44:56.420
+ to come and play in activity just to those cells.
+
+1:44:56.420 --> 1:44:58.140
+ So these animals are not viewing anything.
+
+1:44:58.140 --> 1:44:59.340
+ Not viewing anything at all,
+
+1:44:59.340 --> 1:45:02.500
+ and we could activate just the vertical bar cells,
+
+1:45:02.500 --> 1:45:04.120
+ and not only did the animal act
+
+1:45:04.120 --> 1:45:06.420
+ as if it was seeing a vertical bar behaviorally,
+
+1:45:06.420 --> 1:45:07.780
+ it was trained to do a particular thing
+
+1:45:07.780 --> 1:45:09.700
+ if it saw a vertical bar, and it did that
+
+1:45:09.700 --> 1:45:12.660
+ just as if it was seeing something visually.
+
+1:45:12.660 --> 1:45:14.740
+ But everything in the brain that we were recording too,
+
+1:45:14.740 --> 1:45:18.560
+ the internal representation of this external world
+
+1:45:18.560 --> 1:45:19.860
+ was naturalistic too.
+
+1:45:19.860 --> 1:45:23.100
+ It looked like the brain was seeing something visual.
+
+1:45:23.100 --> 1:45:26.220
+ So that's gain of function too,
+
+1:45:26.220 --> 1:45:29.560
+ playing in, providing a complex sensation,
+
+1:45:29.560 --> 1:45:31.460
+ our percept that wasn't there before,
+
+1:45:31.460 --> 1:45:34.480
+ and we can do that across species.
+
+1:45:34.480 --> 1:45:37.180
+ So we haven't, you know, and of course,
+
+1:45:37.180 --> 1:45:40.460
+ mice are social, and they do amazing acts
+
+1:45:40.460 --> 1:45:43.900
+ of information processing, and so I don't,
+
+1:45:43.900 --> 1:45:46.780
+ I try not to disparage our cousins too much.
+
+1:45:46.780 --> 1:45:48.600
+ They certainly have helped the field of neuroscience
+
+1:45:48.600 --> 1:45:50.040
+ and medicine, I should mention,
+
+1:45:50.040 --> 1:45:51.860
+ and I know that people have various sensitivities
+
+1:45:51.860 --> 1:45:55.140
+ about animal research, but the work that's been carried out
+
+1:45:55.140 --> 1:45:58.980
+ in mice has been absolutely vital
+
+1:45:58.980 --> 1:46:02.700
+ and instructional for treatment of human disease.
+
+1:46:03.920 --> 1:46:07.000
+ Since we talked about dissociation
+
+1:46:07.000 --> 1:46:10.480
+ and dissociative states, rather, and ketamine,
+
+1:46:10.480 --> 1:46:14.900
+ I'd love your thoughts on psychedelic medicine.
+
+1:46:14.900 --> 1:46:17.600
+ You know, I sort of half joke,
+
+1:46:17.600 --> 1:46:19.760
+ having grown up in this area in Northern California
+
+1:46:19.760 --> 1:46:22.300
+ when it was much more counterculture than it is now,
+
+1:46:22.300 --> 1:46:26.100
+ that many of the things that we're hearing about now,
+
+1:46:27.840 --> 1:46:30.520
+ at least from my read of the history books,
+
+1:46:30.520 --> 1:46:31.680
+ happened before.
+
+1:46:31.680 --> 1:46:34.440
+ There was a movement aimed at taking
+
+1:46:34.440 --> 1:46:36.780
+ the very same compounds, essentially,
+
+1:46:36.780 --> 1:46:37.860
+ putting them into patients,
+
+1:46:37.860 --> 1:46:41.100
+ or people were obviously using them recreationally,
+
+1:46:41.100 --> 1:46:42.700
+ but putting them into patients
+
+1:46:42.700 --> 1:46:44.900
+ and seeing tremendous positive effects,
+
+1:46:44.900 --> 1:46:49.900
+ but also tremendous examples of induced psychiatric illness.
+
+1:46:49.900 --> 1:46:52.420
+ In other words, many people lost their minds
+
+1:46:52.420 --> 1:46:54.740
+ as a consequence of overuse of psychedelics.
+
+1:46:54.740 --> 1:46:57.740
+ I'll probably lose a few people out there,
+
+1:46:59.120 --> 1:47:02.140
+ but I do want to talk about
+
+1:47:02.140 --> 1:47:04.300
+ what is the state of these compounds?
+
+1:47:04.300 --> 1:47:06.420
+ And I realize it's a huge category of compounds,
+
+1:47:06.420 --> 1:47:08.500
+ but LSD and psilocybin, as I understand,
+
+1:47:08.500 --> 1:47:11.420
+ trigger activation of particular serotonin receptor
+
+1:47:11.420 --> 1:47:15.260
+ mechanisms may or may not lead to more widespread activation
+
+1:47:15.260 --> 1:47:18.300
+ of the brain that one wouldn't see otherwise.
+
+1:47:18.300 --> 1:47:20.340
+ But when you look at the clinical and experimental
+
+1:47:20.340 --> 1:47:23.860
+ literature, what is your sort of top contour sense
+
+1:47:23.860 --> 1:47:26.140
+ of how effective these tools are going to be
+
+1:47:26.140 --> 1:47:27.700
+ for treating depression?
+
+1:47:27.700 --> 1:47:29.100
+ And then if we have the time,
+
+1:47:29.100 --> 1:47:32.620
+ we could talk about trauma and MDMA and some of that work.
+
+1:47:32.620 --> 1:47:36.180
+ Well, you're right to highlight both the opportunity
+
+1:47:36.180 --> 1:47:38.740
+ and the peril that is there.
+
+1:47:39.800 --> 1:47:41.780
+ And of course, we want to help patients,
+
+1:47:41.780 --> 1:47:45.260
+ and of course, we want to explore anything
+
+1:47:45.260 --> 1:47:48.500
+ that might be helpful, but we want to do it in a safe
+
+1:47:48.500 --> 1:47:50.420
+ and rigorous way.
+
+1:47:50.420 --> 1:47:53.540
+ But I do think we should explore these avenues.
+
+1:47:53.540 --> 1:47:57.120
+ These are agents that alter reality
+
+1:47:57.120 --> 1:48:00.180
+ and alter the experience of reality, I should say,
+
+1:48:00.180 --> 1:48:02.420
+ in relatively precise ways.
+
+1:48:02.420 --> 1:48:05.140
+ They do have problems, they can be addictive,
+
+1:48:05.140 --> 1:48:08.600
+ they can cause lasting change that is not desirable.
+
+1:48:10.260 --> 1:48:12.340
+ But we have to see these as opportunities.
+
+1:48:12.340 --> 1:48:15.500
+ We have to, first of all, study in the laboratory,
+
+1:48:15.500 --> 1:48:17.940
+ and I'm doing this here.
+
+1:48:17.940 --> 1:48:22.940
+ We have big, we have safes with many interesting psychedelics
+
+1:48:23.000 --> 1:48:24.780
+ that are all very carefully regulated.
+
+1:48:24.780 --> 1:48:27.220
+ We get inspections from the DEA and so on.
+
+1:48:27.220 --> 1:48:28.540
+ If anyone's hoping to find these labs,
+
+1:48:28.540 --> 1:48:31.660
+ they exist in outer space, so you need to be on board
+
+1:48:31.660 --> 1:48:35.060
+ one of the SpaceX missions in order to access them,
+
+1:48:35.060 --> 1:48:36.140
+ so don't try and come find them.
+
+1:48:36.140 --> 1:48:37.940
+ Yeah, no, that's exactly true, yes.
+
+1:48:40.740 --> 1:48:42.300
+ And we're doing exactly this.
+
+1:48:42.300 --> 1:48:43.780
+ We're saying this is an incredible opportunity.
+
+1:48:43.780 --> 1:48:48.300
+ If we could understand how the perception of reality
+
+1:48:48.300 --> 1:48:52.040
+ is altered, we could create new kinds of intervention
+
+1:48:52.040 --> 1:48:56.820
+ that don't have the risks and the problems
+
+1:48:56.820 --> 1:49:00.180
+ of causing lasting change or addiction.
+
+1:49:00.180 --> 1:49:05.180
+ Now, that said, even as these medications exist now,
+
+1:49:06.180 --> 1:49:09.220
+ as you know, there's an impulse to use them
+
+1:49:09.220 --> 1:49:10.940
+ in very small doses and to use them
+
+1:49:10.940 --> 1:49:15.100
+ as adjunctive treatments for the therapy of various kinds,
+
+1:49:15.100 --> 1:49:16.780
+ and I'm also supportive of that
+
+1:49:16.780 --> 1:49:19.940
+ if done carefully and rigorously.
+
+1:49:19.940 --> 1:49:21.580
+ Of course, there's risk, but there is risk
+
+1:49:21.580 --> 1:49:23.900
+ with many other kinds of treatment,
+
+1:49:23.900 --> 1:49:28.900
+ and I'm not sure that the risks for these medications
+
+1:49:29.140 --> 1:49:31.380
+ vastly outweigh the risks that we normally tolerate
+
+1:49:31.380 --> 1:49:32.820
+ in other branches of medicine.
+
+1:49:32.820 --> 1:49:34.380
+ Why would they work?
+
+1:49:34.380 --> 1:49:39.380
+ I mean, let's say that indeed their main effect is to create
+
+1:49:41.940 --> 1:49:46.940
+ more connectivity, at least in the moment,
+
+1:49:47.400 --> 1:49:48.240
+ between brain areas.
+
+1:49:48.240 --> 1:49:50.820
+ So the way I think about a very,
+
+1:49:50.820 --> 1:49:53.660
+ I think about the two extremes of my experience anyway
+
+1:49:53.660 --> 1:49:57.320
+ is a high degree of stress and focus, for whatever reason,
+
+1:49:57.320 --> 1:49:59.780
+ is going to create changes in my visual field
+
+1:49:59.780 --> 1:50:02.160
+ and changes in the way that I perceive time
+
+1:50:02.160 --> 1:50:03.900
+ so that I'm going to micro-slice time.
+
+1:50:03.900 --> 1:50:07.300
+ I'm in a very contracted view of whatever my experience is,
+
+1:50:07.300 --> 1:50:09.440
+ whereas on the opposite extreme,
+
+1:50:09.440 --> 1:50:13.420
+ in a dream or in sleep, space and time are very fluid,
+
+1:50:13.420 --> 1:50:15.180
+ and I'm essentially relaxed,
+
+1:50:15.180 --> 1:50:16.980
+ although it might be a very interesting dream,
+
+1:50:16.980 --> 1:50:18.580
+ it might not be.
+
+1:50:18.580 --> 1:50:21.680
+ Psychedelics seem to be a trajectory,
+
+1:50:21.680 --> 1:50:25.360
+ I'm not too far off from the dream state
+
+1:50:25.360 --> 1:50:29.900
+ where space and time are essentially not as rigid,
+
+1:50:29.900 --> 1:50:32.140
+ and there is this element of synesthesia,
+
+1:50:32.140 --> 1:50:34.620
+ of blending of the senses, you know,
+
+1:50:34.620 --> 1:50:39.620
+ feeling colors and hearing light and things of that sort.
+
+1:50:40.620 --> 1:50:42.380
+ You hear these reports anyway.
+
+1:50:43.480 --> 1:50:46.540
+ Why would having that dreamlike experience
+
+1:50:47.940 --> 1:50:51.580
+ somehow relieve depression long-term?
+
+1:50:51.580 --> 1:50:53.960
+ Do we have any idea why that might be?
+
+1:50:55.980 --> 1:50:59.580
+ We have some ideas and no deep understanding.
+
+1:50:59.580 --> 1:51:02.100
+ One way I think about the psychedelics
+
+1:51:02.100 --> 1:51:07.100
+ is they increase the willingness of our brain
+
+1:51:08.840 --> 1:51:13.340
+ to accept unlikely ways of constructing the world,
+
+1:51:13.340 --> 1:51:16.420
+ unlikely hypotheses, as it were, as to what's going on.
+
+1:51:16.420 --> 1:51:18.640
+ The brain, in particular our cortex, I think,
+
+1:51:18.640 --> 1:51:21.820
+ is a hypothesis generation and testing machine.
+
+1:51:21.820 --> 1:51:23.820
+ It's coming up with models about everything.
+
+1:51:23.820 --> 1:51:26.900
+ It's got a lot of bits of data coming in,
+
+1:51:26.900 --> 1:51:29.420
+ and it's making models and updating the models
+
+1:51:29.420 --> 1:51:32.620
+ and changing them theories, hypotheses for what's going on.
+
+1:51:33.540 --> 1:51:36.020
+ And some of those never reach our conscious mind,
+
+1:51:36.020 --> 1:51:38.340
+ and this is something I talk about in projections
+
+1:51:38.340 --> 1:51:42.300
+ in the book quite a bit, is many of these are filtered out
+
+1:51:42.300 --> 1:51:45.140
+ before they get to our conscious mind, and that's good.
+
+1:51:45.140 --> 1:51:47.420
+ We think how distracted we'd be
+
+1:51:47.420 --> 1:51:49.340
+ if we were constantly having to evaluate
+
+1:51:49.340 --> 1:51:52.420
+ all these hypotheses about what kinds of shapes
+
+1:51:52.420 --> 1:51:54.820
+ or objects or processes were out there.
+
+1:51:54.820 --> 1:51:56.420
+ And so a lot of this is handled
+
+1:51:57.380 --> 1:51:59.020
+ before it gets to consciousness.
+
+1:51:59.020 --> 1:52:00.780
+ What the psychedelics seem to do
+
+1:52:00.780 --> 1:52:05.260
+ is they change the threshold for us
+
+1:52:05.260 --> 1:52:08.340
+ to become aware of these incomplete hypotheses
+
+1:52:08.340 --> 1:52:13.160
+ or wrong hypotheses or concepts that might be noise
+
+1:52:13.160 --> 1:52:15.260
+ but are just wrong and so are never allowed
+
+1:52:15.260 --> 1:52:17.060
+ to get into our conscious mind.
+
+1:52:17.900 --> 1:52:20.900
+ Now, that's pretty interesting,
+
+1:52:20.900 --> 1:52:23.260
+ and it goes wrong in psychiatric disorders.
+
+1:52:23.260 --> 1:52:28.260
+ I think in schizophrenia, sometimes the paranoid delusions
+
+1:52:28.260 --> 1:52:33.260
+ that people have are examples of these poor models
+
+1:52:33.280 --> 1:52:35.100
+ that escape into the conscious mind
+
+1:52:35.100 --> 1:52:37.380
+ and become accepted as reality,
+
+1:52:37.380 --> 1:52:40.340
+ and they never should have gotten out there.
+
+1:52:40.340 --> 1:52:43.180
+ Now, how could something like this in the right way
+
+1:52:43.180 --> 1:52:45.340
+ help with something like depression?
+
+1:52:45.340 --> 1:52:49.940
+ Patients with depression often are stuck.
+
+1:52:49.940 --> 1:52:54.940
+ They can't look into the future world of possibilities
+
+1:52:54.940 --> 1:52:56.820
+ as effectively.
+
+1:52:56.820 --> 1:53:01.820
+ Everything seems hopeless, and what does that really mean?
+
+1:53:02.580 --> 1:53:05.820
+ They discount the value of their own action.
+
+1:53:05.820 --> 1:53:08.340
+ They discount the value of the world
+
+1:53:08.340 --> 1:53:10.860
+ at giving rise to a future that matters.
+
+1:53:10.860 --> 1:53:13.020
+ Everything seems to run out like a river
+
+1:53:13.020 --> 1:53:15.700
+ just running out into a desert and drying up.
+
+1:53:15.700 --> 1:53:19.980
+ And what these agents may do
+
+1:53:19.980 --> 1:53:22.940
+ that increase the flow through circuitry
+
+1:53:22.940 --> 1:53:27.420
+ if you will, the percolation of activity through circuitry
+
+1:53:27.420 --> 1:53:29.300
+ may end up doing for depression
+
+1:53:29.300 --> 1:53:34.300
+ is increasing the escape of some tendrils of process,
+
+1:53:35.020 --> 1:53:37.900
+ of forward progression through the world.
+
+1:53:38.900 --> 1:53:39.960
+ That's a concept.
+
+1:53:39.960 --> 1:53:41.640
+ It's how I think about it.
+
+1:53:41.640 --> 1:53:43.440
+ There are ways we can make that rigorous.
+
+1:53:43.440 --> 1:53:47.060
+ We can indeed identify in the brain by recording.
+
+1:53:47.060 --> 1:53:50.780
+ We can see cells that represent steps along a path
+
+1:53:50.780 --> 1:53:54.160
+ and look into the future,
+
+1:53:54.160 --> 1:53:56.540
+ and we can rigorously define these cells,
+
+1:53:56.540 --> 1:53:59.260
+ and we can see if these are altered on psychedelics.
+
+1:53:59.260 --> 1:54:00.500
+ And so that's one of the reasons
+
+1:54:00.500 --> 1:54:04.020
+ that we're working with these agents in the laboratory
+
+1:54:04.020 --> 1:54:05.860
+ to say, is this really the case?
+
+1:54:05.860 --> 1:54:08.820
+ Are these opening up new paths
+
+1:54:08.820 --> 1:54:11.920
+ or representations of paths into the future?
+
+1:54:13.780 --> 1:54:17.420
+ MDMA, ecstasy, is a unique compound
+
+1:54:17.420 --> 1:54:21.940
+ in that it leads to big increases in brain levels
+
+1:54:21.940 --> 1:54:24.660
+ of dopamine and serotonin simultaneously.
+
+1:54:24.660 --> 1:54:26.740
+ And I realized that the neuromodulators
+
+1:54:26.740 --> 1:54:29.340
+ like dopamine and serotonin often work in concert,
+
+1:54:29.340 --> 1:54:31.580
+ not alone, the way they're commonly described
+
+1:54:31.580 --> 1:54:35.420
+ in the more general popular discussions.
+
+1:54:35.420 --> 1:54:38.880
+ However, it is a unique compound,
+
+1:54:38.880 --> 1:54:41.060
+ and it's different than the serotonergic compounds
+
+1:54:41.060 --> 1:54:43.420
+ like LSD and psilocybin.
+
+1:54:43.420 --> 1:54:48.120
+ And there are now data still emerging
+
+1:54:48.120 --> 1:54:52.600
+ that it might be, and in some cases can be useful
+
+1:54:52.600 --> 1:54:56.460
+ for the treatment of trauma, PTSD and similar things.
+
+1:54:56.460 --> 1:54:59.260
+ Why would that work?
+
+1:54:59.260 --> 1:55:01.920
+ And a larger question,
+
+1:55:01.920 --> 1:55:04.060
+ perhaps the more important question is,
+
+1:55:04.060 --> 1:55:08.460
+ psychedelics, MDMA, LSD, all those compounds,
+
+1:55:08.460 --> 1:55:10.100
+ in my mind, there are two components.
+
+1:55:10.100 --> 1:55:12.780
+ There's the experience you have while you're on them,
+
+1:55:12.780 --> 1:55:15.220
+ and then there's the effect they have after.
+
+1:55:16.340 --> 1:55:18.900
+ People are generating variations of these compounds
+
+1:55:18.900 --> 1:55:21.980
+ that are non-hallucinatory variations,
+
+1:55:21.980 --> 1:55:25.940
+ but how crucial do you think it is to have,
+
+1:55:25.940 --> 1:55:30.820
+ let's stay with MDMA, the experience of huge levels
+
+1:55:30.820 --> 1:55:33.460
+ of dopamine, huge levels of serotonin,
+
+1:55:33.460 --> 1:55:35.780
+ atypical levels of dopamine and serotonin released,
+
+1:55:35.780 --> 1:55:38.020
+ having this highly abnormal experience
+
+1:55:38.020 --> 1:55:39.620
+ in order to be normal again?
+
+1:55:39.620 --> 1:55:43.020
+ Yeah, I think the brain learns from those experiences.
+
+1:55:43.020 --> 1:55:44.460
+ That's the way I see it.
+
+1:55:44.460 --> 1:55:48.440
+ And so, for example, people who've taken MDMA,
+
+1:55:48.440 --> 1:55:51.660
+ they will, as you say, they'll be the acute phase
+
+1:55:51.660 --> 1:55:55.820
+ of being on the drug and experiencing
+
+1:55:55.820 --> 1:55:59.420
+ this extreme connectedness with other people, for example.
+
+1:55:59.420 --> 1:56:02.980
+ And then the drug wears off,
+
+1:56:04.020 --> 1:56:06.140
+ but the brain learned from that experience.
+
+1:56:06.140 --> 1:56:09.220
+ And so what people will report is,
+
+1:56:09.220 --> 1:56:12.640
+ yeah, I'm not in that state, but I saw what was possible.
+
+1:56:12.640 --> 1:56:17.460
+ I saw, yeah, you can, there don't need to be barriers,
+
+1:56:17.460 --> 1:56:19.760
+ or at least not as many barriers as I thought.
+
+1:56:19.760 --> 1:56:23.980
+ I can connect with more people in a way that is helpful.
+
+1:56:23.980 --> 1:56:26.980
+ And so I think it's the learning that happens
+
+1:56:26.980 --> 1:56:29.500
+ in that state that actually matters.
+
+1:56:29.500 --> 1:56:31.740
+ And as you described that, that sounds a lot like
+
+1:56:31.740 --> 1:56:33.580
+ what I understand to be the hallmark feature
+
+1:56:33.580 --> 1:56:35.260
+ of really good psychoanalysis,
+
+1:56:35.260 --> 1:56:38.620
+ that the relationship between patient and therapist
+
+1:56:38.620 --> 1:56:43.140
+ hopefully evolves to the point where these kinds of tests
+
+1:56:43.140 --> 1:56:45.820
+ can be run within the context of that relationship
+
+1:56:45.820 --> 1:56:47.860
+ and then exported to other relationships.
+
+1:56:47.860 --> 1:56:48.700
+ Is that-
+
+1:56:48.700 --> 1:56:49.520
+ Exactly right, yeah.
+
+1:56:49.520 --> 1:56:51.260
+ And that probably, I'm assuming,
+
+1:56:51.260 --> 1:56:53.840
+ is still the goal of really good psychiatry also.
+
+1:56:53.840 --> 1:56:55.180
+ It's a part of-
+
+1:56:55.180 --> 1:56:56.700
+ Intimacy, really.
+
+1:56:56.700 --> 1:56:59.820
+ It should be, when we have time,
+
+1:56:59.820 --> 1:57:02.320
+ I think all good psychiatrists try to achieve
+
+1:57:02.320 --> 1:57:05.600
+ that level of connection and learning,
+
+1:57:05.600 --> 1:57:10.600
+ try to help patients create a new model that is stable,
+
+1:57:11.280 --> 1:57:12.120
+ that is learned,
+
+1:57:12.120 --> 1:57:16.140
+ and that can help instruct future behavior.
+
+1:57:16.140 --> 1:57:19.600
+ One of the things that I took from reading your book,
+
+1:57:19.600 --> 1:57:22.140
+ in addition to learning so much science
+
+1:57:22.140 --> 1:57:24.520
+ and the future of psychiatry and brain science,
+
+1:57:24.520 --> 1:57:28.980
+ was amidst these, in many cases,
+
+1:57:28.980 --> 1:57:31.500
+ very tragic cases and sadness,
+
+1:57:31.500 --> 1:57:35.180
+ and a lot of the weight that that puts on the clinician,
+
+1:57:35.180 --> 1:57:36.800
+ on you also,
+
+1:57:36.800 --> 1:57:41.580
+ that there's a central cord of optimism,
+
+1:57:41.580 --> 1:57:45.860
+ that where we're headed is not just possible,
+
+1:57:45.860 --> 1:57:48.880
+ but very likely and better.
+
+1:57:48.880 --> 1:57:53.260
+ And, you know, are you an optimist?
+
+1:57:53.260 --> 1:57:54.100
+ I am.
+
+1:57:54.100 --> 1:57:54.940
+ And this is, by the way,
+
+1:57:54.940 --> 1:57:56.560
+ this was a really interesting experience
+
+1:57:56.560 --> 1:58:00.820
+ in writing projections because I had a dual goal.
+
+1:58:00.820 --> 1:58:02.740
+ I wanted it to be for everybody,
+
+1:58:02.740 --> 1:58:07.740
+ literally everybody in the world who wants to read it.
+
+1:58:08.380 --> 1:58:09.900
+ And yet at the same time,
+
+1:58:09.900 --> 1:58:14.900
+ I wanted to stay absolutely rigorously close to the science,
+
+1:58:16.600 --> 1:58:17.860
+ what was actually known.
+
+1:58:18.860 --> 1:58:20.720
+ When I was speaking about science,
+
+1:58:20.720 --> 1:58:24.260
+ when I was speaking about the neurobiology of the brain
+
+1:58:24.260 --> 1:58:25.300
+ or psychiatry,
+
+1:58:25.300 --> 1:58:30.300
+ I wanted to not have any of my scientific colleagues think,
+
+1:58:30.400 --> 1:58:32.300
+ oh, he's going too far.
+
+1:58:32.300 --> 1:58:33.140
+ He's saying too much.
+
+1:58:33.140 --> 1:58:34.940
+ And so I had these two goals,
+
+1:58:34.940 --> 1:58:37.060
+ which I kept in my mind the entire time.
+
+1:58:37.060 --> 1:58:38.020
+ And a lot of this,
+
+1:58:38.020 --> 1:58:40.340
+ trying to find exactly the right word we talked about
+
+1:58:40.340 --> 1:58:44.500
+ was on this path of staying excruciatingly rigorous
+
+1:58:44.500 --> 1:58:45.340
+ in the science,
+
+1:58:45.340 --> 1:58:49.700
+ and yet letting people see the hope where things were,
+
+1:58:49.700 --> 1:58:52.100
+ have everybody see that we've come a long way.
+
+1:58:52.100 --> 1:58:54.180
+ We have a long way to go,
+
+1:58:54.180 --> 1:58:58.380
+ but the trajectory and the path is beautiful.
+
+1:58:58.380 --> 1:59:01.140
+ And so that was the goal.
+
+1:59:01.140 --> 1:59:06.140
+ I think, of course, that sounds almost impossible
+
+1:59:06.480 --> 1:59:10.620
+ to jointly satisfy those two goals,
+
+1:59:10.620 --> 1:59:12.920
+ but I kept that in my mind the whole way through.
+
+1:59:12.920 --> 1:59:14.500
+ And yes, I am optimistic.
+
+1:59:14.500 --> 1:59:16.300
+ And I hope that came through in the book.
+
+1:59:16.300 --> 1:59:17.300
+ But it certainly did.
+
+1:59:17.300 --> 1:59:18.900
+ And at least from this colleague,
+
+1:59:20.260 --> 1:59:22.660
+ you did achieve both.
+
+1:59:22.660 --> 1:59:24.580
+ And it's a wonderful,
+
+1:59:24.580 --> 1:59:26.480
+ it's a masterful book really.
+
+1:59:26.480 --> 1:59:28.340
+ And one that as a scientist
+
+1:59:28.340 --> 1:59:32.580
+ and somebody who is a fellow brain explorer
+
+1:59:32.580 --> 1:59:36.460
+ hits all the marks of rigor and is incredibly interesting.
+
+1:59:36.460 --> 1:59:37.820
+ And there's a ton of storytelling.
+
+1:59:37.820 --> 1:59:39.280
+ I don't want to give away too much about it,
+
+1:59:39.280 --> 1:59:41.620
+ but people should definitely check out the book.
+
+1:59:42.620 --> 1:59:44.220
+ Are you active on social media
+
+1:59:44.220 --> 1:59:45.780
+ if people want to follow you
+
+1:59:45.780 --> 1:59:48.620
+ and connect with what you're doing now and going forward?
+
+1:59:48.620 --> 1:59:50.140
+ Yeah, I have a Twitter.
+
+1:59:50.140 --> 1:59:54.180
+ That's where I mainly do exchange,
+
+1:59:54.180 --> 1:59:56.300
+ tell people about things that are happening.
+
+1:59:56.300 --> 1:59:57.220
+ We'll provide a link to it,
+
+1:59:57.220 --> 1:59:59.300
+ but that's Karl Deisseroth as I recall with a K.
+
+1:59:59.300 --> 2:00:00.260
+ That's right. Yeah.
+
+2:00:00.260 --> 2:00:01.100
+ That's right.
+
+2:00:01.100 --> 2:00:04.460
+ And so you're on Twitter and people will hear this.
+
+2:00:04.460 --> 2:00:06.580
+ Definitely check out the book.
+
+2:00:07.580 --> 2:00:09.060
+ There are other people in our community
+
+2:00:09.060 --> 2:00:13.220
+ that of course are going to be reaching out on your behalf,
+
+2:00:13.220 --> 2:00:15.880
+ but it's incredible that you juggle
+
+2:00:15.880 --> 2:00:17.780
+ this enormous number of things.
+
+2:00:19.100 --> 2:00:22.060
+ Perhaps even more important, however,
+
+2:00:22.060 --> 2:00:23.420
+ is that it's all in service
+
+2:00:23.420 --> 2:00:25.860
+ to this larger thing of relieving suffering.
+
+2:00:25.860 --> 2:00:28.320
+ So thank you so much for your time today,
+
+2:00:28.320 --> 2:00:30.560
+ for the book and the work that went into the book,
+
+2:00:30.560 --> 2:00:31.780
+ I can't even imagine,
+
+2:00:31.780 --> 2:00:33.880
+ for the laboratory work and the development channel ops
+
+2:00:33.880 --> 2:00:35.740
+ and clarity and all the related technologies
+
+2:00:35.740 --> 2:00:37.700
+ and for the clinical work you're doing
+
+2:00:37.700 --> 2:00:39.060
+ and for sharing with us.
+
+2:00:39.060 --> 2:00:41.620
+ Well, thank you for all you're doing and reaching out.
+
+2:00:41.620 --> 2:00:43.740
+ I'm very impressed by it.
+
+2:00:43.740 --> 2:00:46.260
+ It's important and it's so valuable.
+
+2:00:46.260 --> 2:00:47.400
+ And thank you for taking the time
+
+2:00:47.400 --> 2:00:49.780
+ and for all your gracious words about the book.
+
+2:00:49.780 --> 2:00:51.340
+ Thank you.
+
+2:00:51.340 --> 2:00:52.860
+ I hope you enjoyed today's discussion
+
+2:00:52.860 --> 2:00:55.060
+ with Dr. Deisseroth as much as I did.
+
+2:00:55.060 --> 2:00:56.460
+ Be sure to check out his new book,
+
+2:00:56.460 --> 2:00:58.780
+ Projections, A Story of Human Emotions.
+
+2:00:58.780 --> 2:01:00.900
+ It's available on Amazon, Audible
+
+2:01:00.900 --> 2:01:03.780
+ and all the other standard places where books are found.
+
+2:01:03.780 --> 2:01:05.560
+ If you'd like to support this podcast,
+
+2:01:05.560 --> 2:01:07.700
+ please subscribe to us on YouTube.
+
+2:01:07.700 --> 2:01:11.180
+ As well, you can subscribe to us on Apple or Spotify.
+
+2:01:11.180 --> 2:01:12.940
+ At Apple, you also have the opportunity
+
+2:01:12.940 --> 2:01:16.480
+ to leave us a five-star review and to give us feedback.
+
+2:01:16.480 --> 2:01:17.860
+ Please put any questions you have
+
+2:01:17.860 --> 2:01:20.380
+ in the comment section below the YouTube video
+
+2:01:20.380 --> 2:01:22.220
+ if you'd like us to address certain things
+
+2:01:22.220 --> 2:01:23.340
+ in future episodes,
+
+2:01:23.340 --> 2:01:26.380
+ or if you have questions about this particular episode.
+
+2:01:26.380 --> 2:01:28.560
+ In addition, please check out our sponsors.
+
+2:01:28.560 --> 2:01:30.520
+ That's a terrific way to support us.
+
+2:01:30.520 --> 2:01:31.940
+ We also have a Patreon.
+
+2:01:31.940 --> 2:01:35.060
+ It's patreon.com slash Andrew Huberman.
+
+2:01:35.060 --> 2:01:38.120
+ There you can support us at any level that you like.
+
+2:01:38.120 --> 2:01:39.820
+ Last but not least, if you're interested
+
+2:01:39.820 --> 2:01:41.780
+ in understanding more about how the brain works
+
+2:01:41.780 --> 2:01:43.840
+ and how it functions and how it breaks down
+
+2:01:43.840 --> 2:01:45.100
+ in various conditions,
+
+2:01:45.100 --> 2:01:48.340
+ check out the first episode of the Huberman Lab Podcast.
+
+2:01:48.340 --> 2:01:49.620
+ The title of that episode
+
+2:01:49.620 --> 2:01:52.420
+ is How Your Nervous System Works and Changes.
+
+2:01:52.420 --> 2:01:54.240
+ If you're watching this right now on YouTube,
+
+2:01:54.240 --> 2:01:57.340
+ you can simply click on the title card for that episode.
+
+2:01:57.340 --> 2:01:59.060
+ And last but not least,
+
+2:01:59.060 --> 2:02:00.900
+ thank you for your interest in science.
+
+2:02:00.900 --> 2:02:27.900
+ I'll see you in the next one.
+

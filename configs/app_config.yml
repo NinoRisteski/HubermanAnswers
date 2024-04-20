@@ -20,7 +20,7 @@ llm_config:
     # User question:\n
     New question
     "
-    engine: "gpt-35-turbo"
+    engine: "gpt-3.5-turbo"
     temperature: 0.0
     max_token: 3000
 

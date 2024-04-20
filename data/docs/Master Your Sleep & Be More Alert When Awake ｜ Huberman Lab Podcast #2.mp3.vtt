@@ -1,0 +1,5960 @@
+WEBVTT
+
+00:00.000 --> 00:02.260
+ Welcome to the Huberman Lab Podcast,
+
+00:02.260 --> 00:04.900
+ where we discuss science and science-based tools
+
+00:04.900 --> 00:05.920
+ for everyday life.
+
+00:09.500 --> 00:12.260
+ I'm Andrew Huberman, and I'm a professor of neurobiology
+
+00:12.260 --> 00:15.700
+ and ophthalmology at Stanford School of Medicine.
+
+00:15.700 --> 00:19.060
+ Today's podcast episode is all about sleep.
+
+00:19.060 --> 00:22.020
+ We're also going to talk about the mirror image of sleep,
+
+00:22.020 --> 00:23.820
+ which is wakefulness.
+
+00:23.820 --> 00:27.180
+ Now, these two phases of our life, sleep and wakefulness,
+
+00:27.180 --> 00:31.580
+ govern everything about our mental and physical health.
+
+00:31.580 --> 00:33.160
+ And we're not just gonna talk about
+
+00:33.160 --> 00:35.140
+ what's useful about sleep.
+
+00:35.140 --> 00:38.100
+ We're also gonna talk about how to get better at sleeping.
+
+00:38.100 --> 00:40.840
+ And that will include how to get better at falling asleep,
+
+00:40.840 --> 00:44.920
+ timing your sleep, and accessing better sleep quality.
+
+00:44.920 --> 00:46.620
+ In doing so, we're also gonna discuss
+
+00:46.620 --> 00:50.780
+ how to get more focused and alert in wakefulness.
+
+00:50.780 --> 00:52.620
+ So because sleep and wakefulness are related,
+
+00:52.620 --> 00:53.960
+ we really can't have a conversation
+
+00:53.960 --> 00:56.060
+ about one without the other.
+
+00:56.060 --> 00:57.700
+ Now, in keeping with this theme,
+
+00:57.700 --> 01:01.020
+ you may catch a few snores in the background.
+
+01:01.020 --> 01:02.980
+ Unlike me, my bulldog Costello
+
+01:02.980 --> 01:04.900
+ can fall asleep anywhere, anytime,
+
+01:04.900 --> 01:07.180
+ and he happens to be sleeping over there in the corner.
+
+01:07.180 --> 01:10.320
+ So if you hear snoring, that's what that's about.
+
+01:10.320 --> 01:12.700
+ As always, I wanna just mention that this podcast
+
+01:12.700 --> 01:15.460
+ is part of my effort to bring zero cost to consumer,
+
+01:15.460 --> 01:19.260
+ public education about science and science-related tools.
+
+01:19.260 --> 01:21.820
+ It is unrelated to my teaching and research roles
+
+01:21.820 --> 01:23.180
+ at Stanford School of Medicine.
+
+01:23.180 --> 01:26.260
+ Today's podcast is brought to us by Helix Mattresses.
+
+01:26.260 --> 01:28.240
+ Having the proper sleep environment,
+
+01:28.240 --> 01:29.980
+ both the environment you're sleeping in
+
+01:29.980 --> 01:31.820
+ and the object you're sleeping on,
+
+01:31.820 --> 01:34.660
+ is critically important to getting a good night's sleep.
+
+01:34.660 --> 01:37.120
+ Helix Mattresses are a little different than most
+
+01:37.120 --> 01:40.020
+ because they're matched to your specific sleep needs,
+
+01:40.020 --> 01:43.320
+ as well as whether or not you tend to run hot or cold
+
+01:43.320 --> 01:44.620
+ as you sleep through the night,
+
+01:44.620 --> 01:46.860
+ what position you sleep in, and so forth.
+
+01:46.860 --> 01:48.480
+ So if you go to their website,
+
+01:48.480 --> 01:49.780
+ they have a quiz that you can take
+
+01:49.780 --> 01:51.720
+ that matches you to the particular mattress
+
+01:51.720 --> 01:54.100
+ that's gonna be best for your sleep needs.
+
+01:54.100 --> 01:55.900
+ I've always had a lot of trouble sleeping.
+
+01:55.900 --> 01:57.660
+ I'm one of these people that can fall asleep easily,
+
+01:57.660 --> 01:59.500
+ but then I wake up and I have a hard time
+
+01:59.500 --> 02:00.740
+ getting back to sleep.
+
+02:00.740 --> 02:02.840
+ And once I switched to a Helix Mattress
+
+02:02.840 --> 02:05.400
+ that was precisely matched to my sleep needs,
+
+02:05.400 --> 02:06.740
+ I found I could sleep through the night,
+
+02:06.740 --> 02:09.020
+ which has made a tremendous difference for me.
+
+02:09.020 --> 02:10.660
+ If you wanna try Helix Mattresses,
+
+02:10.660 --> 02:14.380
+ you can go to helixsleep.com slash Huberman,
+
+02:14.380 --> 02:17.460
+ and that will give you up to $200 off on a mattress order,
+
+02:17.460 --> 02:20.740
+ as well as two pillows free with your mattress order.
+
+02:20.740 --> 02:22.620
+ And of course, having the proper pillows
+
+02:22.620 --> 02:25.780
+ is just as important as having the proper mattress.
+
+02:25.780 --> 02:28.880
+ Today's podcast is also brought to us by Headspace.
+
+02:28.880 --> 02:30.580
+ Headspace is a meditation app
+
+02:30.580 --> 02:32.860
+ that teaches you how to meditate.
+
+02:32.860 --> 02:35.500
+ It's fair to say that now there's a ton of research out
+
+02:35.500 --> 02:37.320
+ there in peer-reviewed journals,
+
+02:37.320 --> 02:39.560
+ supporting the fact that mindfulness meditation
+
+02:39.560 --> 02:42.600
+ can support mental and physical health.
+
+02:42.600 --> 02:44.620
+ But many people find it hard to meditate.
+
+02:44.620 --> 02:46.260
+ In fact, I'm one of these people.
+
+02:46.260 --> 02:47.740
+ I started meditating in my teens,
+
+02:47.740 --> 02:49.980
+ but then I would drop it every few weeks or so,
+
+02:49.980 --> 02:52.300
+ and then I'd get back to it maybe the following week
+
+02:52.300 --> 02:53.160
+ or every year.
+
+02:53.160 --> 02:56.900
+ I just was not very regular about my meditation practice.
+
+02:56.900 --> 02:59.540
+ And then a few years ago, I was flying a lot for work
+
+02:59.540 --> 03:01.020
+ and I was on JetBlue flights,
+
+03:01.020 --> 03:04.380
+ and they have Headspace as part of the choice of things
+
+03:04.380 --> 03:06.100
+ that you can watch on the TV screen.
+
+03:06.100 --> 03:07.780
+ And as I started meditating more regularly,
+
+03:07.780 --> 03:09.860
+ what I found is my sleep was better,
+
+03:09.860 --> 03:11.980
+ I would arrive feeling more rested.
+
+03:11.980 --> 03:14.940
+ It just had tremendous effects on my work performance
+
+03:14.940 --> 03:17.020
+ and other aspects of my life.
+
+03:17.020 --> 03:20.400
+ If you wanna try Headspace, you can go to headspace.com
+
+03:20.400 --> 03:22.100
+ slash special offer.
+
+03:22.100 --> 03:24.300
+ If you do that, you'll get one month
+
+03:24.300 --> 03:27.100
+ of all of Headspace's meditations for free.
+
+03:27.100 --> 03:28.760
+ That's the best offer right now.
+
+03:28.760 --> 03:32.360
+ So if interested, go to headspace.com slash special offer.
+
+03:33.360 --> 03:35.180
+ So let's talk about sleep.
+
+03:35.180 --> 03:37.980
+ Sleep is this incredible period of our lives
+
+03:37.980 --> 03:40.320
+ where we are not conscious.
+
+03:40.320 --> 03:44.460
+ We might dream, we might twitch, we might even wake up,
+
+03:44.460 --> 03:47.180
+ but in sleep, we are only in relation
+
+03:47.180 --> 03:49.860
+ to things that are happening within our brain and body.
+
+03:49.860 --> 03:52.860
+ Outside sensory experience, in most cases,
+
+03:52.860 --> 03:54.820
+ can't really impact us.
+
+03:54.820 --> 03:58.100
+ And yet sleep is this tremendously important period of life
+
+03:58.100 --> 04:02.620
+ because it resets our ability to be focused, alert,
+
+04:02.620 --> 04:06.200
+ and emotionally stable in the wakeful period.
+
+04:06.200 --> 04:09.500
+ So we can't really talk about wakefulness, focus,
+
+04:09.500 --> 04:14.140
+ motivation, mood, wellbeing without thinking about sleep.
+
+04:14.140 --> 04:16.140
+ And that's why we're devoting this entire month
+
+04:16.140 --> 04:18.220
+ to the discussion about sleep.
+
+04:18.220 --> 04:20.700
+ But we also can't talk about sleep and think about sleep
+
+04:20.700 --> 04:22.340
+ without thinking about wakefulness,
+
+04:22.340 --> 04:26.100
+ because it turns out that the period that we call sleep
+
+04:26.100 --> 04:27.740
+ and the period we call wakefulness
+
+04:27.740 --> 04:29.660
+ are tethered to one another.
+
+04:29.660 --> 04:32.420
+ What we do in the waking state determines
+
+04:32.420 --> 04:35.880
+ when we fall asleep, how quickly we fall asleep,
+
+04:35.880 --> 04:37.820
+ whether or not we stay asleep,
+
+04:37.820 --> 04:40.500
+ and how we feel when we wake up the next day.
+
+04:40.500 --> 04:43.140
+ And today, we're gonna talk mostly
+
+04:43.140 --> 04:45.820
+ about how to get better at sleeping.
+
+04:45.820 --> 04:48.420
+ And the reason for starting the conversation that way,
+
+04:48.420 --> 04:52.460
+ as opposed to just diving into a lot of biology about sleep,
+
+04:52.460 --> 04:55.340
+ is because first of all, there's a lot of information
+
+04:55.340 --> 04:58.340
+ out there already about the biology of sleep.
+
+04:58.340 --> 04:59.740
+ We're gonna touch on a little bit of this,
+
+04:59.740 --> 05:02.740
+ things like stages of sleep and sleep spindles,
+
+05:02.740 --> 05:05.380
+ melatonin, and dreaming.
+
+05:05.380 --> 05:09.440
+ But I think that by now, most people are aware
+
+05:09.440 --> 05:11.360
+ that getting a really good night's sleep
+
+05:11.360 --> 05:14.540
+ on a consistent basis is critically important.
+
+05:14.540 --> 05:17.060
+ But most people don't know how to do that.
+
+05:17.060 --> 05:20.340
+ In fact, I'm guessing that very few of you out there
+
+05:20.340 --> 05:23.320
+ are consistently getting seven to nine hours
+
+05:23.320 --> 05:26.260
+ of really terrific sleep, waking up feeling rested,
+
+05:26.260 --> 05:27.900
+ like you're ready to attack the day,
+
+05:27.900 --> 05:30.100
+ and being able to go through the day feeling focused
+
+05:30.100 --> 05:33.560
+ and alert without dips in energy or focus.
+
+05:33.560 --> 05:36.880
+ So if you're like most people, which includes me,
+
+05:36.880 --> 05:38.740
+ you have some challenges with sleep,
+
+05:38.740 --> 05:41.080
+ at least every third or fifth night or so,
+
+05:41.080 --> 05:42.680
+ and maybe even more often.
+
+05:42.680 --> 05:44.540
+ So we're really gonna go tool heavy today
+
+05:44.540 --> 05:48.000
+ and talk about tools that can help you fall asleep,
+
+05:48.000 --> 05:51.660
+ sleep better, and emerge from sleep feeling more rested.
+
+05:51.660 --> 05:54.300
+ And we're gonna do that by grounding our discussion
+
+05:54.300 --> 05:57.400
+ of tools in peer-reviewed studies,
+
+05:57.400 --> 05:59.300
+ mostly from the last 10 years,
+
+05:59.300 --> 06:01.500
+ although some even more recent than that.
+
+06:01.500 --> 06:05.080
+ And we're gonna start by discussing what is sleep
+
+06:05.080 --> 06:08.500
+ and what governs the timing of the onset of sleep.
+
+06:08.500 --> 06:10.540
+ In other words, what makes you get sleepy
+
+06:10.540 --> 06:12.500
+ at a particular time of day.
+
+06:12.500 --> 06:15.060
+ So what determines how well we sleep
+
+06:15.060 --> 06:18.180
+ and the quality of our wakeful state?
+
+06:18.180 --> 06:20.680
+ Turns out that's governed by two forces.
+
+06:20.680 --> 06:23.340
+ The first force is a chemical force.
+
+06:23.340 --> 06:25.580
+ It's called adenosine.
+
+06:25.580 --> 06:28.860
+ Adenosine is a molecule in our nervous system and body
+
+06:28.860 --> 06:31.740
+ that builds up the longer we are awake.
+
+06:31.740 --> 06:35.020
+ So if you've just slept for eight or nine or 10
+
+06:35.020 --> 06:37.420
+ really deep restful hours,
+
+06:37.420 --> 06:40.860
+ adenosine is gonna be very low in your brain and body.
+
+06:40.860 --> 06:44.940
+ If however you've been awake for 10, 15 or more hours,
+
+06:44.940 --> 06:47.700
+ adenosine levels are going to be much higher.
+
+06:47.700 --> 06:52.460
+ Adenosine creates a sort of sleep drive or a sleep hunger.
+
+06:52.460 --> 06:54.980
+ And actually hunger is the appropriate word here
+
+06:54.980 --> 06:57.860
+ because for most of what we're gonna discuss today,
+
+06:57.860 --> 07:01.380
+ we can think of it in an analogous way to nutrition.
+
+07:01.380 --> 07:04.340
+ Your nutrition and how well you feel
+
+07:04.340 --> 07:06.340
+ after you eat certain foods,
+
+07:06.340 --> 07:09.740
+ your overall level of fitness and your cellular health
+
+07:09.740 --> 07:13.100
+ and your heart health isn't governed by any one food item
+
+07:13.100 --> 07:14.600
+ that you might eat or not eat.
+
+07:14.600 --> 07:16.400
+ It's governed by a number of different factors.
+
+07:16.400 --> 07:18.400
+ How often you eat, how much you eat,
+
+07:18.400 --> 07:20.380
+ which items you eat, et cetera,
+
+07:20.380 --> 07:22.420
+ and what works best for you.
+
+07:22.420 --> 07:26.140
+ In the same way, your sleep and your wakefulness
+
+07:26.140 --> 07:28.860
+ are the product of kind of the average
+
+07:28.860 --> 07:30.700
+ of a number of different behaviors.
+
+07:30.700 --> 07:32.720
+ How long you've been awake is a key one
+
+07:32.720 --> 07:35.300
+ because of this molecule adenosine.
+
+07:35.300 --> 07:36.980
+ So the reason you get sleepy
+
+07:36.980 --> 07:37.940
+ when you've been up for a while
+
+07:37.940 --> 07:40.820
+ is because adenosine is creeping up steadily
+
+07:40.820 --> 07:42.620
+ the longer you've been awake.
+
+07:42.620 --> 07:45.900
+ And a good way to remember this and think about adenosine
+
+07:45.900 --> 07:48.340
+ is to think about caffeine.
+
+07:48.340 --> 07:50.240
+ Caffeine for most people,
+
+07:50.240 --> 07:53.300
+ except a very small percentage of people, wakes them up.
+
+07:53.300 --> 07:55.040
+ It makes them feel more alert.
+
+07:55.040 --> 07:57.740
+ In fact, some people are so sensitive to caffeine
+
+07:57.740 --> 08:00.180
+ that they feel jittery if they drink it
+
+08:00.180 --> 08:01.620
+ even in small amounts.
+
+08:01.620 --> 08:03.780
+ Other people can drink large amounts of caffeine
+
+08:03.780 --> 08:05.740
+ and not feel jittery at all.
+
+08:06.660 --> 08:11.260
+ Caffeine acts as an adenosine antagonist.
+
+08:11.260 --> 08:14.220
+ What that means is that when you ingest caffeine,
+
+08:14.220 --> 08:16.400
+ whether or not it's coffee or soda or tea
+
+08:16.400 --> 08:20.720
+ or in any other form, it binds to the adenosine receptor.
+
+08:20.720 --> 08:21.780
+ It sort of parks there,
+
+08:21.780 --> 08:24.500
+ just like a car would park in a given parking slot,
+
+08:24.500 --> 08:27.920
+ and therefore adenosine can't park in that slot.
+
+08:27.920 --> 08:31.200
+ Now, when caffeine parks in the adenosine receptor slot,
+
+08:31.200 --> 08:35.100
+ nothing really happens downstream of that receptor.
+
+08:35.100 --> 08:37.940
+ The receptor can't engage the normal cellular functions
+
+08:37.940 --> 08:41.520
+ of making that cell and you feel sleepy.
+
+08:41.520 --> 08:44.340
+ So the reason caffeine wakes you up
+
+08:44.340 --> 08:48.080
+ is because it blocks the sleepiness receptor.
+
+08:48.080 --> 08:49.800
+ It blocks the sleepy signal.
+
+08:49.800 --> 08:52.520
+ And this is why when that caffeine wears off,
+
+08:52.520 --> 08:54.580
+ adenosine will bind to that receptor,
+
+08:54.580 --> 08:57.360
+ sometimes with even greater, what we call affinity,
+
+08:57.360 --> 09:01.060
+ and you feel the crash, you feel especially tired.
+
+09:01.060 --> 09:03.020
+ Now, I'm not here to demonize caffeine.
+
+09:03.020 --> 09:04.720
+ I love caffeine.
+
+09:04.720 --> 09:07.520
+ I drink it in the morning and I drink it in the afternoon.
+
+09:07.520 --> 09:08.560
+ But I'm one of these people
+
+09:08.560 --> 09:10.920
+ that either because of my tolerance
+
+09:10.920 --> 09:13.240
+ or because of some genetic variations
+
+09:13.240 --> 09:14.700
+ that exist among people
+
+09:14.700 --> 09:17.360
+ in terms of their adenosine receptors,
+
+09:17.360 --> 09:19.840
+ I can drink caffeine as late as four or 5 p.m.
+
+09:19.840 --> 09:22.700
+ in the evening and still fall asleep just fine.
+
+09:22.700 --> 09:25.360
+ Some people can't have any caffeine at all
+
+09:25.360 --> 09:27.720
+ or can't have any caffeine past 11 a.m.
+
+09:27.720 --> 09:30.000
+ or else their sleep is totally disrupted.
+
+09:30.000 --> 09:32.780
+ All of this has to do with the relationship
+
+09:32.780 --> 09:35.820
+ between adenosine and these adenosine receptors,
+
+09:35.820 --> 09:38.700
+ genetic variation, things that are very hard to find out
+
+09:38.700 --> 09:40.200
+ except experimentally,
+
+09:40.200 --> 09:42.120
+ meaning each of you needs to decide
+
+09:42.120 --> 09:43.820
+ and figure out for yourselves
+
+09:43.820 --> 09:45.640
+ whether or not you can tolerate caffeine
+
+09:45.640 --> 09:48.280
+ and at what times of day you can tolerate caffeine
+
+09:48.280 --> 09:52.280
+ in order to still fall asleep easily and get good sleep.
+
+09:52.280 --> 09:54.860
+ So rather than demonize caffeine,
+
+09:54.860 --> 09:58.760
+ or say that everyone can drink caffeine until late,
+
+09:58.760 --> 10:01.320
+ you need to figure out what's right for you.
+
+10:01.320 --> 10:04.160
+ Caffeine has a lot of health benefits.
+
+10:04.160 --> 10:07.280
+ It also, for some people, can be problematic for health.
+
+10:07.280 --> 10:09.400
+ It can raise blood pressure, et cetera.
+
+10:09.400 --> 10:11.680
+ Caffeine increases this molecule
+
+10:11.680 --> 10:14.240
+ that's a neuromodulator that we call dopamine.
+
+10:14.240 --> 10:16.160
+ We discussed this in episode one,
+
+10:16.160 --> 10:17.800
+ which tends to make us feel good,
+
+10:17.800 --> 10:20.200
+ motivated, and give us energy
+
+10:20.200 --> 10:23.360
+ because as you may have learned in episode one,
+
+10:23.360 --> 10:26.260
+ dopamine is related to another neuromodulator
+
+10:26.260 --> 10:28.380
+ called epinephrine, which gives us energy.
+
+10:28.380 --> 10:30.840
+ In fact, epinephrine is made from dopamine.
+
+10:30.840 --> 10:32.120
+ So let's just take a step back
+
+10:32.120 --> 10:33.840
+ and think about what we're talking about
+
+10:33.840 --> 10:35.640
+ when we're talking about sleepiness.
+
+10:35.640 --> 10:38.880
+ Sleepiness is driven by increases in adenosine
+
+10:38.880 --> 10:40.460
+ that happen naturally.
+
+10:41.840 --> 10:44.660
+ Caffeine prevents the adenosine
+
+10:44.660 --> 10:47.240
+ from having its action of making us sleepy
+
+10:47.240 --> 10:48.960
+ by blocking that receptor.
+
+10:48.960 --> 10:52.480
+ So it gives us energy and it increases our dopamine levels,
+
+10:52.480 --> 10:55.520
+ but some people can't tolerate caffeine very well.
+
+10:55.520 --> 10:57.640
+ Other people can tolerate it just fine.
+
+10:57.640 --> 11:00.280
+ So you need to determine that experimentally.
+
+11:00.280 --> 11:02.840
+ All the data say there's tremendous variation.
+
+11:02.840 --> 11:05.040
+ And right now, the only way that I'm aware of
+
+11:05.040 --> 11:06.660
+ for you to decide whether or not caffeine
+
+11:06.660 --> 11:08.800
+ is a good or a bad thing for you
+
+11:08.800 --> 11:10.560
+ and whether or not you should ingest it
+
+11:10.560 --> 11:13.000
+ at a given time of day or at all
+
+11:13.000 --> 11:14.700
+ is really to figure that out on your own.
+
+11:14.700 --> 11:16.800
+ In fact, there's a small subset of people
+
+11:16.800 --> 11:19.400
+ that can drink caffeine until very late
+
+11:19.400 --> 11:21.080
+ and they have no trouble falling asleep
+
+11:21.080 --> 11:23.380
+ because they actually have a mutant form
+
+11:23.380 --> 11:25.040
+ of the adenosine receptor.
+
+11:25.040 --> 11:26.920
+ So in keeping with the theme of science
+
+11:26.920 --> 11:28.520
+ and science-related tools,
+
+11:28.520 --> 11:30.680
+ this is one of those cases where I can't give you
+
+11:30.680 --> 11:32.920
+ a one-size-fits-all prescription,
+
+11:32.920 --> 11:35.660
+ except to say you need to experiment with caffeine
+
+11:35.660 --> 11:37.240
+ in a way that's safe for you
+
+11:37.240 --> 11:39.400
+ and explore that and figure out what works for you
+
+11:39.400 --> 11:41.160
+ and then stick with that.
+
+11:41.160 --> 11:44.520
+ Okay, so adenosine is driving the sleep hunger.
+
+11:44.520 --> 11:47.400
+ When adenosine is low, it's like we're well-fed,
+
+11:47.400 --> 11:48.560
+ we're not very hungry.
+
+11:48.560 --> 11:50.520
+ And when adenosine is high,
+
+11:50.520 --> 11:52.160
+ it's like we're fasted for a long time
+
+11:52.160 --> 11:53.840
+ and we tend to be very hungry.
+
+11:53.840 --> 11:57.520
+ So when adenosine is high, we really wanna fall asleep.
+
+11:57.520 --> 11:59.840
+ If you want, I'm not suggesting you do this experiment,
+
+11:59.840 --> 12:00.800
+ but you can do it,
+
+12:00.800 --> 12:03.320
+ you can stay up for four more hours
+
+12:03.320 --> 12:04.560
+ than you're used to staying up
+
+12:04.560 --> 12:07.200
+ and you'll find that you're very, very sleepy.
+
+12:07.200 --> 12:08.840
+ That's because adenosine is building up
+
+12:08.840 --> 12:10.580
+ at levels higher and higher
+
+12:10.580 --> 12:13.800
+ because you've been awake for those extra four hours.
+
+12:13.800 --> 12:16.280
+ However, if you've ever pulled an all-nighter,
+
+12:16.280 --> 12:18.160
+ you'll notice something interesting.
+
+12:18.160 --> 12:19.840
+ As morning rolls around,
+
+12:19.840 --> 12:22.160
+ you'll suddenly feel an increase in your energy
+
+12:22.160 --> 12:23.480
+ and alertness again.
+
+12:23.480 --> 12:26.260
+ Even though adenosine has been building up
+
+12:26.260 --> 12:28.560
+ for the entire night.
+
+12:28.560 --> 12:30.120
+ Why is that?
+
+12:30.120 --> 12:32.660
+ The reason that is, is because there's a second force
+
+12:32.660 --> 12:35.760
+ which is governing when you sleep and when you're awake.
+
+12:35.760 --> 12:39.700
+ And that force is a so-called circadian force.
+
+12:39.700 --> 12:44.400
+ Circadian means about a day or about 24 hours.
+
+12:44.400 --> 12:47.140
+ And inside all of us is a clock
+
+12:47.140 --> 12:49.560
+ that exists in your brain and my brain
+
+12:49.560 --> 12:52.880
+ and the brain of every animal that we're aware of,
+
+12:52.880 --> 12:55.920
+ that determines when we want to be sleepy
+
+12:55.920 --> 12:57.960
+ and when we want to be awake.
+
+12:57.960 --> 12:58.800
+ Just think about it.
+
+12:58.800 --> 12:59.780
+ We don't go through the day
+
+12:59.780 --> 13:01.920
+ wanting to fall asleep every 30 minutes
+
+13:01.920 --> 13:04.220
+ and then feeling like we're wide awake.
+
+13:04.220 --> 13:06.200
+ Our sleep and our period of sleepiness
+
+13:06.200 --> 13:09.660
+ tends to be condensed into one block.
+
+13:09.660 --> 13:12.140
+ Typically one six to 10 hour block.
+
+13:12.140 --> 13:13.800
+ Although there's also variation
+
+13:13.800 --> 13:15.840
+ in terms of how much people want to sleep.
+
+13:15.840 --> 13:17.020
+ And we're going to discuss
+
+13:17.020 --> 13:20.320
+ how you can diagnose your absolute sleep need
+
+13:20.320 --> 13:23.640
+ as well as how to recover sleep that you've lost.
+
+13:23.640 --> 13:26.520
+ That block of sleep and when it falls
+
+13:26.520 --> 13:28.640
+ within each 24 hour cycle
+
+13:28.640 --> 13:31.920
+ is governed by a number of different things.
+
+13:31.920 --> 13:33.680
+ But the most powerful thing that's governing
+
+13:33.680 --> 13:35.060
+ when you want to be asleep
+
+13:35.060 --> 13:38.800
+ and when you want to be awake is light.
+
+13:38.800 --> 13:41.400
+ And in particular, it's governed by sunlight.
+
+13:41.400 --> 13:43.840
+ Now I can't emphasize enough how important
+
+13:43.840 --> 13:46.720
+ and how actionable this relationship is
+
+13:46.720 --> 13:50.720
+ between light and when you want to sleep.
+
+13:50.720 --> 13:53.520
+ It's quite simple on the face of it.
+
+13:53.520 --> 13:55.040
+ And it's quite simple to resolve
+
+13:55.040 --> 13:56.900
+ but people tend to make a big mess
+
+13:56.900 --> 13:59.460
+ of this whole circadian literature, frankly.
+
+13:59.460 --> 14:02.240
+ So let's just break it down from the standpoint
+
+14:02.240 --> 14:05.160
+ of what's going on in your brain and body
+
+14:05.160 --> 14:08.360
+ as you go through one 24 hour day.
+
+14:08.360 --> 14:09.800
+ Let's start with waking.
+
+14:09.800 --> 14:11.920
+ So regardless of how well you slept at night
+
+14:11.920 --> 14:14.120
+ or whether or not you were up all night,
+
+14:14.120 --> 14:16.940
+ most people tend to wake up sometime
+
+14:16.940 --> 14:19.200
+ around when the sun rises.
+
+14:19.200 --> 14:20.580
+ Maybe not right at sunrise,
+
+14:20.580 --> 14:24.080
+ but within an hour or two or maybe three of sunrise.
+
+14:24.080 --> 14:25.900
+ And I realized there are night shift workers
+
+14:25.900 --> 14:28.740
+ and there are people traveling and experiencing jet lag
+
+14:28.740 --> 14:30.400
+ where this is not gonna be the case.
+
+14:30.400 --> 14:33.120
+ We are gonna deal with jet lag and shift work
+
+14:33.120 --> 14:35.040
+ at the end of this podcast.
+
+14:35.040 --> 14:36.840
+ But for most people, we tend to wake up
+
+14:36.840 --> 14:40.400
+ about the time that the sun is rising or so.
+
+14:40.400 --> 14:44.320
+ And as we do that, adenosine levels tend to be low
+
+14:44.320 --> 14:48.120
+ if we've been asleep for reasons that you now understand.
+
+14:48.120 --> 14:52.380
+ And our system generates an internal signal
+
+14:52.380 --> 14:54.400
+ that is in the form of a hormone.
+
+14:54.400 --> 14:56.520
+ Now I've talked a lot about neuromodulators
+
+14:56.520 --> 14:57.460
+ and neurotransmitters.
+
+14:57.460 --> 15:01.480
+ I haven't talked a lot about hormones yet on this podcast.
+
+15:01.480 --> 15:04.200
+ The definition of a hormone is it's a substance,
+
+15:04.200 --> 15:08.040
+ a chemical that's released from one organ in your body
+
+15:08.040 --> 15:11.760
+ that goes and acts on other organs elsewhere in your body,
+
+15:11.760 --> 15:13.980
+ including your nervous system.
+
+15:13.980 --> 15:15.700
+ When you wake up in the morning,
+
+15:15.700 --> 15:19.360
+ you wake up because a particular hormone called cortisol
+
+15:19.360 --> 15:21.640
+ is released from your adrenal glands.
+
+15:21.640 --> 15:23.780
+ Your adrenal glands sit right above your kidneys
+
+15:23.780 --> 15:26.000
+ and there's a little pulse of cortisol.
+
+15:26.000 --> 15:29.120
+ There's also a pulse of some, and when I say a pulse,
+
+15:29.120 --> 15:31.400
+ I just mean that the release of a little bit.
+
+15:31.400 --> 15:34.360
+ There's also a pulse of epinephrine,
+
+15:34.360 --> 15:37.280
+ which is adrenaline from your adrenals
+
+15:37.280 --> 15:40.600
+ and also in your brain, and you feel awake.
+
+15:40.600 --> 15:43.320
+ Now that pulse of cortisol and adrenaline
+
+15:43.320 --> 15:45.520
+ and epinephrine might come from your alarm clock.
+
+15:45.520 --> 15:48.160
+ It might come from you naturally waking up,
+
+15:48.160 --> 15:51.440
+ but it tends to alert your whole system in your body
+
+15:51.440 --> 15:53.040
+ that it's time to increase your heart rate.
+
+15:53.040 --> 15:54.560
+ It's time to start tensing your muscles.
+
+15:54.560 --> 15:56.960
+ It's time to start moving about.
+
+15:56.960 --> 16:00.040
+ It's very important that that cortisol pulse
+
+16:00.040 --> 16:02.120
+ come early in the day,
+
+16:02.120 --> 16:04.880
+ or at least early in your period of wakefulness.
+
+16:04.880 --> 16:07.720
+ I say that because some people are waking up at 8 p.m.
+
+16:07.720 --> 16:09.200
+ and are sleeping all day,
+
+16:09.200 --> 16:11.400
+ but it's very important that that pulse of cortisol
+
+16:11.400 --> 16:16.120
+ occur early in the day and that it happens all at once.
+
+16:16.120 --> 16:20.100
+ It sort of sets a rising tide of cortisol in your system.
+
+16:20.100 --> 16:22.460
+ Now, many of you have probably heard about cortisol
+
+16:22.460 --> 16:23.880
+ in relation to stress,
+
+16:23.880 --> 16:26.840
+ and indeed, as we go through our day and our life,
+
+16:26.840 --> 16:30.120
+ different stressors, different events happen in our life
+
+16:30.120 --> 16:32.160
+ that make us feel more alert.
+
+16:32.160 --> 16:33.440
+ Some of the more stressful ones
+
+16:33.440 --> 16:35.440
+ might be looking at your credit card bill
+
+16:35.440 --> 16:38.680
+ and seeing what seems to be a fraudulent charge,
+
+16:38.680 --> 16:41.380
+ or looking at your phone and suddenly seeing a text
+
+16:41.380 --> 16:42.760
+ that something you thought was gonna happen
+
+16:42.760 --> 16:44.320
+ at a particular time is not gonna happen,
+
+16:44.320 --> 16:45.580
+ or you're running late.
+
+16:45.580 --> 16:48.960
+ Those will tend to increase norepinephrine and epinephrine,
+
+16:48.960 --> 16:50.920
+ an adrenaline in your system.
+
+16:50.920 --> 16:52.500
+ And if they're severe enough,
+
+16:52.500 --> 16:55.000
+ you'll start getting some pulses of cortisol
+
+16:55.000 --> 16:57.400
+ released from your adrenals throughout the day.
+
+16:57.400 --> 17:01.240
+ But there's this normal, healthy, rising tide of cortisol
+
+17:01.240 --> 17:02.600
+ that happens early in the day.
+
+17:02.600 --> 17:04.880
+ And I say healthy because it wakes you up.
+
+17:04.880 --> 17:05.880
+ It makes you feel alert.
+
+17:05.880 --> 17:08.760
+ It makes you feel able to move and wanting to move
+
+17:08.760 --> 17:11.400
+ and to go out about your day for work, for exercise,
+
+17:11.400 --> 17:14.680
+ for school, for social relations, et cetera.
+
+17:14.680 --> 17:16.600
+ So when you wake up in the morning
+
+17:16.600 --> 17:19.720
+ is when that cortisol pulse takes off
+
+17:19.720 --> 17:21.980
+ and something else important happens.
+
+17:21.980 --> 17:25.840
+ A timer is set in your body and in your nervous system
+
+17:25.840 --> 17:29.840
+ that dictates when a different hormone called melatonin,
+
+17:29.840 --> 17:33.180
+ which makes you sleepy, will be secreted
+
+17:33.180 --> 17:34.700
+ from a particular brain region.
+
+17:34.700 --> 17:36.680
+ So let's talk about that.
+
+17:36.680 --> 17:37.800
+ When you wake up in the morning
+
+17:37.800 --> 17:40.980
+ and you experience that rise in cortisol,
+
+17:40.980 --> 17:43.560
+ there's a timer that starts going,
+
+17:43.560 --> 17:45.040
+ and these are cellular timers,
+
+17:45.040 --> 17:46.740
+ and they're dictated by the relation
+
+17:46.740 --> 17:48.620
+ between different organs in your body
+
+17:48.620 --> 17:51.200
+ that says to your brain and body
+
+17:51.200 --> 17:55.400
+ that in about 12 to 14 hours, a different hormone,
+
+17:55.400 --> 17:57.320
+ this hormone we're calling melatonin,
+
+17:57.320 --> 18:00.280
+ will be released from your pineal gland.
+
+18:00.280 --> 18:01.680
+ So there's two mechanisms here,
+
+18:01.680 --> 18:04.400
+ a wakefulness signal and a sleepiness signal.
+
+18:04.400 --> 18:08.200
+ And the wakefulness signal triggers the onset of the timer
+
+18:08.200 --> 18:10.280
+ for the sleepiness signal.
+
+18:10.280 --> 18:12.560
+ Now that sleepiness signal that we call melatonin
+
+18:12.560 --> 18:16.920
+ that's released from the pineal comes only from the pineal.
+
+18:16.920 --> 18:19.120
+ Unless you're taking exogenous melatonin,
+
+18:19.120 --> 18:21.120
+ you're supplementing with melatonin,
+
+18:21.120 --> 18:23.880
+ the only source of melatonin in your body
+
+18:23.880 --> 18:25.880
+ is going to be this pineal gland.
+
+18:25.880 --> 18:28.480
+ So let's talk about the pineal gland for a second.
+
+18:28.480 --> 18:31.920
+ The pineal gland is a gland that sits
+
+18:31.920 --> 18:34.280
+ kind of in the little structure
+
+18:34.280 --> 18:36.460
+ near for the aficionados out there.
+
+18:36.460 --> 18:38.560
+ It's kind of near the fourth ventricle.
+
+18:38.560 --> 18:40.400
+ It's about the size of a pea.
+
+18:40.400 --> 18:42.400
+ Descartes, the philosopher,
+
+18:42.400 --> 18:45.280
+ said that the pineal was the seat of the soul.
+
+18:45.280 --> 18:48.120
+ He said that because it's one of the few structures
+
+18:48.120 --> 18:51.680
+ in the human brain that there's only one of them.
+
+18:51.680 --> 18:54.120
+ Most structures, there's one on either side of the brain,
+
+18:54.120 --> 18:55.440
+ so-called bihemispheric,
+
+18:55.440 --> 18:57.400
+ but the pineal, there's only one.
+
+18:57.400 --> 19:00.080
+ I don't know anything about souls, really.
+
+19:00.080 --> 19:01.800
+ Certainly not the science of souls,
+
+19:01.800 --> 19:03.320
+ but I think it's very unlikely
+
+19:03.320 --> 19:05.840
+ that the pineal is the seat of the soul,
+
+19:05.840 --> 19:08.200
+ but it is a very interesting organ
+
+19:08.200 --> 19:10.520
+ because it's the only organ in our body
+
+19:10.520 --> 19:13.360
+ that releases melatonin.
+
+19:13.360 --> 19:18.160
+ And that melatonin makes us sleepy and lets us fall asleep.
+
+19:18.160 --> 19:21.360
+ Now I'm guessing that many of you are probably asking,
+
+19:21.360 --> 19:23.460
+ should I take melatonin?
+
+19:23.460 --> 19:28.460
+ My personal bias on this is, except in rare cases, no,
+
+19:28.520 --> 19:29.960
+ for the following reason.
+
+19:29.960 --> 19:32.200
+ Melatonin has a second function,
+
+19:32.200 --> 19:34.760
+ which is that melatonin also suppresses
+
+19:34.760 --> 19:36.900
+ the onset of puberty.
+
+19:36.900 --> 19:38.800
+ In kids, and especially in babies,
+
+19:38.800 --> 19:41.400
+ melatonin isn't just released in the evening,
+
+19:41.400 --> 19:44.200
+ 12 to 16 hours after we wake.
+
+19:44.200 --> 19:47.840
+ Melatonin is released chronically or tonically
+
+19:47.840 --> 19:49.600
+ throughout the day and night.
+
+19:49.600 --> 19:52.340
+ And that chronic or tonic release of melatonin
+
+19:52.340 --> 19:54.680
+ is known to suppress some of the other hormones
+
+19:54.680 --> 19:56.120
+ in other regions of the brain
+
+19:56.120 --> 19:58.240
+ that trigger the onset of puberty.
+
+19:58.240 --> 20:00.520
+ Now, if you or your child has been taking melatonin,
+
+20:00.520 --> 20:01.880
+ don't freak out.
+
+20:01.880 --> 20:04.720
+ As always, any kind of supplement
+
+20:04.720 --> 20:07.900
+ or anything that you're going to take or think about taking,
+
+20:07.900 --> 20:09.920
+ you really need to consult with your doctor.
+
+20:09.920 --> 20:11.800
+ I've said this many times on this podcast
+
+20:11.800 --> 20:13.640
+ and it's in the show notes, et cetera.
+
+20:13.640 --> 20:17.560
+ But before you remove anything or add anything
+
+20:17.560 --> 20:18.960
+ to what you're already doing,
+
+20:18.960 --> 20:21.460
+ please do consult with a healthcare professional.
+
+20:21.460 --> 20:26.460
+ However, melatonin is known to suppress the onset of puberty
+
+20:26.760 --> 20:31.000
+ so much so that regular cyclic cycled periods
+
+20:31.000 --> 20:33.040
+ of melatonin release from the pineal
+
+20:33.040 --> 20:35.260
+ really correlate with the onset of puberty
+
+20:35.260 --> 20:37.000
+ and early adulthood.
+
+20:37.000 --> 20:40.760
+ Meaning, as we start secreting melatonin only at night,
+
+20:40.760 --> 20:43.760
+ that's also when we tend to transition out of puberty.
+
+20:43.760 --> 20:45.160
+ Now, there are a lot of things that correlate
+
+20:45.160 --> 20:46.040
+ in our nervous system,
+
+20:46.040 --> 20:48.120
+ so it doesn't necessarily mean it controls it,
+
+20:48.120 --> 20:51.340
+ but in this case, we know based on lots of data
+
+20:51.340 --> 20:53.040
+ and endocrinology and so forth
+
+20:53.040 --> 20:56.160
+ that melatonin suppresses the onset of puberty.
+
+20:56.160 --> 20:58.760
+ So supplementing melatonin could be problematic
+
+20:58.760 --> 21:00.360
+ for that reason,
+
+21:00.360 --> 21:03.080
+ but if you've already gone through puberty,
+
+21:03.080 --> 21:05.400
+ it could also have some impact
+
+21:05.400 --> 21:07.500
+ on other hormone systems in your body.
+
+21:07.500 --> 21:10.720
+ So that's why I personally don't like to use melatonin
+
+21:10.720 --> 21:12.040
+ to fall asleep.
+
+21:12.040 --> 21:12.860
+ There's another reason,
+
+21:12.860 --> 21:14.840
+ which is that melatonin will help you fall asleep,
+
+21:14.840 --> 21:16.680
+ but it won't help you stay asleep.
+
+21:16.680 --> 21:19.420
+ And many people who take melatonin find that they wake up
+
+21:19.420 --> 21:22.760
+ three to five hours later, unable to fall back asleep.
+
+21:22.760 --> 21:25.140
+ Part of the reason for that might be
+
+21:25.140 --> 21:27.760
+ that melatonin purchased,
+
+21:27.760 --> 21:30.440
+ you can buy it over the counter in most areas of the world,
+
+21:30.440 --> 21:32.260
+ even though it's a hormone, which is a little unusual.
+
+21:32.260 --> 21:34.560
+ You can't just go into a pharmacy, at least in the US,
+
+21:34.560 --> 21:37.380
+ and buy testosterone or cortisol or estrogen.
+
+21:37.380 --> 21:38.360
+ You need a prescription,
+
+21:38.360 --> 21:40.540
+ but you can go buy melatonin for whatever reason.
+
+21:40.540 --> 21:44.720
+ I don't know the reasons for that legality,
+
+21:44.720 --> 21:46.900
+ but it's been shown many times,
+
+21:46.900 --> 21:49.400
+ and now I'm borrowing from some items
+
+21:49.400 --> 21:52.080
+ that were in Matt Walker's book, Why We Sleep,
+
+21:52.080 --> 21:54.760
+ where he stated there is evidence
+
+21:54.760 --> 21:57.200
+ that in commercially available melatonin,
+
+21:57.200 --> 22:01.560
+ the amount of melatonin has been tested for various brands,
+
+22:01.560 --> 22:05.560
+ and it can range anywhere from being 15%
+
+22:05.560 --> 22:07.840
+ of what's listed on the bottle, okay?
+
+22:07.840 --> 22:09.880
+ So if they list up, this is 100 milligrams,
+
+22:09.880 --> 22:11.920
+ would be a tremendously high dose.
+
+22:11.920 --> 22:14.120
+ It turns out it's only 15 milligrams
+
+22:14.120 --> 22:16.440
+ in that particular pill or capsule,
+
+22:16.440 --> 22:21.000
+ or up to 400 times more than what's listed on the bottle.
+
+22:21.000 --> 22:22.840
+ So it's completely unregulated.
+
+22:22.840 --> 22:25.040
+ And so for those of you taking melatonin,
+
+22:25.040 --> 22:26.760
+ I will discuss at the end of the podcast
+
+22:26.760 --> 22:30.800
+ some other potential alternatives that are probably safer
+
+22:30.800 --> 22:32.620
+ and don't have these issues.
+
+22:32.620 --> 22:35.000
+ So should you take melatonin?
+
+22:35.000 --> 22:39.060
+ My personal bias is no, but for many people,
+
+22:39.060 --> 22:40.520
+ they find that it does help them.
+
+22:40.520 --> 22:42.040
+ And so if you do find it helps you,
+
+22:42.040 --> 22:43.800
+ then just consider what I'm saying
+
+22:43.800 --> 22:47.180
+ in light of the other practices that you're doing
+
+22:47.180 --> 22:49.120
+ and talk to your healthcare professional.
+
+22:49.120 --> 22:53.440
+ Okay, so the rhythm of cortisol and melatonin
+
+22:53.440 --> 22:55.080
+ is what we call endogenous.
+
+22:55.080 --> 22:57.140
+ It's happening in us all the time
+
+22:57.140 --> 22:59.040
+ without any external input.
+
+22:59.040 --> 23:01.400
+ In fact, if we were in complete darkness,
+
+23:01.400 --> 23:04.520
+ living in a cave with no artificial lights whatsoever,
+
+23:04.520 --> 23:07.220
+ or we were in complete brightness,
+
+23:07.220 --> 23:10.120
+ where we never experienced any darkness,
+
+23:10.120 --> 23:14.240
+ these rhythms of cortisol and melatonin would continue.
+
+23:14.240 --> 23:17.040
+ You would have a bump in cortisol or a pulse in cortisol
+
+23:17.040 --> 23:18.480
+ that would drop off with time,
+
+23:18.480 --> 23:23.240
+ and then melatonin would come up about 12 to 14 hours later.
+
+23:23.240 --> 23:27.360
+ But these endogenous systems of our body,
+
+23:27.360 --> 23:30.600
+ which are both hormonal and neural,
+
+23:30.600 --> 23:34.900
+ were set so that external things
+
+23:34.900 --> 23:36.880
+ could govern when they happen.
+
+23:36.880 --> 23:40.100
+ Now, this takes us back to episode one of the podcast
+
+23:40.100 --> 23:41.700
+ that if you haven't listened to already,
+
+23:41.700 --> 23:42.700
+ you might wanna listen to,
+
+23:42.700 --> 23:45.320
+ where we talked about sensation and perception and all that.
+
+23:45.320 --> 23:47.240
+ I'm not gonna review it again here,
+
+23:47.240 --> 23:51.060
+ but there's one particular sensory event,
+
+23:51.060 --> 23:53.960
+ one particular influence on your nervous system
+
+23:53.960 --> 23:58.320
+ that determines when that cortisol is going to start to rise.
+
+23:58.320 --> 24:00.520
+ So if you were in complete darkness,
+
+24:00.520 --> 24:03.600
+ it would happen once per 24 hour cycle,
+
+24:03.600 --> 24:08.280
+ but it would be somewhat later and later each day.
+
+24:08.280 --> 24:11.540
+ Whereas under normal circumstances,
+
+24:11.540 --> 24:13.840
+ what happens is you wake up,
+
+24:13.840 --> 24:15.640
+ and what happens when you wake up?
+
+24:15.640 --> 24:17.000
+ You open your eyes.
+
+24:17.000 --> 24:20.400
+ When you open your eyes, light comes into your eyes.
+
+24:20.400 --> 24:22.140
+ Now, the way this system works
+
+24:22.140 --> 24:24.820
+ is that you have a particular set of neurons in your eye.
+
+24:24.820 --> 24:26.440
+ They're called retinal ganglion cells.
+
+24:26.440 --> 24:28.760
+ You don't have to remember that if you don't want to,
+
+24:28.760 --> 24:32.380
+ but these retinal ganglion cells are brain neurons.
+
+24:32.380 --> 24:35.120
+ Again, the retina is just the one piece of your brain,
+
+24:35.120 --> 24:35.960
+ actually two pieces,
+
+24:35.960 --> 24:38.680
+ because most of you have two retinas that resides
+
+24:38.680 --> 24:41.880
+ outside the skull per se.
+
+24:41.880 --> 24:43.560
+ When light comes into the eye,
+
+24:43.560 --> 24:46.600
+ there's a particular group of retinal ganglion cells
+
+24:46.600 --> 24:48.920
+ or type of retinal ganglion cells
+
+24:48.920 --> 24:52.120
+ that perceives a particular type of light
+
+24:52.120 --> 24:54.180
+ and communicates that to this clock
+
+24:54.180 --> 24:56.000
+ that resides right above the roof of your mouth
+
+24:56.000 --> 24:59.360
+ called the suprachiasmatic nucleus, okay?
+
+24:59.360 --> 25:00.960
+ So I know this can get a little complicated,
+
+25:00.960 --> 25:03.420
+ but these retinal ganglion cells,
+
+25:03.420 --> 25:05.740
+ when you open your eyes, light comes in,
+
+25:05.740 --> 25:08.800
+ and an electrical signal is sent to this central clock
+
+25:08.800 --> 25:11.080
+ we call the suprachiasmatic nucleus.
+
+25:11.080 --> 25:15.180
+ And the suprachiasmatic nucleus has connections
+
+25:15.180 --> 25:18.800
+ with essentially every cell and organ of your body.
+
+25:18.800 --> 25:21.680
+ Now, it's vitally important that we get light
+
+25:21.680 --> 25:23.880
+ communicated to this central clock
+
+25:23.880 --> 25:27.880
+ in order to time the cortisol and melatonin properly.
+
+25:27.880 --> 25:30.760
+ When I say properly, I can say that with confidence,
+
+25:30.760 --> 25:33.260
+ because we know based on a lot of evidence
+
+25:33.260 --> 25:35.680
+ that if you don't get your cortisol
+
+25:35.680 --> 25:38.000
+ and melatonin rhythms right,
+
+25:38.000 --> 25:43.000
+ there are tremendously broad and bad effects
+
+25:43.060 --> 25:46.800
+ on cardiovascular health, dementia, metabolic effects,
+
+25:46.800 --> 25:49.520
+ learning, depression, dementia.
+
+25:49.520 --> 25:51.200
+ In fact, there are so many negative effects
+
+25:51.200 --> 25:53.600
+ associated with getting this wrong
+
+25:53.600 --> 25:55.320
+ that I don't want to go into it in too much detail.
+
+25:55.320 --> 25:58.220
+ In fact, I feel like we've been bombarded
+
+25:58.220 --> 26:00.500
+ with all this information about how we're not sleeping well,
+
+26:00.500 --> 26:01.700
+ we're not sleeping at the right times,
+
+26:01.700 --> 26:02.880
+ we're not sleeping enough
+
+26:02.880 --> 26:05.720
+ to the point where people now have sleep anxiety.
+
+26:05.720 --> 26:07.660
+ If they can't sleep well for a night,
+
+26:07.660 --> 26:09.200
+ they're feeling overwhelmed by that
+
+26:09.200 --> 26:10.520
+ and sort of now they're stressed
+
+26:10.520 --> 26:11.700
+ about not being able to sleep,
+
+26:11.700 --> 26:14.120
+ which is making it harder to sleep, et cetera.
+
+26:14.120 --> 26:16.520
+ I really want to focus on what we can do
+
+26:16.520 --> 26:18.880
+ to anchor these systems properly.
+
+26:18.880 --> 26:22.160
+ So let's think about what happens when we do this correctly
+
+26:22.160 --> 26:23.580
+ and how to do it correctly.
+
+26:23.580 --> 26:25.840
+ When we wake up, our eyes open.
+
+26:25.840 --> 26:28.240
+ Now, if we're in a dark room,
+
+26:28.240 --> 26:32.320
+ there isn't enough light to trigger the correct timing
+
+26:32.320 --> 26:36.360
+ of this cortisol-melatonin thing, these rhythms.
+
+26:37.200 --> 26:39.400
+ You might say, well, why won't any light do it?
+
+26:39.400 --> 26:42.660
+ Well, it turns out that these neurons in our eye
+
+26:42.660 --> 26:44.320
+ that set the circadian clock
+
+26:44.320 --> 26:46.100
+ and then allow our circadian clock
+
+26:46.100 --> 26:48.380
+ to set all the clocks of all the cells and organs
+
+26:48.380 --> 26:52.040
+ and tissues of our body responds best
+
+26:52.040 --> 26:55.740
+ to a particular quality of light and amount of light.
+
+26:56.880 --> 26:59.320
+ And those are the qualities of light
+
+26:59.320 --> 27:02.400
+ and amount of light that come from sunlight.
+
+27:02.400 --> 27:07.080
+ So these neurons, what they're really looking for,
+
+27:07.080 --> 27:09.040
+ although they don't have a mind of their own,
+
+27:09.040 --> 27:12.460
+ is the sun at what we call low solar angle.
+
+27:12.460 --> 27:13.580
+ The eye and the nervous system
+
+27:13.580 --> 27:15.880
+ don't know anything about sunrises or sunsets.
+
+27:15.880 --> 27:18.320
+ It only knows the quality of light
+
+27:18.320 --> 27:20.960
+ that comes in when the sun is low in the sky.
+
+27:20.960 --> 27:24.880
+ The system evolved so that when the sun is low in the sky,
+
+27:24.880 --> 27:28.960
+ there's a particular contrast between yellows and blues
+
+27:28.960 --> 27:31.460
+ that triggers the activation of these cells.
+
+27:31.460 --> 27:33.080
+ So if you wake up and you look at your phone
+
+27:33.080 --> 27:33.920
+ or your computer,
+
+27:33.920 --> 27:36.000
+ or you flip on a bunch of artificial lights,
+
+27:37.020 --> 27:38.960
+ will these cells be activated?
+
+27:38.960 --> 27:40.620
+ And the answer is sort of.
+
+27:40.620 --> 27:43.960
+ They'll be activated, but not in the optimal way.
+
+27:43.960 --> 27:46.560
+ What you want to do is get sunlight in your eyes
+
+27:46.560 --> 27:48.920
+ as close to waking as possible.
+
+27:48.920 --> 27:50.360
+ Now, I want to be really clear about this
+
+27:50.360 --> 27:52.880
+ because I've talked about it on other podcasts
+
+27:52.880 --> 27:53.720
+ when I was a guest,
+
+27:53.720 --> 27:55.900
+ and I've talked about it on my Instagram feed,
+
+27:55.900 --> 27:57.300
+ and there seemed to be the same questions
+
+27:57.300 --> 27:59.200
+ coming up again and again.
+
+27:59.200 --> 28:02.100
+ These neurons don't know sunlight per se.
+
+28:02.100 --> 28:05.400
+ They don't know sunrise or sunset for that matter.
+
+28:05.400 --> 28:08.540
+ They don't know artificial light from sunlight.
+
+28:08.540 --> 28:11.340
+ What they respond best to, however,
+
+28:11.340 --> 28:14.060
+ is the quality and amount of light that comes in
+
+28:14.060 --> 28:16.140
+ when the sun is low in the sky.
+
+28:16.140 --> 28:20.520
+ That means that if you can watch the sunrise, great.
+
+28:20.520 --> 28:23.980
+ That's perfect for triggering activation of these cells.
+
+28:23.980 --> 28:27.160
+ However, if you wake up a few hours after the sunrise,
+
+28:27.160 --> 28:30.100
+ which I tend to most days, personally,
+
+28:30.100 --> 28:33.820
+ you still want to get outside and view sunlight.
+
+28:33.820 --> 28:35.660
+ You don't need the sunlight beaming you
+
+28:35.660 --> 28:36.780
+ directly in the eyes.
+
+28:36.780 --> 28:39.140
+ There's a lot of photons, light energy,
+
+28:39.140 --> 28:41.740
+ that's scattered from sunlight at this time.
+
+28:41.740 --> 28:45.460
+ But the key is to get that light energy
+
+28:45.460 --> 28:48.060
+ from sunlight, ideally, into your eyes.
+
+28:48.060 --> 28:50.060
+ Now, I know many of you are already asking,
+
+28:50.060 --> 28:52.980
+ well, I live in Scandinavia or I can't get sunlight.
+
+28:52.980 --> 28:54.640
+ There's buildings around me, et cetera.
+
+28:54.640 --> 28:56.700
+ We will get to all of that.
+
+28:56.700 --> 28:58.940
+ But it's critically important that you get outside
+
+28:58.940 --> 29:00.460
+ to get this light.
+
+29:00.460 --> 29:02.340
+ I had a discussion with a colleague of mine,
+
+29:02.340 --> 29:03.380
+ Dr. Jamie Zeitzer,
+
+29:03.380 --> 29:05.700
+ who's in the Department of Psychiatry
+
+29:05.700 --> 29:09.180
+ and Behavioral Sciences at Stanford,
+
+29:09.180 --> 29:10.500
+ a world expert in this.
+
+29:10.500 --> 29:15.500
+ And he tells me that it's 50 times less effective
+
+29:15.980 --> 29:19.540
+ to view the sunlight through a window,
+
+29:19.540 --> 29:23.160
+ through a car windshield or through a side window of a car,
+
+29:23.160 --> 29:26.180
+ than it is to just get outside with no sunglasses
+
+29:26.180 --> 29:28.740
+ and view light early in the day.
+
+29:28.740 --> 29:31.140
+ Now, if you can't see the sunrise, like I said,
+
+29:31.140 --> 29:33.500
+ you can see this within an hour or two of sunrise,
+
+29:33.500 --> 29:35.120
+ but it has to be low solar angle.
+
+29:35.120 --> 29:38.540
+ Once the sun is overhead, the quality of light shifts
+
+29:38.540 --> 29:40.620
+ so that you miss this opportunity
+
+29:40.620 --> 29:42.500
+ to time the cortisol pulse.
+
+29:42.500 --> 29:45.960
+ And that turns out to be a bad thing to do.
+
+29:45.960 --> 29:49.140
+ You really want to time that cortisol pulse properly
+
+29:49.140 --> 29:52.320
+ because we'll get into this a little bit more later,
+
+29:52.320 --> 29:55.460
+ but a late shifted cortisol pulse,
+
+29:55.460 --> 29:59.520
+ in particular in 9 p.m. or 8 p.m. increase in cortisol,
+
+29:59.520 --> 30:04.520
+ is one of the consequences and maybe one of the causes
+
+30:04.540 --> 30:07.480
+ of a lot of anxiety disorders and depression.
+
+30:07.480 --> 30:08.620
+ So it's kind of a chicken egg thing.
+
+30:08.620 --> 30:10.600
+ We don't know whether or not it's the correlated with,
+
+30:10.600 --> 30:12.580
+ it's the cause or the effect,
+
+30:12.580 --> 30:15.840
+ but it's a signature of depression and anxiety disorder.
+
+30:15.840 --> 30:19.660
+ Bringing that cortisol pulse earlier in your wakeful period,
+
+30:19.660 --> 30:22.980
+ earlier in your day, has positive benefits
+
+30:22.980 --> 30:26.500
+ ranging from blood pressure to mental health, et cetera.
+
+30:26.500 --> 30:27.520
+ I'm not going to list them all off
+
+30:27.520 --> 30:29.200
+ because there's just so many of them,
+
+30:29.200 --> 30:31.400
+ but many, many positive things happen
+
+30:31.400 --> 30:34.580
+ when you are getting the cortisol early in the day,
+
+30:34.580 --> 30:37.360
+ far away from your melatonin pulse.
+
+30:37.360 --> 30:40.060
+ Okay, so how long should you be outside?
+
+30:40.060 --> 30:42.260
+ Well, this is going to vary tremendously
+
+30:42.260 --> 30:43.820
+ because some people live in environments
+
+30:43.820 --> 30:44.660
+ where it's very bright.
+
+30:44.660 --> 30:48.500
+ So let's say it's Colorado in the middle of winter,
+
+30:48.500 --> 30:50.500
+ there's a snow field, there's no cloud cover,
+
+30:50.500 --> 30:52.000
+ and you walk outside.
+
+30:52.000 --> 30:55.180
+ There's going to be so much photon light energy
+
+30:55.180 --> 30:56.660
+ arriving on your retina
+
+30:56.660 --> 30:58.820
+ that probably only takes 30 to 60 seconds
+
+30:58.820 --> 31:00.260
+ to trigger the central clock
+
+31:00.260 --> 31:03.080
+ and set your cortisol and melatonin rhythms properly
+
+31:03.080 --> 31:06.120
+ and get everything lined up nicely.
+
+31:07.160 --> 31:09.940
+ Whereas if you're in Scandinavia in the depths of winter
+
+31:09.940 --> 31:11.140
+ and you wake up at 5 a.m.
+
+31:11.140 --> 31:13.720
+ and the sun is just barely creeping across the horizon
+
+31:13.720 --> 31:16.160
+ then goes back down again a few hours later,
+
+31:16.160 --> 31:19.900
+ you probably are not getting enough sunlight
+
+31:19.900 --> 31:22.220
+ in order to set these rhythms.
+
+31:22.220 --> 31:24.300
+ So many people find
+
+31:24.300 --> 31:27.180
+ that they need to use sunlight simulators
+
+31:27.180 --> 31:29.040
+ in the form of particular lights
+
+31:29.040 --> 31:30.780
+ that were designed to simulate sunlight.
+
+31:30.780 --> 31:33.580
+ However, I'm not out to attack the companies
+
+31:33.580 --> 31:34.860
+ that produce those.
+
+31:34.860 --> 31:36.740
+ There's another solution to that.
+
+31:37.660 --> 31:40.060
+ You can simply go outside for longer.
+
+31:40.060 --> 31:42.240
+ Even if there's a lot of dense cloud cover,
+
+31:42.240 --> 31:44.180
+ you're probably getting
+
+31:44.180 --> 31:48.340
+ anywhere from 10,000 to 50,000 lux, L-U-X,
+
+31:48.340 --> 31:50.500
+ which is just a measure of light energy.
+
+31:50.500 --> 31:54.140
+ And that should be sufficient to set the circadian clock.
+
+31:55.540 --> 31:57.820
+ You could say, well, the lights in my house
+
+31:57.820 --> 31:59.940
+ or my phone are really, really bright, right?
+
+31:59.940 --> 32:01.700
+ Everyone's telling us to stay off our phones at night
+
+32:01.700 --> 32:03.260
+ because they're really bright.
+
+32:03.260 --> 32:04.100
+ But guess what?
+
+32:04.100 --> 32:06.320
+ It turns out that early in the day,
+
+32:06.320 --> 32:09.240
+ your retina is not very sensitive,
+
+32:09.240 --> 32:12.140
+ which means you need a lot of photons,
+
+32:12.140 --> 32:13.520
+ ideally coming from sunlight,
+
+32:13.520 --> 32:15.280
+ to set these clock mechanisms.
+
+32:15.280 --> 32:17.560
+ So looking at your phone or artificial lights is fine
+
+32:17.560 --> 32:19.860
+ if you wake up before sunrise,
+
+32:19.860 --> 32:24.160
+ but it's not going to work to set these clock mechanisms.
+
+32:24.160 --> 32:26.660
+ And this is supported by dozens, if not hundreds,
+
+32:26.660 --> 32:29.100
+ of quality peer-reviewed studies.
+
+32:29.100 --> 32:30.660
+ So you want to use sunlight.
+
+32:30.660 --> 32:33.800
+ If you can't see sunlight because of your environment,
+
+32:33.800 --> 32:37.100
+ then you are going to have to opt for artificial light.
+
+32:37.100 --> 32:39.640
+ And in that case, you're going to want an artificial light
+
+32:39.640 --> 32:44.060
+ that either simulates sunlight or has a lot of blue light.
+
+32:44.060 --> 32:45.780
+ Now, without going off course here,
+
+32:45.780 --> 32:47.920
+ you might be saying, wait, I've heard blue light
+
+32:47.920 --> 32:48.880
+ is bad for me.
+
+32:48.880 --> 32:51.820
+ Actually, blue light is great for this mechanism
+
+32:51.820 --> 32:52.720
+ during the day.
+
+32:53.660 --> 32:57.060
+ We can talk about blue light and blue blockers,
+
+32:57.060 --> 33:00.120
+ but you really want a lot of blue and yellow light
+
+33:00.120 --> 33:02.020
+ arriving on the retina early in the day.
+
+33:02.020 --> 33:03.820
+ Let me be clear about something.
+
+33:03.820 --> 33:06.280
+ You never ever want to look at any light,
+
+33:06.280 --> 33:09.980
+ sunlight or artificial light, that is painful to look at.
+
+33:09.980 --> 33:11.740
+ If you find that your eyes are watering
+
+33:11.740 --> 33:14.660
+ or you're having challenges maintaining,
+
+33:14.660 --> 33:17.140
+ looking at this thing for a while because it's painful,
+
+33:17.140 --> 33:18.140
+ that light is too bright
+
+33:18.140 --> 33:20.020
+ and you do not want to damage your retina.
+
+33:20.020 --> 33:22.180
+ So you don't want to gaze at the sun,
+
+33:22.180 --> 33:25.840
+ refusing to blink and burn your retina.
+
+33:25.840 --> 33:27.080
+ That's actually possible to do.
+
+33:27.080 --> 33:28.380
+ You don't want to do that.
+
+33:29.240 --> 33:33.060
+ You have a proper blink reflex installed in you since birth.
+
+33:33.060 --> 33:34.980
+ And if you feel like something's too bright
+
+33:34.980 --> 33:36.660
+ and you need to blink, it means you need to blink,
+
+33:36.660 --> 33:38.780
+ that it's too much light.
+
+33:38.780 --> 33:41.820
+ So please don't beam your eyes with really bright light.
+
+33:41.820 --> 33:43.860
+ But blue light, in particular blue light
+
+33:43.860 --> 33:45.980
+ and yellow light coming from sunlight is ideal.
+
+33:45.980 --> 33:48.040
+ If you're going to get it from artificial light,
+
+33:48.040 --> 33:49.620
+ because you can't get enough sunlight,
+
+33:49.620 --> 33:54.380
+ well then artificial lights that are rich in blue,
+
+33:54.380 --> 33:56.580
+ blue wavelengths are going to be ideal
+
+33:56.580 --> 33:58.340
+ for setting this mechanism.
+
+33:58.340 --> 33:59.160
+ A lot of people will say,
+
+33:59.160 --> 34:01.240
+ oh, I should be wearing blue blockers throughout the day.
+
+34:01.240 --> 34:03.980
+ No, that's the exact wrong thing.
+
+34:03.980 --> 34:05.660
+ If you're going to use blue blockers,
+
+34:05.660 --> 34:06.540
+ we can talk about that.
+
+34:06.540 --> 34:09.380
+ That should be reserved for late in the evening
+
+34:09.380 --> 34:12.660
+ because light suppresses melatonin.
+
+34:12.660 --> 34:16.860
+ I've been asked many times before about this pineal gland.
+
+34:16.860 --> 34:19.400
+ And there are a lot of ancient practices
+
+34:19.400 --> 34:21.060
+ that map to some of the things that I'm saying.
+
+34:21.060 --> 34:21.880
+ And people always say,
+
+34:21.880 --> 34:24.660
+ oh, I heard that sunlight is great for the pineal.
+
+34:24.660 --> 34:28.360
+ Well, perhaps, but we have to be careful about that phrase.
+
+34:28.360 --> 34:31.140
+ Sunlight inhibits the pineal.
+
+34:31.140 --> 34:34.260
+ It prevents it from releasing melatonin.
+
+34:34.260 --> 34:38.180
+ Darkness allows the pineal to release melatonin.
+
+34:38.180 --> 34:41.940
+ So the pineal is not the gland or the organ of sunlight.
+
+34:41.940 --> 34:43.860
+ It is the gland of darkness.
+
+34:43.860 --> 34:47.180
+ In fact, melatonin can be thought of as a sleepiness signal
+
+34:47.180 --> 34:48.940
+ that's correlated with darkness.
+
+34:48.940 --> 34:52.040
+ So get up each morning, try and get outside.
+
+34:52.040 --> 34:53.680
+ I know that can be challenging for people,
+
+34:53.680 --> 34:58.080
+ but anywhere from two to 10 minutes of sunlight exposure
+
+34:58.080 --> 34:59.840
+ is going to work well for most people.
+
+34:59.840 --> 35:01.700
+ And you want to do this on a regular basis
+
+35:01.700 --> 35:03.580
+ and you don't have to do it exactly at sunrise.
+
+35:03.580 --> 35:05.180
+ I realize I'm repeating myself,
+
+35:05.180 --> 35:08.340
+ but somehow despite barking at people about this
+
+35:08.340 --> 35:09.960
+ for a couple of years now,
+
+35:09.960 --> 35:11.380
+ I keep getting the same questions.
+
+35:11.380 --> 35:13.660
+ And somehow it hasn't been sinking in,
+
+35:14.700 --> 35:16.820
+ which could be related to some circadian disorder.
+
+35:16.820 --> 35:17.640
+ I'm just kidding.
+
+35:17.640 --> 35:18.600
+ If it's not sinking in,
+
+35:18.600 --> 35:20.180
+ it's probably that I'm not being effective
+
+35:20.180 --> 35:22.640
+ in communicating the information.
+
+35:22.640 --> 35:25.620
+ But get that bright light early in the day from sunlight.
+
+35:25.620 --> 35:26.820
+ And if you can't get it from sunlight,
+
+35:26.820 --> 35:28.180
+ get it from artificial light.
+
+35:28.180 --> 35:29.960
+ What kinds of artificial lights will work?
+
+35:29.960 --> 35:33.100
+ Well, there are these sunrise simulators,
+
+35:33.100 --> 35:37.220
+ but the ring lights that people use for selfies
+
+35:37.220 --> 35:39.760
+ and this sort of thing for posting on Instagram,
+
+35:39.760 --> 35:42.060
+ those generate a lot of blue light.
+
+35:42.060 --> 35:44.040
+ If you want to get experimental about this,
+
+35:44.040 --> 35:45.060
+ there's a free app.
+
+35:45.060 --> 35:46.640
+ I have no relationship to the app,
+
+35:46.640 --> 35:48.800
+ but it's a great app called Light Meter
+
+35:48.800 --> 35:50.580
+ that you can use your phone
+
+35:50.580 --> 35:53.020
+ and you can measure the amount of photon energy
+
+35:53.020 --> 35:54.060
+ in your environment.
+
+35:54.060 --> 35:55.340
+ And it's kind of a fun experiment to do.
+
+35:55.340 --> 35:56.600
+ You can go outside in the morning
+
+35:56.600 --> 35:59.140
+ and you'll see that there's 10,000, 20,000 lux,
+
+35:59.140 --> 36:01.060
+ even though it might seem like it's kind of dim
+
+36:01.060 --> 36:02.700
+ or there's tree cover or cloud cover,
+
+36:02.700 --> 36:06.900
+ you go inside and you shine that artificial light
+
+36:06.900 --> 36:09.100
+ at your phone, press the button on Light Meter
+
+36:09.100 --> 36:12.020
+ and you'll find that it's only 500 or 1,000 lux.
+
+36:12.020 --> 36:15.320
+ And you realize that even though it seems really bright,
+
+36:15.320 --> 36:17.860
+ the artificial light is very condensed,
+
+36:17.860 --> 36:22.380
+ whereas the outside light is scattered in the atmosphere.
+
+36:22.380 --> 36:24.420
+ And so you can think that you're not getting much sunlight,
+
+36:24.420 --> 36:26.040
+ but you're actually getting much more outside.
+
+36:26.040 --> 36:28.260
+ So get outside, get that sunlight early in the day
+
+36:28.260 --> 36:30.200
+ and try and do it on a consistent basis.
+
+36:30.200 --> 36:31.380
+ If you can't do it every day
+
+36:31.380 --> 36:33.740
+ or you sleep through this period of the early day,
+
+36:33.740 --> 36:36.180
+ low solar angle, don't worry about it.
+
+36:36.180 --> 36:37.560
+ The systems in the body,
+
+36:37.560 --> 36:40.100
+ these hormone systems and neurotransmitter systems
+
+36:40.100 --> 36:42.620
+ that make you awake at certain periods of the day
+
+36:42.620 --> 36:46.220
+ and sleepy at other times are operating
+
+36:46.220 --> 36:50.080
+ by averaging when you view the brightest light.
+
+36:50.080 --> 36:52.860
+ Now, that can immediately tell us
+
+36:52.860 --> 36:54.660
+ that what most people are doing is terrible.
+
+36:54.660 --> 36:56.500
+ They're waking up and they're looking at their phone,
+
+36:56.500 --> 36:59.300
+ which isn't triggering activation of these cells in the eye
+
+36:59.300 --> 37:00.980
+ and the central circadian clock.
+
+37:00.980 --> 37:02.060
+ Then a few hours later,
+
+37:02.060 --> 37:04.460
+ they might get in their car with sunglasses and drive.
+
+37:04.460 --> 37:08.300
+ Now, a note about sunglasses and prescription lenses.
+
+37:08.300 --> 37:12.300
+ Absolutely never, ever, ever compromise safety
+
+37:12.300 --> 37:13.960
+ for the sorts of things I'm talking about.
+
+37:13.960 --> 37:16.260
+ So if you need to wear sunglasses for safety reasons,
+
+37:16.260 --> 37:17.300
+ wear them.
+
+37:17.300 --> 37:20.140
+ Absolutely, if you wear prescription lenses or contacts,
+
+37:20.140 --> 37:20.980
+ wear them.
+
+37:20.980 --> 37:23.700
+ They won't filter out the wavelengths of light
+
+37:23.700 --> 37:26.100
+ that are necessary for setting these central clocks.
+
+37:26.100 --> 37:28.160
+ So safety first, of course.
+
+37:28.160 --> 37:30.440
+ If you have a retinal degenerative disorder,
+
+37:30.440 --> 37:33.320
+ retinitis pigmentosa, macular degeneration, or glaucoma,
+
+37:33.320 --> 37:35.380
+ or those run in your family,
+
+37:35.380 --> 37:38.660
+ you want to avoid excessively bright light all the time.
+
+37:38.660 --> 37:40.300
+ You want to be very cautious about that.
+
+37:40.300 --> 37:42.380
+ You're going to want to get your light exposure
+
+37:42.380 --> 37:46.780
+ by through seeing dimmer light, including sunlight,
+
+37:46.780 --> 37:48.780
+ but for longer periods of time, perhaps.
+
+37:49.660 --> 37:51.260
+ You might immediately ask,
+
+37:51.260 --> 37:53.820
+ what about low vision or blind people?
+
+37:53.820 --> 37:55.340
+ How do they set these central clocks?
+
+37:55.340 --> 37:57.980
+ Well, it turns out that low vision and blind people,
+
+37:57.980 --> 38:00.260
+ most of them, provided they still have eyes,
+
+38:00.260 --> 38:01.260
+ that the eyes weren't removed
+
+38:01.260 --> 38:03.660
+ because of a burn or tumor or something like that,
+
+38:03.660 --> 38:07.780
+ still maintain these neurons that set the circadian clock,
+
+38:07.780 --> 38:10.260
+ which brings me to a really important point.
+
+38:10.260 --> 38:13.720
+ It's not about seeing and perceiving the sun.
+
+38:13.720 --> 38:17.580
+ This is a subconscious mechanism by which these neurons,
+
+38:17.580 --> 38:20.860
+ which are called melanopsin ganglion cells,
+
+38:20.860 --> 38:24.580
+ these neurons set your central clocks
+
+38:24.580 --> 38:28.060
+ by getting activated by the particular wavelengths of light
+
+38:28.060 --> 38:29.540
+ that are present in the atmosphere,
+
+38:29.540 --> 38:32.020
+ even coming through cloud cover.
+
+38:32.020 --> 38:35.180
+ And you don't need to see or perceive the sun
+
+38:35.180 --> 38:37.580
+ in order to get this mechanism to start.
+
+38:37.580 --> 38:39.540
+ Now, it's such a vitally important mechanism
+
+38:39.540 --> 38:44.100
+ because it dictates how well and what time
+
+38:44.100 --> 38:46.260
+ you will want to fall asleep later in the day.
+
+38:46.260 --> 38:47.860
+ So for those of you that are night owls
+
+38:47.860 --> 38:49.380
+ and you insist that you're a night owl
+
+38:49.380 --> 38:51.100
+ and you have the genetic polymorphism
+
+38:51.100 --> 38:52.060
+ that makes you a night owl,
+
+38:52.060 --> 38:54.820
+ you may very well have that genetic polymorphism,
+
+38:54.820 --> 38:56.900
+ those genes that make you want to stay up late
+
+38:56.900 --> 38:58.660
+ and wake up late.
+
+38:58.660 --> 39:00.360
+ But chances are about half of you
+
+39:00.360 --> 39:01.920
+ that think that you're night owls
+
+39:01.920 --> 39:04.840
+ are just not getting enough sunlight early in the day.
+
+39:04.840 --> 39:08.380
+ So viewing light early in the day, ideally sunlight,
+
+39:08.380 --> 39:12.480
+ is key for establishing healthy sleep-wake rhythms
+
+39:12.480 --> 39:16.420
+ and for allowing you to fall asleep easily at night.
+
+39:16.420 --> 39:17.740
+ Now, it's not gonna make sure
+
+39:17.740 --> 39:19.660
+ that all that happens every single time,
+
+39:19.660 --> 39:23.220
+ but it is the foundation of proper sleep
+
+39:23.220 --> 39:25.420
+ and what we call circadian health.
+
+39:25.420 --> 39:28.600
+ It governs metabolism and so many other things
+
+39:28.600 --> 39:32.160
+ that are supposed to exist on a regular 24-hour cycle.
+
+39:33.500 --> 39:36.140
+ Some of you, many of you might be asking,
+
+39:36.140 --> 39:37.940
+ what else can help set this rhythm?
+
+39:37.940 --> 39:39.480
+ Well, it turns out that light
+
+39:39.480 --> 39:43.940
+ is what we call the primary zeitgeber, the time giver.
+
+39:43.940 --> 39:48.140
+ But other things can help establish this rhythm
+
+39:48.140 --> 39:49.940
+ of cortisol followed by melatonin
+
+39:49.940 --> 39:52.480
+ 12 to 16 hours later as well.
+
+39:52.480 --> 39:57.020
+ The other things besides light are timing of food intake,
+
+39:57.020 --> 40:01.380
+ timing of exercise, as well as various drugs
+
+40:01.380 --> 40:04.460
+ or chemicals that one might ingest, not illegal drugs,
+
+40:04.460 --> 40:07.320
+ although those will impact circadian mechanisms as well.
+
+40:08.200 --> 40:10.520
+ But the reason we focus so heavily on light
+
+40:10.520 --> 40:15.520
+ is that light is the main way that the central clock,
+
+40:15.700 --> 40:18.960
+ the suprachiasmatic nucleus was supposed to be set.
+
+40:18.960 --> 40:22.340
+ We know that because it's the only direct input
+
+40:22.340 --> 40:23.440
+ to the clock.
+
+40:23.440 --> 40:25.540
+ These neurons in the eye that are also part of the brain
+
+40:25.540 --> 40:27.720
+ that we call melanopsin ganglion cells
+
+40:27.720 --> 40:30.260
+ that not so incidentally were discovered
+
+40:30.260 --> 40:32.100
+ by my friend and colleague David Berson
+
+40:32.100 --> 40:34.700
+ at Brown University and others,
+
+40:34.700 --> 40:37.340
+ Samir Hatar, King Wayao, et cetera,
+
+40:37.340 --> 40:39.500
+ worked out the mechanisms, the molecular mechanisms,
+
+40:39.500 --> 40:41.500
+ but it was really David Berson
+
+40:41.500 --> 40:46.420
+ that discovered these incredibly fascinating non,
+
+40:46.420 --> 40:48.520
+ these are cells that aren't important for sight
+
+40:48.520 --> 40:51.940
+ like pattern vision, but are for setting our clocks.
+
+40:51.940 --> 40:55.060
+ David's really credited with making that discovery.
+
+40:55.060 --> 40:58.580
+ Those cells are the main way
+
+40:58.580 --> 41:01.460
+ and the only direct way to set the clock.
+
+41:01.460 --> 41:04.620
+ In fact, it's fair to say that light
+
+41:04.620 --> 41:08.580
+ viewed by these melanopsin cells, particular sunlight,
+
+41:08.580 --> 41:12.460
+ is 1,000 to 10,000 times more effective
+
+41:12.460 --> 41:16.040
+ than say getting up in darkness and just exercising.
+
+41:16.040 --> 41:17.580
+ That doesn't mean that you shouldn't exercise
+
+41:17.580 --> 41:20.020
+ early in the day in darkness if that's what you like to do.
+
+41:20.020 --> 41:22.340
+ It will have somewhat an effect
+
+41:22.340 --> 41:25.080
+ on raising your wakefulness early in the day
+
+41:25.080 --> 41:27.620
+ and setting these rhythms.
+
+41:27.620 --> 41:29.460
+ And this is because of some other pathways.
+
+41:29.460 --> 41:31.060
+ For the aficionados out there
+
+41:31.060 --> 41:33.860
+ who want to know more neuroscience, here's how it goes.
+
+41:33.860 --> 41:35.900
+ You've got this clock above the roof of your mouth
+
+41:35.900 --> 41:37.680
+ that churns out this 24-hour rhythm
+
+41:37.680 --> 41:39.580
+ and is communicated to all the other organs
+
+41:39.580 --> 41:41.140
+ and tissues of your body.
+
+41:41.140 --> 41:43.540
+ But there's another structure, has a cool name.
+
+41:43.540 --> 41:45.840
+ It's called the intergeniculate leaflet,
+
+41:45.840 --> 41:48.300
+ which sits a few millimeters away in the brain,
+
+41:48.300 --> 41:51.540
+ and it's involved in regulating the clock output
+
+41:51.540 --> 41:55.640
+ through what's called non-photic, non-light type influences
+
+41:55.640 --> 41:58.420
+ like exercise and feeding, et cetera.
+
+41:58.420 --> 42:02.380
+ So if you are not feeling awake during the day
+
+42:02.380 --> 42:04.160
+ and you're having trouble sleeping,
+
+42:04.160 --> 42:07.140
+ get the sunlight exposure that we just talked about.
+
+42:07.140 --> 42:09.140
+ But in addition to that,
+
+42:09.140 --> 42:11.500
+ if you want to become an early riser, for instance,
+
+42:11.500 --> 42:12.540
+ and you want to feel more awake
+
+42:12.540 --> 42:15.140
+ during the early part of the day,
+
+42:15.140 --> 42:16.460
+ by getting that light exposure
+
+42:16.460 --> 42:18.940
+ and exercising early in the day,
+
+42:18.940 --> 42:21.220
+ you will, after two or three days,
+
+42:21.220 --> 42:23.660
+ you will naturally start to wake up earlier in the day.
+
+42:23.660 --> 42:26.100
+ And that's because these clock mechanisms have shifted.
+
+42:26.100 --> 42:27.820
+ It's like setting the clock earlier
+
+42:27.820 --> 42:30.220
+ as opposed to delaying the clock.
+
+42:30.220 --> 42:33.480
+ And that takes us to a somewhat complicated
+
+42:33.480 --> 42:35.780
+ but very important aspect to all this,
+
+42:35.780 --> 42:39.360
+ which is what sets the clock and keeps it anchored.
+
+42:39.360 --> 42:42.520
+ The main thing is that bright light early in the day.
+
+42:42.520 --> 42:44.460
+ The other thing is sunset.
+
+42:44.460 --> 42:47.640
+ When the sun is also at low solar angle,
+
+42:47.640 --> 42:49.300
+ low, close to the horizon,
+
+42:49.300 --> 42:53.500
+ by viewing sunlight at that time of day in the evening
+
+42:53.500 --> 42:55.380
+ or afternoon, depending on what time of year it is
+
+42:55.380 --> 42:57.300
+ and where you are in the world,
+
+42:57.300 --> 42:59.780
+ these melanopsin cells, these neurons in your eye,
+
+42:59.780 --> 43:01.940
+ signal the central circadian clock
+
+43:01.940 --> 43:04.060
+ that it's the end of the day.
+
+43:04.060 --> 43:06.900
+ And there's a really nice study that was published last year
+
+43:06.900 --> 43:09.740
+ and I will put links to these references on a website
+
+43:09.740 --> 43:11.820
+ not too long from now.
+
+43:11.820 --> 43:14.740
+ There was a really nice study that showed
+
+43:14.740 --> 43:18.860
+ that viewing sunlight around the time of sunset
+
+43:18.860 --> 43:21.280
+ doesn't have to be just crossing the horizon,
+
+43:21.280 --> 43:25.140
+ but circa sunset within an hour or so of sunset
+
+43:26.420 --> 43:29.900
+ prevents some of the bad effects of light
+
+43:29.900 --> 43:33.820
+ in preventing melatonin release later that same night.
+
+43:33.820 --> 43:34.740
+ So let me repeat this.
+
+43:34.740 --> 43:36.300
+ Viewing light early in the day is key.
+
+43:36.300 --> 43:39.460
+ Viewing light later in the day when the sun is setting
+
+43:39.460 --> 43:43.900
+ or around that time can help protect these mechanisms,
+
+43:43.900 --> 43:46.780
+ your brain and body against the negative effects
+
+43:46.780 --> 43:48.780
+ of light later in the day.
+
+43:48.780 --> 43:51.260
+ So let me talk about how you would do that.
+
+43:51.260 --> 43:52.620
+ You'd go view the sunset,
+
+43:52.620 --> 43:55.900
+ or you would go outside in the late afternoon or evening.
+
+43:55.900 --> 43:58.320
+ Again, if you safely can do that with sunglasses off,
+
+43:58.320 --> 43:59.380
+ you will.
+
+43:59.380 --> 44:00.620
+ If you need to wear sunglasses, fine,
+
+44:00.620 --> 44:03.220
+ but it will take probably a hundred to a thousand times
+
+44:03.220 --> 44:06.100
+ longer with dark sunglasses than if you take them off.
+
+44:07.740 --> 44:09.640
+ Again, if you want to do this through a window at work,
+
+44:09.640 --> 44:12.060
+ that's fine, but it'll take 50 times longer.
+
+44:12.060 --> 44:14.220
+ So the best thing to do is just to get outside
+
+44:14.220 --> 44:16.300
+ for a few minutes, anywhere from two to 10 minutes
+
+44:16.300 --> 44:17.740
+ also in the afternoon.
+
+44:17.740 --> 44:21.100
+ Having those two signals arriving to your central clock
+
+44:21.100 --> 44:23.540
+ that your body, your internal world,
+
+44:23.540 --> 44:25.740
+ knows when it's morning and knows when it's evening
+
+44:25.740 --> 44:27.980
+ is tremendously powerful.
+
+44:27.980 --> 44:29.980
+ Maybe think about it this way.
+
+44:29.980 --> 44:33.060
+ Every cell in your body needs glucose and energy.
+
+44:33.060 --> 44:35.200
+ It needs, whether or not it gets that from meat
+
+44:35.200 --> 44:37.740
+ or it gets it from ketones or it gets it from carbohydrates
+
+44:37.740 --> 44:39.460
+ or fruit or vegetables, it doesn't matter.
+
+44:39.460 --> 44:42.300
+ It is eventually converted into a certain form of energy
+
+44:42.300 --> 44:43.940
+ that all your cells use.
+
+44:43.940 --> 44:45.720
+ But you don't take glucose,
+
+44:45.720 --> 44:49.020
+ you don't take a bread or a steak or a nice orange
+
+44:49.020 --> 44:50.320
+ and shove it in your ear.
+
+44:50.320 --> 44:52.340
+ You put it in your mouth, it goes into your stomach,
+
+44:52.340 --> 44:55.640
+ it's digested, and then that resource is distributed
+
+44:55.640 --> 44:57.500
+ to all the cells of your body.
+
+44:57.500 --> 44:59.860
+ Every cell in your body needs oxygen
+
+44:59.860 --> 45:03.300
+ and you don't put a hose through your nostril
+
+45:03.300 --> 45:05.180
+ or through your ear or through some other orifice
+
+45:05.180 --> 45:06.160
+ in your body.
+
+45:06.160 --> 45:10.220
+ You inhale air and it's then distributed via the lungs
+
+45:10.220 --> 45:12.320
+ to the cells in your bloodstream
+
+45:12.320 --> 45:15.360
+ and that's distributed to all the organs of your body.
+
+45:15.360 --> 45:19.420
+ Every cell and organ in your body needs light information.
+
+45:19.420 --> 45:21.260
+ And the way to get that light information
+
+45:21.260 --> 45:24.460
+ to all those cells, because you have a thick skull
+
+45:24.460 --> 45:29.180
+ and inside of you is dark inside your skin,
+
+45:29.180 --> 45:30.780
+ there's no sunlight getting in there,
+
+45:30.780 --> 45:32.720
+ is by viewing sunlight with your eyes
+
+45:32.720 --> 45:35.500
+ at the two times a day that I'm referring to, okay?
+
+45:35.500 --> 45:37.380
+ That's the only route.
+
+45:37.380 --> 45:39.000
+ There was a study published in Science,
+
+45:39.000 --> 45:43.180
+ an excellent journal well over 10 years ago
+
+45:43.180 --> 45:46.200
+ that showed that light shown on the back of the knee
+
+45:46.200 --> 45:49.140
+ could set these circadian rhythms.
+
+45:49.140 --> 45:50.620
+ That study was retracted
+
+45:50.620 --> 45:52.100
+ and unfortunately most people don't know
+
+45:52.100 --> 45:53.360
+ that it was retracted.
+
+45:53.360 --> 45:54.940
+ There were some experimental flaws
+
+45:54.940 --> 45:57.460
+ that people were actually viewing light through their eyes.
+
+45:57.460 --> 45:58.700
+ That study was repeated.
+
+45:58.700 --> 46:03.420
+ Turns out there is no extra ocular photoreception in humans.
+
+46:03.420 --> 46:05.820
+ Whatever somebody tells you that light to the skin
+
+46:05.820 --> 46:09.460
+ or light to the wherever is beneficial for your health,
+
+46:09.460 --> 46:10.660
+ we can talk about that,
+
+46:10.660 --> 46:12.700
+ but there's no way that light information
+
+46:12.700 --> 46:14.700
+ is setting your clocks.
+
+46:14.700 --> 46:17.940
+ You need these cells in your eyes to perceive
+
+46:17.940 --> 46:20.660
+ or to see light at the particular times of day
+
+46:20.660 --> 46:22.020
+ that I'm referring to.
+
+46:22.020 --> 46:25.060
+ Some animals like snakes and other reptiles
+
+46:25.060 --> 46:27.740
+ actually have a hole in the top of their skull
+
+46:27.740 --> 46:30.900
+ to get light information directly to their pineal
+
+46:30.900 --> 46:32.900
+ where to suppress melatonin.
+
+46:32.900 --> 46:33.960
+ We don't have that hole.
+
+46:33.960 --> 46:37.100
+ I mean, most of you don't have holes in your skull.
+
+46:37.100 --> 46:39.600
+ These holes in your skull that we call
+
+46:39.600 --> 46:43.160
+ the sockets for the eyes are actually there
+
+46:43.160 --> 46:46.600
+ primarily to allow light information to the central clock.
+
+46:46.600 --> 46:48.660
+ And then vision and pattern vision and color vision
+
+46:48.660 --> 46:50.540
+ came much later in evolution.
+
+46:50.540 --> 46:52.320
+ We know this on the basis of genetic studies
+
+46:52.320 --> 46:55.100
+ we get to discuss in a future podcast.
+
+46:55.100 --> 46:56.880
+ So get that light information
+
+46:56.880 --> 46:59.020
+ to the cells of your brain and body
+
+46:59.860 --> 47:01.420
+ by viewing sunlight at the two times a day
+
+47:01.420 --> 47:02.380
+ that I referred to.
+
+47:03.980 --> 47:06.260
+ There's always a lot of questions about how long,
+
+47:06.260 --> 47:07.840
+ how much, how do I know if I've had enough?
+
+47:07.840 --> 47:11.020
+ You'll know because your rhythm will start to fall
+
+47:11.020 --> 47:13.160
+ into some degree of normalcy.
+
+47:13.160 --> 47:14.580
+ You'll start to wake up at more or less
+
+47:14.580 --> 47:15.660
+ the same time each day.
+
+47:15.660 --> 47:17.340
+ You'll fall asleep more easily at night.
+
+47:17.340 --> 47:19.040
+ Generally it takes about two or three days
+
+47:19.040 --> 47:20.720
+ for these systems to align.
+
+47:20.720 --> 47:22.960
+ So if you've not been doing these behaviors,
+
+47:22.960 --> 47:24.180
+ it's gonna take a few days
+
+47:24.180 --> 47:26.300
+ but they can have tremendous benefits
+
+47:26.300 --> 47:28.920
+ and sometimes rather quickly on a number of different
+
+47:28.920 --> 47:31.060
+ mental and physical aspects of your health.
+
+47:32.940 --> 47:35.780
+ Now let's talk about the bad effects of light
+
+47:35.780 --> 47:40.300
+ because light is not supposed to arrive in our system
+
+47:40.300 --> 47:41.500
+ at any time.
+
+47:41.500 --> 47:44.460
+ And nowadays, because of screens and artificial light,
+
+47:44.460 --> 47:48.540
+ we have access to light at times of day and night
+
+47:48.540 --> 47:50.560
+ that normally we wouldn't.
+
+47:50.560 --> 47:53.260
+ Now, earlier I said that you need a lot of light
+
+47:53.260 --> 47:56.260
+ in particular sunlight to set these clock mechanisms.
+
+47:56.260 --> 47:59.060
+ That's true but there's a kind of diabolical feature
+
+47:59.060 --> 48:00.180
+ to the way all this works
+
+48:00.180 --> 48:02.920
+ which is the longer you've been awake,
+
+48:02.920 --> 48:07.920
+ the more sensitive your retina and these cells are to light.
+
+48:08.020 --> 48:11.780
+ So that if you've been awake for 10, 12, 14 hours,
+
+48:11.780 --> 48:14.720
+ it becomes very easy for even a small amount of light
+
+48:14.720 --> 48:19.440
+ coming from a screen or from an overhead light
+
+48:19.440 --> 48:21.760
+ to trigger the activation of the clock
+
+48:21.760 --> 48:23.620
+ and make you feel like you wanna stay up later,
+
+48:23.620 --> 48:24.880
+ make it harder to fall asleep
+
+48:24.880 --> 48:27.040
+ and disrupt your sleep pattern.
+
+48:27.040 --> 48:29.440
+ Okay, so the simple way to think about this
+
+48:29.440 --> 48:32.240
+ is you want as much light as is safely possible
+
+48:32.240 --> 48:34.600
+ early in the day, morning and throughout the day,
+
+48:34.600 --> 48:35.820
+ including blue light.
+
+48:35.820 --> 48:37.820
+ So take those blue blockers off during the day
+
+48:37.820 --> 48:40.820
+ unless you have a real issue with screen light sensitivity.
+
+48:40.820 --> 48:43.820
+ And you want as little light coming into your eyes,
+
+48:43.820 --> 48:47.560
+ artificial or sunlight after say 8 p.m.
+
+48:47.560 --> 48:50.500
+ And certainly you do not want to get bright light exposure
+
+48:50.500 --> 48:52.600
+ to your eyes between 11 p.m. and 4 a.m.
+
+48:52.600 --> 48:54.040
+ And here's why.
+
+48:54.040 --> 48:56.140
+ David Berson, who I mentioned before
+
+48:56.140 --> 48:58.260
+ and another friend and colleague, Samir Hattar,
+
+48:58.260 --> 49:00.020
+ who's director of the Chronobiology Unit
+
+49:00.020 --> 49:02.180
+ at the National Institutes of Mental Health,
+
+49:02.180 --> 49:05.740
+ published a paper in Cell, which is a journal,
+
+49:05.740 --> 49:07.900
+ another excellent journal, very high stringency,
+
+49:07.900 --> 49:12.900
+ showing that light that arrives to the eyes
+
+49:13.020 --> 49:16.840
+ between 11 p.m. and 4 a.m. approximately
+
+49:16.840 --> 49:20.300
+ suppresses the release of dopamine,
+
+49:20.300 --> 49:22.220
+ this neuromodulator that makes us feel good
+
+49:22.220 --> 49:25.780
+ as sort of an endogenous antidepressant
+
+49:25.780 --> 49:27.000
+ and can inhibit learning
+
+49:27.000 --> 49:30.580
+ and create all sorts of other detrimental effects.
+
+49:30.580 --> 49:32.280
+ It does this through a mechanism,
+
+49:32.280 --> 49:34.440
+ for those of you who want to know the neural pathways,
+
+49:34.440 --> 49:35.860
+ that involves light to the eyes
+
+49:35.860 --> 49:38.800
+ that then signal to a structure called the habenula.
+
+49:38.800 --> 49:40.620
+ The habenula looks like two little bat ears
+
+49:40.620 --> 49:41.860
+ sitting right in the middle of you,
+
+49:41.860 --> 49:43.500
+ structuring your brain called the thalamus.
+
+49:43.500 --> 49:44.620
+ Don't worry about these names
+
+49:44.620 --> 49:45.680
+ if you're not interested in this stuff.
+
+49:45.680 --> 49:48.380
+ If you are, these are just avenues to explore.
+
+49:48.380 --> 49:50.320
+ When that habenula gets activated,
+
+49:50.320 --> 49:53.100
+ it's actually called the disappointment nucleus
+
+49:53.100 --> 49:57.040
+ because it actually makes us feel less happy
+
+49:57.040 --> 49:58.140
+ and more disappointed
+
+49:58.140 --> 50:00.660
+ and can lead to certain forms of depression
+
+50:00.660 --> 50:02.140
+ in the wakeful state.
+
+50:02.140 --> 50:03.420
+ Now, if you wake up in the middle of the night
+
+50:03.420 --> 50:04.420
+ and you need to use the bathroom
+
+50:04.420 --> 50:05.740
+ or you're on an all night flight
+
+50:05.740 --> 50:10.280
+ and you need to read or whatever it is, fine.
+
+50:11.340 --> 50:13.300
+ Every once in a while, it's not going to be a problem
+
+50:13.300 --> 50:15.380
+ to get bright light exposure to your eyes
+
+50:15.380 --> 50:16.820
+ in the middle of the night.
+
+50:16.820 --> 50:19.500
+ But if you think about our lifestyle nowadays
+
+50:19.500 --> 50:21.100
+ and being up late looking at phones,
+
+50:21.100 --> 50:22.780
+ even if you dim that screen,
+
+50:22.780 --> 50:24.660
+ you're triggering this activation
+
+50:24.660 --> 50:26.140
+ because your retinal sensitivity
+
+50:26.140 --> 50:28.260
+ and the sensitivity of these neurons has gone up
+
+50:28.260 --> 50:29.700
+ late in the day.
+
+50:29.700 --> 50:32.040
+ Now, I'm not here to dictate what you should or shouldn't do
+
+50:32.040 --> 50:34.580
+ but for those of you that are experiencing challenges
+
+50:34.580 --> 50:36.540
+ with mood, those of you that have anxiety,
+
+50:36.540 --> 50:39.180
+ learning problems, issues focusing,
+
+50:39.180 --> 50:41.340
+ the questions I usually get are, how can I focus better?
+
+50:41.340 --> 50:43.040
+ Well, we will get to that.
+
+50:43.040 --> 50:46.020
+ But one of the best ways you can support your mechanisms
+
+50:46.020 --> 50:49.100
+ for good mood, mental health, learning, focus,
+
+50:49.100 --> 50:52.940
+ metabolism, et cetera, is to take control
+
+50:52.940 --> 50:55.660
+ of this light exposure behavior at night
+
+50:55.660 --> 50:58.740
+ and not get much or any bright light exposure
+
+50:58.740 --> 50:59.920
+ in the middle of the night.
+
+50:59.920 --> 51:02.580
+ Red light won't trigger this pathway
+
+51:02.580 --> 51:05.180
+ but very few people have the kind of infrared lights
+
+51:05.180 --> 51:07.260
+ that are set up or floor lights.
+
+51:07.260 --> 51:09.140
+ And that brings me to an important point
+
+51:09.140 --> 51:10.640
+ which is about the location of light.
+
+51:10.640 --> 51:13.560
+ This hasn't been discussed much out there, I don't think.
+
+51:13.560 --> 51:16.180
+ These cells in our eye, these neurons
+
+51:16.180 --> 51:19.620
+ that signal the central clock reside mostly,
+
+51:19.620 --> 51:22.060
+ not exclusively, but mostly in the bottom half
+
+51:22.060 --> 51:23.100
+ of our retina.
+
+51:23.100 --> 51:25.740
+ And because we have a lens in front of our retina
+
+51:25.740 --> 51:27.840
+ and because of the optics of lenses,
+
+51:27.840 --> 51:30.380
+ that means that these cells are actually viewing
+
+51:30.380 --> 51:31.960
+ our upper visual field.
+
+51:31.960 --> 51:34.460
+ There's an inversion of the visual image, et cetera.
+
+51:34.460 --> 51:36.140
+ You can look that up if you wanna learn more
+
+51:36.140 --> 51:38.460
+ about retinal optics, it's fascinating
+
+51:38.460 --> 51:40.580
+ but not the topic for today.
+
+51:40.580 --> 51:42.940
+ These cells are in the bottom half of your retina mostly
+
+51:42.940 --> 51:47.940
+ and so they're viewing the overhead visual space around you.
+
+51:48.220 --> 51:50.840
+ This is probably not coincidental
+
+51:50.840 --> 51:54.260
+ that these cells were essentially designed
+
+51:54.260 --> 51:58.100
+ to detect sunlight, which is overhead, of course.
+
+51:58.100 --> 52:03.100
+ So if you want to avoid improper activation
+
+52:03.940 --> 52:07.700
+ of these neurons, it's better to place lights
+
+52:07.700 --> 52:10.780
+ that you use in the evening low in your physical environment
+
+52:10.780 --> 52:13.100
+ so on desktops or even the floor,
+
+52:13.100 --> 52:17.940
+ if you wanna go that way, as opposed to overhead lights.
+
+52:17.940 --> 52:20.900
+ So overhead fluorescent lights would be the worst.
+
+52:20.900 --> 52:23.300
+ That would be the worst case scenario.
+
+52:23.300 --> 52:25.740
+ Lights that are overhead that are a little bit softer
+
+52:25.740 --> 52:28.000
+ of the sort of yellow or reddish tints
+
+52:28.000 --> 52:29.040
+ would be slightly better.
+
+52:29.040 --> 52:31.660
+ But dim lights that are set low in the room
+
+52:31.660 --> 52:33.580
+ are going to be best because they aren't going
+
+52:33.580 --> 52:36.180
+ to activate these neurons
+
+52:36.180 --> 52:39.140
+ and therefore shift your circadian clock.
+
+52:39.140 --> 52:40.540
+ So that's a goal.
+
+52:40.540 --> 52:43.580
+ Some people like Samir Hatar that I mentioned earlier,
+
+52:43.580 --> 52:46.660
+ he turns his home basically into a cave in the evenings.
+
+52:46.660 --> 52:49.460
+ Candlelight actually does not trigger
+
+52:49.460 --> 52:50.660
+ activation of these cells.
+
+52:50.660 --> 52:55.660
+ So candlelight and fireplaces and campfires are fine.
+
+52:56.280 --> 52:58.260
+ Dim lights, very dim lights are fine
+
+52:58.260 --> 53:00.000
+ and lights low in the physical environment.
+
+53:00.000 --> 53:02.660
+ Of course, the problem with candlelight and fireplaces
+
+53:02.660 --> 53:05.260
+ is the fire hazard, but you're smart people.
+
+53:05.260 --> 53:07.620
+ You know what to do about that.
+
+53:07.620 --> 53:10.820
+ Don't burn down whatever structure you're in,
+
+53:10.820 --> 53:13.220
+ including forests, please.
+
+53:13.220 --> 53:16.840
+ So keep the lights low in your environment.
+
+53:16.840 --> 53:18.960
+ What if you wake up in the middle of the night
+
+53:18.960 --> 53:23.020
+ and you find yourself watching TV or on the computer?
+
+53:23.020 --> 53:25.780
+ And well, in that case, you might want to wear blue blockers
+
+53:25.780 --> 53:28.060
+ and you certainly would want to dim the screen,
+
+53:28.060 --> 53:29.580
+ but ideally you're not doing that.
+
+53:29.580 --> 53:32.620
+ It's remarkable the positive effects
+
+53:32.620 --> 53:34.600
+ of getting that bit of sunlight early in the day,
+
+53:34.600 --> 53:38.060
+ maybe even also around sunset and avoiding bright lights
+
+53:38.060 --> 53:40.520
+ and especially overhead bright lights
+
+53:40.520 --> 53:42.680
+ between about 11 p.m. and 4 a.m.
+
+53:42.680 --> 53:44.420
+ Now I'm not talking about shift work.
+
+53:44.420 --> 53:46.620
+ I'm realizing that we're probably going to have to have
+
+53:46.620 --> 53:49.360
+ an entire discussion devoted just to shift workers
+
+53:49.360 --> 53:50.820
+ because there's some good information there
+
+53:50.820 --> 53:52.700
+ about how they can protect themselves
+
+53:52.700 --> 53:56.300
+ against some of the very bad health effects of shift work
+
+53:56.300 --> 53:57.780
+ of getting light in the middle of the night.
+
+53:57.780 --> 54:00.660
+ But we rely on shift workers and they're super important
+
+54:00.660 --> 54:03.420
+ to culture and society and the economy.
+
+54:03.420 --> 54:05.540
+ So I want to acknowledge them and let you know
+
+54:05.540 --> 54:10.540
+ that we will do a discussion about shift work and jet lag.
+
+54:10.540 --> 54:14.300
+ But let's talk about what light can do
+
+54:14.300 --> 54:17.540
+ in terms of shifting us in healthy ways.
+
+54:17.540 --> 54:20.200
+ So the way to think about this whole system,
+
+54:20.200 --> 54:21.940
+ again, is you've got adenosine building up
+
+54:21.940 --> 54:24.040
+ depending on how long you've been awake
+
+54:24.040 --> 54:25.100
+ and it's making you sleepy.
+
+54:25.100 --> 54:26.780
+ And then you've got the circadian mechanisms
+
+54:26.780 --> 54:28.460
+ that are timing your wakefulness
+
+54:28.460 --> 54:30.060
+ and timing when you want to be asleep,
+
+54:30.060 --> 54:32.340
+ mainly through cortisol and melatonin.
+
+54:32.340 --> 54:33.420
+ But there are a bunch of other things
+
+54:33.420 --> 54:35.500
+ that are downstream of cortisol and melatonin.
+
+54:35.500 --> 54:40.040
+ Like we tend to be hungrier during our wakeful period
+
+54:40.040 --> 54:41.000
+ than late at night.
+
+54:41.000 --> 54:42.760
+ Some people like to eat late at night,
+
+54:42.760 --> 54:45.660
+ but if you're finding that you can't become a day person
+
+54:45.660 --> 54:48.860
+ or a morning person, shifting your light exposure,
+
+54:48.860 --> 54:52.900
+ exercise and food intake to the daytime will help.
+
+54:52.900 --> 54:56.720
+ Some people like to stop eating around six or 8 p.m.
+
+54:56.720 --> 54:58.900
+ because of metabolic reasons
+
+54:58.900 --> 55:01.300
+ or they're trying to maintain their weight or lose weight.
+
+55:01.300 --> 55:05.660
+ That's actually not supported so well by the literature.
+
+55:05.660 --> 55:07.460
+ The literature around nutrition essentially says
+
+55:07.460 --> 55:09.840
+ that it's best to restrict your feeding
+
+55:09.840 --> 55:12.080
+ to a certain period of each 24 hour cycle
+
+55:12.080 --> 55:14.140
+ to not be eating around the clock.
+
+55:14.140 --> 55:16.100
+ And whether or not that's four hours or eight hours
+
+55:16.100 --> 55:19.560
+ or 16 hours is a much lengthier discussion
+
+55:19.560 --> 55:20.580
+ than we have time for now.
+
+55:20.580 --> 55:23.500
+ I would refer you to Sachin Panda's book,
+
+55:23.500 --> 55:25.580
+ The Circadian Code, which talks all about that.
+
+55:25.580 --> 55:27.340
+ He's an expert, a former colleague of mine
+
+55:27.340 --> 55:29.700
+ from the Salk Institute in San Diego.
+
+55:29.700 --> 55:33.320
+ You can explore intermittent and circadian fasting,
+
+55:33.320 --> 55:35.540
+ so to speak, through Sachin's literature.
+
+55:35.540 --> 55:36.380
+ We'll talk about that.
+
+55:36.380 --> 55:37.540
+ We might even get Sachin in here
+
+55:37.540 --> 55:39.820
+ if we're lucky at some point in the future.
+
+55:39.820 --> 55:43.340
+ But you can actually use light to wake up earlier.
+
+55:43.340 --> 55:46.400
+ Jamie Zeitzer and colleagues did a beautiful study
+
+55:46.400 --> 55:51.400
+ showing that if you turn on the lights before waking up,
+
+55:51.660 --> 55:54.820
+ so around 45 minutes to an hour before waking up,
+
+55:54.820 --> 55:56.340
+ even if your eyelids are closed,
+
+55:56.340 --> 55:58.640
+ provided you're not under the covers,
+
+55:59.860 --> 56:01.700
+ after doing that for a few days,
+
+56:01.700 --> 56:04.420
+ that increases your total sleep time
+
+56:04.420 --> 56:07.380
+ and shifts forward the time at which you feel sleepy.
+
+56:07.380 --> 56:10.700
+ It makes you want to go to bed earlier each night.
+
+56:10.700 --> 56:13.160
+ Now, in a kind of a diabolical way,
+
+56:13.160 --> 56:15.700
+ they did this with teenagers who are notorious
+
+56:15.700 --> 56:17.460
+ for wanting to wake up late and stay up late.
+
+56:17.460 --> 56:19.940
+ And what they found was bright light flashes,
+
+56:19.940 --> 56:21.400
+ just turning on the lights in their environment,
+
+56:21.400 --> 56:22.240
+ overhead lights,
+
+56:22.240 --> 56:24.060
+ because they're trying to activate the system,
+
+56:24.060 --> 56:26.500
+ and that's why they're using overhead lights.
+
+56:26.500 --> 56:30.100
+ Even through the eyelids, before these kids woke up,
+
+56:30.100 --> 56:32.660
+ then made those kids naturally want to go to bed earlier
+
+56:32.660 --> 56:34.180
+ and they ended up sleeping longer.
+
+56:34.180 --> 56:35.200
+ So that's something you could try.
+
+56:35.200 --> 56:38.260
+ You could put your lights on a timer to go on
+
+56:38.260 --> 56:40.980
+ early in the day before you wake up.
+
+56:40.980 --> 56:44.260
+ You could open your blind so that sunlight is coming through.
+
+56:44.260 --> 56:46.540
+ And again, if you curl up under the covers,
+
+56:46.540 --> 56:49.300
+ then it's not going to reach these neurons,
+
+56:49.300 --> 56:51.380
+ but it's remarkable the light can actually penetrate
+
+56:51.380 --> 56:53.100
+ the eyelids, activate these neurons,
+
+56:53.100 --> 56:54.500
+ and go to the central clock.
+
+56:55.420 --> 56:57.940
+ That study illustrates a really important principle
+
+56:57.940 --> 56:58.900
+ of how you're built,
+
+56:58.900 --> 57:01.900
+ which is you have the capacity for what are called
+
+57:01.900 --> 57:05.020
+ phase advances and phase delays.
+
+57:05.020 --> 57:07.140
+ And I don't want to complicate this too much.
+
+57:07.140 --> 57:10.480
+ So the simplest way to think about phase advances
+
+57:10.480 --> 57:15.480
+ and phase delays is that if you see light late in the day,
+
+57:15.620 --> 57:17.860
+ and in particular in the middle of the night,
+
+57:17.860 --> 57:22.300
+ your brain and body for reasons that now you understand
+
+57:22.300 --> 57:24.380
+ will think that that's morning light,
+
+57:24.380 --> 57:25.540
+ even though it's not sunlight
+
+57:25.540 --> 57:27.120
+ because you have this heightened sensitivity,
+
+57:27.120 --> 57:28.460
+ and it will phase delay,
+
+57:28.460 --> 57:29.860
+ it will delay your clock.
+
+57:29.860 --> 57:32.020
+ It will essentially make you want to get up later
+
+57:32.020 --> 57:33.740
+ and go to sleep later.
+
+57:33.740 --> 57:36.500
+ So if you get light exposure too late in the evening
+
+57:36.500 --> 57:37.900
+ or in the middle of the night,
+
+57:37.900 --> 57:40.140
+ it's going to make it hard to want to wake up
+
+57:40.140 --> 57:42.820
+ the next morning early and to go to bed early.
+
+57:44.340 --> 57:45.940
+ The opposite is also true.
+
+57:46.900 --> 57:49.620
+ If you wake up early,
+
+57:49.620 --> 57:54.300
+ say 6 a.m. or 7 a.m. and get light exposure,
+
+57:54.300 --> 57:57.260
+ or even earlier, 4 a.m., and get light exposure,
+
+57:57.260 --> 58:00.060
+ it will phase advance your clock, okay?
+
+58:00.060 --> 58:02.580
+ It's going to make your clock think it's earlier
+
+58:02.580 --> 58:04.340
+ and you'll want to wake up earlier.
+
+58:04.340 --> 58:06.700
+ So the simple way to think about this
+
+58:06.700 --> 58:08.820
+ is if you're having trouble waking up early
+
+58:08.820 --> 58:11.660
+ and feeling alert early in the day,
+
+58:11.660 --> 58:14.260
+ you're going to want to try and get bright light exposure
+
+58:14.260 --> 58:17.540
+ even before waking up because it will advance your clock.
+
+58:17.540 --> 58:20.180
+ It's sort of like turning the clock forward.
+
+58:20.180 --> 58:22.700
+ Whereas if you are having trouble waking up early,
+
+58:22.700 --> 58:25.900
+ you definitely don't want to get too much light exposure
+
+58:25.900 --> 58:29.360
+ or any light exposure to your eyes late in the evening
+
+58:29.360 --> 58:30.220
+ and in the middle of the night
+
+58:30.220 --> 58:33.140
+ because it's just going to delay your clock more and more.
+
+58:33.140 --> 58:35.420
+ So rather than get into the specifics
+
+58:35.420 --> 58:36.680
+ of everybody's situation,
+
+58:36.680 --> 58:38.020
+ because there are many of you out there
+
+58:38.020 --> 58:39.180
+ with different situations
+
+58:39.180 --> 58:42.340
+ and lifestyle requirements, et cetera,
+
+58:42.340 --> 58:43.960
+ the way to think about this
+
+58:43.960 --> 58:46.220
+ is that you have these internal mechanisms
+
+58:46.220 --> 58:47.960
+ of adenosine and circadian clocks,
+
+58:47.960 --> 58:49.580
+ and they're always operating.
+
+58:49.580 --> 58:52.420
+ And what you're trying to do is provide them anchors.
+
+58:52.420 --> 58:55.860
+ You're trying to provide them consistent, powerful anchors
+
+58:55.860 --> 58:59.240
+ so that your cortisol, your melatonin,
+
+58:59.240 --> 59:02.420
+ and then everything that cascades down from that,
+
+59:02.420 --> 59:05.140
+ like your metabolism and your ability to learn
+
+59:05.140 --> 59:08.220
+ and your sense of alertness, your dopamine, your serotonin,
+
+59:08.220 --> 59:11.580
+ all that stuff is timed regularly.
+
+59:11.580 --> 59:16.580
+ One of the reasons why there's so much challenge out there
+
+59:16.840 --> 59:19.980
+ with focus and anxiety and depression,
+
+59:19.980 --> 59:21.260
+ there are a lot of reasons for that,
+
+59:21.260 --> 59:25.380
+ but one of the reasons is that people's internal mechanisms
+
+59:25.380 --> 59:27.640
+ aren't anchored to anything regular.
+
+59:27.640 --> 59:30.620
+ Now, this doesn't require being neurotically attached
+
+59:30.620 --> 59:32.380
+ to getting up at a very specific time,
+
+59:32.380 --> 59:35.220
+ going outside, viewing the sunlight, same time every day.
+
+59:35.220 --> 59:36.760
+ These systems, again, will average,
+
+59:36.760 --> 59:39.860
+ but if you can provide them consistent light anchors
+
+59:39.860 --> 59:41.760
+ early in the day and in the evening
+
+59:41.760 --> 59:43.320
+ and avoiding light at night,
+
+59:43.320 --> 59:45.700
+ you will be amazed at the tremendous number
+
+59:45.700 --> 59:47.980
+ of positive effects that can come from that
+
+59:47.980 --> 59:50.980
+ at the level of metabolic factors, hormones,
+
+59:50.980 --> 59:53.420
+ and just general feelings of wellbeing.
+
+59:53.420 --> 59:56.300
+ In fact, most of us are familiar
+
+59:56.300 --> 59:58.340
+ with what it is to not sleep well
+
+59:58.340 --> 59:59.960
+ and all the terrible effects that has.
+
+59:59.960 --> 1:00:01.180
+ Maybe one night you're fine,
+
+1:00:01.180 --> 1:00:04.220
+ two nights even for the new parents out there,
+
+1:00:04.220 --> 1:00:06.120
+ I sympathize with you,
+
+1:00:06.120 --> 1:00:09.540
+ but most people are not familiar with what it is
+
+1:00:09.540 --> 1:00:13.380
+ to sleep really, really well on a consistent basis.
+
+1:00:13.380 --> 1:00:15.140
+ And when you start doing that
+
+1:00:15.140 --> 1:00:17.000
+ by controlling your sleep environment, right,
+
+1:00:17.000 --> 1:00:19.780
+ get the proper sleep surface, get the proper pillow,
+
+1:00:19.780 --> 1:00:21.800
+ get the temperature in the room right,
+
+1:00:21.800 --> 1:00:23.760
+ get your light exposure right,
+
+1:00:23.760 --> 1:00:26.720
+ start timing your exercise at normal periods or times
+
+1:00:26.720 --> 1:00:28.780
+ throughout the day and week.
+
+1:00:28.780 --> 1:00:31.340
+ It's amazing how many other biological systems
+
+1:00:31.340 --> 1:00:33.100
+ just naturally fall in line.
+
+1:00:33.100 --> 1:00:35.900
+ And this is why whenever people ask me,
+
+1:00:35.900 --> 1:00:36.760
+ what should I take,
+
+1:00:36.760 --> 1:00:38.460
+ which is one of the most common questions I get,
+
+1:00:38.460 --> 1:00:39.540
+ what supplements should I take?
+
+1:00:39.540 --> 1:00:40.700
+ What drugs should I be taking?
+
+1:00:40.700 --> 1:00:42.280
+ What things should I be taking?
+
+1:00:42.280 --> 1:00:47.280
+ The first question I always ask them is, how's your sleep?
+
+1:00:47.460 --> 1:00:49.560
+ And 90% of the time they tell me
+
+1:00:49.560 --> 1:00:51.760
+ they either have trouble falling asleep or staying asleep,
+
+1:00:51.760 --> 1:00:54.380
+ or they don't feel rested throughout the day.
+
+1:00:54.380 --> 1:00:56.600
+ A brief note about naps.
+
+1:00:56.600 --> 1:00:59.620
+ Naps, provided that they're less than one ultradian cycle,
+
+1:00:59.620 --> 1:01:02.540
+ provided they're 20 minutes or 30 minutes or even an hour,
+
+1:01:02.540 --> 1:01:04.620
+ can be very beneficial for a lot of people.
+
+1:01:04.620 --> 1:01:06.260
+ You don't have to take them,
+
+1:01:06.260 --> 1:01:09.020
+ but many people naturally feel a dip in energy
+
+1:01:09.020 --> 1:01:10.620
+ and focus late in the afternoon.
+
+1:01:10.620 --> 1:01:12.740
+ In fact, if we were gonna look at wakefulness,
+
+1:01:12.740 --> 1:01:13.760
+ what we would find is that
+
+1:01:13.760 --> 1:01:15.020
+ you get that morning light exposure,
+
+1:01:15.020 --> 1:01:16.420
+ hopefully your cortisol goes up,
+
+1:01:16.420 --> 1:01:17.500
+ people will start feeling awake,
+
+1:01:17.500 --> 1:01:19.820
+ and then around two or three or four in the afternoon,
+
+1:01:19.820 --> 1:01:23.420
+ there's a spike in everything from alertness
+
+1:01:23.420 --> 1:01:26.420
+ to ability to learn, some metabolic factors drop,
+
+1:01:26.420 --> 1:01:28.540
+ and then it just naturally comes back up,
+
+1:01:28.540 --> 1:01:31.180
+ and then it tapers off as the night goes on.
+
+1:01:31.180 --> 1:01:33.720
+ So for some of you, naps are great.
+
+1:01:33.720 --> 1:01:35.320
+ I love taking naps.
+
+1:01:35.320 --> 1:01:38.400
+ Some people, they wake up from naps feeling really groggy.
+
+1:01:38.400 --> 1:01:41.320
+ That's probably because they're not sleeping as well
+
+1:01:41.320 --> 1:01:42.500
+ as they should at night,
+
+1:01:42.500 --> 1:01:43.700
+ or as long as they should at night,
+
+1:01:43.700 --> 1:01:46.340
+ and so they're dropping into REM sleep
+
+1:01:46.340 --> 1:01:49.100
+ or deeper forms of sleep in the daytime.
+
+1:01:49.100 --> 1:01:51.240
+ And then they wake up and they feel kind of disoriented.
+
+1:01:51.240 --> 1:01:52.860
+ Other people feel great after a nap.
+
+1:01:52.860 --> 1:01:55.440
+ So that's another case where just like with caffeine,
+
+1:01:55.440 --> 1:01:57.960
+ you sort of have to evaluate for yourself.
+
+1:01:57.960 --> 1:01:59.580
+ As we discuss this, you're probably realizing
+
+1:01:59.580 --> 1:02:01.140
+ this is a lot like nutrition,
+
+1:02:01.140 --> 1:02:02.660
+ where nowadays it's just crazy.
+
+1:02:02.660 --> 1:02:04.220
+ I mean, if you go on social media,
+
+1:02:04.220 --> 1:02:06.340
+ it's like you've got people who are pushing carnivore,
+
+1:02:06.340 --> 1:02:08.260
+ you've got other people who are pushing vegan,
+
+1:02:08.260 --> 1:02:11.040
+ other people who are pushing paleo,
+
+1:02:11.040 --> 1:02:12.980
+ every variation of every diet.
+
+1:02:12.980 --> 1:02:15.920
+ And there's a lot of data to support any and all of those,
+
+1:02:15.920 --> 1:02:17.300
+ and the arguments go on and on.
+
+1:02:17.300 --> 1:02:19.460
+ And there's probably a lot of genetic variation
+
+1:02:19.460 --> 1:02:21.900
+ and lifestyle variation that's going to dictate
+
+1:02:21.900 --> 1:02:23.420
+ whether or not something is good for you,
+
+1:02:23.420 --> 1:02:24.260
+ whether or not you like it,
+
+1:02:24.260 --> 1:02:26.020
+ whether or not you'll stick to it.
+
+1:02:26.020 --> 1:02:29.780
+ The same thing is true for circadian
+
+1:02:29.780 --> 1:02:32.660
+ and sleep and wakefulness behaviors,
+
+1:02:32.660 --> 1:02:34.340
+ except the light viewing behavior
+
+1:02:34.340 --> 1:02:35.380
+ that I talked about before.
+
+1:02:35.380 --> 1:02:36.320
+ There's no way around that.
+
+1:02:36.320 --> 1:02:37.840
+ That's hardwired into our system.
+
+1:02:37.840 --> 1:02:41.180
+ The same way we could factually say
+
+1:02:41.180 --> 1:02:44.580
+ that everybody needs some nutrition at some level
+
+1:02:44.580 --> 1:02:47.460
+ from some source, everybody needs light information
+
+1:02:47.460 --> 1:02:51.660
+ arriving in their system in some way at regular intervals.
+
+1:02:51.660 --> 1:02:54.020
+ So that's really what this is about.
+
+1:02:54.020 --> 1:02:55.380
+ Okay, so naps are going to be good
+
+1:02:55.380 --> 1:02:56.700
+ for some people, not for others.
+
+1:02:56.700 --> 1:02:59.240
+ I have a colleague, a very accomplished neuroscientist
+
+1:02:59.240 --> 1:03:02.800
+ who likes to take naps just after lunch.
+
+1:03:02.800 --> 1:03:06.100
+ I personally like to take a nap around three or 4 p.m.,
+
+1:03:06.100 --> 1:03:08.180
+ but there's a practice that I've adopted
+
+1:03:08.180 --> 1:03:09.780
+ in the last five years
+
+1:03:09.780 --> 1:03:12.340
+ that I've found to be immensely beneficial
+
+1:03:12.340 --> 1:03:15.300
+ that is sort of like napping, but isn't napping.
+
+1:03:15.300 --> 1:03:18.700
+ It's a thing that they call yoga nidra.
+
+1:03:18.700 --> 1:03:20.980
+ Yoga nidra actually means yoga sleep.
+
+1:03:20.980 --> 1:03:23.740
+ And it's a sort of meditation that you listen to.
+
+1:03:23.740 --> 1:03:24.780
+ There are a number of scripts.
+
+1:03:24.780 --> 1:03:26.420
+ I've talked about this on podcasts before,
+
+1:03:26.420 --> 1:03:29.660
+ but I'm going to post a link to the two that I like most
+
+1:03:29.660 --> 1:03:34.660
+ that allows you to consciously bring your entire body
+
+1:03:35.700 --> 1:03:38.100
+ and mind into a state of deep relaxation.
+
+1:03:38.100 --> 1:03:41.180
+ And sometimes you fall asleep and sometimes you don't.
+
+1:03:41.180 --> 1:03:46.140
+ This is done for 10 to 30 or even 60 minutes at a time.
+
+1:03:46.140 --> 1:03:49.220
+ The other thing that works really well is meditation.
+
+1:03:49.220 --> 1:03:51.100
+ So I'm talking about naps,
+
+1:03:51.100 --> 1:03:52.700
+ but I'm also talking about yoga nidra,
+
+1:03:52.700 --> 1:03:54.460
+ which is sort of a form of meditation,
+
+1:03:54.460 --> 1:03:57.460
+ and then more standard forms of meditation.
+
+1:03:57.460 --> 1:04:00.140
+ All three of those do something powerful,
+
+1:04:00.140 --> 1:04:02.220
+ which is that they bring our mind
+
+1:04:02.220 --> 1:04:04.020
+ into a state of less so-called
+
+1:04:04.020 --> 1:04:05.980
+ sympathetic nervous system activation.
+
+1:04:05.980 --> 1:04:07.660
+ Go back and listen to episode one
+
+1:04:07.660 --> 1:04:08.820
+ if that doesn't make any sense,
+
+1:04:08.820 --> 1:04:10.460
+ which is what governs your alertness.
+
+1:04:10.460 --> 1:04:14.440
+ And instead it activates cells and circuits in your body
+
+1:04:14.440 --> 1:04:16.940
+ that promote the parasympathetic nervous system
+
+1:04:16.940 --> 1:04:18.660
+ or the calming system.
+
+1:04:18.660 --> 1:04:20.880
+ A lot of people are not good at falling asleep
+
+1:04:20.880 --> 1:04:23.780
+ because they're not good at calming down.
+
+1:04:23.780 --> 1:04:26.140
+ So some people have no trouble falling asleep,
+
+1:04:26.140 --> 1:04:28.580
+ but many people have a hard time falling asleep
+
+1:04:28.580 --> 1:04:30.020
+ or at least every once in a while
+
+1:04:30.020 --> 1:04:32.260
+ experience challenges falling asleep.
+
+1:04:32.260 --> 1:04:35.040
+ I don't have problems falling asleep most nights,
+
+1:04:35.040 --> 1:04:37.100
+ but I've noticed that if I'm working very hard
+
+1:04:37.100 --> 1:04:39.000
+ or if the world is particularly stressful,
+
+1:04:39.000 --> 1:04:41.380
+ my mind gets into a bit of a kind of OCD loop
+
+1:04:41.380 --> 1:04:42.820
+ where I tend to ruminate on things.
+
+1:04:42.820 --> 1:04:44.820
+ And I'm not even thinking about anything in particular.
+
+1:04:44.820 --> 1:04:48.180
+ It's just challenging for me to disengage and fall asleep.
+
+1:04:48.180 --> 1:04:50.540
+ Meditation and yoga nidra scripts
+
+1:04:50.540 --> 1:04:52.540
+ have been immensely helpful for me
+
+1:04:52.540 --> 1:04:55.880
+ in terms of accelerating the transition to sleep.
+
+1:04:55.880 --> 1:04:58.740
+ So they involve taking a few minutes,
+
+1:04:58.740 --> 1:05:01.460
+ 10 to 30 minutes or so, just like you would for a nap,
+
+1:05:01.460 --> 1:05:04.500
+ and just listening to a script almost passively.
+
+1:05:04.500 --> 1:05:07.700
+ And it has you do some particular patterns of breathing
+
+1:05:07.700 --> 1:05:10.580
+ and some other kind of body scan-like things
+
+1:05:10.580 --> 1:05:13.100
+ that can really help people learn to relax,
+
+1:05:13.100 --> 1:05:16.100
+ not just in that moment, but get better at relaxing
+
+1:05:16.100 --> 1:05:18.660
+ and turning off thinking in order to fall asleep
+
+1:05:18.660 --> 1:05:20.660
+ when they want to do that at night.
+
+1:05:20.660 --> 1:05:22.320
+ There's another thing that's similar to this,
+
+1:05:22.320 --> 1:05:25.000
+ which is certain forms of hypnosis for sleep.
+
+1:05:25.000 --> 1:05:26.820
+ For that, I'll just refer you to the website
+
+1:05:26.820 --> 1:05:30.600
+ of a colleague and collaborator of mine, David Spiegel,
+
+1:05:30.600 --> 1:05:33.040
+ who's our Associate Chair of Psychiatry
+
+1:05:33.040 --> 1:05:35.540
+ and Behavioral Sciences at Stanford.
+
+1:05:35.540 --> 1:05:38.180
+ He's developed a website, which is reverie,
+
+1:05:38.180 --> 1:05:43.180
+ R-E-V-E-R-I-E, health.com, so reveriehealth.com,
+
+1:05:43.580 --> 1:05:46.260
+ that has a lot of science-supported,
+
+1:05:46.260 --> 1:05:49.340
+ clinically-supported hypnosis scripts
+
+1:05:49.340 --> 1:05:50.700
+ that essentially take the brain
+
+1:05:50.700 --> 1:05:53.100
+ into states of deep relaxation
+
+1:05:53.100 --> 1:05:55.820
+ for sake of rewiring the brain and neuroplasticity.
+
+1:05:55.820 --> 1:05:57.400
+ But one of those scripts that's there
+
+1:05:57.400 --> 1:05:59.900
+ and is available free is for sleep.
+
+1:05:59.900 --> 1:06:01.940
+ And we'll talk more about hypnosis at a later time
+
+1:06:01.940 --> 1:06:04.280
+ because it has a ton of other effects
+
+1:06:04.280 --> 1:06:06.200
+ that aren't just limited to sleep.
+
+1:06:07.120 --> 1:06:10.140
+ So a period of time each day that you devote
+
+1:06:10.140 --> 1:06:12.420
+ to getting better at falling and staying asleep
+
+1:06:12.420 --> 1:06:15.100
+ is actually a really good practice to adopt.
+
+1:06:15.100 --> 1:06:17.840
+ The other thing about these practices like meditation,
+
+1:06:17.840 --> 1:06:21.140
+ yoga nidra, and hypnosis is people always say to me,
+
+1:06:21.140 --> 1:06:22.160
+ well, when should I do them?
+
+1:06:22.160 --> 1:06:24.700
+ And I always say, well, the best time of day to do it is
+
+1:06:24.700 --> 1:06:26.060
+ when you first wake up in the morning,
+
+1:06:26.060 --> 1:06:28.460
+ provided you've gotten your sunlight already,
+
+1:06:28.460 --> 1:06:30.060
+ anytime you wake up in the middle of the night
+
+1:06:30.060 --> 1:06:30.920
+ or any time of day.
+
+1:06:30.920 --> 1:06:32.860
+ In other words, they're always good for you
+
+1:06:32.860 --> 1:06:34.460
+ because it's a training mechanism
+
+1:06:34.460 --> 1:06:36.740
+ by which you self-train your nervous system
+
+1:06:36.740 --> 1:06:39.260
+ to go from a state of heightened alertness
+
+1:06:39.260 --> 1:06:42.060
+ that you don't want to heightened relaxation
+
+1:06:42.060 --> 1:06:43.420
+ that you do want.
+
+1:06:43.420 --> 1:06:46.300
+ And so it's really teaching you to hit the brake.
+
+1:06:46.300 --> 1:06:48.960
+ And that brings us to an even more important point perhaps,
+
+1:06:48.960 --> 1:06:51.520
+ which is we've all experienced
+
+1:06:51.520 --> 1:06:54.300
+ that we can stay up if we want to, right?
+
+1:06:54.300 --> 1:06:56.880
+ If we wanna stay up late on New Year's
+
+1:06:56.880 --> 1:06:58.260
+ or we wanna push an all-nighter,
+
+1:06:58.260 --> 1:07:00.780
+ some people can do that more easily than others,
+
+1:07:00.780 --> 1:07:03.340
+ but we're all capable of doing that.
+
+1:07:03.340 --> 1:07:05.860
+ But it's very hard to make ourselves fall asleep.
+
+1:07:05.860 --> 1:07:07.680
+ And so there's a sort of asymmetry
+
+1:07:07.680 --> 1:07:09.620
+ to the way our autonomic nervous system,
+
+1:07:09.620 --> 1:07:11.820
+ which governs this alertness calmness thing,
+
+1:07:11.820 --> 1:07:14.300
+ the sympathetic and parasympathetic nervous system,
+
+1:07:14.300 --> 1:07:17.680
+ there's an asymmetry there where we are more easily able
+
+1:07:17.680 --> 1:07:20.500
+ to engage wakefulness and drive wakefulness.
+
+1:07:20.500 --> 1:07:22.660
+ We can force ourselves to stay awake.
+
+1:07:22.660 --> 1:07:26.380
+ Then we are able to force ourselves to fall asleep.
+
+1:07:26.380 --> 1:07:29.340
+ And one of the things that I say over and over again,
+
+1:07:29.340 --> 1:07:31.480
+ and I'm gonna continue to say over and over again,
+
+1:07:31.480 --> 1:07:34.440
+ is it's very hard to control the mind with the mind.
+
+1:07:34.440 --> 1:07:36.260
+ When you have trouble falling asleep,
+
+1:07:36.260 --> 1:07:39.240
+ you need to look to some mechanism that involves the body.
+
+1:07:39.240 --> 1:07:42.040
+ And all the things I described, meditation, hypnosis,
+
+1:07:42.040 --> 1:07:46.720
+ yoga nidra, all involve exhale emphasized breathing,
+
+1:07:46.720 --> 1:07:49.780
+ certain ways of lying down and controlling the body.
+
+1:07:49.780 --> 1:07:51.080
+ We're gonna get into breathing
+
+1:07:51.080 --> 1:07:53.080
+ in real depth at another time.
+
+1:07:53.080 --> 1:07:56.580
+ But all of those involve using the body to control the mind
+
+1:07:56.580 --> 1:08:00.060
+ rather than trying to wrestle your mind
+
+1:08:00.060 --> 1:08:02.600
+ into a certain pattern of relaxation.
+
+1:08:02.600 --> 1:08:07.600
+ So earlier in episode one, I talked about the Mobius strip,
+
+1:08:07.820 --> 1:08:11.220
+ this continuous loop that is the brain-body relationship
+
+1:08:11.220 --> 1:08:13.020
+ or the mind-body relationship.
+
+1:08:13.020 --> 1:08:15.120
+ And when we're having trouble controlling the mind,
+
+1:08:15.120 --> 1:08:17.620
+ I encourage people to look towards the body,
+
+1:08:17.620 --> 1:08:20.720
+ look toward sunlight, avoid sunlight and bright light
+
+1:08:20.720 --> 1:08:22.580
+ if that happens to be late at night.
+
+1:08:22.580 --> 1:08:24.760
+ So there's a theme that's starting to emerge,
+
+1:08:24.760 --> 1:08:26.100
+ which is in order to control this thing
+
+1:08:26.100 --> 1:08:27.520
+ that we call the nervous system,
+
+1:08:27.520 --> 1:08:29.720
+ we have to look back to some of the things
+
+1:08:29.720 --> 1:08:32.960
+ we discussed earlier, like sensation, perception, et cetera.
+
+1:08:32.960 --> 1:08:35.140
+ But we have to ask, what can we control?
+
+1:08:35.140 --> 1:08:37.740
+ Well, I'm talking about controlling light exposure,
+
+1:08:37.740 --> 1:08:40.000
+ controlling your breathing and body.
+
+1:08:40.000 --> 1:08:41.460
+ I'm not going into details right now,
+
+1:08:41.460 --> 1:08:43.140
+ but you can see the yoga nidra script
+
+1:08:43.140 --> 1:08:46.900
+ or the reveriehealth.com or Headspace would be a great place
+
+1:08:46.900 --> 1:08:49.400
+ to adopt the meditation practice.
+
+1:08:49.400 --> 1:08:52.060
+ Any of those are really teaching you to use your body
+
+1:08:52.060 --> 1:08:54.420
+ to control your mind and to allow you
+
+1:08:54.420 --> 1:08:56.760
+ to explore the mind-body relationship in a way
+
+1:08:56.760 --> 1:08:59.740
+ that gives you more control over your mind
+
+1:08:59.740 --> 1:09:02.300
+ and the mind-body relationship, okay?
+
+1:09:02.300 --> 1:09:04.620
+ So we talked about light,
+
+1:09:04.620 --> 1:09:07.180
+ we talked about activity and timing of light,
+
+1:09:07.180 --> 1:09:09.140
+ talked about the usefulness of naps
+
+1:09:09.140 --> 1:09:12.380
+ and these things that I'm calling non-sleep deep rest,
+
+1:09:12.380 --> 1:09:16.860
+ which include meditation, yoga nidra and hypnosis.
+
+1:09:16.860 --> 1:09:20.280
+ Non-sleep deep rest, or what I hear after
+
+1:09:20.280 --> 1:09:23.140
+ we will refer to as NSDR,
+
+1:09:23.140 --> 1:09:24.980
+ not to be confused with EMDR,
+
+1:09:24.980 --> 1:09:26.620
+ I don't think I've ever heard NSDR,
+
+1:09:26.620 --> 1:09:31.620
+ so I'm planting a flag for NSDR, non-sleep deep rest,
+
+1:09:32.040 --> 1:09:36.280
+ as a way to reset one's ability to be awake
+
+1:09:36.280 --> 1:09:38.100
+ after you emerge from NSDR,
+
+1:09:38.100 --> 1:09:40.580
+ so to get some more wakefulness and ability to attend,
+
+1:09:40.580 --> 1:09:43.520
+ some emotional stability reset,
+
+1:09:43.520 --> 1:09:47.640
+ as well as make it better and easier to fall asleep
+
+1:09:47.640 --> 1:09:49.440
+ when you wanna go to sleep at night.
+
+1:09:49.440 --> 1:09:52.180
+ Now, non-sleep deep rest does have some research
+
+1:09:52.180 --> 1:09:53.140
+ to support it.
+
+1:09:53.140 --> 1:09:54.940
+ There's a beautiful study done
+
+1:09:54.940 --> 1:09:56.940
+ out of a university in Denmark,
+
+1:09:56.940 --> 1:09:59.660
+ I will later provide a link to that study,
+
+1:09:59.660 --> 1:10:02.380
+ that showed that this meditation
+
+1:10:02.380 --> 1:10:05.220
+ and yoga nidra type meditation
+
+1:10:05.220 --> 1:10:08.100
+ allows dopamine and other neuromodulators
+
+1:10:08.100 --> 1:10:09.740
+ in an area of the brain called the striatum
+
+1:10:09.740 --> 1:10:13.000
+ that's involved in motor planning and motor execution,
+
+1:10:13.000 --> 1:10:14.340
+ to reset itself.
+
+1:10:14.340 --> 1:10:17.860
+ In other words, this NSDR can reset our ability
+
+1:10:17.860 --> 1:10:21.580
+ to engage in the world in a way that's very deliberate,
+
+1:10:21.580 --> 1:10:22.940
+ not to throw in another acronym,
+
+1:10:22.940 --> 1:10:26.180
+ but NSDR resets your ability to engage in DPOs,
+
+1:10:26.180 --> 1:10:27.800
+ duration, path, and outcome.
+
+1:10:27.800 --> 1:10:29.240
+ So now you're probably rolling your eyes,
+
+1:10:29.240 --> 1:10:30.900
+ like, oh my goodness, the number of acronyms,
+
+1:10:30.900 --> 1:10:35.900
+ but just bear with me because NSDR is so powerful
+
+1:10:36.140 --> 1:10:37.500
+ because first of all,
+
+1:10:37.500 --> 1:10:41.340
+ it doesn't require that you rig yourself to any device,
+
+1:10:41.340 --> 1:10:44.420
+ it doesn't require that you take much time out of your day,
+
+1:10:44.420 --> 1:10:47.780
+ it doesn't require that you ingest anything except air,
+
+1:10:47.780 --> 1:10:51.240
+ and it can have so many positive effects,
+
+1:10:51.240 --> 1:10:53.400
+ right down to the neuromodulator level.
+
+1:10:53.400 --> 1:10:54.900
+ So I think in the years to come,
+
+1:10:54.900 --> 1:10:57.120
+ my lab's exploring this in collaboration
+
+1:10:57.120 --> 1:10:58.420
+ with David Spiegel's lab,
+
+1:10:58.420 --> 1:11:00.060
+ but other labs are looking at this as well.
+
+1:11:00.060 --> 1:11:04.040
+ I think NSDR is going to start to play a more prominent role
+
+1:11:04.040 --> 1:11:06.120
+ in what we call wellness and health,
+
+1:11:06.120 --> 1:11:07.540
+ both mental health and physical health.
+
+1:11:07.540 --> 1:11:09.940
+ So I encourage you to explore those practices.
+
+1:11:09.940 --> 1:11:13.300
+ Okay, so what about things that we can and maybe should
+
+1:11:13.300 --> 1:11:15.880
+ or should not take in order to control
+
+1:11:15.880 --> 1:11:18.860
+ and access better sleep and better wakefulness?
+
+1:11:18.860 --> 1:11:22.820
+ We've talked about things you can do or not do.
+
+1:11:22.820 --> 1:11:26.260
+ We've talked about nutrition and the timing of nutrition.
+
+1:11:26.260 --> 1:11:27.660
+ Now let's talk about compounds.
+
+1:11:27.660 --> 1:11:29.100
+ Those could be prescription drugs,
+
+1:11:29.100 --> 1:11:30.820
+ those could be supplements.
+
+1:11:30.820 --> 1:11:31.880
+ There are a number of different things
+
+1:11:31.880 --> 1:11:36.060
+ that will affect your circadian timing and behavior.
+
+1:11:36.060 --> 1:11:40.460
+ In fact, almost everything that you could take
+
+1:11:41.380 --> 1:11:44.020
+ will affect your circadian timing and behavior.
+
+1:11:44.020 --> 1:11:44.860
+ That's right.
+
+1:11:44.860 --> 1:11:47.480
+ So years ago, when I was in graduate school,
+
+1:11:47.480 --> 1:11:48.320
+ I had a professor,
+
+1:11:48.320 --> 1:11:49.440
+ unfortunately he passed away now,
+
+1:11:49.440 --> 1:11:52.100
+ but his name was Ted Jones, the late Edward Jones,
+
+1:11:52.100 --> 1:11:53.900
+ who was a world-class neuroanatomist.
+
+1:11:53.900 --> 1:11:55.820
+ He wrote the book on the thalamus,
+
+1:11:55.820 --> 1:11:57.460
+ in fact, it's called The Thalamus,
+
+1:11:57.460 --> 1:11:59.980
+ and an expert on patterns of activation
+
+1:11:59.980 --> 1:12:01.500
+ in the brain during sleep.
+
+1:12:01.500 --> 1:12:03.980
+ And I'll never forget that during one of these lectures,
+
+1:12:03.980 --> 1:12:06.300
+ someone asked Ted the question,
+
+1:12:06.300 --> 1:12:08.300
+ what is the effect of some drug
+
+1:12:08.300 --> 1:12:11.340
+ on these waves of activity in the thalamus or something?
+
+1:12:11.340 --> 1:12:13.420
+ And his answer was incredible.
+
+1:12:13.420 --> 1:12:15.420
+ He was a pretty gruff guy.
+
+1:12:15.420 --> 1:12:17.180
+ And so his answer was delivered
+
+1:12:17.180 --> 1:12:19.460
+ in the form of a kind of aggressive direct statement.
+
+1:12:19.460 --> 1:12:22.460
+ He said, a drug is a substance
+
+1:12:22.460 --> 1:12:24.460
+ that when injected into a person
+
+1:12:24.460 --> 1:12:26.940
+ produces a scientific publication.
+
+1:12:26.940 --> 1:12:29.820
+ And what he was saying is actually quite true,
+
+1:12:29.820 --> 1:12:32.860
+ which is that most every compound
+
+1:12:32.860 --> 1:12:36.180
+ will have some effect on some aspect of biology.
+
+1:12:36.180 --> 1:12:37.900
+ This is why it's hard to sort through everything
+
+1:12:37.900 --> 1:12:38.740
+ that's on PubMed.
+
+1:12:38.740 --> 1:12:43.500
+ If you put any molecule or compound or drug into PubMed,
+
+1:12:43.500 --> 1:12:47.120
+ and then you put sleep next to it or alertness next to it,
+
+1:12:47.120 --> 1:12:49.900
+ you're likely to find a paper where there's an effect.
+
+1:12:49.900 --> 1:12:53.380
+ But that's not necessarily telling you
+
+1:12:53.380 --> 1:12:55.820
+ that that drug is useful or helpful for that.
+
+1:12:55.820 --> 1:12:59.440
+ What it's telling you is that anytime you change
+
+1:12:59.440 --> 1:13:02.700
+ what you take or you stop taking something,
+
+1:13:02.700 --> 1:13:03.960
+ say you're taking sleeping pills,
+
+1:13:03.960 --> 1:13:06.220
+ Ambien or whatever it is, and you stop taking them,
+
+1:13:06.220 --> 1:13:08.740
+ your sleep behavior will change.
+
+1:13:08.740 --> 1:13:10.000
+ Let's say you take an aspirin,
+
+1:13:10.000 --> 1:13:11.100
+ you don't normally take aspirin,
+
+1:13:11.100 --> 1:13:13.280
+ you will shift your circadian rhythm.
+
+1:13:13.280 --> 1:13:15.200
+ Now you might not shift it perceptibly,
+
+1:13:15.200 --> 1:13:17.100
+ you might not create problems for yourself,
+
+1:13:17.100 --> 1:13:20.820
+ but anytime you ingest a compound at high potency,
+
+1:13:20.820 --> 1:13:24.100
+ you're going to provide some shift to your circadian rhythm.
+
+1:13:24.100 --> 1:13:25.980
+ Now, that said, there are a couple of things
+
+1:13:25.980 --> 1:13:28.220
+ that are directly in line with the biology
+
+1:13:28.220 --> 1:13:29.900
+ related to falling and staying asleep
+
+1:13:29.900 --> 1:13:32.940
+ and directly in line with the biology of wakefulness.
+
+1:13:32.940 --> 1:13:36.440
+ There's a whole category of things like stimulants,
+
+1:13:36.440 --> 1:13:39.540
+ cocaine, amphetamine, and prescription stimulants,
+
+1:13:40.620 --> 1:13:42.060
+ the prescription ones were designed
+
+1:13:42.060 --> 1:13:43.420
+ for the treatment of narcolepsy.
+
+1:13:43.420 --> 1:13:46.740
+ So things like modafinil or armodafinil
+
+1:13:46.740 --> 1:13:48.140
+ that are designed to create wakefulness,
+
+1:13:48.140 --> 1:13:52.680
+ they are all essentially chemical variants
+
+1:13:52.680 --> 1:13:55.580
+ of things that increase epinephrine and dopamine.
+
+1:13:55.580 --> 1:13:58.100
+ Now, of course, I'm of the standpoint
+
+1:13:58.100 --> 1:13:59.620
+ that things like cocaine and amphetamine
+
+1:13:59.620 --> 1:14:01.140
+ are just across the board bad,
+
+1:14:01.140 --> 1:14:04.040
+ they have so many addictive and terrible effects.
+
+1:14:04.040 --> 1:14:08.060
+ In the proper setting prescribed by the proper professional,
+
+1:14:08.060 --> 1:14:12.300
+ things like modafinil for narcolepsy might be appropriate.
+
+1:14:12.300 --> 1:14:15.560
+ I know that a lot of people out there take Adderall,
+
+1:14:15.560 --> 1:14:18.060
+ even though they haven't been prescribed Adderall
+
+1:14:18.060 --> 1:14:20.380
+ in order to increase wakefulness.
+
+1:14:20.380 --> 1:14:24.020
+ That is essentially, well, it's illegal for one,
+
+1:14:24.020 --> 1:14:26.100
+ but it's also, it's abusing the system
+
+1:14:26.100 --> 1:14:27.500
+ in the sense that you're pushing back
+
+1:14:27.500 --> 1:14:29.420
+ on the adenosine system slightly differently
+
+1:14:29.420 --> 1:14:31.100
+ than you do caffeine.
+
+1:14:31.100 --> 1:14:32.340
+ It will make you feel more alert.
+
+1:14:32.340 --> 1:14:33.560
+ There tends to be a heavy rebound
+
+1:14:33.560 --> 1:14:35.340
+ and they do have an addictive potential.
+
+1:14:35.340 --> 1:14:36.900
+ There are also some other effects of those
+
+1:14:36.900 --> 1:14:37.740
+ that can be quite bad.
+
+1:14:37.740 --> 1:14:40.020
+ So we're going to explore stimulants
+
+1:14:40.020 --> 1:14:42.820
+ in a whole month related to drugs,
+
+1:14:42.820 --> 1:14:44.900
+ but there are some supplements and some things
+
+1:14:44.900 --> 1:14:48.300
+ that are safer, certainly safer,
+
+1:14:48.300 --> 1:14:51.140
+ and that in cases where you're doing
+
+1:14:51.140 --> 1:14:52.200
+ all the right behaviors,
+
+1:14:52.200 --> 1:14:54.720
+ you're exercising and eating correctly,
+
+1:14:54.720 --> 1:14:56.420
+ and you're still having trouble with sleep,
+
+1:14:56.420 --> 1:15:00.020
+ that can be beneficial for falling and staying asleep.
+
+1:15:00.020 --> 1:15:01.080
+ Now, I want to be very clear.
+
+1:15:01.080 --> 1:15:02.540
+ I am not pushing supplements.
+
+1:15:02.540 --> 1:15:04.780
+ I'm just pointing you towards some things
+
+1:15:04.780 --> 1:15:07.340
+ that have been shown in peer-reviewed studies
+
+1:15:07.340 --> 1:15:08.380
+ to have some benefit.
+
+1:15:09.440 --> 1:15:11.820
+ The first one is magnesium.
+
+1:15:11.820 --> 1:15:13.340
+ There are many forms of magnesium,
+
+1:15:13.340 --> 1:15:16.740
+ but certain forms of magnesium can have positive effects
+
+1:15:16.740 --> 1:15:18.860
+ on sleepiness and the ability to stay asleep,
+
+1:15:18.860 --> 1:15:23.620
+ mainly by way of increasing neurotransmitters like GABA,
+
+1:15:23.620 --> 1:15:26.780
+ which help turn off the DPO,
+
+1:15:26.780 --> 1:15:28.260
+ the kind of thinking about the future,
+
+1:15:28.260 --> 1:15:29.860
+ duration path outcome analysis,
+
+1:15:29.860 --> 1:15:34.860
+ and make one's mind kind of drift in space and time
+
+1:15:35.020 --> 1:15:36.700
+ and make it easier to fall asleep.
+
+1:15:36.700 --> 1:15:38.480
+ There are a lot of forms of magnesium out there,
+
+1:15:38.480 --> 1:15:43.480
+ but one in particular is magnesium threonate, T-H-R-E-O-N-A-T-E,
+
+1:15:43.980 --> 1:15:47.300
+ which you have to check to see if this is right for you,
+
+1:15:47.300 --> 1:15:48.420
+ check with your doctor,
+
+1:15:48.420 --> 1:15:51.420
+ but magnesium threonate is associated with transporters
+
+1:15:51.420 --> 1:15:54.480
+ in the body that bring more of it into cells
+
+1:15:54.480 --> 1:15:57.340
+ that allow people to feel this kind of drowsiness
+
+1:15:57.340 --> 1:15:58.380
+ and help them fall asleep.
+
+1:15:58.380 --> 1:16:01.100
+ So I personally, I can only talk about what I personally do.
+
+1:16:01.100 --> 1:16:03.720
+ I personally take three or 400 milligrams
+
+1:16:03.720 --> 1:16:07.380
+ of magnesium threonate about 30 to 60 minutes before sleep,
+
+1:16:07.380 --> 1:16:08.820
+ and it helps me fall asleep.
+
+1:16:08.820 --> 1:16:13.820
+ The other thing is theanine, T-H-E-A-N-I-N-E, theanine,
+
+1:16:17.780 --> 1:16:20.140
+ 100 to 200 milligrams of theanine for me
+
+1:16:20.140 --> 1:16:22.980
+ also helps me turn off my mind and fall asleep.
+
+1:16:22.980 --> 1:16:24.940
+ I take it 30 to 60 minutes throughout the day.
+
+1:16:24.940 --> 1:16:27.340
+ Interestingly, theanine is now being introduced
+
+1:16:27.340 --> 1:16:29.300
+ to a lot of energy drinks
+
+1:16:29.300 --> 1:16:32.320
+ in order to take away the jitters that are associated
+
+1:16:32.320 --> 1:16:33.900
+ with drinking too much caffeine
+
+1:16:33.900 --> 1:16:36.100
+ or with some other things that are in the energy drinks.
+
+1:16:36.100 --> 1:16:39.140
+ Energy drinks can be problematic.
+
+1:16:39.140 --> 1:16:41.780
+ They can contain a lot of L-Taurine.
+
+1:16:41.780 --> 1:16:42.780
+ I'll just tell you an anecdote.
+
+1:16:42.780 --> 1:16:43.620
+ When I was a postdoc,
+
+1:16:43.620 --> 1:16:45.780
+ I was drinking a lot of a particular energy drink,
+
+1:16:45.780 --> 1:16:47.820
+ has a lot of taurine in it.
+
+1:16:47.820 --> 1:16:51.860
+ And actually the whites of my eyes, the sclera,
+
+1:16:51.860 --> 1:16:54.440
+ as it's called in my eyes, turned beet red.
+
+1:16:54.440 --> 1:16:57.680
+ And I went to a friend who's an ophthalmologist.
+
+1:16:57.680 --> 1:16:59.780
+ I said, look, I'm not a marijuana smoker.
+
+1:16:59.780 --> 1:17:00.900
+ I haven't been hit on the head.
+
+1:17:00.900 --> 1:17:01.980
+ I don't know what's going on.
+
+1:17:01.980 --> 1:17:03.060
+ And he looked and he said,
+
+1:17:03.060 --> 1:17:06.380
+ I think you've got some microvascular damage.
+
+1:17:06.380 --> 1:17:08.420
+ And we walked through what I was taking and doing.
+
+1:17:08.420 --> 1:17:10.420
+ And he said, oh, it's probably the taurine,
+
+1:17:10.420 --> 1:17:11.580
+ excessive levels of taurine
+
+1:17:11.580 --> 1:17:13.880
+ can create some microvascular damage.
+
+1:17:13.880 --> 1:17:15.920
+ So if you're having the microvascular damage in your eye,
+
+1:17:15.920 --> 1:17:18.280
+ you'll probably have microvascular damage deeper
+
+1:17:18.280 --> 1:17:19.120
+ in your skull.
+
+1:17:19.120 --> 1:17:19.940
+ So I stopped.
+
+1:17:19.940 --> 1:17:21.740
+ That's the reason why I don't take energy drinks.
+
+1:17:21.740 --> 1:17:23.940
+ So just a consideration.
+
+1:17:23.940 --> 1:17:25.900
+ Again, I'm not here to tell you what to do or not do,
+
+1:17:25.900 --> 1:17:28.120
+ but just want to arm you with information.
+
+1:17:28.120 --> 1:17:33.120
+ The thing about theanine and magnesium is taken together.
+
+1:17:33.800 --> 1:17:35.400
+ They do, for some people,
+
+1:17:35.400 --> 1:17:38.200
+ they can make them so sleepy and sleep so deeply
+
+1:17:38.200 --> 1:17:39.960
+ that they actually have trouble waking up in the morning.
+
+1:17:39.960 --> 1:17:42.140
+ So you have to play with these things and titrate them
+
+1:17:42.140 --> 1:17:43.240
+ if you decide to use them.
+
+1:17:43.240 --> 1:17:44.780
+ Again, if you decide to go this route.
+
+1:17:44.780 --> 1:17:47.080
+ I would not start by taking supplements.
+
+1:17:47.080 --> 1:17:50.420
+ I would start by getting your light viewing behavior correct
+
+1:17:50.420 --> 1:17:52.000
+ and then think about your nutrition
+
+1:17:52.000 --> 1:17:53.280
+ and then think about your activity
+
+1:17:53.280 --> 1:17:55.760
+ and then think about whether or not you want a supplement.
+
+1:17:55.760 --> 1:17:57.860
+ We already talked about melatonin earlier.
+
+1:17:57.860 --> 1:17:59.820
+ There's another supplement that could be quite useful,
+
+1:17:59.820 --> 1:18:03.700
+ which is apigenin, A-P-I-G-E-N-I-N,
+
+1:18:03.700 --> 1:18:05.680
+ which is a derivative chamomile.
+
+1:18:05.680 --> 1:18:09.400
+ 50 milligrams of apigenin also can augment
+
+1:18:09.400 --> 1:18:13.160
+ or support this kind of creation of a sleepiness
+
+1:18:13.160 --> 1:18:15.400
+ to help fall asleep and stay asleep.
+
+1:18:15.400 --> 1:18:16.600
+ A note about sleepwalkers
+
+1:18:16.600 --> 1:18:19.120
+ and people with very vivid dreams.
+
+1:18:19.120 --> 1:18:21.720
+ Theanine can often make your dreams very vivid.
+
+1:18:21.720 --> 1:18:24.400
+ Sleepwalkers should be careful about taking theanine.
+
+1:18:24.400 --> 1:18:26.800
+ Everyone should be careful about taking anything
+
+1:18:26.800 --> 1:18:28.560
+ and don't take anything without consulting
+
+1:18:28.560 --> 1:18:31.840
+ your board certified MD or healthcare professional first.
+
+1:18:31.840 --> 1:18:33.100
+ Okay?
+
+1:18:33.100 --> 1:18:34.720
+ Your health is your responsibility.
+
+1:18:34.720 --> 1:18:36.120
+ I am not going to take responsibility
+
+1:18:36.120 --> 1:18:38.740
+ for what you decide to do experimentally in any case,
+
+1:18:38.740 --> 1:18:41.640
+ but especially as it relates to supplementation and drugs.
+
+1:18:43.620 --> 1:18:44.880
+ As a important point,
+
+1:18:44.880 --> 1:18:48.560
+ apigenin is a fairly potent estrogen inhibitor.
+
+1:18:48.560 --> 1:18:52.280
+ So women who want to keep their estrogen levels high
+
+1:18:52.280 --> 1:18:54.200
+ or at whatever levels they happen to be at
+
+1:18:54.200 --> 1:18:56.720
+ should probably avoid apigenin altogether.
+
+1:18:56.720 --> 1:19:00.320
+ And men take that into consideration as well.
+
+1:19:00.320 --> 1:19:01.580
+ Men need estrogen also.
+
+1:19:01.580 --> 1:19:03.960
+ You don't want to completely eliminate your estrogen.
+
+1:19:03.960 --> 1:19:05.640
+ That it can create all sorts of bad effects
+
+1:19:05.640 --> 1:19:08.220
+ on libido and cognition, et cetera.
+
+1:19:08.220 --> 1:19:10.240
+ So apigenin in some people
+
+1:19:10.240 --> 1:19:12.080
+ is going to be a pretty strong estrogen inhibitor.
+
+1:19:12.080 --> 1:19:13.640
+ So keep that in mind.
+
+1:19:14.600 --> 1:19:17.460
+ There are other things you can take to help you sleep better.
+
+1:19:17.460 --> 1:19:20.240
+ Those are the legal ones that at least I'm aware of
+
+1:19:20.240 --> 1:19:21.760
+ have pretty broad safety margins.
+
+1:19:21.760 --> 1:19:24.300
+ But again, you need to explore your safety margins
+
+1:19:24.300 --> 1:19:25.340
+ with any compound.
+
+1:19:25.340 --> 1:19:29.120
+ I think a great website that I can refer you to
+
+1:19:29.120 --> 1:19:30.780
+ is examine.com.
+
+1:19:30.780 --> 1:19:33.620
+ Examine the word, just as it sounds,.com is a website.
+
+1:19:33.620 --> 1:19:35.060
+ I have no relation to them,
+
+1:19:35.060 --> 1:19:38.660
+ but there you can find links to peer-reviewed studies
+
+1:19:38.660 --> 1:19:40.140
+ for any compound or supplement,
+
+1:19:40.140 --> 1:19:41.800
+ as well as some important warnings
+
+1:19:41.800 --> 1:19:43.360
+ related to the things I discussed,
+
+1:19:43.360 --> 1:19:44.860
+ as well as any other thing
+
+1:19:44.860 --> 1:19:48.020
+ that you might decide to supplement with or ingest
+
+1:19:48.020 --> 1:19:49.520
+ to help improve your sleep.
+
+1:19:50.600 --> 1:19:51.620
+ Okay.
+
+1:19:51.620 --> 1:19:53.100
+ That was a lot of information
+
+1:19:53.100 --> 1:19:56.860
+ about how to get better at sleeping, falling asleep,
+
+1:19:56.860 --> 1:19:58.740
+ wakefulness, et cetera.
+
+1:19:59.780 --> 1:20:01.740
+ An important feature of this podcast, as you know,
+
+1:20:01.740 --> 1:20:03.300
+ is that we dive deep into topics
+
+1:20:03.300 --> 1:20:05.440
+ for several episodes at a time,
+
+1:20:05.440 --> 1:20:07.320
+ at least a month at a time.
+
+1:20:07.320 --> 1:20:09.140
+ So by stopping here,
+
+1:20:09.140 --> 1:20:12.540
+ I recognize that there are probably many more questions
+
+1:20:12.540 --> 1:20:13.780
+ that you still have.
+
+1:20:13.780 --> 1:20:15.480
+ And the great thing about that
+
+1:20:15.480 --> 1:20:18.040
+ is that we have another episode coming up soon.
+
+1:20:18.040 --> 1:20:19.980
+ I'm going to hold office hours
+
+1:20:19.980 --> 1:20:22.320
+ where I'm going to answer your specific questions
+
+1:20:22.320 --> 1:20:24.500
+ about episodes one and two.
+
+1:20:24.500 --> 1:20:26.800
+ So if you have questions about this episode,
+
+1:20:26.800 --> 1:20:28.280
+ you have questions about episode one,
+
+1:20:28.280 --> 1:20:30.940
+ write them down, put them in the comments.
+
+1:20:30.940 --> 1:20:32.460
+ I'll also do a post on Instagram
+
+1:20:32.460 --> 1:20:34.540
+ where you can put them in the comments there,
+
+1:20:34.540 --> 1:20:37.340
+ but put them in the comments to this episode.
+
+1:20:37.340 --> 1:20:41.940
+ As well, please recommend the podcast if you like it.
+
+1:20:41.940 --> 1:20:44.300
+ Please subscribe to it here on YouTube.
+
+1:20:44.300 --> 1:20:46.420
+ Please subscribe to it on Apple.
+
+1:20:46.420 --> 1:20:48.320
+ We're now on Spotify as well.
+
+1:20:48.320 --> 1:20:49.860
+ Recommend it to a friend.
+
+1:20:49.860 --> 1:20:52.040
+ The community that we're creating here
+
+1:20:52.040 --> 1:20:54.100
+ around these topics of sleep and wakefulness
+
+1:20:54.100 --> 1:20:56.500
+ and other neuroscience and health-related themes
+
+1:20:56.500 --> 1:21:00.020
+ is best supported by your involvement and your questions.
+
+1:21:00.020 --> 1:21:02.140
+ And so I'm going to be reading all of your questions,
+
+1:21:02.140 --> 1:21:05.580
+ distilling those into the most commonly asked questions
+
+1:21:05.580 --> 1:21:06.780
+ and liked questions.
+
+1:21:06.780 --> 1:21:07.840
+ So if you see something below
+
+1:21:07.840 --> 1:21:09.740
+ that you are particularly interested in,
+
+1:21:09.740 --> 1:21:11.140
+ you don't have to put that question in again,
+
+1:21:11.140 --> 1:21:13.780
+ you can just give it a like, the little thumbs up tab.
+
+1:21:13.780 --> 1:21:17.780
+ And if you're listening to this on Spotify or Apple,
+
+1:21:17.780 --> 1:21:19.300
+ please go to YouTube,
+
+1:21:19.300 --> 1:21:20.940
+ subscribe and put your question there,
+
+1:21:20.940 --> 1:21:23.040
+ or check out the Huberman Lab Instagram,
+
+1:21:23.040 --> 1:21:24.620
+ and you can put your questions there
+
+1:21:24.620 --> 1:21:27.060
+ so that next episode I can answer those questions
+
+1:21:27.060 --> 1:21:29.480
+ and then we can move forward even more deeply
+
+1:21:29.480 --> 1:21:32.640
+ into these critical topics around sleep and wakefulness
+
+1:21:32.640 --> 1:21:34.820
+ so that you can be armed with all the information
+
+1:21:34.820 --> 1:21:36.220
+ and resources that you need.
+
+1:21:37.060 --> 1:21:38.180
+ Last but not least,
+
+1:21:38.180 --> 1:21:40.020
+ a number of you have very graciously asked
+
+1:21:40.020 --> 1:21:42.080
+ how you can support the podcast.
+
+1:21:42.080 --> 1:21:43.540
+ The best way to support the podcast
+
+1:21:43.540 --> 1:21:46.820
+ is to subscribe on YouTube or one of the other platforms.
+
+1:21:46.820 --> 1:21:49.820
+ We're now on Spotify and Apple.
+
+1:21:49.820 --> 1:21:51.940
+ And the other way you can really support the podcast
+
+1:21:51.940 --> 1:21:53.520
+ is to check out our sponsors,
+
+1:21:53.520 --> 1:21:55.220
+ which were discussed at the beginning.
+
+1:21:55.220 --> 1:21:57.180
+ So thank you so much for your time and attention,
+
+1:21:57.180 --> 1:21:59.740
+ and above all, thank you for your interest in science.
+
+1:21:59.740 --> 1:22:21.740
+ And I'll see you in the next one.
+

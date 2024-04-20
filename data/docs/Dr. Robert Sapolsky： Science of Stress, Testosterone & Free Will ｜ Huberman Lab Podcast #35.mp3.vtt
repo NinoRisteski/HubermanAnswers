@@ -1,0 +1,5651 @@
+WEBVTT
+
+00:00.000 --> 00:02.240
+ Welcome to the Huberman Lab Podcast,
+
+00:02.240 --> 00:04.880
+ where we discuss science and science-based tools
+
+00:04.880 --> 00:05.920
+ for everyday life.
+
+00:09.520 --> 00:11.960
+ I'm Andrew Huberman, and I'm a professor of neurobiology
+
+00:11.960 --> 00:15.080
+ and ophthalmology at Stanford School of Medicine.
+
+00:15.080 --> 00:16.760
+ Today, I have the pleasure of introducing
+
+00:16.760 --> 00:18.720
+ Dr. Robert Sapolsky.
+
+00:18.720 --> 00:21.800
+ Dr. Sapolsky is a professor of biology and neurosurgery
+
+00:21.800 --> 00:23.680
+ at Stanford University.
+
+00:23.680 --> 00:26.980
+ His laboratory has worked on a large variety of topics,
+
+00:26.980 --> 00:30.560
+ including stress, hormones, including testosterone
+
+00:30.560 --> 00:33.160
+ and estrogen, and how the different members
+
+00:33.160 --> 00:35.840
+ of a given species interact according to factors
+
+00:35.840 --> 00:39.440
+ like hormones, hierarchy within primate troops,
+
+00:39.440 --> 00:42.080
+ and how things like stress, reproduction,
+
+00:42.080 --> 00:45.380
+ and competition impact behavior.
+
+00:45.380 --> 00:48.480
+ One of the things that makes Dr. Sapolsky's work so unique
+
+00:48.480 --> 00:51.000
+ is that it combines elements from primatology,
+
+00:51.000 --> 00:54.480
+ including field studies, with human behavior,
+
+00:54.480 --> 00:57.640
+ in essence, trying to unveil how humans
+
+00:57.640 --> 01:01.280
+ as old world primates are controlled by different elements
+
+01:01.280 --> 01:03.880
+ of our biology, as well as our psychology.
+
+01:03.880 --> 01:07.840
+ Dr. Sapolsky is also a prolific author of popular books,
+
+01:07.840 --> 01:10.080
+ such as Why Zebras Don't Get Ulcers,
+
+01:10.080 --> 01:11.680
+ The Trouble with Testosterone,
+
+01:11.680 --> 01:15.440
+ and Behave the Biology of Humans at Our Best and Worst.
+
+01:15.440 --> 01:17.280
+ During the course of our discussion today,
+
+01:17.280 --> 01:19.120
+ Robert also revealed to me that he is close
+
+01:19.120 --> 01:21.360
+ to completing a new book entitled
+
+01:21.360 --> 01:24.960
+ Determined, The Science of Life Without Free Will.
+
+01:24.960 --> 01:27.200
+ And indeed, we discuss the science of life
+
+01:27.200 --> 01:29.820
+ without free will during this episode.
+
+01:29.820 --> 01:33.340
+ We also discuss stress and how best to control stress
+
+01:33.340 --> 01:36.220
+ and how stress controls us at both conscious
+
+01:36.220 --> 01:38.060
+ and subconscious levels.
+
+01:38.060 --> 01:40.560
+ We talk about testosterone and estrogen
+
+01:40.560 --> 01:42.520
+ and hormone replacement therapy
+
+01:42.520 --> 01:45.320
+ and how those impact our mind, our psychology,
+
+01:45.320 --> 01:47.520
+ and our interactions with others.
+
+01:47.520 --> 01:49.700
+ As with any discussion with Dr. Sapolsky,
+
+01:49.700 --> 01:51.480
+ we learn about scientific mechanisms
+
+01:51.480 --> 01:53.040
+ that make us who we are.
+
+01:53.040 --> 01:54.880
+ And today we also discuss tools
+
+01:54.880 --> 01:57.300
+ and how we can leverage those scientific mechanisms
+
+01:57.300 --> 02:00.360
+ in order to be better versions of ourselves.
+
+02:00.360 --> 02:02.520
+ I should mention that unlike most guest interviews
+
+02:02.520 --> 02:04.540
+ on the Huberman Lab podcast,
+
+02:04.540 --> 02:06.240
+ this one had to be carried out remotely
+
+02:06.240 --> 02:07.600
+ due to various constraints.
+
+02:07.600 --> 02:10.660
+ So you may hear the occasional audio artifact.
+
+02:10.660 --> 02:11.620
+ Please excuse that.
+
+02:11.620 --> 02:13.440
+ We felt that the value of a conversation
+
+02:13.440 --> 02:18.340
+ with Dr. Sapolsky was well worth those minor, minor glitches
+
+02:18.340 --> 02:20.880
+ and indeed the information that he delivers us
+
+02:20.880 --> 02:23.600
+ is tremendously valuable, interesting,
+
+02:23.600 --> 02:25.840
+ and in many cases, actionable as well.
+
+02:25.840 --> 02:28.400
+ Before we begin, I'd like to emphasize that this podcast
+
+02:28.400 --> 02:31.420
+ is separate from my teaching and research roles at Stanford.
+
+02:31.420 --> 02:33.580
+ It is however, part of my desire and effort
+
+02:33.580 --> 02:36.340
+ to bring zero cost to consumer information about science
+
+02:36.340 --> 02:39.200
+ and science-related tools to the general public.
+
+02:39.200 --> 02:40.320
+ In keeping with that theme,
+
+02:40.320 --> 02:43.200
+ I'd like to thank the sponsors of today's podcast.
+
+02:43.200 --> 02:45.200
+ Our first sponsor is Roca.
+
+02:45.200 --> 02:47.100
+ Roca makes sunglasses and eyeglasses
+
+02:47.100 --> 02:49.400
+ that are of the absolute highest quality.
+
+02:49.400 --> 02:51.560
+ The company was founded by two all-American swimmers
+
+02:51.560 --> 02:53.960
+ from Stanford and everything about the design
+
+02:53.960 --> 02:55.740
+ of the sunglasses and eyeglasses
+
+02:55.740 --> 02:58.380
+ was created with performance in mind.
+
+02:58.380 --> 03:00.720
+ There are several things I like about Roca glasses so much.
+
+03:00.720 --> 03:03.440
+ One of them is that the aesthetic of the glasses is great.
+
+03:03.440 --> 03:06.100
+ Unlike a lot of performance glasses out there
+
+03:06.100 --> 03:07.820
+ that you can wear while swimming and running,
+
+03:07.820 --> 03:08.920
+ but also indoors,
+
+03:08.920 --> 03:10.860
+ these glasses don't make you look like a cyborg.
+
+03:10.860 --> 03:12.360
+ The aesthetic of them is really terrific
+
+03:12.360 --> 03:14.760
+ and they have a lot of different styles to select from.
+
+03:14.760 --> 03:16.720
+ In addition to that, the quality of the lenses
+
+03:16.720 --> 03:19.820
+ on both the sunglasses and eyeglasses are superb.
+
+03:19.820 --> 03:21.240
+ The optical clarity is great.
+
+03:21.240 --> 03:23.720
+ You can move from brightly lit areas to shadowed areas
+
+03:23.720 --> 03:25.240
+ and you don't get any degradation
+
+03:25.240 --> 03:26.680
+ in the quality of the visual image.
+
+03:26.680 --> 03:29.040
+ And that's absolutely essential.
+
+03:29.040 --> 03:30.680
+ If you'd like to try Roca glasses,
+
+03:30.680 --> 03:33.720
+ you can go to roca.com and enter the code Huberman
+
+03:33.720 --> 03:36.000
+ to save 20% off your first order.
+
+03:36.000 --> 03:40.060
+ That's R-O-K-A.com and enter the code Huberman at checkout.
+
+03:40.060 --> 03:43.560
+ Today's podcast is also brought to us by Inside Tracker.
+
+03:43.560 --> 03:46.020
+ Inside Tracker is a personalized nutrition platform
+
+03:46.020 --> 03:48.600
+ that analyzes data from your blood and DNA
+
+03:48.600 --> 03:50.440
+ to help you better understand your body
+
+03:50.440 --> 03:52.560
+ and help you reach your health goals.
+
+03:52.560 --> 03:55.560
+ I've long been a believer in getting regular blood work done
+
+03:55.560 --> 03:58.000
+ and now with the advent of quality DNA tests,
+
+03:58.000 --> 04:00.480
+ you can get a lot of information about your genetics
+
+04:00.480 --> 04:02.880
+ and how that also impacts your immediate
+
+04:02.880 --> 04:04.280
+ and long-term health.
+
+04:04.280 --> 04:06.520
+ The reason I'm such a fan of getting blood work done
+
+04:06.520 --> 04:09.000
+ is that it is really the only way to understand
+
+04:09.000 --> 04:11.160
+ what's going on in your system at a level
+
+04:11.160 --> 04:13.000
+ that can really inform your decisions
+
+04:13.000 --> 04:15.600
+ about your immediate and long-term health.
+
+04:15.600 --> 04:18.300
+ The problem with a lot of blood and DNA tests, however,
+
+04:18.300 --> 04:20.560
+ is that you get numbers back about your hormones
+
+04:20.560 --> 04:22.120
+ and your metabolic factors, et cetera,
+
+04:22.120 --> 04:24.260
+ but you don't know what to do with that information.
+
+04:24.260 --> 04:27.600
+ With Inside Tracker, they have a very easy to use dashboard
+
+04:27.600 --> 04:29.000
+ that gives you that information
+
+04:29.000 --> 04:31.600
+ and then gives you some suggestions and directives
+
+04:31.600 --> 04:33.880
+ about things you could change about your nutrition,
+
+04:33.880 --> 04:36.080
+ about your exercise and other lifestyle factors
+
+04:36.080 --> 04:38.520
+ that can help you move those numbers in the direction
+
+04:38.520 --> 04:40.820
+ that's best for you and for your health.
+
+04:40.820 --> 04:42.280
+ If you'd like to try Inside Tracker,
+
+04:42.280 --> 04:45.540
+ you can go to insidetracker.com slash Huberman
+
+04:45.540 --> 04:48.360
+ to get 25% off any of Inside Tracker's plans.
+
+04:48.360 --> 04:50.940
+ Just use the code Huberman at checkout.
+
+04:50.940 --> 04:54.040
+ Today's podcast is also brought to us by Belcampo.
+
+04:54.040 --> 04:56.680
+ Belcampo is a regenerative farm in Northern California
+
+04:56.680 --> 04:58.600
+ that raises organic, grass-fed,
+
+04:58.600 --> 05:01.320
+ and finished certified humane meats.
+
+05:01.320 --> 05:02.940
+ I eat meat about once a day.
+
+05:02.940 --> 05:07.040
+ In general, my lunch or my breakfast consists of some meat
+
+05:07.040 --> 05:08.840
+ and that meat has to be a very high quality,
+
+05:08.840 --> 05:10.800
+ and generally I'll eat some vegetable as well.
+
+05:10.800 --> 05:12.840
+ And then I tend to eat pastas and rice
+
+05:12.840 --> 05:15.420
+ and things of that sort later in the day or in the evening
+
+05:15.420 --> 05:17.920
+ in order to facilitate the transition to sleep.
+
+05:17.920 --> 05:19.980
+ So I'm eating meat about once a day,
+
+05:19.980 --> 05:22.500
+ and I always insist that the meat that I eat
+
+05:22.500 --> 05:24.040
+ be of the very highest quality
+
+05:24.040 --> 05:27.440
+ and that the animals were raised and maintained humanely.
+
+05:27.440 --> 05:30.040
+ While conventionally raised animals are confined to feed lots
+
+05:30.040 --> 05:32.120
+ and eat a diet of inflammatory grains,
+
+05:32.120 --> 05:34.480
+ Belcampo's animals graze on open pastures
+
+05:34.480 --> 05:36.480
+ and seasonal grasses, resulting in meat
+
+05:36.480 --> 05:39.200
+ that's higher in nutrients and healthy fats.
+
+05:39.200 --> 05:40.960
+ In addition, they raise their animals in a way
+
+05:40.960 --> 05:42.760
+ that's not just better for our health,
+
+05:42.760 --> 05:45.520
+ but also has a positive impact on the environment.
+
+05:45.520 --> 05:47.180
+ They practice regenerative agriculture,
+
+05:47.180 --> 05:49.280
+ which means the meat is climate positive
+
+05:49.280 --> 05:50.520
+ and carbon negative.
+
+05:50.520 --> 05:52.060
+ So you can feel good about what you're eating
+
+05:52.060 --> 05:55.140
+ at the environmental level and for sake of your health.
+
+05:55.140 --> 05:57.320
+ You can order Belcampo's sustainably raised meats
+
+05:57.320 --> 05:59.800
+ to be delivered to you by using my code Huberman
+
+05:59.800 --> 06:02.280
+ at belcampo.com slash Huberman
+
+06:02.280 --> 06:03.720
+ and entering my code Huberman
+
+06:03.720 --> 06:06.940
+ to get 20% off your first time order.
+
+06:06.940 --> 06:09.820
+ I'm partial to the ribeyes or the New York steaks.
+
+06:09.820 --> 06:11.240
+ So on one day I might have a ribeye,
+
+06:11.240 --> 06:12.720
+ the next day I might have a New York steak.
+
+06:12.720 --> 06:14.440
+ I also really like the meatballs.
+
+06:14.440 --> 06:16.340
+ I'm a particular fan of the meatballs.
+
+06:16.340 --> 06:19.680
+ So again, that's belcampo.com slash Huberman
+
+06:19.680 --> 06:21.960
+ and enter the code Huberman at checkout
+
+06:21.960 --> 06:24.080
+ to get 20% off your order.
+
+06:24.080 --> 06:26.280
+ And now without further ado,
+
+06:26.280 --> 06:29.380
+ my conversation with Dr. Robert Sapolsky.
+
+06:29.380 --> 06:30.960
+ Great, well, thank you so much, Robert,
+
+06:30.960 --> 06:33.000
+ for joining us today.
+
+06:33.000 --> 06:36.000
+ I've been looking forward to this for a very long time.
+
+06:36.000 --> 06:36.840
+ I appreciate it.
+
+06:36.840 --> 06:38.500
+ I'm glad to be here.
+
+06:39.720 --> 06:42.200
+ There's an enormous range of topics
+
+06:42.200 --> 06:44.360
+ that we could drill into,
+
+06:44.360 --> 06:46.960
+ but just to start off,
+
+06:46.960 --> 06:50.120
+ I want to return to a topic that is near and dear
+
+06:50.120 --> 06:52.360
+ to your heart, which is stress.
+
+06:52.360 --> 06:55.840
+ And one of the questions that I get most commonly
+
+06:55.840 --> 07:00.680
+ is what is the difference between short and long-term stress
+
+07:00.680 --> 07:05.160
+ in terms of their benefits and their drawbacks?
+
+07:05.160 --> 07:08.720
+ And the reason I say benefits is that obviously stress
+
+07:08.720 --> 07:10.640
+ and the stress response can keep us alive,
+
+07:10.640 --> 07:14.460
+ but stress of course can also sharpen our mental acuity
+
+07:14.460 --> 07:15.800
+ and things of that sort.
+
+07:15.800 --> 07:19.600
+ So how should we conceptualize stress
+
+07:19.600 --> 07:22.040
+ and how should we conceptualize stress
+
+07:22.040 --> 07:24.520
+ in the short term and in the long term?
+
+07:24.520 --> 07:29.520
+ Well, basically sort of two graphs that one would draw.
+
+07:30.160 --> 07:33.480
+ The first one is just all sorts
+
+07:33.480 --> 07:36.960
+ of beneficial effects of stress short term.
+
+07:36.960 --> 07:39.640
+ And then once we get into the chronicity,
+
+07:39.640 --> 07:41.540
+ it's just downhill from there.
+
+07:41.540 --> 07:45.120
+ Short term because it saves you from the predator.
+
+07:45.120 --> 07:47.960
+ Short term because you're giving a presentation
+
+07:47.960 --> 07:49.920
+ and you think more clearly,
+
+07:49.920 --> 07:53.920
+ or your focus is better, all sorts of aspects of that.
+
+07:54.960 --> 07:57.540
+ And what then winds up being an argument
+
+07:57.540 --> 08:02.360
+ is how long does it take to go from short term to long term?
+
+08:02.360 --> 08:05.240
+ And that's somewhat arbitrary,
+
+08:05.240 --> 08:07.980
+ but the sorts of chronic stressors
+
+08:07.980 --> 08:11.820
+ that most people deal with are just undeniably
+
+08:11.820 --> 08:13.200
+ in the chronic range,
+
+08:13.200 --> 08:16.760
+ like having spent the last 20 years, daily traffic jams
+
+08:16.760 --> 08:20.160
+ or abusive boss or some such thing.
+
+08:21.140 --> 08:24.640
+ The other curve that's sort of perpendicular to this
+
+08:24.640 --> 08:26.760
+ is dealing with the fact
+
+08:26.760 --> 08:30.400
+ that sometimes stress is a great thing.
+
+08:30.400 --> 08:34.880
+ Like our goal is not to cure people of stress
+
+08:34.880 --> 08:36.960
+ because if it's the right kind, we love it.
+
+08:36.960 --> 08:40.480
+ We pay good money to be stressed that way
+
+08:40.480 --> 08:44.000
+ by a scary movie or roller coaster ride.
+
+08:44.000 --> 08:45.920
+ What you wind up seeing is
+
+08:45.920 --> 08:48.320
+ when it's the right amount of stress,
+
+08:48.320 --> 08:50.640
+ it's what we call stimulation.
+
+08:50.640 --> 08:54.320
+ And the basic curve there is here's an optimal level
+
+08:54.320 --> 08:58.200
+ of stimulation and too little and function goes down
+
+08:58.200 --> 09:01.120
+ with what we would call boredom and too much
+
+09:01.120 --> 09:04.080
+ and function goes down with what we would call stress.
+
+09:04.080 --> 09:08.900
+ And the optimum is what all of us aim for.
+
+09:10.560 --> 09:13.820
+ In terms of the benefits of stress in the short term,
+
+09:14.880 --> 09:17.840
+ one thing that's really striking to me is
+
+09:17.840 --> 09:22.320
+ how physiologically the stress response
+
+09:22.320 --> 09:25.120
+ looks so much like the excitement response
+
+09:25.120 --> 09:27.400
+ to a positive event.
+
+09:27.400 --> 09:31.440
+ And we can speculate that the fundamental difference
+
+09:31.440 --> 09:35.220
+ between short-term stress and short-term excitement
+
+09:35.220 --> 09:37.700
+ is some neuromodulator like dopamine
+
+09:37.700 --> 09:38.940
+ or something like that.
+
+09:38.940 --> 09:42.360
+ But is there anything else that we know about the biology
+
+09:42.360 --> 09:46.360
+ that reveals to us what really creates this thing
+
+09:46.360 --> 09:50.580
+ we call valence that an experience can be terrible
+
+09:50.580 --> 09:54.720
+ or feel awful, or it can feel wonderful, exhilarating
+
+09:54.720 --> 09:58.320
+ depending on this somewhat subjective feature
+
+09:58.320 --> 10:00.040
+ we call valence.
+
+10:00.040 --> 10:03.180
+ Do we know what valence is or where it resides?
+
+10:05.000 --> 10:07.220
+ On a really mechanical level,
+
+10:08.240 --> 10:11.680
+ if you're in a circumstance that is requiring
+
+10:11.680 --> 10:16.000
+ that your heart races and you're breathing as fast
+
+10:16.000 --> 10:19.620
+ and you're using your muscles and some such thing,
+
+10:19.620 --> 10:21.720
+ you're going to be having roughly
+
+10:21.720 --> 10:24.780
+ the same brain activation profile,
+
+10:24.780 --> 10:26.440
+ whether this is for something wonderful
+
+10:26.440 --> 10:29.480
+ or something terrible with the one exception being
+
+10:29.480 --> 10:33.480
+ that if the amygdala is part of the activation,
+
+10:33.480 --> 10:36.280
+ this is something that's going to be counting as adverse.
+
+10:37.320 --> 10:41.440
+ Whether that's the circumstance, an adverse circumstance
+
+10:41.440 --> 10:43.720
+ recruiting the amygdala into it
+
+10:43.720 --> 10:46.680
+ and how much it's the amygdala being involved
+
+10:46.680 --> 10:50.820
+ biases you towards interpreting it as even more awful.
+
+10:50.820 --> 10:54.160
+ The amygdala in some ways is kind of the checkpoint
+
+10:54.160 --> 10:58.420
+ as to whether we're talking about excitement or terror.
+
+10:58.420 --> 11:02.140
+ Let's use the amygdala as a transition point
+
+11:02.140 --> 11:06.500
+ to another topic that you've spent many years working on
+
+11:06.500 --> 11:09.780
+ and thinking about, which is testosterone
+
+11:09.780 --> 11:12.260
+ and other sex steroid hormones.
+
+11:12.260 --> 11:14.620
+ I heard you say once before that
+
+11:16.620 --> 11:19.980
+ among all the brain areas that bind testosterone,
+
+11:19.980 --> 11:23.220
+ that where testosterone can park and create effects
+
+11:23.220 --> 11:28.220
+ that the amygdala is among the most chock-a-block full
+
+11:28.940 --> 11:32.060
+ of these parking spots, these receptors.
+
+11:32.060 --> 11:34.180
+ I realize there's a lot here,
+
+11:34.180 --> 11:37.700
+ but how should we think about the role of testosterone
+
+11:37.700 --> 11:41.240
+ in the amygdala given that the engagement of the amygdala
+
+11:41.240 --> 11:43.420
+ is fundamental in this transition point
+
+11:43.420 --> 11:46.260
+ between a exhilarating positive response
+
+11:46.260 --> 11:50.020
+ and a negative stressful response?
+
+11:50.020 --> 11:51.500
+ Or maybe just broadly,
+
+11:51.500 --> 11:53.240
+ how should we think about testosterone
+
+11:53.240 --> 11:54.740
+ and its effects on the brain?
+
+11:55.920 --> 11:58.260
+ And pertinent to the transition
+
+11:58.260 --> 12:02.220
+ from whether this is a stressor that's evoking fear
+
+12:02.220 --> 12:06.380
+ or evoking aggression in terms of that continuum also
+
+12:06.380 --> 12:08.460
+ because the amygdala is in the center
+
+12:08.460 --> 12:11.460
+ of all four points on those axes.
+
+12:12.340 --> 12:15.540
+ Basically almost everybody out there
+
+12:15.540 --> 12:19.140
+ has a completely wrong idea as to what testosterone does,
+
+12:19.140 --> 12:21.900
+ which is testosterone makes you aggressive
+
+12:21.900 --> 12:24.780
+ because males, virtually every species out there
+
+12:24.780 --> 12:27.280
+ have more testosterone and are more aggressive
+
+12:27.280 --> 12:30.380
+ and seasonal maters have testosterone
+
+12:30.380 --> 12:32.020
+ surging at the time of year.
+
+12:32.020 --> 12:34.260
+ They're punching it out over territory
+
+12:34.260 --> 12:39.200
+ and you take testosterone out of the picture.
+
+12:39.200 --> 12:43.060
+ You castrate any mammal out there, including us,
+
+12:43.060 --> 12:45.860
+ and levels of aggression will go down.
+
+12:45.860 --> 12:48.740
+ And the easy thing then is to conclude
+
+12:48.740 --> 12:51.900
+ that testosterone causes aggression.
+
+12:51.900 --> 12:55.300
+ And the reality is testosterone does no such thing.
+
+12:55.300 --> 12:57.180
+ It doesn't cause aggression.
+
+12:57.180 --> 13:00.640
+ And you can see this both behaviorally and in the amygdala.
+
+13:00.640 --> 13:02.940
+ What does testosterone do?
+
+13:02.940 --> 13:06.440
+ It lowers the threshold for the sort of things
+
+13:06.440 --> 13:09.620
+ that would normally provoke you into being aggressive
+
+13:09.620 --> 13:12.040
+ so that it happens more easily.
+
+13:12.040 --> 13:16.220
+ It makes systems that are already turned on
+
+13:16.220 --> 13:20.580
+ turn on louder rather than turning on aggressive music
+
+13:20.580 --> 13:21.620
+ or some such thing.
+
+13:21.620 --> 13:24.240
+ What does that look like behaviorally?
+
+13:24.240 --> 13:27.480
+ You take five male monkeys, put them together,
+
+13:27.480 --> 13:30.060
+ they form a dominance hierarchy.
+
+13:30.060 --> 13:32.700
+ Number one is great, number five is miserable,
+
+13:32.700 --> 13:34.220
+ number three is right in between.
+
+13:34.220 --> 13:37.340
+ Now take number three and shoot the guy up
+
+13:37.340 --> 13:39.920
+ with tons of testosterone
+
+13:39.920 --> 13:43.020
+ and he's gonna be involved in more fights.
+
+13:43.020 --> 13:46.740
+ Aha, testosterone uniformly causes aggression.
+
+13:46.740 --> 13:49.660
+ But you look closely and there's a pattern to it.
+
+13:49.660 --> 13:54.260
+ Is number three now challenging numbers two and one
+
+13:54.260 --> 13:55.780
+ for their place in the hierarchy?
+
+13:55.780 --> 13:56.820
+ Absolutely not.
+
+13:56.820 --> 14:00.540
+ He is brown nosing them exactly as much as he used to.
+
+14:00.540 --> 14:03.700
+ What's going on is he's just a miserable terror
+
+14:03.700 --> 14:06.220
+ to poor number four and five.
+
+14:06.220 --> 14:08.760
+ And in that case, what testosterone is doing
+
+14:08.760 --> 14:13.560
+ is amplifying the preexisting patterns of aggression,
+
+14:13.560 --> 14:17.900
+ amplifying the social learning that's already gone into it.
+
+14:17.900 --> 14:20.780
+ Now on sort of the more reductive level,
+
+14:20.780 --> 14:23.440
+ so how does that translate into the amygdala?
+
+14:23.440 --> 14:26.840
+ Does testosterone make amigdolloid neurons
+
+14:26.840 --> 14:28.900
+ have action potentials?
+
+14:28.900 --> 14:32.300
+ Does it cause those neurons to suddenly speak
+
+14:32.300 --> 14:35.040
+ about fear and aggression spontaneously?
+
+14:35.040 --> 14:36.540
+ Absolutely not.
+
+14:36.540 --> 14:41.540
+ What they do is if the amygdala is already being stimulated,
+
+14:41.960 --> 14:44.420
+ it increases the rate of neuronal firing.
+
+14:45.300 --> 14:49.620
+ What it's worth, it shortens after hyperpolarizations.
+
+14:49.620 --> 14:53.260
+ So the theme there exactly is it's not creating aggression,
+
+14:53.260 --> 14:54.900
+ it's just upping the volume
+
+14:54.900 --> 14:57.660
+ of whatever aggression is already there.
+
+14:57.660 --> 14:59.860
+ And once you factor that in,
+
+15:01.120 --> 15:04.940
+ it's impossible to say anything about what testosterone does
+
+15:04.940 --> 15:09.940
+ outside the context of what testosterone-related behaviors,
+
+15:10.300 --> 15:14.220
+ how they get treated in your social settings.
+
+15:15.400 --> 15:17.840
+ Yeah, and in terms of status
+
+15:17.840 --> 15:19.840
+ and the relationship between individuals,
+
+15:19.840 --> 15:23.120
+ either non-human primates or humans,
+
+15:23.120 --> 15:26.820
+ can we say that testosterone and levels of testosterone,
+
+15:26.820 --> 15:29.420
+ or I should say, can we say that relative levels
+
+15:29.420 --> 15:31.620
+ of testosterone between individuals
+
+15:31.620 --> 15:34.980
+ is correlated to status within the hierarchy?
+
+15:36.660 --> 15:38.600
+ Yes, but in a way that winds up
+
+15:38.600 --> 15:41.020
+ being totally uninteresting.
+
+15:41.020 --> 15:42.480
+ Like you go back, I don't know,
+
+15:42.480 --> 15:45.620
+ whatever number of decades to endocrinology texts,
+
+15:45.620 --> 15:49.540
+ and there were two totally reliable findings in there.
+
+15:49.540 --> 15:51.740
+ Let's see, I have a dog in here that's so good.
+
+15:51.740 --> 15:54.140
+ We like dogs at the Huberman Lab podcast.
+
+15:55.140 --> 15:57.460
+ He's jingling a bit.
+
+15:57.460 --> 15:58.340
+ They are welcome.
+
+15:58.340 --> 16:00.180
+ They are absolutely welcome, yeah.
+
+16:00.180 --> 16:02.900
+ And there'd be two truisms,
+
+16:02.900 --> 16:06.220
+ which is higher levels of testosterone
+
+16:06.220 --> 16:08.680
+ predict higher levels of aggression
+
+16:08.680 --> 16:10.300
+ in humans and other animals.
+
+16:10.300 --> 16:12.460
+ Higher levels of testosterone
+
+16:12.460 --> 16:15.580
+ predict higher levels of sexual activity.
+
+16:15.580 --> 16:18.420
+ Whoa, testosterone causing both.
+
+16:18.420 --> 16:20.340
+ And the correlation is there.
+
+16:20.340 --> 16:23.780
+ And when you look closely, we've got cause and effect stuff.
+
+16:23.780 --> 16:27.380
+ Sexual behavior raises testosterone levels.
+
+16:27.380 --> 16:30.400
+ Aggression raises testosterone levels.
+
+16:30.400 --> 16:33.300
+ Your levels beforehand are barely predictive
+
+16:33.300 --> 16:34.820
+ of what's going to happen.
+
+16:34.820 --> 16:37.140
+ So it's a response rather than a cause.
+
+16:38.180 --> 16:39.840
+ When you look at that, though,
+
+16:39.840 --> 16:42.820
+ in terms of making sense of individual differences,
+
+16:43.700 --> 16:45.720
+ they don't matter a whole lot.
+
+16:46.840 --> 16:51.840
+ You can spend an entire career on the social circumstances
+
+16:51.840 --> 16:56.840
+ that produce 3.5% more testosterone in the circulation
+
+16:57.700 --> 17:02.000
+ and expect to see all sorts of interesting implications.
+
+17:02.000 --> 17:04.240
+ And that's not really the case.
+
+17:04.240 --> 17:08.000
+ It's somewhat of a yes or no modulator
+
+17:08.000 --> 17:12.200
+ of the much more subtle social stuff that's already there.
+
+17:12.200 --> 17:13.600
+ Very interesting.
+
+17:13.600 --> 17:17.680
+ You know, I think that there are a lot of misconceptions
+
+17:17.680 --> 17:18.760
+ about human biology,
+
+17:18.760 --> 17:21.360
+ but testosterone seems to be one area
+
+17:21.360 --> 17:24.420
+ where at least from what I can find on the internet,
+
+17:24.420 --> 17:28.960
+ there's a sort of at the peak of misunderstanding.
+
+17:28.960 --> 17:30.520
+ Maybe we could just ask a few more questions
+
+17:30.520 --> 17:32.320
+ about testosterone and sexual behavior,
+
+17:32.320 --> 17:34.720
+ because there's an interesting story there
+
+17:34.720 --> 17:38.000
+ about castration versus non-castration
+
+17:38.000 --> 17:40.260
+ and the causality again.
+
+17:40.260 --> 17:42.360
+ But before you address that,
+
+17:42.360 --> 17:44.160
+ I just want to highlight something that you said
+
+17:44.160 --> 17:46.160
+ that I think is so vital,
+
+17:46.160 --> 17:49.260
+ which is that behaviors such as aggressive behaviors
+
+17:49.260 --> 17:52.240
+ and sexual behaviors can actually increase testosterone.
+
+17:52.240 --> 17:53.800
+ Did I hear that correctly?
+
+17:53.800 --> 17:56.640
+ And the reverse is sort of true,
+
+17:56.640 --> 17:59.360
+ but not in a causal way.
+
+17:59.360 --> 18:00.460
+ Is that right?
+
+18:01.320 --> 18:04.280
+ The opposite direction with the causality, yeah.
+
+18:04.280 --> 18:07.040
+ Yeah, so if I were to increase somebody's testosterone
+
+18:07.040 --> 18:10.200
+ by 30% male or female, doesn't matter,
+
+18:10.200 --> 18:12.760
+ their sexual behavior may or may not change.
+
+18:12.760 --> 18:15.240
+ Essentially zero effect at all.
+
+18:15.240 --> 18:18.600
+ Your brain is not that sensitive to fluctuations
+
+18:18.600 --> 18:20.360
+ in testosterone levels.
+
+18:20.360 --> 18:22.120
+ In terms of things like aggression,
+
+18:22.120 --> 18:25.280
+ raising testosterone just is a great footnote.
+
+18:25.280 --> 18:29.200
+ If you have the right type of willing to die
+
+18:29.200 --> 18:31.680
+ in the trenches devotion sort of thing,
+
+18:31.680 --> 18:34.720
+ watching your favorite team play a sport
+
+18:34.720 --> 18:37.000
+ will raise your testosterone levels
+
+18:37.000 --> 18:39.920
+ as you sit there with a potato chips in your arm chair.
+
+18:39.920 --> 18:43.520
+ So it's not the physicality of aggression,
+
+18:43.520 --> 18:47.780
+ it's the psychological framing of it.
+
+18:47.780 --> 18:51.440
+ So yeah, testosterone is not causing that.
+
+18:51.440 --> 18:54.840
+ And a great way to appreciate that is,
+
+18:54.840 --> 18:57.560
+ okay, so you had all these
+
+18:57.560 --> 19:00.360
+ testosterone sexual behavior correlations
+
+19:00.360 --> 19:04.760
+ and you do the definitive endocrine intervention,
+
+19:04.760 --> 19:07.960
+ which is you do a subtraction study,
+
+19:07.960 --> 19:09.600
+ you've removed the testes.
+
+19:09.600 --> 19:14.280
+ And as I said before, levels of sexual behavior goes down.
+
+19:14.280 --> 19:16.360
+ Good, we've just shown that testosterone
+
+19:16.360 --> 19:18.200
+ is somehow causative.
+
+19:18.200 --> 19:22.440
+ Critically, they go down, but not down to zero,
+
+19:22.440 --> 19:27.440
+ whether you are a rat or a monkey or a human, whatever.
+
+19:27.500 --> 19:31.880
+ And what predicts how much residual sexual behavior is there,
+
+19:31.880 --> 19:35.640
+ how much sexual behavior there was before castration.
+
+19:36.540 --> 19:39.640
+ What that's telling you is by then,
+
+19:39.640 --> 19:43.060
+ that's behavior that's being carried by social learning
+
+19:43.060 --> 19:47.080
+ in context, rather than by a hormone, exact same thing
+
+19:47.080 --> 19:51.120
+ with aggression, drops after castration, doesn't go to zero.
+
+19:51.120 --> 19:53.280
+ The more prior history of it,
+
+19:53.280 --> 19:55.740
+ the more it just keeps coasting along on its own,
+
+19:55.740 --> 19:57.880
+ even without testosterone.
+
+19:57.880 --> 20:01.440
+ Very interesting, can we say that there's an exception
+
+20:01.440 --> 20:04.560
+ in terms of the early organizing effects of hormones?
+
+20:04.560 --> 20:07.040
+ Like for instance, if a developing animal is deprived
+
+20:07.040 --> 20:11.500
+ of testosterone or estrogen or aromatized testosterone
+
+20:11.500 --> 20:13.840
+ into estrogen, there's a whole story there, as you know.
+
+20:13.840 --> 20:17.160
+ But then I could imagine that the circuits of the brain
+
+20:17.160 --> 20:19.500
+ that are responsible for initiating sexual behavior
+
+20:19.500 --> 20:21.240
+ in the first place might not emerge
+
+20:21.240 --> 20:24.560
+ and therefore not be sensitive to testosterone later in life.
+
+20:24.560 --> 20:25.400
+ Is that right?
+
+20:25.400 --> 20:26.220
+ Okay.
+
+20:26.220 --> 20:27.060
+ Yeah, exactly.
+
+20:27.060 --> 20:31.080
+ And a great way of seeing that is this totally nutty
+
+20:31.080 --> 20:34.640
+ biological factoid, which is the second
+
+20:34.640 --> 20:37.840
+ to fourth digit ratio in hands.
+
+20:37.840 --> 20:38.680
+ Oh yeah.
+
+20:38.680 --> 20:40.040
+ Totally obscure thing.
+
+20:40.040 --> 20:43.920
+ The ratio of one to the other in some way
+
+20:43.920 --> 20:47.360
+ reflects levels of testosterone androgen exposure
+
+20:47.360 --> 20:48.840
+ during fetal life.
+
+20:48.840 --> 20:50.440
+ And I can't remember which way it goes
+
+20:50.440 --> 20:53.600
+ and it's minuscule and you need a thousand people
+
+20:53.600 --> 20:56.120
+ in your sample size to be able to see anything,
+
+20:56.120 --> 20:58.840
+ but you see it in other primates.
+
+20:58.840 --> 21:03.020
+ It's already there in fetal, sonograms, all of that.
+
+21:03.020 --> 21:07.760
+ So that's a readout of subtle differences
+
+21:07.760 --> 21:10.200
+ in prenatal exposure.
+
+21:10.200 --> 21:11.960
+ And that winds up being a predictor
+
+21:11.960 --> 21:16.760
+ of a whole range of subtle stuff in adult behavior.
+
+21:16.760 --> 21:18.120
+ So yeah, at the fetal end,
+
+21:18.120 --> 21:19.800
+ when you're still building everything,
+
+21:19.800 --> 21:21.560
+ testosterone and the amount of it
+
+21:21.560 --> 21:23.240
+ is making a huge difference.
+
+21:23.240 --> 21:25.080
+ By the time you're an adult,
+
+21:25.080 --> 21:29.320
+ it's just somewhat of an all or none signal.
+
+21:29.320 --> 21:30.160
+ Yeah.
+
+21:30.160 --> 21:31.280
+ I have a confession,
+
+21:31.280 --> 21:33.400
+ which is that I was a master's student at Berkeley
+
+21:33.400 --> 21:35.660
+ in Mark Breedlove's arena.
+
+21:35.660 --> 21:38.400
+ So I'm an author on that paper,
+
+21:38.400 --> 21:40.280
+ although I'm deep within the author line
+
+21:40.280 --> 21:43.020
+ and you got the description of it exactly right,
+
+21:43.020 --> 21:44.040
+ that it's the D two,
+
+21:44.040 --> 21:46.560
+ the index finger to the ring finger ratio
+
+21:46.560 --> 21:48.940
+ is more similar in females
+
+21:48.940 --> 21:50.560
+ and then it is in males and males,
+
+21:50.560 --> 21:52.160
+ the index finger tends to be shorter.
+
+21:52.160 --> 21:53.840
+ And for people out there who are listening to this,
+
+21:53.840 --> 21:57.720
+ who are now freaking out or measuring,
+
+21:57.720 --> 21:59.420
+ there's a proper way to measure this,
+
+21:59.420 --> 22:03.360
+ which is eyeballing it doesn't work all the time
+
+22:03.360 --> 22:04.540
+ unless at the extremes.
+
+22:04.540 --> 22:06.440
+ And there's some more interesting stories there.
+
+22:06.440 --> 22:08.040
+ It actually has been replicated
+
+22:08.040 --> 22:12.180
+ no fewer than five times, Mark Breedlove tells me.
+
+22:13.320 --> 22:17.320
+ But yes, in terms of these early organizing effects,
+
+22:17.320 --> 22:20.720
+ those seem very robust in most studies.
+
+22:20.720 --> 22:23.520
+ These later effects are a sort of activation
+
+22:23.520 --> 22:25.080
+ of neural circuits by hormones.
+
+22:25.080 --> 22:27.300
+ I'm absolutely fascinated by this.
+
+22:27.300 --> 22:30.160
+ And I do have a couple other questions,
+
+22:30.160 --> 22:33.680
+ which is we normally associate testosterone with males,
+
+22:33.680 --> 22:36.600
+ but of course, females make testosterone as well
+
+22:36.600 --> 22:39.160
+ from the adrenals and presumably elsewhere too.
+
+22:39.160 --> 22:40.540
+ I'm guessing if we looked hard enough,
+
+22:40.540 --> 22:42.120
+ we'd probably find that there were other sources
+
+22:42.120 --> 22:45.040
+ of androgens in females.
+
+22:45.040 --> 22:48.920
+ Can we say that these general contours of effects
+
+22:48.920 --> 22:53.540
+ on aggression also pertain to females?
+
+22:53.540 --> 22:57.080
+ And I suppose I should ask in particular
+
+22:57.080 --> 22:59.540
+ about female-female aggression,
+
+22:59.540 --> 23:01.240
+ which does exist in many species,
+
+23:01.240 --> 23:04.180
+ female-male to aggression, as well as maternal aggression,
+
+23:04.180 --> 23:08.400
+ which is a robust aspect of our evolution, of course,
+
+23:08.400 --> 23:13.160
+ that the mother will, an angry mother animal of any kind
+
+23:13.160 --> 23:16.540
+ protecting her young is truly dangerous
+
+23:16.540 --> 23:19.100
+ in the best sense of the word.
+
+23:19.100 --> 23:22.880
+ And that type of post-parturition period
+
+23:22.880 --> 23:27.760
+ after birth aggression is all about estrogen,
+
+23:27.760 --> 23:29.760
+ progesterone, those sorts of things.
+
+23:29.760 --> 23:31.760
+ Female aggression the rest of the time
+
+23:31.760 --> 23:34.660
+ has testosterone as a major player
+
+23:34.660 --> 23:37.600
+ at a much lower level on the average,
+
+23:37.600 --> 23:40.400
+ on the average, one always has to say,
+
+23:40.400 --> 23:42.740
+ but it's basically the same punchlines.
+
+23:42.740 --> 23:45.880
+ In females, the lower levels of testosterone
+
+23:45.880 --> 23:49.440
+ are essential for typical levels of aggression
+
+23:49.440 --> 23:51.080
+ and sexual behavior.
+
+23:51.080 --> 23:53.000
+ None of us, they're not causing it.
+
+23:53.000 --> 23:55.920
+ It's not sensitive to small individual differences.
+
+23:55.920 --> 23:57.280
+ Same exact thing.
+
+23:57.280 --> 23:59.800
+ You can get way over impressed
+
+23:59.800 --> 24:02.720
+ with the importance of androgens in females
+
+24:02.720 --> 24:05.120
+ just as readily as in males.
+
+24:05.120 --> 24:06.800
+ So in line with that,
+
+24:06.800 --> 24:10.300
+ how should we conceptualize testosterone?
+
+24:10.300 --> 24:11.920
+ I realize there isn't a single sentence
+
+24:11.920 --> 24:16.320
+ or that can capture a hormone and all its effects
+
+24:16.320 --> 24:18.180
+ because hormones have so many different slow
+
+24:18.180 --> 24:20.320
+ and fast effects on the brain, on other glands,
+
+24:20.320 --> 24:23.340
+ on their own, on the very glands that produce them.
+
+24:23.340 --> 24:25.960
+ But as I've heard you talk about testosterone today
+
+24:25.960 --> 24:28.320
+ and over the years, I start to get the impression
+
+24:28.320 --> 24:31.920
+ that as the most misunderstood molecule
+
+24:31.920 --> 24:34.080
+ in human health in the universe,
+
+24:34.080 --> 24:38.000
+ it has, it's clearly doing something very powerful.
+
+24:38.000 --> 24:40.560
+ It's shifting the way that certain neural circuits work,
+
+24:40.560 --> 24:42.800
+ adjusting the gain on the amygdala as you described
+
+24:42.800 --> 24:45.360
+ and certainly other things as well.
+
+24:45.360 --> 24:49.560
+ Is there any truism about testosterone
+
+24:49.560 --> 24:51.440
+ and its relationship to effort
+
+24:51.440 --> 24:55.280
+ or its relationship to resilience
+
+24:55.280 --> 24:59.400
+ and in a way that maybe will help me and other people
+
+24:59.400 --> 25:03.120
+ sort of think about how to think about testosterone?
+
+25:03.120 --> 25:08.040
+ Yeah, maybe three separate answers to that.
+
+25:08.040 --> 25:11.640
+ The first one is I think it's a fair summary
+
+25:11.640 --> 25:16.640
+ to think that when it comes to motivated strong behaviors,
+
+25:17.100 --> 25:19.400
+ what testosterone does is make you more
+
+25:19.400 --> 25:21.840
+ of whatever you already are in that domain.
+
+25:21.840 --> 25:25.840
+ Sexual arousal, libido, aggressiveness,
+
+25:25.840 --> 25:28.880
+ spontaneous aggression, reactive aggression,
+
+25:28.880 --> 25:30.040
+ things of that sort.
+
+25:30.040 --> 25:31.600
+ It's upping the volume of things
+
+25:31.600 --> 25:33.240
+ that are already strongly there.
+
+25:34.560 --> 25:38.200
+ Second way to think about it is,
+
+25:39.560 --> 25:44.120
+ well, here's like my favorite finding about testosterone.
+
+25:44.120 --> 25:48.640
+ And this was some wonderful work by a guy, John Wingfield,
+
+25:48.640 --> 25:51.040
+ who's one of the best behavioral endocrinologists
+
+25:51.040 --> 25:54.920
+ out there, and about 20 years ago,
+
+25:54.920 --> 25:59.480
+ he formulated what was called the challenge hypothesis
+
+25:59.480 --> 26:01.600
+ of testosterone action.
+
+26:01.600 --> 26:03.760
+ What does testosterone do?
+
+26:03.760 --> 26:06.320
+ Testosterone is what you secrete
+
+26:06.320 --> 26:08.980
+ when your status is being challenged
+
+26:08.980 --> 26:11.760
+ and it makes it more likely that you'll do the behaviors
+
+26:11.760 --> 26:14.280
+ needed to hold onto your status.
+
+26:14.280 --> 26:16.960
+ Okay, so that's totally boringly straightforward
+
+26:16.960 --> 26:18.200
+ if you're a baboon.
+
+26:18.200 --> 26:21.020
+ If somebody is challenging your high rank,
+
+26:21.020 --> 26:22.720
+ the appropriate response on your part
+
+26:22.720 --> 26:24.440
+ is going to be aggression.
+
+26:24.440 --> 26:26.760
+ All right, so we've just gotten through the back door
+
+26:26.760 --> 26:28.800
+ of testosterone and aggression again.
+
+26:28.800 --> 26:31.680
+ But then you get to humans,
+
+26:31.680 --> 26:33.720
+ and humans have lots of different ways
+
+26:33.720 --> 26:36.320
+ of achieving or maintaining status.
+
+26:36.320 --> 26:39.640
+ And all you need to do is go to like some fancy
+
+26:39.640 --> 26:42.720
+ private school's annual auction,
+
+26:42.720 --> 26:46.320
+ and you will see all these half-drunk alpha males
+
+26:46.320 --> 26:50.720
+ competing to see who can give the most money away
+
+26:50.720 --> 26:54.120
+ as a show of conspicuous like, you know,
+
+26:55.080 --> 26:56.480
+ property that they have.
+
+26:56.480 --> 26:58.800
+ And in a setting like that, I mean,
+
+26:58.800 --> 27:01.680
+ I haven't been able to take urine samples
+
+27:01.680 --> 27:03.300
+ at those times, unfortunately,
+
+27:03.300 --> 27:05.880
+ but that shows the flip side of it.
+
+27:05.880 --> 27:08.680
+ If you have a species that hands out status
+
+27:08.680 --> 27:10.960
+ in a very different sort of way,
+
+27:10.960 --> 27:12.720
+ testosterone is going to boost that also.
+
+27:12.720 --> 27:15.960
+ Okay, so that generates a totally nutty prediction.
+
+27:15.960 --> 27:18.760
+ Wow, take people in a circumstance,
+
+27:18.760 --> 27:20.960
+ say playing an economic game,
+
+27:20.960 --> 27:24.600
+ where you get status by being trustworthy
+
+27:24.600 --> 27:27.680
+ and being generous in your interactions with the game.
+
+27:27.680 --> 27:29.840
+ If you give people testosterone,
+
+27:29.840 --> 27:32.240
+ does that make them more generous?
+
+27:32.240 --> 27:34.240
+ And that's absolutely the case.
+
+27:34.240 --> 27:35.980
+ Totally cool finding.
+
+27:37.160 --> 27:38.600
+ Showing you, I don't know,
+
+27:38.600 --> 27:41.960
+ basically if you took a whole bunch of Buddhist monks
+
+27:41.960 --> 27:44.240
+ and shot them up with testosterone,
+
+27:44.240 --> 27:46.120
+ they'd get all competitive with each other
+
+27:46.120 --> 27:49.440
+ as to who could do the most random acts of kindness.
+
+27:49.440 --> 27:54.440
+ And if we have a societal problem with too much aggression,
+
+27:54.480 --> 27:57.440
+ the first culprit to look at is not testosterone.
+
+27:57.440 --> 28:00.120
+ The first to look at is that we hand out
+
+28:00.120 --> 28:03.480
+ so much damn elevated status for aggression
+
+28:03.480 --> 28:06.000
+ in so many circumstances.
+
+28:06.000 --> 28:09.600
+ So I find that finding to be fantastic.
+
+28:09.600 --> 28:11.960
+ Third thing about subtlety of testosterone.
+
+28:11.960 --> 28:15.240
+ Okay, so like some subtler behavioral effects,
+
+28:15.240 --> 28:17.320
+ you give testosterone to people
+
+28:17.320 --> 28:19.840
+ and they become more confident.
+
+28:19.840 --> 28:22.400
+ They become more self-confident.
+
+28:22.400 --> 28:23.440
+ Well, that's good.
+
+28:23.440 --> 28:27.620
+ People pay to take all sorts of nonsensical self-help courses
+
+28:27.620 --> 28:29.920
+ that will boost your self-esteem.
+
+28:29.920 --> 28:31.680
+ And that's a good thing.
+
+28:31.680 --> 28:35.640
+ Unless testosterone makes you more confident,
+
+28:35.640 --> 28:37.440
+ that is inaccurate.
+
+28:37.440 --> 28:41.040
+ And you're more likely to barrel into wrong decisions.
+
+28:41.040 --> 28:44.040
+ What's shown in economic gameplay
+
+28:44.040 --> 28:47.040
+ is that testosterone by making you more confident
+
+28:47.040 --> 28:48.960
+ makes you less cooperative.
+
+28:48.960 --> 28:50.360
+ Because who needs to cooperate
+
+28:50.360 --> 28:52.580
+ because I'm on top of this all on my own.
+
+28:53.460 --> 28:57.640
+ Testosterone makes people cocky and impulsive.
+
+28:57.640 --> 28:59.920
+ And that may be great in one setting,
+
+28:59.920 --> 29:02.240
+ but if in the other is you're absolutely sure
+
+29:02.240 --> 29:05.680
+ your army is gonna overrun the other country in three days.
+
+29:05.680 --> 29:07.600
+ So hell, let's start World War I
+
+29:07.600 --> 29:09.800
+ and you get a big surprise out of it.
+
+29:09.800 --> 29:13.640
+ Testosterone altering risk assessment beforehand
+
+29:13.640 --> 29:17.720
+ probably played a big role in that kind of miscalculation.
+
+29:17.720 --> 29:19.080
+ Super interesting.
+
+29:19.080 --> 29:21.480
+ I always think about testosterone and dopamine
+
+29:21.480 --> 29:23.680
+ being close cousins in the brain,
+
+29:23.680 --> 29:25.680
+ not just because of their relationship
+
+29:25.680 --> 29:28.760
+ through the pituitary and hypothalamus, that of course,
+
+29:28.760 --> 29:32.920
+ but also because of dopamine's salient role
+
+29:32.920 --> 29:37.240
+ in creating this bias towards exteroception.
+
+29:37.240 --> 29:40.840
+ When somebody takes a drug that increases dopamine
+
+29:40.840 --> 29:43.280
+ or they're chock-a-block full of dopamine,
+
+29:43.280 --> 29:45.680
+ they tend, I want to highlight tend
+
+29:45.680 --> 29:47.020
+ because I'm really generalizing it,
+
+29:47.020 --> 29:49.920
+ but they tend to focus on outward goals,
+
+29:49.920 --> 29:52.740
+ things beyond the boundaries of their skin.
+
+29:52.740 --> 29:56.200
+ And testosterone seems to do a bit of the same.
+
+29:56.200 --> 29:58.200
+ It tends to put us into a similar mode
+
+29:58.200 --> 30:01.120
+ of perceiving the outside world
+
+30:01.120 --> 30:04.760
+ in ways that we're asking questions like,
+
+30:04.760 --> 30:07.800
+ how do I relate to this other of my species?
+
+30:07.800 --> 30:09.740
+ How do I relate to these goals?
+
+30:09.740 --> 30:12.600
+ Is there anything that we can do
+
+30:12.600 --> 30:14.560
+ to better conceptualize the relationship
+
+30:14.560 --> 30:17.680
+ between testosterone and dopamine and motivation?
+
+30:17.680 --> 30:20.840
+ Or would that just take us down the alleyways
+
+30:20.840 --> 30:23.240
+ of neural pathways and the hypothalamus,
+
+30:23.240 --> 30:24.800
+ which was fine too.
+
+30:24.800 --> 30:27.300
+ Well, I think it's got lots to do
+
+30:27.300 --> 30:30.960
+ with sort of this massive revisionism about dopamine.
+
+30:30.960 --> 30:33.920
+ Everyone since the pharaohs got brought up
+
+30:33.920 --> 30:37.480
+ being taught that dopamine is about pleasure and reward.
+
+30:37.480 --> 30:38.480
+ It turns out it isn't.
+
+30:38.480 --> 30:41.560
+ It's about anticipation of reward.
+
+30:41.560 --> 30:44.080
+ And it's about generating the motivation,
+
+30:44.080 --> 30:48.040
+ the goal-directed behavior needed to go get that reward.
+
+30:48.040 --> 30:49.060
+ And before you know it,
+
+30:49.060 --> 30:53.080
+ you're using like elevated dopamine your entire life
+
+30:53.080 --> 30:55.760
+ to motivate you to do whatever's going to get you
+
+30:55.760 --> 30:58.240
+ like entry into heaven after life.
+
+30:58.240 --> 31:01.940
+ Kind of, you know, it's doing that sort of thing.
+
+31:01.940 --> 31:04.600
+ So it's really about the motivation.
+
+31:04.600 --> 31:06.520
+ And what testosterone does,
+
+31:06.520 --> 31:09.160
+ even in individuals who are not aggressive
+
+31:09.160 --> 31:11.360
+ and why testosterone replacement
+
+31:11.360 --> 31:14.600
+ is often a very helpful thing for aging males,
+
+31:14.600 --> 31:16.720
+ is it increases energy.
+
+31:16.720 --> 31:21.120
+ It increases a sense of there-ness,
+
+31:21.120 --> 31:22.680
+ of presence of alertness.
+
+31:22.680 --> 31:24.360
+ It increases motivation.
+
+31:24.360 --> 31:28.460
+ So that's a whole aspect which then takes us into
+
+31:28.460 --> 31:33.120
+ is your motivation to get up and like go,
+
+31:33.120 --> 31:35.040
+ you know, hand out lots of soup
+
+31:35.040 --> 31:37.300
+ in a soup kitchen for homeless people?
+
+31:37.300 --> 31:41.120
+ Or is it to get up and go ethnically cleanse a village?
+
+31:42.200 --> 31:45.080
+ It's got much to do with what your makeup was
+
+31:45.080 --> 31:47.520
+ before the testosterone got on board.
+
+31:47.520 --> 31:50.680
+ So it's activating in an energetic sense,
+
+31:50.680 --> 31:53.160
+ testosterone within minutes
+
+31:53.160 --> 31:56.720
+ increases glucose uptake into skeletal muscle.
+
+31:56.720 --> 32:00.440
+ You're just more awake and alert and all of that.
+
+32:00.440 --> 32:03.120
+ And that has a lot to do with what dopamine does.
+
+32:03.120 --> 32:05.280
+ And as one might predict then,
+
+32:05.280 --> 32:09.320
+ getting just the right levels of testosterone
+
+32:09.320 --> 32:13.760
+ infused into your bloodstream feels great to lab rats.
+
+32:13.760 --> 32:17.920
+ They will lever press to get infused into the range
+
+32:17.920 --> 32:19.960
+ that optimizes dopamine release.
+
+32:19.960 --> 32:21.720
+ So you're absolutely right.
+
+32:21.720 --> 32:24.480
+ They're deeply intertwined.
+
+32:24.480 --> 32:26.760
+ Yeah, such beautiful biology there.
+
+32:26.760 --> 32:29.280
+ I love the way you encapsulate their relationship.
+
+32:29.280 --> 32:32.360
+ I want to ask about estrogen.
+
+32:33.280 --> 32:36.340
+ We don't hear about estrogen as often.
+
+32:36.340 --> 32:38.480
+ And it's always interesting to me now
+
+32:38.480 --> 32:41.080
+ doing some public facing education, you know,
+
+32:41.080 --> 32:44.600
+ that testosterone is this very controversial molecule.
+
+32:44.600 --> 32:47.280
+ Just to say it is almost controversial.
+
+32:47.280 --> 32:50.400
+ But estrogen doesn't seem to hold
+
+32:50.400 --> 32:53.520
+ the same controversial weight.
+
+32:53.520 --> 32:56.680
+ And yet estrogen has some very powerful effects
+
+32:56.680 --> 32:59.680
+ on both the animal brain and on the human brain
+
+32:59.680 --> 33:02.080
+ of males and females.
+
+33:02.080 --> 33:05.900
+ Men do not want their estrogen to go too low.
+
+33:05.900 --> 33:07.040
+ Terrible things happen.
+
+33:07.040 --> 33:08.960
+ They will lose cognitive function.
+
+33:08.960 --> 33:10.920
+ Libido can drop.
+
+33:10.920 --> 33:12.640
+ So men need estrogen as well.
+
+33:12.640 --> 33:17.300
+ But perhaps maybe we can put the same filter on estrogen
+
+33:17.300 --> 33:19.400
+ as we did on testosterone.
+
+33:19.400 --> 33:21.920
+ Are there any general themes of estrogen
+
+33:21.920 --> 33:24.760
+ that people should be aware of
+
+33:24.760 --> 33:27.680
+ or that you think that are generally misunderstood?
+
+33:27.680 --> 33:30.080
+ Is it really all about feelings and empathy
+
+33:30.080 --> 33:31.360
+ and making us more sensitive?
+
+33:31.360 --> 33:34.240
+ I sense not.
+
+33:34.240 --> 33:38.000
+ No, and it's once again, very context dependent.
+
+33:38.000 --> 33:41.220
+ And if estrogen after giving birth
+
+33:41.220 --> 33:44.340
+ is playing a central role in you wanting to shred the face
+
+33:44.340 --> 33:48.320
+ of somebody getting too close to your kittens kind of thing,
+
+33:48.320 --> 33:53.320
+ we know it's not just warm, fuzzy, empathic kind of stuff.
+
+33:53.640 --> 33:58.640
+ Estrogen in lots of ways could be summarized by
+
+33:58.800 --> 34:00.240
+ if you had a choice in the matter
+
+34:00.240 --> 34:03.360
+ between having a lot of estrogen in your bloodstream or not,
+
+34:03.360 --> 34:05.720
+ go for having a lot of estrogen.
+
+34:05.720 --> 34:10.000
+ It enhances cognition exactly as you said.
+
+34:10.000 --> 34:13.560
+ It stimulates neurogenesis in the hippocampus.
+
+34:13.560 --> 34:17.000
+ It increases glucose and oxygen delivery.
+
+34:17.000 --> 34:19.680
+ It protects you from dementia.
+
+34:19.680 --> 34:23.200
+ It decreases inflammatory oxidative damage
+
+34:23.200 --> 34:25.620
+ to blood vessels, which is why it's good
+
+34:25.620 --> 34:28.440
+ for protecting from cardiovascular disease
+
+34:28.440 --> 34:30.440
+ in contrast to testosterone,
+
+34:30.440 --> 34:33.220
+ which is making every one of those things worse.
+
+34:35.160 --> 34:38.200
+ This brings up this minefield of the question,
+
+34:38.200 --> 34:42.320
+ which is so what about post-menopausal estrogen?
+
+34:42.320 --> 34:46.400
+ And all sorts of lab studies with non-human primates
+
+34:46.400 --> 34:50.480
+ suggested that you keep estrogen levels high
+
+34:50.480 --> 34:53.040
+ after a monkey's equivalent of menopause
+
+34:53.040 --> 34:56.240
+ and you're gonna keep brain health a lot better,
+
+34:56.240 --> 35:01.000
+ decreasing the risk of dementia, stroke, every such thing.
+
+35:01.000 --> 35:03.900
+ Estrogen is a great antioxidant, all of that.
+
+35:03.900 --> 35:08.440
+ So in the nineties, I think when Healy,
+
+35:09.880 --> 35:11.360
+ I'm forgetting her name,
+
+35:11.360 --> 35:15.600
+ but when there was the first female head of the NIH,
+
+35:15.600 --> 35:20.600
+ Bernadette Healy, set up this massive prospective
+
+35:21.520 --> 35:25.120
+ human study, what was gonna be the biggest one of all times,
+
+35:25.120 --> 35:27.440
+ looking at the pluses and minuses
+
+35:27.440 --> 35:29.680
+ of post-menopausal estrogen.
+
+35:29.680 --> 35:33.400
+ And tens of thousands of women, and this was gonna be,
+
+35:33.400 --> 35:36.560
+ and they had to cut the study short
+
+35:36.560 --> 35:39.400
+ because what they were seeing was estrogen
+
+35:39.400 --> 35:42.880
+ was not only doing the normal bad stuff that you expect
+
+35:42.880 --> 35:46.280
+ in terms of some decalcification stuff,
+
+35:46.280 --> 35:49.920
+ but it was increasing the risk of cardiovascular disease.
+
+35:49.920 --> 35:51.760
+ And it was increasing the risk of stroke
+
+35:51.760 --> 35:54.280
+ and it was increasing the risk of dementia.
+
+35:54.280 --> 35:57.240
+ And this ground to a halt and everybody,
+
+35:57.240 --> 35:59.820
+ they stopped the study in front page news
+
+35:59.820 --> 36:02.400
+ and everybody had that point.
+
+36:02.400 --> 36:04.760
+ And nobody could make sense of it,
+
+36:04.760 --> 36:06.720
+ who had been spending the last 20 years
+
+36:06.720 --> 36:08.920
+ studying the exact same thing in primates
+
+36:08.920 --> 36:11.400
+ and seeing all the protective effects.
+
+36:11.400 --> 36:16.400
+ And the explanation turned out to be one of those things
+
+36:16.480 --> 36:20.320
+ where like law of unexpected consequences.
+
+36:20.320 --> 36:24.680
+ Okay, menopause in women that last different lengths of time
+
+36:24.680 --> 36:26.700
+ that may be a factor that's gonna come.
+
+36:26.700 --> 36:27.760
+ You know what?
+
+36:27.760 --> 36:31.320
+ Let's not start giving our study subjects more estrogen
+
+36:31.320 --> 36:34.260
+ until they're totally past menopause.
+
+36:34.260 --> 36:38.160
+ And when you've got that lag time in between,
+
+36:38.160 --> 36:41.520
+ you shift all sorts of estrogen receptor patterns
+
+36:41.520 --> 36:44.500
+ and that's where all of the bad effects come from.
+
+36:44.500 --> 36:47.000
+ All of the monkey studies had involved
+
+36:47.000 --> 36:50.920
+ just maintaining ovulatory levels
+
+36:50.920 --> 36:53.320
+ into the post-menopausal period.
+
+36:53.320 --> 36:55.280
+ And you do that and you get great effects.
+
+36:55.280 --> 36:57.680
+ Estrogen is one of the greatest predictors
+
+36:57.680 --> 37:00.680
+ of protection from Alzheimer's disease, all of that,
+
+37:00.680 --> 37:04.220
+ but it needs to be physiological.
+
+37:04.220 --> 37:08.100
+ Just keep continuing what your body has been doing
+
+37:08.100 --> 37:11.680
+ for a long time versus let the whole thing shut down
+
+37:11.680 --> 37:15.000
+ and suddenly like try to fire up the coal stoves
+
+37:15.000 --> 37:17.280
+ at the bottom of the basement kind of thing
+
+37:17.280 --> 37:18.520
+ and get that going.
+
+37:18.520 --> 37:21.080
+ There you get utterly different outcomes.
+
+37:21.080 --> 37:25.320
+ And that caused a lot of human health consequences
+
+37:25.320 --> 37:28.540
+ when people suddenly decided that estrogen
+
+37:28.540 --> 37:33.540
+ is in fact neurologically endangering post-menopausal A.
+
+37:33.800 --> 37:35.400
+ Wow, that's fascinating.
+
+37:35.400 --> 37:39.060
+ And I never thought that these steroid hormone receptors
+
+37:39.060 --> 37:42.400
+ could, you know, by not binding estrogen,
+
+37:42.400 --> 37:44.920
+ being devoid of estrogen binding, I should say,
+
+37:44.920 --> 37:49.080
+ could then set off opposite biochemical cascades.
+
+37:49.080 --> 37:49.920
+ Fascinating.
+
+37:49.920 --> 37:50.840
+ I guess it raises the question
+
+37:50.840 --> 37:52.500
+ about testosterone replacement too,
+
+37:52.500 --> 37:56.280
+ whether or not people should talk to their doctor
+
+37:56.280 --> 37:58.920
+ before too long.
+
+37:58.920 --> 38:01.960
+ Men and women talk to your physicians before too long
+
+38:01.960 --> 38:05.200
+ to avoid these, whatever is happening in these periods
+
+38:05.200 --> 38:08.960
+ where there isn't sufficient testosterone and or estrogen.
+
+38:08.960 --> 38:11.820
+ It sounds like it could cause longer term problems
+
+38:11.820 --> 38:14.920
+ even when therapies are introduced.
+
+38:14.920 --> 38:18.680
+ Two additional misery slash complications.
+
+38:18.680 --> 38:20.360
+ So, okay, you're trying to understand,
+
+38:20.360 --> 38:22.520
+ you look at women with a history
+
+38:22.520 --> 38:25.600
+ with or without post-menopausal estrogen replacement
+
+38:25.600 --> 38:27.560
+ where it's done right.
+
+38:27.560 --> 38:30.500
+ And you're seeing 20 years later,
+
+38:30.500 --> 38:33.760
+ estrogen is a predictor of a decreased risk of Alzheimer's.
+
+38:33.760 --> 38:36.520
+ Then you got to start trying to do
+
+38:36.520 --> 38:40.360
+ the unpacking prospective type studies.
+
+38:40.360 --> 38:42.200
+ How much estrogen?
+
+38:42.200 --> 38:44.120
+ At which times?
+
+38:44.120 --> 38:49.120
+ Estrogen is just a catch-all term for a bunch of hormones,
+
+38:49.120 --> 38:52.080
+ estrone, estradiol, estriol.
+
+38:52.080 --> 38:53.800
+ How much of each one of them?
+
+38:53.800 --> 38:55.640
+ Natural or synthetic?
+
+38:55.640 --> 38:57.680
+ Go try to figure all of that out.
+
+38:57.680 --> 38:59.800
+ And the second complication is,
+
+38:59.800 --> 39:03.500
+ it's often hard to say anything about what estrogen does,
+
+39:03.500 --> 39:07.040
+ outside the context of what progesterone is doing.
+
+39:07.040 --> 39:10.040
+ And often it's not the absolute levels of either,
+
+39:10.040 --> 39:11.920
+ it's the ratio of the two.
+
+39:11.920 --> 39:15.480
+ This is such a more complicated endocrine system
+
+39:15.480 --> 39:17.700
+ than testosterone.
+
+39:17.700 --> 39:19.040
+ And, you know,
+
+39:19.040 --> 39:23.400
+ because you have to generate dramatic cyclicity
+
+39:23.400 --> 39:27.420
+ that like no male hypothalamus ever has to dream of.
+
+39:27.420 --> 39:30.360
+ It's a much, much more complicated system.
+
+39:30.360 --> 39:33.360
+ Thus, it's more complicated to understand
+
+39:33.360 --> 39:38.360
+ let alone like figure out what the ideal benefits are of it.
+
+39:38.660 --> 39:40.380
+ Yeah.
+
+39:40.380 --> 39:42.800
+ I don't know what to make of the literature
+
+39:42.800 --> 39:46.060
+ on dropping rates of testosterone
+
+39:46.060 --> 39:47.960
+ and endocrine disruptors.
+
+39:47.960 --> 39:50.120
+ You know, I was at Berkeley when Tyrone Hayes
+
+39:50.120 --> 39:52.160
+ published his data on these frogs
+
+39:52.160 --> 39:54.860
+ that were drinking water from various locations
+
+39:54.860 --> 39:57.220
+ throughout the United States, not just in California,
+
+39:57.220 --> 40:01.040
+ and seeing very severe endocrine disruption
+
+40:01.040 --> 40:04.880
+ through blockade and of androgen receptors
+
+40:04.880 --> 40:05.840
+ and all sorts of issues.
+
+40:05.840 --> 40:07.520
+ And you hear this all the time now
+
+40:07.520 --> 40:09.140
+ that sperm counts are dropping,
+
+40:09.140 --> 40:11.080
+ that there are all these endocrine disruptors,
+
+40:11.080 --> 40:13.460
+ that there's birth control in the water,
+
+40:13.460 --> 40:14.520
+ in the drinking water.
+
+40:14.520 --> 40:16.680
+ It all starts to sound a little crazy.
+
+40:16.680 --> 40:21.680
+ And yet I've also been fooled before by, you know,
+
+40:22.120 --> 40:24.500
+ I guess a good example would be
+
+40:24.500 --> 40:26.980
+ there's a lot of crazy stuff in the world online
+
+40:26.980 --> 40:29.760
+ about all the terrible stuff in highly processed foods.
+
+40:29.760 --> 40:31.980
+ And yet you've got very respectable people,
+
+40:31.980 --> 40:34.860
+ endocrinologists at UCSF, like Robert Lustig saying,
+
+40:34.860 --> 40:37.040
+ yeah, these, a lot of these hidden sugars
+
+40:37.040 --> 40:39.220
+ and these emulsifiers, they're causing real problems.
+
+40:39.220 --> 40:42.920
+ So I've become more open-minded about the question.
+
+40:43.920 --> 40:48.920
+ And so are we suffering from drops in sperm counts
+
+40:49.520 --> 40:51.960
+ and testosterone and estrogen and fertility
+
+40:51.960 --> 40:54.560
+ as a consequence of endocrine disruptors
+
+40:54.560 --> 40:56.560
+ in the environments and food,
+
+40:56.560 --> 40:59.600
+ or because of social reasons?
+
+40:59.600 --> 41:01.520
+ Is there anything that we can hang our hat on,
+
+41:01.520 --> 41:04.060
+ like real data that you're confident in,
+
+41:04.060 --> 41:05.240
+ or is it just a mess?
+
+41:06.240 --> 41:09.820
+ No, the phenomenon does appear to be quite real.
+
+41:10.900 --> 41:14.400
+ Cross-sectional studies, human populations,
+
+41:14.400 --> 41:16.880
+ or I still don't understand why this was one
+
+41:16.880 --> 41:19.140
+ of the first things that Hayes spotted,
+
+41:19.140 --> 41:22.720
+ decreasing testicle size in crocodiles.
+
+41:24.040 --> 41:26.740
+ Go figure why that was one of the first contributions
+
+41:26.740 --> 41:27.700
+ to this.
+
+41:27.700 --> 41:30.640
+ And I think the phenomenon is absolutely real.
+
+41:30.640 --> 41:34.760
+ And what you're then left with is two classic challenges,
+
+41:34.760 --> 41:38.320
+ which is this is correlated with something broad,
+
+41:38.320 --> 41:43.320
+ environmental toxins, which ones, how much, when, et cetera.
+
+41:43.800 --> 41:47.160
+ And the other one always being, well, okay, dropping.
+
+41:47.160 --> 41:49.120
+ Is it dropping enough to make a difference?
+
+41:49.120 --> 41:50.600
+ How big of an effect is this?
+
+41:50.600 --> 41:54.080
+ And those are where the juries are still out.
+
+41:54.080 --> 41:55.440
+ Yeah, it's an area that I know
+
+41:55.440 --> 41:56.780
+ there's a lot of interest in.
+
+41:56.780 --> 42:00.160
+ And you've got groups of people who won't touch a receipt
+
+42:00.160 --> 42:03.560
+ at a store because of the BPAs that are on the inks of the,
+
+42:03.560 --> 42:07.440
+ and then you've got people who don't care about those things.
+
+42:07.440 --> 42:09.360
+ It is a fascinating area.
+
+42:09.360 --> 42:13.080
+ And I hope that more biology will be done there soon.
+
+42:13.080 --> 42:15.680
+ I'd like to briefly return to stress.
+
+42:16.700 --> 42:21.480
+ You described a study once about two rats,
+
+42:23.080 --> 42:26.240
+ one running on a wheel voluntarily,
+
+42:26.240 --> 42:30.260
+ one who's basically stuck in a running wheel
+
+42:30.260 --> 42:33.340
+ and is forced to run anytime rat number one runs.
+
+42:33.340 --> 42:36.740
+ So in one case, the rat is voluntarily exercising.
+
+42:36.740 --> 42:37.700
+ And in the other case,
+
+42:37.700 --> 42:41.600
+ the rat is being forced to go to PE class, so to speak,
+
+42:41.600 --> 42:46.600
+ but really, and seeing divergent effects on biology.
+
+42:47.560 --> 42:49.040
+ And I'd like to just touch into this
+
+42:49.040 --> 42:50.620
+ and use it as kind of a case study
+
+42:50.620 --> 42:52.980
+ for stress mitigation in general.
+
+42:52.980 --> 42:57.000
+ I'm rather obsessed in our colleague, David Spiegel,
+
+42:57.000 --> 42:58.680
+ associate chair of psychiatry at Stanford
+
+42:58.680 --> 43:00.400
+ is obsessed with this question
+
+43:00.400 --> 43:03.960
+ of how humans can start to mitigate their own stress.
+
+43:05.280 --> 43:07.480
+ What do you think about stress mitigation
+
+43:07.480 --> 43:12.320
+ and what should we do as individuals and as families
+
+43:12.320 --> 43:14.720
+ and as a culture to try and encourage people
+
+43:14.720 --> 43:16.640
+ to mitigate their stress,
+
+43:16.640 --> 43:19.080
+ but in ways that are not going to turn us
+
+43:19.080 --> 43:20.160
+ into rat number two,
+
+43:20.160 --> 43:22.520
+ where we're being forced to mitigate our own stress
+
+43:22.520 --> 43:24.840
+ and therefore becomes more stressful?
+
+43:24.840 --> 43:27.420
+ And what you see is rat number one
+
+43:27.420 --> 43:30.040
+ gets all the benefits of exercise.
+
+43:30.040 --> 43:34.100
+ Rat number two gets all the downsides of severe stress
+
+43:34.100 --> 43:37.720
+ with the same exact muscle expenditure
+
+43:37.720 --> 43:40.920
+ and movements going on, perfectly yoked,
+
+43:40.920 --> 43:45.040
+ great example that it's the interpretation in your head.
+
+43:45.040 --> 43:47.800
+ And I haven't kept up with that literature,
+
+43:47.800 --> 43:50.000
+ but I'll bet you rat number two
+
+43:50.000 --> 43:51.840
+ is having a whole lot more activity
+
+43:51.840 --> 43:54.620
+ in its amygdala than is rat number one.
+
+43:55.640 --> 43:59.000
+ Okay, so stress mitigation.
+
+43:59.000 --> 44:00.760
+ Anything I should say here,
+
+44:00.760 --> 44:04.520
+ I should preface with I'm reasonably good
+
+44:04.520 --> 44:06.760
+ at telling people what's going to happen
+
+44:06.760 --> 44:08.760
+ if they don't manage their stress,
+
+44:08.760 --> 44:12.440
+ but I'm terrible at actually like managing stress
+
+44:12.440 --> 44:14.600
+ or advising how to manage it.
+
+44:14.600 --> 44:18.200
+ I'm much better with the bad news aspect of it.
+
+44:18.200 --> 44:21.540
+ But what do you see is by now,
+
+44:21.540 --> 44:25.000
+ just a classic literature, half a century old,
+
+44:25.000 --> 44:29.420
+ sort of showing what are the building blocks of stress.
+
+44:29.420 --> 44:31.400
+ Not, ooh, you step outside
+
+44:31.400 --> 44:33.000
+ and you've been gored by an elephant
+
+44:33.000 --> 44:36.880
+ and can you grow from your experience
+
+44:36.880 --> 44:39.600
+ and what doesn't kill you makes you stronger.
+
+44:39.600 --> 44:41.240
+ You could have a stress response,
+
+44:41.240 --> 44:44.960
+ but you're in the realm of the gray zone
+
+44:44.960 --> 44:48.920
+ of ambiguous social interactions, that sort of thing.
+
+44:48.920 --> 44:51.240
+ Some people have massive stress responses,
+
+44:51.240 --> 44:53.760
+ others not at all in between, enjoy it.
+
+44:53.760 --> 44:55.440
+ Like what are the building blocks
+
+44:55.440 --> 44:58.160
+ of what makes psychological stress stressful?
+
+44:58.160 --> 45:01.520
+ And the first one is exactly what is brought up
+
+45:01.520 --> 45:03.680
+ by that running study.
+
+45:03.680 --> 45:06.480
+ Do you have a sense of control?
+
+45:06.480 --> 45:10.360
+ A sense of control makes stressors less stressful.
+
+45:10.360 --> 45:14.540
+ And the running wheel shows that or studies where you,
+
+45:14.540 --> 45:18.400
+ you lab rat or you college freshmen volunteer
+
+45:18.400 --> 45:20.580
+ have been trained that by pressing a lever,
+
+45:20.580 --> 45:22.840
+ you're less likely to get a shock.
+
+45:22.840 --> 45:24.840
+ And today you're at the lever,
+
+45:24.840 --> 45:27.080
+ they're working away and unbeknownst to you,
+
+45:27.080 --> 45:28.640
+ the lever has been turned off
+
+45:28.640 --> 45:31.240
+ and it has no effect on shock frequency,
+
+45:31.240 --> 45:33.560
+ but because you think you have some control,
+
+45:33.560 --> 45:35.440
+ you have less of a stress response.
+
+45:35.440 --> 45:38.040
+ If you were a rat and doing this day in and day out,
+
+45:38.040 --> 45:40.140
+ you're less likely to get an ulcer.
+
+45:40.140 --> 45:41.960
+ So a sense of control.
+
+45:41.960 --> 45:46.360
+ Related to that is a sense of predictability.
+
+45:46.360 --> 45:49.440
+ Rat gets shocked, human gets shocked, whatever.
+
+45:49.440 --> 45:53.160
+ And the scenario either is the shocks come now and then,
+
+45:53.160 --> 45:54.700
+ or the shocks come now and then,
+
+45:54.700 --> 45:59.080
+ and 10 seconds before a little warning light comes on.
+
+45:59.080 --> 46:00.920
+ And when you get the warning light,
+
+46:00.920 --> 46:03.260
+ the shocks aren't as stressful.
+
+46:03.260 --> 46:05.020
+ You got predictability
+
+46:05.020 --> 46:07.480
+ because if you're not getting warning lights,
+
+46:07.480 --> 46:10.080
+ any second you could be a half second away
+
+46:10.080 --> 46:13.020
+ from the next shock, you get a warning light
+
+46:13.020 --> 46:14.940
+ and you know that if there isn't one,
+
+46:14.940 --> 46:17.940
+ you've got at least 10 seconds worth of relaxation.
+
+46:17.940 --> 46:19.880
+ You know what's coming, you can prepare
+
+46:19.880 --> 46:23.600
+ your coping responses and best of all,
+
+46:23.600 --> 46:26.580
+ afterward, you know when you're finally safe,
+
+46:26.580 --> 46:28.600
+ when you can recover from it.
+
+46:28.600 --> 46:32.000
+ And that's enormously protective.
+
+46:32.000 --> 46:35.340
+ Others, outlet for frustration.
+
+46:35.340 --> 46:37.560
+ You take a rat who's getting shocked
+
+46:37.560 --> 46:39.600
+ and if it could run on a running wheel,
+
+46:39.600 --> 46:43.200
+ that's a protective thing if it's doing it voluntarily.
+
+46:43.200 --> 46:47.280
+ If you've got a rat and it can gnaw on a bar of wood,
+
+46:47.280 --> 46:50.120
+ a stressor is less stressful.
+
+46:50.120 --> 46:54.440
+ Unfortunately, if you have a rat or primate or human
+
+46:54.440 --> 46:58.680
+ and they're stressed, the ability to aggressively dump
+
+46:58.680 --> 47:01.200
+ on somebody smaller and weaker
+
+47:01.200 --> 47:03.440
+ also reduces the stress response
+
+47:03.440 --> 47:05.200
+ and displacement aggression,
+
+47:05.200 --> 47:08.760
+ and the fact that displacement aggression reduces stress
+
+47:08.760 --> 47:12.920
+ accounts for a huge percentage of Earth's unhappiness.
+
+47:12.920 --> 47:16.080
+ So all of those variables get social support as well.
+
+47:16.080 --> 47:18.640
+ That's a good one, interpreting circumstances
+
+47:18.640 --> 47:20.360
+ as being good news rather than bad.
+
+47:20.360 --> 47:22.720
+ Hooray, so you've got this very simple
+
+47:22.720 --> 47:25.480
+ sort of like take home recipe of go out
+
+47:25.480 --> 47:28.840
+ and get as much control and as much predictability
+
+47:28.840 --> 47:32.560
+ and as many outlets and as much social support as possible,
+
+47:32.560 --> 47:33.920
+ and you're gonna do just fine.
+
+47:33.920 --> 47:35.200
+ And you go out and do that
+
+47:35.200 --> 47:37.960
+ and that's a recipe for total disaster,
+
+47:37.960 --> 47:41.600
+ because it's much, much more subtle than that.
+
+47:41.600 --> 47:43.400
+ One great example.
+
+47:43.400 --> 47:44.960
+ Okay, so you're getting shocked.
+
+47:44.960 --> 47:47.080
+ You want a warning beforehand.
+
+47:47.080 --> 47:49.680
+ Get a little warning light 10 seconds before each shock.
+
+47:49.680 --> 47:51.600
+ It's wonderfully protective.
+
+47:51.600 --> 47:56.600
+ Get a warning light one second before the shock.
+
+47:56.800 --> 47:58.000
+ Doesn't do anything.
+
+47:58.000 --> 47:59.120
+ There's not enough time for you
+
+47:59.120 --> 48:03.360
+ to get the psychological benefits of the anticipation.
+
+48:03.360 --> 48:06.240
+ Now instead, get the little warning coming on
+
+48:06.240 --> 48:08.920
+ two minutes before each shock,
+
+48:08.920 --> 48:10.880
+ and it's gonna make things worse,
+
+48:10.880 --> 48:12.920
+ because you're not gonna be sitting there
+
+48:12.920 --> 48:17.920
+ like reveling in sort of your sense of predictability
+
+48:18.800 --> 48:20.280
+ and it's soon gonna be over.
+
+48:20.280 --> 48:22.560
+ You're gonna be sitting there for two minutes saying,
+
+48:22.560 --> 48:24.360
+ damn, here it comes.
+
+48:24.360 --> 48:28.840
+ Predictive information only works in a narrow domain.
+
+48:28.840 --> 48:31.800
+ Similarly, control.
+
+48:31.800 --> 48:35.280
+ Do you wanna have a sense of control in the face of stress?
+
+48:35.280 --> 48:40.280
+ And the answer is only if it is a mild to moderate stressor,
+
+48:40.280 --> 48:42.920
+ because what's happening then,
+
+48:42.920 --> 48:45.160
+ your sense of control is completely independent
+
+48:45.160 --> 48:47.960
+ of the reality of whether you have control or not.
+
+48:47.960 --> 48:50.440
+ But in the face of mild to moderate stressors,
+
+48:50.440 --> 48:53.400
+ a sense of control gets interpreted as,
+
+48:53.400 --> 48:57.320
+ wow, look how much worse things could have been.
+
+48:57.320 --> 48:59.040
+ Thank God I have control.
+
+48:59.040 --> 49:00.600
+ I'm on top of this to master my fate.
+
+49:00.600 --> 49:04.040
+ In contrast, if it's a major stressor,
+
+49:04.040 --> 49:08.000
+ all that a arbitrary sense of control does
+
+49:08.000 --> 49:10.680
+ is make you think, oh my God,
+
+49:10.680 --> 49:13.480
+ look how much better it could have been.
+
+49:13.480 --> 49:15.120
+ I could have prevented it.
+
+49:15.120 --> 49:16.880
+ And we all know that intuitively,
+
+49:16.880 --> 49:21.400
+ like we do that in the face of people's worst stressors.
+
+49:21.400 --> 49:23.400
+ Nobody could have stopped the car
+
+49:23.400 --> 49:25.960
+ the way the kids suddenly jumped out.
+
+49:25.960 --> 49:28.320
+ It wouldn't have mattered if you had gotten them
+
+49:28.320 --> 49:31.280
+ to the doctor a month ago instead of now,
+
+49:31.280 --> 49:32.320
+ it wouldn't have made me,
+
+49:32.320 --> 49:35.360
+ you didn't actually have any control.
+
+49:35.360 --> 49:39.200
+ And what you see is you absolutely want to have
+
+49:39.200 --> 49:42.960
+ a huge sense of control over mild to moderate stressors
+
+49:42.960 --> 49:45.440
+ and especially ones that result in a good outcome.
+
+49:45.440 --> 49:46.800
+ Hooray for me.
+
+49:46.800 --> 49:50.200
+ And in the face of horrible stressors,
+
+49:50.200 --> 49:54.840
+ what you want to do is like self-deception
+
+49:54.840 --> 49:58.040
+ and like truth and beauty don't necessarily
+
+49:58.040 --> 50:00.400
+ go hand in hand at that point.
+
+50:00.400 --> 50:03.000
+ And that's why stress management techniques
+
+50:03.000 --> 50:05.160
+ about control and predictability
+
+50:05.160 --> 50:07.720
+ wind up being far worse than neutral
+
+50:07.720 --> 50:10.960
+ if you're preaching that to somebody homeless
+
+50:10.960 --> 50:13.280
+ or somebody with terminal cancer
+
+50:13.280 --> 50:15.920
+ or somebody who's a refugee,
+
+50:15.920 --> 50:18.480
+ tell a neurotic middle-class person
+
+50:18.480 --> 50:20.800
+ that they have the psychological tools
+
+50:20.800 --> 50:23.400
+ to turn hell into heaven.
+
+50:23.400 --> 50:25.000
+ And there's some truth to that.
+
+50:25.000 --> 50:26.720
+ Do the same thing to somebody
+
+50:26.720 --> 50:29.040
+ who's going through a real hell
+
+50:29.040 --> 50:34.040
+ and that's just privileged heartlessness to do that
+
+50:34.040 --> 50:36.200
+ because that doesn't work.
+
+50:36.200 --> 50:38.240
+ More and more, you know, outlets,
+
+50:38.240 --> 50:40.080
+ if your outlets are damaging,
+
+50:40.080 --> 50:42.080
+ that's not a good way to mitigate stress.
+
+50:42.080 --> 50:45.600
+ Social support, if you're confusing mere acquaintances
+
+50:45.600 --> 50:47.360
+ for real social support,
+
+50:47.360 --> 50:48.760
+ you're going to have the rug pulled out
+
+50:48.760 --> 50:50.240
+ from under you at some point.
+
+50:50.240 --> 50:53.360
+ If you're mistaking social support for being,
+
+50:53.360 --> 50:55.000
+ going and bitching and moaning
+
+50:55.000 --> 50:58.000
+ and demanding supportiveness from everyone around you,
+
+50:58.000 --> 51:00.960
+ rather than you doing some of that reciprocally,
+
+51:00.960 --> 51:03.200
+ that's not going to work very well either.
+
+51:03.200 --> 51:07.560
+ Well either, you know, it's not simple.
+
+51:07.560 --> 51:11.640
+ It's not for nothing that lots of us are really lousy
+
+51:11.640 --> 51:15.120
+ at being good friends and things like that
+
+51:15.120 --> 51:19.680
+ and why it takes a lot of work to do it right
+
+51:19.680 --> 51:22.200
+ because you do it wrong
+
+51:22.200 --> 51:25.240
+ and it may temporarily seem like a great thing,
+
+51:25.240 --> 51:29.320
+ but when it turns out to be completely misplaced faith,
+
+51:29.320 --> 51:33.140
+ you're going to be feeling worse than before you started.
+
+51:33.140 --> 51:33.980
+ Interesting.
+
+51:33.980 --> 51:35.400
+ These days, there's a lot of interest
+
+51:35.400 --> 51:38.360
+ in using physical practices to mitigate stress,
+
+51:38.360 --> 51:40.960
+ you know, trying to get out of the ruminating
+
+51:40.960 --> 51:42.960
+ and to some extent,
+
+51:42.960 --> 51:46.060
+ take control of neural circuits in the brain
+
+51:46.060 --> 51:51.060
+ by using exercise and using breathing and hypnosis.
+
+51:51.360 --> 51:55.280
+ And of course, hypnosis has a mental component as well.
+
+51:55.280 --> 51:59.380
+ So what are your thoughts on stress mitigation
+
+51:59.380 --> 52:00.780
+ from the standpoint of, okay,
+
+52:00.780 --> 52:02.420
+ so we don't want to be rat number two,
+
+52:02.420 --> 52:04.340
+ we want to select something for ourselves.
+
+52:04.340 --> 52:07.680
+ So we have to take the initiative for ourselves,
+
+52:07.680 --> 52:10.380
+ being forced into exercising is not,
+
+52:10.380 --> 52:13.240
+ it could actually have negative health effects perhaps.
+
+52:13.240 --> 52:14.980
+ So we need to pick something that we like,
+
+52:14.980 --> 52:16.620
+ we need to take control of it.
+
+52:17.860 --> 52:19.700
+ In terms of supporting other people,
+
+52:19.700 --> 52:21.080
+ you touched on that a bit,
+
+52:21.080 --> 52:23.040
+ what is the best way to support other people?
+
+52:23.040 --> 52:25.620
+ Is it to talk about the stressful thing?
+
+52:25.620 --> 52:27.640
+ I mean, I'm not asking you to play psychologist here,
+
+52:27.640 --> 52:30.660
+ but I find divergent data on this.
+
+52:30.660 --> 52:34.760
+ You know, we can spin ourselves up into a lather
+
+52:34.760 --> 52:36.700
+ by ruminating on something.
+
+52:36.700 --> 52:41.100
+ And language seems to me like it's a wonderful tool,
+
+52:41.100 --> 52:44.640
+ but it's also a fairly deprived tool
+
+52:44.640 --> 52:46.620
+ because it doesn't really get into the core
+
+52:46.620 --> 52:49.900
+ of our physiology like something like breathing would.
+
+52:49.900 --> 52:53.860
+ So what are your thoughts on more, for lack of a better way
+
+52:53.860 --> 52:56.580
+ to put it, more head-centered cognitive approaches
+
+52:56.580 --> 52:59.140
+ to stress mitigation versus kind of going
+
+52:59.140 --> 53:02.020
+ at the core physiology, cold showers now,
+
+53:02.020 --> 53:04.300
+ or even a thing to some extent, you know,
+
+53:04.300 --> 53:06.340
+ just to get people stress acclimated,
+
+53:06.340 --> 53:09.480
+ voluntarily taking cold showers, you know?
+
+53:09.480 --> 53:13.820
+ That makes some sense physiologically preconditioning
+
+53:13.820 --> 53:16.420
+ for when the real stressors come.
+
+53:16.420 --> 53:18.580
+ In terms of what you bring up,
+
+53:18.580 --> 53:22.740
+ wow, transcendental meditation, mindfulness, exercise,
+
+53:22.740 --> 53:27.740
+ prayer, sort of reflecting on gratitude,
+
+53:28.060 --> 53:29.340
+ all that sort of thing.
+
+53:29.340 --> 53:32.720
+ Collectively, they work on the average.
+
+53:32.720 --> 53:35.280
+ They work in terms of they can lower heart rate
+
+53:35.280 --> 53:38.880
+ and cholesterol levels and have all sorts of good outcomes,
+
+53:38.880 --> 53:40.980
+ but they come with provisos.
+
+53:40.980 --> 53:43.820
+ One is exactly the caveat that comes out
+
+53:43.820 --> 53:46.600
+ of the running wheel study is it doesn't matter
+
+53:46.600 --> 53:49.660
+ how many of your friends swear by this stress management
+
+53:49.660 --> 53:52.820
+ technique, if doing it makes you want to screen your head
+
+53:52.820 --> 53:54.820
+ off after 10 seconds,
+
+53:54.820 --> 53:56.580
+ that's not the one that's going to work for you.
+
+53:56.580 --> 54:00.420
+ So, you know, read the fine print and the testimonials,
+
+54:00.420 --> 54:02.220
+ but it's gotta be something that works for you.
+
+54:02.220 --> 54:06.700
+ Another one is the stress management type techniques
+
+54:06.700 --> 54:11.140
+ that work, you can't save them for the weekend.
+
+54:11.140 --> 54:13.500
+ You can't save them for when you're stuck on hold
+
+54:13.500 --> 54:16.040
+ on the phone with Muzak for two minutes.
+
+54:16.040 --> 54:20.380
+ It's gotta be something where you stop what you're doing
+
+54:20.380 --> 54:23.420
+ and do it virtually daily or every other day
+
+54:23.420 --> 54:26.260
+ and spend 20, 30 minutes doing it.
+
+54:26.260 --> 54:28.220
+ And what you see coming out of that
+
+54:28.220 --> 54:32.540
+ is this like 80, 20 rule from economics,
+
+54:32.540 --> 54:35.340
+ 80, 20, 80% of the complaints in the store
+
+54:35.340 --> 54:37.860
+ come from 20% of the customers, things like that.
+
+54:37.860 --> 54:40.980
+ What you see is if your entire life consists
+
+54:40.980 --> 54:45.260
+ of every single thing on your shoulders
+
+54:45.260 --> 54:48.700
+ that you can't say no to 24 seven,
+
+54:48.700 --> 54:52.160
+ if you've stopped that and finally said,
+
+54:52.160 --> 54:54.340
+ my wellbeing is important enough
+
+54:54.340 --> 54:56.420
+ that I'm finally going to say no to some of the stuff
+
+54:56.420 --> 54:57.780
+ that I can't say no to,
+
+54:57.780 --> 55:00.540
+ and I'm going to do it every day for 20 minutes,
+
+55:00.540 --> 55:03.060
+ whatever stress management technique you then do
+
+55:03.060 --> 55:06.240
+ in those 20 minutes, short of who knows what,
+
+55:06.240 --> 55:08.680
+ you're already 80% of the way there
+
+55:08.680 --> 55:13.340
+ simply by having decided your wellbeing is important enough
+
+55:13.340 --> 55:15.860
+ that you're going to stop every single day
+
+55:15.860 --> 55:17.700
+ and have that as priority.
+
+55:17.700 --> 55:19.300
+ And that's exactly the same finding
+
+55:19.300 --> 55:23.020
+ that you find people with chronic depression untreated
+
+55:23.020 --> 55:26.040
+ that merely calling and getting an appointment
+
+55:26.040 --> 55:28.200
+ to see a mental health professional,
+
+55:28.200 --> 55:30.640
+ people start feeling better already
+
+55:30.640 --> 55:34.460
+ because it's evidence that you've been activated
+
+55:34.460 --> 55:37.140
+ and you matter enough to do this
+
+55:37.140 --> 55:39.140
+ and you could conceive that this would actually
+
+55:39.140 --> 55:41.940
+ have a good outcome rather than a hopeless one.
+
+55:41.940 --> 55:46.900
+ Just doing something meditative or reflective every day
+
+55:46.900 --> 55:51.900
+ or so, and it hardly even matters which one you're doing.
+
+55:52.020 --> 55:55.100
+ And what comes out of that is thus another warning,
+
+55:55.100 --> 55:58.600
+ which is do not trust anybody who says
+
+55:58.600 --> 56:00.740
+ it has been scientifically proven
+
+56:00.740 --> 56:03.260
+ that their brand of stress management
+
+56:03.260 --> 56:04.940
+ works better than the other ones.
+
+56:04.940 --> 56:08.100
+ Just watch your wallet at that point.
+
+56:08.100 --> 56:12.100
+ Yeah, amen, I think one of the core goals of my lab
+
+56:12.100 --> 56:14.140
+ and David Spiegel's lab, and I know you've worked
+
+56:14.140 --> 56:16.540
+ with David and published papers with David as well,
+
+56:16.540 --> 56:19.460
+ is to really try and find out what are the various
+
+56:19.460 --> 56:21.600
+ entry points to this thing that we call
+
+56:21.600 --> 56:23.840
+ the autonomic nervous system and the stress system
+
+56:23.840 --> 56:26.700
+ and the systems that when gone unchecked
+
+56:26.700 --> 56:29.740
+ really can take us down a dark path.
+
+56:29.740 --> 56:31.980
+ And the idea that there are so many entry points
+
+56:31.980 --> 56:33.500
+ is really the one that keeps,
+
+56:33.500 --> 56:35.460
+ what the data keep telling us over and over again.
+
+56:35.460 --> 56:39.060
+ So there's no magic breathing tool or exercise.
+
+56:39.060 --> 56:42.700
+ It's any variety of those or one of those.
+
+56:42.700 --> 56:44.580
+ And again, we come back to this idea
+
+56:44.580 --> 56:45.860
+ that it's the one that you select
+
+56:45.860 --> 56:47.580
+ and the one that you make space for,
+
+56:47.580 --> 56:50.700
+ and it's the one that you hopefully enjoy
+
+56:50.700 --> 56:54.200
+ that's going to work best in terms of physiology.
+
+56:54.200 --> 56:56.820
+ And one that's benign for those people
+
+56:56.820 --> 56:58.420
+ who were stuck around you.
+
+56:58.420 --> 57:00.500
+ Right, right, absolutely.
+
+57:00.500 --> 57:04.900
+ And that brings me to this question of I find it amazing
+
+57:04.900 --> 57:08.180
+ that how we perceive an event
+
+57:08.180 --> 57:12.220
+ and whether or not we chose to be in that event or not
+
+57:12.220 --> 57:16.140
+ can have such incredibly different effects
+
+57:16.140 --> 57:19.500
+ on circuitry of the brain and circuitry of the body
+
+57:19.500 --> 57:21.100
+ and biology of cells.
+
+57:21.940 --> 57:24.060
+ And in some ways it boggles my mind,
+
+57:24.060 --> 57:26.700
+ like how can a decision made presumably
+
+57:26.700 --> 57:28.380
+ with the prefrontal cortex,
+
+57:28.380 --> 57:30.260
+ although other parts of the brain as well,
+
+57:30.260 --> 57:33.400
+ how can that change essentially the polarity
+
+57:33.400 --> 57:36.260
+ of a response in the body?
+
+57:36.260 --> 57:39.660
+ And I mean, you've talked before about type A personalities
+
+57:39.660 --> 57:41.780
+ and we don't have to go into all the detail there
+
+57:41.780 --> 57:42.620
+ for sake of time,
+
+57:42.620 --> 57:46.260
+ but it is interesting that the effects of endothelial cells,
+
+57:46.260 --> 57:51.260
+ I mean, literally of the size of the portals for blood
+
+57:51.700 --> 57:53.300
+ are in opposite direction,
+
+57:53.300 --> 57:55.140
+ depending on whether or not somebody
+
+57:55.140 --> 57:58.500
+ wants to be in a situation, is a highly motivated person.
+
+57:58.500 --> 58:01.100
+ Maybe you could just give us the top contour of that
+
+58:01.100 --> 58:03.900
+ because I think it really illustrates this principle
+
+58:03.900 --> 58:04.860
+ so beautifully.
+
+58:04.860 --> 58:06.660
+ And then maybe if you would,
+
+58:06.660 --> 58:10.320
+ you could just speculate on how the brain might have
+
+58:10.320 --> 58:14.760
+ this switch to turn one experience from terrible
+
+58:14.760 --> 58:18.660
+ to beneficial or from beneficial to terrible.
+
+58:18.660 --> 58:20.100
+ It's really fascinating.
+
+58:20.100 --> 58:24.180
+ Well, I mean, all you need to do is like tonight
+
+58:24.180 --> 58:27.780
+ before you're going to sleep and you're lying in bed
+
+58:27.780 --> 58:29.180
+ and you're nice and drowsy
+
+58:29.180 --> 58:31.680
+ and your heart's beating nice and slow,
+
+58:31.680 --> 58:34.420
+ you'll start thinking about the fact that, you know,
+
+58:34.420 --> 58:36.820
+ that heart isn't going to beat forever.
+
+58:36.820 --> 58:41.220
+ And imagine your toes getting cold afterward
+
+58:41.220 --> 58:44.420
+ and imagine the flow of blood coming to a halt
+
+58:44.420 --> 58:46.180
+ and all of you clotting.
+
+58:46.180 --> 58:47.340
+ And if you're really,
+
+58:47.340 --> 58:49.700
+ you're going to be doing something with your physiology
+
+58:49.700 --> 58:52.820
+ at that point that 99% of mammals out there only do
+
+58:52.820 --> 58:54.820
+ if they're running frantically.
+
+58:54.820 --> 58:57.020
+ And you're going to be turning on your synthetic
+
+58:57.020 --> 59:00.420
+ stress response with thought, with emotions, with memory.
+
+59:00.420 --> 59:05.420
+ And the measure of that is just how much the cortex
+
+59:06.420 --> 59:09.060
+ and the limbic system sends projections down
+
+59:09.060 --> 59:12.560
+ to all the autonomic regulators in the brain.
+
+59:12.560 --> 59:17.340
+ You can think autonomic regulatory neurons into action
+
+59:17.340 --> 59:21.000
+ in ways that only other animals can do with like extremes
+
+59:21.000 --> 59:23.620
+ of environmental circumstances.
+
+59:23.620 --> 59:27.940
+ And given that and the autonomic rule,
+
+59:27.940 --> 59:30.420
+ I mean the other big challenge in understanding it
+
+59:30.420 --> 59:34.160
+ is gigantic individual differences.
+
+59:34.160 --> 59:37.700
+ And that's, you know,
+
+59:37.700 --> 59:40.820
+ we talk about the optimal amount of stress
+
+59:40.820 --> 59:42.580
+ that counts as stimulation.
+
+59:42.580 --> 59:46.660
+ And in general, that stress that's not too severe
+
+59:46.660 --> 59:48.060
+ and doesn't go on for too long
+
+59:48.060 --> 59:50.340
+ and is overall in a benevolent setting.
+
+59:50.340 --> 59:51.540
+ And under those conditions,
+
+59:51.540 --> 59:54.820
+ we love being stressed by something unexpected
+
+59:54.820 --> 59:56.580
+ and out of control and predictability
+
+59:56.580 --> 59:58.860
+ like a really interesting plot turn
+
+59:58.860 --> 1:00:00.340
+ in the movie you're watching.
+
+1:00:00.340 --> 1:00:03.740
+ That's great, but you get the individual differences
+
+1:00:03.740 --> 1:00:06.420
+ that somehow has to accommodate the fact that
+
+1:00:06.420 --> 1:00:10.820
+ for some people, the perfect stimulatory amount of stress
+
+1:00:10.820 --> 1:00:15.540
+ is like getting up early for an Audubon bird watching walk
+
+1:00:15.540 --> 1:00:16.780
+ next Sunday morning.
+
+1:00:16.780 --> 1:00:17.780
+ And for somebody else,
+
+1:00:17.780 --> 1:00:21.260
+ it's signing up to be like a mercenary in Yemen.
+
+1:00:21.260 --> 1:00:24.700
+ And tremendous individual differences
+
+1:00:24.700 --> 1:00:29.700
+ that swamp any simple, you know, prescriptions.
+
+1:00:31.180 --> 1:00:33.260
+ Yeah, the prefrontal cortex,
+
+1:00:33.260 --> 1:00:35.460
+ this thinking machinery that we all harbor,
+
+1:00:35.460 --> 1:00:37.900
+ it's such a double-edged sword.
+
+1:00:37.900 --> 1:00:42.900
+ And what's remarkable to me is how the areas of the brain,
+
+1:00:43.080 --> 1:00:44.860
+ like the hypothalamus and the amygdala,
+
+1:00:44.860 --> 1:00:46.460
+ they're sort of like switches.
+
+1:00:46.460 --> 1:00:49.100
+ I mean, there's context and there's gain control.
+
+1:00:49.100 --> 1:00:52.520
+ You talked about the gain control by testosterone, et cetera,
+
+1:00:52.520 --> 1:00:53.780
+ but they're really like switches.
+
+1:00:53.780 --> 1:00:56.580
+ I mean, if you stimulate ventromedial hypothalamus,
+
+1:00:56.580 --> 1:00:57.500
+ you get the right neurons,
+
+1:00:57.500 --> 1:01:00.020
+ an animal will try and kill even an object
+
+1:01:00.020 --> 1:01:00.840
+ that's sitting next to it.
+
+1:01:00.840 --> 1:01:02.180
+ You tickle some other neurons,
+
+1:01:02.180 --> 1:01:04.220
+ it'll try and mate with that same object.
+
+1:01:04.220 --> 1:01:05.920
+ I mean, it's really wild.
+
+1:01:05.920 --> 1:01:09.460
+ I think there are probably rules to prefrontal cortex also,
+
+1:01:09.460 --> 1:01:13.520
+ but it sounds like the context, plural,
+
+1:01:13.520 --> 1:01:16.820
+ from which prefrontal cortex can draw from
+
+1:01:16.820 --> 1:01:18.780
+ is probably infinite.
+
+1:01:18.780 --> 1:01:20.940
+ So that we could probably learn
+
+1:01:20.940 --> 1:01:22.740
+ to perceive threat in anything,
+
+1:01:22.740 --> 1:01:23.900
+ whether or not it's another group
+
+1:01:23.900 --> 1:01:26.000
+ or whether or not it's science
+
+1:01:26.000 --> 1:01:28.540
+ or whether or not it's somebody's version
+
+1:01:28.540 --> 1:01:30.180
+ of the shape of the earth versus another.
+
+1:01:30.180 --> 1:01:33.820
+ I mean, it's like you can plug in anything to this system
+
+1:01:33.820 --> 1:01:35.300
+ and give it enough data.
+
+1:01:35.300 --> 1:01:37.860
+ And I think it sounds like you could drive a fear response
+
+1:01:37.860 --> 1:01:39.100
+ or a love response.
+
+1:01:39.100 --> 1:01:40.580
+ Is that overstepping?
+
+1:01:40.580 --> 1:01:44.500
+ Or a mixed, hardly ambivalent one
+
+1:01:44.500 --> 1:01:46.900
+ that is changing by the millisecond
+
+1:01:46.900 --> 1:01:49.940
+ and then like initially contradictory?
+
+1:01:49.940 --> 1:01:51.500
+ No, that's absolutely the case.
+
+1:01:51.500 --> 1:01:53.420
+ And the prefrontal cortex,
+
+1:01:53.420 --> 1:01:57.140
+ I more than once have regretted
+
+1:01:57.140 --> 1:01:59.700
+ having like wasted 30 years of my life
+
+1:01:59.700 --> 1:02:01.060
+ studying the hippocampus
+
+1:02:01.060 --> 1:02:03.660
+ when I should have been studying the prefrontal cortex
+
+1:02:03.660 --> 1:02:06.460
+ because it's so much more interesting what it does.
+
+1:02:06.460 --> 1:02:09.460
+ And it's all this contextual stuff.
+
+1:02:09.460 --> 1:02:12.620
+ It's all the ways in which it's not okay
+
+1:02:12.620 --> 1:02:14.280
+ to lie in this setting,
+
+1:02:14.280 --> 1:02:16.420
+ but it's a great thing in another.
+
+1:02:16.420 --> 1:02:19.640
+ It's not okay to kill unless you do it to them.
+
+1:02:19.640 --> 1:02:20.640
+ And then you get a medal.
+
+1:02:20.640 --> 1:02:24.300
+ It's not all of this social context
+
+1:02:24.300 --> 1:02:29.100
+ and moral relativity and situational ethics stuff.
+
+1:02:29.100 --> 1:02:32.040
+ That's the prefrontal cortex that's got to master that.
+
+1:02:32.040 --> 1:02:36.180
+ And that winds up meaning that's the place
+
+1:02:36.180 --> 1:02:37.940
+ in your brain more than anywhere
+
+1:02:37.940 --> 1:02:42.020
+ where you say your perception of things
+
+1:02:42.020 --> 1:02:44.460
+ can powerfully influence the reality
+
+1:02:44.460 --> 1:02:46.420
+ of what's coming into you.
+
+1:02:46.420 --> 1:02:51.420
+ I mean, great example of just harking back to testosterone.
+
+1:02:51.500 --> 1:02:54.900
+ Okay, so exercise boosts up testosterone levels.
+
+1:02:54.900 --> 1:02:58.660
+ Does exercise and success do it more than exercise
+
+1:02:58.660 --> 1:03:02.560
+ and failure of literature back in the 80s or so
+
+1:03:02.560 --> 1:03:05.060
+ looking at outcomes of marathons.
+
+1:03:05.060 --> 1:03:07.860
+ Did testosterone rise more in the people who win
+
+1:03:07.860 --> 1:03:09.160
+ than the losers?
+
+1:03:09.160 --> 1:03:11.460
+ Wrestling matches, things of that sort
+
+1:03:11.460 --> 1:03:12.920
+ with a simple prediction.
+
+1:03:12.920 --> 1:03:14.220
+ And the answer wound up being
+
+1:03:14.220 --> 1:03:16.620
+ you didn't see a simple answer.
+
+1:03:16.620 --> 1:03:18.660
+ Okay, you win the marathon.
+
+1:03:18.660 --> 1:03:20.980
+ That's not necessarily an increase,
+
+1:03:20.980 --> 1:03:23.140
+ a predictor of increased testosterone.
+
+1:03:23.140 --> 1:03:24.460
+ What's that about?
+
+1:03:24.460 --> 1:03:29.460
+ And then you find like the winner testosterone decreases
+
+1:03:29.660 --> 1:03:32.900
+ and you find out the guy who came in 73rd
+
+1:03:32.900 --> 1:03:35.860
+ is having a massive testosterone increase.
+
+1:03:35.860 --> 1:03:37.820
+ Whoa, what's that about?
+
+1:03:37.820 --> 1:03:40.520
+ What's that about is far more human subtlety.
+
+1:03:40.520 --> 1:03:44.040
+ The guy who won the race has a decline in testosterone
+
+1:03:44.040 --> 1:03:46.020
+ because he came in three minutes later
+
+1:03:46.020 --> 1:03:48.480
+ than he really, really was expecting.
+
+1:03:48.480 --> 1:03:50.740
+ And everybody now is going to be writing it up
+
+1:03:50.740 --> 1:03:52.700
+ about how he's over the hill.
+
+1:03:52.700 --> 1:03:54.500
+ And the guy who came in 73rd
+
+1:03:54.500 --> 1:03:56.420
+ is having a boost of testosterone
+
+1:03:56.420 --> 1:03:59.260
+ because he was assuming he'd be dead from a heart attack
+
+1:03:59.260 --> 1:04:02.500
+ by the third mile and instead he managed to finish.
+
+1:04:02.500 --> 1:04:05.380
+ It's this interpretive stuff going on in there
+
+1:04:05.380 --> 1:04:08.300
+ and that's what prefrontal cortex is about.
+
+1:04:08.300 --> 1:04:09.240
+ Amazing.
+
+1:04:09.240 --> 1:04:13.700
+ It raises this question of cognitive flexibility.
+
+1:04:13.700 --> 1:04:18.700
+ Can we tell ourselves that something is good for us
+
+1:04:18.980 --> 1:04:21.020
+ even if we're not enjoying it?
+
+1:04:21.020 --> 1:04:23.260
+ Can we wriggle around these corners
+
+1:04:23.260 --> 1:04:28.260
+ of choosing the exercise or doing the...
+
+1:04:30.020 --> 1:04:34.400
+ I personally am not a big fan of long bouts of meditation
+
+1:04:34.400 --> 1:04:35.620
+ but I've benefited tremendously
+
+1:04:35.620 --> 1:04:37.860
+ from things like dedicated breathing
+
+1:04:37.860 --> 1:04:40.220
+ and shorter rounds of meditation.
+
+1:04:40.220 --> 1:04:42.740
+ Can I tell myself that it's good for me
+
+1:04:42.740 --> 1:04:44.300
+ and wriggle around the corner
+
+1:04:44.300 --> 1:04:46.660
+ and get my physiology working the way I want?
+
+1:04:46.660 --> 1:04:48.540
+ Do we have cognitive flexibility?
+
+1:04:48.540 --> 1:04:52.000
+ Can I be that third place runner and tell myself,
+
+1:04:52.000 --> 1:04:56.560
+ well, at least I came in, I wanted to win so badly.
+
+1:04:56.560 --> 1:04:57.960
+ That was my primary goal.
+
+1:04:57.960 --> 1:05:01.260
+ But another goal was to beat my previous time
+
+1:05:01.260 --> 1:05:02.380
+ and I did do that.
+
+1:05:02.380 --> 1:05:07.380
+ And so, I mean, to what extent can we toggle
+
+1:05:08.060 --> 1:05:11.100
+ this relationship between the prefrontal cortex
+
+1:05:11.100 --> 1:05:14.740
+ and these other more primitive systems?
+
+1:05:14.740 --> 1:05:16.820
+ And an enormous amount.
+
+1:05:19.060 --> 1:05:23.260
+ For example, being low in a hierarchy
+
+1:05:23.260 --> 1:05:25.100
+ is generally bad for health
+
+1:05:25.100 --> 1:05:27.940
+ and like every mammal out there, including us.
+
+1:05:27.940 --> 1:05:29.340
+ But we do something special,
+
+1:05:29.340 --> 1:05:32.040
+ which is we can be part of multiple hierarchies
+
+1:05:32.040 --> 1:05:33.460
+ at the same time.
+
+1:05:33.460 --> 1:05:36.320
+ And while you may be low ranking in one of them,
+
+1:05:36.320 --> 1:05:38.860
+ you could be extremely high ranking in another.
+
+1:05:38.860 --> 1:05:42.940
+ You're like have the crappiest job in your corporation,
+
+1:05:42.940 --> 1:05:45.340
+ but you're the captain of the team softball,
+
+1:05:45.340 --> 1:05:48.060
+ of the softball team this year for the company.
+
+1:05:48.060 --> 1:05:49.860
+ And you better bet that's somebody
+
+1:05:49.860 --> 1:05:51.820
+ who's gonna find all sorts of ways
+
+1:05:51.820 --> 1:05:54.300
+ to decide that nine to five Monday to Friday
+
+1:05:54.300 --> 1:05:56.540
+ is just stupid paying the bills.
+
+1:05:56.540 --> 1:06:00.500
+ And what really matters is the prestige on the weekend.
+
+1:06:00.500 --> 1:06:04.500
+ You're poor, but you're the deacon of your church here.
+
+1:06:04.500 --> 1:06:07.140
+ And so we can play all sorts of psychological games
+
+1:06:07.140 --> 1:06:07.980
+ with that.
+
+1:06:07.980 --> 1:06:11.580
+ And one of the most like consistent reliable ones
+
+1:06:11.580 --> 1:06:14.940
+ that we do and need to use the frontal cortex like crazy
+
+1:06:14.940 --> 1:06:18.460
+ is somebody does something rotten
+
+1:06:18.460 --> 1:06:20.340
+ and you need to attribute it.
+
+1:06:20.340 --> 1:06:22.660
+ And the answer is they did something rotten
+
+1:06:22.660 --> 1:06:23.940
+ because they're rotten.
+
+1:06:23.940 --> 1:06:25.760
+ Always have been, always will be
+
+1:06:25.760 --> 1:06:28.200
+ this constitutional explanation.
+
+1:06:28.200 --> 1:06:30.320
+ You do something rotten to somebody
+
+1:06:30.320 --> 1:06:32.340
+ and how do you explain it afterward?
+
+1:06:32.340 --> 1:06:34.020
+ A situational one.
+
+1:06:34.020 --> 1:06:38.060
+ I was tired, I was stressed in this sort of setting.
+
+1:06:38.060 --> 1:06:40.220
+ I misunderstood this.
+
+1:06:40.220 --> 1:06:43.860
+ We're best at excusing ourselves from bad things
+
+1:06:43.860 --> 1:06:46.460
+ because we have access to our inner lives.
+
+1:06:46.460 --> 1:06:49.220
+ And we've got prefrontal cortexes that are great
+
+1:06:49.220 --> 1:06:52.300
+ at coming up with a situational explanation
+
+1:06:52.300 --> 1:06:54.700
+ rather than, hey, maybe you're just like
+
+1:06:54.700 --> 1:06:57.820
+ a selfish rotten human and you need to change.
+
+1:06:57.820 --> 1:06:59.980
+ And that's all prefrontal cortex.
+
+1:06:59.980 --> 1:07:04.620
+ And we do that every time we don't let somebody,
+
+1:07:04.620 --> 1:07:07.040
+ you know, merge in the lane in front of us
+
+1:07:07.040 --> 1:07:08.740
+ even though you curse somebody
+
+1:07:08.740 --> 1:07:13.740
+ who does the same thing to you and, you know, endlessly.
+
+1:07:14.660 --> 1:07:15.780
+ Your, I love it.
+
+1:07:15.780 --> 1:07:18.060
+ Your statement about the fact
+
+1:07:18.060 --> 1:07:21.140
+ that we can select multiple hierarchies to participate in
+
+1:07:22.200 --> 1:07:25.880
+ to me seems like a particularly important one nowadays
+
+1:07:25.880 --> 1:07:28.940
+ with social media being so prevalent.
+
+1:07:28.940 --> 1:07:31.300
+ I know you're not particularly active on social media
+
+1:07:31.300 --> 1:07:34.100
+ although you might be pleasantly or I don't know
+
+1:07:34.100 --> 1:07:35.380
+ unpleasantly surprised to find out
+
+1:07:35.380 --> 1:07:37.560
+ that there's a lot of positive discussion
+
+1:07:37.560 --> 1:07:38.880
+ about you and your work.
+
+1:07:38.880 --> 1:07:40.220
+ So you don't even need to be on there.
+
+1:07:40.220 --> 1:07:42.540
+ We'll just continue to discuss your work.
+
+1:07:42.540 --> 1:07:45.820
+ But what's interesting about social media
+
+1:07:45.820 --> 1:07:49.140
+ I've found is that the context is very, very broad.
+
+1:07:49.140 --> 1:07:52.140
+ I mean, one could argue that who one selects to follow
+
+1:07:52.140 --> 1:07:54.000
+ and which news articles you're reading, et cetera,
+
+1:07:54.000 --> 1:07:56.200
+ can create a kind of a funneling of information
+
+1:07:56.200 --> 1:07:57.860
+ that itself can be dangerous.
+
+1:07:57.860 --> 1:08:01.220
+ You know, more verification of crazy ideas
+
+1:08:01.220 --> 1:08:04.280
+ or even just less exposure to new ideas.
+
+1:08:05.220 --> 1:08:07.100
+ But there's also this idea
+
+1:08:07.100 --> 1:08:11.060
+ that social media is an incredibly broad context.
+
+1:08:11.060 --> 1:08:13.020
+ So as you scroll through a feed,
+
+1:08:13.020 --> 1:08:15.780
+ it's no longer like being in your eighth grade classroom
+
+1:08:15.780 --> 1:08:18.580
+ or your office or your faculty meeting.
+
+1:08:18.580 --> 1:08:21.460
+ You are being exposed to thousands
+
+1:08:21.460 --> 1:08:23.900
+ if not millions of contexts.
+
+1:08:23.900 --> 1:08:27.200
+ This meal, that soccer game, this person's body,
+
+1:08:27.200 --> 1:08:29.180
+ this person's intellect.
+
+1:08:29.180 --> 1:08:30.700
+ YouTube is another example.
+
+1:08:30.700 --> 1:08:34.060
+ It's a vast, vast landscape.
+
+1:08:35.000 --> 1:08:37.620
+ So the context is completely mishmash.
+
+1:08:37.620 --> 1:08:41.020
+ Whereas I'm assuming we evolved, I think we did evolve,
+
+1:08:41.020 --> 1:08:43.460
+ under contexts that were much more constrained.
+
+1:08:43.460 --> 1:08:45.580
+ We interacted with a limited number of individuals
+
+1:08:45.580 --> 1:08:47.780
+ and a limited number of different domains.
+
+1:08:47.780 --> 1:08:50.380
+ Seasons tend to constrain us all.
+
+1:08:50.380 --> 1:08:53.060
+ And of course, then we got phones and televisions
+
+1:08:53.060 --> 1:08:54.140
+ and this started to expand.
+
+1:08:54.140 --> 1:08:56.820
+ But now more than ever, our brain,
+
+1:08:56.820 --> 1:09:00.140
+ our prefrontal cortex and our sense of where we exist
+
+1:09:00.140 --> 1:09:02.580
+ in these multiple hierarchies
+
+1:09:02.580 --> 1:09:06.620
+ has essentially wicked out into infinity.
+
+1:09:06.620 --> 1:09:08.700
+ How do you think this might be interacting
+
+1:09:08.700 --> 1:09:12.260
+ with some of these more primitive systems
+
+1:09:12.260 --> 1:09:15.960
+ and other aspects of our biology?
+
+1:09:15.960 --> 1:09:19.620
+ Well, I think what you get is in some ways,
+
+1:09:19.620 --> 1:09:24.540
+ the punchline of what's most human about humans,
+
+1:09:24.540 --> 1:09:28.620
+ which is over and over, we use the exact same blueprint,
+
+1:09:28.620 --> 1:09:33.100
+ the same hormones, the same kinases, the same receptors,
+
+1:09:33.100 --> 1:09:34.440
+ the same everything.
+
+1:09:34.440 --> 1:09:36.940
+ We're built out of the exact same stuff
+
+1:09:36.940 --> 1:09:39.020
+ as all these other species out there.
+
+1:09:39.020 --> 1:09:42.740
+ And then we go and use it in a completely novel way.
+
+1:09:42.740 --> 1:09:47.740
+ And usually in terms of being able to abstract stuff
+
+1:09:48.540 --> 1:09:51.780
+ over space and time in dramatic ways.
+
+1:09:51.780 --> 1:09:55.020
+ So, okay, you're a low ranking baboon
+
+1:09:55.020 --> 1:09:58.820
+ and you can feel badly because you just like killed a rabbit
+
+1:09:58.820 --> 1:10:01.140
+ and you're about to eat and some higher ranking guy
+
+1:10:01.140 --> 1:10:03.500
+ boots you off and takes it away from you.
+
+1:10:03.500 --> 1:10:07.740
+ And you feel crummy and it's stressful and you're unhappy.
+
+1:10:07.740 --> 1:10:12.460
+ We are doing the exact same things with like our brain
+
+1:10:12.460 --> 1:10:15.940
+ and bodies when we're losing a sense of self-esteem,
+
+1:10:15.940 --> 1:10:19.920
+ but we can do it by watching a movie character on the screen
+
+1:10:19.920 --> 1:10:23.540
+ and feeling inadequate compared to like how wonderful
+
+1:10:23.540 --> 1:10:25.060
+ or attractive they are.
+
+1:10:25.060 --> 1:10:29.460
+ We can do it by somebody driving past us in an expensive car
+
+1:10:29.460 --> 1:10:31.380
+ and we don't even see their face.
+
+1:10:31.380 --> 1:10:35.900
+ And you can feel belittled by your own socioeconomic status.
+
+1:10:37.060 --> 1:10:40.980
+ You can watch like the lifestyles of the rich and famous
+
+1:10:40.980 --> 1:10:43.700
+ or read about what Bezos is up to.
+
+1:10:43.700 --> 1:10:47.560
+ And for some reason decide your life is less fulfilling
+
+1:10:47.560 --> 1:10:50.700
+ because you didn't fly into space for 11 minutes.
+
+1:10:50.700 --> 1:10:54.320
+ And so you can feel miserable about yourself
+
+1:10:54.320 --> 1:10:58.020
+ in ways that no other organism can simply
+
+1:10:58.020 --> 1:11:03.020
+ because we can have our meaningful social networks include
+
+1:11:03.300 --> 1:11:05.960
+ like the party you're reading about on Facebook
+
+1:11:05.960 --> 1:11:07.660
+ that you weren't invited to
+
+1:11:07.660 --> 1:11:09.460
+ because it's taking place in Singapore
+
+1:11:09.460 --> 1:11:10.860
+ and you don't know any of those people.
+
+1:11:10.860 --> 1:11:13.940
+ But nonetheless, somehow that could be a means
+
+1:11:13.940 --> 1:11:16.180
+ for you to feel less content
+
+1:11:16.180 --> 1:11:18.460
+ with who you've turned out to be.
+
+1:11:18.460 --> 1:11:20.500
+ Do you take steps in your own life
+
+1:11:20.500 --> 1:11:25.260
+ to actively restrict the context in which you think
+
+1:11:25.260 --> 1:11:30.260
+ and live and contemplate, you know,
+
+1:11:30.740 --> 1:11:33.780
+ in order to enhance your creative life,
+
+1:11:33.780 --> 1:11:35.040
+ your intellectual life,
+
+1:11:36.200 --> 1:11:38.600
+ are those steps that you actively take?
+
+1:11:39.700 --> 1:11:43.640
+ Well, I very actively don't know how to make use
+
+1:11:43.640 --> 1:11:46.020
+ of anything with social media.
+
+1:11:46.020 --> 1:11:49.980
+ So I guess that counts as my having thus actively chosen
+
+1:11:49.980 --> 1:11:51.280
+ not to learn how.
+
+1:11:52.640 --> 1:11:55.780
+ So that's the case, certainly for the last year and a half,
+
+1:11:55.780 --> 1:11:58.620
+ like lots of people, I've gone through stretches
+
+1:11:58.620 --> 1:12:01.820
+ where I've managed to sort of enforce a moratorium
+
+1:12:01.820 --> 1:12:05.420
+ on looking at the news and that was wonderfully freeing.
+
+1:12:06.260 --> 1:12:09.720
+ I think in the larger sense though, you know,
+
+1:12:09.720 --> 1:12:12.640
+ in addition to me being a neurobiologist,
+
+1:12:12.640 --> 1:12:15.440
+ I sort of spent decades spending part of each year
+
+1:12:15.440 --> 1:12:19.980
+ studying wild baboons out in a national park in East Africa.
+
+1:12:19.980 --> 1:12:24.260
+ And I'd spend three months a year without electricity,
+
+1:12:24.260 --> 1:12:28.420
+ without phone calls, with, you know, going 12 hours a day
+
+1:12:28.420 --> 1:12:30.540
+ without saying a word to somebody.
+
+1:12:30.540 --> 1:12:33.400
+ And when I finally would, it would be somebody,
+
+1:12:33.400 --> 1:12:37.280
+ a nomadic pastoralist guy in a different language.
+
+1:12:38.240 --> 1:12:42.100
+ Yeah, I did 90% of my like insightful thinking
+
+1:12:42.100 --> 1:12:44.200
+ about anything in the laboratory
+
+1:12:44.200 --> 1:12:45.980
+ during those three months each year
+
+1:12:45.980 --> 1:12:50.100
+ and not one in the lab and not one inundated with stuff.
+
+1:12:50.100 --> 1:12:53.120
+ Well, I think there's sort of a shifting trend
+
+1:12:53.120 --> 1:12:55.940
+ towards trying to create a narrowing of context
+
+1:12:56.900 --> 1:12:59.180
+ that people, and I like what I see.
+
+1:12:59.180 --> 1:13:00.940
+ I have a niece, she's 14 years old,
+
+1:13:00.940 --> 1:13:02.500
+ and she and her friends are very good
+
+1:13:02.500 --> 1:13:04.180
+ at putting their phones away.
+
+1:13:04.180 --> 1:13:06.180
+ They say, we're not going to have our phones
+
+1:13:06.180 --> 1:13:09.180
+ for this interaction, especially after,
+
+1:13:09.180 --> 1:13:11.740
+ and I realize we're still somewhat in this,
+
+1:13:11.740 --> 1:13:13.260
+ it's unclear where it's headed,
+
+1:13:13.260 --> 1:13:15.540
+ but at 2020 was so restrictive
+
+1:13:15.540 --> 1:13:17.460
+ and she was so separated from her friends.
+
+1:13:17.460 --> 1:13:20.540
+ Now it's let's really focus on being together
+
+1:13:20.540 --> 1:13:23.340
+ and not bring in all these other elements from our phones.
+
+1:13:23.340 --> 1:13:27.380
+ And that brings me great hope for that generation.
+
+1:13:27.380 --> 1:13:29.980
+ Maybe they will, you know, or who knows,
+
+1:13:29.980 --> 1:13:31.580
+ maybe they'll run off and study baboons.
+
+1:13:31.580 --> 1:13:33.800
+ We need more field researchers.
+
+1:13:34.780 --> 1:13:36.860
+ So along the lines of choice,
+
+1:13:36.860 --> 1:13:41.020
+ I'd like to shift gears slightly and talk about free will,
+
+1:13:41.020 --> 1:13:43.720
+ about our ability to make choices at all.
+
+1:13:44.700 --> 1:13:48.860
+ Well, my personal way out
+
+1:13:48.860 --> 1:13:53.040
+ and left field inflammatory stance is,
+
+1:13:53.040 --> 1:13:55.480
+ I don't think we have a shred of free will.
+
+1:13:56.780 --> 1:14:01.780
+ Despite, you know, 95% of philosophers
+
+1:14:01.860 --> 1:14:05.740
+ and I think probably the majority of neuroscientists
+
+1:14:05.740 --> 1:14:07.580
+ saying that we have free will
+
+1:14:07.580 --> 1:14:09.420
+ in at least some circumstances,
+
+1:14:09.420 --> 1:14:11.860
+ I don't think there's any at all.
+
+1:14:11.860 --> 1:14:16.860
+ And the reason for this is you do something,
+
+1:14:17.380 --> 1:14:20.480
+ you behave, you make a choice, whatever.
+
+1:14:20.480 --> 1:14:23.500
+ And to understand why you did that,
+
+1:14:23.500 --> 1:14:25.900
+ where did that intention come from?
+
+1:14:26.940 --> 1:14:30.420
+ Part of it was due to like the sensory environment
+
+1:14:30.420 --> 1:14:32.560
+ you were in in the previous minute.
+
+1:14:32.560 --> 1:14:34.380
+ Some of it is from the hormone levels
+
+1:14:34.380 --> 1:14:36.420
+ in your bloodstream that morning.
+
+1:14:36.420 --> 1:14:40.340
+ Some of it is from whether you had a wonderful
+
+1:14:40.340 --> 1:14:42.000
+ or stressful last three months
+
+1:14:42.000 --> 1:14:44.460
+ and what sort of neuroplasticity happened.
+
+1:14:44.460 --> 1:14:46.580
+ Part of it is what hormone levels
+
+1:14:46.580 --> 1:14:48.980
+ you were exposed to as a fetus.
+
+1:14:48.980 --> 1:14:52.700
+ Part of it is what culture your ancestors came up with
+
+1:14:52.700 --> 1:14:56.220
+ and thus how you were parented when you were a kid.
+
+1:14:56.220 --> 1:14:57.920
+ All of those are in there
+
+1:14:57.920 --> 1:15:00.660
+ and you can't understand where behavior is coming from
+
+1:15:00.660 --> 1:15:02.480
+ without incorporating all of those.
+
+1:15:02.480 --> 1:15:07.480
+ And at that point, not only are there
+
+1:15:07.920 --> 1:15:11.860
+ all of these relevant factors,
+
+1:15:11.860 --> 1:15:15.120
+ but they're ultimately all one factor.
+
+1:15:15.120 --> 1:15:17.280
+ If you're talking about what evolution
+
+1:15:17.280 --> 1:15:19.080
+ has to do with your behavior,
+
+1:15:19.080 --> 1:15:22.200
+ by definition, you're also talking about genetics.
+
+1:15:22.200 --> 1:15:23.960
+ If you're talking about what your genes
+
+1:15:23.960 --> 1:15:25.520
+ have to do with behavior,
+
+1:15:25.520 --> 1:15:27.320
+ by definition, you're talking about
+
+1:15:27.320 --> 1:15:29.120
+ how your brain was constructed
+
+1:15:29.120 --> 1:15:31.280
+ or what proteins are coded for.
+
+1:15:31.280 --> 1:15:35.800
+ If you're talking about like your mood disorder now,
+
+1:15:35.800 --> 1:15:37.960
+ you're talking about the sense of efficacy
+
+1:15:37.960 --> 1:15:39.760
+ you were getting as a five-year-old.
+
+1:15:39.760 --> 1:15:41.040
+ They're all intertwined.
+
+1:15:41.040 --> 1:15:45.220
+ And when you look at all those influences,
+
+1:15:45.220 --> 1:15:50.220
+ basically like the challenge is show me a neuron
+
+1:15:50.600 --> 1:15:52.380
+ that just caused that behavior
+
+1:15:52.380 --> 1:15:54.140
+ or show me a network of neurons
+
+1:15:54.140 --> 1:15:56.040
+ that just caused that behavior
+
+1:15:56.040 --> 1:15:59.940
+ and show me that nothing about what they just did
+
+1:15:59.940 --> 1:16:04.040
+ was influenced by anything from the sensory environment
+
+1:16:04.040 --> 1:16:07.160
+ one second ago to the evolution of your species.
+
+1:16:07.160 --> 1:16:09.800
+ And there's no space in there
+
+1:16:09.800 --> 1:16:13.040
+ to fit in a free will concept
+
+1:16:13.040 --> 1:16:18.040
+ that winds up being in your brain, but not of your brain.
+
+1:16:18.440 --> 1:16:21.960
+ There's simply no wiggle room for it there.
+
+1:16:21.960 --> 1:16:26.240
+ So I can appreciate that our behaviors and our choices
+
+1:16:26.240 --> 1:16:29.100
+ are the consequence of a long line of dominoes
+
+1:16:29.100 --> 1:16:32.360
+ that fell prior to that behavior.
+
+1:16:32.360 --> 1:16:36.280
+ But is it possible that I can intervene
+
+1:16:36.280 --> 1:16:40.120
+ in the domino effect, so to speak?
+
+1:16:41.240 --> 1:16:44.520
+ In other words, can my recognition of the fact
+
+1:16:44.520 --> 1:16:46.800
+ that genes have heritability,
+
+1:16:46.800 --> 1:16:50.780
+ there's an epigenome that there's a hormonal context,
+
+1:16:50.780 --> 1:16:52.960
+ there's a historical context,
+
+1:16:53.800 --> 1:16:58.080
+ can the knowledge of that give me some small,
+
+1:16:58.080 --> 1:17:00.460
+ small shard of free will?
+
+1:17:00.460 --> 1:17:03.000
+ Meaning does it allow me to say, ah, okay,
+
+1:17:03.000 --> 1:17:07.160
+ I accept that my choices are somewhat predetermined
+
+1:17:07.160 --> 1:17:10.000
+ and yet knowing that gives me
+
+1:17:10.000 --> 1:17:12.920
+ some additional layer of control.
+
+1:17:12.920 --> 1:17:17.360
+ Is there any philosophical or biological universe
+
+1:17:17.360 --> 1:17:19.620
+ in which that works?
+
+1:17:20.560 --> 1:17:21.400
+ Yeah.
+
+1:17:21.400 --> 1:17:26.380
+ So all of that can produce
+
+1:17:26.380 --> 1:17:30.920
+ the wonderfully positive belief that change can happen.
+
+1:17:31.820 --> 1:17:34.600
+ Even dramatic change, even in the worst of circumstances,
+
+1:17:34.600 --> 1:17:37.620
+ most unlikely people, and change can happen.
+
+1:17:37.620 --> 1:17:39.820
+ Things can change.
+
+1:17:39.820 --> 1:17:42.080
+ Don't be fatalistic, don't decide
+
+1:17:42.080 --> 1:17:45.340
+ because we're mechanistic biological machines
+
+1:17:45.340 --> 1:17:48.380
+ that nothing can ever, change can happen.
+
+1:17:48.380 --> 1:17:51.940
+ But where people go off the rails
+
+1:17:52.820 --> 1:17:57.820
+ is translating that into, we can change ourselves.
+
+1:17:59.500 --> 1:18:02.460
+ We don't, we can't, because there's no free will.
+
+1:18:02.460 --> 1:18:07.060
+ However, we can be changed by circumstance.
+
+1:18:07.060 --> 1:18:10.700
+ And the point of it is,
+
+1:18:10.700 --> 1:18:15.500
+ like you look at an aplasia, a sea slug
+
+1:18:15.500 --> 1:18:18.760
+ that has learned to retract its gill in response
+
+1:18:18.760 --> 1:18:22.640
+ to a shock on its tail, you can do like conditioning,
+
+1:18:22.640 --> 1:18:26.220
+ Pavlovian conditioning on it, and it has learned
+
+1:18:26.220 --> 1:18:30.100
+ its behavior has been changed by its environment.
+
+1:18:30.100 --> 1:18:32.620
+ And you hear news about something
+
+1:18:32.620 --> 1:18:35.740
+ like horrifically depressing going on
+
+1:18:35.740 --> 1:18:40.740
+ and, you know, refugees in wherever.
+
+1:18:40.740 --> 1:18:45.740
+ And as a result, you feel a little bit more helpless
+
+1:18:45.820 --> 1:18:48.900
+ and a less of a sense of efficacy in the world.
+
+1:18:48.900 --> 1:18:53.240
+ And both of your behaviors have been changed.
+
+1:18:53.240 --> 1:18:55.160
+ Okay, okay, yeah, I guess that's good.
+
+1:18:55.160 --> 1:19:00.160
+ But the remarkable thing is it's the exact same neurobiology.
+
+1:19:00.380 --> 1:19:04.380
+ The signal transduction pathways that were happening
+
+1:19:04.380 --> 1:19:09.380
+ in that sea snail incorporate the exact same kinases
+
+1:19:09.380 --> 1:19:13.300
+ and proteases and phosphatases that we do
+
+1:19:13.300 --> 1:19:16.180
+ when you're having mammalian fear conditioning
+
+1:19:16.180 --> 1:19:20.060
+ or when you're learning, it's conserved,
+
+1:19:20.060 --> 1:19:21.940
+ it's the exact same thing.
+
+1:19:21.940 --> 1:19:23.100
+ It's simply playing out
+
+1:19:23.100 --> 1:19:26.140
+ in obviously a much, much fancier domain.
+
+1:19:26.140 --> 1:19:31.140
+ And because you have learned that change is possible
+
+1:19:34.260 --> 1:19:36.280
+ despite understanding mechanistically
+
+1:19:36.280 --> 1:19:39.660
+ that we can't change ourselves volitionally,
+
+1:19:39.660 --> 1:19:42.340
+ but because you understand change is possible,
+
+1:19:42.340 --> 1:19:45.980
+ you have just changed the ability of your brain
+
+1:19:45.980 --> 1:19:49.580
+ to respond to optimistic stimuli.
+
+1:19:49.580 --> 1:19:52.120
+ And you have changed the ability of your brain
+
+1:19:52.120 --> 1:19:54.300
+ to now send you in the direction
+
+1:19:54.300 --> 1:19:56.380
+ of being exposed to more information
+
+1:19:56.380 --> 1:19:59.140
+ that will seem cheerful rather than depressing.
+
+1:19:59.140 --> 1:20:02.900
+ Oh my God, that's amazing what Nelson Mandela
+
+1:20:02.900 --> 1:20:05.900
+ and Martin Luther King and all these folks did.
+
+1:20:05.900 --> 1:20:08.460
+ Wow, under the most adverse of circumstances,
+
+1:20:08.460 --> 1:20:12.140
+ they were able to do, maybe I can also.
+
+1:20:12.140 --> 1:20:15.140
+ Maybe I can go read more about people like them
+
+1:20:15.140 --> 1:20:20.140
+ to get even more data points of change to neurochemistry
+
+1:20:20.580 --> 1:20:23.500
+ so that your responses are different now.
+
+1:20:23.500 --> 1:20:27.660
+ And you're tilted a little bit more in that direction
+
+1:20:27.660 --> 1:20:29.620
+ of feeling like you can make a difference
+
+1:20:29.620 --> 1:20:32.320
+ instead of it's all damn hopeless.
+
+1:20:32.320 --> 1:20:34.440
+ So enormous change can happen,
+
+1:20:34.440 --> 1:20:37.040
+ but the last thing that could come out of a view
+
+1:20:37.040 --> 1:20:41.620
+ of we are nothing more or less than the sum of our biology
+
+1:20:41.620 --> 1:20:43.620
+ and its interactions with environment
+
+1:20:43.620 --> 1:20:45.380
+ is to throw up your hands and say,
+
+1:20:45.380 --> 1:20:48.580
+ and thus it's no use trying to change anything.
+
+1:20:49.820 --> 1:20:51.940
+ So we can acknowledge that change
+
+1:20:51.940 --> 1:20:54.600
+ is extremely hard to impossible,
+
+1:20:54.600 --> 1:20:56.340
+ that circumstances can change,
+
+1:20:56.340 --> 1:20:59.800
+ and yet that striving to be better human beings
+
+1:20:59.800 --> 1:21:01.560
+ is still a worthwhile endeavor.
+
+1:21:01.560 --> 1:21:02.880
+ Do I have that correct?
+
+1:21:02.880 --> 1:21:06.940
+ Absolutely, because simply the knowledge
+
+1:21:06.940 --> 1:21:09.860
+ either from experience or making it to the end
+
+1:21:09.860 --> 1:21:14.000
+ of the right neurobiology class has taught you
+
+1:21:14.000 --> 1:21:16.940
+ that change can happen within a framework
+
+1:21:16.940 --> 1:21:19.660
+ of a mechanistic neurobiology.
+
+1:21:20.740 --> 1:21:23.860
+ You were now more open to being made optimistic
+
+1:21:23.860 --> 1:21:26.060
+ by the good news in the world around you.
+
+1:21:26.060 --> 1:21:28.680
+ You were more likely to be inspired by this or that.
+
+1:21:28.680 --> 1:21:32.500
+ You were more resistant to getting discouraged by bad news.
+
+1:21:32.500 --> 1:21:36.060
+ Simply because you now understand it's possible.
+
+1:21:37.380 --> 1:21:39.700
+ Yeah, somebody who spent much of his career
+
+1:21:39.700 --> 1:21:40.860
+ working on the hippocampus,
+
+1:21:40.860 --> 1:21:43.940
+ I have to assume that you are a believer in neuroplasticity,
+
+1:21:43.940 --> 1:21:46.780
+ that neural circuits can change in response to experience
+
+1:21:46.780 --> 1:21:49.780
+ and that some of the same so-called top-down mechanisms
+
+1:21:49.780 --> 1:21:52.940
+ of prefrontal cortex that we were talking about before
+
+1:21:52.940 --> 1:21:54.060
+ can play a role there,
+
+1:21:54.060 --> 1:21:56.020
+ that the decision to try and change
+
+1:21:56.020 --> 1:21:59.500
+ and the pursuit of knowledge and the pursuit of experience
+
+1:21:59.500 --> 1:22:01.020
+ can shape our circuitry
+
+1:22:01.020 --> 1:22:05.060
+ and therefore make us different machines, so to speak.
+
+1:22:05.060 --> 1:22:10.060
+ Yeah, and not only can say prenatal hormone exposure
+
+1:22:10.800 --> 1:22:14.100
+ change the way your brain is being constructed,
+
+1:22:14.100 --> 1:22:17.300
+ but learning that prenatal hormone exposure
+
+1:22:17.300 --> 1:22:19.540
+ can change the construction of your brain
+
+1:22:19.540 --> 1:22:21.940
+ will change your brain right now
+
+1:22:21.940 --> 1:22:26.180
+ and how you think about where your intentions came from.
+
+1:22:26.180 --> 1:22:29.080
+ Wow, maybe that had something to do with it.
+
+1:22:29.080 --> 1:22:31.620
+ The knowledge of the knowledge
+
+1:22:31.620 --> 1:22:34.420
+ is an effector in and of itself.
+
+1:22:35.420 --> 1:22:38.860
+ That's such an important and powerful statement to hear.
+
+1:22:38.860 --> 1:22:42.580
+ I think that many people think that if a tool,
+
+1:22:42.580 --> 1:22:47.580
+ it doesn't involve a pill or a protocol,
+
+1:22:48.260 --> 1:22:49.840
+ that it's useless.
+
+1:22:49.840 --> 1:22:51.580
+ And certainly there are pills and protocols
+
+1:22:51.580 --> 1:22:53.660
+ that are very useful in a variety of contexts
+
+1:22:53.660 --> 1:22:55.340
+ for a variety of things.
+
+1:22:55.340 --> 1:22:57.900
+ But the idea that knowledge itself,
+
+1:22:57.900 --> 1:23:01.620
+ or as you put it, knowledge of knowledge is itself a tool,
+
+1:23:01.620 --> 1:23:04.100
+ I think is a very important concept
+
+1:23:04.100 --> 1:23:07.060
+ for people to embed in their minds.
+
+1:23:07.060 --> 1:23:11.040
+ And listen, I'm so grateful for this discussion
+
+1:23:11.040 --> 1:23:13.120
+ and for you raising these topics.
+
+1:23:13.120 --> 1:23:17.140
+ I think that many people know your work
+
+1:23:17.140 --> 1:23:18.720
+ on testosterone, on stress,
+
+1:23:18.720 --> 1:23:19.900
+ and we've covered some of that today.
+
+1:23:19.900 --> 1:23:23.780
+ The work on free will and this idea that we are hopeless
+
+1:23:24.960 --> 1:23:27.060
+ or that we are in total control,
+
+1:23:27.060 --> 1:23:30.220
+ I think I'm realizing and listening to you
+
+1:23:30.220 --> 1:23:35.220
+ that neither is true and that the solution resides
+
+1:23:35.260 --> 1:23:39.700
+ in understanding more about free will and lack of it
+
+1:23:40.620 --> 1:23:42.980
+ and also neuroplasticity.
+
+1:23:43.900 --> 1:23:47.260
+ You're working on a book about free will.
+
+1:23:47.260 --> 1:23:49.820
+ Are you willing to tell us a little bit about that book
+
+1:23:49.820 --> 1:23:51.280
+ and where you are in that process
+
+1:23:51.280 --> 1:23:52.900
+ and what we can look forward to?
+
+1:23:52.900 --> 1:23:57.420
+ Yeah, it's going really slow.
+
+1:23:57.420 --> 1:24:02.420
+ Title is Determined, A Science of Life Without Free Will.
+
+1:24:03.240 --> 1:24:05.640
+ And essentially the first half of the book
+
+1:24:05.640 --> 1:24:08.920
+ is trying to convince a reader,
+
+1:24:08.920 --> 1:24:11.760
+ okay, if not that there's no free will whatsoever,
+
+1:24:11.760 --> 1:24:15.360
+ but at least there's a lot less than is normally assumed.
+
+1:24:15.360 --> 1:24:18.660
+ And I'm going through all the standard arguments
+
+1:24:18.660 --> 1:24:22.140
+ for free will and why that doesn't make sense
+
+1:24:22.140 --> 1:24:24.420
+ with 21st century science.
+
+1:24:24.420 --> 1:24:28.260
+ And that has led to reading a lot
+
+1:24:28.260 --> 1:24:31.320
+ of very frustrating philosophers
+
+1:24:31.320 --> 1:24:35.020
+ who basically are willing to admit
+
+1:24:35.020 --> 1:24:39.040
+ that stuff is made out of like atoms and molecules
+
+1:24:39.040 --> 1:24:42.100
+ and like there's a physical reality to the world.
+
+1:24:42.100 --> 1:24:44.200
+ They're not just relying on magic,
+
+1:24:44.200 --> 1:24:48.180
+ but that they believe in free will for magical reasons
+
+1:24:48.180 --> 1:24:50.100
+ and where it doesn't make sense.
+
+1:24:50.100 --> 1:24:52.300
+ Okay, so the first half of the book is
+
+1:24:52.300 --> 1:24:54.240
+ to hopefully convince people
+
+1:24:54.240 --> 1:24:57.020
+ that there's much less free will than they used to think.
+
+1:24:57.020 --> 1:24:59.940
+ And then the second half is this gigantic juncture
+
+1:24:59.940 --> 1:25:01.940
+ built around the fact that I haven't thought
+
+1:25:01.940 --> 1:25:06.060
+ there's any free will since I was like an adolescent.
+
+1:25:06.060 --> 1:25:08.260
+ And despite thinking that way,
+
+1:25:08.260 --> 1:25:10.500
+ I still have absolutely no idea
+
+1:25:10.500 --> 1:25:14.500
+ how you're supposed to function with that belief.
+
+1:25:14.500 --> 1:25:18.140
+ How are you supposed to like go about everyday life
+
+1:25:18.140 --> 1:25:23.140
+ if anything you feel entitled to isn't true,
+
+1:25:23.180 --> 1:25:26.640
+ if any angers and hatreds you feel aren't justified,
+
+1:25:26.640 --> 1:25:29.520
+ if there's no such thing as appropriate,
+
+1:25:29.520 --> 1:25:31.940
+ blame or punishment or praise or reward,
+
+1:25:31.940 --> 1:25:33.880
+ and none of it makes any sense.
+
+1:25:33.880 --> 1:25:37.220
+ And somebody like even compliments you on your haircut
+
+1:25:37.220 --> 1:25:39.520
+ and you've been conditioned to like say,
+
+1:25:39.520 --> 1:25:43.160
+ oh, thanks as if you had something to do.
+
+1:25:43.160 --> 1:25:45.260
+ How are we supposed to function with that?
+
+1:25:45.260 --> 1:25:50.260
+ And so the second half is wrestling with that.
+
+1:25:51.640 --> 1:25:55.940
+ And what the punchline there is,
+
+1:25:55.940 --> 1:25:59.080
+ is it's gonna be incredibly hard.
+
+1:25:59.080 --> 1:26:00.820
+ And if you think it's gonna be hard
+
+1:26:00.820 --> 1:26:03.680
+ to subtract a notion of free will
+
+1:26:03.680 --> 1:26:07.460
+ out of making sense of like serial murderers,
+
+1:26:07.460 --> 1:26:09.380
+ it's gonna be a thousand times harder
+
+1:26:09.380 --> 1:26:14.220
+ of making sense of when somebody says good job to you.
+
+1:26:14.220 --> 1:26:18.960
+ And because it's the exact same unreality
+
+1:26:18.960 --> 1:26:21.360
+ of sort of our interpretations,
+
+1:26:21.360 --> 1:26:23.640
+ it's gonna be incredibly hard.
+
+1:26:23.640 --> 1:26:27.480
+ But nonetheless, when you look at the history
+
+1:26:27.480 --> 1:26:32.480
+ of how we have subtracted the notion of agency
+
+1:26:32.780 --> 1:26:35.680
+ out of all sorts of realms of blame,
+
+1:26:35.680 --> 1:26:38.320
+ starting with thinking that witches
+
+1:26:38.320 --> 1:26:41.460
+ caused hailstorms 500 years ago
+
+1:26:41.460 --> 1:26:45.460
+ to the notion that psychodynamically screwed up mothers
+
+1:26:45.460 --> 1:26:49.400
+ caused schizophrenia, we've done it.
+
+1:26:49.400 --> 1:26:51.600
+ We've done it endless number of times.
+
+1:26:51.600 --> 1:26:54.700
+ We've been able to subtract out a sense of volition
+
+1:26:54.700 --> 1:26:57.700
+ in understanding how the world works around us.
+
+1:26:57.700 --> 1:27:00.940
+ And we don't have murderers running amok on the street
+
+1:27:00.940 --> 1:27:04.440
+ and society hasn't collapsed into a puddle.
+
+1:27:04.440 --> 1:27:07.140
+ And in fact, it's a more humane society.
+
+1:27:07.140 --> 1:27:11.480
+ So the good news is it's possible
+
+1:27:11.480 --> 1:27:14.680
+ because we've done it repeatedly in the past,
+
+1:27:14.680 --> 1:27:16.720
+ but it's gonna be hard as hell.
+
+1:27:16.720 --> 1:27:20.320
+ And it's hard as hell to try to write about that coherently
+
+1:27:20.320 --> 1:27:23.720
+ on discovery and so it's going slowly.
+
+1:27:23.720 --> 1:27:26.440
+ Well, I speak for many, many people
+
+1:27:26.440 --> 1:27:29.740
+ when I say that we're really excited
+
+1:27:29.740 --> 1:27:33.880
+ for the book when it's done and we will patiently wait,
+
+1:27:33.880 --> 1:27:37.440
+ but with great excitement for the book, Determined,
+
+1:27:37.440 --> 1:27:38.880
+ you said is the title, correct?
+
+1:27:38.880 --> 1:27:43.000
+ Yeah, Determined for the Science of Life Without Free Will.
+
+1:27:43.000 --> 1:27:44.960
+ Seems like you can't publish your book these days
+
+1:27:44.960 --> 1:27:48.640
+ without a subtitle, so that's it.
+
+1:27:48.640 --> 1:27:49.760
+ Fantastic.
+
+1:27:49.760 --> 1:27:52.320
+ Well, very excited to read the book.
+
+1:27:52.320 --> 1:27:54.760
+ Very grateful to you for this conversation today.
+
+1:27:54.760 --> 1:27:56.600
+ I learned a ton.
+
+1:27:56.600 --> 1:27:58.080
+ Every time you speak, I learn.
+
+1:27:58.080 --> 1:28:00.000
+ And for me, it's really been a pleasure
+
+1:28:00.000 --> 1:28:02.440
+ and a delight to interact with you today
+
+1:28:02.440 --> 1:28:07.040
+ and over the previous years, I should say as colleagues.
+
+1:28:07.040 --> 1:28:10.840
+ And thank you again, Robert, for everything that you do
+
+1:28:10.840 --> 1:28:12.720
+ and all the hard, hard work and thinking
+
+1:28:12.720 --> 1:28:13.740
+ that you put into your work,
+
+1:28:13.740 --> 1:28:16.780
+ because it's clear that you put a lot of hard work
+
+1:28:16.780 --> 1:28:21.100
+ and thinking and we all benefit as a consequence.
+
+1:28:21.100 --> 1:28:24.000
+ Thanks and thanks for having me.
+
+1:28:24.000 --> 1:28:25.220
+ This was a blast.
+
+1:28:26.600 --> 1:28:28.520
+ Thank you for joining me for my conversation
+
+1:28:28.520 --> 1:28:30.500
+ with Dr. Robert Sapolsky.
+
+1:28:30.500 --> 1:28:32.780
+ If you're enjoying this podcast and learning from it,
+
+1:28:32.780 --> 1:28:34.840
+ please subscribe to our YouTube channel.
+
+1:28:34.840 --> 1:28:37.240
+ In addition, you can leave us comments and suggestions
+
+1:28:37.240 --> 1:28:39.080
+ for future episodes and guests
+
+1:28:39.080 --> 1:28:41.180
+ in the comment section on YouTube.
+
+1:28:41.180 --> 1:28:44.280
+ Please also subscribe on Apple and on Spotify.
+
+1:28:44.280 --> 1:28:46.500
+ And on Apple, you have the opportunity to leave us
+
+1:28:46.500 --> 1:28:49.560
+ up to a five-star review and a comment.
+
+1:28:49.560 --> 1:28:51.320
+ In addition, please check out the sponsors
+
+1:28:51.320 --> 1:28:53.380
+ that we mentioned at the beginning of this podcast.
+
+1:28:53.380 --> 1:28:55.160
+ That's a terrific way to support us.
+
+1:28:55.160 --> 1:28:56.420
+ And for those of you that are interested
+
+1:28:56.420 --> 1:28:59.120
+ in supporting research on stress, on sleep,
+
+1:28:59.120 --> 1:29:02.760
+ and how to better access sleep and combat stress,
+
+1:29:02.760 --> 1:29:05.080
+ you can do that by supporting the research being done
+
+1:29:05.080 --> 1:29:07.080
+ on those topics in my laboratory.
+
+1:29:07.080 --> 1:29:10.120
+ You can go to Hubermanlab.stanford.edu
+
+1:29:10.120 --> 1:29:13.520
+ and there you'll see a tab entitled support research
+
+1:29:13.520 --> 1:29:14.480
+ in the Huberman Lab.
+
+1:29:14.480 --> 1:29:17.100
+ So that's for work at the Huberman Lab at Stanford,
+
+1:29:17.100 --> 1:29:18.800
+ not the Huberman Lab podcast.
+
+1:29:18.800 --> 1:29:20.300
+ And there's a make a donation tab
+
+1:29:20.300 --> 1:29:22.560
+ where you can make a tax deductible donation.
+
+1:29:22.560 --> 1:29:24.600
+ And if you're not already following the Huberman Lab
+
+1:29:24.600 --> 1:29:27.000
+ on Instagram, please check out Huberman Lab
+
+1:29:27.000 --> 1:29:29.220
+ on Instagram and on Twitter.
+
+1:29:29.220 --> 1:29:32.480
+ On both those channels, I post information about science
+
+1:29:32.480 --> 1:29:35.760
+ and science-related tools anywhere from one to five minutes.
+
+1:29:35.760 --> 1:29:37.900
+ Some of that information overlaps with the podcast,
+
+1:29:37.900 --> 1:29:39.380
+ but a lot of it is unique and different
+
+1:29:39.380 --> 1:29:41.360
+ from the information on this podcast.
+
+1:29:41.360 --> 1:29:43.200
+ And last but not least,
+
+1:29:43.200 --> 1:29:45.000
+ thank you for your interest in science.
+
+1:29:45.000 --> 1:29:58.000
+ And I'll see you in the next one.
+

@@ -1,0 +1,7517 @@
+WEBVTT
+
+00:00.000 --> 00:02.260
+ Welcome to the Huberman Lab Podcast,
+
+00:02.260 --> 00:04.900
+ where we discuss science and science-based tools
+
+00:04.900 --> 00:05.900
+ for everyday life.
+
+00:09.440 --> 00:12.260
+ I'm Andrew Huberman, and I'm a professor of neurobiology
+
+00:12.260 --> 00:15.660
+ and ophthalmology at Stanford School of Medicine.
+
+00:15.660 --> 00:17.400
+ This podcast is separate from my teaching
+
+00:17.400 --> 00:19.060
+ and research roles at Stanford.
+
+00:19.060 --> 00:21.060
+ It is, however, part of my desire and effort
+
+00:21.060 --> 00:23.100
+ to bring zero cost to consumer information
+
+00:23.100 --> 00:25.340
+ about science and science-related tools
+
+00:25.340 --> 00:26.960
+ to the general public.
+
+00:26.960 --> 00:28.220
+ In keeping with that theme,
+
+00:28.220 --> 00:31.220
+ I'd like to thank the sponsors of today's podcast.
+
+00:31.220 --> 00:33.540
+ Our first sponsor is Four Sigmatic.
+
+00:34.740 --> 00:36.460
+ Four Sigmatic is a wellness company
+
+00:36.460 --> 00:38.060
+ that makes mushroom coffee.
+
+00:38.060 --> 00:39.180
+ And if you're asking yourself,
+
+00:39.180 --> 00:41.380
+ why would you want to put mushrooms in coffee?
+
+00:41.380 --> 00:42.340
+ First of all, let me tell you,
+
+00:42.340 --> 00:44.460
+ these are not psychedelic mushrooms,
+
+00:44.460 --> 00:47.020
+ and no, the coffee doesn't taste like mushrooms.
+
+00:47.020 --> 00:48.660
+ The coffee is delicious,
+
+00:48.660 --> 00:50.900
+ and you don't taste mushrooms at all.
+
+00:50.900 --> 00:53.980
+ I know this because I've been using Four Sigmatic coffee
+
+00:53.980 --> 00:56.940
+ and been stocking it in my laboratory for several years now,
+
+00:56.940 --> 00:58.900
+ long before I ever had the podcast,
+
+00:58.900 --> 01:01.100
+ or Four Sigmatic was a sponsor.
+
+01:01.100 --> 01:03.520
+ The two kinds of mushrooms that are in Four Sigmatic coffee
+
+01:03.520 --> 01:06.220
+ are lion's mane and chaga mushrooms,
+
+01:06.220 --> 01:07.260
+ both of which have been shown
+
+01:07.260 --> 01:10.600
+ to have a slight anxiolytic effect to reduce anxiety.
+
+01:10.600 --> 01:13.460
+ And lion's mane has also been shown in several studies
+
+01:13.460 --> 01:16.440
+ to lower the symptoms of depression just slightly,
+
+01:16.440 --> 01:19.120
+ although I wouldn't consider it a treatment for depression.
+
+01:19.120 --> 01:20.640
+ That's an attractive benefit,
+
+01:20.640 --> 01:24.020
+ as well as have some effect at offsetting cognitive decline.
+
+01:24.020 --> 01:26.140
+ Albeit slightly, the effects were real
+
+01:26.140 --> 01:28.600
+ in the studies that I found.
+
+01:28.600 --> 01:30.220
+ So if you'd like to try Four Sigmatic,
+
+01:30.220 --> 01:33.700
+ you can go to foursigmatic.com slash Huberman.
+
+01:33.700 --> 01:38.700
+ That's F-O-U-R-S-I-G-M-A-T-I-C.com slash Huberman.
+
+01:39.020 --> 01:41.460
+ And if you do that, you'll get 40% off your order
+
+01:41.460 --> 01:44.580
+ plus free shipping on mushroom coffee bundles.
+
+01:44.580 --> 01:46.940
+ That's foursigmatic.com slash Huberman
+
+01:46.940 --> 01:49.660
+ for up to 40% off and free shipping.
+
+01:49.660 --> 01:53.100
+ Today's episode is also brought to us by Blinkist.
+
+01:53.100 --> 01:55.760
+ Blinkist is an app that has thousands of nonfiction books
+
+01:55.760 --> 01:58.320
+ condensed down to just 15 minutes of key takeaways
+
+01:58.320 --> 02:00.480
+ that you can read or listen to.
+
+02:00.480 --> 02:04.200
+ I'm a big reader and I'm a big consumer of nonfiction.
+
+02:04.200 --> 02:05.820
+ And most of the time I consume books
+
+02:05.820 --> 02:06.940
+ in their traditional form,
+
+02:06.940 --> 02:09.380
+ like a book where you flip the pages and so forth.
+
+02:09.380 --> 02:11.640
+ I also listen to full length audio books.
+
+02:11.640 --> 02:15.620
+ However, over time, we know that we forget lots of things.
+
+02:15.620 --> 02:16.820
+ And even though sometimes I think
+
+02:16.820 --> 02:19.300
+ I got all the critical information from a book,
+
+02:19.300 --> 02:22.220
+ when I listen to Blinkist and I get the 15 minute rundown,
+
+02:22.220 --> 02:24.820
+ either in audio or in written form,
+
+02:24.820 --> 02:26.400
+ what I find is there are key points
+
+02:26.400 --> 02:27.940
+ that oftentimes I missed.
+
+02:27.940 --> 02:30.980
+ And so it's a great way for me to both jog my memory
+
+02:30.980 --> 02:32.260
+ and to bring forward ideas
+
+02:32.260 --> 02:34.360
+ that I hadn't considered previously.
+
+02:34.360 --> 02:36.860
+ They have thousands of nonfiction titles
+
+02:36.860 --> 02:39.320
+ and some really terrific ones in the science category.
+
+02:39.320 --> 02:42.100
+ For example, David Eagleman's book, Livewired,
+
+02:42.100 --> 02:44.840
+ which came out recently as a book I read in full length form
+
+02:44.840 --> 02:48.000
+ and I've listened to the Blinkist version of it as well.
+
+02:48.000 --> 02:50.140
+ Livewired is a book about neuroplasticity,
+
+02:50.140 --> 02:53.420
+ the brain's ability to change in response to experience.
+
+02:53.420 --> 02:55.300
+ I get so many questions and requests
+
+02:55.300 --> 02:57.220
+ for books about neuroplasticity.
+
+02:57.220 --> 03:00.140
+ In my opinion, Livewired is the most recent and up to date
+
+03:00.140 --> 03:02.340
+ and the best one to date.
+
+03:02.340 --> 03:03.420
+ So that's there.
+
+03:03.420 --> 03:05.660
+ David Sinclair's book, Lifespan.
+
+03:05.660 --> 03:08.220
+ David, as many of you know,
+
+03:08.220 --> 03:10.840
+ is a professor of genetics at Harvard Medical School.
+
+03:10.840 --> 03:13.900
+ Lifespan is this terrific book about aging as a disease
+
+03:13.900 --> 03:17.540
+ and the future and present of longevity treatments.
+
+03:17.540 --> 03:18.860
+ Very interesting book.
+
+03:18.860 --> 03:21.180
+ As well as Matt Walker's book, Why We Sleep.
+
+03:21.180 --> 03:23.500
+ Matt, of course, is a professor at UC Berkeley
+
+03:23.500 --> 03:25.480
+ and Why We Sleep is a terrific book
+
+03:25.480 --> 03:27.940
+ about why we sleep, the science of sleeping
+
+03:27.940 --> 03:29.620
+ and things you can do to improve your sleep.
+
+03:29.620 --> 03:31.360
+ All of those are on Blinkist.
+
+03:31.360 --> 03:33.220
+ But with Blinkist, you get unlimited access
+
+03:33.220 --> 03:35.820
+ to their massive library of nonfiction.
+
+03:35.820 --> 03:37.180
+ If you'd like to try Blinkist,
+
+03:37.180 --> 03:40.180
+ right now they have a special offer just for our audience,
+
+03:40.180 --> 03:42.760
+ just for Huberman Lab Podcast listeners.
+
+03:42.760 --> 03:45.620
+ You can go to blinkist.com slash Huberman
+
+03:45.620 --> 03:48.580
+ and you can try Blinkist free for seven days.
+
+03:48.580 --> 03:49.860
+ So that's zero cost
+
+03:49.860 --> 03:52.620
+ and you'll get 25% off your new subscription.
+
+03:52.620 --> 03:57.620
+ That's blinkist, B-L-I-N-K-I-S-T dot com slash Huberman
+
+03:57.940 --> 03:59.780
+ to get a free seven day trial
+
+03:59.780 --> 04:02.360
+ and get saved 25% off when you sign up.
+
+04:02.360 --> 04:05.940
+ But only if you go to blinkist.com slash Huberman.
+
+04:05.940 --> 04:08.920
+ This episode is also brought to us by Monkpack.
+
+04:09.980 --> 04:12.680
+ Monkpack is a company that makes keto friendly snacks
+
+04:12.680 --> 04:14.060
+ that taste incredible,
+
+04:14.060 --> 04:17.020
+ but have just one gram of sugar or less.
+
+04:17.020 --> 04:18.820
+ As I've said before on this podcast,
+
+04:18.820 --> 04:22.040
+ I am not in ketosis, I'm not ketogenic.
+
+04:22.040 --> 04:24.980
+ I don't advocate or follow any one particular diet.
+
+04:24.980 --> 04:27.940
+ For me, what works is to fast in the early part of the day
+
+04:27.940 --> 04:31.560
+ and to eat low carb and keto-ish throughout the day.
+
+04:31.560 --> 04:34.980
+ That's for alertness and attention so I can work and focus
+
+04:34.980 --> 04:37.340
+ and I don't feel sluggish or brain fog.
+
+04:37.340 --> 04:39.060
+ And then at night and in the evening
+
+04:39.060 --> 04:41.100
+ is when I tend to eat my carbohydrates
+
+04:41.100 --> 04:42.660
+ to aid the transition to sleep.
+
+04:42.660 --> 04:44.180
+ That's what works for me.
+
+04:44.180 --> 04:46.580
+ Monkpack bars are a terrific snack,
+
+04:46.580 --> 04:48.120
+ whether or not your keto all the time,
+
+04:48.120 --> 04:50.580
+ whether or not you're low carb, or even if you're not,
+
+04:50.580 --> 04:52.320
+ they are absolutely delicious.
+
+04:52.320 --> 04:53.740
+ And I don't say that lightly.
+
+04:53.740 --> 04:55.840
+ I'm not a big fan of bars in general.
+
+04:55.840 --> 05:00.180
+ Most bars to me taste like a combination of a metal bumper
+
+05:00.180 --> 05:02.820
+ mixed with some cardboard and some lawn trimmings
+
+05:02.820 --> 05:04.140
+ and some artificial sugar.
+
+05:04.140 --> 05:05.900
+ Monkpack bars, when they were sent to me,
+
+05:05.900 --> 05:06.960
+ I was like, all right, I'll try them.
+
+05:06.960 --> 05:09.420
+ I tried it like, uh-oh, this is a problem
+
+05:09.420 --> 05:11.140
+ because I like them very, very much.
+
+05:11.140 --> 05:13.580
+ And when I say it's a problem, it really is a problem.
+
+05:13.580 --> 05:16.660
+ I actually keep the Monkpack boxes in my basement
+
+05:16.660 --> 05:18.520
+ so that I don't tear through them all at once.
+
+05:18.520 --> 05:21.380
+ I'm a huge fan of the caramel sea salt flavor.
+
+05:21.380 --> 05:22.820
+ It's delicious, just talking about it.
+
+05:22.820 --> 05:24.200
+ It makes me hungry for one.
+
+05:24.200 --> 05:26.180
+ But they also have sea salt, dark chocolate,
+
+05:26.180 --> 05:27.880
+ peanut butter, dark chocolate.
+
+05:27.880 --> 05:29.000
+ They're terrific.
+
+05:29.000 --> 05:30.360
+ In addition to being keto friendly,
+
+05:30.360 --> 05:33.660
+ they're also gluten-free, plant-based, non-GMO,
+
+05:33.660 --> 05:36.820
+ no soy, trans fat, sugar alcohols, or artificial colors.
+
+05:36.820 --> 05:39.380
+ So all the bad stuff that you don't want.
+
+05:39.380 --> 05:40.540
+ And as I mentioned before,
+
+05:40.540 --> 05:43.420
+ their keto less than one gram of sugar.
+
+05:43.420 --> 05:46.540
+ If you want to try Monkpack, you can go to monkpack.com.
+
+05:46.540 --> 05:49.340
+ That's M-U-N-K pack.com
+
+05:49.340 --> 05:51.540
+ and enter the code Huberman at checkout
+
+05:51.540 --> 05:53.900
+ and you'll get 20% off your first purchase
+
+05:53.900 --> 05:55.300
+ of any Monkpack product.
+
+05:55.300 --> 05:58.700
+ That's M-U-N-K-P-A-C-K.com
+
+05:58.700 --> 06:00.340
+ and enter the code Huberman at checkout
+
+06:00.340 --> 06:03.180
+ to get 20% off your purchase.
+
+06:03.180 --> 06:05.740
+ This month, we've been talking all about hormones,
+
+06:05.740 --> 06:08.820
+ which are these absolutely incredible chemicals
+
+06:08.820 --> 06:10.660
+ in our brain and body.
+
+06:10.660 --> 06:13.540
+ They impact our entire lifespan.
+
+06:13.540 --> 06:16.100
+ So from the time that we are in the womb,
+
+06:16.100 --> 06:17.460
+ they are controlling the development
+
+06:17.460 --> 06:19.500
+ of our brain and our bodies.
+
+06:19.500 --> 06:22.420
+ After we are born, they're still controlling
+
+06:22.420 --> 06:25.340
+ the development of our brain and bodies.
+
+06:25.340 --> 06:26.500
+ And I did say development
+
+06:26.500 --> 06:29.220
+ and that's because contrary to what most people think,
+
+06:29.220 --> 06:31.980
+ development lasts the entire lifespan.
+
+06:31.980 --> 06:35.040
+ From the time you're conceived until the time you die,
+
+06:35.040 --> 06:36.720
+ you are developing, you are changing,
+
+06:36.720 --> 06:40.600
+ and hormones are constantly updating and changing
+
+06:40.600 --> 06:42.700
+ the different functions of your body.
+
+06:42.700 --> 06:45.020
+ They have two major kinds of effects.
+
+06:45.020 --> 06:46.500
+ One are immediate effects.
+
+06:46.500 --> 06:48.620
+ So they can actually bind to
+
+06:48.620 --> 06:50.940
+ or kind of park in parking spots on cells
+
+06:50.940 --> 06:52.880
+ and impact all sorts of things
+
+06:52.880 --> 06:54.860
+ like the growth of cells, et cetera.
+
+06:54.860 --> 06:57.300
+ They also can control gene expression.
+
+06:57.300 --> 06:59.200
+ This is the way that hormones during puberty
+
+06:59.200 --> 07:02.320
+ control body hair growth and breast development
+
+07:02.320 --> 07:05.120
+ and growth of muscles and limbs and height
+
+07:05.120 --> 07:06.100
+ and all sorts of things.
+
+07:06.100 --> 07:07.580
+ They are incredible.
+
+07:07.580 --> 07:10.180
+ We've talked about testosterone and estrogen.
+
+07:10.180 --> 07:12.720
+ We talked about insulin and glucagon
+
+07:12.720 --> 07:13.980
+ and some of the other things.
+
+07:13.980 --> 07:17.740
+ Today, we are going to talk about metabolism,
+
+07:17.740 --> 07:20.620
+ mainly going to talk about thyroid hormone
+
+07:20.620 --> 07:24.300
+ and growth hormone and some other related pathways.
+
+07:24.300 --> 07:26.840
+ I'm going to explain to you the logic
+
+07:26.840 --> 07:30.140
+ of how thyroid hormone and growth hormone work.
+
+07:30.140 --> 07:32.620
+ It will become obvious why I've paired
+
+07:32.620 --> 07:36.780
+ thyroid and growth hormone together in the same episode.
+
+07:36.780 --> 07:40.680
+ And I will of course talk about tools that you can use
+
+07:40.680 --> 07:43.700
+ to elevate or reduce thyroid hormone.
+
+07:43.700 --> 07:44.700
+ There are cases where people
+
+07:44.700 --> 07:46.580
+ want to reduce thyroid hormone.
+
+07:46.580 --> 07:48.140
+ I will talk about tools that you can use
+
+07:48.140 --> 07:50.140
+ to elevate growth hormone.
+
+07:50.140 --> 07:51.500
+ There are rare cases where people
+
+07:51.500 --> 07:52.900
+ want to reduce growth hormone.
+
+07:52.900 --> 07:56.360
+ Most people are interested in increasing growth hormone.
+
+07:56.360 --> 07:58.740
+ So today is going to be rich with information,
+
+07:58.740 --> 08:00.980
+ rich with actionable tools.
+
+08:00.980 --> 08:04.060
+ And as always, the idea is to spell out
+
+08:04.060 --> 08:05.500
+ an organizational logic
+
+08:05.500 --> 08:07.060
+ so you can come away from this episode.
+
+08:07.060 --> 08:09.780
+ And in fact, the entire month on hormones,
+
+08:09.780 --> 08:12.180
+ really understanding at some level
+
+08:12.180 --> 08:14.940
+ what these things we call hormones are and how they work.
+
+08:14.940 --> 08:16.580
+ And that's really to arm you
+
+08:16.580 --> 08:18.740
+ to encounter information going forward,
+
+08:18.740 --> 08:21.020
+ whether or not it comes from me or from somebody else,
+
+08:21.020 --> 08:24.060
+ a book or a course, someplace else online,
+
+08:24.060 --> 08:27.780
+ to make sense of how to work with these incredible chemicals
+
+08:27.780 --> 08:30.000
+ we call hormones.
+
+08:30.000 --> 08:32.900
+ Before we begin to talk about thyroid and growth hormone
+
+08:32.900 --> 08:37.500
+ and how our metabolism works and how to control metabolism,
+
+08:37.500 --> 08:39.140
+ I want to answer a few questions
+
+08:39.140 --> 08:42.380
+ that I received from you, from the audience.
+
+08:42.380 --> 08:43.240
+ Every once in a while,
+
+08:43.240 --> 08:46.540
+ someone will send me a quite earnest question
+
+08:46.540 --> 08:49.140
+ about something they saw on the internet.
+
+08:49.140 --> 08:52.820
+ And one of the things I've heard about quite a bit
+
+08:52.820 --> 08:53.780
+ in the last couple of weeks
+
+08:53.780 --> 08:57.480
+ is we've been talking about hormones and food intake
+
+08:57.480 --> 08:59.120
+ and how those interact,
+
+08:59.120 --> 09:02.620
+ is this question of are certain foods
+
+09:02.620 --> 09:06.640
+ particularly good for certain organs of the body
+
+09:06.640 --> 09:09.540
+ and can that be predicted on the basis
+
+09:09.540 --> 09:12.140
+ of the shape of those foods?
+
+09:12.140 --> 09:13.060
+ So, first of all,
+
+09:13.060 --> 09:15.760
+ I want to acknowledge the question as a valid one
+
+09:15.760 --> 09:18.580
+ because I see this every once in a while out there,
+
+09:18.580 --> 09:19.420
+ people will say,
+
+09:19.420 --> 09:21.740
+ well, walnuts are in the shape of the brain
+
+09:21.740 --> 09:24.420
+ and therefore they are good for your brain
+
+09:24.420 --> 09:27.900
+ or a particular fruit like the beet
+
+09:27.900 --> 09:30.860
+ often looks like a heart and it's good for your heart.
+
+09:30.860 --> 09:34.400
+ And I certainly invite questions of all kinds
+
+09:34.400 --> 09:36.140
+ provided they are sincere questions.
+
+09:36.140 --> 09:41.140
+ However, I am not aware of any science whatsoever
+
+09:41.220 --> 09:44.800
+ supporting the idea that the shape of a given food
+
+09:44.800 --> 09:46.620
+ or object for that matter
+
+09:46.620 --> 09:51.160
+ is relevant to its functional role in the body
+
+09:51.160 --> 09:52.500
+ in reference to biology.
+
+09:52.500 --> 09:54.620
+ Now, beets contain something
+
+09:54.620 --> 09:55.680
+ that we're going to talk about today.
+
+09:55.680 --> 09:58.380
+ They contain a substance called arginine,
+
+09:58.380 --> 10:01.540
+ which actually can control the dilation of blood vessels
+
+10:01.540 --> 10:02.780
+ and arteries.
+
+10:02.780 --> 10:06.580
+ So it has some relationship to heart and heart health.
+
+10:06.580 --> 10:10.860
+ Walnuts contain various fatty acids that maybe,
+
+10:10.860 --> 10:12.180
+ I want to underscore maybe,
+
+10:12.180 --> 10:15.200
+ beneficial for certain aspects of brain health,
+
+10:15.200 --> 10:17.980
+ but there's no evidence whatsoever
+
+10:17.980 --> 10:20.940
+ that the shape of the food itself is relevant.
+
+10:20.940 --> 10:22.740
+ And I think what's happened is,
+
+10:22.740 --> 10:24.900
+ is that people have gone out there
+
+10:24.900 --> 10:27.340
+ and found foods that contain certain substances
+
+10:27.340 --> 10:29.100
+ like carrots and vitamin A
+
+10:29.100 --> 10:31.500
+ or walnuts and particular fatty acids
+
+10:31.500 --> 10:33.920
+ or beets and arginine,
+
+10:33.920 --> 10:36.060
+ and they've selected the foods
+
+10:36.060 --> 10:38.380
+ that happen to be in the shape of the thing,
+
+10:38.380 --> 10:41.380
+ the organ that the particular substance
+
+10:41.380 --> 10:44.420
+ like vitamin A or fatty acids and so forth
+
+10:44.420 --> 10:46.540
+ might benefit or support.
+
+10:46.540 --> 10:49.340
+ But of course, there are many, many other sources
+
+10:49.340 --> 10:53.580
+ of these nutrients that don't come from walnuts
+
+10:53.580 --> 10:56.060
+ or from beets or from carrots.
+
+10:56.060 --> 10:58.620
+ And so I guess the short way to put it
+
+10:58.620 --> 11:02.340
+ is that the idea that the shape of some food
+
+11:02.340 --> 11:04.980
+ is an indication of whether or not that food
+
+11:04.980 --> 11:06.980
+ would be healthy for a particular organ in the body
+
+11:06.980 --> 11:09.580
+ is absolutely unfounded.
+
+11:09.580 --> 11:11.540
+ I don't know of any evidence for it.
+
+11:11.540 --> 11:15.140
+ And I'm not out to quash anybody's great love
+
+11:15.140 --> 11:15.960
+ of these foods.
+
+11:15.960 --> 11:17.980
+ I enjoy all the foods I just described,
+
+11:17.980 --> 11:21.480
+ but the shape of things in the physical universe
+
+11:21.480 --> 11:26.480
+ bears very little, if any, relevance to the nutrients
+
+11:26.480 --> 11:31.480
+ that it contains and therefore the organs that it supports.
+
+11:31.520 --> 11:33.360
+ So thank you for your question.
+
+11:33.360 --> 11:35.380
+ But if you see that out there,
+
+11:35.380 --> 11:38.600
+ I don't even think you need to tell the person
+
+11:38.600 --> 11:40.880
+ who's putting that information out into the world.
+
+11:40.880 --> 11:43.600
+ I would just back away slowly.
+
+11:43.600 --> 11:46.480
+ One other thing before we move into today's material.
+
+11:46.480 --> 11:51.040
+ Last episode, I talked about the problems with emulsifiers
+
+11:51.040 --> 11:52.880
+ in highly processed foods
+
+11:52.880 --> 11:54.080
+ and the way that they can strip
+
+11:54.080 --> 11:55.840
+ the mucosal lining of the gut
+
+11:55.840 --> 11:59.040
+ and they can limit the signaling of hormones like CCK
+
+11:59.040 --> 12:01.140
+ that can signal to the brain satiety,
+
+12:01.140 --> 12:03.260
+ the signal to stop eating.
+
+12:03.260 --> 12:05.360
+ And then we got into a discussion
+
+12:05.360 --> 12:07.480
+ about artificial sweeteners.
+
+12:07.480 --> 12:10.960
+ And I threw out Stevia as an artificial sweetener
+
+12:10.960 --> 12:13.920
+ and several people reached out to correct me
+
+12:13.920 --> 12:17.040
+ that Stevia is not an artificial sweetener.
+
+12:17.040 --> 12:20.000
+ It is a non-caloric sweetener and you are correct.
+
+12:20.000 --> 12:23.920
+ I lumped artificial and non-caloric sweeteners together.
+
+12:23.920 --> 12:27.140
+ And thanks to many of you that also sent me some references,
+
+12:27.140 --> 12:28.780
+ it does not appear that Stevia
+
+12:28.780 --> 12:31.260
+ can negatively impact the gut microbiome.
+
+12:31.260 --> 12:33.920
+ It does seem unique among non-caloric sweeteners.
+
+12:33.920 --> 12:35.880
+ There are probably others out there.
+
+12:35.880 --> 12:37.120
+ The other thing that we discussed
+
+12:37.120 --> 12:42.120
+ is how Stevia can lead to slight increases in blood glucose
+
+12:42.120 --> 12:44.920
+ but can also improve insulin management just slightly,
+
+12:44.920 --> 12:46.320
+ probably cancels to zero
+
+12:46.320 --> 12:48.800
+ in terms of its impact on blood glucose
+
+12:48.800 --> 12:51.160
+ provided it's not at concentrations
+
+12:51.160 --> 12:53.320
+ that are super, super sweet.
+
+12:53.320 --> 12:55.440
+ Ingestion of anything that's very sweet,
+
+12:55.440 --> 12:57.640
+ whether or not it contains calories or not,
+
+12:57.640 --> 13:00.980
+ artificial or not, will create an insulin response.
+
+13:00.980 --> 13:02.680
+ In fact, just walking past a bakery
+
+13:02.680 --> 13:05.200
+ and smelling delicious baked goods
+
+13:05.200 --> 13:08.120
+ can increase your insulin secretion.
+
+13:08.120 --> 13:10.260
+ And so I just want to point that out.
+
+13:10.260 --> 13:12.960
+ Thank you for the information
+
+13:12.960 --> 13:14.220
+ and the references that you found.
+
+13:14.220 --> 13:16.480
+ Please send additional ones if you do find them.
+
+13:16.480 --> 13:19.440
+ And I appreciate that you allow me to make corrections.
+
+13:19.440 --> 13:21.640
+ Every once in a while I misspeak here
+
+13:21.640 --> 13:23.080
+ and the opportunity to make corrections
+
+13:23.080 --> 13:24.740
+ keeps us all on the same page.
+
+13:24.740 --> 13:26.480
+ And please do keep any feedback
+
+13:26.480 --> 13:28.200
+ that you have about particular things
+
+13:28.200 --> 13:29.760
+ I cover here coming my way.
+
+13:30.720 --> 13:33.680
+ There is so much interest in metabolism.
+
+13:33.680 --> 13:36.820
+ We hear about having a high or a low metabolism.
+
+13:37.660 --> 13:38.880
+ There are some people out there
+
+13:38.880 --> 13:41.160
+ who would like to reduce their metabolism.
+
+13:41.160 --> 13:44.280
+ They simply can't eat enough to maintain their weight.
+
+13:44.280 --> 13:47.800
+ Most people, however, struggle with the opposite issue.
+
+13:47.800 --> 13:50.440
+ They struggle to maintain a healthy weight
+
+13:50.440 --> 13:53.060
+ and or their metabolism is too low.
+
+13:53.060 --> 13:54.480
+ Now, there are a variety of reasons
+
+13:54.480 --> 13:56.160
+ why metabolism can be low.
+
+13:56.160 --> 13:59.240
+ Today, we are going to talk about two hormones,
+
+13:59.240 --> 14:02.440
+ thyroid hormone and its related pathways
+
+14:02.440 --> 14:05.760
+ and growth hormone and its related pathways,
+
+14:05.760 --> 14:08.520
+ which arguably are the two hormones
+
+14:08.520 --> 14:12.060
+ and two systems in the body that are most significant
+
+14:12.060 --> 14:15.040
+ for setting your overall level of metabolism.
+
+14:16.180 --> 14:17.240
+ Before we dive into those,
+
+14:17.240 --> 14:20.880
+ I just want to cover a little bit of what metabolism is.
+
+14:20.880 --> 14:23.920
+ And I want to talk about which organs in your body
+
+14:23.920 --> 14:25.360
+ use the most energy.
+
+14:25.360 --> 14:28.480
+ So metabolism is the consumption of energy,
+
+14:28.480 --> 14:29.820
+ not necessarily eating,
+
+14:29.820 --> 14:34.080
+ but it's the use of energy in the cells of the body
+
+14:34.080 --> 14:37.480
+ for growth of tissues, for repair of tissues,
+
+14:37.480 --> 14:41.800
+ and also just for day-to-day maintenance of function.
+
+14:41.800 --> 14:43.420
+ A good example of maintenance of function
+
+14:43.420 --> 14:44.680
+ would be your brain.
+
+14:44.680 --> 14:46.800
+ Most of your metabolic needs,
+
+14:46.800 --> 14:49.920
+ your so-called basal or resting metabolic needs
+
+14:50.920 --> 14:52.800
+ are for your brain, for thinking.
+
+14:52.800 --> 14:54.680
+ If you were to just sit in a bed all day
+
+14:54.680 --> 14:56.800
+ and do nothing but think,
+
+14:56.800 --> 15:01.560
+ that consumes about 75% of your metabolic needs.
+
+15:01.560 --> 15:03.800
+ Now, there's also moving around.
+
+15:03.800 --> 15:07.520
+ If you have a job that requires a lot of heavy labor
+
+15:07.520 --> 15:09.400
+ or lifting things, or you're a new parent
+
+15:09.400 --> 15:10.480
+ and you're carrying kids around
+
+15:10.480 --> 15:11.620
+ and you're going up and down the stairs
+
+15:11.620 --> 15:16.080
+ or back and forth to the refrigerator for formula, et cetera,
+
+15:16.080 --> 15:17.700
+ well, then you're burning more energy,
+
+15:17.700 --> 15:18.760
+ burning more calories.
+
+15:18.760 --> 15:21.400
+ But even if you are very physically active,
+
+15:21.400 --> 15:23.940
+ unless you're an ultra marathoner or a marathoner,
+
+15:23.940 --> 15:27.680
+ chances are that 75% of your metabolic needs
+
+15:27.680 --> 15:29.520
+ are coming just from your brain.
+
+15:29.520 --> 15:32.360
+ And that's because neurons consume a lot of energy.
+
+15:32.360 --> 15:35.220
+ Neurons, of course, are just the nerve cells of your brain.
+
+15:35.220 --> 15:39.640
+ So these two hormones, thyroid hormone and growth hormone,
+
+15:39.640 --> 15:42.880
+ we think of as related to metabolism of things in the body,
+
+15:42.880 --> 15:45.920
+ keeping body fat low and keeping muscles strong
+
+15:45.920 --> 15:48.780
+ and tendons strong and repairing themselves, et cetera.
+
+15:48.780 --> 15:51.980
+ But they are also key for brain function,
+
+15:51.980 --> 15:54.200
+ for the ability to maintain cognitive function
+
+15:54.200 --> 15:55.760
+ throughout the lifespan.
+
+15:55.760 --> 15:58.960
+ So the big theme I'd like to introduce
+
+15:58.960 --> 16:03.360
+ is that metabolism isn't just about losing weight,
+
+16:03.360 --> 16:06.000
+ but having a high metabolism provided it's not too high
+
+16:06.000 --> 16:06.840
+ is great.
+
+16:06.840 --> 16:08.560
+ It means that you will have more lean tissue,
+
+16:08.560 --> 16:12.120
+ more bone and muscle and less adipose tissue, fat.
+
+16:12.120 --> 16:14.080
+ And we know that that's healthy.
+
+16:14.080 --> 16:16.320
+ How much fat and how much muscle?
+
+16:16.320 --> 16:18.040
+ Well, that varies and the numbers on this
+
+16:18.040 --> 16:19.200
+ are always shifting.
+
+16:19.200 --> 16:24.200
+ But in general, muscle and its related tissues
+
+16:25.300 --> 16:28.820
+ burns more energy than does adipose tissue or fat.
+
+16:28.820 --> 16:31.440
+ And the water in your body doesn't consume any energy.
+
+16:31.440 --> 16:34.320
+ So metabolism can be increased simply
+
+16:34.320 --> 16:37.480
+ by adding muscle to your body and reducing fat
+
+16:37.480 --> 16:39.500
+ or adjusting the ratio of the two.
+
+16:39.500 --> 16:41.480
+ But regardless, even if you're not interested
+
+16:41.480 --> 16:43.720
+ in changing body composition,
+
+16:43.720 --> 16:46.160
+ these two hormones, thyroid hormone and growth hormone
+
+16:46.160 --> 16:49.520
+ are super important for metabolism of all kinds,
+
+16:49.520 --> 16:51.860
+ including tissue repair after injury,
+
+16:51.860 --> 16:54.680
+ including maintaining cognitive function and wellbeing
+
+16:54.680 --> 16:56.640
+ and the ability to think clearly as you age,
+
+16:56.640 --> 16:58.680
+ offsetting dementia and so forth.
+
+16:58.680 --> 17:03.680
+ So the big theme here really includes the previous episodes.
+
+17:04.040 --> 17:06.040
+ You don't have to have seen those episodes,
+
+17:06.040 --> 17:09.100
+ but for the last three episodes and today as well,
+
+17:09.100 --> 17:10.440
+ we've been talking about hormones,
+
+17:10.440 --> 17:12.360
+ these substances that are released from one location
+
+17:12.360 --> 17:15.140
+ in the body that go and act other locations in the body.
+
+17:15.140 --> 17:16.280
+ I'm going to tell you how that works
+
+17:16.280 --> 17:17.880
+ for thyroid and growth hormone.
+
+17:17.880 --> 17:20.600
+ But now that you've heard about testosterone and estrogen
+
+17:20.600 --> 17:24.000
+ and you're going to hear about thyroid and growth hormone,
+
+17:24.000 --> 17:29.000
+ I want you to realize that there's a repeating logic.
+
+17:29.320 --> 17:31.520
+ First of all, there are neurons in your brain
+
+17:31.520 --> 17:33.980
+ in an area called the hypothalamus,
+
+17:33.980 --> 17:36.160
+ which it just means it's below the thalamus, hypo.
+
+17:36.160 --> 17:38.000
+ It sits at the base of your brain in the front,
+
+17:38.000 --> 17:39.320
+ it's part of the forebrain.
+
+17:39.320 --> 17:41.160
+ So it's more or less above the roof of your mouth,
+
+17:41.160 --> 17:42.960
+ maybe about a centimeter or so,
+
+17:42.960 --> 17:46.020
+ and then about a centimeter forward in most people.
+
+17:46.020 --> 17:51.020
+ And neurons in the hypothalamus release hormones
+
+17:51.760 --> 17:54.260
+ that are called releasing hormones.
+
+17:54.260 --> 17:58.000
+ So we've talked in previous episodes about, for instance,
+
+17:58.000 --> 18:00.560
+ gonadotropin-releasing hormone.
+
+18:00.560 --> 18:03.160
+ So those are little neurons that then signal
+
+18:03.160 --> 18:05.240
+ another brain area called the pituitary
+
+18:05.240 --> 18:06.860
+ to release other hormones.
+
+18:06.860 --> 18:09.040
+ Today, we're going to see this again.
+
+18:09.040 --> 18:11.800
+ In the brain, you have neurons
+
+18:11.800 --> 18:16.800
+ that release thyrotropin or thyroid-releasing hormone.
+
+18:17.580 --> 18:19.800
+ You also have growth hormone-releasing hormone.
+
+18:19.800 --> 18:21.760
+ So anytime you hear releasing,
+
+18:21.760 --> 18:25.200
+ chances are those are neurons that are in your brain
+
+18:25.200 --> 18:27.200
+ and they extend little wires we call axons
+
+18:27.200 --> 18:28.520
+ into your pituitary,
+
+18:28.520 --> 18:31.380
+ and the pituitary releases a bunch of hormones
+
+18:31.380 --> 18:32.520
+ into the bloodstream,
+
+18:32.520 --> 18:34.380
+ and the pituitary releases things
+
+18:34.380 --> 18:37.540
+ that most often have the name of stimulating hormone
+
+18:37.540 --> 18:39.660
+ because they stimulate organs.
+
+18:39.660 --> 18:42.400
+ So in keeping with the theme of thyroid hormone,
+
+18:42.400 --> 18:45.500
+ you have thyroid-releasing hormone in the brain,
+
+18:45.500 --> 18:49.600
+ tells the pituitary to release thyroid-stimulating hormone,
+
+18:49.600 --> 18:52.540
+ and then the thyroid, which we'll talk about in a moment,
+
+18:52.540 --> 18:54.440
+ releases thyroid hormones.
+
+18:54.440 --> 18:56.960
+ In the testosterone and estrogen episode,
+
+18:56.960 --> 18:57.800
+ we talked about how you have
+
+18:57.800 --> 18:59.500
+ gonadotropin-releasing hormone.
+
+18:59.500 --> 19:01.320
+ There's the releasing again up in the brain.
+
+19:01.320 --> 19:04.060
+ Remember, releasing hormone comes from the brain.
+
+19:04.060 --> 19:06.420
+ Then you had things like luteinizing hormone
+
+19:06.420 --> 19:08.020
+ and follicle-stimulating hormone,
+
+19:08.020 --> 19:09.360
+ which were in the pituitary,
+
+19:09.360 --> 19:11.520
+ and those traveled to the ovaries or the testes
+
+19:11.520 --> 19:13.700
+ and acted on those tissues, okay?
+
+19:13.700 --> 19:16.680
+ So please try and embed this logic.
+
+19:16.680 --> 19:18.500
+ If you hear the word releasing hormone,
+
+19:18.500 --> 19:20.120
+ it's coming from the brain,
+
+19:20.120 --> 19:22.560
+ and that makes it actionable in certain ways
+
+19:22.560 --> 19:24.600
+ that we'll return to later.
+
+19:24.600 --> 19:27.760
+ In addition, the pituitary is letting go
+
+19:27.760 --> 19:29.320
+ of all these hormones into the bloodstream
+
+19:29.320 --> 19:31.480
+ that are stimulating different tissues.
+
+19:31.480 --> 19:34.680
+ So for thyroid, it's thyroid-stimulating hormone,
+
+19:34.680 --> 19:35.860
+ and then it goes to the thyroid,
+
+19:35.860 --> 19:39.160
+ and the thyroid is a little butterfly-shaped gland
+
+19:39.160 --> 19:41.200
+ that's right around the Adam's apple.
+
+19:41.200 --> 19:42.840
+ If you want to see yours,
+
+19:42.840 --> 19:44.760
+ not directly because it's got skin over it,
+
+19:44.760 --> 19:47.080
+ what you would do is you'd take a sip of water,
+
+19:47.080 --> 19:50.080
+ you'd look in the mirror, and you'd swallow.
+
+19:50.080 --> 19:52.320
+ And the thing that moves up and down,
+
+19:52.320 --> 19:54.160
+ that is your thyroid.
+
+19:54.160 --> 19:56.080
+ Now, some people call it your Adam's apple
+
+19:56.080 --> 19:59.800
+ because it sits right near this protrusion in the trachea,
+
+19:59.800 --> 20:01.640
+ which is the Adam's apple.
+
+20:01.640 --> 20:04.320
+ No matter whether or not you're male, female,
+
+20:04.320 --> 20:06.520
+ or regardless of what your chromosomal background is,
+
+20:06.520 --> 20:08.400
+ everyone has an Adam's apple.
+
+20:08.400 --> 20:09.680
+ It tends to be more pronounced,
+
+20:09.680 --> 20:11.480
+ and people, they got a surge of testosterone
+
+20:11.480 --> 20:12.340
+ early in development
+
+20:12.340 --> 20:15.600
+ because it has a testosterone sensitivity to it,
+
+20:15.600 --> 20:17.720
+ and that actually controls the timbre,
+
+20:17.720 --> 20:20.200
+ the so-called deepness of the voice.
+
+20:20.200 --> 20:23.520
+ So the thyroid gland sits right there,
+
+20:23.520 --> 20:25.520
+ and it's got four little bumps behind it
+
+20:25.520 --> 20:26.980
+ called the parathyroid gland,
+
+20:26.980 --> 20:30.440
+ and it releases two hormones into the blood
+
+20:30.440 --> 20:32.760
+ to stimulate different tissues and their metabolism,
+
+20:32.760 --> 20:35.400
+ and those hormones are called T4 and T3.
+
+20:35.400 --> 20:37.720
+ So if this is already sounding like a lot of information,
+
+20:37.720 --> 20:40.020
+ it's really easy, I promise.
+
+20:41.080 --> 20:42.480
+ Releasing hormone comes from the brain,
+
+20:42.480 --> 20:44.560
+ stimulating hormone comes from the pituitary,
+
+20:44.560 --> 20:47.240
+ and in this case, we're talking about the thyroid
+
+20:47.240 --> 20:49.620
+ binding up that stimulating hormone and saying,
+
+20:49.620 --> 20:50.920
+ oh, I need to release something
+
+20:50.920 --> 20:52.900
+ that releases T4 and T3, and guess what?
+
+20:52.900 --> 20:54.920
+ You can basically forget about T4.
+
+20:54.920 --> 20:58.100
+ T4, it's not completely inactive, it has some roles,
+
+20:58.100 --> 21:00.840
+ but T3 is the one that's more or less active.
+
+21:00.840 --> 21:04.000
+ Now, what does thyroid hormone do?
+
+21:04.000 --> 21:06.560
+ A lot of people think, oh, thyroid, it's like metabolism,
+
+21:06.560 --> 21:07.800
+ and people who are hypothyroid
+
+21:07.800 --> 21:09.600
+ all have bulging eyes and are real thin,
+
+21:09.600 --> 21:11.840
+ and people who have hypothyroid are overweight,
+
+21:11.840 --> 21:16.400
+ and their eyes are half closed or something,
+
+21:16.400 --> 21:18.780
+ and indeed, thyroid hormone controls
+
+21:18.780 --> 21:20.840
+ a lot of the features of the face and the eyes,
+
+21:20.840 --> 21:25.120
+ and it can control amounts of adipose tissue and so forth,
+
+21:25.120 --> 21:30.120
+ but the main role of thyroid hormone, of T3,
+
+21:30.120 --> 21:32.840
+ is to promote metabolism,
+
+21:32.840 --> 21:35.920
+ and that doesn't just mean the consumption of energy,
+
+21:35.920 --> 21:37.840
+ it means the utilization of energy,
+
+21:37.840 --> 21:40.240
+ including the buildup of tissues,
+
+21:40.240 --> 21:43.680
+ so it acts on all sorts of target tissues in the body.
+
+21:43.680 --> 21:47.340
+ It acts on muscle, it acts on the liver,
+
+21:47.340 --> 21:51.080
+ it acts on the cartilage, it acts on the bone,
+
+21:51.080 --> 21:53.440
+ and it's not just involved in using energy,
+
+21:53.440 --> 21:55.000
+ it's also converting energy.
+
+21:55.000 --> 21:56.760
+ I do realize I said that twice.
+
+21:56.760 --> 21:58.720
+ It's involved in taking fats
+
+21:58.720 --> 22:00.960
+ and breaking them down into fatty acids
+
+22:00.960 --> 22:03.440
+ and converting those into ATP,
+
+22:03.440 --> 22:07.760
+ which is an important thing for cells to use energy.
+
+22:07.760 --> 22:10.180
+ It's also involved in taking sugars
+
+22:10.180 --> 22:12.120
+ and turning those into energy,
+
+22:12.120 --> 22:15.560
+ and yes, it goes to adipose tissue, to fat.
+
+22:15.560 --> 22:17.460
+ We have different kinds of fat that we'll talk about today,
+
+22:17.460 --> 22:18.520
+ but it goes to white fat,
+
+22:18.520 --> 22:21.920
+ and it liberates or helps liberate some of the fats
+
+22:21.920 --> 22:25.600
+ from those fat cells and use them for energy,
+
+22:25.600 --> 22:26.960
+ and this is why higher thyroid
+
+22:26.960 --> 22:29.360
+ is associated with leaner bodies.
+
+22:29.360 --> 22:33.400
+ Lower thyroid is associated with less lean bodies.
+
+22:33.400 --> 22:37.600
+ So one thing that's absolutely key and is actionable,
+
+22:37.600 --> 22:42.360
+ we're right there already in discussing tools, is iodine.
+
+22:42.360 --> 22:47.280
+ Iodine comes from things in the ocean, right?
+
+22:47.280 --> 22:50.160
+ And here are a couple of interesting facts about iodine,
+
+22:50.160 --> 22:51.000
+ and then we'll talk about
+
+22:51.000 --> 22:54.960
+ whether or not you should be supplementing iodine or not.
+
+22:54.960 --> 22:59.960
+ First of all, iodine is most common in sea salt,
+
+23:01.580 --> 23:04.040
+ in kelp, and in seaweed,
+
+23:04.040 --> 23:06.960
+ and most people can get enough iodine
+
+23:06.960 --> 23:10.720
+ from the food they eat and or the table salt they consume.
+
+23:11.840 --> 23:14.600
+ Almost all table salt from all over the world,
+
+23:14.600 --> 23:17.060
+ regardless of where you are, contains iodine.
+
+23:18.400 --> 23:22.960
+ The thyroid needs iodine in order to produce thyroid hormone
+
+23:22.960 --> 23:24.960
+ and you need sufficient levels of thyroid hormone.
+
+23:24.960 --> 23:27.180
+ Not too much, but you need it.
+
+23:27.180 --> 23:30.540
+ So chances are you are getting enough iodine,
+
+23:30.540 --> 23:32.160
+ although you might not,
+
+23:32.160 --> 23:33.840
+ especially those of you following
+
+23:33.840 --> 23:36.040
+ a particularly quote-unquote clean diet
+
+23:36.040 --> 23:38.320
+ might not be getting enough iodine.
+
+23:38.320 --> 23:39.720
+ Here's the deal with iodine.
+
+23:39.720 --> 23:42.320
+ Iodine combines with an amino acid
+
+23:42.320 --> 23:45.400
+ that we've talked about before called L-tyrosine.
+
+23:45.400 --> 23:47.680
+ L-tyrosine comes from meat, from nuts.
+
+23:47.680 --> 23:49.840
+ There are some plant-based sources as well.
+
+23:49.840 --> 23:52.720
+ It is the precursor to dopamine,
+
+23:52.720 --> 23:57.720
+ but in the thyroid, iodine combines or works with L-tyrosine
+
+23:58.000 --> 24:01.220
+ to produce T3 and T4, the thyroid hormone.
+
+24:01.220 --> 24:04.440
+ So you absolutely need sufficient iodine,
+
+24:04.440 --> 24:06.880
+ you need sufficient L-tyrosine,
+
+24:06.880 --> 24:08.180
+ and then you also need something else
+
+24:08.180 --> 24:09.220
+ which is called selenium,
+
+24:09.220 --> 24:11.740
+ and we'll talk about selenium in a moment.
+
+24:11.740 --> 24:14.080
+ So there's a condition
+
+24:14.080 --> 24:16.440
+ that shows up in little pockets in the world.
+
+24:16.440 --> 24:21.440
+ It's not super common, meaning it's not very widespread,
+
+24:21.440 --> 24:25.020
+ but in certain areas that are far away from the ocean,
+
+24:25.020 --> 24:27.120
+ at one point, this was historically
+
+24:27.120 --> 24:30.000
+ in the Midwestern states of the United States,
+
+24:30.000 --> 24:32.520
+ in some mountain regions of other countries,
+
+24:32.520 --> 24:37.520
+ in some areas of Africa that were far from the ocean,
+
+24:38.160 --> 24:42.260
+ people would get extremely swollen bulges in their necks,
+
+24:42.260 --> 24:44.520
+ and this was called goiter.
+
+24:44.520 --> 24:47.080
+ And the reason they were getting those swollen bulges
+
+24:47.080 --> 24:50.680
+ is because the thyroid itself was hypertrophy,
+
+24:50.680 --> 24:55.680
+ it was growing in an attempt to churn out more thyroid,
+
+24:56.800 --> 25:00.480
+ and because it was getting a lot of stimulating hormone
+
+25:00.480 --> 25:02.000
+ from the pituitary,
+
+25:02.000 --> 25:05.120
+ but, and I don't want to go too far off track here,
+
+25:05.120 --> 25:08.320
+ but as you recall, the brain and the pituitary
+
+25:08.320 --> 25:11.040
+ are paying attention in a cellular sense
+
+25:11.040 --> 25:12.920
+ to the levels of hormones in the blood,
+
+25:12.920 --> 25:14.740
+ and when those hormones get too high,
+
+25:14.740 --> 25:16.280
+ they shut off the stimulating hormone,
+
+25:16.280 --> 25:17.720
+ they shut down the signal to make more,
+
+25:17.720 --> 25:19.000
+ kind of like a thermostat.
+
+25:19.000 --> 25:20.760
+ When the levels are too low,
+
+25:20.760 --> 25:22.880
+ like there's not enough testosterone in the bloodstream,
+
+25:22.880 --> 25:23.980
+ or there's not enough estrogen,
+
+25:23.980 --> 25:26.540
+ the brain will continue to push out the signal
+
+25:26.540 --> 25:28.120
+ to make more.
+
+25:28.120 --> 25:31.640
+ Similarly, if there's not enough thyroid circulating,
+
+25:31.640 --> 25:34.240
+ or there's not enough iodine to make thyroid,
+
+25:34.240 --> 25:36.880
+ therefore not enough thyroid hormone circulating,
+
+25:36.880 --> 25:40.480
+ the thyroid gland itself is not getting shut down,
+
+25:40.480 --> 25:42.800
+ there's tons of stimulating hormone and releasing hormone
+
+25:42.800 --> 25:44.580
+ coming from the brain, like release, release, release,
+
+25:44.580 --> 25:46.400
+ and there's no way they can make thyroid hormone,
+
+25:46.400 --> 25:48.340
+ instead the gland just gets bigger and bigger and bigger,
+
+25:48.340 --> 25:49.880
+ and so people get goiter.
+
+25:49.880 --> 25:54.240
+ This is one of the reasons why table salt has iodine in it,
+
+25:54.240 --> 25:55.200
+ although there are other foods
+
+25:55.200 --> 25:57.420
+ that have iodine in it as well.
+
+25:57.420 --> 26:00.360
+ So how much iodine do you need?
+
+26:00.360 --> 26:02.400
+ Well, you don't need a whole lot.
+
+26:02.400 --> 26:06.140
+ Some people who are hypothyroidal might,
+
+26:06.140 --> 26:07.100
+ and I want to emphasize might,
+
+26:07.100 --> 26:08.760
+ you absolutely should talk to your doctor.
+
+26:08.760 --> 26:09.960
+ This is a serious matter.
+
+26:09.960 --> 26:12.120
+ Anytime you're talking about hormones
+
+26:12.120 --> 26:13.860
+ or manipulating levels of thyroid,
+
+26:13.860 --> 26:15.680
+ you absolutely want to talk to your doctor.
+
+26:15.680 --> 26:18.320
+ Some people benefit from supplementing iodine.
+
+26:18.320 --> 26:19.920
+ It is contained in most salts.
+
+26:19.920 --> 26:23.680
+ It's in Himalayan salt, not always, but often.
+
+26:23.680 --> 26:25.960
+ I know these days there's a lot of excitement
+
+26:25.960 --> 26:27.600
+ about pink salts and sea salts,
+
+26:27.600 --> 26:29.880
+ and the kind of artisan salt thing
+
+26:29.880 --> 26:33.420
+ has kind of taken off in the foodie land, which is great.
+
+26:33.420 --> 26:35.360
+ Some of them are actually quite tasty.
+
+26:35.360 --> 26:39.200
+ You can just take it directly if you like the taste of salt,
+
+26:39.200 --> 26:42.280
+ but iodine can be supplemented through things like kelp
+
+26:42.280 --> 26:43.920
+ and seaweed and kelp tablets.
+
+26:43.920 --> 26:45.960
+ Now, if you are hyperthyroidal,
+
+26:45.960 --> 26:48.760
+ you make too much thyroid, that actually can be a problem.
+
+26:48.760 --> 26:51.280
+ So really the best way to figure this out
+
+26:51.280 --> 26:55.060
+ is to get your blood levels tested of thyroid hormone.
+
+26:55.060 --> 26:58.960
+ But there's so much iodine in the ocean
+
+26:58.960 --> 27:01.520
+ that believe it or not, people that live near the coast
+
+27:01.520 --> 27:03.520
+ can actually just absorb it through the air
+
+27:03.520 --> 27:05.320
+ just by breathing ocean air.
+
+27:05.320 --> 27:08.480
+ So that gives you a sense of just how little iodine
+
+27:08.480 --> 27:10.640
+ you actually need to consume in food or in salt.
+
+27:10.640 --> 27:12.260
+ So if you're within a few miles of the ocean
+
+27:12.260 --> 27:14.600
+ or you visit the ocean from time to time,
+
+27:14.600 --> 27:15.600
+ you're probably getting plenty.
+
+27:15.600 --> 27:17.520
+ It does have to come together, as I mentioned,
+
+27:17.520 --> 27:18.840
+ with L-tyrosine.
+
+27:18.840 --> 27:21.740
+ And this is why foods that contain L-tyrosine
+
+27:22.700 --> 27:25.960
+ and provided that you have sufficient iodine in your diet,
+
+27:26.920 --> 27:30.000
+ and if you have sufficient selenium in your diet,
+
+27:30.000 --> 27:32.600
+ does serve to increase your metabolism.
+
+27:32.600 --> 27:36.880
+ And that is, again, is for the growth and repair of tissues.
+
+27:36.880 --> 27:38.560
+ And that's really important.
+
+27:38.560 --> 27:40.520
+ It's not just about keeping your metabolism high
+
+27:40.520 --> 27:42.920
+ so that you can be on the leaner side of things
+
+27:42.920 --> 27:45.100
+ or adjust your body weight, excuse me,
+
+27:45.100 --> 27:47.760
+ your body composition ratios the way you like.
+
+27:47.760 --> 27:51.040
+ Repair of injuries, repair of brain tissue,
+
+27:51.040 --> 27:52.840
+ clearance of any damage from neurons,
+
+27:52.840 --> 27:55.440
+ clearance of any damage to the body
+
+27:55.440 --> 27:57.160
+ is also going to depend on thyroid.
+
+27:57.160 --> 27:59.840
+ Again, metabolism being this kind of rate
+
+27:59.840 --> 28:02.440
+ of fuel consumption and use in the body generally,
+
+28:02.440 --> 28:05.960
+ not just about body mass indexes and things of that sort.
+
+28:05.960 --> 28:08.800
+ So let's talk about selenium because it's really important.
+
+28:08.800 --> 28:10.760
+ And even though most people are getting a lot
+
+28:10.760 --> 28:12.740
+ of sufficient iodine,
+
+28:13.640 --> 28:17.280
+ and most people are probably getting enough L-tyrosine,
+
+28:17.280 --> 28:21.520
+ I'm guessing most people may not be getting enough selenium
+
+28:21.520 --> 28:23.800
+ if their goal is to increase thyroid hormone,
+
+28:23.800 --> 28:26.060
+ at least that's what the literature says.
+
+28:26.060 --> 28:28.480
+ Without going into the biochemistry,
+
+28:28.480 --> 28:31.920
+ selenium is important in order for thyroid hormone
+
+28:31.920 --> 28:35.960
+ to be made because of the way that it allows L-tyrosine
+
+28:35.960 --> 28:39.480
+ and iodine to interact.
+
+28:39.480 --> 28:44.120
+ And the thing is most people aren't getting enough selenium
+
+28:44.120 --> 28:46.040
+ because they don't eat foods that are high in selenium.
+
+28:46.040 --> 28:47.600
+ Now, how much selenium you need
+
+28:47.600 --> 28:48.880
+ will depend on where you live.
+
+28:48.880 --> 28:50.920
+ It actually varies country by country.
+
+28:50.920 --> 28:54.640
+ Some countries I found say that you should get
+
+28:54.640 --> 28:58.560
+ 100 micrograms, some say 200, some say 155.
+
+28:58.560 --> 29:00.720
+ The average was about 155 micrograms,
+
+29:00.720 --> 29:02.340
+ the countries I looked at.
+
+29:02.340 --> 29:04.740
+ People who are trying to increase thyroid levels
+
+29:04.740 --> 29:06.960
+ might want to consume more selenium.
+
+29:06.960 --> 29:08.520
+ And if you consume a vitamin, of course,
+
+29:08.520 --> 29:11.320
+ you want to make sure if it has selenium
+
+29:11.320 --> 29:12.240
+ that you're not overdoing it
+
+29:12.240 --> 29:15.080
+ by consuming a lot of selenium-rich foods either.
+
+29:15.080 --> 29:17.340
+ But nonetheless, I think it's fair to say
+
+29:17.340 --> 29:19.920
+ that most people probably could do well
+
+29:19.920 --> 29:23.040
+ by ingesting slightly more selenium than they currently are,
+
+29:23.040 --> 29:26.220
+ although, of course, always talk to your doctor.
+
+29:26.220 --> 29:28.760
+ Brazil nuts are the heavyweight champion of foods
+
+29:28.760 --> 29:30.440
+ to get selenium from.
+
+29:30.440 --> 29:32.640
+ It has very high concentrations of selenium.
+
+29:32.640 --> 29:35.600
+ In just six or eight Brazil nuts
+
+29:35.600 --> 29:40.400
+ contain something like 550 micrograms of selenium.
+
+29:40.400 --> 29:42.240
+ It's also present in fish.
+
+29:42.240 --> 29:44.940
+ So certain fish like yellowfin tuna,
+
+29:44.940 --> 29:48.120
+ although nowadays, whenever I mention tuna or shellfish,
+
+29:48.120 --> 29:50.860
+ which is the other rich source of selenium,
+
+29:50.860 --> 29:53.360
+ people will tell me immediately
+
+29:53.360 --> 29:55.200
+ there are all sorts of issues around farm,
+
+29:55.200 --> 29:57.120
+ not farm, mercury, et cetera.
+
+29:57.120 --> 30:00.200
+ So I've never particularly liked eating fish
+
+30:00.200 --> 30:01.600
+ because of the way it tastes.
+
+30:01.600 --> 30:02.760
+ So that's why I avoid it.
+
+30:02.760 --> 30:03.880
+ But for those of you that like it,
+
+30:03.880 --> 30:05.400
+ I'm sure you're much more skilled
+
+30:05.400 --> 30:07.200
+ in knowing which fish to buy
+
+30:07.200 --> 30:08.600
+ and which fish not to buy.
+
+30:08.600 --> 30:12.800
+ Ham, of all things, contains a lot of selenium.
+
+30:12.800 --> 30:14.480
+ For whatever reason, pork does.
+
+30:14.480 --> 30:16.240
+ I'm not a big consumer of pork.
+
+30:16.240 --> 30:17.840
+ Beef has some selenium.
+
+30:17.840 --> 30:20.280
+ But what's interesting, if you look at the sources,
+
+30:20.280 --> 30:23.160
+ pork, beef, turkey, chicken, cottage cheese,
+
+30:23.160 --> 30:28.000
+ eggs, brown rice, what you want to understand
+
+30:28.000 --> 30:30.100
+ is that Brazil nuts, six to eight Brazil nuts,
+
+30:30.100 --> 30:33.940
+ has 550 micrograms of selenium,
+
+30:33.940 --> 30:36.080
+ and all the other foods I mentioned
+
+30:36.080 --> 30:37.680
+ at much greater portion size
+
+30:37.680 --> 30:40.740
+ than equivalent to six to eight Brazil nuts,
+
+30:40.740 --> 30:43.640
+ either by volume or by calories,
+
+30:43.640 --> 30:47.520
+ they have something like 30 to 50 micrograms of selenium.
+
+30:47.520 --> 30:48.840
+ So if you're not eating Brazil nuts,
+
+30:48.840 --> 30:51.400
+ and I'm guessing most people aren't,
+
+30:51.400 --> 30:54.120
+ and you're not eating a lot of animal-based foods,
+
+30:54.120 --> 30:55.720
+ which I know many of you aren't,
+
+30:55.720 --> 30:58.880
+ then you're probably not getting enough selenium.
+
+30:58.880 --> 31:01.320
+ And again, you can have these levels measured,
+
+31:01.320 --> 31:03.640
+ or you can just check what you're consuming
+
+31:03.640 --> 31:06.360
+ and figure out whether or not you're meeting the ration
+
+31:06.360 --> 31:09.840
+ that you need in order to get healthy levels of thyroid.
+
+31:09.840 --> 31:12.280
+ It is present in things like mushrooms,
+
+31:12.280 --> 31:14.880
+ but again, in a bowl of mushrooms,
+
+31:15.840 --> 31:17.920
+ what is the equivalent to a bowl of mushrooms?
+
+31:17.920 --> 31:19.560
+ 12 micrograms of selenium.
+
+31:19.560 --> 31:21.160
+ And if the daily ration is something
+
+31:21.160 --> 31:23.480
+ in the 100 to 200 range,
+
+31:23.480 --> 31:25.160
+ again, look it up for the area you are,
+
+31:25.160 --> 31:27.200
+ you can see really quickly why,
+
+31:27.200 --> 31:29.200
+ even though things like mushrooms and spinach
+
+31:29.200 --> 31:31.040
+ and milk and yogurt and lentils and cashews,
+
+31:31.040 --> 31:33.360
+ so now we're into the vegetarian segment
+
+31:33.360 --> 31:35.000
+ in the list that I constructed,
+
+31:35.000 --> 31:36.720
+ you're probably not getting enough selenium.
+
+31:36.720 --> 31:38.920
+ So it's kind of an interesting thing
+
+31:38.920 --> 31:40.360
+ if you're an experimenter
+
+31:40.360 --> 31:42.120
+ and you get the clearance from your doctor,
+
+31:42.120 --> 31:43.920
+ you could try increasing your selenium levels
+
+31:43.920 --> 31:46.080
+ and see how that impacts your metabolism.
+
+31:46.080 --> 31:48.320
+ Again, Brazil nuts are probably going to be
+
+31:48.320 --> 31:52.000
+ the most direct way to get sufficient selenium levels,
+
+31:52.000 --> 31:54.160
+ but because levels are so high in Brazil nuts,
+
+31:54.160 --> 31:56.680
+ it also means that you could overdo it as well.
+
+31:56.680 --> 32:00.660
+ I'm not really aware of what the consequences are
+
+32:00.660 --> 32:03.280
+ of getting too much selenium,
+
+32:03.280 --> 32:04.960
+ although you can get too much of anything
+
+32:04.960 --> 32:07.440
+ and I'm guessing those consequences aren't good.
+
+32:07.440 --> 32:10.600
+ I also want to mention that for children,
+
+32:10.600 --> 32:13.680
+ their daily requirements of selenium are much lower,
+
+32:13.680 --> 32:18.680
+ as low as 30 or 40 micrograms for kids 14 years or younger.
+
+32:18.960 --> 32:21.960
+ And in some areas, I really want to underscore this,
+
+32:21.960 --> 32:25.100
+ the amount of selenium that's recommended daily
+
+32:25.100 --> 32:28.040
+ is as low as 55 micrograms.
+
+32:28.040 --> 32:30.980
+ So it's not that you should be shooting for thousands
+
+32:30.980 --> 32:34.760
+ or even high levels of hundreds of micrograms of selenium.
+
+32:34.760 --> 32:37.280
+ And again, that's micrograms, not milligrams.
+
+32:37.280 --> 32:38.600
+ So again, look into what you need,
+
+32:38.600 --> 32:40.700
+ but if you're somebody who's interested
+
+32:40.700 --> 32:45.700
+ in keeping thyroid function healthy and productive,
+
+32:45.700 --> 32:47.760
+ then you certainly want to make sure
+
+32:47.760 --> 32:48.920
+ you're getting enough iodine,
+
+32:48.920 --> 32:50.760
+ you're getting enough selenium
+
+32:50.760 --> 32:52.600
+ and you're getting enough l-tyrosine.
+
+32:52.600 --> 32:54.060
+ And it's interesting when you start looking
+
+32:54.060 --> 32:56.920
+ at the various foods, especially highly processed foods,
+
+32:56.920 --> 32:59.800
+ then you start to realize that perhaps many people,
+
+32:59.800 --> 33:01.520
+ maybe you, are not.
+
+33:01.520 --> 33:05.800
+ Not incidentally, selenium has some other effects on health
+
+33:05.800 --> 33:07.400
+ that can be quite positive.
+
+33:07.400 --> 33:08.520
+ And even though these don't relate
+
+33:08.520 --> 33:11.360
+ to thyroid or growth hormone function specifically,
+
+33:11.360 --> 33:13.280
+ I think you might want to know about them
+
+33:13.280 --> 33:15.360
+ given that we're on the topic of selenium.
+
+33:15.360 --> 33:17.640
+ The first is that there are three studies,
+
+33:17.640 --> 33:21.360
+ all of which showed very high efficacy
+
+33:21.360 --> 33:26.360
+ for reducing the risk of something called preeclampsia.
+
+33:27.800 --> 33:30.800
+ Preeclampsia is seizures that are related
+
+33:30.800 --> 33:32.040
+ to blood pressure issues
+
+33:32.040 --> 33:36.200
+ during or around the delivery of a new baby.
+
+33:36.200 --> 33:38.840
+ And it actually, it's a rare-ish condition,
+
+33:38.840 --> 33:41.360
+ but it actually can be quite deadly.
+
+33:41.360 --> 33:44.840
+ And so the fact that selenium is important
+
+33:44.840 --> 33:47.800
+ for offsetting preeclampsia risk is interesting.
+
+33:47.800 --> 33:49.440
+ I don't know the exact mechanism,
+
+33:49.440 --> 33:51.460
+ and I'm guessing there are only a few of you out there
+
+33:51.460 --> 33:55.160
+ that are either pregnant or thinking of conceiving soon,
+
+33:55.160 --> 33:56.440
+ but that's worth noting.
+
+33:56.440 --> 33:59.560
+ Obviously, anything related to pregnancy or lactation,
+
+33:59.560 --> 34:02.040
+ especially talk to your doctor.
+
+34:02.040 --> 34:03.160
+ I'm guessing that selenium
+
+34:03.160 --> 34:05.540
+ is probably in a lot of prenatal formulas,
+
+34:05.540 --> 34:10.540
+ but that's one clear benefit of having sufficient selenium.
+
+34:10.540 --> 34:13.140
+ The other is a reduced prostate cancer risk.
+
+34:13.140 --> 34:16.120
+ There's a study showing that having sufficient selenium
+
+34:16.120 --> 34:18.200
+ can reduce prostate cancer risk.
+
+34:18.200 --> 34:22.520
+ And there is some evidence that if you consume foods
+
+34:22.520 --> 34:25.420
+ from areas with soil that's low in selenium,
+
+34:25.420 --> 34:26.760
+ that can be a problem.
+
+34:26.760 --> 34:28.860
+ And last episode, we talked about all these issues
+
+34:28.860 --> 34:31.960
+ related to soil quality,
+
+34:31.960 --> 34:33.320
+ things that are making their way into food
+
+34:33.320 --> 34:36.020
+ that are disrupting hormones and so forth.
+
+34:36.960 --> 34:40.260
+ But having sufficient selenium from food
+
+34:40.260 --> 34:43.600
+ could offset the low content in any soil.
+
+34:43.600 --> 34:46.800
+ And so that apparently can reduce prostate cancer risk.
+
+34:46.800 --> 34:49.320
+ It's a minor effect, but it's a statistically
+
+34:49.320 --> 34:50.160
+ significant one.
+
+34:50.160 --> 34:52.440
+ And the other one is a reduction in acne,
+
+34:52.440 --> 34:53.280
+ which is interesting.
+
+34:53.280 --> 34:55.680
+ I'm guessing that that probably has to do
+
+34:55.680 --> 34:57.220
+ with the thyroid hormone pathway
+
+34:57.220 --> 35:01.080
+ because of the way thyroid hormone can impact the liver.
+
+35:01.080 --> 35:02.880
+ And it turns out that the liver
+
+35:02.880 --> 35:07.000
+ and various biochemical reactions in the liver
+
+35:07.000 --> 35:08.380
+ can impact acne.
+
+35:08.380 --> 35:10.720
+ And that's probably an episode all into itself,
+
+35:10.720 --> 35:13.080
+ but those are just some additional benefits
+
+35:13.080 --> 35:15.160
+ of getting sufficient selenium.
+
+35:15.160 --> 35:17.040
+ Okay, so we're already deep into tools
+
+35:17.040 --> 35:20.040
+ related to making sure that you have sufficient
+
+35:20.040 --> 35:23.040
+ selenium, iodine, and L-tyrosine
+
+35:23.040 --> 35:25.400
+ in order to make enough thyroid hormones
+
+35:25.400 --> 35:28.620
+ that can support your metabolic processes
+
+35:28.620 --> 35:30.460
+ in your liver, your muscles, your tendons,
+
+35:30.460 --> 35:31.320
+ for whatever purpose,
+
+35:31.320 --> 35:35.160
+ keeping your metabolism high for body composition reasons,
+
+35:35.160 --> 35:39.780
+ or for healing, for keeping your brain working well.
+
+35:39.780 --> 35:42.540
+ Earlier, I mentioned there are people
+
+35:42.540 --> 35:44.680
+ who are following very clean diets.
+
+35:44.680 --> 35:47.640
+ So these are people that consume no processed foods.
+
+35:47.640 --> 35:49.720
+ Any starch they might eat is going to be
+
+35:49.720 --> 35:51.280
+ maybe a rice or a grain,
+
+35:51.280 --> 35:54.880
+ or any protein they might consume
+
+35:54.880 --> 35:56.420
+ is going to be either from,
+
+35:56.420 --> 35:59.980
+ let's hope from humanely raised animal sources,
+
+35:59.980 --> 36:02.460
+ or maybe they're pure plant-based.
+
+36:02.460 --> 36:03.300
+ Believe it or not,
+
+36:03.300 --> 36:08.300
+ those folks are actually very susceptible to low iodine
+
+36:08.900 --> 36:13.720
+ because it turns out that diets that are very meat rich
+
+36:13.720 --> 36:15.300
+ and don't have many vegetables,
+
+36:15.300 --> 36:18.120
+ as well as diets that are very vegetable rich,
+
+36:18.120 --> 36:21.100
+ but don't have many meats or salts,
+
+36:22.460 --> 36:25.300
+ are at risk of lowering thyroid hormone
+
+36:25.300 --> 36:27.900
+ by way of the iodine pathway and other pathways.
+
+36:27.900 --> 36:30.700
+ And so let me try and simplify this for you.
+
+36:30.700 --> 36:32.760
+ Chances are if people are doing the all meat diet,
+
+36:32.760 --> 36:33.720
+ they're not sprinkling,
+
+36:33.720 --> 36:36.540
+ they're not wrapping those steaks in seaweed,
+
+36:36.540 --> 36:40.220
+ and they may or may not be supplementing with iodine.
+
+36:40.220 --> 36:43.000
+ Chances are they're probably consuming iodine salt,
+
+36:43.000 --> 36:45.400
+ but their requirements go up
+
+36:45.400 --> 36:46.840
+ if they're not consuming vegetables.
+
+36:46.840 --> 36:48.600
+ People who are consuming vegetables,
+
+36:48.600 --> 36:49.440
+ it's kind of interesting,
+
+36:49.440 --> 36:50.560
+ we always hear that we should have
+
+36:50.560 --> 36:52.480
+ our cruciferous vegetables,
+
+36:52.480 --> 36:53.700
+ and those are so important,
+
+36:53.700 --> 36:56.040
+ but they're actually substances,
+
+36:56.040 --> 37:00.760
+ compounds within high quality cruciferous vegetables
+
+37:00.760 --> 37:03.660
+ that can interfere with thyroid hormone function.
+
+37:03.660 --> 37:05.960
+ So if you're eating a lot of that stuff,
+
+37:05.960 --> 37:08.640
+ a lot of cabbages and just look up your other,
+
+37:08.640 --> 37:10.600
+ I think broccoli is a cruciferous vegetable,
+
+37:10.600 --> 37:11.920
+ and I won't read off the whole list,
+
+37:11.920 --> 37:13.860
+ you could just put into the internet.
+
+37:13.860 --> 37:14.860
+ But if you're, you know,
+
+37:14.860 --> 37:16.100
+ we're always told to eat a lot
+
+37:16.100 --> 37:18.540
+ of the dark leafy green stuff.
+
+37:18.540 --> 37:23.540
+ Well, unless that dark leafy green stuff is kelp or seaweed,
+
+37:23.560 --> 37:26.920
+ chances are that we're not getting enough iodine
+
+37:26.920 --> 37:29.360
+ unless we're adding salt to our food,
+
+37:29.360 --> 37:31.800
+ and chances are that we may be lowering
+
+37:31.800 --> 37:33.920
+ the total amount of thyroid that we're making,
+
+37:33.920 --> 37:37.920
+ as well as the fact that in plant-rich diets,
+
+37:37.920 --> 37:39.680
+ it's hard to get enough L-tyrosine.
+
+37:39.680 --> 37:42.240
+ And I don't want, you know, I'm not here to inflame
+
+37:42.240 --> 37:45.020
+ any of the vegans or the carnivore folks.
+
+37:45.020 --> 37:47.360
+ I don't take a stance either way on any of that.
+
+37:47.360 --> 37:49.960
+ I'm just learning, trying to report the science.
+
+37:49.960 --> 37:52.720
+ The point I want to make is your health is important.
+
+37:52.720 --> 37:54.680
+ So if you are purely plant-based
+
+37:54.680 --> 37:56.400
+ and you're eating a lot of cruciferous vegetables,
+
+37:56.400 --> 37:58.200
+ make sure you're getting enough iodine.
+
+37:58.200 --> 38:00.360
+ It does seem like the cruciferous vegetables
+
+38:00.360 --> 38:03.480
+ can increase the need for further iodine.
+
+38:03.480 --> 38:05.240
+ And same thing if you're purely,
+
+38:05.240 --> 38:07.640
+ and you're on this all meat diet or your keto,
+
+38:07.640 --> 38:09.960
+ and you're not ingesting many vegetables.
+
+38:09.960 --> 38:13.080
+ So I always thought that the cleaner the diet, the better,
+
+38:13.080 --> 38:15.000
+ but it turns, and probably that's true
+
+38:15.000 --> 38:19.080
+ from the standpoint of, you know, hormone regulation,
+
+38:19.080 --> 38:22.680
+ you know, estrogen and testosterone and other hormones,
+
+38:22.680 --> 38:25.460
+ the highly processed foods really are terrible.
+
+38:25.460 --> 38:27.040
+ There's so much evidence for that.
+
+38:27.040 --> 38:30.720
+ The phthalates in plastics and the processed foods
+
+38:30.720 --> 38:31.640
+ and the emulsifiers,
+
+38:31.640 --> 38:33.840
+ all the stuff we talked about previous episode,
+
+38:33.840 --> 38:38.240
+ but it does seem to be that people that are not getting
+
+38:38.240 --> 38:40.160
+ enough iodine for whatever reason,
+
+38:40.160 --> 38:43.220
+ really need to check out whether or not
+
+38:43.220 --> 38:45.440
+ their iodine levels need to be increased
+
+38:45.440 --> 38:48.200
+ because of the fact that they are consuming so many plants
+
+38:48.200 --> 38:50.500
+ or so many meats, and in some cases,
+
+38:50.500 --> 38:52.720
+ plants that actually lower thyroid hormone.
+
+38:52.720 --> 38:55.440
+ And not to beat a dead horse or cabbage,
+
+38:55.440 --> 38:58.460
+ but there are a number of things that iodine can do
+
+38:58.460 --> 39:00.960
+ that are positive, that are sort of,
+
+39:00.960 --> 39:03.140
+ they're related to thyroid, not directly.
+
+39:03.140 --> 39:05.560
+ They're kind of offshoots of the thyroid pathway.
+
+39:05.560 --> 39:07.960
+ They're downstream of it, we would say,
+
+39:07.960 --> 39:10.360
+ in terms of how they impact metabolic function.
+
+39:10.360 --> 39:12.480
+ One of those is to reduce something called
+
+39:12.480 --> 39:13.880
+ C-reactive protein.
+
+39:13.880 --> 39:16.920
+ Some of you may have heard of CRP or C-reactive protein.
+
+39:16.920 --> 39:18.960
+ C-reactive protein is something that you want to keep
+
+39:18.960 --> 39:20.880
+ at modestly low levels.
+
+39:20.880 --> 39:22.360
+ It's associated with inflammation
+
+39:22.360 --> 39:23.840
+ and various forms of heart disease
+
+39:23.840 --> 39:26.580
+ and even eye disease, macular degeneration.
+
+39:26.580 --> 39:30.060
+ So it does appear that iodine supplementation
+
+39:30.060 --> 39:32.240
+ or getting sufficient iodine from food,
+
+39:32.240 --> 39:37.240
+ either works, is associated with reduced levels
+
+39:38.060 --> 39:40.060
+ of C-reactive protein in the blood
+
+39:40.060 --> 39:41.580
+ and an anti-inflammatory effect.
+
+39:41.580 --> 39:43.960
+ And the anti-inflammatory effect brings us back
+
+39:43.960 --> 39:45.760
+ to our old friend interleukin-6.
+
+39:45.760 --> 39:48.440
+ Remember, there are these inflammatory cytokines.
+
+39:48.440 --> 39:50.140
+ They have many, many names
+
+39:50.140 --> 39:52.000
+ because there are many, many of them.
+
+39:52.000 --> 39:55.280
+ Interleukin-10 is the one that's anti-inflammatory.
+
+39:55.280 --> 39:58.280
+ Interleukin-6 is the one that's inflammatory.
+
+39:58.280 --> 40:01.480
+ Anytime you see IL-6, that usually means
+
+40:01.480 --> 40:04.660
+ that there's an inflammatory response, there's a wound,
+
+40:04.660 --> 40:06.280
+ there's inflammation of the brain,
+
+40:06.280 --> 40:09.120
+ somebody is either sleep deprived or had a brain injury,
+
+40:09.120 --> 40:11.960
+ or they're dealing with some sort of infection,
+
+40:11.960 --> 40:15.080
+ IL-6 is kind of a catchall for inflammation.
+
+40:15.080 --> 40:18.040
+ And it does appear that iodine supplementation
+
+40:18.040 --> 40:22.100
+ can reduce circulating IL-6 associated with inflammation.
+
+40:22.100 --> 40:24.520
+ So in that sense, iodine can have
+
+40:24.520 --> 40:26.280
+ an anti-inflammatory effect.
+
+40:26.280 --> 40:29.640
+ So by now, it should be abundantly clear
+
+40:29.640 --> 40:31.200
+ if you care about thyroid hormone,
+
+40:31.200 --> 40:33.920
+ if you care about the pathways that it impacts,
+
+40:33.920 --> 40:36.480
+ like having a high level of metabolism,
+
+40:36.480 --> 40:39.280
+ which I guess if for no other reason is attractive,
+
+40:39.280 --> 40:40.560
+ because then you can eat more
+
+40:40.560 --> 40:43.740
+ and still maintain a healthy body composition,
+
+40:43.740 --> 40:48.580
+ but also for brain health, cognitive function, tissue repair,
+
+40:48.580 --> 40:50.740
+ all that stuff, keeping C-reactive protein low,
+
+40:50.740 --> 40:53.440
+ keeping IL-6 low, make sure you're getting enough iodine,
+
+40:53.440 --> 40:55.200
+ selenium, and L-tyrosine.
+
+40:55.200 --> 40:58.520
+ If you're curious how thyroid actually increases metabolism,
+
+40:58.520 --> 40:59.880
+ allows you to eat more, et cetera,
+
+40:59.880 --> 41:02.160
+ it relates to something we covered last issue,
+
+41:02.160 --> 41:03.640
+ which is glucose.
+
+41:03.640 --> 41:05.840
+ Remember, when you eat something, blood sugar goes up,
+
+41:05.840 --> 41:08.320
+ insulin is secreted from the pancreas,
+
+41:08.320 --> 41:10.440
+ and it makes sure that blood glucose doesn't go too high,
+
+41:10.440 --> 41:12.440
+ which can damage tissues, or too low,
+
+41:12.440 --> 41:14.100
+ which can make you hypoglycemic.
+
+41:15.140 --> 41:19.060
+ Thyroid increases glucose uptake by various tissues,
+
+41:19.060 --> 41:21.320
+ in particular muscle and bone.
+
+41:21.320 --> 41:23.680
+ It actually can increase bone mineral density,
+
+41:23.680 --> 41:26.000
+ which is a really good thing as you get older.
+
+41:26.000 --> 41:29.660
+ Injuries, when I say older, I mean basically 30 and older,
+
+41:29.660 --> 41:32.800
+ the reason you can recover more quickly from injuries
+
+41:32.800 --> 41:36.280
+ if you have a healthy thyroid and healthy thyroid pathways
+
+41:36.280 --> 41:38.700
+ is because you can consume energy,
+
+41:38.700 --> 41:41.780
+ that energy is diverted toward bone repair,
+
+41:41.780 --> 41:43.880
+ and muscle repair, and cartilage repair.
+
+41:43.880 --> 41:47.760
+ And so the way it does this again is by increasing ATP,
+
+41:47.760 --> 41:52.760
+ but the whole idea here is that iodine, selenium,
+
+41:52.920 --> 41:55.400
+ L-tyrosine allow thyroid to be at healthy levels
+
+41:55.400 --> 41:58.720
+ so that thyroid then can take glucose in the blood
+
+41:58.720 --> 42:01.280
+ and divert it to tissues for it to be used,
+
+42:01.280 --> 42:02.540
+ in particular your brain,
+
+42:02.540 --> 42:05.360
+ and that's why these things that we're talking about
+
+42:05.360 --> 42:07.720
+ supplementing or getting from food
+
+42:07.720 --> 42:10.900
+ can actually improve or support brain function.
+
+42:10.900 --> 42:11.920
+ People are always asking me,
+
+42:11.920 --> 42:14.820
+ what is the food that I should eat for my brain?
+
+42:14.820 --> 42:16.440
+ Like, are blueberries good for your brain?
+
+42:16.440 --> 42:18.820
+ Or they do ask me, are walnuts good for your brain
+
+42:18.820 --> 42:20.200
+ because it looks like a brain?
+
+42:20.200 --> 42:21.540
+ We talked about that earlier.
+
+42:21.540 --> 42:24.200
+ The fact of the matter is that what you need
+
+42:24.200 --> 42:27.820
+ are nutrients that support hormones and biological pathways
+
+42:27.820 --> 42:28.720
+ that support the brain.
+
+42:28.720 --> 42:29.920
+ That's the way to think about it.
+
+42:29.920 --> 42:31.180
+ And I realize when people ask,
+
+42:31.180 --> 42:32.640
+ what should I eat to support my brain?
+
+42:32.640 --> 42:35.720
+ That's basically what they're asking in short form.
+
+42:35.720 --> 42:38.980
+ So keeping your thyroid hormone healthy,
+
+42:38.980 --> 42:40.680
+ at healthy levels that is,
+
+42:40.680 --> 42:42.480
+ is going to be terrific for your brain
+
+42:42.480 --> 42:45.660
+ because 75% of your metabolism is from your brain.
+
+42:45.660 --> 42:48.220
+ The ability of your brain to use glucose or ketones
+
+42:48.220 --> 42:50.040
+ for that matter is going to be aided
+
+42:50.040 --> 42:52.200
+ by having healthy thyroid.
+
+42:52.200 --> 42:54.480
+ So do the things, take the things,
+
+42:54.480 --> 42:56.360
+ eat the things that are going to allow you
+
+42:56.360 --> 42:58.980
+ to have healthy levels of thyroid hormone.
+
+42:58.980 --> 43:00.800
+ I'm sure a number of you are out there wondering,
+
+43:00.800 --> 43:03.280
+ do I have healthy levels of thyroid hormone?
+
+43:03.280 --> 43:04.840
+ Those can be measured from the blood.
+
+43:04.840 --> 43:08.520
+ There's some telltale signs of having really high thyroid
+
+43:08.520 --> 43:10.160
+ or really low thyroid.
+
+43:10.160 --> 43:11.560
+ And I could start listing those off.
+
+43:11.560 --> 43:13.560
+ They're easy to find online as well.
+
+43:13.560 --> 43:17.320
+ Things like bulging eyes, inability to maintain weight,
+
+43:17.320 --> 43:20.620
+ shaky, anxiety, that's kind of hyperthyroidal,
+
+43:20.620 --> 43:22.520
+ thinning of hair, this kind of thing.
+
+43:22.520 --> 43:26.720
+ I don't want to get into diagnosing hypothyroidism
+
+43:26.720 --> 43:27.840
+ and hyperthyroidism.
+
+43:27.840 --> 43:30.300
+ It's just impossible because you're there and I'm here
+
+43:30.300 --> 43:31.540
+ and we're kind of shouting back and forth
+
+43:31.540 --> 43:34.400
+ through a tunnel of video and comments.
+
+43:34.400 --> 43:37.140
+ If you're concerned about having excessively high
+
+43:37.140 --> 43:39.600
+ or excessively low levels of thyroid hormone,
+
+43:39.600 --> 43:41.980
+ absolutely look up what the symptoms are,
+
+43:41.980 --> 43:43.880
+ talk to your physician.
+
+43:43.880 --> 43:45.580
+ And there are a number of good treatments.
+
+43:45.580 --> 43:47.360
+ I didn't talk about prescription drugs
+
+43:47.360 --> 43:51.740
+ that can improve symptoms related to hypo or hyperthyroid.
+
+43:51.740 --> 43:55.180
+ Of course, they have synthesized thyroid.
+
+43:55.180 --> 43:57.700
+ So if you don't make enough thyroid, you can take thyroid.
+
+43:57.700 --> 43:59.140
+ It's by prescription.
+
+43:59.140 --> 44:01.180
+ If you have too much thyroid,
+
+44:01.180 --> 44:03.640
+ sometimes they'll take out the thyroid gland
+
+44:03.640 --> 44:05.580
+ or they can administer drugs
+
+44:05.580 --> 44:07.900
+ that will either block receptors
+
+44:07.900 --> 44:10.120
+ or will interfere with some of the pathways
+
+44:10.120 --> 44:12.100
+ from the brain to the pituitary
+
+44:12.100 --> 44:13.980
+ or from the pituitary to the thyroid
+
+44:13.980 --> 44:16.740
+ in order to adjust thyroid hormone that way.
+
+44:16.740 --> 44:21.100
+ So there are the big guns in terms of the treatments
+
+44:21.100 --> 44:23.100
+ for different thyroid disorders,
+
+44:23.100 --> 44:25.020
+ but we're not talking about thyroid disorders.
+
+44:25.020 --> 44:26.540
+ We're talking about how to get
+
+44:26.540 --> 44:29.340
+ and maintain thyroid levels in healthy ranges
+
+44:29.340 --> 44:31.300
+ and some straightforward ways to do that
+
+44:31.300 --> 44:33.740
+ through diet and supplementation.
+
+44:33.740 --> 44:35.140
+ There's also a lot of evidence
+
+44:35.140 --> 44:36.460
+ that for people who menstruate,
+
+44:36.460 --> 44:38.940
+ levels of thyroid hormone can fluctuate dramatically
+
+44:38.940 --> 44:40.540
+ across the menstrual cycle.
+
+44:40.540 --> 44:43.820
+ So that's really going to be a process of experimentation.
+
+44:43.820 --> 44:47.460
+ I don't know that you could, in theory,
+
+44:47.460 --> 44:50.280
+ take blood at different phases of your cycle
+
+44:50.280 --> 44:52.080
+ and figure out whether or not your thyroid hormone
+
+44:52.080 --> 44:53.240
+ was excessively high or low
+
+44:53.240 --> 44:54.660
+ at different phases of the cycle.
+
+44:54.660 --> 44:56.520
+ That's going to be pretty tough to do
+
+44:56.520 --> 44:57.940
+ if you have an endocrinologist
+
+44:57.940 --> 45:00.380
+ that's willing to do that with you, terrific.
+
+45:00.380 --> 45:02.700
+ I think most people are going to have to figure out
+
+45:02.700 --> 45:04.620
+ how supplementing the sorts of things
+
+45:04.620 --> 45:07.100
+ that we talked about before or getting them from foods
+
+45:07.100 --> 45:09.340
+ relates to different aspects of their cycle.
+
+45:09.340 --> 45:12.260
+ In general, the first half of the cycle before ovulation,
+
+45:12.260 --> 45:15.620
+ people create carbohydrates and sweets more related to the,
+
+45:15.620 --> 45:17.460
+ and that makes total sense
+
+45:17.460 --> 45:20.340
+ based on the biology of the menstrual cycle.
+
+45:20.340 --> 45:23.760
+ Thyroid hormone is going to go up as you,
+
+45:23.760 --> 45:26.820
+ as anyone, male or female, menstruating or not,
+
+45:26.820 --> 45:29.520
+ increases more starchy carbohydrates.
+
+45:29.520 --> 45:32.340
+ This is interesting because ketogenic diets
+
+45:32.340 --> 45:34.620
+ have been shown to slightly lower thyroid levels.
+
+45:34.620 --> 45:37.940
+ And that makes sense because in ketogenic diets,
+
+45:37.940 --> 45:40.180
+ blood glucose levels are very low
+
+45:40.180 --> 45:43.900
+ and thyroid hormone is secreted in large part
+
+45:43.900 --> 45:48.060
+ in proportion to how much glucose is in the bloodstream
+
+45:48.060 --> 45:51.760
+ and how much that glucose needs to be regulated.
+
+45:51.760 --> 45:54.020
+ So I'm not trying to demonize the ketogenic diet.
+
+45:54.020 --> 45:56.380
+ I think it definitely has its place.
+
+45:56.380 --> 45:58.980
+ There are 22 studies now showing
+
+45:58.980 --> 46:01.900
+ that it can dramatically reduce blood glucose.
+
+46:01.900 --> 46:03.700
+ And about a third of those show
+
+46:03.700 --> 46:07.100
+ that thyroid hormone levels are slightly reduced,
+
+46:07.100 --> 46:10.800
+ sometimes significantly, if not more,
+
+46:10.800 --> 46:12.500
+ in the ketogenic diet.
+
+46:12.500 --> 46:14.980
+ That may explain, I want to highlight,
+
+46:14.980 --> 46:17.820
+ may explain the fact that when people go back
+
+46:17.820 --> 46:19.280
+ to a more traditional diet,
+
+46:19.280 --> 46:22.660
+ if they've been on a ketogenic diet for a long time,
+
+46:22.660 --> 46:25.960
+ that oftentimes they will gain weight very quickly
+
+46:25.960 --> 46:28.600
+ as they bring carbohydrates back into their diet.
+
+46:28.600 --> 46:31.220
+ Some people are cycling between ketogenic and non-ketogenic
+
+46:31.220 --> 46:33.500
+ every three, four days, so-called cyclic ketogenic diet.
+
+46:33.500 --> 46:35.780
+ Some people are staying ketogenic for long periods of time.
+
+46:35.780 --> 46:37.420
+ Some people, six days on, one day off.
+
+46:37.420 --> 46:39.700
+ So there's a huge variation there.
+
+46:39.700 --> 46:43.340
+ The point is that carbohydrates, starchy carbohydrates
+
+46:43.340 --> 46:45.820
+ in particular, support the healthy production
+
+46:45.820 --> 46:47.500
+ of T3 and T4.
+
+46:47.500 --> 46:50.500
+ And so if you're very low carbohydrate,
+
+46:50.500 --> 46:53.220
+ you're going to have a reduction in T3 and T4.
+
+46:53.220 --> 46:55.180
+ And so if you're going to bring carbohydrates
+
+46:55.180 --> 46:56.320
+ back into your diet,
+
+46:56.320 --> 46:57.760
+ then you might want to do it more gradually.
+
+46:57.760 --> 46:59.380
+ And for those of you that menstruate
+
+46:59.380 --> 47:01.520
+ and are craving carbohydrates
+
+47:01.520 --> 47:02.700
+ in the early part of the cycle,
+
+47:02.700 --> 47:05.940
+ that is actually associated with having a healthy cycle.
+
+47:05.940 --> 47:10.020
+ If any of you have had a healthy cycle on a ketogenic diet,
+
+47:10.020 --> 47:10.860
+ that would be interesting.
+
+47:10.860 --> 47:12.460
+ Maybe let me know through the comments
+
+47:12.460 --> 47:14.400
+ or point me in the direction of some research
+
+47:14.400 --> 47:15.500
+ if you're aware of it.
+
+47:15.500 --> 47:16.420
+ So as you can start to see,
+
+47:16.420 --> 47:18.080
+ there's this really beautiful interplay
+
+47:18.080 --> 47:19.200
+ between the different hormones,
+
+47:19.200 --> 47:21.020
+ between insulin and glucose,
+
+47:21.020 --> 47:23.800
+ between estrogen and thyroid,
+
+47:23.800 --> 47:28.240
+ between thyroid and blood glucose and the ketogenic diets.
+
+47:28.240 --> 47:29.740
+ It all starts to fit together
+
+47:29.740 --> 47:31.560
+ in ways that make a lot of sense
+
+47:31.560 --> 47:33.640
+ once you understand just kind of the core elements
+
+47:33.640 --> 47:34.700
+ of what the hormones are
+
+47:34.700 --> 47:36.980
+ and the variety of tissues that they work on.
+
+47:36.980 --> 47:38.380
+ The simple version of this is
+
+47:38.380 --> 47:41.380
+ if you haven't had a carbohydrate for a year,
+
+47:41.380 --> 47:44.860
+ then your T3, T4 levels are going to be pretty low.
+
+47:44.860 --> 47:46.660
+ And I'm sure there's some ketonistas out there.
+
+47:46.660 --> 47:47.500
+ They're going to say,
+
+47:47.500 --> 47:50.040
+ wait, no, thyroid hormone levels go up with keto.
+
+47:50.040 --> 47:52.640
+ That might be true for other reasons,
+
+47:52.640 --> 47:55.620
+ indirect reasons related to hormone pathways
+
+47:55.620 --> 47:58.220
+ that are cascade from being in ketosis
+
+47:58.220 --> 48:00.000
+ for long periods of time, great.
+
+48:00.000 --> 48:02.660
+ But for most people that don't consume any carbohydrate,
+
+48:02.660 --> 48:04.240
+ T3, T4 are going to go down.
+
+48:04.240 --> 48:06.480
+ And when they start to consume foods
+
+48:06.480 --> 48:08.920
+ that require thyroid metabolism
+
+48:08.920 --> 48:11.680
+ in order to work with, to metabolize,
+
+48:11.680 --> 48:14.820
+ then weight gain can sometimes happen more quickly.
+
+48:14.820 --> 48:16.500
+ So it's just something to consider
+
+48:16.500 --> 48:19.820
+ and it's something to work with carefully
+
+48:19.820 --> 48:23.260
+ if you're going to be cyclic ketogenic, long-term ketogenic.
+
+48:23.260 --> 48:24.480
+ And if you're not ketogenic
+
+48:24.480 --> 48:27.020
+ and you're consuming carbohydrates
+
+48:27.020 --> 48:29.460
+ and the three things that we talked about earlier,
+
+48:29.460 --> 48:31.540
+ selenium, tyrosine, and iodine,
+
+48:31.540 --> 48:35.180
+ chances are, unless there's an underlying condition there,
+
+48:35.180 --> 48:36.340
+ that your levels of thyroid
+
+48:36.340 --> 48:38.180
+ are going to be in healthy range.
+
+48:38.180 --> 48:41.100
+ Next, we're going to talk about growth hormone.
+
+48:41.100 --> 48:43.740
+ Growth hormone has received a ton of attention
+
+48:43.740 --> 48:45.060
+ in the last 20 years.
+
+48:45.060 --> 48:47.300
+ I actually remember when it was first sequenced.
+
+48:47.300 --> 48:48.140
+ This was a huge deal.
+
+48:48.140 --> 48:50.580
+ There was a huge patent drama.
+
+48:50.580 --> 48:52.780
+ I won't mention the universities or the people involved.
+
+48:52.780 --> 48:56.300
+ There were companies and monster patents and payouts,
+
+48:56.300 --> 48:57.700
+ and it was really interesting.
+
+48:57.700 --> 48:59.200
+ You can look that up online
+
+48:59.200 --> 49:01.660
+ if you're interested in some of the scientific history.
+
+49:01.660 --> 49:04.460
+ Growth hormone is a pretty straightforward one
+
+49:04.460 --> 49:05.460
+ for you to understand now
+
+49:05.460 --> 49:09.260
+ because it follows the exact same logic as thyroid hormone.
+
+49:09.260 --> 49:12.740
+ In fact, their functions are so closely overlapping
+
+49:13.780 --> 49:15.820
+ when we first look at the face of it
+
+49:15.820 --> 49:17.020
+ that you're probably going to think,
+
+49:17.020 --> 49:18.660
+ why do you have these two systems?
+
+49:18.660 --> 49:23.660
+ So just very briefly, growth hormone releasing hormone,
+
+49:23.860 --> 49:25.820
+ so remember, releasing means it comes from the brain,
+
+49:25.820 --> 49:26.900
+ comes from the brain,
+
+49:26.900 --> 49:29.580
+ and tells the pituitary to release growth hormone,
+
+49:29.580 --> 49:31.740
+ and then growth hormone is released into the bloodstream
+
+49:31.740 --> 49:34.020
+ where it goes and acts on a ton of tissues,
+
+49:34.020 --> 49:38.380
+ muscle, ligaments, bone, fat, et cetera,
+
+49:38.380 --> 49:39.940
+ to increase metabolism.
+
+49:39.940 --> 49:43.420
+ It sounds just like thyroid hormone,
+
+49:43.420 --> 49:44.780
+ and they do work in parallel,
+
+49:44.780 --> 49:46.020
+ and that's why we've lumped them together
+
+49:46.020 --> 49:46.860
+ in the same episode.
+
+49:46.860 --> 49:50.420
+ They increase metabolism and repair and growth of tissues.
+
+49:52.240 --> 49:54.740
+ A conversation about growth hormone would be incomplete
+
+49:54.740 --> 49:56.620
+ if we didn't talk about the kind of extremes.
+
+49:56.620 --> 49:58.140
+ There are certain people who are born
+
+49:58.140 --> 50:00.200
+ that don't make enough growth hormone,
+
+50:00.200 --> 50:03.060
+ and they end up very short in stature.
+
+50:03.060 --> 50:05.920
+ There are certain people who make a ton of growth hormone,
+
+50:05.920 --> 50:07.860
+ and they end up very, very large.
+
+50:07.860 --> 50:10.140
+ They tend to have very large appendages.
+
+50:10.140 --> 50:12.160
+ They have something called acromegaly.
+
+50:12.160 --> 50:15.700
+ It's kind of like a ridging of the forehead.
+
+50:15.700 --> 50:17.700
+ It's actually a bone ridge.
+
+50:17.700 --> 50:21.380
+ They are giant, and it used to be called giantism,
+
+50:21.380 --> 50:26.260
+ and most people, of course, are in a range of height
+
+50:26.260 --> 50:28.140
+ and appendage length.
+
+50:28.140 --> 50:29.220
+ That doesn't imply
+
+50:29.220 --> 50:31.900
+ that there's a growth hormone disruption there.
+
+50:31.900 --> 50:34.680
+ Growth hormone received a lot of attention
+
+50:34.680 --> 50:36.140
+ after it was sequenced,
+
+50:36.140 --> 50:39.980
+ because that meant the opportunity to inject growth hormone
+
+50:39.980 --> 50:41.860
+ and replace growth hormone that was lost,
+
+50:41.860 --> 50:43.860
+ and there was actually a lot of cases
+
+50:43.860 --> 50:46.380
+ of people taking their kids
+
+50:46.380 --> 50:49.700
+ and trying to get them to be taller for whatever reason
+
+50:49.700 --> 50:51.740
+ by injecting growth hormone.
+
+50:51.740 --> 50:53.360
+ Today, we're going to talk about the things
+
+50:53.360 --> 50:56.060
+ that anyone can do to increase growth hormone,
+
+50:56.060 --> 50:57.220
+ and there are reasons why
+
+50:57.220 --> 50:58.540
+ certain people would want to do that.
+
+50:58.540 --> 51:00.100
+ People who overproduce growth hormone
+
+51:00.100 --> 51:01.360
+ certainly would not want to do that.
+
+51:01.360 --> 51:05.340
+ People who underproduce it would probably want to do that.
+
+51:05.340 --> 51:08.680
+ People that make normal, quote-unquote,
+
+51:08.680 --> 51:12.400
+ levels of growth hormone might want to do that as they age,
+
+51:12.400 --> 51:14.920
+ because during puberty and development,
+
+51:14.920 --> 51:17.780
+ the pituitary is churning out tons of growth hormone.
+
+51:17.780 --> 51:20.780
+ It's responsible for the growth, not surprising,
+
+51:20.780 --> 51:23.540
+ of the body and all its features,
+
+51:23.540 --> 51:26.180
+ height just being one of those.
+
+51:26.180 --> 51:29.020
+ And so as we age, we make less growth hormone,
+
+51:29.020 --> 51:31.000
+ and that is one of the reasons
+
+51:31.000 --> 51:34.180
+ why we recover more slowly from injuries.
+
+51:34.180 --> 51:37.540
+ It's one of the reasons why we accumulate body fat,
+
+51:37.540 --> 51:40.220
+ and it's one of the reasons why our metabolism slows.
+
+51:40.220 --> 51:42.740
+ And so growth hormone replacement therapy
+
+51:42.740 --> 51:46.620
+ has been tremendously popular in the last 20 years,
+
+51:46.620 --> 51:49.500
+ which is not to say it doesn't carry its problems, it does.
+
+51:49.500 --> 51:51.200
+ Here's one of the major problems
+
+51:51.200 --> 51:53.460
+ with injecting growth hormone.
+
+51:53.460 --> 51:54.900
+ Not saying people shouldn't do this
+
+51:54.900 --> 51:56.300
+ if the doctor has approved it
+
+51:56.300 --> 51:59.980
+ or it's in keeping with their particular life goals,
+
+51:59.980 --> 52:04.400
+ but growth hormone, if it's in levels that are too high,
+
+52:05.420 --> 52:07.500
+ will cause growth of all tissues.
+
+52:07.500 --> 52:11.100
+ So not just muscle, not just reduction in body fat
+
+52:11.100 --> 52:15.540
+ by metabolizing, by allowing fatty acids
+
+52:15.540 --> 52:18.140
+ to be pulled out of storage and used for ATP,
+
+52:18.140 --> 52:22.220
+ but it will also cause increase in growth of the heart
+
+52:22.220 --> 52:24.620
+ and the lungs and the liver and the spleen.
+
+52:24.620 --> 52:28.060
+ And so this is the concern with abuse of growth hormone.
+
+52:28.060 --> 52:28.900
+ So we're not going to be talking
+
+52:28.900 --> 52:30.100
+ about abuse of growth hormone.
+
+52:30.100 --> 52:33.660
+ We will, however, talk about tools that anyone can use
+
+52:33.660 --> 52:35.860
+ to increase levels of growth hormone.
+
+52:35.860 --> 52:36.900
+ Some of them are behavioral,
+
+52:36.900 --> 52:38.580
+ some of them are supplement-based,
+
+52:38.580 --> 52:42.260
+ and some of them interact with behaviors and supplements.
+
+52:42.260 --> 52:45.340
+ And what's cool about the discussion about growth hormone
+
+52:45.340 --> 52:47.740
+ is that the tools that exist out there
+
+52:47.740 --> 52:50.900
+ to increase growth hormone are very actionable.
+
+52:50.900 --> 52:53.340
+ Most people can do these without the need for any equipment
+
+52:53.340 --> 52:54.380
+ or even any supplement,
+
+52:54.380 --> 52:57.860
+ although there are some supplement-related themes
+
+52:57.860 --> 53:00.040
+ for tools for growth hormone increase.
+
+53:00.040 --> 53:03.620
+ And also the increases that one can get in growth hormone
+
+53:03.620 --> 53:05.180
+ are substantial.
+
+53:05.180 --> 53:07.460
+ So normally when you talk about the difference
+
+53:07.460 --> 53:10.300
+ between taking something as an exogenous substance
+
+53:11.260 --> 53:12.840
+ like testosterone or estrogen
+
+53:12.840 --> 53:15.820
+ versus using supplements or behaviors to increase them,
+
+53:15.820 --> 53:18.220
+ you're talking about tenfold differences
+
+53:18.220 --> 53:20.940
+ from administering the prescription compound.
+
+53:21.860 --> 53:22.880
+ In terms of growth hormone,
+
+53:22.880 --> 53:24.940
+ there are things that can increase growth hormone
+
+53:24.940 --> 53:29.060
+ three, four, 500% or more.
+
+53:29.060 --> 53:32.180
+ And even though that's a short-lived increase,
+
+53:32.180 --> 53:34.440
+ they can have very powerful effects on metabolism
+
+53:34.440 --> 53:35.820
+ and on repair of tissues.
+
+53:35.820 --> 53:37.460
+ So let's talk about those.
+
+53:37.460 --> 53:39.460
+ Okay, let's go step-by-step
+
+53:39.460 --> 53:41.660
+ in terms of the things that anyone,
+
+53:41.660 --> 53:43.140
+ perhaps everyone should be doing
+
+53:43.140 --> 53:45.980
+ in order to maintain healthy growth hormone levels
+
+53:45.980 --> 53:48.180
+ or increase growth hormone levels.
+
+53:48.180 --> 53:51.220
+ Unless you have overproduction of growth hormone,
+
+53:51.220 --> 53:54.280
+ chances are these things are going to benefit you.
+
+53:55.240 --> 53:57.960
+ However, as always, I want to emphasize,
+
+53:57.960 --> 54:00.700
+ talk to a doctor before you do anything,
+
+54:00.700 --> 54:03.300
+ including remove any treatments.
+
+54:03.300 --> 54:06.100
+ So anything you would add or take away,
+
+54:06.100 --> 54:09.220
+ that's a responsibility of you and your healthcare provider.
+
+54:09.220 --> 54:10.780
+ Okay, I don't just say that to protect me,
+
+54:10.780 --> 54:12.900
+ I say that to protect you.
+
+54:12.900 --> 54:15.700
+ First of all, growth hormone is released
+
+54:15.700 --> 54:17.540
+ every night when you go to sleep,
+
+54:17.540 --> 54:20.140
+ and it's released in the early part of sleep
+
+54:20.140 --> 54:22.040
+ during so-called slow wave sleep.
+
+54:23.020 --> 54:25.760
+ So the two conditions that have to be met
+
+54:25.760 --> 54:29.160
+ in order for growth hormone to be secreted regularly
+
+54:29.160 --> 54:31.580
+ for tissue repair, et cetera,
+
+54:31.580 --> 54:34.580
+ are you need to get into slow wave sleep,
+
+54:34.580 --> 54:36.500
+ the so-called deep sleep,
+
+54:36.500 --> 54:41.500
+ and you need blood insulin and glucose to be relatively low.
+
+54:41.760 --> 54:45.180
+ So eating within two hours of sleep, excuse me,
+
+54:45.180 --> 54:47.260
+ eating within two hours of going to sleep
+
+54:47.260 --> 54:49.160
+ is going to suppress growth hormone release.
+
+54:49.160 --> 54:50.660
+ That's very clear.
+
+54:50.660 --> 54:52.920
+ However, some people are going to have problems
+
+54:52.920 --> 54:55.420
+ falling asleep if they are too hungry.
+
+54:55.420 --> 54:56.940
+ So you have to work with that
+
+54:56.940 --> 54:59.480
+ and decide what you're going to eat
+
+54:59.480 --> 55:01.380
+ and when you're going to eat that thing
+
+55:01.380 --> 55:02.600
+ so that you're not so hungry
+
+55:02.600 --> 55:04.820
+ that you're having trouble falling asleep.
+
+55:04.820 --> 55:06.620
+ The episodes on sleep that were covered
+
+55:06.620 --> 55:08.020
+ in episodes two, three, and four
+
+55:08.020 --> 55:09.740
+ of the Huberman Lab Podcast
+
+55:09.740 --> 55:11.300
+ has, I believe, more tools there
+
+55:11.300 --> 55:13.900
+ than you could ever want or make use of
+
+55:13.900 --> 55:15.420
+ in terms of how to optimize sleep.
+
+55:15.420 --> 55:17.580
+ So you can refer to those if you like.
+
+55:17.580 --> 55:19.800
+ So don't eat too close to sleep
+
+55:19.800 --> 55:21.380
+ and then get into slow wave sleep.
+
+55:21.380 --> 55:24.300
+ And as I talked about in one of those earlier episodes,
+
+55:24.300 --> 55:25.780
+ the first half of the night,
+
+55:25.780 --> 55:28.340
+ slow wave sleep and deep sleep predominate.
+
+55:28.340 --> 55:29.220
+ The second half of the night,
+
+55:29.220 --> 55:31.860
+ it's another kind of sleep we call REM sleep.
+
+55:31.860 --> 55:36.020
+ So what is special about this early phase of sleep?
+
+55:36.020 --> 55:37.340
+ This is how you should be thinking
+
+55:37.340 --> 55:39.180
+ if you listen to this podcast.
+
+55:39.180 --> 55:40.000
+ You should be thinking,
+
+55:40.000 --> 55:41.940
+ okay, I hear that something is important,
+
+55:41.940 --> 55:43.540
+ it's related, it's in the pathway,
+
+55:43.540 --> 55:46.660
+ but mechanistically, when we say get into slow wave sleep,
+
+55:46.660 --> 55:48.020
+ get into deep sleep,
+
+55:48.020 --> 55:49.940
+ that's when growth hormone is secreted.
+
+55:49.940 --> 55:51.700
+ The question you should be asking yourselves
+
+55:51.700 --> 55:55.760
+ as scientists of yourselves is,
+
+55:55.760 --> 55:57.640
+ wait, why slow wave sleep?
+
+55:57.640 --> 56:01.440
+ What in particular about slow wave deep sleep
+
+56:01.440 --> 56:04.340
+ allows the pituitary to release growth hormone?
+
+56:04.340 --> 56:06.380
+ Like what is it?
+
+56:06.380 --> 56:08.240
+ Because if you can understand that,
+
+56:08.240 --> 56:10.440
+ if you can understand a little bit of mechanism,
+
+56:10.440 --> 56:12.760
+ there are actually ways that you can increase
+
+56:12.760 --> 56:15.780
+ the amount of growth hormone that you release
+
+56:15.780 --> 56:18.220
+ both in sleep and out of sleep.
+
+56:18.220 --> 56:22.580
+ So the answer is it's a delta wave activity in the brain.
+
+56:22.580 --> 56:26.280
+ Delta waves are these big giant waves of activity
+
+56:26.280 --> 56:29.900
+ in the brain that correlate with slow wave sleep,
+
+56:29.900 --> 56:31.500
+ as opposed to faster waves of activity
+
+56:31.500 --> 56:34.420
+ that is associated with rapid eye movement sleep.
+
+56:34.420 --> 56:37.760
+ So slow wave sleep and the delta activity
+
+56:37.760 --> 56:40.760
+ actually triggers the neurons in the brain,
+
+56:40.760 --> 56:42.540
+ the releasing hormone, right?
+
+56:42.540 --> 56:44.340
+ Growth hormone releasing hormone neurons
+
+56:44.340 --> 56:46.020
+ to signal to the pituitary.
+
+56:46.020 --> 56:47.280
+ Now, how do I know this is true?
+
+56:47.280 --> 56:48.180
+ And what can you do with this?
+
+56:48.180 --> 56:50.460
+ Well, we know this is true because researchers
+
+56:50.460 --> 56:52.340
+ have taken people and sleep deprived them
+
+56:52.340 --> 56:54.060
+ and they just asked,
+
+56:54.060 --> 56:57.060
+ well, is it just one period of time every 24 hours
+
+56:57.060 --> 56:59.220
+ and then the pituitary releases growth hormone?
+
+56:59.220 --> 57:00.460
+ If that were the case,
+
+57:00.460 --> 57:02.640
+ that would say that growth hormone is just released
+
+57:02.640 --> 57:06.340
+ in a so-called circadian dependent way every 24 hours,
+
+57:06.340 --> 57:07.540
+ there's the pulse of it.
+
+57:07.540 --> 57:11.260
+ But no, it's always relating to slow wave deep sleep
+
+57:11.260 --> 57:12.380
+ and delta waves.
+
+57:12.380 --> 57:14.860
+ And this is cool because what it means is that
+
+57:14.860 --> 57:16.980
+ even if you're not measuring your brain waves during sleep,
+
+57:16.980 --> 57:19.440
+ which most of you probably are not,
+
+57:19.440 --> 57:21.580
+ you might be measuring slow wave sleep or deep sleep
+
+57:21.580 --> 57:24.180
+ using a device like a whoop or an aura.
+
+57:24.180 --> 57:26.180
+ And even if you're not,
+
+57:26.180 --> 57:29.460
+ what this means is that during the day,
+
+57:29.460 --> 57:32.180
+ there's the potential to also increase
+
+57:32.180 --> 57:34.460
+ growth hormone release if you can get the brain
+
+57:34.460 --> 57:36.420
+ into the so-called delta waves.
+
+57:36.420 --> 57:38.900
+ And it turns out there are things you can do in waking
+
+57:38.900 --> 57:41.260
+ as well to increase growth hormone release.
+
+57:41.260 --> 57:42.860
+ So we're going to talk about those next,
+
+57:42.860 --> 57:45.260
+ but as a tool and to just really make sure
+
+57:45.260 --> 57:47.180
+ that we put brackets around this,
+
+57:47.180 --> 57:49.340
+ try and have blood glucose not too high.
+
+57:49.340 --> 57:50.820
+ So if you do need to eat close to bed,
+
+57:50.820 --> 57:51.980
+ you wouldn't want to eat anything
+
+57:51.980 --> 57:54.580
+ that would increase blood glucose too much.
+
+57:54.580 --> 57:57.040
+ Try and not eat too close to bedtime,
+
+57:57.040 --> 57:58.980
+ get into deep sleep early in the night,
+
+57:58.980 --> 58:00.940
+ get the growth hormone release,
+
+58:00.940 --> 58:03.940
+ and understand that it's the delta waves of activity,
+
+58:03.940 --> 58:06.140
+ these sweeping big waves of activity in the neurons
+
+58:06.140 --> 58:08.860
+ that stimulate the brain to stimulate the pituitary.
+
+58:08.860 --> 58:10.540
+ Because once you understand that,
+
+58:10.540 --> 58:13.080
+ then you have something to anchor to in terms of thinking,
+
+58:13.080 --> 58:15.780
+ what are the things I can do in waking
+
+58:15.780 --> 58:18.160
+ that will allow me to release more growth hormone,
+
+58:18.160 --> 58:20.940
+ which for most people is going to be a good thing.
+
+58:20.940 --> 58:23.580
+ Several times before on this podcast,
+
+58:23.580 --> 58:25.900
+ I've talked about the fact that I'm not a big fan
+
+58:25.900 --> 58:30.220
+ of melatonin supplementation for most purposes.
+
+58:30.220 --> 58:33.360
+ It might be helpful under conditions of jet lag.
+
+58:34.200 --> 58:35.900
+ However, there are a lot of reasons
+
+58:35.900 --> 58:38.240
+ why I personally don't like melatonin.
+
+58:38.240 --> 58:40.980
+ It interacts with the reproductive hormones,
+
+58:40.980 --> 58:42.380
+ testosterone and estrogen,
+
+58:42.380 --> 58:45.500
+ and that whole axis in ways that are unattractive,
+
+58:45.500 --> 58:48.740
+ at least to me, it suppresses puberty during development.
+
+58:48.740 --> 58:53.060
+ It's present in much, much higher doses in most supplements
+
+58:53.060 --> 58:57.200
+ than one would normally make, like 100 fold, 300 fold.
+
+58:57.200 --> 59:00.200
+ However, today I'm going to talk about an instance
+
+59:00.200 --> 59:03.840
+ where very low levels of melatonin supplementation
+
+59:03.840 --> 59:06.140
+ might actually be advantageous.
+
+59:06.140 --> 59:08.860
+ And that is aiding the transition
+
+59:08.860 --> 59:12.020
+ to the delta wave slow wave sleep I just described,
+
+59:12.020 --> 59:13.980
+ because that's the pattern of sleep
+
+59:13.980 --> 59:17.900
+ and brainwave activity that triggers growth hormone release.
+
+59:17.900 --> 59:21.500
+ So whereas most melatonin supplements are one milligram,
+
+59:21.500 --> 59:24.880
+ three milligrams, 12 milligrams, this kind of thing,
+
+59:24.880 --> 59:27.300
+ that is super physiological.
+
+59:27.300 --> 59:30.260
+ There are some data showing that microgram,
+
+59:30.260 --> 59:35.260
+ maybe 500 micrograms of melatonin, so half a milligram,
+
+59:36.360 --> 59:38.940
+ can be beneficial in shifting the pattern
+
+59:38.940 --> 59:39.960
+ of early night sleep
+
+59:39.960 --> 59:43.620
+ toward more of the slow wave deep sleep delta activity
+
+59:43.620 --> 59:45.900
+ and improving growth hormone release.
+
+59:45.900 --> 59:49.580
+ Not a lot of studies, but the ones that I saw are quality.
+
+59:49.580 --> 59:52.180
+ They were done in subjects that, you know,
+
+59:52.180 --> 59:55.620
+ both sexes, sufficient numbers, et cetera.
+
+59:55.620 --> 59:56.540
+ So this is interesting.
+
+59:56.540 --> 59:59.980
+ So if you're interested in melatonin supplementation,
+
+59:59.980 --> 1:00:03.820
+ you might think about it just at very low levels, you know,
+
+1:00:03.820 --> 1:00:06.960
+ hundreds of micrograms as opposed to the milligram dosages.
+
+1:00:06.960 --> 1:00:08.400
+ Most of the ones out there
+
+1:00:08.400 --> 1:00:10.260
+ are going to be in milligram dosages.
+
+1:00:10.260 --> 1:00:14.620
+ So that's one way that some studies have shown
+
+1:00:14.620 --> 1:00:17.040
+ that you can increase the amount of growth hormone
+
+1:00:17.040 --> 1:00:19.940
+ that's secreted in early phases of sleep.
+
+1:00:19.940 --> 1:00:21.660
+ Now, the delta wave activity
+
+1:00:21.660 --> 1:00:24.260
+ and the slow wave activity in the brain
+
+1:00:24.260 --> 1:00:27.340
+ being very important for growth hormone release
+
+1:00:27.340 --> 1:00:29.380
+ and growth hormone release being so important
+
+1:00:29.380 --> 1:00:33.360
+ for metabolic functions and peeling away unwanted body fat
+
+1:00:33.360 --> 1:00:36.860
+ and repairing tissues, et cetera, forces us to ask,
+
+1:00:36.860 --> 1:00:39.380
+ well, what other things can we do in waking
+
+1:00:39.380 --> 1:00:41.940
+ in order to increase growth hormone release?
+
+1:00:41.940 --> 1:00:43.060
+ So let's start with the ones
+
+1:00:43.060 --> 1:00:46.480
+ that have a potentially big effect,
+
+1:00:46.480 --> 1:00:48.340
+ but are a little bit harder to access.
+
+1:00:48.340 --> 1:00:51.180
+ And for that, I want to point toward a book,
+
+1:00:51.180 --> 1:00:52.680
+ which is really kind of interesting.
+
+1:00:52.680 --> 1:00:54.420
+ It's not focused on growth hormone,
+
+1:00:54.420 --> 1:00:56.940
+ but the book is called Altered Traits.
+
+1:00:56.940 --> 1:00:58.420
+ This is the book.
+
+1:00:58.420 --> 1:01:00.340
+ It's an excellent book.
+
+1:01:00.340 --> 1:01:03.140
+ Altered Traits by Goleman and Davidson,
+
+1:01:03.140 --> 1:01:05.260
+ Science Reveals How Meditation Changes
+
+1:01:05.260 --> 1:01:07.380
+ Your Mind, Brain, and Body.
+
+1:01:07.380 --> 1:01:09.100
+ Very interesting book.
+
+1:01:09.100 --> 1:01:11.540
+ For those of you that are interested in meditation,
+
+1:01:11.540 --> 1:01:14.140
+ and perhaps those of you who are not,
+
+1:01:14.140 --> 1:01:15.260
+ but are considering it,
+
+1:01:16.220 --> 1:01:18.220
+ what they talk about in this book is the fact
+
+1:01:18.220 --> 1:01:21.120
+ that meditation has two separate lines of effects.
+
+1:01:21.120 --> 1:01:23.380
+ One of those lines of effects
+
+1:01:23.380 --> 1:01:25.220
+ are things that change your state.
+
+1:01:25.220 --> 1:01:27.880
+ So you're stressed, you sit down, you meditate,
+
+1:01:27.880 --> 1:01:29.860
+ and you relax, and you go into a particular state.
+
+1:01:29.860 --> 1:01:32.620
+ The other are the changes that occur over time,
+
+1:01:32.620 --> 1:01:34.620
+ and those are changes in trait.
+
+1:01:34.620 --> 1:01:36.660
+ So personality can actually change
+
+1:01:36.660 --> 1:01:41.660
+ with long bouts of TM meditation or repeated meditation.
+
+1:01:42.820 --> 1:01:44.060
+ In any case, the reason we're talking
+
+1:01:44.060 --> 1:01:46.260
+ about altered traits today
+
+1:01:46.260 --> 1:01:50.900
+ is because certain types of meditation
+
+1:01:50.900 --> 1:01:53.640
+ can get people's brains into states
+
+1:01:53.640 --> 1:01:56.540
+ that very closely mimic slow wave sleep.
+
+1:01:56.540 --> 1:01:58.140
+ If you hear snoring in the background,
+
+1:01:58.140 --> 1:02:01.420
+ Costello is, it sounds like he's in slow wave sleep,
+
+1:02:01.420 --> 1:02:04.260
+ these big oscillatory snores
+
+1:02:04.260 --> 1:02:07.920
+ that he's in 23.6 hours per day.
+
+1:02:07.920 --> 1:02:11.300
+ So what this means is for people that are interested
+
+1:02:11.300 --> 1:02:13.580
+ in increasing growth hormone,
+
+1:02:13.580 --> 1:02:15.580
+ a meditation practice that allows you
+
+1:02:15.580 --> 1:02:20.580
+ to get into these slow wave delta type frequency activity
+
+1:02:22.140 --> 1:02:24.780
+ in the brain may be very beneficial
+
+1:02:24.780 --> 1:02:25.860
+ because as I mentioned before,
+
+1:02:25.860 --> 1:02:28.020
+ that's what's gating growth hormone release.
+
+1:02:28.020 --> 1:02:29.860
+ It's not just a circadian phenomenon.
+
+1:02:29.860 --> 1:02:32.960
+ It's actually controlled by these brain waves.
+
+1:02:32.960 --> 1:02:34.920
+ I did look up binaural beats.
+
+1:02:34.920 --> 1:02:36.940
+ I get so many questions about binaural beats,
+
+1:02:36.940 --> 1:02:38.580
+ and it's a really attractive idea, right?
+
+1:02:38.580 --> 1:02:39.900
+ Binaural beats, for those of you who don't know,
+
+1:02:39.900 --> 1:02:41.940
+ you listen to one frequency of tone,
+
+1:02:41.940 --> 1:02:43.040
+ doo, doo, doo, doo, doo, in one ear,
+
+1:02:43.040 --> 1:02:44.540
+ and another frequency of tone in the other ear,
+
+1:02:44.540 --> 1:02:48.220
+ doo, doo, doo, doo, and then the brain essentially
+
+1:02:48.220 --> 1:02:50.080
+ takes the average of the two,
+
+1:02:50.080 --> 1:02:52.820
+ or there's some other wiring in the brainstem
+
+1:02:52.820 --> 1:02:54.020
+ that makes it not quite the average,
+
+1:02:54.020 --> 1:02:57.560
+ but takes the average of the two for sake of discussion,
+
+1:02:57.560 --> 1:03:00.280
+ and that frequency is what the brain entrains
+
+1:03:00.280 --> 1:03:01.900
+ or maps onto.
+
+1:03:01.900 --> 1:03:03.800
+ There are a lot of apps that are claiming
+
+1:03:03.800 --> 1:03:05.800
+ that you can get the brain into delta waves
+
+1:03:05.800 --> 1:03:06.860
+ using binaural beats.
+
+1:03:06.860 --> 1:03:09.840
+ I could not find quality peer review studies
+
+1:03:09.840 --> 1:03:11.900
+ supporting that, but I know there are a lot of fans
+
+1:03:11.900 --> 1:03:13.220
+ out there of binaural beats.
+
+1:03:13.220 --> 1:03:15.500
+ If you know of any literature that's independent
+
+1:03:15.500 --> 1:03:18.660
+ of the company that makes the binaural beat technology,
+
+1:03:18.660 --> 1:03:21.960
+ so unbiased research, please send it my way,
+
+1:03:21.960 --> 1:03:26.960
+ but in Altered Traits, Goleman and Davidson talk about
+
+1:03:27.420 --> 1:03:30.460
+ the fact that people who do 20 minutes of sitting meditation
+
+1:03:30.460 --> 1:03:35.460
+ per day can access these slow wave sleep-like brain states.
+
+1:03:37.060 --> 1:03:40.360
+ Now I've talked a lot on here about non-sleep deep rest,
+
+1:03:40.360 --> 1:03:42.580
+ things like yoga nidra and hypnosis.
+
+1:03:42.580 --> 1:03:44.580
+ I'm not aware that those will put people
+
+1:03:44.580 --> 1:03:48.840
+ into slow wave sleep per se, or delta waves per se.
+
+1:03:48.840 --> 1:03:50.380
+ So we're really talking about 20 minutes
+
+1:03:50.380 --> 1:03:52.260
+ of more traditional type meditation.
+
+1:03:52.260 --> 1:03:55.700
+ Okay, so we talked about very low doses of melatonin
+
+1:03:55.700 --> 1:03:57.200
+ as a way to trigger delta waves
+
+1:03:57.200 --> 1:03:59.580
+ and more growth hormone release in sleep.
+
+1:03:59.580 --> 1:04:00.820
+ There are science to support that.
+
+1:04:00.820 --> 1:04:05.100
+ We've now talked about a waking behavior of 20 minutes
+
+1:04:05.100 --> 1:04:08.020
+ of sort of what I would call standard meditation
+
+1:04:08.020 --> 1:04:09.980
+ of just sitting there concentrating on one's breathing
+
+1:04:09.980 --> 1:04:13.880
+ to try and access delta waves, binaural beats,
+
+1:04:13.880 --> 1:04:15.540
+ no science yet, who knows,
+
+1:04:15.540 --> 1:04:17.280
+ maybe there's science to support it.
+
+1:04:17.280 --> 1:04:18.900
+ If you're aware of it, let me know.
+
+1:04:18.900 --> 1:04:21.580
+ Now let's move to the things that one can do
+
+1:04:21.580 --> 1:04:25.060
+ that have been shown to have, let's just be honest,
+
+1:04:25.060 --> 1:04:28.900
+ pretty enormous effects on growth hormone release in waking.
+
+1:04:28.900 --> 1:04:31.900
+ And these are things that are very actionable.
+
+1:04:31.900 --> 1:04:34.260
+ One of the things that can have a dramatic effect
+
+1:04:34.260 --> 1:04:37.100
+ on levels of growth hormone release in waking,
+
+1:04:37.100 --> 1:04:42.020
+ as well as in sleep the following night is exercise.
+
+1:04:42.020 --> 1:04:46.580
+ But the key is the type of exercise and the duration.
+
+1:04:46.580 --> 1:04:48.860
+ Now there's a logic to this.
+
+1:04:48.860 --> 1:04:51.300
+ There are hundreds, if not thousands of studies
+
+1:04:51.300 --> 1:04:54.400
+ measuring growth hormone, both during
+
+1:04:55.420 --> 1:04:59.740
+ or sometimes after exercise or the following night.
+
+1:04:59.740 --> 1:05:03.180
+ And the conclusion that one takes away from all of these
+
+1:05:03.180 --> 1:05:07.780
+ is that exercise has to be of particular duration
+
+1:05:07.780 --> 1:05:10.780
+ and intensity in order to get growth hormone release.
+
+1:05:10.780 --> 1:05:13.480
+ So first I'm just going to tell you what I found to be
+
+1:05:13.480 --> 1:05:15.880
+ the maximum amount of growth hormone release
+
+1:05:15.880 --> 1:05:18.900
+ as it relates to a particular form of exercise.
+
+1:05:18.900 --> 1:05:22.220
+ The particular form of exercise is either weight training
+
+1:05:23.180 --> 1:05:25.820
+ or it can be endurance training,
+
+1:05:25.820 --> 1:05:28.140
+ but the endurance training and the weight training
+
+1:05:28.140 --> 1:05:31.420
+ actually have to be limited to about 60 minutes,
+
+1:05:31.420 --> 1:05:32.320
+ not much longer.
+
+1:05:32.320 --> 1:05:35.900
+ Now this is important because it's been shown
+
+1:05:35.900 --> 1:05:40.060
+ over and over again that if one exercise is too long
+
+1:05:40.060 --> 1:05:42.000
+ with weights or endurance exercise,
+
+1:05:42.000 --> 1:05:44.580
+ that cortisol levels go high enough
+
+1:05:44.580 --> 1:05:47.500
+ that it starts to inhibit the testosterone
+
+1:05:47.500 --> 1:05:49.660
+ and even the estrogen pathways.
+
+1:05:49.660 --> 1:05:53.420
+ This is why I believe people who over exercise
+
+1:05:53.420 --> 1:05:55.760
+ or exercise a lot can lose their menstrual cycles,
+
+1:05:55.760 --> 1:05:57.140
+ they stop menstruating.
+
+1:05:57.140 --> 1:05:59.060
+ It's why you get suppressions and testosterone
+
+1:05:59.060 --> 1:06:01.360
+ if people train too long and too hard.
+
+1:06:01.360 --> 1:06:04.500
+ The cutoff has always been 60 to 75 minutes
+
+1:06:04.500 --> 1:06:06.340
+ of the hard work part.
+
+1:06:06.340 --> 1:06:08.780
+ It's going to vary a lot from person to person,
+
+1:06:08.780 --> 1:06:10.740
+ but in terms of growth hormone,
+
+1:06:10.740 --> 1:06:12.540
+ the conditions that seem to lead
+
+1:06:12.540 --> 1:06:17.540
+ to the greatest growth hormone release are one, get warm.
+
+1:06:17.740 --> 1:06:19.380
+ This is interesting, we're going to talk about temperature.
+
+1:06:19.380 --> 1:06:22.980
+ So a proper warmup seems to accelerate
+
+1:06:22.980 --> 1:06:24.840
+ the release of growth hormone
+
+1:06:24.840 --> 1:06:27.240
+ once the hard work phase starts.
+
+1:06:27.240 --> 1:06:29.980
+ So 10 minutes of warmup or so
+
+1:06:29.980 --> 1:06:32.980
+ was the number that I extracted from all these studies.
+
+1:06:32.980 --> 1:06:35.880
+ There's a beautiful review on this by the way.
+
+1:06:35.880 --> 1:06:38.940
+ Growth hormone response is a varying, excuse me,
+
+1:06:38.940 --> 1:06:43.260
+ growth hormone arginine and exercise.
+
+1:06:43.260 --> 1:06:44.920
+ We'll talk about arginine in a few minutes.
+
+1:06:44.920 --> 1:06:49.920
+ That's by Kannalei, K-A-N-A-L-E-Y.
+
+1:06:49.920 --> 1:06:51.900
+ It was published in Current Opinion
+
+1:06:51.900 --> 1:06:54.480
+ in Clinical Nutrition and Metabolic Clear.
+
+1:06:54.480 --> 1:06:55.700
+ The Current Opinion journals
+
+1:06:55.700 --> 1:06:57.780
+ are generally of pretty high quality
+
+1:06:58.780 --> 1:07:00.100
+ in terms of the reviews,
+
+1:07:00.100 --> 1:07:01.820
+ just because they tend to be pretty recent.
+
+1:07:01.820 --> 1:07:06.140
+ And then the references they're in are also quite good.
+
+1:07:06.140 --> 1:07:07.500
+ So what does this mean?
+
+1:07:07.500 --> 1:07:09.860
+ This means warm up and when you say warm up,
+
+1:07:09.860 --> 1:07:12.560
+ it doesn't mean just warm up the limbs and tissues
+
+1:07:12.560 --> 1:07:14.100
+ that you're going to use so you don't get injured,
+
+1:07:14.100 --> 1:07:15.960
+ actually warm the body.
+
+1:07:15.960 --> 1:07:17.540
+ So there was actually some discussion
+
+1:07:17.540 --> 1:07:19.360
+ about whether or not in cold winter months,
+
+1:07:19.360 --> 1:07:21.860
+ people should wear like a stocking cap,
+
+1:07:21.860 --> 1:07:25.200
+ bringing the conditions of making the room warm.
+
+1:07:25.200 --> 1:07:27.540
+ So getting the body warm as a warm up
+
+1:07:27.540 --> 1:07:30.360
+ seems to be important because temperature of the body
+
+1:07:30.360 --> 1:07:32.600
+ seems to be an important condition
+
+1:07:32.600 --> 1:07:35.580
+ or prerequisite for certain patterns of exercise
+
+1:07:35.580 --> 1:07:37.720
+ to maximize growth hormone release.
+
+1:07:37.720 --> 1:07:39.940
+ So this is really interesting to me.
+
+1:07:39.940 --> 1:07:41.920
+ I have an obsession with how body temperature,
+
+1:07:41.920 --> 1:07:44.060
+ light exercise and food interact.
+
+1:07:44.060 --> 1:07:47.620
+ We're going right there with the fact that if you get warm,
+
+1:07:47.620 --> 1:07:49.940
+ you bring up the body temperature a degree or two
+
+1:07:49.940 --> 1:07:53.780
+ or maybe three and then start exercise.
+
+1:07:53.780 --> 1:07:57.620
+ It does appear that high intensity exercise,
+
+1:07:57.620 --> 1:08:01.160
+ but again, as discussed in a previous episode,
+
+1:08:01.160 --> 1:08:05.220
+ not exercise that brings muscles to failure,
+
+1:08:05.220 --> 1:08:06.220
+ but close to it.
+
+1:08:06.220 --> 1:08:08.080
+ So if it's weight-bearing exercise,
+
+1:08:08.080 --> 1:08:11.120
+ it would be getting close to that final repetitions
+
+1:08:11.120 --> 1:08:12.140
+ where you can't complete them,
+
+1:08:12.140 --> 1:08:14.660
+ but not pushing through those or even going to failure,
+
+1:08:14.660 --> 1:08:19.420
+ but getting close leads to anywhere from 300 to 500%
+
+1:08:19.420 --> 1:08:21.940
+ increases in resting growth hormone levels
+
+1:08:21.940 --> 1:08:26.060
+ and 300 to 500% increases in growth hormone
+
+1:08:26.060 --> 1:08:28.300
+ the following night when you go to sleep,
+
+1:08:28.300 --> 1:08:30.220
+ which is incredible.
+
+1:08:30.220 --> 1:08:33.200
+ Now I want to dissect this properly, okay?
+
+1:08:33.200 --> 1:08:37.060
+ So one of the other conditions that seemed to be important
+
+1:08:37.060 --> 1:08:40.460
+ again was to have relatively low blood glucose.
+
+1:08:40.460 --> 1:08:43.180
+ So it's looking a lot like the conditions you need for sleep
+
+1:08:43.180 --> 1:08:45.960
+ in order to get maximum growth hormone release in sleep.
+
+1:08:45.960 --> 1:08:49.100
+ So not having blood glucose too high or too low,
+
+1:08:49.940 --> 1:08:51.580
+ that's a discussion unto itself.
+
+1:08:51.580 --> 1:08:54.200
+ You want to have sufficient energy to do the exercise,
+
+1:08:54.200 --> 1:08:56.420
+ but getting warm, not having blood glucose
+
+1:08:56.420 --> 1:08:57.260
+ too high or too low,
+
+1:08:57.260 --> 1:08:59.740
+ so probably not eating too close to exercise
+
+1:08:59.740 --> 1:09:04.260
+ or not ingesting a lot of sugars during the exercise.
+
+1:09:04.260 --> 1:09:06.260
+ That was supported by the fact that ingestion
+
+1:09:06.260 --> 1:09:09.300
+ of a sports drink that contains caloric sugar
+
+1:09:09.300 --> 1:09:12.200
+ immediately flat-lined the growth hormone levels.
+
+1:09:12.200 --> 1:09:14.140
+ So really interesting relationship
+
+1:09:14.140 --> 1:09:17.040
+ between insulin, glucose, and growth hormone.
+
+1:09:17.040 --> 1:09:21.340
+ So then doing the training for anywhere from 60 to 75 minutes
+
+1:09:21.340 --> 1:09:23.060
+ to maximize growth hormone release.
+
+1:09:23.060 --> 1:09:25.880
+ And then the other interesting thing
+
+1:09:25.880 --> 1:09:28.560
+ was that even after the exercise,
+
+1:09:28.560 --> 1:09:31.480
+ taking body temperature back down to normal levels
+
+1:09:31.480 --> 1:09:35.100
+ relatively quickly seemed to be associated
+
+1:09:35.100 --> 1:09:37.120
+ with these big spikes in growth hormone.
+
+1:09:37.120 --> 1:09:39.040
+ Otherwise, what would happen is you get these big spikes
+
+1:09:39.040 --> 1:09:41.960
+ in growth hormone, but if the exercise went too long
+
+1:09:41.960 --> 1:09:44.760
+ or if body temperature remained too high for too long,
+
+1:09:44.760 --> 1:09:47.500
+ then you didn't get the second increase in growth hormone
+
+1:09:47.500 --> 1:09:48.900
+ the following night, okay?
+
+1:09:48.900 --> 1:09:50.700
+ So I hope I made that abundantly clear.
+
+1:09:50.700 --> 1:09:53.100
+ Warm up well, get body temperature up,
+
+1:09:53.100 --> 1:09:55.560
+ exercise 60 to 75 minutes.
+
+1:09:55.560 --> 1:09:57.060
+ Don't go to absolute failure
+
+1:09:57.060 --> 1:10:00.820
+ if your interest is in growth hormone release
+
+1:10:00.820 --> 1:10:04.180
+ both during the exercise and later that night.
+
+1:10:04.180 --> 1:10:07.260
+ And if you can bring body temperature back down
+
+1:10:07.260 --> 1:10:08.780
+ to normal levels by cooling off,
+
+1:10:08.780 --> 1:10:11.040
+ maybe cool shower or maybe ice pack or something,
+
+1:10:11.040 --> 1:10:13.960
+ or maybe just turning off the heat in the room
+
+1:10:13.960 --> 1:10:15.820
+ or going outside, whatever it is,
+
+1:10:15.820 --> 1:10:17.380
+ then you increase the probability
+
+1:10:17.380 --> 1:10:19.680
+ that you're going to increase growth hormone
+
+1:10:19.680 --> 1:10:21.540
+ the following night as well.
+
+1:10:21.540 --> 1:10:24.140
+ And again, these are big increases, 300 to 500%.
+
+1:10:24.140 --> 1:10:27.180
+ And it's almost like you're getting a second sleep during
+
+1:10:27.180 --> 1:10:28.940
+ the day, but if the exercise is too hard,
+
+1:10:28.940 --> 1:10:31.580
+ if body temperature stays too high for too long,
+
+1:10:31.580 --> 1:10:33.140
+ you disrupt the whole process
+
+1:10:33.140 --> 1:10:35.820
+ and you don't get the effect of increased growth hormone.
+
+1:10:35.820 --> 1:10:37.380
+ Growth hormone is really powerful,
+
+1:10:37.380 --> 1:10:39.060
+ but it doesn't work alone.
+
+1:10:39.060 --> 1:10:42.100
+ In fact, a lot of the effects of growth hormone are mediated
+
+1:10:42.100 --> 1:10:43.660
+ by its effects on the liver.
+
+1:10:43.660 --> 1:10:45.560
+ So growth hormone is released, goes to the liver,
+
+1:10:45.560 --> 1:10:47.940
+ and then the liver releases something called IGF-1,
+
+1:10:47.940 --> 1:10:50.380
+ insulin growth factor one.
+
+1:10:50.380 --> 1:10:53.400
+ Insulin growth factor one was popular
+
+1:10:53.400 --> 1:10:55.660
+ in the neuroscience community as an area of focus
+
+1:10:55.660 --> 1:10:59.020
+ because of its ability to trigger improvements in memory
+
+1:10:59.020 --> 1:11:01.380
+ and learning after exercise.
+
+1:11:01.380 --> 1:11:03.620
+ And indeed, exercise triggers both the release
+
+1:11:03.620 --> 1:11:05.900
+ of growth hormone and IGF-1.
+
+1:11:05.900 --> 1:11:08.660
+ IGF-1 seems responsible for a lot of the effects
+
+1:11:08.660 --> 1:11:10.560
+ of improved memory.
+
+1:11:10.560 --> 1:11:14.100
+ Some people report that that is due to increased number
+
+1:11:14.100 --> 1:11:16.540
+ of neurons or neurogenesis, birth of new neurons.
+
+1:11:16.540 --> 1:11:18.180
+ It's pretty clear that in humans,
+
+1:11:18.180 --> 1:11:19.820
+ that's not what's happening.
+
+1:11:19.820 --> 1:11:21.220
+ Yes, in animals, not in humans.
+
+1:11:21.220 --> 1:11:23.440
+ IGF-1 nonetheless has positive effects
+
+1:11:23.440 --> 1:11:25.240
+ on memory and cognition.
+
+1:11:25.240 --> 1:11:27.340
+ And a great way to trigger IGF-1 release
+
+1:11:27.340 --> 1:11:30.460
+ and growth hormone release is through exercise.
+
+1:11:30.460 --> 1:11:32.460
+ Now, the interesting thing,
+
+1:11:32.460 --> 1:11:35.020
+ and the reason I'm bringing up IGF-1 here,
+
+1:11:35.020 --> 1:11:37.460
+ is that certain patterns of exercise,
+
+1:11:37.460 --> 1:11:39.340
+ actually duration of exercise,
+
+1:11:39.340 --> 1:11:42.440
+ have different effects on IGF-1 and growth hormone,
+
+1:11:43.360 --> 1:11:46.140
+ depending on whether or not the exercise is done
+
+1:11:46.140 --> 1:11:47.560
+ by men or women.
+
+1:11:47.560 --> 1:11:50.500
+ There's what we call a sex dependent effect.
+
+1:11:50.500 --> 1:11:53.800
+ And the sex dependent effect is as follows.
+
+1:11:53.800 --> 1:11:55.960
+ In this particular study and several others,
+
+1:11:55.960 --> 1:11:58.440
+ what they did is they had people exercise,
+
+1:11:58.440 --> 1:12:01.720
+ they measured growth hormone and IGF-1 levels
+
+1:12:01.720 --> 1:12:05.660
+ from the blood before, during, and after exercise.
+
+1:12:05.660 --> 1:12:08.340
+ And they could see when the greatest increases occurred.
+
+1:12:08.340 --> 1:12:11.700
+ This was standard sorts of resistance exercise.
+
+1:12:11.700 --> 1:12:16.700
+ So some squats, there was a sprint-like activity.
+
+1:12:16.700 --> 1:12:21.700
+ It doesn't really matter what the specific exercises were.
+
+1:12:21.780 --> 1:12:22.880
+ None of them were to failure.
+
+1:12:22.880 --> 1:12:26.580
+ These were in kind of the 10 repetition or less range,
+
+1:12:26.580 --> 1:12:28.800
+ six sets, so kind of standard weight training stuff
+
+1:12:28.800 --> 1:12:31.600
+ that anyone might do.
+
+1:12:31.600 --> 1:12:34.460
+ But what was interesting is that women were able
+
+1:12:34.460 --> 1:12:37.040
+ to access the biggest peak in growth hormone
+
+1:12:37.040 --> 1:12:40.920
+ and IGF-1 early in the exercise, so in the first 30 minutes.
+
+1:12:40.920 --> 1:12:45.160
+ So what this means is even if you just have 30 minutes,
+
+1:12:45.160 --> 1:12:48.860
+ at least for women, there's going to be a big increase
+
+1:12:48.860 --> 1:12:51.000
+ in growth hormone and IGF-1 in the first 30 minutes.
+
+1:12:51.000 --> 1:12:53.920
+ For men, the biggest increase occurred later
+
+1:12:53.920 --> 1:12:58.920
+ in the exercise, which was 60 minutes or so total.
+
+1:12:59.540 --> 1:13:02.580
+ And so the sex dependent effects are interesting.
+
+1:13:02.580 --> 1:13:04.500
+ They point to the fact that things like cortisol,
+
+1:13:04.500 --> 1:13:06.580
+ testosterone, and estrogen, which of course vary
+
+1:13:06.580 --> 1:13:08.620
+ in different levels in men and women,
+
+1:13:08.620 --> 1:13:12.700
+ are going to impact the release of things like IGF-1
+
+1:13:12.700 --> 1:13:13.540
+ and growth hormone.
+
+1:13:13.540 --> 1:13:16.260
+ And yes, they did control for all sorts of things
+
+1:13:16.260 --> 1:13:18.900
+ like diet, and they controlled for weight
+
+1:13:18.900 --> 1:13:19.980
+ and prior experience.
+
+1:13:19.980 --> 1:13:21.760
+ It's actually a quite nice study.
+
+1:13:21.760 --> 1:13:25.340
+ If you'd like to check it out, it's by Pierce et al.
+
+1:13:25.340 --> 1:13:28.500
+ Growth Hormone and Insulin Glow Factor-1 Molecular Weight.
+
+1:13:28.500 --> 1:13:32.180
+ Isoform response to resistance exercise are sex dependent
+
+1:13:32.180 --> 1:13:34.060
+ in frontiers and endocrinology.
+
+1:13:34.060 --> 1:13:37.100
+ Fine Journal in 2020, so it's quite recent.
+
+1:13:37.100 --> 1:13:38.420
+ So what does this mean?
+
+1:13:38.420 --> 1:13:41.180
+ This means if you're exercising
+
+1:13:41.180 --> 1:13:43.800
+ and you want growth hormone release, warm up,
+
+1:13:43.800 --> 1:13:46.100
+ do the type of exercise we've been discussing.
+
+1:13:47.380 --> 1:13:48.980
+ Women in the first 30 minutes
+
+1:13:48.980 --> 1:13:50.660
+ is when you're going to get the maximum benefit
+
+1:13:50.660 --> 1:13:52.580
+ in terms of growth hormone and IGF-1.
+
+1:13:52.580 --> 1:13:55.860
+ Men, you have to keep going for the entire 60 minutes,
+
+1:13:55.860 --> 1:13:58.220
+ so don't tap out early if you're interested
+
+1:13:58.220 --> 1:14:00.860
+ in getting the growth hormone and IGF-1 release.
+
+1:14:00.860 --> 1:14:04.120
+ And the same conditions apply about then cooling down
+
+1:14:04.120 --> 1:14:06.220
+ and not making the exercise last so long
+
+1:14:06.220 --> 1:14:08.180
+ that you don't get the increase in growth hormone
+
+1:14:08.180 --> 1:14:09.820
+ the following night.
+
+1:14:09.820 --> 1:14:13.280
+ My experience thus far in doing this podcast
+
+1:14:13.280 --> 1:14:16.120
+ is that people fall into one of two categories.
+
+1:14:16.120 --> 1:14:18.900
+ There are the, just tell me what to take people,
+
+1:14:18.900 --> 1:14:21.980
+ the people that are really eager to try supplements
+
+1:14:21.980 --> 1:14:24.180
+ and maybe even prescription compounds.
+
+1:14:24.180 --> 1:14:25.020
+ And then there are people
+
+1:14:25.020 --> 1:14:28.460
+ who are a little bit more shy about supplementation.
+
+1:14:28.460 --> 1:14:30.640
+ They are more focused on what they can do with diet
+
+1:14:30.640 --> 1:14:32.900
+ and behaviors and things of that sort.
+
+1:14:32.900 --> 1:14:34.100
+ I don't have a bias either way.
+
+1:14:34.100 --> 1:14:36.540
+ I try and offer tools that are supported
+
+1:14:36.540 --> 1:14:38.240
+ by the scientific literature.
+
+1:14:38.240 --> 1:14:41.320
+ And I always point to safety margins.
+
+1:14:41.320 --> 1:14:44.380
+ There are supplements that can increase growth hormone
+
+1:14:44.380 --> 1:14:46.320
+ to a considerable degree.
+
+1:14:46.320 --> 1:14:49.080
+ And no, these aren't growth hormone itself,
+
+1:14:49.080 --> 1:14:51.080
+ although that of course will increase growth hormone
+
+1:14:51.080 --> 1:14:52.060
+ to a considerable degree.
+
+1:14:52.060 --> 1:14:54.160
+ We will talk about prescription drugs at the end,
+
+1:14:54.160 --> 1:14:55.440
+ not just growth hormone,
+
+1:14:55.440 --> 1:14:58.440
+ but some other things that are quite prominently
+
+1:14:58.440 --> 1:14:59.520
+ in use right now,
+
+1:14:59.520 --> 1:15:02.760
+ in particular in the entertainment industry.
+
+1:15:03.740 --> 1:15:06.260
+ It's pretty interesting compounds.
+
+1:15:06.260 --> 1:15:07.920
+ But first let's talk about supplements.
+
+1:15:07.920 --> 1:15:10.500
+ So this has been known about for some time,
+
+1:15:10.500 --> 1:15:14.280
+ but arginine, the amino acid arginine,
+
+1:15:14.280 --> 1:15:17.020
+ as well as the amino acid ornithine
+
+1:15:17.020 --> 1:15:20.540
+ can increase growth hormone levels substantially.
+
+1:15:20.540 --> 1:15:24.620
+ Now, arginine has a number of effects.
+
+1:15:24.620 --> 1:15:27.180
+ You can get it from food, you can get it from supplements.
+
+1:15:27.180 --> 1:15:30.780
+ Some people take it in pill form or capsule form.
+
+1:15:30.780 --> 1:15:34.900
+ Some people will actually take it by IV, intravenously.
+
+1:15:34.900 --> 1:15:39.620
+ The levels and the amounts of arginine required
+
+1:15:39.620 --> 1:15:42.580
+ to get big growth hormone release increases
+
+1:15:42.580 --> 1:15:43.700
+ is pretty substantial.
+
+1:15:43.700 --> 1:15:46.860
+ So some people will take arginine before bedtime.
+
+1:15:46.860 --> 1:15:49.740
+ Some people will take it before exercise.
+
+1:15:49.740 --> 1:15:53.380
+ The prerequisite again is low blood glucose.
+
+1:15:53.380 --> 1:15:56.820
+ Blood glucose is high, it's going to quash the effect.
+
+1:15:56.820 --> 1:15:59.720
+ The amounts of arginine that people take
+
+1:15:59.720 --> 1:16:04.260
+ are anywhere from three grams to 10 grams
+
+1:16:04.260 --> 1:16:05.660
+ or sometimes even more.
+
+1:16:05.660 --> 1:16:09.580
+ Although this is definitely a case of more is not better.
+
+1:16:09.580 --> 1:16:12.820
+ There is a threshold at which growth hormone release
+
+1:16:12.820 --> 1:16:16.380
+ is actually blunted by taking more than nine grams
+
+1:16:16.380 --> 1:16:17.840
+ of arginine.
+
+1:16:17.840 --> 1:16:20.700
+ Now, nine grams of arginine orally is a lot of pills.
+
+1:16:20.700 --> 1:16:23.020
+ It's at minimum nine pills.
+
+1:16:23.020 --> 1:16:26.640
+ And it can cause some GI disturbance, right?
+
+1:16:26.640 --> 1:16:27.780
+ People can feel nauseous.
+
+1:16:27.780 --> 1:16:29.060
+ Some people will throw it up.
+
+1:16:29.060 --> 1:16:34.240
+ Some people will get some constipation or diarrhea, et cetera,
+
+1:16:34.240 --> 1:16:35.540
+ or just stomach aches.
+
+1:16:35.540 --> 1:16:37.740
+ I'm certainly not suggesting people do this,
+
+1:16:37.740 --> 1:16:39.460
+ that they take arginine,
+
+1:16:39.460 --> 1:16:42.700
+ but that's the reason why most of the studies
+
+1:16:42.700 --> 1:16:46.140
+ that looked at the role of arginine on growth hormone levels
+
+1:16:46.140 --> 1:16:50.200
+ did it by IV, intravenous infusion.
+
+1:16:50.200 --> 1:16:52.600
+ So what's interesting, however,
+
+1:16:52.600 --> 1:16:56.980
+ is that whether or not it's by mouth or by vein,
+
+1:16:56.980 --> 1:17:00.180
+ taking arginine can dramatically increase
+
+1:17:00.180 --> 1:17:01.600
+ growth hormone release.
+
+1:17:01.600 --> 1:17:05.380
+ And the levels or the amount of increase
+
+1:17:05.380 --> 1:17:09.640
+ raised was anywhere from 100 on the low end,
+
+1:17:09.640 --> 1:17:13.300
+ but anywhere from basically from 400 to 600%
+
+1:17:13.300 --> 1:17:14.140
+ above baseline.
+
+1:17:14.140 --> 1:17:17.740
+ So these are huge increases in growth hormone.
+
+1:17:17.740 --> 1:17:19.340
+ Now, I've never tried arginine.
+
+1:17:20.180 --> 1:17:22.860
+ Arginine is out there for a number of different purposes.
+
+1:17:22.860 --> 1:17:24.940
+ One of them is to increase growth hormone.
+
+1:17:24.940 --> 1:17:27.780
+ Some of the supplements out there to increase growth hormone
+
+1:17:27.780 --> 1:17:30.300
+ include arginine and ornithine.
+
+1:17:30.300 --> 1:17:35.200
+ Arginine does have the effect of dilating arterioles
+
+1:17:35.200 --> 1:17:39.180
+ and it basically increases blood supply.
+
+1:17:39.180 --> 1:17:42.140
+ The arginine pathway is involved in vasodilation.
+
+1:17:42.140 --> 1:17:44.580
+ It's actually the pathway that's downstream
+
+1:17:44.580 --> 1:17:47.700
+ of a lot of drugs that are used to treat things
+
+1:17:47.700 --> 1:17:49.020
+ like erectile dysfunction.
+
+1:17:49.020 --> 1:17:51.860
+ And anytime people have problems
+
+1:17:51.860 --> 1:17:55.020
+ with peripheral blood flow of any kind,
+
+1:17:55.020 --> 1:18:00.020
+ they focus on compounds that will either disrupt the enzymes
+
+1:18:01.060 --> 1:18:03.980
+ or will adjust the levels of amino acids
+
+1:18:03.980 --> 1:18:05.340
+ to get more vasodilation.
+
+1:18:05.340 --> 1:18:07.500
+ So taking arginine for the purpose
+
+1:18:07.500 --> 1:18:10.300
+ of increasing growth hormone will also have the effect
+
+1:18:10.300 --> 1:18:11.980
+ of dilating blood vessels.
+
+1:18:11.980 --> 1:18:14.380
+ And for people with blood, excuse me, with heart conditions,
+
+1:18:14.380 --> 1:18:17.220
+ that actually can be a serious issue.
+
+1:18:17.220 --> 1:18:19.300
+ Now, here is something really important
+
+1:18:19.300 --> 1:18:20.780
+ and interesting to note,
+
+1:18:20.780 --> 1:18:24.900
+ which is that increasing arginine levels
+
+1:18:24.900 --> 1:18:28.420
+ with the specific goal of increasing growth hormone release
+
+1:18:29.620 --> 1:18:33.420
+ can actually short circuit the effects of exercise
+
+1:18:33.420 --> 1:18:34.340
+ on growth hormone.
+
+1:18:34.340 --> 1:18:37.660
+ Several studies I looked at looked at the interaction
+
+1:18:37.660 --> 1:18:42.100
+ of taking arginine and the exercise
+
+1:18:42.100 --> 1:18:44.780
+ or just the arginine or just the exercise alone.
+
+1:18:44.780 --> 1:18:47.060
+ And so you don't, unfortunately,
+
+1:18:47.060 --> 1:18:48.660
+ if growth hormone increases your goal,
+
+1:18:48.660 --> 1:18:52.160
+ you don't unfortunately get to increase growth hormone 800%
+
+1:18:52.160 --> 1:18:53.840
+ by taking arginine and exercising.
+
+1:18:53.840 --> 1:18:57.580
+ It always seems to be clamped at about 300 to 500% increases,
+
+1:18:57.580 --> 1:18:59.180
+ still large increases.
+
+1:18:59.180 --> 1:19:00.900
+ So I make that point for several reasons.
+
+1:19:00.900 --> 1:19:04.620
+ First of all, be aware that arginine has these other effects
+
+1:19:04.620 --> 1:19:06.940
+ on vasodilation, take those seriously
+
+1:19:06.940 --> 1:19:08.180
+ if you have a heart condition
+
+1:19:08.180 --> 1:19:10.620
+ or take them seriously in any case.
+
+1:19:10.620 --> 1:19:13.500
+ Second of all, you can supplement with arginine,
+
+1:19:13.500 --> 1:19:17.120
+ not exercise and get these big increases in growth hormone
+
+1:19:17.120 --> 1:19:19.140
+ by taking them before sleep.
+
+1:19:19.140 --> 1:19:23.300
+ But if you're taking the arginine before exercise,
+
+1:19:23.300 --> 1:19:25.340
+ you are going to short circuit
+
+1:19:25.340 --> 1:19:29.020
+ or clamp the effects of exercise on growth hormone, okay?
+
+1:19:29.020 --> 1:19:31.720
+ So it's something that one could use,
+
+1:19:31.720 --> 1:19:35.420
+ but it doesn't have a synergistic effect with exercise.
+
+1:19:35.420 --> 1:19:39.180
+ The two more or less cancel each other out, not to zero,
+
+1:19:39.180 --> 1:19:41.100
+ but you end up with the same effect you would
+
+1:19:41.100 --> 1:19:42.840
+ had you done one or the other.
+
+1:19:42.840 --> 1:19:44.280
+ So hopefully that's clear.
+
+1:19:44.280 --> 1:19:46.260
+ The other thing is if one's goal
+
+1:19:46.260 --> 1:19:48.580
+ is really to increase arginine in the blood
+
+1:19:48.580 --> 1:19:49.460
+ for whatever reason,
+
+1:19:49.460 --> 1:19:53.140
+ arginine may not actually be the best way to do that
+
+1:19:53.140 --> 1:19:56.180
+ because of the way it's metabolized in the gut.
+
+1:19:56.180 --> 1:20:00.080
+ It doesn't have access or get access to the tissues
+
+1:20:00.080 --> 1:20:01.620
+ that you're most interested in
+
+1:20:01.620 --> 1:20:03.220
+ in terms of increasing growth hormone
+
+1:20:03.220 --> 1:20:04.860
+ or vasodilation for that matter.
+
+1:20:04.860 --> 1:20:08.220
+ And in that case, there's something else called L-citrulline
+
+1:20:08.220 --> 1:20:11.860
+ which has powerful effects on vasodilation,
+
+1:20:11.860 --> 1:20:16.860
+ powerful effects on potentially on growth hormone levels
+
+1:20:17.580 --> 1:20:19.180
+ via the arginine pathway.
+
+1:20:19.180 --> 1:20:23.540
+ But basically L-citrulline acts as sort of a donor
+
+1:20:23.540 --> 1:20:25.880
+ or let's say it's kind of a biological prerequisite
+
+1:20:25.880 --> 1:20:29.780
+ for arginine and can lead to even bigger arginine increases
+
+1:20:29.780 --> 1:20:32.180
+ than you would get if you took arginine itself.
+
+1:20:32.180 --> 1:20:34.660
+ And so L-citrulline is out there.
+
+1:20:34.660 --> 1:20:37.680
+ Keep in mind that anything that dilates the blood vessels
+
+1:20:37.680 --> 1:20:39.100
+ will lower blood pressure.
+
+1:20:39.100 --> 1:20:42.020
+ So L-citrulline, yes, will lead to increased blood flow
+
+1:20:42.020 --> 1:20:44.620
+ for whatever purpose you want to use it for,
+
+1:20:44.620 --> 1:20:47.180
+ whether or not that's pumps in the gym or whatever.
+
+1:20:48.180 --> 1:20:50.440
+ It also can lead to big increases
+
+1:20:50.440 --> 1:20:52.080
+ in arginine and growth hormone,
+
+1:20:52.080 --> 1:20:54.220
+ but it will lower blood pressure.
+
+1:20:54.220 --> 1:20:56.140
+ So be aware of that
+
+1:20:56.140 --> 1:20:58.700
+ and understand that the biology isn't so straightforward.
+
+1:20:58.700 --> 1:21:00.400
+ L-citrulline may actually be the better way
+
+1:21:00.400 --> 1:21:03.900
+ to get arginine increases than arginine itself.
+
+1:21:03.900 --> 1:21:07.780
+ And ornithine can also increase growth hormone,
+
+1:21:07.780 --> 1:21:10.140
+ although that's also through an indirect pathway.
+
+1:21:10.140 --> 1:21:13.460
+ And nowadays there isn't a lot of focus on ornithine
+
+1:21:13.460 --> 1:21:15.420
+ as a way to increase growth hormone.
+
+1:21:15.420 --> 1:21:17.700
+ That was kind of all the rage in the 90s,
+
+1:21:17.700 --> 1:21:18.740
+ not so much anymore.
+
+1:21:18.740 --> 1:21:20.560
+ Nowadays, the people who are really in the know
+
+1:21:20.560 --> 1:21:23.380
+ for this stuff tend to focus on L-citrulline.
+
+1:21:23.380 --> 1:21:26.540
+ And if you're interested in L-citrulline or arginine,
+
+1:21:26.540 --> 1:21:30.340
+ I highly recommend you go to our old friend,
+
+1:21:30.340 --> 1:21:32.540
+ good friends examine.com,
+
+1:21:32.540 --> 1:21:35.900
+ because there you can put it into the list.
+
+1:21:35.900 --> 1:21:39.420
+ You can just put search and it's totally free.
+
+1:21:39.420 --> 1:21:41.380
+ And it will tell you that blood pressure
+
+1:21:41.380 --> 1:21:42.460
+ will be slightly decreased.
+
+1:21:42.460 --> 1:21:44.460
+ Power output in the gym will increase.
+
+1:21:44.460 --> 1:21:46.360
+ There's very strong effects on blood glucose.
+
+1:21:46.360 --> 1:21:48.800
+ Fatigue is reduced notably.
+
+1:21:48.800 --> 1:21:51.200
+ Big increases in nitric oxide.
+
+1:21:51.200 --> 1:21:54.020
+ That's also related to the increase in vasodilation.
+
+1:21:54.020 --> 1:21:58.180
+ Plasma, arginine, very high, excuse me,
+
+1:21:58.180 --> 1:22:01.980
+ notable effects, very high support for studies
+
+1:22:01.980 --> 1:22:03.860
+ which allow people more training volume,
+
+1:22:03.860 --> 1:22:06.420
+ aerobic exercise, arterial stiffness is brought down.
+
+1:22:06.420 --> 1:22:07.860
+ There's a huge list of things.
+
+1:22:07.860 --> 1:22:09.660
+ Increase in growth hormone.
+
+1:22:09.660 --> 1:22:13.500
+ So two studies showing this was done double-blind.
+
+1:22:13.500 --> 1:22:14.980
+ Great, you always want to see double-blind,
+
+1:22:14.980 --> 1:22:16.080
+ placebo-controlled.
+
+1:22:16.080 --> 1:22:18.940
+ This was only done in males, not in females.
+
+1:22:18.940 --> 1:22:21.740
+ Unfortunately, just have data from males.
+
+1:22:21.740 --> 1:22:23.780
+ But increases in growth hormone,
+
+1:22:23.780 --> 1:22:27.380
+ it's a small but a real significant effect.
+
+1:22:27.380 --> 1:22:29.300
+ And again, from quality studies.
+
+1:22:29.300 --> 1:22:31.340
+ So there's a huge number of effects there.
+
+1:22:31.340 --> 1:22:34.660
+ And some of the other kind of more interesting ones
+
+1:22:34.660 --> 1:22:38.980
+ about L-citrulline that you might not have thought about
+
+1:22:38.980 --> 1:22:42.060
+ are things like muscle oxygenation,
+
+1:22:44.100 --> 1:22:47.260
+ as we scroll down, decreases in C-reactive protein.
+
+1:22:47.260 --> 1:22:50.260
+ So a lot of the same things that you might expect,
+
+1:22:50.260 --> 1:22:53.020
+ excuse me, from the same sorts of compounds we saw before.
+
+1:22:53.020 --> 1:22:56.140
+ The takeaway here is if you want to increase growth hormone,
+
+1:22:56.140 --> 1:22:57.780
+ think about the arginine pathway,
+
+1:22:57.780 --> 1:23:01.060
+ but arginine itself might not be the best direct route
+
+1:23:01.060 --> 1:23:01.900
+ to get there.
+
+1:23:01.900 --> 1:23:03.860
+ L-citrulline might be a better option,
+
+1:23:03.860 --> 1:23:07.100
+ but please do consider and take very seriously
+
+1:23:07.100 --> 1:23:08.600
+ the effects on blood pressure.
+
+1:23:09.480 --> 1:23:11.860
+ So we've been talking about big effects
+
+1:23:11.860 --> 1:23:15.380
+ from supplementation or exercise on growth hormone,
+
+1:23:15.380 --> 1:23:17.700
+ this extremely powerful hormone.
+
+1:23:17.700 --> 1:23:20.340
+ And one thing to note is that
+
+1:23:20.340 --> 1:23:24.200
+ the profile of growth hormone as we age changes.
+
+1:23:24.200 --> 1:23:25.500
+ I mentioned that earlier,
+
+1:23:25.500 --> 1:23:28.540
+ but it's important to understand how it changes.
+
+1:23:28.540 --> 1:23:30.200
+ One thing that's particularly interesting to me
+
+1:23:30.200 --> 1:23:31.980
+ as somebody who's in his 40s
+
+1:23:31.980 --> 1:23:36.620
+ is that it's actually between ages 30 and 40,
+
+1:23:36.620 --> 1:23:39.100
+ that the amount of growth hormone that you release
+
+1:23:39.100 --> 1:23:42.940
+ each night is reduced by two to threefold.
+
+1:23:42.940 --> 1:23:44.660
+ That's really incredible.
+
+1:23:44.660 --> 1:23:47.740
+ We hear so much about testosterone levels going down
+
+1:23:47.740 --> 1:23:49.980
+ as we age or estrogen levels going down.
+
+1:23:49.980 --> 1:23:53.360
+ But if you recall from the testosterone and estrogen episode
+
+1:23:53.360 --> 1:23:55.980
+ talked about the fact that if you really look at the data,
+
+1:23:55.980 --> 1:23:58.100
+ just for instance, on testosterone,
+
+1:23:58.100 --> 1:24:00.580
+ there are men in their 90s,
+
+1:24:00.580 --> 1:24:02.860
+ and they are not rare, it turns out,
+
+1:24:02.860 --> 1:24:06.220
+ that are making as much testosterone and DHT,
+
+1:24:06.220 --> 1:24:09.780
+ dihydrotestosterone, as they were in their 20s, okay?
+
+1:24:09.780 --> 1:24:11.900
+ So we hear so much nowadays about how
+
+1:24:11.900 --> 1:24:13.360
+ testosterone levels are dropping,
+
+1:24:13.360 --> 1:24:15.520
+ sperm levels are dropping, et cetera.
+
+1:24:15.520 --> 1:24:17.420
+ And I don't dispute that.
+
+1:24:17.420 --> 1:24:19.540
+ I talked about that in that episode.
+
+1:24:19.540 --> 1:24:21.260
+ But it's clear that testosterone levels
+
+1:24:21.260 --> 1:24:23.980
+ vary tremendously from person to person.
+
+1:24:23.980 --> 1:24:26.500
+ And just getting older does not necessarily mean
+
+1:24:26.500 --> 1:24:28.740
+ that testosterone levels are dropping.
+
+1:24:28.740 --> 1:24:31.380
+ Growth hormone levels, it seems,
+
+1:24:31.380 --> 1:24:33.900
+ are dropping when people are in their 30s and 40s,
+
+1:24:33.900 --> 1:24:35.340
+ and they're dropping substantially.
+
+1:24:35.340 --> 1:24:37.580
+ And that seems to be the case across the board.
+
+1:24:37.580 --> 1:24:38.940
+ You're just not going to find people
+
+1:24:38.940 --> 1:24:40.460
+ in their 40s, 50s, and 60s
+
+1:24:40.460 --> 1:24:42.540
+ that are making as much growth hormone
+
+1:24:42.540 --> 1:24:44.780
+ as they were in their teens and 20s.
+
+1:24:44.780 --> 1:24:48.300
+ And as somebody who, I feel really good,
+
+1:24:48.300 --> 1:24:50.660
+ but as somebody who definitely noticed
+
+1:24:50.660 --> 1:24:51.940
+ that as I got into my 40s,
+
+1:24:51.940 --> 1:24:54.160
+ that even if I slept the same amount,
+
+1:24:54.160 --> 1:24:56.940
+ I wasn't feeling quite as,
+
+1:24:56.940 --> 1:25:01.940
+ I would say, able to recover from exercise or wound healing,
+
+1:25:02.160 --> 1:25:03.500
+ even with the same amount of sleep.
+
+1:25:03.500 --> 1:25:05.880
+ And I was trying to optimize a great number of things.
+
+1:25:05.880 --> 1:25:07.620
+ This business of growth hormone
+
+1:25:07.620 --> 1:25:09.380
+ became of particular interest to me.
+
+1:25:09.380 --> 1:25:11.780
+ And since the ways to manipulate growth hormone
+
+1:25:11.780 --> 1:25:14.060
+ in men and in women are so straightforward,
+
+1:25:14.060 --> 1:25:15.940
+ and since everybody goes through this
+
+1:25:15.940 --> 1:25:18.500
+ age-related decline very dramatically,
+
+1:25:18.500 --> 1:25:19.980
+ it seems to me that the things
+
+1:25:19.980 --> 1:25:21.460
+ that we're supposed to be doing anyway,
+
+1:25:21.460 --> 1:25:24.620
+ like exercising, like trying not to eat too close to bedtime,
+
+1:25:24.620 --> 1:25:25.700
+ trying to optimize sleep,
+
+1:25:25.700 --> 1:25:27.100
+ all of these are wonderful tools
+
+1:25:27.100 --> 1:25:31.540
+ that we should be pursuing and perhaps using,
+
+1:25:31.540 --> 1:25:34.220
+ and they can actually offset
+
+1:25:34.220 --> 1:25:36.340
+ the two to three-fold decrease, right?
+
+1:25:36.340 --> 1:25:38.100
+ If we're talking about a two to three-fold decrease
+
+1:25:38.100 --> 1:25:40.220
+ for people that are in their 30s and 40s,
+
+1:25:40.220 --> 1:25:43.260
+ and then we're talking about increases from exercise
+
+1:25:43.260 --> 1:25:45.160
+ or from maybe from supplementation,
+
+1:25:45.160 --> 1:25:48.980
+ but certainly from exercise of 300 to 500%,
+
+1:25:48.980 --> 1:25:50.960
+ well, then all of a sudden we're in a position
+
+1:25:50.960 --> 1:25:53.180
+ to actually offset the age-related decline
+
+1:25:53.180 --> 1:25:55.780
+ and growth hormone completely just through behaviors.
+
+1:25:55.780 --> 1:25:59.140
+ And I think that's quite interesting and quite powerful.
+
+1:25:59.140 --> 1:26:00.380
+ Now I'd like to discuss a way
+
+1:26:00.380 --> 1:26:02.160
+ that anyone can increase their levels
+
+1:26:02.160 --> 1:26:04.140
+ of growth hormone dramatically.
+
+1:26:04.140 --> 1:26:06.520
+ And when I say dramatically, I mean dramatically.
+
+1:26:06.520 --> 1:26:08.380
+ I'll get to the numbers in a couple of minutes,
+
+1:26:08.380 --> 1:26:12.420
+ but we have to remember how growth hormone
+
+1:26:12.420 --> 1:26:14.460
+ is released in the first place.
+
+1:26:14.460 --> 1:26:18.020
+ Remember, it all starts in the brain, in the hypothalamus.
+
+1:26:18.020 --> 1:26:19.460
+ The hypothalamus is a brain area
+
+1:26:19.460 --> 1:26:22.340
+ that controls things like sexual behavior,
+
+1:26:22.340 --> 1:26:25.580
+ temperature regulation, circadian behavior,
+
+1:26:25.580 --> 1:26:26.800
+ meaning when you want to be awake
+
+1:26:26.800 --> 1:26:30.460
+ and when you want to be asleep, aggression, all of that.
+
+1:26:30.460 --> 1:26:32.140
+ There are other brain areas involved too,
+
+1:26:32.140 --> 1:26:35.180
+ but it has a rich collection of different neurons
+
+1:26:35.180 --> 1:26:38.860
+ involved in all these very basic functions.
+
+1:26:38.860 --> 1:26:42.580
+ Now, as we talked about, the releasing hormones,
+
+1:26:42.580 --> 1:26:44.920
+ the growth hormone releasing hormone
+
+1:26:44.920 --> 1:26:47.300
+ comes from neurons in the hypothalamus.
+
+1:26:47.300 --> 1:26:49.740
+ Those then communicate with the pituitary
+
+1:26:49.740 --> 1:26:52.940
+ and the pituitary releases growth hormone.
+
+1:26:52.940 --> 1:26:54.180
+ And then the growth hormone acts
+
+1:26:54.180 --> 1:26:55.300
+ on all these different tissues,
+
+1:26:55.300 --> 1:26:58.400
+ muscle, liver, cartilage, et cetera, body fat.
+
+1:26:59.700 --> 1:27:01.220
+ Makes them use energy.
+
+1:27:01.220 --> 1:27:02.260
+ That's why you lose body fat
+
+1:27:02.260 --> 1:27:03.860
+ when growth hormone levels are high.
+
+1:27:03.860 --> 1:27:07.460
+ It makes you grow muscle, strengthens bones, et cetera.
+
+1:27:08.800 --> 1:27:13.640
+ Now, one of the things that has a profound effect
+
+1:27:13.640 --> 1:27:17.260
+ on growth hormone levels, growth hormone release
+
+1:27:17.260 --> 1:27:18.780
+ is temperature.
+
+1:27:18.780 --> 1:27:21.020
+ Now, the data on this are very strong
+
+1:27:21.020 --> 1:27:23.220
+ and the data come from both animal studies
+
+1:27:23.220 --> 1:27:25.100
+ and human studies.
+
+1:27:25.100 --> 1:27:27.040
+ So there are a number of studies that have explored
+
+1:27:27.040 --> 1:27:31.580
+ how making animals cold or hot can increase growth hormone.
+
+1:27:31.580 --> 1:27:35.220
+ And if you're guessing which direction this is going to go,
+
+1:27:35.220 --> 1:27:38.140
+ you can probably imagine that making animals
+
+1:27:38.140 --> 1:27:41.100
+ or people warmer is the way to go
+
+1:27:41.100 --> 1:27:43.220
+ if you want to increase growth hormone.
+
+1:27:43.220 --> 1:27:45.940
+ Now, anytime you're going to increase temperature
+
+1:27:45.940 --> 1:27:49.660
+ of yourself or anyone else or an animal, it is risky.
+
+1:27:49.660 --> 1:27:51.180
+ I want to be really clear about this.
+
+1:27:51.180 --> 1:27:54.140
+ Not everyone should engage in the behaviors
+
+1:27:54.140 --> 1:27:56.060
+ I'm about to describe.
+
+1:27:56.060 --> 1:27:59.100
+ But, and I should just say the reason it's risky
+
+1:27:59.100 --> 1:28:01.020
+ is it doesn't take much of a temperature increase
+
+1:28:01.020 --> 1:28:03.780
+ in the brain to cook the brain, to cook neurons.
+
+1:28:03.780 --> 1:28:06.620
+ And after that point, neurons can't come back
+
+1:28:06.620 --> 1:28:09.540
+ and people can die from hyperthermia.
+
+1:28:09.540 --> 1:28:11.420
+ We have a much greater range in terms of cold.
+
+1:28:11.420 --> 1:28:12.980
+ You can also die of hypothermia.
+
+1:28:12.980 --> 1:28:14.940
+ You can freeze to death.
+
+1:28:14.940 --> 1:28:18.180
+ But you have a much greater range of getting cold
+
+1:28:18.180 --> 1:28:20.400
+ than you do warming up the brain.
+
+1:28:20.400 --> 1:28:24.780
+ However, there are really strong data pointing to the fact
+
+1:28:24.780 --> 1:28:29.780
+ that sauna, aka deliberate hyperthermia,
+
+1:28:30.540 --> 1:28:32.380
+ not too high, however,
+
+1:28:32.380 --> 1:28:35.340
+ that sauna can increase the release of growth hormone
+
+1:28:35.340 --> 1:28:37.020
+ and other hormones.
+
+1:28:37.020 --> 1:28:39.060
+ And what's so dramatic about this literature
+
+1:28:39.060 --> 1:28:42.660
+ is the size of the effects that are reported.
+
+1:28:42.660 --> 1:28:45.140
+ So first of all, let's talk about
+
+1:28:45.140 --> 1:28:46.380
+ these temperature increases.
+
+1:28:46.380 --> 1:28:49.460
+ And yes, I will refer to things that people can do
+
+1:28:49.460 --> 1:28:52.340
+ even if you don't own a sauna.
+
+1:28:52.340 --> 1:28:54.780
+ Because I realize not everybody has a sauna
+
+1:28:54.780 --> 1:28:57.020
+ in their backyard or has access to a sauna.
+
+1:28:57.020 --> 1:29:01.500
+ So first of all, recall our study about exercise
+
+1:29:01.500 --> 1:29:04.940
+ where warming up a few degrees before the exercise
+
+1:29:04.940 --> 1:29:08.580
+ led to bigger and quicker increases in growth hormone
+
+1:29:08.580 --> 1:29:11.100
+ during the exercise bout itself.
+
+1:29:11.100 --> 1:29:12.660
+ So that already pointed in the direction
+
+1:29:12.660 --> 1:29:14.460
+ that temperature was important.
+
+1:29:14.460 --> 1:29:17.700
+ Now, the degrees, no pun intended,
+
+1:29:17.700 --> 1:29:21.620
+ that we're talking about increasing body temperature
+
+1:29:21.620 --> 1:29:25.140
+ is by entering saunas that are somewhere
+
+1:29:25.140 --> 1:29:28.140
+ between 176 degrees Fahrenheit,
+
+1:29:28.140 --> 1:29:30.220
+ so that's 80 degrees Celsius,
+
+1:29:31.540 --> 1:29:36.540
+ and all the way up to like 210, 215 degrees Fahrenheit.
+
+1:29:36.940 --> 1:29:39.480
+ I personally know people that go even higher than that,
+
+1:29:39.480 --> 1:29:41.420
+ but they've trained themselves to deal with
+
+1:29:41.420 --> 1:29:42.260
+ with very high heat.
+
+1:29:42.260 --> 1:29:43.740
+ So again, high heat is dangerous.
+
+1:29:43.740 --> 1:29:45.600
+ You must clear this with your doctor.
+
+1:29:45.600 --> 1:29:47.460
+ Now, what happens in high heat?
+
+1:29:47.460 --> 1:29:48.740
+ Couple of things happen in high heat.
+
+1:29:48.740 --> 1:29:51.940
+ First of all, you start getting bigger stroke volume
+
+1:29:51.940 --> 1:29:53.500
+ of the heart, kind of like an exercise.
+
+1:29:53.500 --> 1:29:55.700
+ Once you get well-trained in endurance activity,
+
+1:29:55.700 --> 1:29:57.180
+ your stroke volume, the amount of blood
+
+1:29:57.180 --> 1:29:59.640
+ that your heart can pump each time gets larger.
+
+1:30:00.700 --> 1:30:02.860
+ You dilate the blood vessels, right?
+
+1:30:02.860 --> 1:30:04.000
+ There are a lot of things that happen also.
+
+1:30:04.000 --> 1:30:06.660
+ You're sweating, your body's trying to unload heat.
+
+1:30:06.660 --> 1:30:11.420
+ So dilation of blood vessels, arginine increases in heat.
+
+1:30:11.420 --> 1:30:14.620
+ We're starting to see and hear a common theme,
+
+1:30:14.620 --> 1:30:17.160
+ but it appears that getting into,
+
+1:30:17.160 --> 1:30:19.900
+ I'm not saying getting the body up to 212 degrees Fahrenheit,
+
+1:30:19.900 --> 1:30:21.140
+ I want to be very clear,
+
+1:30:21.140 --> 1:30:22.460
+ not talking about getting the body
+
+1:30:22.460 --> 1:30:25.460
+ up to 100 degrees Celsius, that would be terrible.
+
+1:30:25.460 --> 1:30:26.420
+ You would die.
+
+1:30:26.420 --> 1:30:30.160
+ But entering environments where it's very hot
+
+1:30:30.160 --> 1:30:31.380
+ for short periods of time,
+
+1:30:31.380 --> 1:30:34.180
+ anywhere from 20 minutes to 30 minutes,
+
+1:30:34.180 --> 1:30:38.980
+ where the temperature is 80 degrees Celsius
+
+1:30:38.980 --> 1:30:40.340
+ to 100 degrees Celsius,
+
+1:30:40.340 --> 1:30:43.240
+ or 175 degrees Fahrenheit, more or less,
+
+1:30:43.240 --> 1:30:46.600
+ to about 210 degrees Fahrenheit, more or less,
+
+1:30:46.600 --> 1:30:51.600
+ has been shown to increase growth hormone release 16 fold.
+
+1:30:51.740 --> 1:30:55.780
+ That's right, 16 fold, that's 1,600%.
+
+1:30:55.780 --> 1:30:58.020
+ Now, there are also effects on other hormones,
+
+1:30:58.020 --> 1:31:00.500
+ prolactin, cortisol, et cetera.
+
+1:31:00.500 --> 1:31:03.980
+ So the pattern that was described in this study,
+
+1:31:03.980 --> 1:31:05.780
+ and there've been many studies now,
+
+1:31:06.840 --> 1:31:11.840
+ endocrine effects of rupita sauna were done in 17 humans.
+
+1:31:14.260 --> 1:31:16.500
+ This was from doing this repeatedly.
+
+1:31:16.500 --> 1:31:17.860
+ So it wasn't the first time they did this.
+
+1:31:17.860 --> 1:31:19.900
+ They actually had to do this three days in a row.
+
+1:31:19.900 --> 1:31:23.380
+ And the pattern was to get into the sauna for 20 minutes,
+
+1:31:23.380 --> 1:31:25.420
+ followed by a 30 minute cooling period.
+
+1:31:25.420 --> 1:31:26.860
+ Remember, you don't want to spend long periods
+
+1:31:26.860 --> 1:31:27.740
+ of time at high heat.
+
+1:31:27.740 --> 1:31:30.800
+ You can cook your brain and other tissues.
+
+1:31:30.800 --> 1:31:33.320
+ Be very careful as you approach this if you decide to.
+
+1:31:33.320 --> 1:31:36.540
+ But 30 minutes, excuse me, 20 minutes sauna,
+
+1:31:36.540 --> 1:31:38.140
+ followed by 30 minutes of cooling,
+
+1:31:38.140 --> 1:31:40.620
+ followed by 20 minutes sauna, again,
+
+1:31:40.620 --> 1:31:42.680
+ led to a five-fold increase in growth hormone.
+
+1:31:42.680 --> 1:31:47.180
+ And then by doing that day after day after day,
+
+1:31:47.180 --> 1:31:50.140
+ on the third day, you would see these huge increases
+
+1:31:50.140 --> 1:31:52.640
+ of like 16 fold, up to 16 fold.
+
+1:31:52.640 --> 1:31:54.440
+ And there are now many studies like this.
+
+1:31:54.440 --> 1:31:57.460
+ This was described a few years ago.
+
+1:31:58.960 --> 1:32:02.540
+ But since then, there have been a number of other studies
+
+1:32:02.540 --> 1:32:04.020
+ that have pointed in the direction
+
+1:32:04.020 --> 1:32:08.700
+ of deliberate hyperthermia, but not too hot,
+
+1:32:08.700 --> 1:32:11.900
+ that you kill yourself in order to increase growth hormone.
+
+1:32:11.900 --> 1:32:13.740
+ And I know I keep highlighting the dangers there,
+
+1:32:13.740 --> 1:32:16.660
+ but again, anytime you're going to mess with heat,
+
+1:32:16.660 --> 1:32:18.980
+ you have to be cautious, you have to be careful.
+
+1:32:18.980 --> 1:32:21.920
+ So standard sauna can be useful.
+
+1:32:21.920 --> 1:32:23.500
+ If you don't have access to a sauna,
+
+1:32:23.500 --> 1:32:25.280
+ one way that people do this,
+
+1:32:25.280 --> 1:32:27.620
+ we have to look to our friends, the wrestlers, right?
+
+1:32:27.620 --> 1:32:31.240
+ They wear plastics, which are basically body suits
+
+1:32:31.240 --> 1:32:33.700
+ that are fairly inexpensive that you can buy
+
+1:32:33.700 --> 1:32:38.700
+ on any online purchase platform, I should say.
+
+1:32:39.700 --> 1:32:41.380
+ Some people in the old days
+
+1:32:41.380 --> 1:32:46.380
+ before they had these plastics things so readily available,
+
+1:32:46.740 --> 1:32:49.420
+ I actually knew people that wrap themselves in garbage bags
+
+1:32:49.420 --> 1:32:50.660
+ and then throw on sweats and a hoodie
+
+1:32:50.660 --> 1:32:52.140
+ and then go out for a jog.
+
+1:32:52.140 --> 1:32:53.500
+ Again, you have to be really careful,
+
+1:32:53.500 --> 1:32:56.680
+ especially on a hot day, overheating can equate to death,
+
+1:32:56.680 --> 1:32:58.940
+ but that's another way to heat up.
+
+1:32:58.940 --> 1:33:00.620
+ You don't actually need a sauna.
+
+1:33:00.620 --> 1:33:02.700
+ I've known people who will do this in hotel rooms
+
+1:33:02.700 --> 1:33:03.960
+ while they're traveling.
+
+1:33:03.960 --> 1:33:06.620
+ They'll turn on the heat, make a hot bath.
+
+1:33:06.620 --> 1:33:08.420
+ They won't actually get in the bath,
+
+1:33:08.420 --> 1:33:10.300
+ but they'll fill the room with steam and heat
+
+1:33:10.300 --> 1:33:14.000
+ and they'll put on a hoodie and some sweat pants
+
+1:33:14.000 --> 1:33:15.900
+ and they'll sit there with wool socks on
+
+1:33:15.900 --> 1:33:17.580
+ and they'll get warm for 20 minutes.
+
+1:33:17.580 --> 1:33:20.780
+ Then they'll take a cool shower and then they'll do it again.
+
+1:33:20.780 --> 1:33:22.700
+ I guess when the hotel's paying the water bill,
+
+1:33:22.700 --> 1:33:24.080
+ you don't worry about it too much.
+
+1:33:24.080 --> 1:33:25.520
+ Some people of course own saunas.
+
+1:33:25.520 --> 1:33:26.360
+ There are a lot of ways to do that.
+
+1:33:26.360 --> 1:33:27.740
+ I have friends who were in the military
+
+1:33:27.740 --> 1:33:30.660
+ who made saunas out of cars while they were overseas,
+
+1:33:30.660 --> 1:33:31.700
+ all sorts of things.
+
+1:33:31.700 --> 1:33:32.900
+ You do have to be careful.
+
+1:33:32.900 --> 1:33:34.200
+ I know I've said it many, many times.
+
+1:33:34.200 --> 1:33:35.740
+ I just don't want anyone to hurt themselves,
+
+1:33:35.740 --> 1:33:38.060
+ but these increases in growth hormone are tremendous
+
+1:33:38.060 --> 1:33:40.260
+ and what they probably stem from
+
+1:33:40.260 --> 1:33:43.900
+ are increased activity of neurons within the hypothalamus
+
+1:33:43.900 --> 1:33:46.820
+ that stimulate growth hormone release from the pituitary.
+
+1:33:46.820 --> 1:33:49.900
+ And that's probably because the growth hormone
+
+1:33:49.900 --> 1:33:52.700
+ releasing hormone neurons in the hypothalamus
+
+1:33:52.700 --> 1:33:56.100
+ sit very closely and may even be intermixed
+
+1:33:56.100 --> 1:33:58.280
+ with some of the neurons in the hypothalamus
+
+1:33:58.280 --> 1:34:00.780
+ that regulate heat and body temperature.
+
+1:34:00.780 --> 1:34:03.480
+ Remember metabolism is in part a heat.
+
+1:34:03.480 --> 1:34:06.120
+ It's like a furnace of how much energy you're consuming
+
+1:34:06.120 --> 1:34:11.060
+ and using for building or for energy usage purposes.
+
+1:34:11.060 --> 1:34:13.620
+ So sauna can be very, very interesting.
+
+1:34:13.620 --> 1:34:16.100
+ And again, it's 20 minutes, 30 minute cooling,
+
+1:34:16.100 --> 1:34:20.260
+ 20 minutes again, proceed with extreme caution,
+
+1:34:20.260 --> 1:34:23.200
+ but nonetheless, these are pretty extreme effects
+
+1:34:23.200 --> 1:34:26.460
+ in terms of their abilities to increase growth hormone
+
+1:34:26.460 --> 1:34:27.360
+ levels.
+
+1:34:27.360 --> 1:34:29.460
+ Along the lines of temperature and hormones,
+
+1:34:29.460 --> 1:34:32.700
+ I just want to mention a very recent study just came out
+
+1:34:32.700 --> 1:34:36.100
+ March, April, 2021, endocrine effects
+
+1:34:36.100 --> 1:34:38.000
+ of repeated hot thermal stress
+
+1:34:38.000 --> 1:34:40.480
+ and cold water immersion in young adult men.
+
+1:34:40.480 --> 1:34:41.500
+ Unfortunately, it was just in men.
+
+1:34:41.500 --> 1:34:43.360
+ They didn't look at women, but nonetheless,
+
+1:34:43.360 --> 1:34:45.300
+ I think the data are relevant to everybody
+
+1:34:45.300 --> 1:34:46.600
+ as a general theme.
+
+1:34:46.600 --> 1:34:48.840
+ This is Podstowski et al.
+
+1:34:48.840 --> 1:34:52.500
+ I will put a link to the study in the caption
+
+1:34:52.500 --> 1:34:56.040
+ and they looked at testosterone, prolactin, cortisol,
+
+1:34:56.040 --> 1:34:57.060
+ et cetera.
+
+1:34:57.060 --> 1:35:01.860
+ And what they found was that the sauna does indeed lead
+
+1:35:01.860 --> 1:35:05.040
+ to a significant decrease in cortisol, a stress hormone,
+
+1:35:05.040 --> 1:35:07.620
+ a hormone that you want to be released early in the day
+
+1:35:07.620 --> 1:35:08.740
+ when you wake up,
+
+1:35:08.740 --> 1:35:12.520
+ but sauna definitely led to a significant decrease
+
+1:35:12.520 --> 1:35:15.940
+ in cortisol, but did not change testosterone, DHEA
+
+1:35:15.940 --> 1:35:17.500
+ or prolactin levels.
+
+1:35:17.500 --> 1:35:19.080
+ So that's interesting.
+
+1:35:19.080 --> 1:35:23.100
+ And it turns out that the cold did affect
+
+1:35:23.100 --> 1:35:24.620
+ some of these hormones,
+
+1:35:24.620 --> 1:35:27.600
+ but the results there were a little bit more mixed.
+
+1:35:27.600 --> 1:35:30.500
+ So the takeaway here is that heat seems to have
+
+1:35:30.500 --> 1:35:33.340
+ positive effects on growth hormone, big effects.
+
+1:35:33.340 --> 1:35:35.060
+ It seems to have positive effects
+
+1:35:35.060 --> 1:35:37.620
+ on reducing cortisol levels.
+
+1:35:37.620 --> 1:35:40.020
+ And it does not seem to have effects on things
+
+1:35:40.020 --> 1:35:42.780
+ like testosterone, DHEA or prolactin directly.
+
+1:35:42.780 --> 1:35:44.620
+ You can imagine that a shift in any hormone
+
+1:35:44.620 --> 1:35:47.180
+ is going to alter the levels of other hormones
+
+1:35:47.180 --> 1:35:49.400
+ down the line, sort of indirect effects,
+
+1:35:49.400 --> 1:35:51.340
+ but in terms of direct effects,
+
+1:35:51.340 --> 1:35:54.820
+ just during or immediately after the sauna bath,
+
+1:35:54.820 --> 1:35:57.000
+ there were no effects.
+
+1:35:57.000 --> 1:36:00.540
+ So we've talked about diet, supplementation,
+
+1:36:00.540 --> 1:36:03.460
+ behavioral tools, and of course,
+
+1:36:03.460 --> 1:36:06.800
+ we talked about the underlying biology and logic.
+
+1:36:06.800 --> 1:36:10.060
+ And hopefully you heard the safety precautions
+
+1:36:10.060 --> 1:36:11.820
+ for all of those.
+
+1:36:11.820 --> 1:36:14.880
+ Now I'd like to just briefly talk about
+
+1:36:14.880 --> 1:36:17.340
+ the prescription side of all this.
+
+1:36:17.340 --> 1:36:21.580
+ There are, as we know, many people taking growth hormone
+
+1:36:21.580 --> 1:36:23.420
+ because it's been prescribed to them by a doctor.
+
+1:36:23.420 --> 1:36:25.580
+ And presumably there are people taking growth hormone
+
+1:36:25.580 --> 1:36:27.860
+ even though it has not been prescribed by a doctor,
+
+1:36:27.860 --> 1:36:30.020
+ which is none of my business.
+
+1:36:30.020 --> 1:36:34.580
+ But the point here is that most all of the hormones
+
+1:36:34.580 --> 1:36:37.260
+ that we make have been synthesized.
+
+1:36:37.260 --> 1:36:40.060
+ So there are versions of them in little bottles
+
+1:36:40.060 --> 1:36:42.780
+ or little ampules that people can inject.
+
+1:36:42.780 --> 1:36:44.760
+ Here are a couple of important things to consider.
+
+1:36:44.760 --> 1:36:46.860
+ If you're going to go that route.
+
+1:36:46.860 --> 1:36:49.260
+ First of all, talk to a physician, right?
+
+1:36:49.260 --> 1:36:52.360
+ They actually are only legally available through a physician.
+
+1:36:53.580 --> 1:36:55.700
+ Second of all, anytime you're injecting something,
+
+1:36:55.700 --> 1:36:57.540
+ you're going to shut down your own production.
+
+1:36:57.540 --> 1:36:59.380
+ That's the way that the hormone system works.
+
+1:36:59.380 --> 1:37:00.660
+ If you take thyroid hormone,
+
+1:37:00.660 --> 1:37:04.060
+ you won't make thyroid hormone, at least in the long run.
+
+1:37:04.060 --> 1:37:06.460
+ If you take testosterone,
+
+1:37:06.460 --> 1:37:09.500
+ you will shut down your own production of testosterone.
+
+1:37:09.500 --> 1:37:12.900
+ If you take estrogen, the system's a little more resilient,
+
+1:37:12.900 --> 1:37:14.140
+ but eventually you will shut down
+
+1:37:14.140 --> 1:37:15.680
+ your production of estrogen.
+
+1:37:15.680 --> 1:37:18.020
+ And the same is true for growth hormone.
+
+1:37:18.020 --> 1:37:22.420
+ So a decision to go that route of taking something
+
+1:37:22.420 --> 1:37:25.140
+ is often not always a decision to do it forever.
+
+1:37:25.140 --> 1:37:27.660
+ However, if you're willing to sustain a period
+
+1:37:27.660 --> 1:37:29.980
+ of being without a given hormone,
+
+1:37:29.980 --> 1:37:33.460
+ some people can do things and then stop taking them
+
+1:37:33.460 --> 1:37:35.420
+ and then wait out the period
+
+1:37:35.420 --> 1:37:37.980
+ in which they're not making testosterone,
+
+1:37:37.980 --> 1:37:40.180
+ estrogen, or growth hormone, and then it will come back.
+
+1:37:40.180 --> 1:37:41.920
+ Sometimes, and sometimes it won't.
+
+1:37:41.920 --> 1:37:46.060
+ There's a kind of new area that's developing now
+
+1:37:46.060 --> 1:37:48.160
+ that I think deserves our attention,
+
+1:37:48.160 --> 1:37:51.320
+ not because I'm encouraging it, but because it is happening.
+
+1:37:51.320 --> 1:37:54.240
+ And in keeping with the science
+
+1:37:54.240 --> 1:37:58.000
+ and in keeping with trying to keep things modern,
+
+1:37:58.000 --> 1:38:00.420
+ it's worth us discussing, and those are peptides.
+
+1:38:00.420 --> 1:38:02.960
+ So these days you hear a lot about peptides.
+
+1:38:02.960 --> 1:38:06.000
+ I'd like to clarify a little bit about what peptides are.
+
+1:38:06.000 --> 1:38:10.800
+ Peptides is a really huge category of biological compounds.
+
+1:38:10.800 --> 1:38:13.920
+ Peptides are just strings of amino acids, right?
+
+1:38:13.920 --> 1:38:16.400
+ So we've talked about L-tyrosine, arginine, ornithine.
+
+1:38:16.400 --> 1:38:17.240
+ Those are amino acids.
+
+1:38:17.240 --> 1:38:18.760
+ Those are individual amino acids.
+
+1:38:18.760 --> 1:38:22.960
+ And those are put together into little small peptides
+
+1:38:22.960 --> 1:38:25.220
+ or they're what are called polypeptides,
+
+1:38:25.220 --> 1:38:27.040
+ which are just longer peptides.
+
+1:38:28.040 --> 1:38:31.320
+ Turns out that for any substance like growth hormone
+
+1:38:31.320 --> 1:38:32.920
+ or growth hormone-releasing hormone,
+
+1:38:32.920 --> 1:38:34.520
+ it's made up of different amino acids
+
+1:38:34.520 --> 1:38:36.960
+ in different sequences, just like your genes are made up
+
+1:38:36.960 --> 1:38:39.440
+ of As and Gs and Cs and Ts,
+
+1:38:39.440 --> 1:38:41.040
+ nucleotides in different sequences.
+
+1:38:41.040 --> 1:38:42.280
+ It's like a recipe.
+
+1:38:43.560 --> 1:38:48.080
+ Peptides tend to be short sequences of amino acids
+
+1:38:48.080 --> 1:38:50.760
+ that resemble a hormone enough
+
+1:38:50.760 --> 1:38:53.440
+ or resemble some other peptide enough
+
+1:38:53.440 --> 1:38:55.960
+ that it can lead to the similar or same effects
+
+1:38:55.960 --> 1:38:57.100
+ when you inject them.
+
+1:38:57.100 --> 1:39:01.320
+ So for example, we make growth hormone-releasing hormone
+
+1:39:01.320 --> 1:39:03.220
+ from our brain, which stimulates growth hormone
+
+1:39:03.220 --> 1:39:04.060
+ from the pituitary.
+
+1:39:04.060 --> 1:39:07.060
+ You're probably getting tired of me saying that by now.
+
+1:39:07.060 --> 1:39:11.620
+ But people now will take things like sermorelin,
+
+1:39:11.620 --> 1:39:16.620
+ S-E-R-M-O-R-E-L-I-N, sermorelin,
+
+1:39:16.760 --> 1:39:19.520
+ which is not the entire peptide sequence
+
+1:39:19.520 --> 1:39:21.460
+ of growth hormone-releasing hormone,
+
+1:39:21.460 --> 1:39:23.040
+ but it's a subset of those.
+
+1:39:23.040 --> 1:39:25.480
+ And when people inject it before they go to sleep at night,
+
+1:39:25.480 --> 1:39:27.600
+ is typically how it's done on an empty stomach,
+
+1:39:27.600 --> 1:39:30.160
+ then that stimulates the release of growth hormone
+
+1:39:30.160 --> 1:39:31.280
+ from the pituitary.
+
+1:39:31.280 --> 1:39:33.520
+ So this is not taking growth hormone.
+
+1:39:33.520 --> 1:39:36.040
+ This is taking the stimulating hormone
+
+1:39:36.040 --> 1:39:40.160
+ or what's often called a secretagogue or a mimic, all right?
+
+1:39:40.160 --> 1:39:44.020
+ It causes a secretion of the hormone that one wants.
+
+1:39:44.020 --> 1:39:45.720
+ People will do this for thyroid hormone too.
+
+1:39:45.720 --> 1:39:48.080
+ Some people are doing this by prescription
+
+1:39:48.080 --> 1:39:49.240
+ with a real medical need.
+
+1:39:49.240 --> 1:39:52.120
+ Other people are doing it for just longevity reasons,
+
+1:39:52.120 --> 1:39:54.040
+ which kind of falls into that gray zone
+
+1:39:54.040 --> 1:39:55.760
+ of they wouldn't die without it,
+
+1:39:55.760 --> 1:39:57.480
+ but they want to enhance their life.
+
+1:39:57.480 --> 1:39:58.600
+ And so they're doing that
+
+1:39:58.600 --> 1:40:00.360
+ because they believe it's the right thing for them.
+
+1:40:00.360 --> 1:40:03.060
+ Prescription, sermorelin is prescription.
+
+1:40:03.060 --> 1:40:03.960
+ Do they work?
+
+1:40:03.960 --> 1:40:05.480
+ Yes.
+
+1:40:05.480 --> 1:40:08.000
+ Do they shut down your natural production
+
+1:40:08.000 --> 1:40:10.720
+ of growth hormone-releasing hormone?
+
+1:40:10.720 --> 1:40:13.300
+ Well, the answer is yes,
+
+1:40:13.300 --> 1:40:16.360
+ but some of these peptides actually have the effect
+
+1:40:16.360 --> 1:40:18.380
+ of changing gene expression.
+
+1:40:18.380 --> 1:40:19.640
+ Remember way back to the beginning
+
+1:40:19.640 --> 1:40:21.000
+ when I was talking about hormones,
+
+1:40:21.000 --> 1:40:22.720
+ they can actually change gene expression
+
+1:40:22.720 --> 1:40:25.600
+ and they can actually set pathways in motion
+
+1:40:25.600 --> 1:40:27.540
+ for continued production of a hormone
+
+1:40:27.540 --> 1:40:29.880
+ even if you stop taking the compound.
+
+1:40:29.880 --> 1:40:31.740
+ Now that can be good or that can be bad
+
+1:40:31.740 --> 1:40:33.600
+ because as you recall, growth hormone
+
+1:40:33.600 --> 1:40:37.000
+ in big increases in growth hormone that are short-lived
+
+1:40:37.000 --> 1:40:41.840
+ like sauna or I should say exercise or arginine or sauna,
+
+1:40:41.840 --> 1:40:43.700
+ it seems like has these huge effects,
+
+1:40:45.220 --> 1:40:49.120
+ or early nights, first phase of sleep early in the night,
+
+1:40:49.120 --> 1:40:50.880
+ these sorts of things.
+
+1:40:50.880 --> 1:40:52.700
+ Those are transient,
+
+1:40:52.700 --> 1:40:56.280
+ but when one is injecting over and over a constant level,
+
+1:40:56.280 --> 1:40:59.280
+ you can put into action gene expression programs
+
+1:40:59.280 --> 1:41:00.400
+ that can be long-lived.
+
+1:41:00.400 --> 1:41:03.400
+ And let's say you have a particular tumor in the body,
+
+1:41:03.400 --> 1:41:05.540
+ tumors will grow when they see growth hormone
+
+1:41:05.540 --> 1:41:08.320
+ even if that tumor is unhealthy for you, right?
+
+1:41:08.320 --> 1:41:10.080
+ You've got growth of tissues all over the body.
+
+1:41:10.080 --> 1:41:11.400
+ So again, I'm not saying whether or not
+
+1:41:11.400 --> 1:41:13.080
+ people should do these things or not doing them.
+
+1:41:13.080 --> 1:41:16.700
+ One thing I do know is that they are in very prominent use
+
+1:41:16.700 --> 1:41:17.780
+ in the movie industry,
+
+1:41:17.780 --> 1:41:19.660
+ people who want to peel off body fat quickly,
+
+1:41:19.660 --> 1:41:22.920
+ they do increase recovery time, they increase healing rates,
+
+1:41:22.920 --> 1:41:26.160
+ people are also injecting things like gastric peptides,
+
+1:41:26.160 --> 1:41:28.200
+ they're actually stomach peptides
+
+1:41:28.200 --> 1:41:30.040
+ that we talked about in the previous episode,
+
+1:41:30.040 --> 1:41:32.700
+ things related to the ghrelin pathway
+
+1:41:32.700 --> 1:41:34.420
+ and other things from the liver
+
+1:41:34.420 --> 1:41:37.600
+ that can improve the rate of tissue and wound healing.
+
+1:41:37.600 --> 1:41:39.920
+ You can bet that in the upcoming Olympics,
+
+1:41:39.920 --> 1:41:42.440
+ a lot of people are using peptides and compounds
+
+1:41:42.440 --> 1:41:44.800
+ and I'm not pointing fingers at anyone in particular,
+
+1:41:44.800 --> 1:41:47.280
+ it's just this is separate from hormone augmentation
+
+1:41:47.280 --> 1:41:50.000
+ of like injecting gh or injecting testosterone.
+
+1:41:50.000 --> 1:41:52.660
+ People are now working further up the pathways.
+
+1:41:52.660 --> 1:41:54.060
+ Other names of some of the peptides
+
+1:41:54.060 --> 1:41:58.920
+ are things like hypermorulin, tessomorulin.
+
+1:41:58.920 --> 1:42:00.840
+ Some of these have clinical uses,
+
+1:42:00.840 --> 1:42:04.120
+ others have just been made as compounds for people
+
+1:42:04.120 --> 1:42:06.760
+ in the kind of longevity field
+
+1:42:06.760 --> 1:42:09.600
+ or the self-augmentation field, if you will.
+
+1:42:09.600 --> 1:42:11.240
+ So again, not promoting their use,
+
+1:42:11.240 --> 1:42:12.200
+ but they're definitely out there
+
+1:42:12.200 --> 1:42:14.140
+ and so now if you hear about them
+
+1:42:14.140 --> 1:42:15.600
+ or someone's talking to you about them,
+
+1:42:15.600 --> 1:42:17.160
+ now hopefully you have a better understanding
+
+1:42:17.160 --> 1:42:18.580
+ about their underlying biology
+
+1:42:18.580 --> 1:42:20.740
+ and you can think rationally about whether or not
+
+1:42:20.740 --> 1:42:23.800
+ they are the right decision for you.
+
+1:42:23.800 --> 1:42:28.080
+ Okay, once again, covered an enormous amount of material.
+
+1:42:28.080 --> 1:42:30.360
+ Hopefully now you understand thyroid hormone
+
+1:42:30.360 --> 1:42:32.740
+ and what it does and a little bit about its mechanism
+
+1:42:32.740 --> 1:42:35.320
+ or maybe a lot and growth hormone and what it does
+
+1:42:35.320 --> 1:42:38.920
+ and how both of them take care of our metabolism.
+
+1:42:38.920 --> 1:42:42.440
+ They dictate how many nutrients we can eat and make use of.
+
+1:42:42.440 --> 1:42:45.500
+ They can pull from body fat stores, repair muscle,
+
+1:42:45.500 --> 1:42:48.520
+ repair cartilage, they really are incredible compounds
+
+1:42:48.520 --> 1:42:50.040
+ and they are actionable.
+
+1:42:50.040 --> 1:42:50.960
+ They're things that we can do
+
+1:42:50.960 --> 1:42:53.480
+ like getting that early phase of sleep,
+
+1:42:53.480 --> 1:42:56.620
+ perhaps supplementing with arginine, maybe not,
+
+1:42:56.620 --> 1:43:00.160
+ hopefully getting adequate exercise, warming up properly,
+
+1:43:00.160 --> 1:43:03.080
+ not making the exercise too long or too intense will help,
+
+1:43:03.080 --> 1:43:05.600
+ maybe sauna or things like it,
+
+1:43:05.600 --> 1:43:09.560
+ deliberate safe hyperthermia, the emphasis on safe
+
+1:43:09.560 --> 1:43:11.640
+ might be things that are of use.
+
+1:43:11.640 --> 1:43:13.960
+ Regardless, even if you're not interested in the thyroid
+
+1:43:13.960 --> 1:43:16.000
+ or the growth hormone pathways,
+
+1:43:16.000 --> 1:43:18.240
+ this brings to a close our month on hormones
+
+1:43:18.240 --> 1:43:20.120
+ and so now hopefully you understand
+
+1:43:20.120 --> 1:43:21.640
+ not just thyroid and growth hormone,
+
+1:43:21.640 --> 1:43:24.320
+ but the logic that underlies thyroid hormone,
+
+1:43:24.320 --> 1:43:26.960
+ growth hormone, estrogen, testosterone,
+
+1:43:26.960 --> 1:43:31.160
+ why we eat, why we stop eating, cholecystokinin, ghrelin.
+
+1:43:31.160 --> 1:43:33.040
+ If these names don't mean anything to you,
+
+1:43:33.040 --> 1:43:35.120
+ then perhaps go back and listen to those episodes
+
+1:43:35.120 --> 1:43:37.760
+ but regardless, I hope that you come away from this
+
+1:43:37.760 --> 1:43:40.480
+ with a deeper understanding about these hormones
+
+1:43:40.480 --> 1:43:42.800
+ which are so powerful in controlling
+
+1:43:42.800 --> 1:43:44.200
+ the way our brain functions
+
+1:43:44.200 --> 1:43:46.640
+ and the interplay between the brain and hormones
+
+1:43:46.640 --> 1:43:50.080
+ because it is really a bi-directional conversation.
+
+1:43:50.080 --> 1:43:52.180
+ The brain is telling the body what hormones to make,
+
+1:43:52.180 --> 1:43:54.440
+ the hormones are influencing all the tissues of the body
+
+1:43:54.440 --> 1:43:56.760
+ but also telling the brain whether or not to eat more
+
+1:43:56.760 --> 1:43:59.920
+ or grow more or think more, et cetera.
+
+1:43:59.920 --> 1:44:02.760
+ So I really appreciate your time and attention.
+
+1:44:02.760 --> 1:44:06.680
+ If you like this podcast and you're finding it useful,
+
+1:44:06.680 --> 1:44:08.880
+ please recommend it to other people.
+
+1:44:08.880 --> 1:44:12.280
+ If you are on YouTube, please subscribe.
+
+1:44:12.280 --> 1:44:14.800
+ Please leave us a comment or feedback
+
+1:44:14.800 --> 1:44:15.760
+ in the comment section.
+
+1:44:15.760 --> 1:44:17.400
+ We do read all of the comments
+
+1:44:17.400 --> 1:44:19.120
+ and we use those comments as ways
+
+1:44:19.120 --> 1:44:22.920
+ to inform future content of the podcast.
+
+1:44:22.920 --> 1:44:25.320
+ If you listen to it in audio form,
+
+1:44:25.320 --> 1:44:27.560
+ please subscribe on Apple and or Spotify.
+
+1:44:27.560 --> 1:44:28.460
+ That really helps us.
+
+1:44:28.460 --> 1:44:30.000
+ On Apple, you have the opportunity
+
+1:44:30.000 --> 1:44:32.320
+ to leave us a five-star review
+
+1:44:32.320 --> 1:44:35.720
+ and to leave us feedback, written feedback as well.
+
+1:44:35.720 --> 1:44:38.840
+ I should also mention on YouTube, hit the subscribe button
+
+1:44:38.840 --> 1:44:40.560
+ but also hit the notifications button.
+
+1:44:40.560 --> 1:44:42.100
+ We release episodes every Monday
+
+1:44:42.100 --> 1:44:44.800
+ but sometimes we also release short clips in between.
+
+1:44:44.800 --> 1:44:47.660
+ That way you're sure to never miss an episode.
+
+1:44:47.660 --> 1:44:49.480
+ If you want to support us further,
+
+1:44:49.480 --> 1:44:51.200
+ please check out the sponsors we talk about
+
+1:44:51.200 --> 1:44:53.300
+ at the beginning of the podcast episode.
+
+1:44:53.300 --> 1:44:54.700
+ That really helps us.
+
+1:44:54.700 --> 1:44:56.460
+ We also have a Patreon account.
+
+1:44:56.460 --> 1:44:59.840
+ It's patreon.com slash Andrew Huberman.
+
+1:44:59.840 --> 1:45:01.280
+ There you can support the podcast
+
+1:45:01.280 --> 1:45:03.560
+ at any level that you like.
+
+1:45:03.560 --> 1:45:06.320
+ And I mentioned supplements this episode.
+
+1:45:06.320 --> 1:45:07.820
+ I often mentioned supplements.
+
+1:45:07.820 --> 1:45:09.400
+ They are certainly not necessary
+
+1:45:09.400 --> 1:45:11.280
+ but for those of you interested in supplements,
+
+1:45:11.280 --> 1:45:14.620
+ we've partnered with Thorne, T-H-O-R-N-E
+
+1:45:14.620 --> 1:45:17.180
+ because Thorne has the highest levels of stringency
+
+1:45:17.180 --> 1:45:19.140
+ in terms of the quality of the ingredients
+
+1:45:19.140 --> 1:45:21.100
+ and the amount of the ingredients
+
+1:45:21.100 --> 1:45:24.620
+ in each capsule, tablet, powder, et cetera.
+
+1:45:24.620 --> 1:45:26.920
+ If you want to see the supplements that I take
+
+1:45:26.920 --> 1:45:28.840
+ as well as get a discount on any of those
+
+1:45:28.840 --> 1:45:31.200
+ or any of the supplements that Thorne makes,
+
+1:45:31.200 --> 1:45:36.200
+ it's thorne.com slash the letter U slash Huberman
+
+1:45:37.600 --> 1:45:40.240
+ and you can get 20% off any of the supplements they make.
+
+1:45:40.240 --> 1:45:43.120
+ I should mention Thorne works with the Mayo Clinic.
+
+1:45:43.120 --> 1:45:44.080
+ They partnered with them.
+
+1:45:44.080 --> 1:45:45.880
+ They work with all the major sports teams.
+
+1:45:45.880 --> 1:45:47.960
+ So really the highest levels of stringency.
+
+1:45:47.960 --> 1:45:50.200
+ We're quite happy to be working with them.
+
+1:45:50.200 --> 1:45:52.080
+ And last but not least,
+
+1:45:52.080 --> 1:45:53.840
+ I thank you for your time and attention
+
+1:45:53.840 --> 1:45:56.140
+ and above all for your interest in science.
+

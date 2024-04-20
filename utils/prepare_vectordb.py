@@ -36,7 +36,7 @@ class PrepareVectorDB:
 
         if isinstance(self.data_directory, str):
             print("Loading documents from directory:", self.data_directory)
-            for file_path in glob.glob(os.path.join(self.data_directory, '*.txt')):
+            for file_path in glob.glob(os.path.join(self.data_directory, '*.vtt')):
                 doc = Document(file_path)
                 docs.append(doc)
                 doc_counter += 1

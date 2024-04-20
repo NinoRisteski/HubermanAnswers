@@ -1,0 +1,6569 @@
+WEBVTT
+
+00:00.000 --> 00:02.240
+ Welcome to the Huberman Lab Podcast,
+
+00:02.240 --> 00:04.880
+ where we discuss science and science-based tools
+
+00:04.880 --> 00:05.920
+ for everyday life.
+
+00:09.120 --> 00:10.040
+ I'm Andrew Huberman,
+
+00:10.040 --> 00:12.960
+ and I'm a professor of neurobiology and ophthalmology
+
+00:12.960 --> 00:14.960
+ at Stanford School of Medicine.
+
+00:14.960 --> 00:17.440
+ Today, we are discussing aggression.
+
+00:17.440 --> 00:18.520
+ I'm going to explain to you
+
+00:18.520 --> 00:20.780
+ that there are several different types of aggression.
+
+00:20.780 --> 00:22.360
+ For instance, reactive aggression
+
+00:22.360 --> 00:23.720
+ versus proactive aggression,
+
+00:23.720 --> 00:26.440
+ meaning sometimes people will be aggressive
+
+00:26.440 --> 00:29.840
+ because they feel threatened or they are protecting those
+
+00:29.840 --> 00:32.440
+ that they love who also feel threatened.
+
+00:32.440 --> 00:33.960
+ There's also proactive aggression
+
+00:33.960 --> 00:35.520
+ where people go out of their way
+
+00:35.520 --> 00:37.920
+ to deliberately try and harm others.
+
+00:37.920 --> 00:40.240
+ And there is indirect aggression,
+
+00:40.240 --> 00:43.320
+ which is aggression not involving physical violence,
+
+00:43.320 --> 00:46.760
+ for instance, shaming people and things of that sort.
+
+00:46.760 --> 00:49.240
+ It turns out that there are different biological mechanisms
+
+00:49.240 --> 00:51.860
+ underlying each of the different types of aggression.
+
+00:51.860 --> 00:53.980
+ And today I will define those for you.
+
+00:53.980 --> 00:55.880
+ I'll talk about the neural circuits in the brain and body
+
+00:55.880 --> 00:58.680
+ that mediate each of the different kinds of aggression,
+
+00:58.680 --> 01:00.760
+ talk about some of the hormones and peptides
+
+01:00.760 --> 01:02.480
+ and neurotransmitters involved.
+
+01:02.480 --> 01:04.540
+ I promise to make it all accessible to you,
+
+01:04.540 --> 01:07.960
+ even if you do not have any biology or science background.
+
+01:07.960 --> 01:09.920
+ I will also discuss tools,
+
+01:09.920 --> 01:12.920
+ psychological tools and biological tools
+
+01:12.920 --> 01:16.360
+ that one can use to better control aggression.
+
+01:16.360 --> 01:17.440
+ Now, right here at the outset,
+
+01:17.440 --> 01:20.640
+ I want to acknowledge that any discussion about aggression
+
+01:20.640 --> 01:23.600
+ has to have an element of context within it.
+
+01:24.460 --> 01:28.120
+ To be fair, human beings invest a lot of money,
+
+01:28.120 --> 01:30.400
+ a lot of time and a lot of energy,
+
+01:30.400 --> 01:33.880
+ and indeed can even derive pleasure from aggression.
+
+01:33.880 --> 01:36.860
+ Later, I'll talk about neural circuits in the brain and body
+
+01:36.860 --> 01:38.440
+ that reinforce, in other words,
+
+01:38.440 --> 01:41.760
+ reward through the release of chemicals
+
+01:41.760 --> 01:45.000
+ that make people feel good, acts of aggression.
+
+01:45.000 --> 01:47.080
+ However, what I'm mainly referring to
+
+01:47.080 --> 01:50.740
+ is the context in which human beings will pay money
+
+01:50.740 --> 01:54.000
+ in order to derive what we call vicarious aggression.
+
+01:54.000 --> 01:58.400
+ To put it simply, people spend an enormous amount of money
+
+01:58.400 --> 02:01.240
+ and time and energy watching other people engage in,
+
+02:01.240 --> 02:02.880
+ for instance, aggressive sports.
+
+02:02.880 --> 02:05.460
+ And we know that observing your team winning
+
+02:05.460 --> 02:08.440
+ over another team causes the release of neurochemicals
+
+02:08.440 --> 02:10.200
+ in your brain and body that make you feel good,
+
+02:10.200 --> 02:13.940
+ and yes, that can make you feel more aggressive.
+
+02:13.940 --> 02:16.000
+ We also know, of course,
+
+02:16.000 --> 02:19.080
+ that most governments invest many billions,
+
+02:19.080 --> 02:22.600
+ if not trillions of dollars in infrastructure technologies
+
+02:22.600 --> 02:26.320
+ and human beings in order to engage in aggression if needed,
+
+02:26.320 --> 02:29.180
+ so-called military warfare, et cetera.
+
+02:29.180 --> 02:32.600
+ So today's discussion will include a description of aggression
+
+02:32.600 --> 02:34.300
+ in the pathological sense.
+
+02:34.300 --> 02:38.220
+ We'll actually talk about an explosive aggressive disorder
+
+02:38.220 --> 02:39.820
+ that most of you probably haven't heard of,
+
+02:39.820 --> 02:43.280
+ but is actually far more common than perhaps you know.
+
+02:43.280 --> 02:45.000
+ We'll talk about the role of things
+
+02:45.000 --> 02:47.200
+ like attention deficit hyperactivity disorder
+
+02:47.200 --> 02:49.520
+ and how that can relate to aggression
+
+02:49.520 --> 02:52.000
+ through the relationship between impulsivity
+
+02:52.000 --> 02:52.840
+ and aggression.
+
+02:52.840 --> 02:54.360
+ And we'll talk about verbal aggression,
+
+02:54.360 --> 02:56.800
+ physical aggression, proactive aggression
+
+02:56.800 --> 02:59.480
+ as mentioned before, and reactive aggression.
+
+02:59.480 --> 03:00.960
+ I'm certain that by the end of the episode,
+
+03:00.960 --> 03:03.760
+ you will come away with a much more thorough understanding
+
+03:03.760 --> 03:06.720
+ of what this thing that we call aggression really is.
+
+03:06.720 --> 03:08.900
+ And when you see it in other people,
+
+03:08.900 --> 03:10.760
+ I think it will make more sense to you.
+
+03:10.760 --> 03:13.080
+ And when you observe it in yourself
+
+03:13.080 --> 03:15.280
+ or the impulse to engage in aggression,
+
+03:15.280 --> 03:17.640
+ verbal or physical or otherwise,
+
+03:17.640 --> 03:19.660
+ I hope that you'll understand it better as well.
+
+03:19.660 --> 03:22.060
+ And of course, the tools that I will describe
+
+03:22.060 --> 03:25.200
+ should allow you to modulate and control
+
+03:25.200 --> 03:28.240
+ aggressive tendencies or predispositions to aggressiveness,
+
+03:28.240 --> 03:31.920
+ and just generally to be able to engage with people
+
+03:31.920 --> 03:34.060
+ in a more adaptive way overall.
+
+03:34.060 --> 03:36.720
+ Before we begin, I'd like to emphasize that this podcast
+
+03:36.720 --> 03:39.580
+ is separate from my teaching and research roles at Stanford.
+
+03:39.580 --> 03:42.000
+ It is however, part of my desire and effort
+
+03:42.000 --> 03:43.960
+ to bring zero cost to consumer information
+
+03:43.960 --> 03:45.880
+ about science and science-related tools
+
+03:45.880 --> 03:47.440
+ to the general public.
+
+03:47.440 --> 03:48.480
+ In keeping with that theme,
+
+03:48.480 --> 03:51.520
+ I'd like to thank the sponsors of today's podcast.
+
+03:51.520 --> 03:53.920
+ Our first sponsor is Athletic Greens.
+
+03:53.920 --> 03:55.560
+ Athletic Greens is an all-in-one
+
+03:55.560 --> 03:57.640
+ vitamin mineral probiotic drink
+
+03:57.640 --> 04:00.920
+ that's designed to meet all your foundational health needs.
+
+04:00.920 --> 04:04.280
+ I started taking Athletic Greens way back in 2012.
+
+04:04.280 --> 04:07.020
+ So I'm delighted that they're sponsoring this podcast.
+
+04:07.020 --> 04:08.760
+ The reason I started taking Athletic Greens
+
+04:08.760 --> 04:10.360
+ and the reason I still take Athletic Greens
+
+04:10.360 --> 04:12.280
+ once or twice a day is that it covers
+
+04:12.280 --> 04:15.920
+ all of my basic vitamin mineral and probiotic needs.
+
+04:15.920 --> 04:17.820
+ The probiotics are especially important to me.
+
+04:17.820 --> 04:22.080
+ There are now abundant data showing that the gut microbiome,
+
+04:22.080 --> 04:24.400
+ which is basically a community
+
+04:24.400 --> 04:27.720
+ of trillions of little bacteria that live in our guts,
+
+04:27.720 --> 04:31.540
+ are beneficial for our immune system, for brain function,
+
+04:31.540 --> 04:34.920
+ for mood, and many other aspects of our health.
+
+04:34.920 --> 04:37.520
+ The gut microbiome thrives on probiotics
+
+04:37.520 --> 04:40.600
+ and Athletic Greens contains the proper array of probiotics
+
+04:40.600 --> 04:42.720
+ to optimize the gut microbiome.
+
+04:42.720 --> 04:45.040
+ Athletic Greens also has adaptogens for recovery
+
+04:45.040 --> 04:46.960
+ from physical and mental exertion,
+
+04:46.960 --> 04:50.360
+ digestive enzymes for gut health, vitamin C, zinc,
+
+04:50.360 --> 04:51.460
+ as I mentioned before,
+
+04:51.460 --> 04:53.260
+ all the other vitamins and minerals that you need
+
+04:53.260 --> 04:56.280
+ in order to cover your basic needs each day.
+
+04:56.280 --> 04:57.640
+ If you'd like to try Athletic Greens,
+
+04:57.640 --> 05:00.400
+ you can go to athleticgreens.com slash Huberman
+
+05:00.400 --> 05:02.120
+ and claim a special offer.
+
+05:02.120 --> 05:03.680
+ They'll give you five free travel packs
+
+05:03.680 --> 05:05.240
+ that make it easy to mix up Athletic Greens
+
+05:05.240 --> 05:06.060
+ while you're on the road
+
+05:06.060 --> 05:08.600
+ and a year supply of vitamin D3K2.
+
+05:08.600 --> 05:11.800
+ There's now a wealth of data showing that vitamin D3
+
+05:11.800 --> 05:13.640
+ is important for many aspects
+
+05:13.640 --> 05:15.960
+ of our immediate and long-term health.
+
+05:15.960 --> 05:17.960
+ Many people, even if they get out in the sunlight,
+
+05:17.960 --> 05:20.440
+ are not getting enough vitamin D3.
+
+05:20.440 --> 05:22.520
+ And the K2 is thought to be beneficial
+
+05:22.520 --> 05:24.000
+ for calcium regulation
+
+05:24.000 --> 05:26.440
+ and a number of other things important to our health.
+
+05:26.440 --> 05:29.200
+ So again, if you go to athleticgreens.com slash Huberman,
+
+05:29.200 --> 05:31.480
+ you can claim the special offer of the five free travel packs
+
+05:31.480 --> 05:34.520
+ and the year supply of vitamin D3K2.
+
+05:34.520 --> 05:37.200
+ Today's episode is also brought to us by Roca.
+
+05:37.200 --> 05:39.000
+ Roca makes sunglasses and eyeglasses
+
+05:39.000 --> 05:41.120
+ that are of the absolute highest quality.
+
+05:41.120 --> 05:43.200
+ The company was founded by two all-American swimmers
+
+05:43.200 --> 05:45.680
+ from Stanford and everything about their eyeglasses
+
+05:45.680 --> 05:49.080
+ and sunglasses were designed with performance in mind.
+
+05:49.080 --> 05:51.440
+ I've spent a lifetime working on the biology
+
+05:51.440 --> 05:52.480
+ of the visual system.
+
+05:52.480 --> 05:54.420
+ I can tell you that your visual system has to contend
+
+05:54.420 --> 05:56.200
+ with some pretty tough challenges
+
+05:56.200 --> 05:57.240
+ as you move throughout the day.
+
+05:57.240 --> 05:59.600
+ For instance, if you go from a brightly lit region
+
+05:59.600 --> 06:02.520
+ to a dimmer region, your visual system has to adjust.
+
+06:02.520 --> 06:04.520
+ Roca eyeglasses and sunglasses were designed
+
+06:04.520 --> 06:06.440
+ with those sorts of adjustments in mind.
+
+06:06.440 --> 06:08.320
+ So for instance, if you're outside in the shade,
+
+06:08.320 --> 06:10.080
+ you move into the sun and then back into the shade,
+
+06:10.080 --> 06:12.640
+ you don't have to take your sunglasses on and off.
+
+06:12.640 --> 06:16.000
+ Their glasses were initially designed for sports performance
+
+06:16.000 --> 06:17.820
+ and the great thing is they can be used for that,
+
+06:17.820 --> 06:19.760
+ but also they have a terrific aesthetic
+
+06:19.760 --> 06:21.880
+ so you can wear them to work or out to dinner.
+
+06:21.880 --> 06:25.080
+ I wear readers at night and when I drive at night
+
+06:25.080 --> 06:27.500
+ and I wear sunglasses if I'm out a lot
+
+06:27.500 --> 06:29.540
+ on really bright days.
+
+06:29.540 --> 06:31.200
+ The terrific thing about Roca glasses
+
+06:31.200 --> 06:33.220
+ is that even if you get sweaty, they won't fall off
+
+06:33.220 --> 06:35.600
+ so you can run with them, you can cycle with them,
+
+06:35.600 --> 06:36.560
+ or as I mentioned before,
+
+06:36.560 --> 06:38.460
+ you can just wear them out and about.
+
+06:38.460 --> 06:40.920
+ If you'd like to try Roca, you can go to roca.com,
+
+06:40.920 --> 06:43.840
+ that's R-O-K-A.com and enter the code Huberman
+
+06:43.840 --> 06:46.080
+ to save 20% off your first order.
+
+06:46.080 --> 06:48.240
+ Again, that's Roca, R-O-K-A.com
+
+06:48.240 --> 06:50.560
+ and enter the code Huberman at checkout.
+
+06:50.560 --> 06:53.440
+ Today's episode is also brought to us by Helix Sleep.
+
+06:53.440 --> 06:55.460
+ Helix Sleep makes mattresses and pillows
+
+06:55.460 --> 06:58.300
+ that in my opinion are the very best you'll find.
+
+06:58.300 --> 07:00.680
+ I started sleeping on a Helix mattress
+
+07:00.680 --> 07:02.080
+ a little over a year ago
+
+07:02.080 --> 07:04.980
+ and it's the best sleep I've had ever since.
+
+07:04.980 --> 07:06.340
+ If you go to the Helix site,
+
+07:06.340 --> 07:08.800
+ they have a terrific sleep quiz
+
+07:08.800 --> 07:10.060
+ that just takes a few minutes,
+
+07:10.060 --> 07:12.760
+ asks you questions like, do you tend to sleep on your side,
+
+07:12.760 --> 07:14.020
+ your back or your stomach?
+
+07:14.020 --> 07:15.940
+ Maybe you don't know because you're asleep,
+
+07:15.940 --> 07:17.260
+ but many people do know.
+
+07:17.260 --> 07:18.800
+ And even if you don't know, that's okay.
+
+07:18.800 --> 07:20.080
+ It will also ask you questions like,
+
+07:20.080 --> 07:21.700
+ do you tend to run hot or cold?
+
+07:21.700 --> 07:23.800
+ Do you tend to wake up in the middle of the night or not?
+
+07:23.800 --> 07:25.060
+ And by taking that brief quiz,
+
+07:25.060 --> 07:27.020
+ they will match you to the specific mattress
+
+07:27.020 --> 07:29.800
+ that's ideal for you and your sleep needs.
+
+07:29.800 --> 07:33.520
+ And that's really what sets Helix Sleep mattresses apart.
+
+07:33.520 --> 07:35.300
+ Everybody's unique and they know that.
+
+07:35.300 --> 07:36.440
+ So if you take this quiz,
+
+07:36.440 --> 07:37.800
+ you'll get matched to a particular mattress.
+
+07:37.800 --> 07:40.000
+ For me, it was the Dusk mattress, D-U-S-K,
+
+07:40.000 --> 07:41.040
+ but again, that's just me.
+
+07:41.040 --> 07:42.640
+ And you may match to that one
+
+07:42.640 --> 07:44.960
+ or you may match to a different one.
+
+07:44.960 --> 07:46.520
+ If you're interested in upgrading your mattress
+
+07:46.520 --> 07:50.040
+ and sleeping much better, go to helixsleep.com slash Huberman
+
+07:50.040 --> 07:51.340
+ take that two minute sleep quiz
+
+07:51.340 --> 07:52.840
+ and they'll match you to a customized mattress
+
+07:52.840 --> 07:55.920
+ and you'll get up to $200 off any mattress order
+
+07:55.920 --> 07:57.200
+ and two free pillows.
+
+07:57.200 --> 07:58.480
+ I also love their pillows.
+
+07:58.480 --> 07:59.720
+ I've always had this issue with pillows
+
+07:59.720 --> 08:01.040
+ that they heat up too much.
+
+08:01.040 --> 08:03.520
+ I'm always looking for the pillow that can cool itself.
+
+08:03.520 --> 08:05.580
+ Somehow the pillows stay nice and cool.
+
+08:05.580 --> 08:08.160
+ They're also not too big, so they're not propped up.
+
+08:08.160 --> 08:10.200
+ Not getting the text neck in the middle of the night,
+
+08:10.200 --> 08:11.480
+ putting my chin pushed in my chest,
+
+08:11.480 --> 08:14.440
+ nor am I falling back and having trouble breathing
+
+08:14.440 --> 08:15.280
+ in the middle of the night.
+
+08:15.280 --> 08:16.180
+ They're designed just right.
+
+08:16.180 --> 08:17.840
+ They also have a 10 years warranty
+
+08:17.840 --> 08:20.540
+ and you get to try it out for a hundred nights risk-free.
+
+08:20.540 --> 08:22.100
+ They'll even pick it up for you if you don't love it,
+
+08:22.100 --> 08:23.320
+ but I think that you will.
+
+08:23.320 --> 08:24.160
+ Again, if you're interested,
+
+08:24.160 --> 08:27.080
+ you can go to helixsleep.com slash Huberman
+
+08:27.080 --> 08:30.040
+ for up to $200 off and two free pillows.
+
+08:30.040 --> 08:31.780
+ Let's talk about aggression.
+
+08:31.780 --> 08:35.860
+ I think that many people out there are put off by aggression
+
+08:35.860 --> 08:37.980
+ although others are drawn to aggression,
+
+08:37.980 --> 08:42.280
+ both in themselves and when observing it in others.
+
+08:42.280 --> 08:44.440
+ The reason to talk about aggression is that,
+
+08:44.440 --> 08:46.000
+ as mentioned before,
+
+08:46.000 --> 08:48.120
+ the context of aggression really matters.
+
+08:48.120 --> 08:51.740
+ So there are instances where aggression is adaptive.
+
+08:51.740 --> 08:55.300
+ For instance, a mother protecting her children,
+
+08:55.300 --> 08:56.400
+ if she's being attacked
+
+08:56.400 --> 08:57.580
+ or if her children are being threatened,
+
+08:57.580 --> 08:59.280
+ I think most people would agree
+
+08:59.280 --> 09:02.160
+ that so-called maternal aggression of that sort,
+
+09:02.160 --> 09:05.640
+ provided the context is right, is a great thing.
+
+09:05.640 --> 09:07.780
+ Protecting our young is, after all,
+
+09:07.780 --> 09:10.520
+ one of the primary adaptive drives of our species,
+
+09:10.520 --> 09:12.240
+ and thank goodness it is.
+
+09:12.240 --> 09:13.860
+ Of course, other forms of aggression
+
+09:13.860 --> 09:16.880
+ like unprovoked proactive aggression,
+
+09:16.880 --> 09:19.880
+ somebody simply being violent to somebody else,
+
+09:19.880 --> 09:21.220
+ even when unprovoked.
+
+09:21.220 --> 09:23.720
+ Most of us cringe when we see that kind of behavior.
+
+09:23.720 --> 09:26.120
+ It can even evoke aggression in people
+
+09:26.120 --> 09:28.700
+ when they observe that kind of behavior.
+
+09:28.700 --> 09:31.160
+ So again, context really matters,
+
+09:31.160 --> 09:34.880
+ but a more general and perhaps an even more important reason
+
+09:34.880 --> 09:37.760
+ to think about and understand aggression
+
+09:37.760 --> 09:39.580
+ is that by understanding the biology
+
+09:39.580 --> 09:41.520
+ and psychology of aggression,
+
+09:41.520 --> 09:43.840
+ you will be in a much better position
+
+09:43.840 --> 09:46.800
+ to understand how all emotional states come to be,
+
+09:46.800 --> 09:49.100
+ both in yourself and in others.
+
+09:49.100 --> 09:52.800
+ For instance, many of you have probably heard the statement
+
+09:52.800 --> 09:55.400
+ that I believe arises from pop psychology,
+
+09:55.400 --> 09:57.800
+ not from formal academic psychology,
+
+09:57.800 --> 10:01.220
+ that aggression is just sadness.
+
+10:01.220 --> 10:03.240
+ It's a form of sadness that's amplified,
+
+10:03.240 --> 10:05.020
+ and it shows up as aggression.
+
+10:05.020 --> 10:07.460
+ But when we look at the underlying biology
+
+10:07.460 --> 10:09.780
+ and the peer-reviewed literature on this,
+
+10:09.780 --> 10:11.600
+ nothing could be further from the truth.
+
+10:11.600 --> 10:13.920
+ We have distinct circuits in the brain
+
+10:13.920 --> 10:17.880
+ for aggression versus grief and mourning.
+
+10:17.880 --> 10:19.280
+ Those are non-overlapping.
+
+10:19.280 --> 10:21.960
+ Now, that doesn't mean that you can't be sad and aggressive
+
+10:21.960 --> 10:24.960
+ or in a state of mourning and aggressive at the same time.
+
+10:24.960 --> 10:26.720
+ But the idea that sadness and aggression
+
+10:26.720 --> 10:30.440
+ are one and the same thing is simply not true.
+
+10:30.440 --> 10:32.260
+ And by understanding that,
+
+10:32.260 --> 10:35.800
+ or perhaps by understanding that irritability and aggression
+
+10:35.800 --> 10:37.080
+ are not the same thing,
+
+10:37.080 --> 10:39.080
+ you'll be in a much better position to apply
+
+10:39.080 --> 10:41.240
+ some of the tools that we will talk about in this episode
+
+10:41.240 --> 10:44.920
+ in order to be able to reduce or eliminate,
+
+10:44.920 --> 10:47.840
+ or if it's adaptive to you, to modulate aggression.
+
+10:47.840 --> 10:50.680
+ And yes, there are cases where modulating your aggression,
+
+10:50.680 --> 10:54.480
+ in some cases even amplifying aggression, can be adaptive.
+
+10:54.480 --> 10:56.700
+ Now, this of course is not the first discussion
+
+10:56.700 --> 10:58.840
+ about the biology of aggression
+
+10:58.840 --> 11:00.320
+ or the psychology of aggression.
+
+11:00.320 --> 11:03.360
+ And we really can look to the beginning of the last century
+
+11:03.360 --> 11:07.360
+ as the time in which the formal study of aggression
+
+11:07.360 --> 11:08.720
+ really began.
+
+11:08.720 --> 11:10.960
+ One of the names that's most associated
+
+11:10.960 --> 11:12.880
+ with the formal study of aggression
+
+11:12.880 --> 11:15.680
+ is none other than Konrad Lorenz.
+
+11:15.680 --> 11:17.560
+ Some of you may be familiar with that name.
+
+11:17.560 --> 11:20.640
+ Others of you may not be familiar with that name.
+
+11:20.640 --> 11:25.420
+ Konrad Lorenz studied so-called imprinting behaviors
+
+11:25.420 --> 11:27.960
+ and fixed action pattern behaviors.
+
+11:27.960 --> 11:30.840
+ He's most famous, at least in scientific circles,
+
+11:30.840 --> 11:34.360
+ for getting geese to believe that he was their parent.
+
+11:34.360 --> 11:37.560
+ And if you were to put into Google Konrad with a K Lorenz,
+
+11:37.560 --> 11:40.120
+ just as it sounds, Konrad Lorenz geese,
+
+11:40.120 --> 11:41.860
+ you're going to see a lot of photos of Konrad
+
+11:41.860 --> 11:44.240
+ walking down roads with a lot of geese following him
+
+11:44.240 --> 11:46.840
+ or swimming in lakes with a lot of geese following him.
+
+11:46.840 --> 11:49.820
+ He had a habit of geese adopting him
+
+11:49.820 --> 11:51.740
+ because of the behaviors that he partook in.
+
+11:51.740 --> 11:53.240
+ So he would swim out on a lake
+
+11:53.240 --> 11:54.300
+ in front of a bunch of little geese,
+
+11:54.300 --> 11:55.960
+ and then they would think that he was the parent
+
+11:55.960 --> 11:56.880
+ and they would imprint on him.
+
+11:56.880 --> 11:59.360
+ He even lived with these animals and they lived with him.
+
+11:59.360 --> 12:01.620
+ Sort of a strange character from what I hear.
+
+12:01.620 --> 12:04.080
+ But nonetheless, all this work was deserving
+
+12:04.080 --> 12:06.480
+ of a Nobel prize because what he discovered
+
+12:06.480 --> 12:08.480
+ were fixed action patterns.
+
+12:08.480 --> 12:12.040
+ That is patterns of behavior that could be evoked
+
+12:12.040 --> 12:14.280
+ by a single stimulus, okay?
+
+12:14.280 --> 12:15.920
+ This is really important.
+
+12:15.920 --> 12:19.160
+ The idea that you can get a whole category of behaviors,
+
+12:19.160 --> 12:22.560
+ like swimming behind a parent
+
+12:22.560 --> 12:26.640
+ or looking to somebody for comfort and only them.
+
+12:26.640 --> 12:28.640
+ The idea that you could get a huge category
+
+12:28.640 --> 12:31.000
+ of different behaviors in a bunch of different contexts
+
+12:31.000 --> 12:34.600
+ triggered by just the presence of that person is remarkable
+
+12:34.600 --> 12:37.180
+ because what it suggested and what turns out to be true
+
+12:37.180 --> 12:39.400
+ is that there are neural circuits,
+
+12:39.400 --> 12:40.740
+ not just individual brain areas,
+
+12:40.740 --> 12:43.060
+ but collections of brain areas that work together
+
+12:43.060 --> 12:45.680
+ to engage a pattern of behaviors.
+
+12:45.680 --> 12:48.560
+ And that's the first fundamental principle
+
+12:48.560 --> 12:50.280
+ that we need to define today.
+
+12:50.280 --> 12:52.600
+ That when we talk about aggression,
+
+12:52.600 --> 12:55.520
+ we're talking about activation of neural circuits,
+
+12:55.520 --> 12:56.980
+ not individual brain areas,
+
+12:56.980 --> 12:59.900
+ but neural circuits that get played out in sequence,
+
+12:59.900 --> 13:01.980
+ like keys on a piano.
+
+13:01.980 --> 13:05.120
+ But that playing out in sequence means that aggression
+
+13:05.120 --> 13:08.220
+ is a verb, it has a beginning, a middle, and an end,
+
+13:08.220 --> 13:10.920
+ and it's a process, it's not an event.
+
+13:10.920 --> 13:13.040
+ And as you'll see, that turns out to be very important
+
+13:13.040 --> 13:16.920
+ in terms of thinking about how one can halt aggression,
+
+13:16.920 --> 13:21.060
+ prevent it from happening before it's initiated,
+
+13:21.060 --> 13:24.720
+ or maybe even prolonging aggression if that's what's needed.
+
+13:24.720 --> 13:28.000
+ Now, Konrad Lorenz had no real knowledge of neural circuits.
+
+13:28.000 --> 13:29.880
+ I mean, obviously he knew there was this thing
+
+13:29.880 --> 13:32.280
+ that we call a brain and a nervous system,
+
+13:32.280 --> 13:34.960
+ and he knew that there were chemicals in the brain
+
+13:34.960 --> 13:36.720
+ and hormones and things of that sort
+
+13:36.720 --> 13:38.240
+ that were likely to play a role,
+
+13:38.240 --> 13:40.160
+ but he really didn't take any measures
+
+13:40.160 --> 13:42.860
+ to define what the neural circuits were.
+
+13:42.860 --> 13:43.700
+ Frankly, he didn't need to.
+
+13:43.700 --> 13:46.040
+ He had his Nobel Prize and he did all this beautiful work.
+
+13:46.040 --> 13:48.800
+ He's known for an abundance of work,
+
+13:48.800 --> 13:53.260
+ but he did think about what sorts of underlying processes
+
+13:53.260 --> 13:55.760
+ could drive something like aggression.
+
+13:55.760 --> 13:58.600
+ And he talked about one particular feature
+
+13:58.600 --> 14:00.080
+ that's especially important,
+
+14:00.080 --> 14:02.560
+ and that's this notion of a pressure.
+
+14:02.560 --> 14:07.560
+ The idea that, yes, certain hormones will bias somebody
+
+14:08.760 --> 14:10.400
+ or an animal to be aggressive.
+
+14:10.400 --> 14:11.960
+ Certain neurotransmitter states,
+
+14:11.960 --> 14:13.400
+ and you'll learn what those are today,
+
+14:13.400 --> 14:16.720
+ will bias somebody to be more or less aggressive,
+
+14:16.720 --> 14:18.640
+ maybe even submissive and passive,
+
+14:18.640 --> 14:21.340
+ maybe outright proactively aggressive
+
+14:21.340 --> 14:23.720
+ towards anyone or anything in front of them.
+
+14:23.720 --> 14:26.640
+ And yes, of course, there will be historical features
+
+14:26.640 --> 14:29.320
+ based on their childhood, et cetera, et cetera.
+
+14:29.320 --> 14:31.540
+ He understood that there will be a constellation of things
+
+14:31.540 --> 14:34.600
+ that would drive people to be aggressive.
+
+14:34.600 --> 14:36.240
+ And he described a so-called pressure,
+
+14:36.240 --> 14:37.740
+ almost like a hydraulic pressure.
+
+14:37.740 --> 14:40.320
+ Just think about fluid pressure in a small container
+
+14:40.320 --> 14:42.280
+ being pushed, pushed, pushed until the can
+
+14:42.280 --> 14:44.480
+ or the container is ready to explode,
+
+14:44.480 --> 14:48.080
+ and how multiple features, multiple variables
+
+14:48.080 --> 14:51.220
+ could impinge on that and create that pressure.
+
+14:51.220 --> 14:53.980
+ It turns out that's exactly the way the system works.
+
+14:53.980 --> 14:55.540
+ There is no single brain area
+
+14:55.540 --> 14:57.840
+ that flips the switch for aggression,
+
+14:57.840 --> 14:59.620
+ although we'll soon talk about a brain structure
+
+14:59.620 --> 15:02.960
+ that generally houses the propensity
+
+15:02.960 --> 15:04.400
+ and the output of aggression.
+
+15:05.720 --> 15:07.720
+ This notion of a hydraulic pressure
+
+15:07.720 --> 15:10.480
+ that can drive us toward aggressive behavior,
+
+15:10.480 --> 15:14.480
+ or conversely can be very low pressure
+
+15:14.480 --> 15:16.640
+ and keep us in a state of non-reactivity,
+
+15:16.640 --> 15:19.660
+ maybe even passivity or submissiveness,
+
+15:19.660 --> 15:22.380
+ is a very important feature because it really captures
+
+15:22.380 --> 15:24.920
+ the essence of how neural circuits work
+
+15:24.920 --> 15:27.360
+ when we're talking about primitive behaviors generally.
+
+15:27.360 --> 15:31.320
+ And you can start to notice this in yourself and in others.
+
+15:31.320 --> 15:32.480
+ You can start to notice
+
+15:32.480 --> 15:34.800
+ when you are veering toward aggression
+
+15:34.800 --> 15:36.960
+ or when someone is veering toward aggression,
+
+15:36.960 --> 15:39.100
+ verbal or physical.
+
+15:39.100 --> 15:44.000
+ Now, that veering is the buildup of this hydraulic pressure
+
+15:44.000 --> 15:45.420
+ that Lorenz was referring to,
+
+15:45.420 --> 15:48.220
+ and it really does have an underlying biological basis.
+
+15:48.220 --> 15:51.980
+ Now, it was some years later
+
+15:51.980 --> 15:54.500
+ that the first experiments came along,
+
+15:54.500 --> 15:57.940
+ which really started to identify the brain areas
+
+15:57.940 --> 16:00.600
+ and the biological so-called pressures
+
+16:00.600 --> 16:03.340
+ that can induce aggressive behavior.
+
+16:03.340 --> 16:05.140
+ And the person that really gets credit for this
+
+16:05.140 --> 16:08.100
+ is a guy by the name of Walter Hess,
+
+16:08.100 --> 16:10.780
+ who at that time was working on cats.
+
+16:10.780 --> 16:12.960
+ And I know that when you say working on cats,
+
+16:12.960 --> 16:13.860
+ a lot of people will cringe,
+
+16:13.860 --> 16:15.240
+ a lot of people have cats as pets,
+
+16:15.240 --> 16:17.380
+ and certainly cats can be delightful.
+
+16:17.380 --> 16:19.500
+ Some people like them more, some people like them less.
+
+16:19.500 --> 16:23.220
+ Most people cringe at the idea of doing experiments on cats.
+
+16:23.220 --> 16:24.640
+ I should say that these days,
+
+16:24.640 --> 16:26.480
+ very few laboratories work on cats.
+
+16:26.480 --> 16:28.700
+ Most laboratories that work on animal models
+
+16:28.700 --> 16:31.220
+ will work on flies, Drosophila fruit flies
+
+16:31.220 --> 16:33.380
+ for their capacity to do genetics,
+
+16:33.380 --> 16:37.220
+ on laboratory mice, sometimes rats, but usually mice.
+
+16:37.220 --> 16:39.420
+ And occasionally you'll find a lab
+
+16:39.420 --> 16:41.400
+ that still works on cats.
+
+16:41.400 --> 16:43.300
+ Back in the time of Hess,
+
+16:43.300 --> 16:45.100
+ very few laboratories worked on mice.
+
+16:45.100 --> 16:48.380
+ Most laboratories worked on cats or rats.
+
+16:48.380 --> 16:49.940
+ And the reason for that is nowadays,
+
+16:49.940 --> 16:53.220
+ most laboratories use mice if they use animal models
+
+16:53.220 --> 16:55.560
+ because of the genetic tools that exist in mice
+
+16:55.560 --> 16:58.480
+ to knock out this gene or knock in this gene, et cetera,
+
+16:58.480 --> 17:01.100
+ which can't be done in humans or non-human primates,
+
+17:01.100 --> 17:04.660
+ at least not very easily at this point in history.
+
+17:04.660 --> 17:06.380
+ So when I say he was working on cats,
+
+17:06.380 --> 17:08.560
+ I realized that probably evoked some negative emotions
+
+17:08.560 --> 17:11.540
+ in some of you, maybe even aggression in some of you.
+
+17:11.540 --> 17:14.900
+ What we can do, however, is look at the data
+
+17:14.900 --> 17:17.980
+ and make use of the data in terms of our understanding.
+
+17:19.080 --> 17:22.880
+ What Hess did was he had cats that were awake
+
+17:22.880 --> 17:25.120
+ and he was able to lower stimulating electrode
+
+17:25.120 --> 17:25.960
+ into their brain.
+
+17:25.960 --> 17:26.780
+ Now, keep in mind that the brain
+
+17:26.780 --> 17:28.520
+ does not have any pain sensors.
+
+17:28.520 --> 17:30.860
+ So after a small hole is made in the skull,
+
+17:30.860 --> 17:32.300
+ electrodes are lowered into the brain.
+
+17:32.300 --> 17:35.380
+ This is what's done commonly in human neurosurgery.
+
+17:35.380 --> 17:38.440
+ And he was able to stimulate different brain areas.
+
+17:38.440 --> 17:40.180
+ And he was sort of poking around.
+
+17:40.180 --> 17:41.100
+ And when I say sort of,
+
+17:41.100 --> 17:44.660
+ he was doing this with some logical intent and purpose.
+
+17:44.660 --> 17:46.160
+ He wasn't just poking around in there for fun.
+
+17:46.160 --> 17:49.220
+ He was trying to identify brain regions
+
+17:49.220 --> 17:53.780
+ that could generate entire categories of behavior,
+
+17:53.780 --> 17:55.300
+ a la Lorenz, right?
+
+17:55.300 --> 17:57.160
+ These fixed action pattern behaviors.
+
+17:58.640 --> 18:01.320
+ Eventually, his electrode landed in a site
+
+18:01.320 --> 18:03.980
+ and he provided electrical stimulation to the cat
+
+18:03.980 --> 18:08.980
+ that caused this otherwise passive purring, relaxing cat
+
+18:10.420 --> 18:13.120
+ to suddenly go into an absolute rage.
+
+18:13.120 --> 18:16.300
+ So arched back, hissing, hair up,
+
+18:16.300 --> 18:19.340
+ so-called pyloerection where the hairs go up.
+
+18:19.340 --> 18:21.340
+ Animals try and make themselves as big as possible,
+
+18:21.340 --> 18:22.900
+ often when they're aggressive.
+
+18:24.440 --> 18:27.180
+ Drooling, maybe even spitting, believe it or not,
+
+18:27.180 --> 18:29.080
+ cats and other animals can do this.
+
+18:29.080 --> 18:32.020
+ And the cat tried to attack him and anyone else
+
+18:32.020 --> 18:36.260
+ and anything else, even inanimate objects
+
+18:36.260 --> 18:38.860
+ when he stimulated this particular brain area.
+
+18:38.860 --> 18:41.140
+ So Hess obviously took notice
+
+18:41.140 --> 18:44.100
+ of this incredible transformation in behavior.
+
+18:44.100 --> 18:47.280
+ And the fact that when he turned off the stimulation
+
+18:47.280 --> 18:48.780
+ of this particular brain area,
+
+18:48.780 --> 18:50.980
+ the cat very quickly within seconds
+
+18:50.980 --> 18:54.100
+ went back to being passive calm kitty.
+
+18:54.100 --> 18:57.580
+ Now, of course, he repeated this experiment in other animals
+
+18:57.580 --> 19:00.780
+ because he had to confirm that it wasn't just happenstance,
+
+19:00.780 --> 19:04.340
+ that there wasn't something unique about this one cat
+
+19:04.340 --> 19:07.500
+ that perhaps he had stimulated an area
+
+19:07.500 --> 19:10.400
+ that had been built up during the kittenhood
+
+19:10.400 --> 19:13.560
+ of this cat and had been reactivated.
+
+19:13.560 --> 19:15.780
+ Maybe this kitten had been traumatized early in life
+
+19:15.780 --> 19:18.820
+ or scared and reactivation of a particular circuit
+
+19:18.820 --> 19:23.020
+ unique to that cat created this aggressive behavior.
+
+19:23.020 --> 19:23.860
+ That wasn't the case.
+
+19:23.860 --> 19:26.580
+ Every cat that he looked at
+
+19:26.580 --> 19:28.800
+ and stimulated this particular brain area,
+
+19:28.800 --> 19:31.300
+ the cat would immediately go into an aggressive,
+
+19:31.300 --> 19:32.540
+ almost rage-type behavior.
+
+19:32.540 --> 19:34.300
+ Now, of course, we can't anthropomorphize.
+
+19:34.300 --> 19:35.740
+ We don't know what the cat was feeling.
+
+19:35.740 --> 19:37.100
+ For all we know, the cat could be happy,
+
+19:37.100 --> 19:39.060
+ although that seems pretty unlikely.
+
+19:39.060 --> 19:43.820
+ And later experiments done in mice, but also in humans,
+
+19:43.820 --> 19:47.480
+ confirm that indeed stimulation of this brain area
+
+19:47.480 --> 19:49.820
+ evoked not just behavioral aggression,
+
+19:49.820 --> 19:53.340
+ but also subjective feelings of aggression and anger.
+
+19:53.340 --> 19:56.520
+ So what was this incredible brain area?
+
+19:56.520 --> 19:58.780
+ Or rather, I should say, what is the brain area
+
+19:58.780 --> 20:01.540
+ that harbored this incredible capacity
+
+20:01.540 --> 20:05.500
+ to generate aggressive behavior in Hess's experiments?
+
+20:06.460 --> 20:08.580
+ Well, for those of you that are regular listeners
+
+20:08.580 --> 20:11.620
+ to this podcast, you'll probably be relieved to know
+
+20:11.620 --> 20:12.780
+ that today we're going to talk about
+
+20:12.780 --> 20:14.380
+ some new neural circuits.
+
+20:14.380 --> 20:17.580
+ Oftentimes we'll center back on the amygdala
+
+20:17.580 --> 20:20.060
+ or the prefrontal cortex, and those names will come up.
+
+20:20.060 --> 20:21.860
+ And for those of you that haven't heard them before,
+
+20:21.860 --> 20:23.100
+ don't worry, I'll make it clear
+
+20:23.100 --> 20:26.040
+ as to what those brain areas are and what they do.
+
+20:26.040 --> 20:28.300
+ But today we're going to talk a lot about
+
+20:28.300 --> 20:33.020
+ the so-called VMH or ventromedial hypothalamus.
+
+20:33.020 --> 20:36.380
+ The ventromedial hypothalamus is a nucleus,
+
+20:36.380 --> 20:38.780
+ meaning a small collection of neurons.
+
+20:38.780 --> 20:39.900
+ What are neurons?
+
+20:39.900 --> 20:41.300
+ Nerve cells.
+
+20:41.300 --> 20:43.500
+ And that small collection of neurons
+
+20:43.500 --> 20:46.420
+ that we call the ventromedial hypothalamus is truly small.
+
+20:46.420 --> 20:50.940
+ It's only about 1,500 neurons on one side of your brain
+
+20:50.940 --> 20:52.900
+ and a matching 1,500 neurons
+
+20:52.900 --> 20:54.420
+ on the other side of your brain.
+
+20:54.420 --> 20:57.700
+ And that combined 3,000 neurons or so,
+
+20:57.700 --> 21:00.720
+ it's not exactly 3,000, but 3,000 neurons or so
+
+21:01.620 --> 21:05.900
+ is sufficient to generate aggressive behavior
+
+21:05.900 --> 21:10.540
+ of the sort that Hess observed in the cat.
+
+21:10.540 --> 21:11.660
+ And believe it or not,
+
+21:11.660 --> 21:14.560
+ when you see somebody who's in an act of rage
+
+21:14.560 --> 21:17.080
+ or in an act of verbal aggression
+
+21:17.080 --> 21:19.240
+ or in an act of defensive aggression,
+
+21:19.240 --> 21:22.920
+ protecting their family or loved ones or country, et cetera,
+
+21:23.860 --> 21:28.300
+ almost certainly those neurons are engaged in that behavior.
+
+21:28.300 --> 21:32.660
+ Those neurons are perhaps even generating that behavior.
+
+21:32.660 --> 21:34.340
+ And next I'll describe some experiments
+
+21:34.340 --> 21:37.740
+ that were done just recently within the last 10 years or so,
+
+21:37.740 --> 21:41.060
+ but leading right up until this year and even last month
+
+21:41.060 --> 21:43.980
+ that keep confirming again and again and again
+
+21:43.980 --> 21:45.580
+ that it is the activity of neurons
+
+21:45.580 --> 21:46.940
+ in the ventromedial hypothalamus
+
+21:46.940 --> 21:49.340
+ that are both necessary and sufficient
+
+21:49.340 --> 21:53.780
+ to generate the full catalog of aggressive behaviors.
+
+21:53.780 --> 21:56.400
+ Now, before I go further to describe
+
+21:56.400 --> 21:59.580
+ the beautiful recent studies on the VMH,
+
+21:59.580 --> 22:01.220
+ the ventromedial hypothalamus
+
+22:01.220 --> 22:03.100
+ and the important role of testosterone
+
+22:03.100 --> 22:05.480
+ and more importantly estrogen
+
+22:05.480 --> 22:07.200
+ in the activation of aggressive behavior.
+
+22:07.200 --> 22:08.040
+ That's right.
+
+22:08.040 --> 22:10.800
+ That's soon to be clear to you why that's the case.
+
+22:11.700 --> 22:15.060
+ I want to emphasize that the ventromedial hypothalamus
+
+22:15.060 --> 22:16.540
+ is something that we should all care about.
+
+22:16.540 --> 22:17.820
+ Why?
+
+22:17.820 --> 22:21.380
+ Well, it turns out that many categories
+
+22:21.380 --> 22:24.860
+ of psychiatric disorders, developmental disorders
+
+22:24.860 --> 22:26.360
+ and psychological challenges,
+
+22:26.360 --> 22:28.700
+ things like schizophrenia, PTSD,
+
+22:28.700 --> 22:31.680
+ post-traumatic stress disorder, depression,
+
+22:31.680 --> 22:33.880
+ borderline personality disorder,
+
+22:33.880 --> 22:35.960
+ and even certain forms of autism
+
+22:35.960 --> 22:39.000
+ can include elements of aggression and even violence.
+
+22:39.000 --> 22:40.700
+ Now, it's certainly not the case
+
+22:40.700 --> 22:42.980
+ that aggression and violence are present
+
+22:42.980 --> 22:46.820
+ in all people who suffer from schizophrenia or PTSD
+
+22:46.820 --> 22:50.340
+ or depression or autism or borderline personality disorder.
+
+22:50.340 --> 22:53.220
+ I'm absolutely not saying that.
+
+22:53.220 --> 22:56.060
+ However, it can be a feature of those
+
+22:56.060 --> 22:58.740
+ and it's a well-described feature
+
+22:58.740 --> 23:01.660
+ in terms of trying to understand the constellation
+
+23:01.660 --> 23:04.140
+ of challenges that people suffer from when they have those.
+
+23:04.140 --> 23:06.060
+ So thinking about the VMH goes way beyond
+
+23:06.060 --> 23:08.160
+ just understanding basic aggression
+
+23:08.160 --> 23:10.120
+ in the context of adaptive aggression.
+
+23:10.120 --> 23:13.160
+ So, you know, when earlier I use the example
+
+23:13.160 --> 23:14.200
+ of maternal aggression,
+
+23:14.200 --> 23:17.660
+ that's one adaptive form of aggression.
+
+23:17.660 --> 23:20.440
+ It also can be pathologic aggression,
+
+23:20.440 --> 23:22.500
+ meaning it can harm ourselves or others.
+
+23:22.500 --> 23:24.060
+ So keep this in mind as we go forward
+
+23:24.060 --> 23:26.580
+ because later we're going to talk about specific tools
+
+23:26.580 --> 23:30.220
+ designed to modulate or prevent aggression
+
+23:30.220 --> 23:31.240
+ in, for instance,
+
+23:31.240 --> 23:33.720
+ people with attention deficit hyperactivity disorder
+
+23:33.720 --> 23:35.740
+ and especially kids with ADHD.
+
+23:37.600 --> 23:40.100
+ In the meantime, let's return to the VMH,
+
+23:40.100 --> 23:42.320
+ this relatively small collection of neurons.
+
+23:42.320 --> 23:43.820
+ And the reason I say relatively small is,
+
+23:43.820 --> 23:47.200
+ well, your brain has many hundreds of billions of neurons,
+
+23:47.200 --> 23:48.640
+ maybe even trillions of neurons.
+
+23:48.640 --> 23:50.640
+ The exact number of neurons isn't really clear,
+
+23:50.640 --> 23:52.020
+ but it's a lot.
+
+23:52.020 --> 23:56.080
+ And it certainly is a lot relative to the number of neurons,
+
+23:56.080 --> 23:59.680
+ this 3000 or so neurons living in your hypothalamus
+
+23:59.680 --> 24:02.500
+ that can evoke this aggressive response.
+
+24:04.220 --> 24:07.940
+ Experiments done by David Anderson's lab at Caltech
+
+24:07.940 --> 24:10.980
+ were really the first to parse the fine circuitry
+
+24:10.980 --> 24:13.980
+ and to really show that the ventromedial hypothalamus
+
+24:13.980 --> 24:17.280
+ is both necessary and sufficient for aggressive behavior.
+
+24:17.280 --> 24:18.340
+ These are important experiments
+
+24:18.340 --> 24:20.460
+ and they're worth knowing about.
+
+24:20.460 --> 24:24.500
+ What they did was they identified,
+
+24:24.500 --> 24:26.220
+ first of all, where the ventromedial hypothalamus
+
+24:26.220 --> 24:27.140
+ was in the mouse.
+
+24:27.140 --> 24:28.340
+ That was pretty straightforward to do,
+
+24:28.340 --> 24:30.780
+ sort of known before they started these experiments.
+
+24:30.780 --> 24:34.900
+ And then they analyzed which genes,
+
+24:34.900 --> 24:38.500
+ meaning which DNA, which of course becomes RNA
+
+24:38.500 --> 24:40.500
+ and RNA becomes protein,
+
+24:40.500 --> 24:44.200
+ which DNA and therefore which proteins are expressed
+
+24:44.200 --> 24:47.860
+ in particular cells of the ventromedial hypothalamus.
+
+24:47.860 --> 24:50.540
+ And it turns out that there's a particular category
+
+24:50.540 --> 24:54.040
+ of neurons in the ventromedial hypothalamus
+
+24:54.040 --> 24:56.420
+ that make an estrogen receptor.
+
+24:57.300 --> 25:00.020
+ And it is those neurons in particular
+
+25:00.020 --> 25:04.080
+ that are responsible for generating aggressive behavior.
+
+25:04.080 --> 25:05.020
+ How did they know this?
+
+25:05.020 --> 25:07.540
+ Well, they used a tool that's actually been described
+
+25:07.540 --> 25:09.160
+ by a previous guest of this podcast.
+
+25:09.160 --> 25:11.720
+ We had an episode with the psychiatrist and bio engineer
+
+25:11.720 --> 25:13.620
+ and my colleague at Stanford School of Medicine,
+
+25:13.620 --> 25:14.820
+ Carl Deisseroth.
+
+25:14.820 --> 25:18.020
+ He and others have developed tools
+
+25:18.020 --> 25:21.620
+ that allow people to control the activity of neurons
+
+25:21.620 --> 25:22.860
+ essentially by remote control,
+
+25:22.860 --> 25:24.540
+ by shining light on those neurons.
+
+25:24.540 --> 25:26.860
+ So in the context of an experiment on a mouse,
+
+25:26.860 --> 25:28.240
+ which is what David's lab did,
+
+25:28.240 --> 25:30.180
+ and these were the beautiful experiments of Dai Yu Lin,
+
+25:30.180 --> 25:32.940
+ who's now in her own laboratory at New York University,
+
+25:33.900 --> 25:36.180
+ put a little fiber optic cable down into the brain
+
+25:36.180 --> 25:39.220
+ of the hypo, into the hypothalamus that is of the mouse.
+
+25:39.220 --> 25:43.500
+ The mouse is able to move around in its cage, freely moving.
+
+25:43.500 --> 25:45.380
+ Even though it has a little tether, this little wire,
+
+25:45.380 --> 25:46.580
+ it's a very thin wire.
+
+25:46.580 --> 25:48.360
+ And that little thin wire is actually a little,
+
+25:48.360 --> 25:49.460
+ what we call optrode.
+
+25:49.460 --> 25:51.820
+ And the experimentalist, in this case, Dai Yu,
+
+25:51.820 --> 25:55.620
+ was able to stimulate the turning on
+
+25:55.620 --> 25:57.700
+ of a little bit of blue light.
+
+25:57.700 --> 26:00.020
+ And that blue light activated
+
+26:00.020 --> 26:03.340
+ only those estrogen receptor neurons
+
+26:03.340 --> 26:06.260
+ in only the ventromedial hypothalamus.
+
+26:06.260 --> 26:07.400
+ And the way she was able to do that
+
+26:07.400 --> 26:09.700
+ is she had introduced a gene
+
+26:09.700 --> 26:13.140
+ that had been developed by our friend, Carl Deisseroth,
+
+26:13.140 --> 26:17.220
+ that allows light to trigger electrical activity
+
+26:17.220 --> 26:18.060
+ in those neurons.
+
+26:18.060 --> 26:19.180
+ So if any of that is confusing
+
+26:19.180 --> 26:21.120
+ or if all of that is confusing, here's the experiment.
+
+26:21.120 --> 26:23.160
+ There's a mouse in a cage,
+
+26:23.160 --> 26:24.620
+ has a little wire coming out of its head.
+
+26:24.620 --> 26:26.520
+ It doesn't notice, believe it or not.
+
+26:26.520 --> 26:28.340
+ We know this because it's still eating and mating
+
+26:28.340 --> 26:30.760
+ and doing all the things that mice like to do
+
+26:30.760 --> 26:33.220
+ on a daily basis and sleeping, et cetera.
+
+26:33.220 --> 26:35.340
+ And the mere pressing of a button
+
+26:35.340 --> 26:37.720
+ will activate a little bit of light released
+
+26:37.720 --> 26:38.680
+ at the end of that wire.
+
+26:38.680 --> 26:41.020
+ That light activates particular neurons.
+
+26:41.020 --> 26:43.940
+ In this case, it's the estrogen receptor-containing neurons
+
+26:43.940 --> 26:45.860
+ in only the ventromedial hypothalamus.
+
+26:47.860 --> 26:50.300
+ When that mouse is in a cage with another mouse,
+
+26:50.300 --> 26:51.300
+ a couple of things happen,
+
+26:51.300 --> 26:53.820
+ depending on what the other mouse is,
+
+26:53.820 --> 26:56.200
+ or we could say who the other mouse is.
+
+26:56.200 --> 26:58.020
+ If it's a male mouse
+
+26:58.020 --> 27:00.240
+ and you put it in there with a female mouse,
+
+27:00.240 --> 27:03.280
+ the male mouse will attempt to mate with a female mouse.
+
+27:03.280 --> 27:05.300
+ Provided that the male mouse has gone through puberty,
+
+27:05.300 --> 27:07.900
+ he will try to mount and mate with a female mouse.
+
+27:07.900 --> 27:11.220
+ Now, female mice are either in a receptive phase
+
+27:11.220 --> 27:13.740
+ or a non-receptive phase of their so-called estrous cycle.
+
+27:13.740 --> 27:15.540
+ They don't have a menstrual 28-day cycle.
+
+27:15.540 --> 27:17.500
+ They have an estrous cycle.
+
+27:17.500 --> 27:20.000
+ And on particular days of that estrous cycle,
+
+27:20.000 --> 27:22.400
+ they are not happy to mate.
+
+27:22.400 --> 27:25.420
+ They will basically keep their hindquarters
+
+27:25.420 --> 27:27.540
+ away from the male mouse at all costs.
+
+27:27.540 --> 27:29.300
+ They'll even attack the male mouse.
+
+27:30.860 --> 27:32.600
+ On certain days of the estrous cycle, however,
+
+27:32.600 --> 27:34.780
+ the female mouse will undergo what's called lordosis,
+
+27:34.780 --> 27:36.300
+ which is an arching of her back,
+
+27:36.300 --> 27:39.760
+ and she'll allow the male to mount and mate with her.
+
+27:39.760 --> 27:42.560
+ So a large number of experiments were done,
+
+27:42.560 --> 27:46.420
+ but the first experiment really was to put the male mouse in
+
+27:46.420 --> 27:48.080
+ with a female mouse who's in the so-called
+
+27:48.080 --> 27:50.300
+ receptive phase of estrous.
+
+27:50.300 --> 27:52.140
+ That is, she will allow mating.
+
+27:52.140 --> 27:54.300
+ And he starts mating with her.
+
+27:54.300 --> 27:56.720
+ And they go through the standard repertoire
+
+27:56.720 --> 27:59.420
+ of mating behaviors that you observe in mice,
+
+28:00.380 --> 28:02.600
+ mounting, thrusting, intromission,
+
+28:02.600 --> 28:05.300
+ as it's called in the mouse sex world.
+
+28:05.300 --> 28:06.540
+ Well, I guess, I don't know what the mice call it,
+
+28:06.540 --> 28:08.360
+ but that's what the experimenters call it.
+
+28:08.360 --> 28:11.960
+ And then afterwards that he will dismount, okay?
+
+28:11.960 --> 28:15.420
+ So they observe this kind of mounting and sex behavior.
+
+28:15.420 --> 28:16.840
+ It's very typical.
+
+28:16.840 --> 28:20.080
+ But about halfway through the behavior,
+
+28:20.080 --> 28:23.560
+ Dayu turned on the light to stimulate
+
+28:23.560 --> 28:25.880
+ these estrogen receptor-containing neurons
+
+28:25.880 --> 28:27.200
+ only in the male mouse.
+
+28:27.200 --> 28:30.120
+ And what she observed was incredibly dramatic.
+
+28:30.120 --> 28:32.360
+ The male mouse ceases from trying to mate
+
+28:32.360 --> 28:34.000
+ with the female mouse and immediately tries
+
+28:34.000 --> 28:35.500
+ to kill the female mouse.
+
+28:35.500 --> 28:36.700
+ He starts attacking her.
+
+28:38.180 --> 28:41.120
+ Then she turns off the light, the male stops,
+
+28:41.120 --> 28:43.200
+ and goes back to trying to mate with the female mouse.
+
+28:43.200 --> 28:45.240
+ I'm sure all of this was very confusing
+
+28:45.240 --> 28:46.840
+ and disturbing to the female mouse.
+
+28:46.840 --> 28:49.340
+ Nonetheless, that was the repertoire.
+
+28:49.340 --> 28:50.480
+ They would mate.
+
+28:50.480 --> 28:53.420
+ She would stimulate these ventromedial hypothalamus neurons.
+
+28:53.420 --> 28:55.680
+ The male mouse would immediately try and attack
+
+28:55.680 --> 28:57.800
+ and kill the female mouse.
+
+28:57.800 --> 28:59.660
+ And then she would stop the stimulation
+
+28:59.660 --> 29:02.280
+ and he would stop trying to attack and kill the female mouse
+
+29:02.280 --> 29:04.880
+ returned to the attempt at least
+
+29:04.880 --> 29:06.460
+ to mate with the female mouse.
+
+29:07.680 --> 29:10.060
+ These are such dramatic shifts in behavior
+
+29:10.060 --> 29:11.880
+ triggered only by the activation
+
+29:11.880 --> 29:13.660
+ of only the small set of neurons
+
+29:13.660 --> 29:15.600
+ within the ventromedial hypothalamus.
+
+29:15.600 --> 29:18.340
+ And for those of you that think that you can watch
+
+29:18.340 --> 29:20.280
+ this sort of thing without being disturbed,
+
+29:20.280 --> 29:23.180
+ I encourage you to go to YouTube.
+
+29:23.180 --> 29:26.240
+ We will provide a link where you can see a video
+
+29:26.240 --> 29:27.180
+ of this type of behavior.
+
+29:27.180 --> 29:28.960
+ It's incredibly dramatic.
+
+29:28.960 --> 29:32.280
+ The shift in behavior is almost instantaneous.
+
+29:32.280 --> 29:35.060
+ It occurs within seconds, if not milliseconds,
+
+29:35.060 --> 29:36.320
+ thousandths of a second.
+
+29:37.240 --> 29:41.040
+ The next experiment that she did was to put a male mouse
+
+29:41.040 --> 29:44.760
+ with this stimulation with light capability
+
+29:44.760 --> 29:47.740
+ in its ventromedial hypothalamus into a cage alone,
+
+29:47.740 --> 29:50.360
+ but with a rubber glove filled with air or water.
+
+29:50.360 --> 29:52.740
+ Mouse is walking around sniffing, peeing,
+
+29:52.740 --> 29:54.000
+ which is what male mice seem to do.
+
+29:54.000 --> 29:55.520
+ They seem to urinate everywhere.
+
+29:55.520 --> 29:58.000
+ Essentially an interesting, perhaps interesting feature
+
+29:58.000 --> 30:00.920
+ of male mice and actually many male animals,
+
+30:00.920 --> 30:03.820
+ perhaps even humans, we don't know, or maybe we do know.
+
+30:03.820 --> 30:06.580
+ Basically, this has been observed time and time again
+
+30:06.580 --> 30:09.360
+ in experiments, mainly by Lisa Stowers' lab
+
+30:09.360 --> 30:11.520
+ at the Scripps Institute has characterized this.
+
+30:11.520 --> 30:14.240
+ If you put female mice into an arena or a cage,
+
+30:14.240 --> 30:17.880
+ they always urinate in a very small corner of that cage.
+
+30:17.880 --> 30:21.180
+ Whereas if you put male mice into an arena or a cage,
+
+30:21.180 --> 30:22.340
+ they urinate everywhere.
+
+30:22.340 --> 30:23.560
+ They have this kind of obsession
+
+30:23.560 --> 30:25.400
+ with spraying their urine everywhere.
+
+30:25.400 --> 30:27.600
+ You can sort of transpose that
+
+30:27.600 --> 30:29.320
+ to human behavior if you like.
+
+30:30.360 --> 30:34.720
+ In any event, Dayu put the mouse in the cage alone,
+
+30:34.720 --> 30:36.280
+ but with this rubber glove,
+
+30:36.280 --> 30:38.720
+ the mouse is walking around urinating, et cetera,
+
+30:38.720 --> 30:40.200
+ doing whatever it is that mice do.
+
+30:40.200 --> 30:42.460
+ Then she stimulates the activation
+
+30:42.460 --> 30:44.920
+ of these ventromedial hypothalamus neurons,
+
+30:44.920 --> 30:48.400
+ and the mouse immediately tries to kill the glove.
+
+30:48.400 --> 30:50.440
+ It goes into a rage attacking the glove
+
+30:50.440 --> 30:55.040
+ as if it were another mouse or some other animate object,
+
+30:55.040 --> 30:56.780
+ but of course it's an inanimate object.
+
+30:56.780 --> 30:58.360
+ It's just a rubber glove.
+
+30:58.360 --> 30:59.480
+ She stops the stimulation,
+
+30:59.480 --> 31:02.000
+ and the mouse immediately goes back to being completely calm
+
+31:02.000 --> 31:03.840
+ or at least not attacking.
+
+31:03.840 --> 31:06.680
+ Again, we don't know what the mouse was feeling.
+
+31:06.680 --> 31:08.480
+ So these are very dramatic videos.
+
+31:08.480 --> 31:10.080
+ Again, you can see them by following the link
+
+31:10.080 --> 31:11.880
+ that we'll provide in the caption.
+
+31:11.880 --> 31:14.160
+ If that sort of thing is going to disturb you
+
+31:14.160 --> 31:17.360
+ to see, for instance, one mouse attacking another,
+
+31:17.360 --> 31:18.760
+ please just don't watch them.
+
+31:18.760 --> 31:21.580
+ I'm not interested in traumatizing anybody,
+
+31:21.580 --> 31:23.480
+ or you traumatizing yourself, that is.
+
+31:24.540 --> 31:26.000
+ A number of different variations
+
+31:26.000 --> 31:27.080
+ were done on this experiment.
+
+31:27.080 --> 31:32.080
+ For instance, stimulating the VMH in female mice
+
+31:32.680 --> 31:33.760
+ as opposed to male mice,
+
+31:33.760 --> 31:36.680
+ putting the female mice in with other female mice
+
+31:36.680 --> 31:38.400
+ or with other male mice,
+
+31:38.400 --> 31:41.980
+ no matter what variation one carries out,
+
+31:41.980 --> 31:43.680
+ so it doesn't matter if it's male with female,
+
+31:43.680 --> 31:47.400
+ male with male, female with female, et cetera,
+
+31:47.400 --> 31:50.080
+ stimulation of the ventromedial hypothalamus
+
+31:50.080 --> 31:52.320
+ in a male mouse or a female mouse evokes
+
+31:52.320 --> 31:55.080
+ this very dramatic, almost instantaneous,
+
+31:55.080 --> 31:57.680
+ aggressive behavior, physically aggressive behavior.
+
+31:58.840 --> 32:01.120
+ Subsequent experiments done by Dai-Yu Lin
+
+32:01.120 --> 32:03.540
+ in her own laboratory and other laboratories
+
+32:03.540 --> 32:05.840
+ have shown that the ventromedial hypothalamus
+
+32:05.840 --> 32:07.720
+ is connected with a bunch of other brain areas
+
+32:07.720 --> 32:08.560
+ that are interesting,
+
+32:08.560 --> 32:10.520
+ and I'll talk about some of those in a little bit,
+
+32:10.520 --> 32:13.960
+ but one of them that I want to call out now
+
+32:13.960 --> 32:17.240
+ is the so-called PAG, the periaqueductal gray nucleus.
+
+32:17.240 --> 32:20.220
+ This is a large structure in the back of the brain
+
+32:20.220 --> 32:23.800
+ that houses things like neurons that can create opioids.
+
+32:23.800 --> 32:25.040
+ We all know of the opioid crisis,
+
+32:25.040 --> 32:28.920
+ but these are neurons that can produce endogenous means
+
+32:28.920 --> 32:33.720
+ made by the body, chemicals that can cause pain relief.
+
+32:33.720 --> 32:35.800
+ You could understand why that might occur
+
+32:35.800 --> 32:37.260
+ in a circuit for aggression, right?
+
+32:37.260 --> 32:39.720
+ Even if one is the aggressor,
+
+32:39.720 --> 32:42.800
+ it's likely that they may incur some physical damage
+
+32:42.800 --> 32:44.440
+ and they'd want some pain relief.
+
+32:45.680 --> 32:49.340
+ The PAG also is connected to a number of neural circuits
+
+32:49.340 --> 32:53.440
+ that eventually, through several processing stations,
+
+32:53.440 --> 32:56.200
+ excuse me, arrive at things like the jaws,
+
+32:56.200 --> 32:58.640
+ and in fact, stimulation of the ventromedial hypothalamus
+
+32:58.640 --> 33:01.820
+ can evoke biting and aggressive biting behavior.
+
+33:01.820 --> 33:05.240
+ Now, aggressive biting behavior is particularly interesting
+
+33:05.240 --> 33:08.440
+ because in humans, and especially in human children,
+
+33:08.440 --> 33:10.540
+ biting is something that,
+
+33:10.540 --> 33:13.440
+ while young children might do as a form of aggression,
+
+33:13.440 --> 33:17.040
+ tends to disappear pretty early in childhood,
+
+33:17.040 --> 33:21.540
+ and if it doesn't, it's often seen as a mark of pathology.
+
+33:21.540 --> 33:22.680
+ I have a story about this, actually.
+
+33:22.680 --> 33:27.140
+ When I was a kid, I went to a summer sports camp,
+
+33:27.140 --> 33:29.080
+ and I'll never forget this.
+
+33:29.080 --> 33:30.400
+ We were playing soccer,
+
+33:30.400 --> 33:34.040
+ and in a rare stroke of luck or accident,
+
+33:34.040 --> 33:35.080
+ I happened to score a goal.
+
+33:35.080 --> 33:36.560
+ I wasn't a particularly good soccer player,
+
+33:36.560 --> 33:37.920
+ especially not at that stage in my life.
+
+33:37.920 --> 33:39.720
+ They later figured out that it was just better
+
+33:39.720 --> 33:40.740
+ to make me a fullback,
+
+33:40.740 --> 33:43.440
+ because I could just wait there and do what fullbacks do.
+
+33:43.440 --> 33:45.720
+ I was better at taking the ball or the person out
+
+33:45.720 --> 33:49.460
+ than I was putting the ball in the goal.
+
+33:49.460 --> 33:53.320
+ Nonetheless, I, again, by chance, I scored a goal,
+
+33:53.320 --> 33:55.880
+ and I was trotting back to my side of the field,
+
+33:55.880 --> 33:59.600
+ and all of a sudden, I felt this sting in my back.
+
+33:59.600 --> 34:03.280
+ A kid, not to be named, although I do remember your name,
+
+34:03.280 --> 34:05.160
+ I'm not going to tell you what his name was,
+
+34:05.160 --> 34:09.420
+ a kid jumped on my back and bit me on the top of my back,
+
+34:09.420 --> 34:12.440
+ and this, of course, resulted in a discussion
+
+34:12.440 --> 34:14.800
+ and a timeout and all the usual things,
+
+34:14.800 --> 34:16.520
+ and parents, I think, got involved.
+
+34:16.520 --> 34:17.720
+ I don't recall.
+
+34:17.720 --> 34:19.180
+ I didn't think much else of it,
+
+34:19.180 --> 34:21.440
+ but I recall that this was considered
+
+34:21.440 --> 34:23.760
+ especially troubling behavior,
+
+34:23.760 --> 34:25.960
+ because he bit me as opposed to hit me
+
+34:25.960 --> 34:27.920
+ or shoved me down or something of that sort,
+
+34:27.920 --> 34:31.520
+ and it does seem as if the tendency to use biting
+
+34:31.520 --> 34:34.520
+ as an aggressive behavior is associated
+
+34:34.520 --> 34:35.920
+ with a more primitive circuitry.
+
+34:35.920 --> 34:37.800
+ Now, here, I'm truly anthropomorphizing.
+
+34:37.800 --> 34:39.720
+ I don't know what this other kid happened to be thinking
+
+34:39.720 --> 34:40.900
+ or feeling at the time.
+
+34:40.900 --> 34:41.740
+ How could I?
+
+34:41.740 --> 34:44.460
+ And I certainly am not going to say that biting
+
+34:44.460 --> 34:48.060
+ in every case reflects a pathology,
+
+34:48.060 --> 34:50.360
+ although I think there is general agreement
+
+34:50.360 --> 34:52.680
+ in the psychology community and the psychiatric community
+
+34:52.680 --> 34:55.480
+ that past a certain age, the using of one's teeth
+
+34:55.480 --> 34:58.500
+ to impart aggression and damage on others
+
+34:58.500 --> 35:01.660
+ is a particularly primitive and troubling,
+
+35:01.660 --> 35:02.800
+ or at least for the observer,
+
+35:02.800 --> 35:06.320
+ the person that experiences a pretty disturbing event.
+
+35:06.320 --> 35:08.980
+ Daew's lab has shown that activation
+
+35:08.980 --> 35:10.220
+ of the ventromedial hypothalamus
+
+35:10.220 --> 35:13.240
+ triggers a downstream circuit in the periaqueductal gray,
+
+35:13.240 --> 35:15.780
+ which then triggers a whole other set of circuits
+
+35:15.780 --> 35:17.020
+ of fixed action patterns.
+
+35:17.020 --> 35:20.760
+ Here we are back to Lorenz again with fixed action patterns,
+
+35:20.760 --> 35:24.320
+ including swinging of the limbs, right, punching.
+
+35:24.320 --> 35:26.700
+ This wouldn't necessarily be controlled punching,
+
+35:26.700 --> 35:28.600
+ but also biting behavior.
+
+35:28.600 --> 35:30.400
+ So it's remarkable to me at least
+
+35:30.400 --> 35:32.360
+ that we have circuits in our brain
+
+35:32.360 --> 35:36.160
+ that can evoke violent use of things like our mouth
+
+35:36.160 --> 35:38.640
+ or violent use of things like our limbs
+
+35:38.640 --> 35:41.340
+ that of course could be used for things like singing
+
+35:41.340 --> 35:45.600
+ or kissing or eating or gesticulating
+
+35:45.600 --> 35:48.120
+ in any kind of polite or impolite way.
+
+35:49.000 --> 35:51.440
+ The point here is that neural circuits,
+
+35:51.440 --> 35:53.000
+ not individual brain areas,
+
+35:53.000 --> 35:54.780
+ evoke the constellation of behaviors
+
+35:54.780 --> 35:56.400
+ that we call aggression.
+
+35:56.400 --> 35:57.800
+ Now, many of you are probably puzzled
+
+35:57.800 --> 35:59.560
+ or at least should be
+
+35:59.560 --> 36:01.240
+ because I've been talking about
+
+36:01.240 --> 36:02.800
+ this highly specialized brain area,
+
+36:02.800 --> 36:04.000
+ the ventromedial hypothalamus,
+
+36:04.000 --> 36:07.960
+ and this highly specialized subcategory of neurons
+
+36:07.960 --> 36:09.240
+ in the ventromedial hypothalamus,
+
+36:09.240 --> 36:11.920
+ these neurons that make estrogen receptor.
+
+36:11.920 --> 36:14.840
+ And yet the activation of those cells
+
+36:14.840 --> 36:17.580
+ triggers dramatic and immediate aggression,
+
+36:17.580 --> 36:19.600
+ both in males and in females
+
+36:19.600 --> 36:22.280
+ and both against males and against females.
+
+36:23.640 --> 36:24.600
+ So what's going on here?
+
+36:24.600 --> 36:26.600
+ Most of us think about estrogen
+
+36:26.600 --> 36:29.500
+ and we don't immediately think of aggression.
+
+36:29.500 --> 36:31.240
+ Most of us hear testosterone
+
+36:31.240 --> 36:32.600
+ and we might think about aggression,
+
+36:32.600 --> 36:34.100
+ although other things as well.
+
+36:34.960 --> 36:36.020
+ In order to understand this,
+
+36:36.020 --> 36:39.580
+ I just want to briefly refer back to a conversation
+
+36:39.580 --> 36:41.040
+ that I had on a previous episode
+
+36:41.040 --> 36:42.240
+ of the Huberman Lab podcast
+
+36:42.240 --> 36:44.280
+ and that was with my colleague,
+
+36:44.280 --> 36:45.920
+ the great Robert Sapolsky,
+
+36:45.920 --> 36:47.200
+ of course, as a professor at Stanford
+
+36:47.200 --> 36:50.360
+ who studied testosterone and its impacts on behavior
+
+36:50.360 --> 36:51.860
+ as well as estrogen and other hormones
+
+36:51.860 --> 36:53.400
+ and their impacts on behavior.
+
+36:53.400 --> 36:56.240
+ To make a long story short
+
+36:56.240 --> 37:01.240
+ and to dispel a still unfortunately very common myth,
+
+37:01.260 --> 37:05.000
+ testosterone does not increase aggressiveness.
+
+37:05.000 --> 37:07.840
+ Testosterone increases proactivity
+
+37:07.840 --> 37:10.440
+ and the willingness to lean into effort
+
+37:10.440 --> 37:12.420
+ in competitive scenarios.
+
+37:13.400 --> 37:15.840
+ Sometimes this is referred to as the challenge hypothesis,
+
+37:15.840 --> 37:20.480
+ but to make a long story short,
+
+37:20.480 --> 37:22.480
+ if people are given testosterone
+
+37:22.480 --> 37:26.560
+ or if you look at people who have different levels,
+
+37:26.560 --> 37:28.600
+ excuse me, of testosterone endogenously
+
+37:28.600 --> 37:30.080
+ that they naturally make,
+
+37:30.080 --> 37:32.600
+ what you'll find is that testosterone
+
+37:32.600 --> 37:34.840
+ tends to increase competitiveness,
+
+37:34.840 --> 37:37.320
+ but not just in aggressive scenarios.
+
+37:37.320 --> 37:40.360
+ So if somebody is already aggressive,
+
+37:40.360 --> 37:43.740
+ giving them testosterone will have the tendency
+
+37:43.740 --> 37:45.200
+ to make them more aggressive.
+
+37:46.320 --> 37:49.420
+ If somebody, however, is very benevolent and altruistic,
+
+37:49.420 --> 37:50.400
+ giving them testosterone
+
+37:50.400 --> 37:52.500
+ will make them more benevolent and altruistic,
+
+37:52.500 --> 37:53.680
+ at least up to a point.
+
+37:53.680 --> 37:55.240
+ Now, of course, there are certain forms
+
+37:55.240 --> 37:58.520
+ of synthetic testosterone that are known
+
+37:58.520 --> 38:03.040
+ in sports circles and in other circles
+
+38:03.040 --> 38:04.720
+ to increase aggressiveness
+
+38:04.720 --> 38:06.340
+ because of the way those particular forms
+
+38:06.340 --> 38:08.080
+ of synthetic testosterone work.
+
+38:08.080 --> 38:09.560
+ But in general, most of the experiments
+
+38:09.560 --> 38:11.160
+ that I'm referring to have not been done using those.
+
+38:11.160 --> 38:13.200
+ They've been done using the,
+
+38:13.200 --> 38:15.640
+ let's call them the more traditional
+
+38:15.640 --> 38:17.280
+ biological forms of testosterone
+
+38:17.280 --> 38:19.740
+ or that resemble the biological forms of testosterone.
+
+38:19.740 --> 38:21.660
+ In fact, Robert Sapolsky described
+
+38:21.660 --> 38:23.040
+ a really interesting experiment
+
+38:23.040 --> 38:26.360
+ in which if you look at testosterone levels
+
+38:26.360 --> 38:28.460
+ or you administer additional testosterone
+
+38:28.460 --> 38:30.640
+ to people who are doing philanthropy,
+
+38:30.640 --> 38:33.520
+ giving money to organizations,
+
+38:33.520 --> 38:34.960
+ and so they're essentially doing good
+
+38:34.960 --> 38:37.200
+ because these are organizations doing good,
+
+38:37.200 --> 38:40.160
+ what you find is that increased testosterone
+
+38:40.160 --> 38:42.220
+ or further increasing testosterone
+
+38:42.220 --> 38:43.760
+ makes people more willing to compete
+
+38:43.760 --> 38:45.600
+ to give more money than the other person in the room
+
+38:45.600 --> 38:48.140
+ in order to put it in air quotes,
+
+38:48.140 --> 38:51.000
+ to alpha out the other person by giving more money.
+
+38:51.000 --> 38:54.680
+ So this is an act of altruistic or benevolent philanthropy.
+
+38:54.680 --> 38:56.520
+ It is not an act of aggression.
+
+38:56.520 --> 38:58.040
+ Of course, we don't know what the people
+
+38:58.040 --> 38:59.720
+ are feeling underneath all that.
+
+38:59.720 --> 39:01.240
+ Again, we can't anthropomorphize
+
+39:01.240 --> 39:04.100
+ or project onto other people what they're feeling.
+
+39:04.100 --> 39:06.820
+ But the point is that testosterone itself
+
+39:06.820 --> 39:08.800
+ does not make people more aggressive.
+
+39:10.140 --> 39:11.960
+ And in the experiments that we've been talking about
+
+39:11.960 --> 39:14.480
+ up until now, it's actually the activation
+
+39:14.480 --> 39:17.040
+ of estrogen receptor containing neurons
+
+39:17.040 --> 39:19.240
+ that makes these animals more aggressive.
+
+39:19.240 --> 39:20.760
+ And it turns out there's evidence
+
+39:20.760 --> 39:22.600
+ that in certain contexts,
+
+39:22.600 --> 39:24.580
+ estrogen can make people more aggressive.
+
+39:24.580 --> 39:25.780
+ So what's going on here?
+
+39:26.660 --> 39:29.140
+ Well, what's going on is that
+
+39:29.140 --> 39:32.500
+ testosterone can be converted into estrogen
+
+39:32.500 --> 39:34.680
+ through a process called aromatization.
+
+39:34.680 --> 39:36.640
+ There's an enzyme called aromatase.
+
+39:36.640 --> 39:39.680
+ Anytime you have a word that ends in A-S-E,
+
+39:39.680 --> 39:41.400
+ at least if it's in the context of biology,
+
+39:41.400 --> 39:43.240
+ it's almost always, not always,
+
+39:43.240 --> 39:45.340
+ but almost always an enzyme.
+
+39:45.340 --> 39:49.360
+ So the aromatase enzyme converts testosterone into estrogen.
+
+39:50.480 --> 39:54.200
+ And it is actually testosterone aromatized,
+
+39:54.200 --> 39:56.160
+ converted into estrogen,
+
+39:56.160 --> 40:00.300
+ and then binding to these estrogen-containing neurons
+
+40:00.300 --> 40:04.460
+ in the ventromedial hypothalamus that triggers aggression.
+
+40:04.460 --> 40:05.300
+ I want to repeat that.
+
+40:05.300 --> 40:08.360
+ It is not testosterone itself that triggers aggression.
+
+40:08.360 --> 40:11.120
+ It is testosterone aromatized into estrogen
+
+40:11.120 --> 40:14.680
+ within the brain and binding to these estrogen receptor
+
+40:14.680 --> 40:17.160
+ containing neurons in the ventromedial hypothalamus
+
+40:17.160 --> 40:21.100
+ that evokes aggression and dramatic aggression at that.
+
+40:21.100 --> 40:24.680
+ Now, this effect of estrogen causing aggression in the brain
+
+40:24.680 --> 40:28.880
+ is very robust, so much so that if you take a mouse
+
+40:28.880 --> 40:30.720
+ that lacks the aromatase enzyme
+
+40:30.720 --> 40:33.120
+ or a human that lacks the aromatase enzyme,
+
+40:33.120 --> 40:34.400
+ and they do exist,
+
+40:35.800 --> 40:39.880
+ then there is a reduction in overall aggression
+
+40:39.880 --> 40:42.960
+ despite high levels of testosterone.
+
+40:42.960 --> 40:47.960
+ And if people who, or mice who have the aromatase enzyme
+
+40:48.200 --> 40:50.400
+ have that enzyme blocked,
+
+40:50.400 --> 40:51.640
+ well, then it doesn't matter
+
+40:51.640 --> 40:53.480
+ how much you increase testosterone
+
+40:53.480 --> 40:55.440
+ or any of its other derivatives.
+
+40:55.440 --> 40:58.660
+ You do not observe this aggression.
+
+40:58.660 --> 41:01.040
+ So this runs counter to everything that we know
+
+41:01.040 --> 41:03.280
+ and think about the role of testosterone.
+
+41:03.280 --> 41:06.360
+ Again, testosterone increases competitiveness.
+
+41:06.360 --> 41:09.800
+ It can increase the desire to work under challenge.
+
+41:09.800 --> 41:14.280
+ I've said it before, and I ran this or pressure tested this
+
+41:14.280 --> 41:16.880
+ against Robert Sapolsky, who's been working on testosterone
+
+41:16.880 --> 41:20.580
+ and its role in the brain and behavior for many decades now.
+
+41:20.580 --> 41:25.040
+ It is fair to say that testosterone has the net effect
+
+41:25.040 --> 41:26.680
+ of making effort feel good,
+
+41:26.680 --> 41:29.660
+ or at least increasing the threshold
+
+41:29.660 --> 41:32.840
+ at which effort feels bad or unsustainable.
+
+41:32.840 --> 41:36.480
+ And it does that by way of changing the activity
+
+41:36.480 --> 41:38.960
+ or the threshold for activation of brain structures
+
+41:38.960 --> 41:40.760
+ like the amygdala and other brain structures
+
+41:40.760 --> 41:42.800
+ associated with anxiety.
+
+41:42.800 --> 41:44.480
+ So the next time somebody says
+
+41:44.480 --> 41:46.120
+ testosterone makes people aggressive,
+
+41:46.120 --> 41:49.460
+ you can say, ah, no, actually it's estrogen
+
+41:49.460 --> 41:51.280
+ that makes people aggressive
+
+41:51.280 --> 41:53.860
+ and animals aggressive for that matter.
+
+41:53.860 --> 41:55.660
+ Now, of course, it is the case
+
+41:55.660 --> 42:00.240
+ that because males have relatively less estrogen
+
+42:00.240 --> 42:03.220
+ circulating in their brain and body than females, right?
+
+42:03.220 --> 42:05.120
+ Because they have testes, not ovaries,
+
+42:05.120 --> 42:09.440
+ that testosterone is required in the first place
+
+42:09.440 --> 42:11.320
+ in order to be converted into estrogen
+
+42:11.320 --> 42:13.620
+ to activate this aggressive circuit
+
+42:13.620 --> 42:16.160
+ involving these estrogen receptor containing neurons
+
+42:16.160 --> 42:17.880
+ in the ventromedial hypothalamus.
+
+42:17.880 --> 42:22.880
+ But nonetheless, it is estrogen that is the final step.
+
+42:23.080 --> 42:27.440
+ It is the hormone on which aggression hinges.
+
+42:27.440 --> 42:28.720
+ And I think for most people,
+
+42:28.720 --> 42:30.600
+ that's a quite surprising finding.
+
+42:30.600 --> 42:33.360
+ And yet this is perhaps one of the more robust findings
+
+42:33.360 --> 42:36.280
+ in both the animal and human literature
+
+42:36.280 --> 42:38.400
+ as it relates to hormones
+
+42:38.400 --> 42:40.560
+ and psychological states and behavior.
+
+42:40.560 --> 42:44.600
+ Now, of course, it is the case that if testosterone is low,
+
+42:44.600 --> 42:46.680
+ that a person or an animal
+
+42:46.680 --> 42:50.000
+ will exhibit less aggressive behavior,
+
+42:50.000 --> 42:52.400
+ but that's not because of reduced testosterone per se,
+
+42:52.400 --> 42:55.880
+ it's because of the subsequent reduction in testosterone,
+
+42:55.880 --> 42:57.400
+ meaning if there's no testosterone
+
+42:57.400 --> 43:00.400
+ to aromatize into estrogen, estrogen will also be lower.
+
+43:00.400 --> 43:03.360
+ So we've established that it's not testosterone,
+
+43:03.360 --> 43:05.920
+ but testosterone converted into estrogen
+
+43:05.920 --> 43:08.660
+ that activates these circuits for aggression.
+
+43:08.660 --> 43:12.080
+ But nonetheless, it's still surprising, right?
+
+43:12.080 --> 43:14.600
+ I mean, most of us don't think about estrogen
+
+43:14.600 --> 43:17.440
+ as the hormone that stimulates aggression,
+
+43:17.440 --> 43:19.280
+ but turns out it's all contextual.
+
+43:20.440 --> 43:21.760
+ There are beautiful data
+
+43:21.760 --> 43:26.120
+ showing that whether or not estrogen stimulates aggression
+
+43:26.120 --> 43:28.620
+ can be powerfully modulated
+
+43:28.620 --> 43:31.760
+ by whether or not days are short or days are long.
+
+43:31.760 --> 43:33.000
+ In other words, whether or not
+
+43:33.000 --> 43:35.280
+ there's a lot of sunshine or not.
+
+43:35.280 --> 43:39.800
+ Now, obviously brain is encased in skull,
+
+43:39.800 --> 43:41.320
+ so it doesn't really know
+
+43:41.320 --> 43:42.640
+ if there's a lot of sunshine out there,
+
+43:42.640 --> 43:44.160
+ even though you can see the sun with your eyes,
+
+43:44.160 --> 43:46.360
+ you can feel it on your skin.
+
+43:46.360 --> 43:49.880
+ Day length is converted into hormonal signals
+
+43:49.880 --> 43:50.800
+ and chemical signals,
+
+43:50.800 --> 43:53.000
+ and the primary hormonal and chemical signals
+
+43:53.000 --> 43:57.720
+ involve melatonin and dopamine and also the stress hormones.
+
+43:57.720 --> 43:59.700
+ So to make a very long story short,
+
+43:59.700 --> 44:01.860
+ in the long days where we get a lot of sunlight,
+
+44:01.860 --> 44:04.320
+ both in our eyes and on our skin,
+
+44:04.320 --> 44:06.000
+ melatonin levels are reduced.
+
+44:06.000 --> 44:06.920
+ Melatonin is a hormone
+
+44:06.920 --> 44:10.580
+ that tends to produce states of sleepiness and quiescence.
+
+44:10.580 --> 44:12.120
+ It also tends to activate pathways
+
+44:12.120 --> 44:14.680
+ that tend to reduce things like breeding
+
+44:14.680 --> 44:16.560
+ and sexual behavior.
+
+44:16.560 --> 44:19.080
+ In long days, dopamine is increased.
+
+44:19.080 --> 44:20.600
+ Dopamine is a molecule associated
+
+44:20.600 --> 44:23.860
+ with feelings of wellbeing and motivation,
+
+44:23.860 --> 44:27.320
+ and the desire to seek out all sorts of things,
+
+44:27.320 --> 44:29.200
+ all sorts of motivated behaviors.
+
+44:29.200 --> 44:31.020
+ And in long days,
+
+44:31.020 --> 44:33.760
+ provided we're getting enough sunlight on our skin
+
+44:33.760 --> 44:36.080
+ and to our eyes,
+
+44:36.080 --> 44:38.420
+ the stress hormones, especially cortisol
+
+44:38.420 --> 44:39.720
+ and some of the other stress hormones
+
+44:39.720 --> 44:40.920
+ are reduced in levels.
+
+44:42.420 --> 44:45.760
+ If estrogen levels are increased experimentally
+
+44:45.760 --> 44:48.120
+ under long day conditions,
+
+44:48.120 --> 44:49.960
+ it does not evoke aggression.
+
+44:49.960 --> 44:53.280
+ However, in short days, if estrogen is increased,
+
+44:53.280 --> 44:56.240
+ there's a heightened predisposition for aggression.
+
+44:56.240 --> 44:59.420
+ And that makes perfect sense
+
+44:59.420 --> 45:01.360
+ if you think about what short days do
+
+45:01.360 --> 45:03.520
+ to the biology of your brain and body.
+
+45:03.520 --> 45:06.320
+ In short days, the melatonin signal goes up.
+
+45:06.320 --> 45:07.740
+ There's more melatonin circulating
+
+45:07.740 --> 45:09.700
+ for more of each 24 hour cycle.
+
+45:10.780 --> 45:13.440
+ Stress hormones are circulating more.
+
+45:13.440 --> 45:14.280
+ Why?
+
+45:14.280 --> 45:16.240
+ Short days tend to be associated with winter.
+
+45:16.240 --> 45:19.480
+ In winter, we are bombarded with more bacteria and viruses
+
+45:19.480 --> 45:24.020
+ because bacteria and viruses actually survive better
+
+45:24.020 --> 45:25.600
+ in cold than they do in heat.
+
+45:25.600 --> 45:26.520
+ In fact, in my laboratory,
+
+45:26.520 --> 45:28.280
+ we work with a lot of viruses and bacteria
+
+45:28.280 --> 45:29.380
+ and when we want to keep them alive,
+
+45:29.380 --> 45:30.600
+ we put them in the freezer.
+
+45:30.600 --> 45:32.600
+ If we want to kill them, if we want to inoculate them,
+
+45:32.600 --> 45:34.120
+ we put them under UV light
+
+45:34.120 --> 45:35.720
+ like you would see from the sunlight.
+
+45:35.720 --> 45:38.680
+ So shorter days are conducive to aggression,
+
+45:38.680 --> 45:41.600
+ not because days are short per se,
+
+45:41.600 --> 45:43.800
+ but because stress hormone levels are higher
+
+45:43.800 --> 45:47.520
+ and because dopamine levels are lower.
+
+45:47.520 --> 45:48.900
+ Now here's where all of this starts to converge
+
+45:48.900 --> 45:51.320
+ on a very clear biological picture,
+
+45:51.320 --> 45:53.200
+ a very clear psychological picture,
+
+45:53.200 --> 45:55.800
+ and indeed a very clear set of tools
+
+45:55.800 --> 45:57.580
+ that we can think about and use.
+
+45:59.360 --> 46:01.380
+ Under conditions where cortisol is high,
+
+46:01.380 --> 46:04.360
+ where the stress hormone is elevated,
+
+46:04.360 --> 46:07.840
+ and under conditions where the neuromodulator serotonin
+
+46:07.840 --> 46:11.680
+ is reduced, there is a greater propensity
+
+46:11.680 --> 46:14.020
+ for estrogen to trigger aggression.
+
+46:14.880 --> 46:17.480
+ Now, again, I know I've said it before,
+
+46:17.480 --> 46:20.660
+ but for males who make a lot of testosterone
+
+46:20.660 --> 46:23.880
+ relative to estrogen, you have to swap in your mind
+
+46:23.880 --> 46:26.380
+ this idea that if testosterone is high,
+
+46:26.380 --> 46:27.800
+ that means that estrogen is low
+
+46:27.800 --> 46:31.360
+ because while that can be true in the periphery in the body,
+
+46:31.360 --> 46:33.240
+ if testosterone is high,
+
+46:33.240 --> 46:35.320
+ there is going to be some aromatization,
+
+46:35.320 --> 46:37.240
+ that conversion of testosterone to estrogen.
+
+46:37.240 --> 46:39.520
+ So anytime you hear that testosterone is high,
+
+46:39.520 --> 46:42.160
+ you should think testosterone is high in the body
+
+46:42.160 --> 46:43.760
+ and perhaps estrogen is low in the body,
+
+46:43.760 --> 46:45.640
+ but that means that there's going to be heightened levels
+
+46:45.640 --> 46:47.400
+ of estrogen in the brain
+
+46:47.400 --> 46:50.520
+ and therefore increased propensity for aggression.
+
+46:51.480 --> 46:54.520
+ In females who generally make less testosterone
+
+46:54.520 --> 46:55.960
+ relative to estrogen,
+
+46:57.520 --> 46:59.800
+ there is sufficient estrogen already present
+
+46:59.800 --> 47:01.660
+ to trigger aggression.
+
+47:01.660 --> 47:06.280
+ So both males and females are primed for aggression,
+
+47:06.280 --> 47:09.240
+ but that's riding on a context
+
+47:09.240 --> 47:12.040
+ and that context of whether or not you get a tendency
+
+47:12.040 --> 47:13.880
+ for aggression or not
+
+47:13.880 --> 47:16.320
+ depends on whether or not cortisol is high or low
+
+47:16.320 --> 47:19.760
+ and I'm telling you that if cortisol is relatively higher
+
+47:19.760 --> 47:22.820
+ in any individual, there's going to be a tilt,
+
+47:22.820 --> 47:25.240
+ an increase in that hydraulic pressure
+
+47:25.240 --> 47:28.440
+ that Lorenz talked about toward aggression.
+
+47:29.400 --> 47:33.520
+ And if serotonin, the neuromodulator
+
+47:33.520 --> 47:35.880
+ that is associated with feelings of wellbeing
+
+47:35.880 --> 47:38.160
+ and sometimes even of slight passivity,
+
+47:38.160 --> 47:41.480
+ but certainly of wellbeing, if serotonin is low,
+
+47:41.480 --> 47:43.620
+ there's also going to be a further shift
+
+47:43.620 --> 47:46.280
+ towards an aggressive tendency.
+
+47:46.280 --> 47:50.080
+ So if we return to Lorenz's hydraulic pressure model
+
+47:50.080 --> 47:52.840
+ of aggression and other internal states,
+
+47:52.840 --> 47:55.620
+ we realize that external stimuli,
+
+47:55.620 --> 47:57.900
+ things that we hear, things that we see,
+
+47:57.900 --> 47:59.860
+ for instance, someone saying something upsetting
+
+47:59.860 --> 48:03.000
+ or us seeing somebody do something
+
+48:03.000 --> 48:06.680
+ that we don't like to others or to us,
+
+48:06.680 --> 48:08.920
+ as well as our internal state,
+
+48:08.920 --> 48:11.040
+ our subjective feelings of wellbeing,
+
+48:11.040 --> 48:12.400
+ but also our stress level,
+
+48:12.400 --> 48:15.280
+ our feelings of whether or not we have enough resources
+
+48:15.280 --> 48:17.120
+ and are content with what we have,
+
+48:17.120 --> 48:18.840
+ all of that is converging on this thing
+
+48:18.840 --> 48:21.280
+ that we call internal state and creating this pressure
+
+48:21.280 --> 48:23.660
+ of either to be more aggressive or less aggressive.
+
+48:23.660 --> 48:26.020
+ And now we have some major players
+
+48:26.020 --> 48:29.100
+ feeding into that final pathway,
+
+48:29.100 --> 48:30.360
+ that question of whether or not
+
+48:30.360 --> 48:31.680
+ will we hit the other person?
+
+48:31.680 --> 48:35.160
+ Will we say the thing that is considered aggressive?
+
+48:35.160 --> 48:36.640
+ Will we not say it?
+
+48:36.640 --> 48:39.620
+ If somebody says something or does something aggressive
+
+48:39.620 --> 48:41.880
+ to us, will we respond or will we be submissive
+
+48:41.880 --> 48:43.520
+ or even passive?
+
+48:43.520 --> 48:46.640
+ Again, there are many things funneling into that question
+
+48:46.640 --> 48:48.160
+ and dictating whether or not the answer is,
+
+48:48.160 --> 48:49.540
+ absolutely, I'll fight back,
+
+48:49.540 --> 48:51.920
+ or I'm going to attack them even unprovoked,
+
+48:51.920 --> 48:54.020
+ or if they say this, I'm going to do that,
+
+48:54.020 --> 48:57.120
+ or no matter what they do, I'm not going to respond.
+
+48:57.120 --> 48:59.040
+ These kinds of things are very complex
+
+48:59.040 --> 49:00.980
+ and yet we really can boil them down
+
+49:00.980 --> 49:02.560
+ to just a few common elements.
+
+49:02.560 --> 49:04.080
+ And I'm telling you that those elements
+
+49:04.080 --> 49:08.240
+ are whether or not cortisol levels are relatively lower
+
+49:08.240 --> 49:09.420
+ or relatively higher.
+
+49:09.420 --> 49:11.280
+ Again, relatively higher is going to tend
+
+49:11.280 --> 49:13.680
+ to make people more reactive, why?
+
+49:13.680 --> 49:17.080
+ Because reactivity is really a function
+
+49:17.080 --> 49:18.940
+ of the autonomic nervous system,
+
+49:18.940 --> 49:21.040
+ which is sort of like a seesaw that oscillates
+
+49:21.040 --> 49:24.080
+ between the so-called sympathetic arm
+
+49:24.080 --> 49:25.160
+ of the autonomic nervous system,
+
+49:25.160 --> 49:27.160
+ which tends to put us into a state of readiness
+
+49:27.160 --> 49:28.680
+ through the release of adrenaline.
+
+49:28.680 --> 49:29.940
+ Cortisol and adrenaline,
+
+49:29.940 --> 49:31.560
+ when they're circulating in the brain and body,
+
+49:31.560 --> 49:34.760
+ make us more likely to move and to react and to speak.
+
+49:34.760 --> 49:37.280
+ It's actually what will induce a kind of low-level tremor,
+
+49:37.280 --> 49:38.840
+ which is an anticipatory tremor
+
+49:38.840 --> 49:40.840
+ to be able to move more quickly, right?
+
+49:40.840 --> 49:44.020
+ A body in motion is more easily set into further motion,
+
+49:44.020 --> 49:44.860
+ that is.
+
+49:45.900 --> 49:50.040
+ And the neuromodulator serotonin is a neuromodulator
+
+49:50.040 --> 49:54.880
+ that in general is associated with feelings of wellbeing
+
+49:54.880 --> 49:56.400
+ in response to what we already have.
+
+49:56.400 --> 49:58.280
+ So when we are well-fed,
+
+49:58.280 --> 50:00.480
+ serotonin tends to be released in our brain and body,
+
+50:00.480 --> 50:02.560
+ in particular, well-fed with carbohydrates.
+
+50:02.560 --> 50:06.360
+ The precursor to serotonin is tryptophan.
+
+50:06.360 --> 50:09.240
+ And indeed, there are nice studies exploring
+
+50:09.240 --> 50:12.400
+ the types of diets, nutritional programs,
+
+50:12.400 --> 50:15.280
+ that can reduce aggressive behavior,
+
+50:15.280 --> 50:16.960
+ both in children and in adults.
+
+50:16.960 --> 50:20.760
+ And tryptophan-rich diets or supplementation with tryptophan.
+
+50:20.760 --> 50:24.240
+ So for tryptophan-rich diets, things like white turkey meat,
+
+50:24.240 --> 50:25.880
+ but then there are also a number of carbohydrates.
+
+50:25.880 --> 50:28.360
+ You can look up, it's very easy to find,
+
+50:28.360 --> 50:30.400
+ foods that contain lots of tryptophan.
+
+50:30.400 --> 50:34.960
+ Those foods contain the precursor to serotonin.
+
+50:34.960 --> 50:37.140
+ Now, it isn't simply the case that eating more foods
+
+50:37.140 --> 50:39.960
+ with tryptophan will tend to reduce your aggression.
+
+50:39.960 --> 50:42.760
+ I suppose it could do that if you ate it in abundance,
+
+50:42.760 --> 50:43.800
+ it could make you tired,
+
+50:43.800 --> 50:45.680
+ and then you're less likely to be aggressive.
+
+50:45.680 --> 50:47.720
+ I don't recommend that strategy.
+
+50:47.720 --> 50:51.680
+ But the idea here is that when it's been explored,
+
+50:51.680 --> 50:53.520
+ increasing levels of tryptophan,
+
+50:53.520 --> 50:55.520
+ either by supplementation or by food,
+
+50:55.520 --> 50:59.100
+ or drugs, prescription drugs that increase serotonin,
+
+50:59.100 --> 51:01.560
+ so for instance, fluoxetine, sometimes called Prozac
+
+51:01.560 --> 51:03.880
+ or Zoloft or any number of the other SSRIs,
+
+51:03.880 --> 51:05.760
+ tend to reduce aggressive behavior.
+
+51:05.760 --> 51:08.900
+ Now, not always, but in general, that's the case.
+
+51:08.900 --> 51:11.240
+ Similarly, because elevated cortisol
+
+51:11.240 --> 51:13.120
+ tends to shift the whole system,
+
+51:13.120 --> 51:15.080
+ again, create more of a hydraulic pressure
+
+51:15.080 --> 51:16.560
+ towards aggressive states.
+
+51:16.560 --> 51:18.700
+ If cortisol levels are reduced,
+
+51:18.700 --> 51:21.800
+ well, then the tendency for aggressive behavior is reduced.
+
+51:21.800 --> 51:24.080
+ This is supported by a number of peer-reviewed studies.
+
+51:24.080 --> 51:25.360
+ We'll provide links to some of those
+
+51:25.360 --> 51:26.680
+ in the caption show notes.
+
+51:26.680 --> 51:28.880
+ And we're going to return to these a bit later
+
+51:28.880 --> 51:30.680
+ in the context of specific studies
+
+51:30.680 --> 51:34.000
+ that have looked at genetic variants
+
+51:34.000 --> 51:36.040
+ in different individuals that cause them
+
+51:36.040 --> 51:38.120
+ to make more or less serotonin,
+
+51:38.120 --> 51:40.620
+ or at least to metabolize serotonin differently.
+
+51:40.620 --> 51:42.720
+ This is also the case for so-called
+
+51:42.720 --> 51:44.960
+ intermittent explosive disorder
+
+51:44.960 --> 51:49.080
+ that can often be associated with gene variants
+
+51:49.080 --> 51:52.360
+ that control how much serotonin is made
+
+51:52.360 --> 51:54.560
+ or how it's metabolized or how much cortisol is made
+
+51:54.560 --> 51:56.440
+ and how much it's metabolized.
+
+51:56.440 --> 51:57.460
+ In thinking about tools,
+
+51:57.460 --> 51:59.160
+ there are a number of things that one could consider.
+
+51:59.160 --> 52:03.000
+ First of all, there are a number of decent studies
+
+52:03.000 --> 52:06.600
+ exploring how supplementation with the omega-3 fatty acids,
+
+52:06.600 --> 52:11.600
+ which are precursors of some of the transmitter systems,
+
+52:11.640 --> 52:14.520
+ including serotonin, that can modulate,
+
+52:14.520 --> 52:18.840
+ not directly mediate, but modulate mood and emotional tone.
+
+52:18.840 --> 52:20.320
+ Supplementation with the omega-3s
+
+52:20.320 --> 52:23.260
+ has been shown to reduce impulsivity and aggressiveness
+
+52:23.260 --> 52:26.520
+ in certain contexts, in things like ADHD
+
+52:26.520 --> 52:29.160
+ or in individuals who have a predisposition
+
+52:29.160 --> 52:32.380
+ for aggressive type behavior or aggressive thinking.
+
+52:32.380 --> 52:34.240
+ Now, that doesn't necessarily mean
+
+52:34.240 --> 52:37.160
+ that the omega-3 fatty acids are going directly
+
+52:37.160 --> 52:38.560
+ to the ventromedial hypothalamus
+
+52:38.560 --> 52:40.480
+ and changing the activity of neurons there.
+
+52:40.480 --> 52:43.320
+ More likely, they are causing or modulating
+
+52:43.320 --> 52:47.600
+ an overall shift in mood through the immune system,
+
+52:47.600 --> 52:51.880
+ through hormone systems that are changing the overall tone
+
+52:51.880 --> 52:53.600
+ or the propensity for neurons
+
+52:53.600 --> 52:56.880
+ in the ventromedial hypothalamus to be activated.
+
+52:56.880 --> 52:59.040
+ How much omega-3 fatty acid, what source?
+
+52:59.040 --> 53:01.440
+ Well, we've talked about this on the podcast before.
+
+53:01.440 --> 53:03.300
+ You can, of course, get omega-3 fatty acids
+
+53:03.300 --> 53:04.440
+ from a number of different foods.
+
+53:04.440 --> 53:05.720
+ Getting them from whole foods
+
+53:05.720 --> 53:07.480
+ is probably the best way to do it.
+
+53:07.480 --> 53:10.060
+ But many people, including people with depression,
+
+53:10.060 --> 53:12.600
+ will often supplement with one gram or more
+
+53:12.600 --> 53:14.520
+ of omega-3 fatty acids per day.
+
+53:14.520 --> 53:17.960
+ Some people, including myself, will take them every day
+
+53:17.960 --> 53:20.060
+ as just a general mood enhancer.
+
+53:20.060 --> 53:21.240
+ I don't suffer from depression,
+
+53:21.240 --> 53:24.400
+ but I've found it to be beneficial for my health.
+
+53:24.400 --> 53:25.760
+ And so some people will do that.
+
+53:25.760 --> 53:26.740
+ And I've talked about before
+
+53:26.740 --> 53:28.860
+ how in double-blind placebo-controlled studies,
+
+53:28.860 --> 53:31.760
+ people taking one to three grams of omega-3 fatty acids
+
+53:31.760 --> 53:34.000
+ per day, typically in the form of a high-quality fish oil,
+
+53:34.000 --> 53:35.800
+ although there are other sources as well,
+
+53:35.800 --> 53:36.840
+ algae and so forth,
+
+53:38.120 --> 53:40.460
+ can experience improvements in mood
+
+53:40.460 --> 53:43.000
+ that are on par with some of the SSRIs,
+
+53:43.000 --> 53:44.920
+ the selective serotonin reuptake inhibitors.
+
+53:44.920 --> 53:46.740
+ And of course, if you are prescribed an SSRI
+
+53:46.740 --> 53:48.240
+ by your psychiatrist or other doctor,
+
+53:48.240 --> 53:50.620
+ please do take that and don't cease to take it,
+
+53:50.620 --> 53:52.320
+ just simply to take omega-3s.
+
+53:52.320 --> 53:54.860
+ However, you might mention to them,
+
+53:54.860 --> 53:56.400
+ and you can find links to the studies
+
+53:56.400 --> 53:58.400
+ in our previous episodes on depression,
+
+53:58.400 --> 54:02.080
+ that supplementation with omega-3 fatty acids
+
+54:02.080 --> 54:05.080
+ at this one gram or more of EPA specifically,
+
+54:05.080 --> 54:06.820
+ so getting above that one gram threshold
+
+54:06.820 --> 54:10.920
+ as high as three grams per day of the EPA
+
+54:10.920 --> 54:14.520
+ has allowed people to take lower doses of SSRIs
+
+54:14.520 --> 54:16.480
+ and still keep their mood in a place
+
+54:16.480 --> 54:18.160
+ that's beneficial for them.
+
+54:18.160 --> 54:20.600
+ And in terms of keeping cortisol in a range
+
+54:20.600 --> 54:22.560
+ that's healthy and doesn't bias someone
+
+54:22.560 --> 54:25.940
+ toward high levels of aggression and irritability,
+
+54:25.940 --> 54:28.780
+ that's again going to be set
+
+54:28.780 --> 54:32.140
+ by a number of larger modulators or contextual cues.
+
+54:32.140 --> 54:33.780
+ And I've talked about some of those on the podcast,
+
+54:33.780 --> 54:35.940
+ but I'll just briefly recap them now.
+
+54:35.940 --> 54:39.000
+ Obviously getting sunlight in your eyes early in the day
+
+54:39.000 --> 54:42.080
+ and as much sunlight as you safely can in your eyes
+
+54:42.080 --> 54:44.100
+ throughout the day is going to be important.
+
+54:44.100 --> 54:48.460
+ Again, because of this effect of estrogen in long days,
+
+54:48.460 --> 54:50.540
+ not increasing aggression.
+
+54:50.540 --> 54:53.500
+ However, in shorter days, estrogen increases aggression
+
+54:53.500 --> 54:57.780
+ because of the increase in cortisol observed in short days.
+
+54:57.780 --> 55:00.660
+ Another way to reduce cortisol was discussed
+
+55:00.660 --> 55:03.780
+ in our episode on heat and the use of sauna and heat,
+
+55:03.780 --> 55:04.820
+ but also hot baths.
+
+55:04.820 --> 55:07.380
+ It turns out that hot baths and sauna
+
+55:07.380 --> 55:09.580
+ can be very beneficial for reducing cortisol.
+
+55:09.580 --> 55:10.980
+ All the details on that are included
+
+55:10.980 --> 55:12.620
+ in the episode on heat and its timestamp,
+
+55:12.620 --> 55:14.100
+ so you can go directly to that
+
+55:14.100 --> 55:15.540
+ if you want to learn about the temperatures
+
+55:15.540 --> 55:16.660
+ and the various durations,
+
+55:16.660 --> 55:20.340
+ but to just give a synopsis of that,
+
+55:20.340 --> 55:25.340
+ a 20 minute sauna at anywhere from 80 to 100 degrees Celsius
+
+55:26.900 --> 55:29.900
+ is going to be beneficial for reducing cortisol.
+
+55:29.900 --> 55:31.300
+ If you don't have access to a sauna,
+
+55:31.300 --> 55:33.100
+ you could do a hot bath,
+
+55:33.100 --> 55:34.820
+ adjust the temperature so you don't burn yourself.
+
+55:34.820 --> 55:37.460
+ I think 80 to 100 degrees Celsius is going to be too hot
+
+55:37.460 --> 55:39.140
+ for many people if it's a hot bath,
+
+55:39.140 --> 55:42.180
+ whereas many people who can't tolerate that hot bath
+
+55:42.180 --> 55:43.180
+ can tolerate the sauna.
+
+55:43.180 --> 55:46.020
+ So safety first, always, and of course,
+
+55:46.020 --> 55:49.420
+ but hot baths reduce cortisol.
+
+55:49.420 --> 55:52.260
+ Hot saunas reduce cortisol of a duration
+
+55:52.260 --> 55:54.420
+ about 20 or 30 minutes is going to be beneficial.
+
+55:54.420 --> 55:56.060
+ And of course, some of you may be interested
+
+55:56.060 --> 55:57.500
+ in exploring the supplementation route
+
+55:57.500 --> 55:59.700
+ and for reductions in cortisol,
+
+55:59.700 --> 56:03.180
+ really the chief player there is ashwagandha,
+
+56:03.180 --> 56:06.820
+ which is known to decrease cortisol fairly potently.
+
+56:06.820 --> 56:08.540
+ I should just warn you that if you're going to use
+
+56:08.540 --> 56:11.300
+ ashwagandha in order to reduce cortisol,
+
+56:11.300 --> 56:13.820
+ first of all, check with your doctor or healthcare provider
+
+56:13.820 --> 56:15.540
+ before adding or subtracting anything
+
+56:15.540 --> 56:17.380
+ from your supplementation or health regimen.
+
+56:17.380 --> 56:18.980
+ Of course, I don't just say that to protect us.
+
+56:18.980 --> 56:20.140
+ I say that to protect you.
+
+56:20.140 --> 56:22.100
+ You are responsible for your health,
+
+56:22.100 --> 56:24.020
+ what you take and what you don't take.
+
+56:25.280 --> 56:27.100
+ Chronic supplementation with ashwagandha
+
+56:27.100 --> 56:30.300
+ can have some not so great effects of disruption
+
+56:30.300 --> 56:33.060
+ of other hormone pathways and neurotransmitter pathways.
+
+56:33.060 --> 56:36.540
+ So the limit seems to be about two weeks of regular use
+
+56:36.540 --> 56:39.300
+ before you'd want to take a break of about two weeks.
+
+56:39.300 --> 56:42.940
+ So ashwagandha, again, a very potent inhibitor of cortisol,
+
+56:42.940 --> 56:45.340
+ but with some other effects as well,
+
+56:45.340 --> 56:47.380
+ don't use it chronically for longer than two weeks.
+
+56:47.380 --> 56:49.460
+ But if your goal is to reduce cortisol,
+
+56:49.460 --> 56:50.580
+ let's say you're going through a period
+
+56:50.580 --> 56:53.700
+ of increased irritability and aggressive tendency,
+
+56:53.700 --> 56:55.420
+ maybe you're also not getting as much light
+
+56:55.420 --> 56:57.340
+ as you would like, and perhaps also
+
+56:57.340 --> 57:00.020
+ if there are other circumstantial things
+
+57:00.020 --> 57:01.400
+ leading you towards more aggressiveness
+
+57:01.400 --> 57:03.340
+ and your goal is to reduce aggressiveness,
+
+57:03.340 --> 57:05.180
+ that can be potentially helpful.
+
+57:05.180 --> 57:07.900
+ And in light of all this stuff about cortisol
+
+57:07.900 --> 57:10.900
+ and estrogen and day length,
+
+57:10.900 --> 57:13.700
+ I should mention that there are in fact some people
+
+57:13.700 --> 57:16.220
+ who have a genetic predisposition
+
+57:16.220 --> 57:19.860
+ to be more irritable and aggressive.
+
+57:19.860 --> 57:21.900
+ There are a couple of different gene pathways
+
+57:21.900 --> 57:23.100
+ associated with this.
+
+57:23.100 --> 57:25.340
+ We never like to think about just one gene
+
+57:25.340 --> 57:27.540
+ causing a specific behavior.
+
+57:27.540 --> 57:30.620
+ The way to think about genes is that genes generally code
+
+57:30.620 --> 57:33.620
+ for things within our biology,
+
+57:33.620 --> 57:35.060
+ in the context of today's discussion,
+
+57:35.060 --> 57:36.860
+ things like neural circuits
+
+57:36.860 --> 57:39.260
+ or the amounts of neurotransmitters that are made
+
+57:39.260 --> 57:40.740
+ or the amounts of hormones that are made
+
+57:40.740 --> 57:43.320
+ or the amount of neurotransmitter hormone receptors
+
+57:43.320 --> 57:45.280
+ or enzymes, et cetera,
+
+57:45.280 --> 57:48.540
+ that shift the activity of our biology
+
+57:48.540 --> 57:51.620
+ in a particular direction, they bias our biology.
+
+57:51.620 --> 57:55.320
+ And in fact, there is a genetic variant
+
+57:55.320 --> 57:58.140
+ present in certain people
+
+57:58.140 --> 58:01.300
+ that adjusts their estrogen receptor sensitivity
+
+58:02.180 --> 58:05.100
+ and that estrogen receptor sensitivity
+
+58:05.100 --> 58:08.340
+ can result in increased levels of aggression,
+
+58:08.340 --> 58:10.300
+ sometimes dramatic increases.
+
+58:10.300 --> 58:13.180
+ However, and also very interestingly,
+
+58:13.180 --> 58:15.860
+ photoperiod, meaning day length,
+
+58:15.860 --> 58:18.820
+ is a strong modulator of whether or not
+
+58:18.820 --> 58:20.920
+ that aggressiveness turns up or not.
+
+58:20.920 --> 58:25.080
+ Whether or not that person with the particular gene variant
+
+58:25.080 --> 58:28.700
+ is more aggressive or not depends on how long the day is
+
+58:28.700 --> 58:30.300
+ and how long the night is.
+
+58:30.300 --> 58:33.060
+ One particular study that I like that references this
+
+58:33.060 --> 58:35.680
+ is Trainor et al, the title of the study is
+
+58:35.680 --> 58:38.180
+ photoperiod reverses the effects of estrogens
+
+58:38.180 --> 58:41.660
+ on male aggression via genomic and non-genomic pathways.
+
+58:41.660 --> 58:43.500
+ This was a paper published in the Proceedings
+
+58:43.500 --> 58:45.340
+ of the National Academy of Sciences.
+
+58:45.340 --> 58:47.520
+ We'll put a reference to this in the show notes
+
+58:47.520 --> 58:49.220
+ if you'd like to explore it further.
+
+58:49.220 --> 58:51.860
+ But it really points to the fact that rarely,
+
+58:52.720 --> 58:55.300
+ sometimes, but rarely is it the case
+
+58:55.300 --> 58:57.860
+ that just one gene will cause somebody
+
+58:57.860 --> 58:59.200
+ to be hyper aggressive.
+
+59:00.300 --> 59:02.260
+ Almost always, there's going to be an interplay
+
+59:02.260 --> 59:04.080
+ between genetics and environment
+
+59:04.080 --> 59:07.080
+ and as environment changes, such as day length changes
+
+59:07.080 --> 59:08.520
+ and the length of night changes,
+
+59:08.520 --> 59:11.660
+ so too will the tendency for people with a given
+
+59:11.660 --> 59:14.620
+ genetic variant to be more aggressive or not.
+
+59:14.620 --> 59:17.340
+ Now, of course, in the absence of detailed genetic testing
+
+59:17.340 --> 59:19.460
+ for this particular estrogen receptor variant,
+
+59:19.460 --> 59:21.140
+ most people, I'm guessing you,
+
+59:21.140 --> 59:22.540
+ are probably not walking around knowing
+
+59:22.540 --> 59:24.900
+ that you have this gene or not.
+
+59:26.100 --> 59:28.820
+ Regardless, I think it's important to pay attention
+
+59:28.820 --> 59:31.140
+ to how you feel at different times of year,
+
+59:31.140 --> 59:33.040
+ depending on whether or not it's summer,
+
+59:33.040 --> 59:33.880
+ whether or not it's winter,
+
+59:33.880 --> 59:36.200
+ whether or not you're getting sufficient sunlight,
+
+59:36.200 --> 59:38.140
+ meaning viewing sufficient sunlight or not,
+
+59:38.140 --> 59:40.180
+ whether or not you're getting sufficient sunlight exposure
+
+59:40.180 --> 59:41.320
+ to your skin or not,
+
+59:41.320 --> 59:42.940
+ whether or not you're indoors all the time.
+
+59:42.940 --> 59:46.320
+ Generally, those things correlate with season,
+
+59:46.320 --> 59:47.580
+ but not always.
+
+59:47.580 --> 59:50.280
+ You can go through long bouts of hard work
+
+59:50.280 --> 59:51.940
+ in the summer months when days are long,
+
+59:51.940 --> 59:53.640
+ but you're indoors a lot and getting a lot
+
+59:53.640 --> 59:55.460
+ of fluorescent light exposure late in the evening,
+
+59:55.460 --> 59:57.700
+ and perhaps that's when you're feeling more aggressive.
+
+59:57.700 --> 59:58.940
+ So we have to be careful about drawing
+
+59:58.940 --> 1:00:02.500
+ a one-to-one relationship between any biological feature
+
+1:00:02.500 --> 1:00:04.940
+ and certainly psychological or behavioral feature
+
+1:00:04.940 --> 1:00:07.420
+ like aggressiveness, but it's, I believe,
+
+1:00:07.420 --> 1:00:11.020
+ helpful to know that these genetic biases exist,
+
+1:00:11.020 --> 1:00:11.980
+ how they play out.
+
+1:00:11.980 --> 1:00:13.380
+ Again, they shift our biology
+
+1:00:13.380 --> 1:00:16.660
+ in a general thematic direction.
+
+1:00:16.660 --> 1:00:17.740
+ They don't change one thing.
+
+1:00:17.740 --> 1:00:20.020
+ They change a variety of things that bias us toward
+
+1:00:20.020 --> 1:00:23.100
+ or away from certain psychological and behavioral outcomes
+
+1:00:23.100 --> 1:00:25.700
+ and the various things that we can do
+
+1:00:25.700 --> 1:00:27.300
+ in order to offset them.
+
+1:00:27.300 --> 1:00:28.900
+ We described those earlier in terms of trying
+
+1:00:28.900 --> 1:00:31.100
+ to keep cortisol low by getting sufficient sunlight
+
+1:00:31.100 --> 1:00:34.180
+ regardless of time of year and regardless of whether
+
+1:00:34.180 --> 1:00:36.680
+ or not you happen to have this particular genetic variant.
+
+1:00:36.680 --> 1:00:39.740
+ So earlier I talked about how it is testosterone converted
+
+1:00:39.740 --> 1:00:42.180
+ into estrogen that's activating aggression
+
+1:00:42.180 --> 1:00:45.520
+ in the ventromedial hypothalamus, not testosterone itself.
+
+1:00:45.520 --> 1:00:48.520
+ However, there are some studies carried out in humans
+
+1:00:48.520 --> 1:00:51.340
+ that have evaluated the effects of testosterone
+
+1:00:51.340 --> 1:00:53.660
+ and how levels of testosterone correlate
+
+1:00:53.660 --> 1:00:56.180
+ with aggressiveness in the short term.
+
+1:00:56.180 --> 1:00:57.960
+ I'm just going to detail a few of those studies
+
+1:00:57.960 --> 1:01:00.980
+ because I think they are interesting and important.
+
+1:01:02.460 --> 1:01:05.660
+ First of all, there is a study that has explored levels
+
+1:01:05.660 --> 1:01:09.020
+ of testosterone in men of different professions.
+
+1:01:09.020 --> 1:01:10.460
+ Now, before I tell you the data,
+
+1:01:10.460 --> 1:01:12.160
+ I want to be very clear here.
+
+1:01:13.500 --> 1:01:15.940
+ With a study such as this, one never knows whether
+
+1:01:15.940 --> 1:01:19.180
+ or not these men went into a particular profession
+
+1:01:19.180 --> 1:01:23.980
+ because they had a testosterone level of a given value
+
+1:01:23.980 --> 1:01:27.420
+ or whether or not the work itself altered
+
+1:01:27.420 --> 1:01:30.300
+ their testosterone levels or both.
+
+1:01:30.300 --> 1:01:34.320
+ And I think it's fair to assume that it's probably both.
+
+1:01:34.320 --> 1:01:36.020
+ So be very careful in assuming
+
+1:01:36.020 --> 1:01:39.980
+ that a given testosterone level is causal
+
+1:01:39.980 --> 1:01:41.380
+ for choosing a particular career
+
+1:01:41.380 --> 1:01:43.420
+ or that a particular career is causal
+
+1:01:43.420 --> 1:01:46.260
+ for creating a particular testosterone level.
+
+1:01:46.260 --> 1:01:49.460
+ This study used salivary testosterone levels
+
+1:01:49.460 --> 1:01:52.100
+ as the measure, which to be fair,
+
+1:01:52.100 --> 1:01:55.260
+ is not the best way to measure testosterone.
+
+1:01:55.260 --> 1:01:57.180
+ Typically blood draw would be the best way
+
+1:01:57.180 --> 1:01:59.460
+ to measure testosterone, but nonetheless,
+
+1:01:59.460 --> 1:02:01.760
+ provided the appropriate methods are used,
+
+1:02:01.760 --> 1:02:04.060
+ salivary testosterone can be a reasonable measure
+
+1:02:04.060 --> 1:02:05.820
+ of testosterone.
+
+1:02:05.820 --> 1:02:09.700
+ The different occupations that were looked at were,
+
+1:02:09.700 --> 1:02:12.440
+ and here they just looked at men in this particular study,
+
+1:02:12.440 --> 1:02:14.540
+ were ministers, salesmen,
+
+1:02:14.540 --> 1:02:16.300
+ they didn't say what particular types of salesmen,
+
+1:02:16.300 --> 1:02:19.420
+ firemen, professors of all things,
+
+1:02:19.420 --> 1:02:21.740
+ physicians and NFL players.
+
+1:02:21.740 --> 1:02:26.300
+ And what they discovered was that the testosterone levels
+
+1:02:26.300 --> 1:02:29.380
+ were essentially in that order from low to highest.
+
+1:02:29.380 --> 1:02:31.700
+ So minister, salesman, fireman, professor,
+
+1:02:31.700 --> 1:02:34.000
+ physician, NFL player.
+
+1:02:34.000 --> 1:02:38.500
+ Now we could micro dissect all the different stereotypes
+
+1:02:38.500 --> 1:02:41.300
+ and all the different features of each of these jobs.
+
+1:02:41.300 --> 1:02:44.280
+ For instance, we don't know whether or not the fact
+
+1:02:44.280 --> 1:02:47.140
+ that the fireman happened, at least in this study,
+
+1:02:47.140 --> 1:02:49.660
+ to have lower testosterone levels on average
+
+1:02:49.660 --> 1:02:51.600
+ than the professors or the physicians
+
+1:02:51.600 --> 1:02:54.020
+ was because firemen have lower testosterone levels
+
+1:02:54.020 --> 1:02:55.960
+ or because they have a much more stressful job
+
+1:02:55.960 --> 1:02:58.260
+ and their cortisol levels are higher
+
+1:02:58.260 --> 1:03:01.120
+ than the professor or the physician
+
+1:03:01.120 --> 1:03:03.480
+ and cortisol and testosterone, not always,
+
+1:03:03.480 --> 1:03:07.680
+ but generally are in somewhat antagonistic push-pull mode
+
+1:03:07.680 --> 1:03:09.740
+ because they derive from the same precursor, et cetera.
+
+1:03:09.740 --> 1:03:12.180
+ Typically when cortisol is high,
+
+1:03:12.180 --> 1:03:14.460
+ testosterone tends to be lower and vice versa.
+
+1:03:14.460 --> 1:03:17.180
+ So we don't know what's causing these effects.
+
+1:03:17.180 --> 1:03:21.200
+ And again, this is just one study and just six occupations,
+
+1:03:21.200 --> 1:03:22.600
+ but I think it's relatively interesting
+
+1:03:22.600 --> 1:03:24.200
+ given the fact that each of these professions
+
+1:03:24.200 --> 1:03:27.380
+ involves different levels of competitiveness, right?
+
+1:03:27.380 --> 1:03:29.620
+ So we don't necessarily just want to think about the level
+
+1:03:29.620 --> 1:03:32.500
+ of physical exertion that's required,
+
+1:03:32.500 --> 1:03:34.280
+ but also the level of competitiveness
+
+1:03:34.280 --> 1:03:36.740
+ because it's known that competitive interactions
+
+1:03:36.740 --> 1:03:39.160
+ can cause increases in testosterone,
+
+1:03:40.220 --> 1:03:42.900
+ in particular in the winners of competitive interactions,
+
+1:03:42.900 --> 1:03:45.260
+ a topic for a future podcast.
+
+1:03:45.260 --> 1:03:48.380
+ Meanwhile, studies that have analyzed
+
+1:03:48.380 --> 1:03:53.100
+ also again salivary testosterone in prisoners,
+
+1:03:53.100 --> 1:03:55.340
+ in this case, female prisoners,
+
+1:03:55.340 --> 1:03:57.400
+ so these are incarcerated individuals,
+
+1:03:57.400 --> 1:03:59.740
+ have looked at levels of testosterone
+
+1:03:59.740 --> 1:04:02.620
+ according to whether or not the person committed
+
+1:04:02.620 --> 1:04:04.720
+ a nonviolent or a violent crime
+
+1:04:04.720 --> 1:04:06.300
+ in order to arrive in prison,
+
+1:04:06.300 --> 1:04:08.940
+ and higher levels of salivary testosterone
+
+1:04:08.940 --> 1:04:13.780
+ were related to those that had arrived in prison
+
+1:04:13.780 --> 1:04:16.740
+ because of conviction of a violent crime
+
+1:04:16.740 --> 1:04:18.580
+ as opposed to a nonviolent crime.
+
+1:04:18.580 --> 1:04:21.780
+ Likewise, when they analyze prison rule violations,
+
+1:04:21.780 --> 1:04:24.260
+ so an indirect measure of aggressiveness,
+
+1:04:24.260 --> 1:04:26.660
+ but in this case, it was strongly associated
+
+1:04:26.660 --> 1:04:27.700
+ with aggressiveness because they knew
+
+1:04:27.700 --> 1:04:29.260
+ what the violations were,
+
+1:04:29.260 --> 1:04:32.060
+ they found were for prisoners that had none,
+
+1:04:32.060 --> 1:04:35.460
+ no prison violations, prison rule violations,
+
+1:04:35.460 --> 1:04:39.520
+ I should say their testosterone levels tended to be lower
+
+1:04:39.520 --> 1:04:42.860
+ than the testosterone levels of women that had some,
+
+1:04:42.860 --> 1:04:47.860
+ even one or more aggressive violations of prison rules.
+
+1:04:48.020 --> 1:04:51.440
+ We'll provide links to these studies in the show notes
+
+1:04:51.440 --> 1:04:53.480
+ if you'd like to go into them further.
+
+1:04:53.480 --> 1:04:55.340
+ Obviously studies like this need to be taken
+
+1:04:55.340 --> 1:04:57.700
+ with a grain of salt because there are so many
+
+1:04:57.700 --> 1:05:00.940
+ different factors, different prisons have different degrees
+
+1:05:00.940 --> 1:05:05.460
+ of violence to begin with and competitiveness to begin with.
+
+1:05:05.460 --> 1:05:07.980
+ But just as a final pass at examining the role
+
+1:05:07.980 --> 1:05:10.380
+ between testosterone and aggressiveness,
+
+1:05:10.380 --> 1:05:13.580
+ there was a very interesting study from Gotz et al.
+
+1:05:13.580 --> 1:05:18.580
+ G-O-E-T-Z published in 2014 that looked at serum,
+
+1:05:19.620 --> 1:05:22.380
+ so in this case, blood levels of testosterone,
+
+1:05:22.380 --> 1:05:26.620
+ 30 minutes after application of a gel-based testosterone
+
+1:05:26.620 --> 1:05:28.780
+ that goes transdermal so that the testosterone
+
+1:05:28.780 --> 1:05:30.500
+ can go very quickly into the bloodstream
+
+1:05:30.500 --> 1:05:34.820
+ and then did brain imaging to evaluate the activity
+
+1:05:34.820 --> 1:05:38.860
+ of neurons in the so-called corticomedial amygdala.
+
+1:05:38.860 --> 1:05:41.540
+ The medial amygdala is one of the areas
+
+1:05:41.540 --> 1:05:44.460
+ of the amygdala complex as we call it because it's complex,
+
+1:05:44.460 --> 1:05:46.220
+ it's got a lot of different nuclei,
+
+1:05:46.220 --> 1:05:48.260
+ you now know what nuclei are, little clusters of neurons,
+
+1:05:48.260 --> 1:05:49.240
+ it's got a lot of different ones,
+
+1:05:49.240 --> 1:05:52.980
+ but that medial and that corticomedial amygdala
+
+1:05:52.980 --> 1:05:55.300
+ in particular is known to be associated
+
+1:05:55.300 --> 1:05:57.260
+ with aggressive type behaviors.
+
+1:05:57.260 --> 1:05:59.980
+ It's linked up with, it's part of the larger circuit
+
+1:05:59.980 --> 1:06:02.760
+ that includes the ventromedial hypothalamus
+
+1:06:02.760 --> 1:06:04.540
+ and other brain areas that we referred to earlier,
+
+1:06:04.540 --> 1:06:05.880
+ such as the PAG.
+
+1:06:07.340 --> 1:06:10.260
+ What is remarkable about this study is that it showed
+
+1:06:10.260 --> 1:06:13.120
+ that just 30 minutes after application
+
+1:06:13.120 --> 1:06:14.380
+ of this so-called androgel,
+
+1:06:14.380 --> 1:06:16.980
+ this testosterone that seeps into the bloodstream,
+
+1:06:16.980 --> 1:06:20.080
+ there was a significant increase in, of course,
+
+1:06:20.080 --> 1:06:25.080
+ testosterone and corticomedial amygdala activation.
+
+1:06:25.360 --> 1:06:27.900
+ So testosterone can have acute effects,
+
+1:06:27.900 --> 1:06:31.220
+ immediate effects on the pathways related to aggression.
+
+1:06:31.220 --> 1:06:33.620
+ And I think this is something that's not often discussed
+
+1:06:33.620 --> 1:06:36.280
+ because many of the effects of steroid hormones
+
+1:06:36.280 --> 1:06:38.640
+ like testosterone and estrogen are very slow acting.
+
+1:06:38.640 --> 1:06:40.300
+ In fact, steroid hormones,
+
+1:06:40.300 --> 1:06:43.900
+ because they have a certain biochemical composition,
+
+1:06:43.900 --> 1:06:46.260
+ can actually pass through the membranes of cells,
+
+1:06:46.260 --> 1:06:48.660
+ so the outside of a cell and into the nucleus of the cell
+
+1:06:48.660 --> 1:06:50.700
+ and change gene expression in the cell.
+
+1:06:50.700 --> 1:06:53.020
+ Think about puberty, the kid that goes home for the summer
+
+1:06:53.020 --> 1:06:55.120
+ and then comes back looking completely different.
+
+1:06:55.120 --> 1:06:57.240
+ Well, that's because a lot of genes got turned on
+
+1:06:57.240 --> 1:07:00.700
+ by steroid hormones like testosterone and estrogen,
+
+1:07:00.700 --> 1:07:02.580
+ but the steroid hormones can also have
+
+1:07:02.580 --> 1:07:05.020
+ very fast acting effects.
+
+1:07:05.020 --> 1:07:06.780
+ And with testosterone in particular,
+
+1:07:06.780 --> 1:07:08.880
+ those can be remarkably fast acting.
+
+1:07:08.880 --> 1:07:10.700
+ And one of the most apparent
+
+1:07:10.700 --> 1:07:13.180
+ and well-documented fast acting effects is this effect,
+
+1:07:13.180 --> 1:07:16.200
+ the ability to activate cells within the amygdala.
+
+1:07:16.200 --> 1:07:17.040
+ So you might say, well,
+
+1:07:17.040 --> 1:07:18.760
+ I thought the amygdala was associated with fear,
+
+1:07:18.760 --> 1:07:20.340
+ wouldn't testosterone then cause fear?
+
+1:07:20.340 --> 1:07:25.020
+ No, turns out that the amygdala harbors both cortisol,
+
+1:07:25.020 --> 1:07:27.840
+ corticosterone receptors, and testosterone receptors,
+
+1:07:27.840 --> 1:07:29.840
+ and they each adjust the activity
+
+1:07:29.840 --> 1:07:31.640
+ in the amygdala differently,
+
+1:07:31.640 --> 1:07:36.140
+ such that testosterone tends to activate amygdala circuitry
+
+1:07:36.140 --> 1:07:40.080
+ for inducing states of mind and body
+
+1:07:40.080 --> 1:07:41.940
+ that are more action-based.
+
+1:07:41.940 --> 1:07:43.900
+ And indeed in animals and in humans,
+
+1:07:43.900 --> 1:07:45.840
+ testosterone application and activation
+
+1:07:45.840 --> 1:07:47.780
+ of this corticomedial amygdala pathway
+
+1:07:47.780 --> 1:07:50.100
+ will make animals and humans lean into effort.
+
+1:07:50.100 --> 1:07:52.500
+ This is why I say testosterone makes effort feel good,
+
+1:07:52.500 --> 1:07:54.640
+ or at least biases the organism
+
+1:07:54.640 --> 1:07:56.340
+ toward leaning into challenge.
+
+1:07:56.340 --> 1:07:59.660
+ So if you recall, there's not just one type of aggression,
+
+1:07:59.660 --> 1:08:01.660
+ there's reactive aggression,
+
+1:08:01.660 --> 1:08:04.500
+ which is triggered when one is confronted with something
+
+1:08:04.500 --> 1:08:06.580
+ that sometimes is inevitable, right?
+
+1:08:06.580 --> 1:08:07.940
+ One needs to fight for their life
+
+1:08:07.940 --> 1:08:09.540
+ or for somebody else's life,
+
+1:08:09.540 --> 1:08:12.340
+ but also proactive aggression.
+
+1:08:12.340 --> 1:08:14.780
+ And proactive aggression involves activation
+
+1:08:14.780 --> 1:08:17.100
+ of those go pathways in the basal ganglia
+
+1:08:17.100 --> 1:08:19.100
+ and a leaning into effort to overcome
+
+1:08:19.100 --> 1:08:22.020
+ whatever state one happens to be in to begin with.
+
+1:08:22.020 --> 1:08:24.560
+ And so this is very important because it points to the fact
+
+1:08:24.560 --> 1:08:27.560
+ that yes, estrogen is activating aggression pathways
+
+1:08:28.500 --> 1:08:30.580
+ that are in the ventromedial hypothalamus,
+
+1:08:30.580 --> 1:08:32.300
+ but it's very likely the case
+
+1:08:32.300 --> 1:08:35.180
+ that testosterone is acting to accelerate
+
+1:08:35.180 --> 1:08:38.100
+ or to bias states of mind and body
+
+1:08:38.100 --> 1:08:40.540
+ toward those that will lead to aggression.
+
+1:08:40.540 --> 1:08:43.140
+ Again, aggression is not like a switch on and off,
+
+1:08:43.140 --> 1:08:46.620
+ it's a process, it has a beginning, a middle, and an end.
+
+1:08:46.620 --> 1:08:48.300
+ Remember that hydraulic pressure
+
+1:08:48.300 --> 1:08:50.940
+ that Konrad Lorenz hypothesized?
+
+1:08:50.940 --> 1:08:55.460
+ Well, think of testosterone as increasing the pressure
+
+1:08:55.460 --> 1:08:57.420
+ toward an aggressive episode
+
+1:08:57.420 --> 1:08:59.580
+ and then estrogen actually triggering
+
+1:08:59.580 --> 1:09:02.400
+ that aggressive episode in the ventromedial hypothalamus.
+
+1:09:02.400 --> 1:09:04.980
+ So if somebody tells you that testosterone,
+
+1:09:04.980 --> 1:09:07.780
+ endogenous or exogenous, makes people aggressive,
+
+1:09:07.780 --> 1:09:08.980
+ tell them no.
+
+1:09:08.980 --> 1:09:13.100
+ Testosterone tends to make people lean into effort
+
+1:09:13.100 --> 1:09:16.340
+ and if that effort involves being aggressive,
+
+1:09:16.340 --> 1:09:20.280
+ either reactively aggressive or proactively aggressive,
+
+1:09:20.280 --> 1:09:22.660
+ well, then it will indeed lead to aggression,
+
+1:09:22.660 --> 1:09:25.180
+ but the actual aggression itself
+
+1:09:25.180 --> 1:09:28.380
+ is triggered by estrogen, not testosterone.
+
+1:09:28.380 --> 1:09:30.580
+ Now, thus far, we really haven't talked too much
+
+1:09:30.580 --> 1:09:34.660
+ about the social context in which aggression occurs
+
+1:09:34.660 --> 1:09:36.500
+ and that's because there is a near infinite,
+
+1:09:36.500 --> 1:09:40.340
+ if not infinite number of variables that will determine that.
+
+1:09:40.340 --> 1:09:44.220
+ So for instance, violent aggression is entirely appropriate
+
+1:09:44.220 --> 1:09:46.100
+ at a professional boxing match
+
+1:09:46.100 --> 1:09:48.300
+ provided it's occurring inside the ring
+
+1:09:48.300 --> 1:09:50.220
+ and only between the competitors
+
+1:09:50.220 --> 1:09:55.220
+ and within the bounds of the rules of the sport, et cetera.
+
+1:09:55.740 --> 1:09:58.140
+ However, there are some things
+
+1:09:58.140 --> 1:10:01.020
+ that tend to bias certain social contexts
+
+1:10:01.020 --> 1:10:03.200
+ toward being more aggressive or less aggressive
+
+1:10:03.200 --> 1:10:05.460
+ and not always physical aggression
+
+1:10:05.460 --> 1:10:08.260
+ and those generally come in two forms
+
+1:10:08.260 --> 1:10:09.560
+ that many of you are familiar with,
+
+1:10:09.560 --> 1:10:12.820
+ which are alcohol and caffeine.
+
+1:10:12.820 --> 1:10:15.020
+ Let's discuss caffeine first.
+
+1:10:15.020 --> 1:10:18.300
+ Why would caffeine increase aggressive impulsivity?
+
+1:10:18.300 --> 1:10:20.380
+ Well, the general effects of caffeine
+
+1:10:20.380 --> 1:10:22.180
+ are to increase autonomic arousal,
+
+1:10:22.180 --> 1:10:25.100
+ the activity of the so-called sympathetic arm
+
+1:10:25.100 --> 1:10:26.840
+ of the autonomic nervous system,
+
+1:10:26.840 --> 1:10:30.660
+ which is, to put it very much in plain language,
+
+1:10:30.660 --> 1:10:34.380
+ it's the alertness arm of your nervous system.
+
+1:10:34.380 --> 1:10:37.100
+ That is, it creates a sense of readiness
+
+1:10:37.100 --> 1:10:38.420
+ in your brain and body
+
+1:10:38.420 --> 1:10:40.000
+ and it does so by activating
+
+1:10:40.000 --> 1:10:41.860
+ the so-called sympathetic chain ganglia.
+
+1:10:41.860 --> 1:10:43.260
+ Again, as I always remind people,
+
+1:10:43.260 --> 1:10:46.660
+ simpa and sympathetic does not mean sympathy.
+
+1:10:46.660 --> 1:10:49.660
+ Simpa means together or all at once
+
+1:10:49.660 --> 1:10:54.180
+ and caffeine tends to bias our brain and body
+
+1:10:54.180 --> 1:10:57.320
+ to activate the sympathetic chain ganglia,
+
+1:10:57.320 --> 1:10:59.500
+ which run from about the base of your neck
+
+1:10:59.500 --> 1:11:01.160
+ until the top of your pelvis
+
+1:11:01.160 --> 1:11:03.280
+ and deploy a bunch of chemicals
+
+1:11:03.280 --> 1:11:04.860
+ that jut out into the rest of your body,
+
+1:11:04.860 --> 1:11:06.580
+ activate adrenaline release.
+
+1:11:06.580 --> 1:11:10.140
+ There's a parallel increase of adrenaline in your brain,
+
+1:11:10.140 --> 1:11:12.500
+ creating the state of alertness and readiness.
+
+1:11:12.500 --> 1:11:13.900
+ That state of alertness and readiness
+
+1:11:13.900 --> 1:11:16.900
+ can be for all sorts of things, not just aggression.
+
+1:11:16.900 --> 1:11:19.100
+ However, when we are in a state
+
+1:11:19.100 --> 1:11:22.860
+ of increased sympathetic tone, meaning more alert,
+
+1:11:22.860 --> 1:11:25.200
+ such as after drinking caffeine,
+
+1:11:25.200 --> 1:11:28.400
+ we will bias all those brain and body systems,
+
+1:11:28.400 --> 1:11:30.280
+ the hormones, the chemicals, et cetera,
+
+1:11:30.280 --> 1:11:34.360
+ that exist toward action as opposed to inaction.
+
+1:11:34.360 --> 1:11:37.840
+ So put simply, caffeine can increase impulsivity.
+
+1:11:37.840 --> 1:11:39.020
+ No surprise there.
+
+1:11:39.860 --> 1:11:41.540
+ On the opposite end of things,
+
+1:11:41.540 --> 1:11:46.020
+ alcohol tends to decrease activity
+
+1:11:46.020 --> 1:11:48.260
+ in the sympathetic arm of the autonomic nervous system,
+
+1:11:48.260 --> 1:11:50.020
+ tends to make us feel less alert.
+
+1:11:50.020 --> 1:11:52.580
+ Now, initially it can create a state of alertness
+
+1:11:52.580 --> 1:11:55.180
+ because of its effects in inhibiting the forebrain.
+
+1:11:55.180 --> 1:11:58.040
+ Our forebrain prefrontal cortex in particular
+
+1:11:58.040 --> 1:11:59.940
+ has what's called top-down inhibition.
+
+1:11:59.940 --> 1:12:04.060
+ It exerts a inhibitory or a quieting effect
+
+1:12:04.060 --> 1:12:05.820
+ on some of the circuits of the hypothalamus,
+
+1:12:05.820 --> 1:12:08.020
+ such as the ventromedial hypothalamus.
+
+1:12:08.020 --> 1:12:10.100
+ The way to conceptualize this is that your forebrain
+
+1:12:10.100 --> 1:12:12.440
+ is able to rationalize and think clearly
+
+1:12:12.440 --> 1:12:15.940
+ and to suppress behavior and to engage the no-go pathways,
+
+1:12:15.940 --> 1:12:18.480
+ telling you don't say that mean thing,
+
+1:12:18.480 --> 1:12:20.740
+ don't do that violent thing, et cetera.
+
+1:12:20.740 --> 1:12:23.920
+ Alcohol initially tends to increase
+
+1:12:23.920 --> 1:12:27.760
+ our level of overall activity by reducing inhibition,
+
+1:12:27.760 --> 1:12:30.200
+ not just in that forebrain circuit,
+
+1:12:30.200 --> 1:12:32.200
+ but in other circuits, tends to make us more active.
+
+1:12:32.200 --> 1:12:34.020
+ We tend to talk more than we normally would,
+
+1:12:34.020 --> 1:12:35.660
+ move more than we normally would,
+
+1:12:35.660 --> 1:12:39.580
+ but very shortly thereafter starts acting as a sedative
+
+1:12:39.580 --> 1:12:43.380
+ by way of reducing activity in the forebrain,
+
+1:12:43.380 --> 1:12:45.980
+ releasing some of the deeper brain circuits
+
+1:12:45.980 --> 1:12:47.540
+ that are involved in impulsivity,
+
+1:12:47.540 --> 1:12:51.120
+ but also causing a somewhat sedative effect.
+
+1:12:51.120 --> 1:12:54.100
+ And then of course, as alcohol levels increase even further,
+
+1:12:54.100 --> 1:12:57.020
+ people eventually will pass out, blackout, et cetera.
+
+1:12:57.940 --> 1:12:59.900
+ So what we've got with alcohol and caffeine
+
+1:12:59.900 --> 1:13:01.940
+ is we've got two opposite ends of the spectrum,
+
+1:13:01.940 --> 1:13:04.780
+ caffeine increasing arousal and readiness
+
+1:13:04.780 --> 1:13:06.540
+ and the tendency for impulsivity,
+
+1:13:06.540 --> 1:13:10.820
+ and alcohol also increasing impulsivity,
+
+1:13:10.820 --> 1:13:12.780
+ but through a different mechanism.
+
+1:13:14.660 --> 1:13:16.180
+ A really interesting study,
+
+1:13:16.180 --> 1:13:18.140
+ and I should just mention that the title of the study
+
+1:13:18.140 --> 1:13:20.900
+ is caffeinated and non-caffeinated alcohol use
+
+1:13:20.900 --> 1:13:23.820
+ and indirect aggression, the impact of self-regulation.
+
+1:13:23.820 --> 1:13:25.940
+ So the title is almost self-explanatory.
+
+1:13:25.940 --> 1:13:27.700
+ This was a paper published in the Journal
+
+1:13:27.700 --> 1:13:30.260
+ of Addictive Behavior in 2016,
+
+1:13:30.260 --> 1:13:34.180
+ examining how ingestion of alcohol
+
+1:13:34.180 --> 1:13:38.020
+ that's either caffeinated or non-caffeinated alcohol drinks
+
+1:13:38.020 --> 1:13:40.860
+ impacted what they call indirect aggression.
+
+1:13:40.860 --> 1:13:42.760
+ And just to remind you what indirect aggression is,
+
+1:13:42.760 --> 1:13:44.820
+ these are not physical acts of aggression,
+
+1:13:44.820 --> 1:13:46.460
+ these are verbal acts of aggression.
+
+1:13:46.460 --> 1:13:50.660
+ So embarrassing others or otherwise somehow
+
+1:13:50.660 --> 1:13:52.920
+ trying to reduce the wellbeing of others
+
+1:13:52.920 --> 1:13:56.060
+ by saying certain things in particular in groups.
+
+1:13:56.060 --> 1:13:58.700
+ This study examined both males and females.
+
+1:13:58.700 --> 1:14:02.180
+ This was done by way of a college campus study.
+
+1:14:02.180 --> 1:14:04.740
+ Subjects were 18 to 47 years old.
+
+1:14:04.740 --> 1:14:06.340
+ I guess there's some older students on that campus,
+
+1:14:06.340 --> 1:14:07.580
+ or maybe they use some non-students,
+
+1:14:07.580 --> 1:14:09.400
+ but these days you've also got some students
+
+1:14:09.400 --> 1:14:11.020
+ that are in their 30s and 40s.
+
+1:14:11.020 --> 1:14:15.200
+ So they have a fairly broad swath of subjects included,
+
+1:14:15.200 --> 1:14:18.020
+ fairly broad racial background as well,
+
+1:14:18.020 --> 1:14:19.520
+ included not at equal numbers,
+
+1:14:19.520 --> 1:14:22.220
+ but at least they included a pretty broad spectrum
+
+1:14:22.220 --> 1:14:23.740
+ of people with different backgrounds.
+
+1:14:23.740 --> 1:14:26.260
+ They looked in particular at people
+
+1:14:26.260 --> 1:14:29.020
+ that ingested non-caffeinated alcohol drinks
+
+1:14:29.020 --> 1:14:32.620
+ at a frequency of 9.18 drinks per week.
+
+1:14:32.620 --> 1:14:34.140
+ Okay, again, this is a college campus,
+
+1:14:34.140 --> 1:14:35.140
+ not that I encourage that.
+
+1:14:35.140 --> 1:14:38.340
+ I'm one of these people that I've never really liked,
+
+1:14:38.340 --> 1:14:40.440
+ drugs or alcohol, and it's sort of fortunate in that way,
+
+1:14:40.440 --> 1:14:43.700
+ I can drink or not drink and tend to not drink.
+
+1:14:43.700 --> 1:14:47.580
+ But so to me, 9.18 drinks per week sounds like a lot,
+
+1:14:47.580 --> 1:14:50.300
+ but I know for some people that might actually be typical.
+
+1:14:50.300 --> 1:14:52.620
+ And then others who were drinking
+
+1:14:52.620 --> 1:14:56.820
+ at least one caffeinated alcoholic beverage per week,
+
+1:14:56.820 --> 1:14:59.960
+ and those individuals end as high, I should say,
+
+1:14:59.960 --> 1:15:04.380
+ as 7.87 caffeinated alcohol beverages per week.
+
+1:15:04.380 --> 1:15:05.480
+ So this would be energy drinks
+
+1:15:05.480 --> 1:15:07.140
+ combined typically with hard alcohol.
+
+1:15:07.140 --> 1:15:10.840
+ That's fairly commonly available in bars and so forth.
+
+1:15:10.840 --> 1:15:14.460
+ And some individuals drank as much as, goodness,
+
+1:15:14.460 --> 1:15:18.680
+ 20.36 alcoholic drinks per week total,
+
+1:15:18.680 --> 1:15:21.640
+ some that were caffeinated, some that were not caffeinated.
+
+1:15:21.640 --> 1:15:23.540
+ The basic outcome of this study
+
+1:15:23.540 --> 1:15:26.740
+ was that the more alcohol someone tended to consume,
+
+1:15:26.740 --> 1:15:28.540
+ the more likely it was that they would engage
+
+1:15:28.540 --> 1:15:31.820
+ in these indirect aggressive type behaviors.
+
+1:15:31.820 --> 1:15:34.520
+ And in terms of the caffeinated alcoholic beverages,
+
+1:15:34.520 --> 1:15:36.160
+ there the effect was especially interesting.
+
+1:15:36.160 --> 1:15:37.420
+ Here I'm just going to paraphrase,
+
+1:15:37.420 --> 1:15:39.780
+ or I'll actually read from the study.
+
+1:15:39.780 --> 1:15:43.200
+ Quote, with regard to caffeinated alcoholic beverage use,
+
+1:15:43.200 --> 1:15:44.300
+ our findings indicated
+
+1:15:44.300 --> 1:15:46.900
+ that heavier caffeinated alcohol beverage use
+
+1:15:46.900 --> 1:15:49.420
+ was associated positively with indirect aggression
+
+1:15:49.420 --> 1:15:51.880
+ even after considering one's typical alcohol use
+
+1:15:51.880 --> 1:15:53.900
+ and dispositional aggression.
+
+1:15:53.900 --> 1:15:57.460
+ What this means is that even though alcohol
+
+1:15:57.460 --> 1:15:59.460
+ can bias certain individuals to be more aggressive,
+
+1:15:59.460 --> 1:16:00.660
+ and even though certain individuals
+
+1:16:00.660 --> 1:16:03.740
+ already have a disposition toward being more aggressive,
+
+1:16:03.740 --> 1:16:06.600
+ there was an effect that was independent,
+
+1:16:06.600 --> 1:16:11.300
+ meaning above and beyond both alcohol and a predisposition,
+
+1:16:11.300 --> 1:16:13.480
+ meaning if someone was consuming
+
+1:16:13.480 --> 1:16:15.260
+ caffeinated alcoholic beverages,
+
+1:16:15.260 --> 1:16:18.100
+ they had a particularly high likelihood
+
+1:16:18.100 --> 1:16:21.380
+ of engaging in indirect aggressive behavior.
+
+1:16:21.380 --> 1:16:22.740
+ Now, this makes perfect sense
+
+1:16:22.740 --> 1:16:24.580
+ in light of the model they propose,
+
+1:16:24.580 --> 1:16:26.980
+ which is this self-regulation model
+
+1:16:26.980 --> 1:16:29.580
+ that basically self-regulation involves several things.
+
+1:16:29.580 --> 1:16:32.060
+ It involves engaging in certain behaviors
+
+1:16:32.060 --> 1:16:33.420
+ and suppressing other behaviors.
+
+1:16:33.420 --> 1:16:36.200
+ So as described before,
+
+1:16:36.200 --> 1:16:40.100
+ because alcohol tends to have a sedative,
+
+1:16:40.100 --> 1:16:42.660
+ suppressive effect on the autonomic nervous system,
+
+1:16:43.620 --> 1:16:45.340
+ at least after the initial period,
+
+1:16:45.340 --> 1:16:47.860
+ it's going to tend to reduce the likelihood
+
+1:16:47.860 --> 1:16:50.540
+ that people will engage in any type of behavior,
+
+1:16:50.540 --> 1:16:53.060
+ whereas caffeine will increase autonomic arousal
+
+1:16:53.060 --> 1:16:55.580
+ and increase the likelihood that someone will engage
+
+1:16:55.580 --> 1:16:58.940
+ in a particular type of behavior, aggressive or otherwise.
+
+1:16:58.940 --> 1:17:01.340
+ So the combination of caffeine and alcohol
+
+1:17:01.340 --> 1:17:03.740
+ is really acting as a two-prong system
+
+1:17:03.740 --> 1:17:06.300
+ to bias people towards more impulsivity,
+
+1:17:06.300 --> 1:17:07.820
+ that is less self-regulation.
+
+1:17:07.820 --> 1:17:10.940
+ So it's really yanking your volitional control,
+
+1:17:10.940 --> 1:17:14.280
+ your ability to engage in prefrontal top-down inhibition
+
+1:17:14.280 --> 1:17:15.460
+ over your hypothalamus
+
+1:17:15.460 --> 1:17:18.020
+ from two distinct and specific circuits.
+
+1:17:18.020 --> 1:17:19.660
+ By now, you should be getting the impression
+
+1:17:19.660 --> 1:17:22.300
+ that self-regulation is a key feature
+
+1:17:22.300 --> 1:17:25.420
+ of whether or not somebody, maybe even you,
+
+1:17:25.420 --> 1:17:27.260
+ is going to engage in aggressive speech
+
+1:17:27.260 --> 1:17:28.500
+ or aggressive behavior.
+
+1:17:28.500 --> 1:17:29.820
+ And we've talked about a number of tools
+
+1:17:29.820 --> 1:17:32.780
+ that one can use to reduce the probability
+
+1:17:32.780 --> 1:17:34.320
+ that that will happen.
+
+1:17:34.320 --> 1:17:36.340
+ I suppose if the context were appropriate,
+
+1:17:36.340 --> 1:17:39.380
+ you could even take those two recommendations
+
+1:17:39.380 --> 1:17:41.900
+ and just invert them and increase the likelihood
+
+1:17:41.900 --> 1:17:43.460
+ that aggressiveness would have happened.
+
+1:17:43.460 --> 1:17:46.980
+ But regardless, self-regulation is key.
+
+1:17:46.980 --> 1:17:49.780
+ And in light of that, I want to share with you a study
+
+1:17:49.780 --> 1:17:51.740
+ that's focused on kids,
+
+1:17:51.740 --> 1:17:56.240
+ but that has important ramifications for adults as well.
+
+1:17:57.660 --> 1:18:00.060
+ As you probably are already aware,
+
+1:18:00.060 --> 1:18:01.980
+ there are many kids out there that suffer
+
+1:18:01.980 --> 1:18:04.580
+ from so-called attention deficit hyperactivity disorder,
+
+1:18:04.580 --> 1:18:05.620
+ ADHD.
+
+1:18:05.620 --> 1:18:07.340
+ There are also many adults we are finding
+
+1:18:07.340 --> 1:18:09.140
+ that are suffering from ADHD.
+
+1:18:09.140 --> 1:18:12.400
+ And there's also an epidemic, I would say,
+
+1:18:12.400 --> 1:18:13.940
+ of people that are concerned about
+
+1:18:13.940 --> 1:18:15.500
+ whether or not they have ADHD.
+
+1:18:15.500 --> 1:18:18.620
+ Now, whether or not they have true clinical ADHD or not
+
+1:18:18.620 --> 1:18:19.500
+ is not clear.
+
+1:18:19.500 --> 1:18:22.840
+ We did an episode all about ADHD and tools for ADHD.
+
+1:18:22.840 --> 1:18:24.500
+ I would encourage you to check out that episode
+
+1:18:24.500 --> 1:18:26.820
+ and some of the diagnostic criteria.
+
+1:18:26.820 --> 1:18:28.020
+ If you have the opportunity,
+
+1:18:28.020 --> 1:18:30.340
+ you can find that at hubermanlab.com.
+
+1:18:30.340 --> 1:18:34.380
+ As this study I'm about to share with you aptly points out,
+
+1:18:34.380 --> 1:18:36.960
+ there is no objective diagnostic marker of ADHD.
+
+1:18:36.960 --> 1:18:40.580
+ There's no biomarker or blood draw or blood test for ADHD.
+
+1:18:40.580 --> 1:18:44.880
+ Whether or not one has ADHD depends on their performance
+
+1:18:44.880 --> 1:18:46.900
+ on a number of different cognitive tests
+
+1:18:46.900 --> 1:18:49.620
+ and behavioral tests and self-report.
+
+1:18:49.620 --> 1:18:52.260
+ In any event, the study I'm about to share with you
+
+1:18:52.260 --> 1:18:55.540
+ explored how a particular pattern of supplementation
+
+1:18:55.540 --> 1:19:00.220
+ in kids with ADHD was able to reduce aggressive episodes
+
+1:19:00.220 --> 1:19:03.460
+ and impulsivity and increase self-regulation.
+
+1:19:03.460 --> 1:19:06.340
+ And the title of the study is efficacy of carnitine
+
+1:19:06.340 --> 1:19:07.420
+ in the treatment of children
+
+1:19:07.420 --> 1:19:10.120
+ with attention deficit hyperactivity disorder,
+
+1:19:10.120 --> 1:19:12.020
+ even though they put carnitine in the title,
+
+1:19:12.020 --> 1:19:13.620
+ that what they focused on was
+
+1:19:13.620 --> 1:19:17.040
+ whether or not acetyl-L-carnitine supplementation
+
+1:19:17.040 --> 1:19:19.660
+ could somehow adjust the behavioral tendency
+
+1:19:19.660 --> 1:19:21.280
+ of these kids with ADHD.
+
+1:19:21.280 --> 1:19:24.380
+ And to make a long story short, indeed it did.
+
+1:19:24.380 --> 1:19:25.880
+ There was a very significant effect
+
+1:19:25.880 --> 1:19:28.000
+ of acetyl-carnitine supplementation
+
+1:19:28.000 --> 1:19:32.780
+ on improving some of the symptomology of ADHD.
+
+1:19:33.700 --> 1:19:35.020
+ A few details about this study
+
+1:19:35.020 --> 1:19:36.660
+ that might be relevant to you.
+
+1:19:36.660 --> 1:19:38.820
+ This was a randomized double blind placebo controlled
+
+1:19:38.820 --> 1:19:40.560
+ double crossover study.
+
+1:19:40.560 --> 1:19:42.620
+ This was done as an outpatient study
+
+1:19:42.620 --> 1:19:44.200
+ so the kids weren't in a hospital.
+
+1:19:44.200 --> 1:19:45.500
+ They were living out in the world.
+
+1:19:45.500 --> 1:19:47.340
+ This again was done on younger kids.
+
+1:19:47.340 --> 1:19:49.780
+ So this was six to 13-year-old kids
+
+1:19:50.940 --> 1:19:53.460
+ that were diagnosed with ADHD.
+
+1:19:53.460 --> 1:19:58.460
+ They received either acetyl-L-carnitine or placebo,
+
+1:19:58.820 --> 1:20:02.640
+ and they did all the good practice stuff
+
+1:20:02.640 --> 1:20:05.660
+ that good researchers do of making sure that the placebo
+
+1:20:05.660 --> 1:20:08.820
+ and the acetyl-L-carnitine had similar look and taste.
+
+1:20:08.820 --> 1:20:11.820
+ It was consumed twice daily after meals.
+
+1:20:11.820 --> 1:20:13.380
+ Now she just mentioned that acetyl-L-carnitine
+
+1:20:13.380 --> 1:20:16.200
+ typically is taken in capsule form
+
+1:20:16.200 --> 1:20:18.220
+ or occasionally an injectable form here.
+
+1:20:18.220 --> 1:20:19.700
+ They were using this as a drink,
+
+1:20:19.700 --> 1:20:21.460
+ which is essentially the same as capsule form,
+
+1:20:21.460 --> 1:20:23.920
+ but the powder is just going directly into liquid.
+
+1:20:23.920 --> 1:20:27.900
+ And the carnitine dosage was 100 milligrams per kilogram.
+
+1:20:27.900 --> 1:20:29.740
+ So they're doing this according to the body weight
+
+1:20:29.740 --> 1:20:34.300
+ of these kids with a maximum dosage of four grams per day.
+
+1:20:34.300 --> 1:20:36.080
+ The quantity of the medication was supplied.
+
+1:20:36.080 --> 1:20:37.860
+ Here I'm reading for a period of eight weeks,
+
+1:20:37.860 --> 1:20:38.700
+ and every eight weeks,
+
+1:20:38.700 --> 1:20:40.280
+ a new quantity of medication was supplied.
+
+1:20:40.280 --> 1:20:43.340
+ So basically this is a fairly long-term study
+
+1:20:44.520 --> 1:20:48.220
+ exploring behavioral outcomes and psychological outcomes
+
+1:20:48.220 --> 1:20:50.740
+ in week eight, 16, and 24.
+
+1:20:50.740 --> 1:20:53.240
+ They also looked at things
+
+1:20:53.240 --> 1:20:54.820
+ that you could only get through a blood draw.
+
+1:20:54.820 --> 1:20:56.740
+ So things like hemoglobin, hematocrit,
+
+1:20:56.740 --> 1:20:58.840
+ red blood cell count, white blood cell count, et cetera.
+
+1:20:58.840 --> 1:21:01.060
+ These are kids, and even if it were adults,
+
+1:21:01.060 --> 1:21:02.600
+ they were quite appropriately examining
+
+1:21:02.600 --> 1:21:03.980
+ a lot of the physiological measures
+
+1:21:03.980 --> 1:21:07.620
+ that one would want to carry out to make sure,
+
+1:21:07.620 --> 1:21:10.840
+ first of all, that blood levels of carnitine are increasing,
+
+1:21:10.840 --> 1:21:11.900
+ and indeed they confirm that,
+
+1:21:11.900 --> 1:21:14.580
+ but also that no negative effects
+
+1:21:14.580 --> 1:21:16.220
+ are showing up in the physiology
+
+1:21:16.220 --> 1:21:17.900
+ as well as the psychology of these kids.
+
+1:21:17.900 --> 1:21:20.000
+ So first I'll just tell you the basic outcome of the study,
+
+1:21:20.000 --> 1:21:21.760
+ which was, here I'm paraphrasing,
+
+1:21:21.760 --> 1:21:23.860
+ given twice daily, carnitine appeared to be effective
+
+1:21:23.860 --> 1:21:24.980
+ in well-tolerated treatment
+
+1:21:24.980 --> 1:21:26.980
+ for a group of children with ADHD.
+
+1:21:26.980 --> 1:21:29.460
+ They showed significant abnormal behavior
+
+1:21:29.460 --> 1:21:31.700
+ compared to these other boys.
+
+1:21:31.700 --> 1:21:35.100
+ And now I'm moving to the table of results.
+
+1:21:35.100 --> 1:21:36.680
+ They showed significant reductions
+
+1:21:36.680 --> 1:21:38.960
+ in their so-called total problem score.
+
+1:21:38.960 --> 1:21:41.120
+ The total problem score is a well-established measure
+
+1:21:41.120 --> 1:21:44.460
+ of behavioral problems in kids with ADHD.
+
+1:21:44.460 --> 1:21:47.300
+ And I should say adults with ADHD
+
+1:21:47.300 --> 1:21:51.940
+ has to do with challenges in social and learning environments
+
+1:21:51.940 --> 1:21:56.060
+ and how well or poorly an individual tends to perform.
+
+1:21:56.060 --> 1:21:58.060
+ Reductions in attentional problems overall,
+
+1:21:58.060 --> 1:21:59.300
+ reductions in delinquency,
+
+1:21:59.300 --> 1:22:01.940
+ and most important for sake of today's discussion,
+
+1:22:01.940 --> 1:22:04.700
+ significant reductions in aggressive behavior.
+
+1:22:04.700 --> 1:22:07.020
+ Now, what's especially nice about this study, I think,
+
+1:22:07.020 --> 1:22:09.380
+ is that even though it's a relatively small number
+
+1:22:09.380 --> 1:22:13.060
+ of subjects and certainly it needs to be repeated
+
+1:22:13.060 --> 1:22:16.020
+ in other studies and other laboratories,
+
+1:22:16.020 --> 1:22:18.820
+ that they were able to confirm the shifts
+
+1:22:18.820 --> 1:22:22.380
+ in L-carnitine within the bloodstream of these kids.
+
+1:22:22.380 --> 1:22:24.760
+ That is, they were able to correlate the physiology
+
+1:22:24.760 --> 1:22:27.020
+ with the psychological changes.
+
+1:22:27.020 --> 1:22:29.900
+ In studies like this, and frankly, in all studies
+
+1:22:29.900 --> 1:22:33.140
+ of human pharmacology, you have to worry about effects
+
+1:22:33.140 --> 1:22:35.560
+ that show up, not just because of placebo effects,
+
+1:22:35.560 --> 1:22:37.620
+ but because of so-called off-target effects
+
+1:22:37.620 --> 1:22:41.340
+ or related things totally independent of the drug
+
+1:22:41.340 --> 1:22:42.340
+ or the particular supplement
+
+1:22:42.340 --> 1:22:43.840
+ that you happen to be looking at.
+
+1:22:43.840 --> 1:22:46.460
+ To put it in the words of a great neuroscientist,
+
+1:22:46.460 --> 1:22:48.680
+ unfortunately, he passed away some years ago,
+
+1:22:48.680 --> 1:22:50.100
+ but he was a member of the National Academy,
+
+1:22:50.100 --> 1:22:53.140
+ extremely accomplished neuroscientist,
+
+1:22:53.140 --> 1:22:54.540
+ who once turned to me and said,
+
+1:22:54.540 --> 1:22:57.180
+ never forget, a drug is a substance
+
+1:22:57.180 --> 1:22:59.820
+ that when injected into an animal or a human being
+
+1:23:00.780 --> 1:23:02.520
+ creates a paper.
+
+1:23:02.520 --> 1:23:06.580
+ Meaning you can see effects of pretty much any drug
+
+1:23:06.580 --> 1:23:09.300
+ or any supplement in most all conditions.
+
+1:23:09.300 --> 1:23:12.100
+ However, it is in cases such as this study
+
+1:23:12.100 --> 1:23:15.480
+ where you can quite convincingly see
+
+1:23:15.480 --> 1:23:18.100
+ that the particular feature of physiology
+
+1:23:18.100 --> 1:23:21.180
+ that you expected to change actually changed,
+
+1:23:21.180 --> 1:23:23.420
+ and you see a psychological outcome
+
+1:23:23.420 --> 1:23:26.060
+ that you can gain much greater confidence
+
+1:23:26.060 --> 1:23:28.820
+ that the changes in delinquency,
+
+1:23:28.820 --> 1:23:30.140
+ in this case, reduced delinquency,
+
+1:23:30.140 --> 1:23:33.140
+ improved attention, reduced aggressiveness, and so forth,
+
+1:23:33.140 --> 1:23:36.660
+ was at least somehow related to the shift
+
+1:23:36.660 --> 1:23:39.980
+ in blood physiology and levels of L-carnitine
+
+1:23:39.980 --> 1:23:41.700
+ or acetyl-L-carnitine and carnitine
+
+1:23:41.700 --> 1:23:43.300
+ in the bloodstream of these children,
+
+1:23:43.300 --> 1:23:44.860
+ as opposed to something else,
+
+1:23:44.860 --> 1:23:48.460
+ like L-carnitine going and affecting some downstream target
+
+1:23:48.460 --> 1:23:49.580
+ that you have no knowledge of.
+
+1:23:49.580 --> 1:23:52.060
+ Now, of course, that's still entirely possible,
+
+1:23:52.060 --> 1:23:54.700
+ but I think studies such as these increase our confidence
+
+1:23:54.700 --> 1:23:57.820
+ that things like L-carnitine can be used
+
+1:23:57.820 --> 1:23:59.320
+ perhaps in concert with things
+
+1:23:59.320 --> 1:24:01.180
+ like omega-3 supplementation,
+
+1:24:01.180 --> 1:24:04.460
+ diets that are biased towards increasing more tryptophan
+
+1:24:04.460 --> 1:24:06.880
+ and therefore more serotonin,
+
+1:24:06.880 --> 1:24:08.700
+ obviously avoiding things like alcohol,
+
+1:24:08.700 --> 1:24:10.960
+ and as it appears from the study I just described,
+
+1:24:10.960 --> 1:24:13.080
+ reducing one's intake
+
+1:24:13.080 --> 1:24:16.780
+ or not consuming any caffeinated alcoholic beverages.
+
+1:24:16.780 --> 1:24:17.740
+ Seems like it would be a good idea
+
+1:24:17.740 --> 1:24:19.860
+ if your goal is to reduce aggressiveness
+
+1:24:19.860 --> 1:24:21.660
+ to think about the hormone context
+
+1:24:21.660 --> 1:24:25.420
+ and whether or not you tend to have higher testosterone
+
+1:24:25.420 --> 1:24:27.860
+ and estrogen or lower testosterone and estrogen.
+
+1:24:27.860 --> 1:24:29.360
+ Maybe even thinking about the work environment,
+
+1:24:29.360 --> 1:24:30.900
+ whether or not you are existing
+
+1:24:30.900 --> 1:24:32.940
+ in a particularly competitive work environment
+
+1:24:32.940 --> 1:24:35.940
+ and even day life, time of year,
+
+1:24:35.940 --> 1:24:37.860
+ and whether or not you're getting sufficient sunlight,
+
+1:24:37.860 --> 1:24:39.220
+ whether or not you're avoiding light
+
+1:24:39.220 --> 1:24:40.660
+ in the evening and so on.
+
+1:24:40.660 --> 1:24:42.920
+ So studies such as this I think are useful
+
+1:24:42.920 --> 1:24:47.860
+ because they point to the fact that very seldom, if ever,
+
+1:24:47.860 --> 1:24:51.300
+ will there be one supplement or one nutritional change
+
+1:24:51.300 --> 1:24:52.740
+ or even one behavioral change
+
+1:24:52.740 --> 1:24:55.140
+ that's going to completely shift an individual
+
+1:24:55.140 --> 1:24:57.240
+ from being aggressive and impulsive,
+
+1:24:57.240 --> 1:25:01.660
+ but rather that by combining different behavioral regimens,
+
+1:25:01.660 --> 1:25:04.300
+ by paying attention to things like time of year
+
+1:25:04.300 --> 1:25:06.380
+ and work conditions and school conditions
+
+1:25:06.380 --> 1:25:07.620
+ and overall levels of stress
+
+1:25:07.620 --> 1:25:11.540
+ and likely therefore levels of cortisol, et cetera,
+
+1:25:11.540 --> 1:25:14.940
+ that you can use behaviors, diet, and supplementation
+
+1:25:14.940 --> 1:25:18.580
+ as a way to shift that overall internal milieu
+
+1:25:18.580 --> 1:25:22.020
+ from one of providing a lot of internal hydraulic pressure,
+
+1:25:22.020 --> 1:25:24.100
+ as it's been called throughout the episode,
+
+1:25:24.100 --> 1:25:26.400
+ toward aggressive impulsivity
+
+1:25:26.400 --> 1:25:29.400
+ and relax some of that hydraulic pressure
+
+1:25:29.400 --> 1:25:31.820
+ and reduce aggressive tendencies.
+
+1:25:31.820 --> 1:25:34.480
+ So once again, and frankly, as always,
+
+1:25:34.480 --> 1:25:38.340
+ we've done a deep dive into the neurobiology
+
+1:25:38.340 --> 1:25:40.300
+ and the psychology of what I believe
+
+1:25:40.300 --> 1:25:42.100
+ to be an important feature of our lives,
+
+1:25:42.100 --> 1:25:43.880
+ in this case, aggression.
+
+1:25:43.880 --> 1:25:46.260
+ I want to point out that in a episode
+
+1:25:46.260 --> 1:25:47.580
+ in the not too distant future,
+
+1:25:47.580 --> 1:25:50.820
+ I'm going to be hosting Dr. Professor David Anderson
+
+1:25:50.820 --> 1:25:52.300
+ from Caltech University,
+
+1:25:52.300 --> 1:25:56.980
+ who is the world expert on the neurobiology of aggression.
+
+1:25:56.980 --> 1:25:58.260
+ In fact, he is the senior author
+
+1:25:58.260 --> 1:25:59.980
+ on many of the studies related
+
+1:25:59.980 --> 1:26:02.880
+ to the ventromedial hypothalamus that I discussed today.
+
+1:26:02.880 --> 1:26:05.880
+ Our discussion will touch on aggression, of course.
+
+1:26:05.880 --> 1:26:07.920
+ So hearing today's episode
+
+1:26:07.920 --> 1:26:09.580
+ will help you digest that information,
+
+1:26:09.580 --> 1:26:12.340
+ but we are also going to talk about other emotional states.
+
+1:26:12.340 --> 1:26:14.220
+ He is an expert, not just in aggression,
+
+1:26:14.220 --> 1:26:16.100
+ but in motivated states related to sex
+
+1:26:16.100 --> 1:26:20.540
+ and mating behavior, social relationships of all kinds,
+
+1:26:20.540 --> 1:26:23.460
+ and how those relate not just to biology and psychology,
+
+1:26:23.460 --> 1:26:25.860
+ but also certain forms of pathology,
+
+1:26:25.860 --> 1:26:28.080
+ things like PTSD and the relationship, for instance,
+
+1:26:28.080 --> 1:26:31.480
+ between anger, fear, anxiety, and depression,
+
+1:26:31.480 --> 1:26:34.520
+ and many other important topics that I know many of you,
+
+1:26:34.520 --> 1:26:36.360
+ if not all of you, will be interested in.
+
+1:26:36.360 --> 1:26:37.620
+ In the meantime, I want to point you
+
+1:26:37.620 --> 1:26:42.380
+ to his recently released and wonderful book entitled
+
+1:26:42.380 --> 1:26:44.980
+ The Nature of the Beast, How Emotions Guide Us.
+
+1:26:44.980 --> 1:26:48.740
+ And again, the author is David Anderson from Caltech.
+
+1:26:48.740 --> 1:26:50.420
+ This is a wonderful book.
+
+1:26:50.420 --> 1:26:53.860
+ It serves as a tremendous introduction
+
+1:26:53.860 --> 1:26:56.360
+ to the history of the study of these areas,
+
+1:26:56.360 --> 1:26:58.900
+ the current science and discoveries being made
+
+1:26:58.900 --> 1:27:01.300
+ in these areas, all made accessible
+
+1:27:01.300 --> 1:27:03.600
+ to the scientist and non-scientist alike.
+
+1:27:03.600 --> 1:27:05.860
+ It's a very engaging read.
+
+1:27:05.860 --> 1:27:09.180
+ And so much so that even though he was gracious
+
+1:27:09.180 --> 1:27:11.900
+ in sending me a copy, I also purchased myself a copy
+
+1:27:11.900 --> 1:27:14.060
+ to give to somebody who is a therapist,
+
+1:27:14.060 --> 1:27:16.740
+ and I've purchased another copy to give to a high school kid
+
+1:27:16.740 --> 1:27:18.980
+ that I mentor because he's very interested
+
+1:27:18.980 --> 1:27:20.420
+ in the neuroscience of emotions.
+
+1:27:20.420 --> 1:27:23.020
+ And I think we are all interested in emotions,
+
+1:27:23.020 --> 1:27:25.780
+ not just fear and some of these negative states,
+
+1:27:25.780 --> 1:27:26.620
+ not just aggression,
+
+1:27:26.620 --> 1:27:28.780
+ but also the positive emotions of our lives.
+
+1:27:28.780 --> 1:27:31.800
+ And so The Nature of the Beast, How Emotions Guide Us
+
+1:27:31.800 --> 1:27:34.140
+ by David Anderson is a wonderful read.
+
+1:27:34.140 --> 1:27:36.120
+ I can't recommend it highly enough.
+
+1:27:36.120 --> 1:27:38.500
+ If you're learning from and or enjoying this podcast,
+
+1:27:38.500 --> 1:27:40.460
+ please subscribe to our YouTube channel.
+
+1:27:40.460 --> 1:27:43.140
+ That's a terrific zero cost way to support us.
+
+1:27:43.140 --> 1:27:45.420
+ In addition, please subscribe to our podcast
+
+1:27:45.420 --> 1:27:47.020
+ on Apple and Spotify.
+
+1:27:47.020 --> 1:27:49.180
+ And on Apple, you have the opportunity
+
+1:27:49.180 --> 1:27:51.420
+ to leave us up to a five-star review.
+
+1:27:51.420 --> 1:27:53.580
+ Also, if there are any episodes of the podcast
+
+1:27:53.580 --> 1:27:56.220
+ that you particularly like, please share them with others.
+
+1:27:56.220 --> 1:27:59.200
+ And if you have suggestions about particular guests
+
+1:27:59.200 --> 1:28:01.860
+ or topics that you'd like us to cover on the podcast,
+
+1:28:01.860 --> 1:28:04.280
+ please put that in the comment section on YouTube.
+
+1:28:04.280 --> 1:28:06.740
+ We do read all those comments.
+
+1:28:06.740 --> 1:28:08.620
+ Please also check out the sponsors mentioned
+
+1:28:08.620 --> 1:28:10.140
+ at the beginning of today's episode.
+
+1:28:10.140 --> 1:28:12.940
+ That is the best way to support this podcast.
+
+1:28:12.940 --> 1:28:15.460
+ We also have a Patreon, it's patreon.com
+
+1:28:15.460 --> 1:28:18.300
+ slash Andrew Huberman, and there you can support
+
+1:28:18.300 --> 1:28:20.620
+ the podcast at any level that you like.
+
+1:28:20.620 --> 1:28:22.980
+ During today's episode and on many previous episodes
+
+1:28:22.980 --> 1:28:25.880
+ of the Huberman Lab Podcast, we discussed supplements.
+
+1:28:25.880 --> 1:28:28.220
+ While supplements aren't necessary for everybody,
+
+1:28:28.220 --> 1:28:30.620
+ many people derive tremendous benefit from them
+
+1:28:30.620 --> 1:28:33.120
+ for things like improving the transition time
+
+1:28:33.120 --> 1:28:35.140
+ and the quality of your sleep
+
+1:28:35.140 --> 1:28:38.540
+ and improving alertness and focus and so on.
+
+1:28:38.540 --> 1:28:40.620
+ Anytime you're considering taking supplements,
+
+1:28:40.620 --> 1:28:42.080
+ there are several key considerations.
+
+1:28:42.080 --> 1:28:43.300
+ First of all, those supplements
+
+1:28:43.300 --> 1:28:45.240
+ should be of the very highest quality.
+
+1:28:45.240 --> 1:28:47.800
+ And you want to make sure that what's listed on the bottle
+
+1:28:47.800 --> 1:28:49.080
+ is actually what's in the bottle,
+
+1:28:49.080 --> 1:28:52.180
+ which is a problem for many supplement companies out there.
+
+1:28:52.180 --> 1:28:54.640
+ The Huberman Lab Podcast is pleased to announce
+
+1:28:54.640 --> 1:28:57.720
+ that we are now partnered with Momentous Supplements
+
+1:28:57.720 --> 1:28:59.500
+ because we believe Momentous Supplements
+
+1:28:59.500 --> 1:29:01.520
+ to be of the very highest quality
+
+1:29:01.520 --> 1:29:03.380
+ of any supplements out there.
+
+1:29:03.380 --> 1:29:05.500
+ And we've been working very closely with them
+
+1:29:05.500 --> 1:29:07.620
+ in order to direct them to create supplements
+
+1:29:07.620 --> 1:29:09.900
+ that are individual ingredient supplements
+
+1:29:09.900 --> 1:29:12.200
+ of the particular quality and sources
+
+1:29:12.200 --> 1:29:13.360
+ that we would like to see
+
+1:29:13.360 --> 1:29:15.780
+ and that relate to the science and studies covered
+
+1:29:15.780 --> 1:29:17.340
+ on the Huberman Lab Podcast.
+
+1:29:17.340 --> 1:29:19.020
+ If you'd like to see some of those supplements,
+
+1:29:19.020 --> 1:29:22.540
+ you can go to livemomentous.com slash Huberman,
+
+1:29:22.540 --> 1:29:24.980
+ and there you will see some of the supplements
+
+1:29:24.980 --> 1:29:26.860
+ that we've talked about on this podcast before,
+
+1:29:26.860 --> 1:29:30.460
+ such as magnesium threonate for augmenting sleep,
+
+1:29:30.460 --> 1:29:32.700
+ things like L-tyrosine for augmenting dopamine,
+
+1:29:32.700 --> 1:29:34.540
+ and things like L-carnitine,
+
+1:29:34.540 --> 1:29:36.840
+ which we've discussed on today's podcast.
+
+1:29:36.840 --> 1:29:38.660
+ Right now, the list of supplements
+
+1:29:38.660 --> 1:29:40.900
+ and the products that are there is only partial
+
+1:29:40.900 --> 1:29:42.580
+ to what will soon be included in the future,
+
+1:29:42.580 --> 1:29:45.100
+ so that's an ever-expanding catalog of, again,
+
+1:29:45.100 --> 1:29:47.520
+ what we believe to be the very highest quality supplements
+
+1:29:47.520 --> 1:29:48.620
+ available to you.
+
+1:29:48.620 --> 1:29:50.980
+ For those of you that are interested in behavioral,
+
+1:29:50.980 --> 1:29:53.880
+ nutritional, and supplementation-based tools
+
+1:29:53.880 --> 1:29:57.060
+ for neuroscience and other aspects of your biology
+
+1:29:57.060 --> 1:29:58.900
+ that impact your health and performance,
+
+1:29:58.900 --> 1:30:00.060
+ we have a newsletter.
+
+1:30:00.060 --> 1:30:02.180
+ It is a zero-cost newsletter.
+
+1:30:02.180 --> 1:30:03.900
+ It's called the Neural Network Newsletter.
+
+1:30:03.900 --> 1:30:07.320
+ You can go to HubermanLab.com, and there in the menu,
+
+1:30:07.320 --> 1:30:09.700
+ you'll find the Neural Network Newsletter signup.
+
+1:30:09.700 --> 1:30:11.160
+ You can just put your email.
+
+1:30:11.160 --> 1:30:13.260
+ We do not share your email with anybody else.
+
+1:30:13.260 --> 1:30:16.100
+ You will also find examples of the newsletter
+
+1:30:16.100 --> 1:30:18.260
+ that you can download right away without having to sign up
+
+1:30:18.260 --> 1:30:20.260
+ and decide if signing up is right for you.
+
+1:30:20.260 --> 1:30:21.840
+ And if you're not already following us
+
+1:30:21.840 --> 1:30:23.380
+ on Twitter and Instagram,
+
+1:30:23.380 --> 1:30:27.080
+ we are HubermanLab on both Instagram and Twitter,
+
+1:30:27.080 --> 1:30:28.820
+ and at both places,
+
+1:30:28.820 --> 1:30:30.760
+ I describe science and science-based tools,
+
+1:30:30.760 --> 1:30:31.780
+ some of which overlaps
+
+1:30:31.780 --> 1:30:33.880
+ with the content of the HubermanLab podcast,
+
+1:30:33.880 --> 1:30:35.620
+ but much of which is distinct
+
+1:30:35.620 --> 1:30:38.200
+ from the content of the HubermanLab podcast.
+
+1:30:38.200 --> 1:30:39.660
+ Once again, thank you for joining me
+
+1:30:39.660 --> 1:30:42.460
+ for our discussion about the biology, psychology,
+
+1:30:42.460 --> 1:30:45.300
+ and actionable tools around aggression,
+
+1:30:45.300 --> 1:30:48.200
+ and as always, thank you for your interest in science.
+
+1:30:48.200 --> 1:31:06.700
+ And as always, thank you for your interest in science.
+

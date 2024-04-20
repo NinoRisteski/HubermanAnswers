@@ -1,0 +1,8042 @@
+WEBVTT
+
+00:00.000 --> 00:02.260
+ Welcome to the Huberman Lab Podcast,
+
+00:02.260 --> 00:04.900
+ where we discuss science and science-based tools
+
+00:04.900 --> 00:05.920
+ for everyday life.
+
+00:09.300 --> 00:10.460
+ I'm Andrew Huberman,
+
+00:10.460 --> 00:13.340
+ and I'm a professor of neurobiology and ophthalmology
+
+00:13.340 --> 00:15.220
+ at Stanford School of Medicine.
+
+00:15.220 --> 00:16.940
+ This podcast is separate from my teaching
+
+00:16.940 --> 00:18.660
+ and research roles at Stanford.
+
+00:18.660 --> 00:20.880
+ It is, however, part of my desire and effort
+
+00:20.880 --> 00:23.160
+ to bring zero cost to consumer information
+
+00:23.160 --> 00:25.240
+ about science and science-related tools
+
+00:25.240 --> 00:26.940
+ to the general public.
+
+00:26.940 --> 00:28.340
+ In keeping with that theme,
+
+00:28.340 --> 00:31.360
+ I'd like to thank the sponsors of today's podcast.
+
+00:31.360 --> 00:33.220
+ Our first sponsor is Roka.
+
+00:33.220 --> 00:36.260
+ Founded by two All-American swimmers from Stanford,
+
+00:36.260 --> 00:39.380
+ Roka eyeglasses and sunglasses have really been designed
+
+00:39.380 --> 00:41.580
+ with the utmost care and the utmost attention
+
+00:41.580 --> 00:44.660
+ to the science of optics and the visual system.
+
+00:44.660 --> 00:46.300
+ So one of the things I like so much
+
+00:46.300 --> 00:48.420
+ about Roka eyeglasses and sunglasses
+
+00:48.420 --> 00:50.620
+ is that they're extremely lightweight.
+
+00:50.620 --> 00:52.260
+ If you get sweaty, so for instance,
+
+00:52.260 --> 00:54.420
+ if you wear them while running or walking or hiking,
+
+00:54.420 --> 00:56.020
+ they don't slip off.
+
+00:56.020 --> 00:58.480
+ And with the sunglasses, when you're outdoors,
+
+00:58.480 --> 01:00.980
+ if there's cloud cover or if there's shadows
+
+01:00.980 --> 01:02.660
+ or if the day gets brighter or dimmer,
+
+01:02.660 --> 01:05.220
+ you can still see your surroundings perfectly well.
+
+01:05.220 --> 01:06.980
+ And that's because the designers at Roka
+
+01:06.980 --> 01:09.580
+ really understand the way the visual system works,
+
+01:09.580 --> 01:11.740
+ how it habituates, how it adapts.
+
+01:11.740 --> 01:13.540
+ You don't need to understand the science behind all that,
+
+01:13.540 --> 01:15.380
+ but they do, and as a consequence,
+
+01:15.380 --> 01:18.480
+ the eyeglasses perform extremely well under all conditions,
+
+01:18.480 --> 01:21.460
+ whether or not that's indoors or outdoors.
+
+01:21.460 --> 01:23.880
+ So they put a ton of science and purpose into the design.
+
+01:23.880 --> 01:25.360
+ They also happen to look really good.
+
+01:25.360 --> 01:27.020
+ They have a really nice aesthetic.
+
+01:27.020 --> 01:30.740
+ A lot of, as you know, performance active wear eyeglasses
+
+01:30.740 --> 01:33.340
+ look rather ridiculous, but the Roka glasses,
+
+01:33.340 --> 01:35.700
+ I think have a very nice aesthetic to them
+
+01:35.700 --> 01:37.000
+ that you could wear anywhere.
+
+01:37.000 --> 01:38.620
+ If you'd like to check out Roka glasses,
+
+01:38.620 --> 01:41.700
+ you can go to Roka, that's R-O-K-A.com
+
+01:41.700 --> 01:43.860
+ and enter the code Huberman at checkout,
+
+01:43.860 --> 01:46.100
+ and you'll get 20% off your first order.
+
+01:46.100 --> 01:50.060
+ That's Roka, R-O-K-A.com and enter the code Huberman
+
+01:50.060 --> 01:52.320
+ at checkout for 20% off your order.
+
+01:52.320 --> 01:55.620
+ Today's podcast is also brought to us by Inside Tracker.
+
+01:55.620 --> 01:58.060
+ Inside Tracker is a personalized nutrition platform
+
+01:58.060 --> 02:00.780
+ that analyzes data from your blood and DNA
+
+02:00.780 --> 02:02.300
+ to help you better understand your body
+
+02:02.300 --> 02:04.180
+ and reach your health goals.
+
+02:04.180 --> 02:06.860
+ I'm a big believer in getting regular blood work done
+
+02:06.860 --> 02:09.580
+ for the simple reason that many of the factors
+
+02:09.580 --> 02:12.620
+ that impact our immediate and long-term health
+
+02:12.620 --> 02:15.260
+ can only be analyzed from a blood test.
+
+02:15.260 --> 02:17.660
+ And now with the advent of modern DNA tests,
+
+02:17.660 --> 02:20.940
+ we can also get insight into our specific DNA makeup
+
+02:20.940 --> 02:24.680
+ and how that influences our lifestyle choices
+
+02:24.680 --> 02:26.940
+ and our health status.
+
+02:26.940 --> 02:28.700
+ The problem with a lot of blood tests
+
+02:28.700 --> 02:30.600
+ is that you get a lot of information back,
+
+02:30.600 --> 02:33.520
+ but you don't always know what to do with that information.
+
+02:33.520 --> 02:35.840
+ With Inside Tracker, they have a very easy to use,
+
+02:35.840 --> 02:38.220
+ personalized dashboard platform
+
+02:38.220 --> 02:41.820
+ that informs you what sorts of lifestyle, nutrition,
+
+02:41.820 --> 02:44.880
+ exercise changes you might want to make
+
+02:44.880 --> 02:47.600
+ according to the levels of particular metabolic factors,
+
+02:47.600 --> 02:51.540
+ hormone factors, et cetera, in your blood and DNA.
+
+02:51.540 --> 02:53.100
+ So it makes everything very simple,
+
+02:53.100 --> 02:55.580
+ both in terms of where you're at health-wise
+
+02:55.580 --> 02:57.980
+ and what you should or could do
+
+02:57.980 --> 02:59.300
+ in order to improve your health,
+
+02:59.300 --> 03:02.540
+ something I do believe most everybody would like to do.
+
+03:02.540 --> 03:04.700
+ With Inside Tracker, it makes all that very easy.
+
+03:04.700 --> 03:06.940
+ They also have something called the Inner Age Test.
+
+03:06.940 --> 03:10.060
+ This is a test that shows you what your biological age
+
+03:10.060 --> 03:12.680
+ and compares that, of course, to your chronological age.
+
+03:12.680 --> 03:14.100
+ And of course, your biological age
+
+03:14.100 --> 03:15.260
+ is really what you want to know
+
+03:15.260 --> 03:17.220
+ because it's a predictor of how long
+
+03:17.220 --> 03:19.700
+ you're going to live and the quality of your life.
+
+03:19.700 --> 03:21.220
+ If you'd like to try Inside Tracker,
+
+03:21.220 --> 03:24.400
+ you can visit insidetracker.com slash Huberman.
+
+03:24.400 --> 03:25.240
+ And if you do that,
+
+03:25.240 --> 03:28.360
+ you'll get 25% off any of Inside Tracker's plans.
+
+03:28.360 --> 03:30.760
+ Just use the code Huberman at checkout.
+
+03:30.760 --> 03:33.980
+ Today's episode is also brought to us by Helix Sleep.
+
+03:33.980 --> 03:36.100
+ Helix Sleep makes mattresses and pillows
+
+03:36.100 --> 03:39.040
+ that are ideally suited to your sleep needs.
+
+03:39.040 --> 03:41.000
+ Everybody needs something different
+
+03:41.000 --> 03:42.380
+ in terms of what to sleep on.
+
+03:42.380 --> 03:43.940
+ Some people like a hard mattress,
+
+03:43.940 --> 03:45.180
+ some people like a soft mattress,
+
+03:45.180 --> 03:46.540
+ some people tend to run warm,
+
+03:46.540 --> 03:48.420
+ some people tend to run cold.
+
+03:48.420 --> 03:50.460
+ With Helix Sleep, you go to their website,
+
+03:50.460 --> 03:52.860
+ you take a very brief two-minute quiz,
+
+03:52.860 --> 03:54.500
+ and you answer some questions such as,
+
+03:54.500 --> 03:55.800
+ do you tend to sleep on your stomach
+
+03:55.800 --> 03:56.720
+ or your side or your back?
+
+03:56.720 --> 03:57.560
+ Maybe you don't know,
+
+03:57.560 --> 03:59.740
+ do you tend to run hot or cold, et cetera?
+
+03:59.740 --> 04:02.540
+ At the end of that quiz, you match to a specific mattress.
+
+04:02.540 --> 04:04.180
+ I took that quiz about six months ago
+
+04:04.180 --> 04:06.420
+ and I matched to the dusk mattress.
+
+04:06.420 --> 04:08.100
+ And I've been sleeping on a dusk mattress
+
+04:08.100 --> 04:09.660
+ from Helix for the last six months.
+
+04:09.660 --> 04:13.220
+ And I've been sleeping better than I ever have before.
+
+04:13.220 --> 04:16.220
+ Basically, everyone's unique and Helix understands that.
+
+04:16.220 --> 04:18.460
+ And that's built into the design of their mattresses
+
+04:18.460 --> 04:21.420
+ and this two-minute quiz that you take to match you to one.
+
+04:21.420 --> 04:23.500
+ If you'd like to try a Helix Sleep mattress,
+
+04:23.500 --> 04:26.680
+ you can go to helixsleep.com slash Huberman,
+
+04:26.680 --> 04:28.220
+ take their two-minute quiz,
+
+04:28.220 --> 04:30.500
+ and they'll match you to a customized mattress.
+
+04:30.500 --> 04:33.420
+ You'll also get up to $200 off any mattress order
+
+04:33.420 --> 04:34.360
+ and two free pillows.
+
+04:34.360 --> 04:36.300
+ They make terrific pillows.
+
+04:36.300 --> 04:38.700
+ You'll get a 10-year warranty on that mattress
+
+04:38.700 --> 04:40.860
+ and you get to try it out for 100 nights risk-free.
+
+04:40.860 --> 04:41.780
+ If you don't like it,
+
+04:41.780 --> 04:43.140
+ they'll come pick it up and take it away.
+
+04:43.140 --> 04:45.740
+ You won't get charged, you'll get your money back, et cetera.
+
+04:45.740 --> 04:48.500
+ So that's helixsleep.com slash Huberman
+
+04:48.500 --> 04:51.280
+ for up to $200 off and two free pillows.
+
+04:51.280 --> 04:53.220
+ We are now beginning a new topic
+
+04:53.220 --> 04:55.380
+ for the next four to five episodes
+
+04:55.380 --> 04:57.580
+ of the Huberman Lab Podcast.
+
+04:57.580 --> 04:59.080
+ Before we move into that,
+
+04:59.080 --> 05:01.340
+ I want to just briefly touch on a couple of questions
+
+05:01.340 --> 05:03.260
+ that I got from the last episode,
+
+05:03.260 --> 05:06.380
+ which was related to the science of endurance training.
+
+05:06.380 --> 05:08.540
+ I described the four kinds of endurance training.
+
+05:08.540 --> 05:11.620
+ We posted protocols of the specific four kinds
+
+05:11.620 --> 05:14.320
+ of endurance training at HubermanLab.com.
+
+05:14.320 --> 05:15.400
+ Just go to that episode.
+
+05:15.400 --> 05:16.380
+ You can see the download.
+
+05:16.380 --> 05:18.240
+ It's a zero-cost PDF.
+
+05:18.240 --> 05:19.900
+ I got a lot of questions
+
+05:19.900 --> 05:22.020
+ about what's called concurrent training,
+
+05:22.020 --> 05:24.840
+ which is how to program endurance training
+
+05:24.840 --> 05:26.540
+ if you are also interested
+
+05:26.540 --> 05:28.580
+ in strength and hypertrophy training,
+
+05:28.580 --> 05:31.260
+ or how to incorporate strength and hypertrophy training,
+
+05:31.260 --> 05:35.780
+ which was in the previous episode, with endurance training.
+
+05:35.780 --> 05:38.180
+ This can all be made very simple.
+
+05:38.180 --> 05:40.380
+ Ask yourself, what are you trying to emphasize?
+
+05:40.380 --> 05:43.460
+ And then emphasize that for a 10 to 12-week cycle.
+
+05:43.460 --> 05:46.380
+ So if you're mostly interested in endurance,
+
+05:46.380 --> 05:48.920
+ I would say use a three to two ratio.
+
+05:48.920 --> 05:52.000
+ Maybe get three endurance training workouts per week,
+
+05:52.000 --> 05:56.440
+ maybe four, and two strength and hypertrophy workouts.
+
+05:56.440 --> 05:59.280
+ If you're mainly focusing on strength and hypertrophy,
+
+05:59.280 --> 06:02.220
+ get three or four workouts for strength and hypertrophy,
+
+06:02.220 --> 06:05.220
+ and do two endurance workouts.
+
+06:05.220 --> 06:08.340
+ Start with the minimum number of sets that's required
+
+06:08.340 --> 06:10.740
+ to get the result that you want.
+
+06:10.740 --> 06:13.140
+ So if you're not accustomed to doing endurance work,
+
+06:13.140 --> 06:14.620
+ you would start with the minimum number
+
+06:14.620 --> 06:16.180
+ that's listed on that protocol.
+
+06:16.180 --> 06:17.540
+ So if it says three to five sets,
+
+06:17.540 --> 06:20.100
+ you would start with three, maybe even just two,
+
+06:20.100 --> 06:24.020
+ and then work your way up by adding sets each week.
+
+06:24.020 --> 06:25.500
+ I do suggest that people get
+
+06:25.500 --> 06:27.500
+ at least one complete rest day per week,
+
+06:27.500 --> 06:30.140
+ although I know a lot of people don't like that.
+
+06:30.140 --> 06:31.060
+ I benefit from that.
+
+06:31.060 --> 06:33.240
+ I actually benefit from having two complete rest days
+
+06:33.240 --> 06:34.080
+ each week.
+
+06:34.080 --> 06:35.460
+ I just continue to make progress that way,
+
+06:35.460 --> 06:37.460
+ whether or not it's for strength and hypertrophy
+
+06:37.460 --> 06:39.160
+ or for endurance.
+
+06:39.160 --> 06:40.820
+ I am a big believer in rest days.
+
+06:40.820 --> 06:41.740
+ Other people are not.
+
+06:41.740 --> 06:43.260
+ And those could be active rest days, hiking,
+
+06:43.260 --> 06:44.460
+ relaxing, et cetera.
+
+06:45.660 --> 06:47.960
+ After a 10 to 12-week cycle,
+
+06:47.960 --> 06:50.180
+ then I also suggest taking anywhere
+
+06:50.180 --> 06:52.520
+ from five to seven days completely off.
+
+06:52.520 --> 06:54.140
+ You can still enjoy life and do things.
+
+06:54.140 --> 06:56.540
+ I know for you addicted exercisers
+
+06:56.540 --> 06:58.020
+ that you're going to loathe to do that,
+
+06:58.020 --> 06:59.660
+ but that's one way to stay injury-free,
+
+06:59.660 --> 07:01.740
+ keep your joints and tissues healthy over time,
+
+07:01.740 --> 07:03.260
+ and continue to make progress.
+
+07:03.260 --> 07:05.260
+ If you don't want to do that week off, don't do it.
+
+07:05.260 --> 07:06.180
+ None of this is holy.
+
+07:06.180 --> 07:07.900
+ None of it is a strict prescriptive.
+
+07:07.900 --> 07:09.940
+ Just ask yourself, what are you going to emphasize?
+
+07:09.940 --> 07:12.020
+ And emphasize that in terms of the total volume
+
+07:12.020 --> 07:14.900
+ of workouts that you do and work up incrementally
+
+07:14.900 --> 07:17.320
+ and then move into another cycle.
+
+07:17.320 --> 07:18.600
+ That's what I suggest.
+
+07:18.600 --> 07:19.940
+ So go to hebermanlab.com.
+
+07:19.940 --> 07:21.740
+ You can get the protocol there.
+
+07:21.740 --> 07:23.940
+ We are now going to move into a new topic
+
+07:23.940 --> 07:25.780
+ unrelated to physical performance,
+
+07:25.780 --> 07:27.500
+ starting with this episode.
+
+07:27.500 --> 07:30.460
+ And for the next four to five episodes,
+
+07:30.460 --> 07:33.260
+ we are going to talk all about the senses.
+
+07:34.340 --> 07:39.340
+ That's sight, eyesight, hearing, touch,
+
+07:39.340 --> 07:41.900
+ taste, smell.
+
+07:41.900 --> 07:44.520
+ And we are also going to talk about this critical sense
+
+07:44.520 --> 07:46.140
+ that we call interoception,
+
+07:46.140 --> 07:49.000
+ or our sense of our internal real estate.
+
+07:49.000 --> 07:51.720
+ Now, the reason that we are talking about the senses
+
+07:51.720 --> 07:53.740
+ is because if you understand
+
+07:53.740 --> 07:56.680
+ how the senses are perceived,
+
+07:56.680 --> 07:57.540
+ what they're about,
+
+07:57.540 --> 08:00.940
+ what the underlying cells and connections are about,
+
+08:00.940 --> 08:02.940
+ you will be in a terrific position
+
+08:02.940 --> 08:06.180
+ to understand the month's topic that follows,
+
+08:06.180 --> 08:08.540
+ which is all about mental health.
+
+08:08.540 --> 08:11.780
+ Now, I want to emphasize that if you're somebody
+
+08:11.780 --> 08:13.700
+ who doesn't have any trouble
+
+08:13.700 --> 08:16.760
+ seeing, hearing, tasting, smelling,
+
+08:16.760 --> 08:19.220
+ and has an excellent sense of interoception,
+
+08:20.460 --> 08:21.860
+ I do believe that these episodes
+
+08:21.860 --> 08:23.960
+ will still be very relevant to you
+
+08:23.960 --> 08:25.300
+ because they have everything to do
+
+08:25.300 --> 08:27.440
+ with how you move through the world,
+
+08:27.440 --> 08:29.820
+ how you make sense of information,
+
+08:29.820 --> 08:33.340
+ and how you organize your thoughts and your emotions.
+
+08:33.340 --> 08:34.460
+ I also want to emphasize
+
+08:34.460 --> 08:37.020
+ that we're going to cover a lot of practical tools.
+
+08:37.020 --> 08:40.020
+ So today's episode is going to be all about vision
+
+08:40.020 --> 08:42.760
+ and eyesight, a topic that's very near and dear to my heart
+
+08:42.760 --> 08:44.980
+ because it's the one that I've been focusing on
+
+08:44.980 --> 08:48.020
+ for well over 25 years of my career.
+
+08:48.020 --> 08:50.740
+ But we're not just going to get into the mechanistic details
+
+08:50.740 --> 08:53.740
+ about how light is converted into electrical potentials
+
+08:53.740 --> 08:55.020
+ and things like that.
+
+08:55.020 --> 08:57.900
+ We are going to talk about practical tools
+
+08:57.900 --> 09:00.380
+ that you can and should use
+
+09:00.380 --> 09:03.620
+ to help maintain the health of your visual system
+
+09:03.620 --> 09:05.500
+ and your eyesight.
+
+09:05.500 --> 09:08.900
+ Very often, young people will say, what should I do?
+
+09:08.900 --> 09:11.580
+ You're always talking about neuroplasticity
+
+09:11.580 --> 09:13.320
+ and how it tapers off over time,
+
+09:13.320 --> 09:15.420
+ but I'm a young person, what should I do?
+
+09:16.520 --> 09:20.460
+ You should absolutely train and support your eyesight.
+
+09:20.460 --> 09:23.500
+ In fact, if you're a young person and you see perfectly
+
+09:23.500 --> 09:26.100
+ or you feel as if you see the world perfectly,
+
+09:26.100 --> 09:29.060
+ you are in the best position to bolster,
+
+09:29.060 --> 09:31.140
+ to reinforce that visual system
+
+09:31.140 --> 09:33.980
+ so that you don't lose your vision as you age.
+
+09:33.980 --> 09:36.160
+ In addition, you can leverage your visual system
+
+09:36.160 --> 09:38.060
+ for better mental and physical performance,
+
+09:38.060 --> 09:39.640
+ and we're going to talk about that.
+
+09:39.640 --> 09:40.820
+ If you're somebody who suffers
+
+09:40.820 --> 09:44.220
+ from a clinical disorder of vision, you have trouble seeing,
+
+09:44.220 --> 09:46.620
+ or if you need corrective lenses in order to see,
+
+09:46.620 --> 09:48.360
+ this episode is definitely for you.
+
+09:48.360 --> 09:51.060
+ And while, of course, I can't make clinical diagnoses,
+
+09:51.060 --> 09:53.120
+ I can't have a one-to-one conversation
+
+09:53.120 --> 09:56.300
+ with any of you in this format, nor am I a clinician,
+
+09:56.300 --> 09:59.220
+ I'm a scientist, not a physician,
+
+09:59.220 --> 10:02.740
+ I did consult with our chair of ophthalmology,
+
+10:02.740 --> 10:05.100
+ Dr. Jeffrey Goldberg at Stanford University
+
+10:05.100 --> 10:07.580
+ School of Medicine, as well as several other people
+
+10:07.580 --> 10:09.540
+ to really vet the information and make sure
+
+10:09.540 --> 10:11.220
+ that the protocols that I'm describing
+
+10:11.220 --> 10:13.560
+ are consistent with the clinical literature.
+
+10:13.560 --> 10:14.840
+ If you have a severe eye problem,
+
+10:14.840 --> 10:19.560
+ you should be working with a really good ophthalmologist
+
+10:19.560 --> 10:22.700
+ and or optometrist, but certainly an ophthalmologist
+
+10:22.700 --> 10:24.380
+ who's a medical doctor.
+
+10:24.380 --> 10:26.300
+ But I do believe that the information
+
+10:26.300 --> 10:27.600
+ that we're going to discuss today
+
+10:27.600 --> 10:29.260
+ is going to be relevant to everybody,
+
+10:29.260 --> 10:32.540
+ and we'll set the stage for the month on mental health.
+
+10:32.540 --> 10:34.460
+ And mental performance.
+
+10:34.460 --> 10:36.100
+ So let's get started.
+
+10:36.100 --> 10:37.740
+ When we hear the word vision,
+
+10:37.740 --> 10:41.160
+ we most often think about eyesight or our ability
+
+10:41.160 --> 10:45.000
+ to perceive shapes and objects and faces and colors.
+
+10:45.000 --> 10:48.100
+ And indeed, vision involves eyesight,
+
+10:48.100 --> 10:50.120
+ our ability to see shapes and objects
+
+10:50.120 --> 10:52.440
+ and faces and colors and so forth.
+
+10:52.440 --> 10:57.440
+ However, our eyes are responsible for much more than that,
+
+10:57.820 --> 11:01.280
+ including our mood, our level of alertness,
+
+11:01.280 --> 11:05.300
+ and all of that is included in what we call vision.
+
+11:05.300 --> 11:08.900
+ So I just want to take about three, maybe four minutes
+
+11:08.900 --> 11:11.380
+ and talk about how the visual system works,
+
+11:11.380 --> 11:14.560
+ how it's built and how you are able
+
+11:14.560 --> 11:17.540
+ to so-called see things around you.
+
+11:17.540 --> 11:21.220
+ I also want to describe the ways in which your eyes
+
+11:21.220 --> 11:24.120
+ and your visual system impact your mood
+
+11:24.120 --> 11:25.900
+ and your level of alertness.
+
+11:25.900 --> 11:28.740
+ And then we are going to get right into some protocols,
+
+11:28.740 --> 11:31.060
+ some specific things that each and all of you
+
+11:31.060 --> 11:35.620
+ should do if you want to enhance your vision
+
+11:35.620 --> 11:38.500
+ and maintain your vision as you get older.
+
+11:38.500 --> 11:42.360
+ And again, if you're a 15-year-old or a 12-year-old,
+
+11:42.360 --> 11:43.940
+ this episode is especially for you
+
+11:43.940 --> 11:46.340
+ because your nervous system is far more plastic
+
+11:46.340 --> 11:47.220
+ than mine is.
+
+11:47.220 --> 11:48.900
+ It's much more amenable to change.
+
+11:48.900 --> 11:51.660
+ So you can really build a very strong visual system.
+
+11:51.660 --> 11:55.140
+ And in doing that, and if you adopt specific behaviors
+
+11:55.140 --> 11:58.740
+ at any age of light viewing at particular times
+
+11:58.740 --> 12:02.420
+ in particular ways, then you can build an emotional system
+
+12:02.420 --> 12:04.900
+ that's also reinforced by your visual system.
+
+12:04.900 --> 12:06.980
+ So let's talk about vision.
+
+12:06.980 --> 12:07.820
+ What is vision?
+
+12:07.820 --> 12:10.180
+ Well, vision starts with the eyes.
+
+12:11.200 --> 12:15.380
+ We have no what's called extra ocular light perception.
+
+12:15.380 --> 12:17.880
+ While it feels good to have light on our skin,
+
+12:17.880 --> 12:20.440
+ while it feels good to be outside in the sunlight
+
+12:20.440 --> 12:23.700
+ for most people, the only way that light information
+
+12:23.700 --> 12:25.820
+ can get to the cells of your body
+
+12:25.820 --> 12:27.380
+ is through these two little goodies
+
+12:27.380 --> 12:28.220
+ on the front of your face.
+
+12:28.220 --> 12:31.280
+ And for those of you listening, I'm just pointing to my eyes
+
+12:31.280 --> 12:33.380
+ as many of you have heard me say before
+
+12:33.380 --> 12:35.980
+ on this and other podcasts, your eyes in particular,
+
+12:35.980 --> 12:38.940
+ your neural retinas are part of your central nervous system.
+
+12:38.940 --> 12:40.260
+ They are part of your brain.
+
+12:40.260 --> 12:42.520
+ They're the only part of your brain
+
+12:42.520 --> 12:44.940
+ that sits outside the cranial vault.
+
+12:44.940 --> 12:47.220
+ In other words, you have two pieces of your brain
+
+12:47.220 --> 12:49.760
+ that deliberately got squeezed out of the skull
+
+12:49.760 --> 12:51.640
+ during development and placed in these things
+
+12:51.640 --> 12:53.000
+ we call eye sockets.
+
+12:53.000 --> 12:56.260
+ There's a genetic program for the specific purpose
+
+12:56.260 --> 12:59.320
+ of making sure that three little layers of neurons,
+
+12:59.320 --> 13:01.660
+ nerve cells got squeezed out
+
+13:01.660 --> 13:04.200
+ and form what are called your neural retinas.
+
+13:04.200 --> 13:06.140
+ Now the eyes have a lot of other goodies in them
+
+13:06.140 --> 13:07.280
+ that are very important.
+
+13:07.280 --> 13:08.120
+ And those are the goodies
+
+13:08.120 --> 13:11.340
+ that we're going to focus on a lot today.
+
+13:11.340 --> 13:15.620
+ There's a lens to focus light precisely to the retina.
+
+13:15.620 --> 13:18.460
+ If you're somebody who requires eyeglasses or contacts,
+
+13:19.440 --> 13:22.340
+ chances are you don't do that correctly.
+
+13:22.340 --> 13:24.500
+ And so that's why you use other lenses
+
+13:24.500 --> 13:26.560
+ like eyeglasses or contacts.
+
+13:26.560 --> 13:28.060
+ There are also other pieces of the eye
+
+13:28.060 --> 13:30.520
+ that are designed to keep the eye lubricated.
+
+13:30.520 --> 13:32.800
+ You also have these things that we call eyelashes.
+
+13:32.800 --> 13:34.060
+ Most people don't know this,
+
+13:34.060 --> 13:37.960
+ but eyelashes are there to trigger the blink reflex
+
+13:37.960 --> 13:40.180
+ if a piece of dust or something gets in front of your eye.
+
+13:40.180 --> 13:42.300
+ It's a beautiful adaptation of nature.
+
+13:43.140 --> 13:44.880
+ They aren't just aesthetically nice.
+
+13:44.880 --> 13:46.900
+ Costello happens to have very long eyelashes.
+
+13:46.900 --> 13:49.280
+ He gets compliments about this all the time.
+
+13:49.280 --> 13:50.700
+ Maybe you have long eyelashes.
+
+13:50.700 --> 13:52.560
+ I don't have particularly long eyelashes,
+
+13:52.560 --> 13:54.260
+ but the eyelashes are there
+
+13:54.260 --> 13:56.220
+ so that if a piece of dust or something
+
+13:56.220 --> 13:57.860
+ starts to head towards the cornea,
+
+13:57.860 --> 13:59.660
+ the eye blinks very, very fast.
+
+13:59.660 --> 14:03.780
+ It's the fastest reflex you own is your eye blink reflex.
+
+14:03.780 --> 14:06.140
+ We also have these things called eyelids.
+
+14:06.140 --> 14:08.680
+ Now, eyelids might seem like the most boring topic of all,
+
+14:08.680 --> 14:10.460
+ but they are incredibly fascinating.
+
+14:10.460 --> 14:12.020
+ Today, we're going to talk about
+
+14:12.020 --> 14:14.740
+ how you can actually use your visual system
+
+14:14.740 --> 14:17.380
+ to increase your levels of alertness
+
+14:17.380 --> 14:19.380
+ based on the neural circuits
+
+14:19.380 --> 14:22.660
+ that link your brainstem with your eyelids.
+
+14:22.660 --> 14:24.800
+ And no, we are not going to have a blinking contest
+
+14:24.800 --> 14:27.020
+ because I would win and you would lose,
+
+14:27.020 --> 14:28.860
+ and that wouldn't be fun for you.
+
+14:28.860 --> 14:33.900
+ So let's talk about what the eyes do for vision.
+
+14:33.900 --> 14:36.260
+ Basically, the entire job of the eyes
+
+14:36.260 --> 14:38.620
+ is to collect light information
+
+14:38.620 --> 14:41.280
+ and send it off to the rest of the brain
+
+14:41.280 --> 14:43.140
+ in a form that the brain can understand.
+
+14:43.140 --> 14:45.580
+ Remember, no light actually gets in
+
+14:45.580 --> 14:47.020
+ past those neural retinas.
+
+14:47.020 --> 14:49.060
+ It gets to the neural retina,
+
+14:49.060 --> 14:51.680
+ and we have specific cells in the eye
+
+14:51.680 --> 14:52.820
+ called photoreceptors.
+
+14:52.820 --> 14:56.100
+ They come in two different types, rods and cones.
+
+14:56.100 --> 15:00.920
+ Cones are mainly responsible for daytime vision,
+
+15:00.920 --> 15:04.540
+ and the rods are mainly responsible for vision at night
+
+15:04.540 --> 15:07.200
+ or under low light conditions, generally speaking.
+
+15:08.160 --> 15:12.220
+ So basically what happens is if your eyelids are open,
+
+15:12.220 --> 15:17.220
+ light comes into the eye, the lens focuses that light,
+
+15:17.260 --> 15:19.580
+ light is also just called photons, light energy,
+
+15:19.580 --> 15:24.580
+ onto the retina, these photoreceptors, the rods and cones,
+
+15:24.780 --> 15:26.620
+ have chemical reactions inside them
+
+15:26.620 --> 15:28.720
+ that involve things like vitamin A,
+
+15:29.820 --> 15:33.860
+ and that chemical reaction converts the light
+
+15:33.860 --> 15:35.460
+ into electricity.
+
+15:35.460 --> 15:37.860
+ Now, that might seem incredibly abstract,
+
+15:37.860 --> 15:40.260
+ but the way to think about this is very similar to,
+
+15:40.260 --> 15:42.580
+ for instance, you have touch receptors on your skin,
+
+15:42.580 --> 15:44.580
+ and when you press on those touch receptors,
+
+15:44.580 --> 15:47.220
+ they convert pressure, physical pressure,
+
+15:47.220 --> 15:50.260
+ into electrical information, and those neurons send it up
+
+15:50.260 --> 15:52.740
+ to your spinal cord and brain can register that somebody
+
+15:52.740 --> 15:56.580
+ or you are touching the top of your hand, as I'm doing now.
+
+15:56.580 --> 15:57.840
+ With the eyes and the retina,
+
+15:57.840 --> 15:59.280
+ it's just that light gets converted
+
+15:59.280 --> 16:01.460
+ into electrical information.
+
+16:01.460 --> 16:03.460
+ Within the eye, within the retina,
+
+16:03.460 --> 16:06.800
+ there are then a series of stages of processing,
+
+16:07.660 --> 16:10.820
+ and that information eventually gets sent into the brain
+
+16:10.820 --> 16:13.420
+ by a very specific class of neurons.
+
+16:13.420 --> 16:15.820
+ I would like you to know the names of these neurons.
+
+16:15.820 --> 16:17.700
+ They're called retinal ganglion cells,
+
+16:17.700 --> 16:18.940
+ so the only thing you need to know
+
+16:18.940 --> 16:21.220
+ about the neuroscience of the eye at this point
+
+16:21.220 --> 16:22.920
+ are that they're rods and cones.
+
+16:22.920 --> 16:25.900
+ The cones are involved in bright daytime vision,
+
+16:25.900 --> 16:28.980
+ and rods are involved in more dusk or nighttime vision,
+
+16:29.900 --> 16:32.660
+ and you've got these cells called retinal ganglion cells
+
+16:32.660 --> 16:35.720
+ that send the information off to the rest of the brain.
+
+16:35.720 --> 16:37.360
+ Now, here's what's incredible.
+
+16:37.360 --> 16:39.000
+ I just want you to ponder this for a second.
+
+16:39.000 --> 16:40.460
+ This still blows my mind.
+
+16:41.920 --> 16:43.880
+ Everything you see around you,
+
+16:43.880 --> 16:47.640
+ you're not actually seeing those objects directly.
+
+16:47.640 --> 16:51.040
+ What you're doing is you're making a best guess
+
+16:51.040 --> 16:53.920
+ about what's there based on the pattern of electricity
+
+16:53.920 --> 16:55.900
+ that arrives in your brain.
+
+16:55.900 --> 16:57.880
+ Now, that might just seem totally wild
+
+16:57.880 --> 17:00.360
+ and hard to wrap your head around,
+
+17:00.360 --> 17:02.200
+ but think about it this way,
+
+17:02.200 --> 17:04.640
+ because this is the way it actually works.
+
+17:04.640 --> 17:09.460
+ Let's take an example of a color like green or blue.
+
+17:09.460 --> 17:14.260
+ You have cones in your eye that respond best
+
+17:14.260 --> 17:16.420
+ to the wavelength of light
+
+17:16.420 --> 17:19.520
+ that is reflected off, say, a green apple.
+
+17:19.520 --> 17:21.200
+ So you don't actually see the green apple.
+
+17:21.200 --> 17:24.460
+ What you see is the light bouncing off that green apple,
+
+17:24.460 --> 17:27.120
+ and it goes into your eye,
+
+17:27.120 --> 17:30.960
+ and you see it and perceive it as round and green,
+
+17:30.960 --> 17:33.640
+ but not because you see anything green.
+
+17:33.640 --> 17:36.400
+ No green light arrives in your brain.
+
+17:36.400 --> 17:39.560
+ What happens is your brain actually compares
+
+17:39.560 --> 17:43.600
+ the amount of green reflection coming off that apple
+
+17:43.600 --> 17:47.880
+ to the amount of red and blue around it.
+
+17:47.880 --> 17:49.160
+ Well, you might say, well,
+
+17:49.160 --> 17:51.360
+ the green apple is sitting on a brown table
+
+17:51.360 --> 17:53.080
+ or a white surface.
+
+17:53.080 --> 17:56.040
+ Well, then it will appear very green
+
+17:56.040 --> 18:00.080
+ because the amount of wavelength of light for green
+
+18:00.080 --> 18:03.980
+ is very high, and the amount for red is very low,
+
+18:03.980 --> 18:06.720
+ and so it looks very green, okay?
+
+18:06.720 --> 18:09.960
+ So we don't actually see anything directly.
+
+18:09.960 --> 18:13.280
+ What the brain is receiving is a series of signals,
+
+18:13.280 --> 18:16.960
+ electrical signals, and it's comparing electrical signals
+
+18:16.960 --> 18:19.100
+ in order to come up with what we call these perceptions,
+
+18:19.100 --> 18:21.860
+ like I see something green, a green apple, or I see red.
+
+18:21.860 --> 18:23.760
+ Let me give you a slightly different example.
+
+18:23.760 --> 18:26.620
+ If you were to play a key on the piano,
+
+18:26.620 --> 18:28.500
+ let's say you play, I'm not a musician,
+
+18:28.500 --> 18:29.340
+ but I'm going to, so I'm,
+
+18:29.340 --> 18:31.880
+ hopefully I won't get this too incorrectly,
+
+18:31.880 --> 18:34.280
+ but let's say you have like E sharp,
+
+18:34.280 --> 18:36.480
+ and maybe it's on ding, ding, ding, ding, ding.
+
+18:36.480 --> 18:41.380
+ If the brain gets that signal, it doesn't actually know E.
+
+18:41.380 --> 18:43.640
+ That's what, it doesn't recognize it
+
+18:43.640 --> 18:46.520
+ until you were to play another key next to it,
+
+18:46.520 --> 18:47.880
+ dun, dun, dun, dun, dun,
+
+18:47.880 --> 18:49.420
+ and what it does is it does the math,
+
+18:49.420 --> 18:53.040
+ it does the subtraction, and it compares those two.
+
+18:53.040 --> 18:55.800
+ So when we see something green or we see something red
+
+18:55.800 --> 18:57.240
+ or we see something blue,
+
+18:57.240 --> 18:58.720
+ we're not actually seeing it directly.
+
+18:58.720 --> 19:00.200
+ The brain is making a guess
+
+19:00.200 --> 19:02.860
+ about how green or red or blue that thing is
+
+19:02.860 --> 19:07.000
+ by comparing what's around it, okay?
+
+19:07.000 --> 19:08.780
+ And if that seems hard to wrap your head around,
+
+19:08.780 --> 19:11.400
+ don't worry because we will explain it
+
+19:11.400 --> 19:12.640
+ in more depth going forward,
+
+19:12.640 --> 19:14.720
+ but I really want people to understand this,
+
+19:14.720 --> 19:19.720
+ that vision, eyesight is not looking at things directly
+
+19:20.120 --> 19:22.400
+ and that information getting directly into your brain.
+
+19:22.400 --> 19:24.120
+ It is translated.
+
+19:24.120 --> 19:27.320
+ Light information is transformed into electrical signals
+
+19:27.320 --> 19:29.800
+ that your visual system exquisitely understands.
+
+19:29.800 --> 19:31.200
+ Now, what does this mean?
+
+19:31.200 --> 19:32.520
+ Why should you care about this?
+
+19:32.520 --> 19:36.240
+ Well, if you have a dog like I do or a cat,
+
+19:36.240 --> 19:38.040
+ they are not colorblind,
+
+19:38.040 --> 19:43.040
+ but they lack the cones that respond to red,
+
+19:43.160 --> 19:45.160
+ meaning long wavelength light.
+
+19:45.160 --> 19:46.720
+ So what does that mean?
+
+19:46.720 --> 19:48.840
+ That means that when they see green,
+
+19:48.840 --> 19:50.900
+ it's different than the green you see,
+
+19:51.960 --> 19:55.420
+ not because that apple isn't visible to them,
+
+19:55.420 --> 19:58.560
+ but because they aren't able to compare it to red
+
+19:58.560 --> 20:00.320
+ and you are.
+
+20:00.320 --> 20:03.160
+ As a consequence, when they look at a green lawn,
+
+20:03.160 --> 20:06.140
+ it looks more brownish or orange to them.
+
+20:06.140 --> 20:10.600
+ When you wear a red shirt in front of your dog or cat,
+
+20:10.600 --> 20:13.240
+ if you see a stop sign and they see a stop sign,
+
+20:13.240 --> 20:16.560
+ they see orangish brown and you see red,
+
+20:16.560 --> 20:18.400
+ presuming that you are a trichromat,
+
+20:18.400 --> 20:20.680
+ meaning you have three color vision.
+
+20:20.680 --> 20:24.000
+ So this is all to say that every animal
+
+20:24.000 --> 20:26.840
+ sees the world differently depending on whether or not
+
+20:26.840 --> 20:29.520
+ they have one or two or three of these different cones,
+
+20:29.520 --> 20:31.640
+ the red, blue, or green cones.
+
+20:31.640 --> 20:35.660
+ If you are a mantis shrimp of all things,
+
+20:35.660 --> 20:40.660
+ you see hundreds of colors that human beings can't see.
+
+20:42.460 --> 20:45.980
+ Many animals see into visual ranges
+
+20:45.980 --> 20:47.560
+ that you and I can't see in.
+
+20:47.560 --> 20:50.040
+ So for instance, a pit viper senses heat emissions.
+
+20:50.040 --> 20:53.180
+ It literally sees the heat coming off of you
+
+20:53.180 --> 20:55.760
+ or of an animal that they want to eat.
+
+20:55.760 --> 20:59.760
+ If you are a ground squirrel, you can see ultraviolet light.
+
+20:59.760 --> 21:00.820
+ This is going to sound kind of weird,
+
+21:00.820 --> 21:03.720
+ but ground squirrels actually signal one another
+
+21:03.720 --> 21:06.760
+ by standing up outside and shining sunlight
+
+21:06.760 --> 21:08.880
+ off each other's stomachs to each other,
+
+21:08.880 --> 21:10.760
+ signaling at a distance, just like, you know,
+
+21:10.760 --> 21:12.240
+ you could signal somebody with a mirror
+
+21:12.240 --> 21:13.960
+ in sunlight at distance.
+
+21:13.960 --> 21:15.240
+ There are species of primates,
+
+21:15.240 --> 21:16.640
+ this isn't very pleasant to think about,
+
+21:16.640 --> 21:18.160
+ that urinate on their hands
+
+21:18.160 --> 21:19.620
+ and then wipe it all over their stomach
+
+21:19.620 --> 21:22.160
+ and then use that sunlight to reflect
+
+21:22.160 --> 21:23.240
+ different signals to each other.
+
+21:23.240 --> 21:24.080
+ I don't know what they're saying.
+
+21:24.080 --> 21:25.680
+ We always assume it's something cute and nice,
+
+21:25.680 --> 21:27.600
+ but maybe they're insulting each other.
+
+21:27.600 --> 21:30.080
+ So this actually gets right down to the heart
+
+21:30.080 --> 21:32.220
+ of these bigger questions like consciousness.
+
+21:32.220 --> 21:33.080
+ What do we see?
+
+21:33.080 --> 21:33.920
+ What's out there?
+
+21:33.920 --> 21:38.160
+ How much of life is really accessible to us?
+
+21:38.160 --> 21:39.320
+ And I could go on and on.
+
+21:39.320 --> 21:42.160
+ You know, this used to be kind of an obsession of mine
+
+21:42.160 --> 21:44.220
+ when I was coming up in the field of visual neuroscience
+
+21:44.220 --> 21:45.800
+ to understand how different animals
+
+21:45.800 --> 21:48.320
+ see the world compared to us.
+
+21:48.320 --> 21:50.680
+ You know, I'll give one more example, a diving bird,
+
+21:50.680 --> 21:52.800
+ you know, a bird that flies over the ocean.
+
+21:52.800 --> 21:54.760
+ It has an incredible task.
+
+21:54.760 --> 21:56.920
+ It has to both view the horizon
+
+21:56.920 --> 21:58.560
+ and it has to view schools of fish.
+
+21:58.560 --> 22:01.840
+ And then it has to make a trajectory down into the water
+
+22:01.840 --> 22:03.520
+ and grab one of those fish to eat.
+
+22:03.520 --> 22:05.840
+ And the water has what's called a refractory index.
+
+22:05.840 --> 22:08.580
+ It actually shifts like a prism,
+
+22:08.580 --> 22:11.720
+ the impression or the perception of where that fish is.
+
+22:11.720 --> 22:14.040
+ If the bird sees the fish right below it,
+
+22:14.040 --> 22:17.940
+ it has to know, it has to adjust its diving trajectory
+
+22:17.940 --> 22:20.480
+ just right because it knows that that fish
+
+22:20.480 --> 22:22.500
+ actually isn't where it sees it.
+
+22:22.500 --> 22:25.280
+ It's probably a few inches ahead or to the side of that
+
+22:25.280 --> 22:29.160
+ because of the way that water diverts the image.
+
+22:29.160 --> 22:31.600
+ If you've ever dropped a coin to the bottom of a pool,
+
+22:31.600 --> 22:34.940
+ if you go straight down looking at that location,
+
+22:34.940 --> 22:36.320
+ if you were to look from the top of the pool
+
+22:36.320 --> 22:38.140
+ and you dive straight down with your eyes closed,
+
+22:38.140 --> 22:41.100
+ you will miss because the water refracts.
+
+22:41.100 --> 22:43.340
+ It shifts the visual image.
+
+22:43.340 --> 22:46.400
+ Well, diving birds have an arrangement
+
+22:46.400 --> 22:49.560
+ of these retinal cells that communicate to the brain.
+
+22:49.560 --> 22:51.760
+ That's both a streak to view the horizon
+
+22:51.760 --> 22:52.800
+ because they need to know where they are
+
+22:52.800 --> 22:53.840
+ relative to the horizon.
+
+22:53.840 --> 22:56.500
+ And they have a pupil like we do on the bottom of their eye
+
+22:56.500 --> 22:59.400
+ so that they can make very accurate dive
+
+22:59.400 --> 23:01.120
+ and attacks on these schools of fish
+
+23:01.120 --> 23:03.440
+ and catch fish and eat those fish.
+
+23:03.440 --> 23:05.920
+ We just have pupils in the middle of our eyes.
+
+23:05.920 --> 23:08.360
+ So there's a ton about the optics of the eye
+
+23:08.360 --> 23:10.500
+ and the way that it communicates with the brain
+
+23:10.500 --> 23:12.040
+ that allows us to see.
+
+23:12.040 --> 23:13.500
+ We could spend hours talking about this,
+
+23:13.500 --> 23:15.960
+ but what I'd like to embed in your mind
+
+23:15.960 --> 23:19.280
+ is that what you experience in the outside world
+
+23:19.280 --> 23:23.280
+ is bottlenecked, it's limited by which wavelengths,
+
+23:23.280 --> 23:26.740
+ which colors, if you will, of light that you can see,
+
+23:26.740 --> 23:28.960
+ that your brain is coming up with a best guess
+
+23:28.960 --> 23:32.840
+ about what's there, it doesn't actually know what's there.
+
+23:32.840 --> 23:36.080
+ And that your vision is distinctly different
+
+23:36.080 --> 23:38.120
+ from say the vision of a dog
+
+23:38.120 --> 23:40.160
+ or from the vision of somebody who's a dichromat,
+
+23:40.160 --> 23:42.520
+ meaning they don't have a red cone.
+
+23:42.520 --> 23:46.880
+ A lot of people in particular about one in 80 males
+
+23:46.880 --> 23:49.120
+ lacks a red cone and therefore sees the world
+
+23:49.120 --> 23:50.880
+ much the same way that Costello does,
+
+23:50.880 --> 23:53.780
+ although he sees it from just much lower toward the ground.
+
+23:54.720 --> 23:57.140
+ So that's what I'd like you to understand
+
+23:57.140 --> 23:59.960
+ about the way the eye communicates with the brain.
+
+23:59.960 --> 24:02.240
+ I would also like you to understand
+
+24:02.240 --> 24:06.860
+ that the brain itself is making these guesses
+
+24:06.860 --> 24:10.120
+ and that those guesses are largely right.
+
+24:10.120 --> 24:11.680
+ How do I know that?
+
+24:11.680 --> 24:13.220
+ Well, they're right because when you reach out
+
+24:13.220 --> 24:15.360
+ to grab a glass, most of the time you grab the glass
+
+24:15.360 --> 24:17.360
+ and you don't miss, right?
+
+24:17.360 --> 24:19.220
+ Most of the time when you make judgments
+
+24:19.220 --> 24:20.560
+ about the world around you
+
+24:20.560 --> 24:23.580
+ based on your visual impression of them,
+
+24:23.580 --> 24:26.260
+ it allows you to move functionally through the world.
+
+24:27.240 --> 24:28.640
+ But let me give you some examples
+
+24:28.640 --> 24:31.800
+ of where this guessing is happening right now.
+
+24:31.800 --> 24:34.740
+ And it's so incredible that to this day,
+
+24:34.740 --> 24:35.960
+ this still blows my mind.
+
+24:35.960 --> 24:38.200
+ Cover one eye with one hand,
+
+24:38.200 --> 24:40.560
+ if you're driving, maybe don't do this.
+
+24:40.560 --> 24:42.300
+ If you're viewing the world around you,
+
+24:42.300 --> 24:44.940
+ presumably you can see everything that's out there.
+
+24:44.940 --> 24:47.120
+ I could do this with one eye or the other eye.
+
+24:47.120 --> 24:48.760
+ You probably see better out of one or the other,
+
+24:48.760 --> 24:50.080
+ and we'll talk about that.
+
+24:51.880 --> 24:53.840
+ You have a giant blind spot
+
+24:53.840 --> 24:56.320
+ in the middle of your visual field.
+
+24:56.320 --> 24:57.600
+ It's called your blind spot.
+
+24:57.600 --> 24:59.560
+ It is the spot in which the connections,
+
+24:59.560 --> 25:01.840
+ the wires from all those retinal ganglion cells
+
+25:01.840 --> 25:04.600
+ exit the back of the eye and head off toward the brain.
+
+25:06.240 --> 25:07.640
+ In other words, you are blind
+
+25:07.640 --> 25:10.020
+ for a huge spot of your central vision,
+
+25:10.020 --> 25:11.880
+ the part of your vision that's highest acuity,
+
+25:11.880 --> 25:15.560
+ highest detail, and yet you don't see that ever.
+
+25:15.560 --> 25:17.880
+ You cover one eye and you see perfectly fine.
+
+25:17.880 --> 25:19.080
+ And it's not just because your eye
+
+25:19.080 --> 25:20.640
+ is moving around really quickly.
+
+25:20.640 --> 25:23.900
+ Your brain is guessing what's in that spot,
+
+25:23.900 --> 25:25.500
+ which is absolutely incredible.
+
+25:25.500 --> 25:28.120
+ And so you don't see that blind spot.
+
+25:28.120 --> 25:30.300
+ This is happening all the time.
+
+25:30.300 --> 25:32.320
+ Now, when you have two eyes open,
+
+25:32.320 --> 25:34.140
+ the way that your eyes are positioned in your head
+
+25:34.140 --> 25:35.100
+ and the way they view the world
+
+25:35.100 --> 25:37.640
+ is such that they fill in each other's blind spot.
+
+25:37.640 --> 25:39.420
+ So it's pretty convenient.
+
+25:39.420 --> 25:42.520
+ But if you cover one eye, that's impossible,
+
+25:42.520 --> 25:45.540
+ and yet you still see the world as complete.
+
+25:45.540 --> 25:48.360
+ So the brain is doing these incredible things.
+
+25:48.360 --> 25:50.900
+ It's also creating depth, a sense of depth,
+
+25:50.900 --> 25:53.400
+ even though what arrives from the retina
+
+25:53.400 --> 25:56.520
+ is essentially a readout of a two-dimensional flat image
+
+25:56.520 --> 25:57.760
+ so it can sense depth.
+
+25:57.760 --> 25:58.800
+ How do you know depth?
+
+25:58.800 --> 26:01.080
+ Well, this is very simple.
+
+26:01.080 --> 26:03.520
+ Things that are closer to you tend to be larger
+
+26:03.520 --> 26:05.280
+ than things that are far away.
+
+26:05.280 --> 26:06.400
+ Things that are closer to you
+
+26:06.400 --> 26:08.480
+ tend to look like they're moving faster.
+
+26:08.480 --> 26:10.680
+ If you've ever been in a train and you look to your side,
+
+26:10.680 --> 26:14.080
+ the rungs on a fence or the train tracks going by you
+
+26:14.080 --> 26:15.280
+ look like they're going very fast.
+
+26:15.280 --> 26:16.160
+ If you look off in the distance,
+
+26:16.160 --> 26:18.200
+ they look like they're moving very slowly.
+
+26:18.200 --> 26:21.160
+ And there are differences
+
+26:21.160 --> 26:23.320
+ between what's close to you and what's further away.
+
+26:23.320 --> 26:24.880
+ So a little house on the horizon,
+
+26:24.880 --> 26:25.720
+ you don't look at and say,
+
+26:25.720 --> 26:27.700
+ oh, that must be a tiny little house.
+
+26:27.700 --> 26:29.240
+ You have some prior knowledge
+
+26:29.240 --> 26:31.660
+ that things further away are smaller.
+
+26:31.660 --> 26:33.120
+ So that's the main way that you do that.
+
+26:33.120 --> 26:36.600
+ And you compare the location
+
+26:36.600 --> 26:40.400
+ at which information about light lands on the two eyes.
+
+26:40.400 --> 26:43.520
+ So your eyes are slightly offset from one another.
+
+26:43.520 --> 26:45.160
+ So that, for instance, if I look at you,
+
+26:45.160 --> 26:46.760
+ if you're standing right in front of me right now
+
+26:46.760 --> 26:48.000
+ and I were to look at you,
+
+26:48.000 --> 26:49.660
+ the image of your face,
+
+26:49.660 --> 26:52.440
+ the light bouncing off your face, to be more precise,
+
+26:52.440 --> 26:55.560
+ lands on one eye in a slightly different location
+
+26:55.560 --> 26:56.960
+ than it does in the other eye.
+
+26:56.960 --> 26:59.880
+ And then the brain does math.
+
+26:59.880 --> 27:02.200
+ It basically does the equivalent of geometry
+
+27:02.200 --> 27:05.880
+ and trigonometry and essentially figures out
+
+27:05.880 --> 27:09.480
+ how far away you are from me,
+
+27:09.480 --> 27:10.500
+ which is just incredible.
+
+27:10.500 --> 27:13.040
+ So the brain does all this very, very fast.
+
+27:13.040 --> 27:16.160
+ And the brain uses about 40 to 50%
+
+27:16.160 --> 27:19.320
+ of its total real estate for vision.
+
+27:19.320 --> 27:20.940
+ That's how important vision is.
+
+27:20.940 --> 27:22.700
+ Now, for those of you that are blind
+
+27:22.700 --> 27:24.480
+ or low vision or no vision,
+
+27:24.480 --> 27:27.840
+ that real estate in the brain will be taken over
+
+27:27.840 --> 27:31.160
+ by neurons that control a sense of touch
+
+27:31.160 --> 27:32.120
+ and a sense of hearing.
+
+27:32.120 --> 27:34.800
+ And you're indeed hearing and touch are much better,
+
+27:34.800 --> 27:39.360
+ higher acuity and faster in blind people.
+
+27:39.360 --> 27:42.420
+ But for most of you who I presume are sighted,
+
+27:42.420 --> 27:44.140
+ this is how it works.
+
+27:44.140 --> 27:48.240
+ So that's kind of vision from eye to brain in a nutshell.
+
+27:48.240 --> 27:49.740
+ There are a bunch of different stations in the brain
+
+27:49.740 --> 27:50.720
+ that do different things.
+
+27:50.720 --> 27:52.480
+ That's eyesight.
+
+27:52.480 --> 27:56.480
+ Now I want to talk about the other aspect of vision,
+
+27:56.480 --> 27:58.720
+ which is the stuff that you don't perceive,
+
+27:58.720 --> 28:00.720
+ the subconscious stuff.
+
+28:00.720 --> 28:02.720
+ And then we'll transition directly
+
+28:02.720 --> 28:05.400
+ into how you can use light and eyesight
+
+28:05.400 --> 28:07.520
+ to control this other stuff,
+
+28:07.520 --> 28:10.460
+ because it's very important in that other stuff
+
+28:10.460 --> 28:13.880
+ is mood, sleep, and appetite.
+
+28:13.880 --> 28:16.040
+ And there are ways in which you can use
+
+28:16.040 --> 28:18.760
+ the same protocols that I will describe
+
+28:18.760 --> 28:22.520
+ in order to preserve and even enhance your vision,
+
+28:22.520 --> 28:26.440
+ your ability to see things and consciously perceive them.
+
+28:26.440 --> 28:29.500
+ So the protocols we will describe have a lot of carry over
+
+28:29.500 --> 28:32.280
+ to both conscious eyesight
+
+28:32.280 --> 28:35.420
+ and to these subconscious aspects of vision.
+
+28:35.420 --> 28:37.360
+ And I just want you to understand a little bit more
+
+28:37.360 --> 28:40.440
+ about the science of seeing, of eyesight and vision,
+
+28:40.440 --> 28:43.520
+ and then all the protocols will make perfect sense.
+
+28:43.520 --> 28:45.700
+ So as amazing as eyesight is,
+
+28:45.700 --> 28:50.000
+ it actually did not evolve for us to see shapes and colors
+
+28:50.000 --> 28:51.900
+ and motion and form.
+
+28:51.900 --> 28:56.040
+ The most ancient cells in our eyes,
+
+28:56.040 --> 28:58.640
+ and the reason we have eyes,
+
+28:58.640 --> 29:01.580
+ is to communicate information about time of day
+
+29:01.580 --> 29:03.760
+ to the rest of the brain and body.
+
+29:03.760 --> 29:06.040
+ Remember, there's no extraocular photoreception.
+
+29:06.040 --> 29:07.840
+ There's no way for light information
+
+29:07.840 --> 29:10.380
+ to get to all the cells of your body,
+
+29:10.380 --> 29:12.380
+ but every cell in your body needs to know
+
+29:12.380 --> 29:14.040
+ if it's night or day.
+
+29:14.040 --> 29:17.920
+ I talked a little bit about this in the episodes on sleep,
+
+29:17.920 --> 29:20.600
+ and this episode is not about sleep,
+
+29:20.600 --> 29:24.440
+ but I want to emphasize that there is a particular category
+
+29:24.440 --> 29:25.680
+ of retinal ganglion cell.
+
+29:25.680 --> 29:28.800
+ Remember the neurons that connect the retina to the brain
+
+29:30.080 --> 29:32.980
+ that is involved in a special kind of vision
+
+29:32.980 --> 29:35.000
+ that has nothing to do with conscious perception
+
+29:35.000 --> 29:37.760
+ of what's around you, and it's happening right now.
+
+29:37.760 --> 29:39.560
+ It's happening all the time.
+
+29:39.560 --> 29:43.120
+ These are so-called melanopsin retinal ganglion cells
+
+29:43.120 --> 29:46.220
+ named after the opsin that they contain within them.
+
+29:46.220 --> 29:48.120
+ They are essentially photoreceptors.
+
+29:48.120 --> 29:49.760
+ Remember before I said there are photoreceptors
+
+29:49.760 --> 29:50.720
+ and then these ganglion cells?
+
+29:50.720 --> 29:54.000
+ Well, these melanopsin cells, as the name suggests,
+
+29:54.000 --> 29:58.080
+ melanopsin, have their own photoreceptor built inside them.
+
+29:59.960 --> 30:03.480
+ The opsin that they contain is actually very similar
+
+30:03.480 --> 30:07.180
+ to the melanopsin that is present in the skin
+
+30:07.180 --> 30:12.180
+ of some amphibians, and that causes those amphibians
+
+30:12.600 --> 30:17.600
+ to change their skin color in different light conditions.
+
+30:17.720 --> 30:19.820
+ So you have, believe it or not,
+
+30:19.820 --> 30:24.820
+ a little bit of frog skin in your eye, so to speak.
+
+30:25.760 --> 30:28.660
+ Not exactly, but you essentially have the equivalent
+
+30:28.660 --> 30:31.740
+ of what frogs have in their skin in your eye.
+
+30:31.740 --> 30:35.980
+ Now, if you are low vision or no vision,
+
+30:37.200 --> 30:38.800
+ as long as you have retinas,
+
+30:38.800 --> 30:41.020
+ it's very likely you still have these cells,
+
+30:41.020 --> 30:44.380
+ even though you can't see or you don't see well.
+
+30:44.380 --> 30:46.460
+ These cells, retinal ganglion cells,
+
+30:46.460 --> 30:49.140
+ communicate to areas of the brain
+
+30:49.140 --> 30:52.140
+ when particular qualities of light are present
+
+30:52.140 --> 30:57.140
+ in your environment and signal to the brain, therefore,
+
+30:57.260 --> 31:00.480
+ that it's early day or late in the day.
+
+31:00.480 --> 31:03.080
+ These melanopsin ganglion cells
+
+31:03.080 --> 31:05.840
+ are sometimes also called intrinsically photosensitive cells
+
+31:05.840 --> 31:08.500
+ because they behave like photoreceptors.
+
+31:08.500 --> 31:10.100
+ What do these cells respond to
+
+31:10.100 --> 31:11.480
+ and why should you care about them?
+
+31:11.480 --> 31:12.700
+ Well, you should care about them
+
+31:12.700 --> 31:14.680
+ because they regulate when you'll get sleepy,
+
+31:14.680 --> 31:18.600
+ when you'll feel awake, how fast your metabolism is,
+
+31:18.600 --> 31:22.520
+ excuse me, your blood sugar levels, your dopamine levels,
+
+31:22.520 --> 31:24.480
+ and your pain threshold.
+
+31:25.460 --> 31:27.280
+ There are other factors that impact those things,
+
+31:27.280 --> 31:30.380
+ but they are one of the, if not the most powerful
+
+31:30.380 --> 31:32.840
+ determinant of those other things,
+
+31:32.840 --> 31:35.200
+ like mood and pain threshold, sleepiness,
+
+31:35.200 --> 31:36.440
+ wakefulness, et cetera.
+
+31:37.580 --> 31:41.000
+ These melanopsin ganglion cells have been shown
+
+31:41.000 --> 31:46.000
+ by the NITZ group, N-E-I-T-Z,
+
+31:46.000 --> 31:47.320
+ up at the University of Washington
+
+31:47.320 --> 31:49.740
+ and by Samir Hattar's lab and David Berson's lab
+
+31:49.740 --> 31:51.280
+ and a number of other people's labs,
+
+31:51.280 --> 31:54.360
+ Sachin Panda, Iggy Provencio, et cetera,
+
+31:54.360 --> 31:56.600
+ a number of excellent labs in neuroscience
+
+31:56.600 --> 32:01.460
+ to set the circadian clock and to respond best
+
+32:02.460 --> 32:05.800
+ to the contrast between blue and yellow light
+
+32:05.800 --> 32:10.200
+ of the sort that lands on these cells
+
+32:10.200 --> 32:13.120
+ when you view the sun, when it's at so-called
+
+32:13.120 --> 32:15.280
+ low solar angle, when it's low in the sky,
+
+32:15.280 --> 32:18.180
+ either in the morning or in the evening.
+
+32:18.180 --> 32:19.360
+ What does all this mean?
+
+32:19.360 --> 32:21.520
+ It means, and here's the first protocol,
+
+32:21.520 --> 32:23.900
+ and you've probably heard me say this before,
+
+32:23.900 --> 32:26.640
+ but it is appropriate to this episode to say it again.
+
+32:27.800 --> 32:32.280
+ If you are not viewing the sun, sunlight,
+
+32:32.280 --> 32:36.080
+ even through cloud cover for two to 10 minutes
+
+32:36.080 --> 32:37.360
+ in the early part of the day
+
+32:37.360 --> 32:39.620
+ when the sun is still low in the sky
+
+32:39.620 --> 32:42.200
+ and doing the same thing again in the evening,
+
+32:42.200 --> 32:45.840
+ you are severely disrupting your sleep rhythms,
+
+32:45.840 --> 32:49.160
+ your mood, your hormones, your metabolism,
+
+32:49.160 --> 32:51.600
+ your pain threshold, and many other factors,
+
+32:51.600 --> 32:54.760
+ including your ability to learn and remember information.
+
+32:54.760 --> 32:58.480
+ The most central and important aspect of our biology,
+
+32:58.480 --> 33:00.440
+ and perhaps our psychology as well,
+
+33:00.440 --> 33:05.440
+ is to anchor ourselves in time to know when we exist.
+
+33:07.100 --> 33:10.720
+ Okay, it sounds a little bit abstract and philosophical,
+
+33:10.720 --> 33:11.560
+ but it's not.
+
+33:11.560 --> 33:15.520
+ And we don't know time as a real thing
+
+33:15.520 --> 33:16.740
+ because of watches and clocks.
+
+33:16.740 --> 33:19.360
+ We know time at a biological level
+
+33:19.360 --> 33:22.320
+ based on where the sun is and where,
+
+33:22.320 --> 33:25.240
+ which of course is where we are relative to the sun
+
+33:25.240 --> 33:26.800
+ because the earth is spinning around.
+
+33:26.800 --> 33:29.300
+ Now, what does this mean for a protocol?
+
+33:29.300 --> 33:33.620
+ It means see, get that light in your eyes early in the day
+
+33:33.620 --> 33:35.140
+ and anytime you want to be awake.
+
+33:35.140 --> 33:36.840
+ So try and get as much sunlight in your eyes
+
+33:36.840 --> 33:38.160
+ during the day as you safely can.
+
+33:38.160 --> 33:41.280
+ We'll talk about eye safety this episode in depth.
+
+33:41.280 --> 33:45.820
+ And the blue light and the contrast of that blue-yellow,
+
+33:45.820 --> 33:47.380
+ remember, we don't see blue.
+
+33:47.380 --> 33:48.920
+ This is all subconscious.
+
+33:48.920 --> 33:51.100
+ This is blue reflections coming off of sunlight.
+
+33:51.100 --> 33:53.120
+ Blue light, we've been told, is so terrible for us.
+
+33:53.120 --> 33:54.800
+ It is absolutely essential and wonderful
+
+33:54.800 --> 33:56.280
+ for waking up the brain,
+
+33:56.280 --> 33:59.300
+ for triggering all sorts of positive biological reactions,
+
+33:59.300 --> 34:01.620
+ but it needs to be viewed early in the day.
+
+34:01.620 --> 34:02.800
+ If you can't see sunlight
+
+34:02.800 --> 34:05.080
+ because it's the thick cloud cover of,
+
+34:05.080 --> 34:08.380
+ say, you're in the UK and it's winter,
+
+34:08.380 --> 34:11.600
+ then artificial lights, especially blue lights,
+
+34:11.600 --> 34:13.520
+ would be very beneficial to you.
+
+34:13.520 --> 34:16.920
+ You need a lot of this light and its contrast with yellow
+
+34:16.920 --> 34:19.160
+ in order to trigger these melanopsin cells,
+
+34:19.160 --> 34:21.560
+ which would then trigger your circadian clock,
+
+34:21.560 --> 34:22.700
+ which sits above the roof of your mouth,
+
+34:22.700 --> 34:24.760
+ which will signal every cell in your body,
+
+34:24.760 --> 34:27.060
+ including temperature rhythms, et cetera.
+
+34:27.060 --> 34:28.420
+ So first things first,
+
+34:28.420 --> 34:33.420
+ your visual system was not for seeing faces, motion, et cetera.
+
+34:33.940 --> 34:36.080
+ The most ancient cells in your eye,
+
+34:36.960 --> 34:38.920
+ which are there right now as we speak,
+
+34:38.920 --> 34:43.920
+ are there to inform your body and brain about time of day.
+
+34:44.480 --> 34:46.520
+ So you want to get that bright light early in the day.
+
+34:46.520 --> 34:48.100
+ Absolutely essential, two to 10 minutes.
+
+34:48.100 --> 34:50.100
+ You can download the light meter app
+
+34:50.100 --> 34:51.680
+ if you want to measure lux.
+
+34:51.680 --> 34:54.240
+ When I explained how to do that in earlier episodes,
+
+34:54.240 --> 34:56.040
+ it got a little convoluted.
+
+34:56.040 --> 34:59.040
+ Get that two to 10 minutes, ideally without sunglasses.
+
+34:59.040 --> 35:01.460
+ Now, here's another reason to do this,
+
+35:01.460 --> 35:04.680
+ and I've never spoken about this before on any podcast,
+
+35:04.680 --> 35:07.460
+ which is that there have been several studies now
+
+35:07.460 --> 35:11.960
+ in thousands of subjects exploring what can be done
+
+35:11.960 --> 35:15.380
+ to prevent myopia, nearsightedness,
+
+35:15.380 --> 35:17.120
+ and other visual defects.
+
+35:18.200 --> 35:22.480
+ And it turns out in a series of large clinical trials,
+
+35:22.480 --> 35:27.000
+ the conclusion has emerged that getting two hours a day
+
+35:27.000 --> 35:30.360
+ of outdoor time without sunglasses, blue light,
+
+35:30.360 --> 35:32.920
+ this blue light that everyone has demonized,
+
+35:32.920 --> 35:36.340
+ getting that sunlight during the day for two hours,
+
+35:36.340 --> 35:37.960
+ even if you're reading other things
+
+35:37.960 --> 35:39.920
+ and doing other things outside,
+
+35:39.920 --> 35:44.560
+ has a significant effect on reducing the probability
+
+35:44.560 --> 35:47.480
+ that you will get myopia, nearsightedness.
+
+35:48.560 --> 35:50.780
+ Now, whether or not that's also due to the fact
+
+35:50.780 --> 35:52.840
+ that myopia can be caused by viewing things
+
+35:52.840 --> 35:54.600
+ up close too much.
+
+35:54.600 --> 35:55.500
+ So if you're indoors,
+
+35:55.500 --> 35:57.280
+ we tend to be looking at things more closely, right?
+
+35:57.280 --> 35:58.700
+ Unless you have a very large house
+
+35:58.700 --> 36:00.840
+ with walls that are very far away from you.
+
+36:01.960 --> 36:04.760
+ But the effect does seem to be directly related
+
+36:04.760 --> 36:06.120
+ to getting sunlight
+
+36:06.120 --> 36:08.720
+ and not just to the distance that you're viewing.
+
+36:08.720 --> 36:10.680
+ I'm going to describe this study just briefly,
+
+36:10.680 --> 36:11.980
+ but this is a second protocol.
+
+36:11.980 --> 36:13.680
+ So we have one protocol about getting sunlight
+
+36:13.680 --> 36:16.680
+ to set your circadian clocks, meaning wake you up,
+
+36:16.680 --> 36:18.400
+ establish your sleep,
+
+36:18.400 --> 36:20.520
+ will occur about 12 to 16 hours later,
+
+36:20.520 --> 36:21.640
+ that's all in the sleep episode,
+
+36:21.640 --> 36:24.800
+ but also to enhance your mood, to enhance your metabolism,
+
+36:24.800 --> 36:26.920
+ to optimize your hormone levels,
+
+36:26.920 --> 36:28.960
+ and to optimize learning and dopamine levels,
+
+36:28.960 --> 36:31.640
+ this feel-good neuromodulator that's essential
+
+36:31.640 --> 36:34.780
+ to not getting depressed, et cetera.
+
+36:35.840 --> 36:39.680
+ But now's a second protocol, which is ideally,
+
+36:39.680 --> 36:40.860
+ and this includes children,
+
+36:40.860 --> 36:43.560
+ as long as they're not very small infants,
+
+36:43.560 --> 36:46.880
+ ideally, we're all getting two hours of outdoor time,
+
+36:46.880 --> 36:48.660
+ even if there's cloud cover.
+
+36:48.660 --> 36:52.000
+ Remember, we evolved mostly under outdoor conditions,
+
+36:52.000 --> 36:53.360
+ not indoor conditions.
+
+36:53.360 --> 36:57.920
+ And no artificial blue light will not replace this aspect
+
+36:57.920 --> 37:01.460
+ of your visual system and offsetting myopia.
+
+37:01.460 --> 37:03.240
+ So I just want to briefly describe this study
+
+37:03.240 --> 37:04.440
+ because it's a very important one
+
+37:04.440 --> 37:07.040
+ and I don't think it's discussed often enough.
+
+37:07.040 --> 37:08.520
+ There are many studies exploring this,
+
+37:08.520 --> 37:11.080
+ but one of the ones I like the most
+
+37:11.080 --> 37:16.080
+ looked at 693 students and a subset of them
+
+37:16.840 --> 37:21.080
+ were encouraged to spend 11 hours a week outdoors, okay?
+
+37:21.080 --> 37:24.500
+ So most kids are in school five days a week or so.
+
+37:24.500 --> 37:27.060
+ So they're spending 11 hours a week outdoors.
+
+37:27.060 --> 37:28.400
+ They are sometimes reading outdoors.
+
+37:28.400 --> 37:29.800
+ They're not always just playing outdoors.
+
+37:29.800 --> 37:33.000
+ They might be reading books, et cetera.
+
+37:33.860 --> 37:36.320
+ They used eight different schools.
+
+37:36.320 --> 37:37.620
+ And the reason they did this study,
+
+37:37.620 --> 37:38.520
+ I probably should have mentioned,
+
+37:38.520 --> 37:41.520
+ is that myopia, nearsightedness, is a global epidemic.
+
+37:41.520 --> 37:43.820
+ At least that's how it was referred to in the study.
+
+37:43.820 --> 37:46.020
+ I don't know who decides what's an epidemic or not.
+
+37:46.020 --> 37:47.920
+ I think there are thresholds for that.
+
+37:48.920 --> 37:53.920
+ This paper published in the journal Ophthalmology in 2018
+
+37:54.040 --> 37:58.580
+ described the fact that being outdoors for two hours a day
+
+37:58.580 --> 38:01.340
+ could significantly reduce the probability
+
+38:01.340 --> 38:04.580
+ that these children would develop nearsightedness.
+
+38:04.580 --> 38:07.000
+ And it turns out, based on other studies,
+
+38:07.000 --> 38:10.440
+ that adults who spend two hours a day outside,
+
+38:10.440 --> 38:13.400
+ so that would be reading outside, talking outside,
+
+38:13.400 --> 38:14.920
+ no, it does not include light
+
+38:14.920 --> 38:16.640
+ coming through the windshield of your car.
+
+38:16.640 --> 38:18.340
+ I'll explain why in a few moments.
+
+38:19.440 --> 38:23.540
+ Offset the formation of myopia.
+
+38:23.540 --> 38:26.280
+ Now, myopia or nearsightedness has to do with
+
+38:26.280 --> 38:31.280
+ the way that the lens focuses light onto the retina.
+
+38:31.300 --> 38:33.520
+ I don't want to get into a long description of this now,
+
+38:33.520 --> 38:37.080
+ but basically the lens has to bring light to the retina,
+
+38:37.080 --> 38:39.480
+ not in front of it, not behind it.
+
+38:39.480 --> 38:43.220
+ If it brings light to a position in front of the retina,
+
+38:43.220 --> 38:44.740
+ then you won't see clearly.
+
+38:44.740 --> 38:47.000
+ You will need corrective lenses.
+
+38:47.000 --> 38:48.880
+ If it brings light directly to the retina,
+
+38:48.880 --> 38:50.180
+ then you will see clearly.
+
+38:50.180 --> 38:53.180
+ That should be intuitive why that makes sense.
+
+38:53.180 --> 38:55.320
+ So you might say, why would being outside,
+
+38:55.320 --> 38:58.660
+ getting this blue light or this blue-yellow contrast
+
+38:58.660 --> 39:02.560
+ from sunlight actually offset myopia?
+
+39:02.560 --> 39:05.680
+ Well, it probably, and I want to emphasize probably,
+
+39:05.680 --> 39:06.680
+ has to do with the fact
+
+39:06.680 --> 39:08.360
+ that these melanopsin ganglion cells,
+
+39:08.360 --> 39:10.120
+ these intrinsically photosensitive ganglion cells
+
+39:10.120 --> 39:13.080
+ are not just responsible for sleep
+
+39:13.080 --> 39:15.720
+ and talking to your circadian clock and that sort of thing.
+
+39:15.720 --> 39:18.320
+ They also make connections within the retina.
+
+39:18.320 --> 39:21.420
+ They connect to things like, this is for the aficionados,
+
+39:21.420 --> 39:25.440
+ the ciliary body, the iris, the muscles,
+
+39:25.440 --> 39:26.760
+ and the structures within the eye
+
+39:26.760 --> 39:29.000
+ that actually move the lens
+
+39:29.000 --> 39:32.800
+ and allow you to adjust your vision to things up close
+
+39:32.800 --> 39:34.200
+ or far away.
+
+39:34.200 --> 39:37.980
+ And in doing so, they increase or improve the health
+
+39:37.980 --> 39:40.820
+ of the little tiny muscles within the eye
+
+39:40.820 --> 39:42.840
+ that move the lens.
+
+39:42.840 --> 39:44.800
+ And they probably, again,
+
+39:44.800 --> 39:46.620
+ this needs a little bit more work
+
+39:46.620 --> 39:48.720
+ in order to really tamp down the mechanism.
+
+39:48.720 --> 39:52.700
+ They're probably also involved in bringing growth factors
+
+39:52.700 --> 39:57.540
+ and blood supply to the muscles and to the neurons
+
+39:57.540 --> 40:01.640
+ that are responsible for this focusing mechanism
+
+40:01.640 --> 40:02.780
+ within the eye.
+
+40:02.780 --> 40:05.620
+ So remember, your eye is an optical device.
+
+40:05.620 --> 40:06.660
+ You were born with lenses.
+
+40:06.660 --> 40:08.360
+ You don't have to use glasses, or maybe you do,
+
+40:08.360 --> 40:10.280
+ because you have lenses in your eyes.
+
+40:10.280 --> 40:11.780
+ And those lenses need to move.
+
+40:11.780 --> 40:14.440
+ It's not a rigid lens like a glass lens.
+
+40:14.440 --> 40:16.800
+ It's a dynamic lens and has little muscles
+
+40:16.800 --> 40:18.640
+ that pull on it and squeeze it
+
+40:18.640 --> 40:21.420
+ and make it thicker or thinner
+
+40:21.420 --> 40:23.240
+ as you look at things close and far away.
+
+40:23.240 --> 40:25.220
+ And I'll describe how that works in a moment.
+
+40:25.220 --> 40:30.120
+ These melanopsin cells and their activation by sunlight,
+
+40:30.120 --> 40:33.500
+ completely subconsciously, unaware, you're unaware of this,
+
+40:34.360 --> 40:38.160
+ promote the health of this system within the eye
+
+40:38.160 --> 40:43.000
+ and allow you to offset the myopia, nearsightedness.
+
+40:43.000 --> 40:46.200
+ In other words, getting outside for two hours a day,
+
+40:46.200 --> 40:48.080
+ each day, on average,
+
+40:48.080 --> 40:51.560
+ even if there's cloud cover without sunglasses on,
+
+40:51.560 --> 40:56.560
+ will allow you to offset the formation of myopia.
+
+40:56.680 --> 40:58.480
+ Now, you might still form myopia
+
+40:58.480 --> 41:00.160
+ if you have certain structural features
+
+41:00.160 --> 41:01.340
+ or genetic basis for that.
+
+41:01.340 --> 41:03.560
+ We will talk about things that you can do as well.
+
+41:03.560 --> 41:05.800
+ But for everybody, we should be doing this.
+
+41:05.800 --> 41:07.240
+ And that might seem like a lot,
+
+41:07.240 --> 41:09.640
+ but this is the way that your visual system works.
+
+41:09.640 --> 41:13.080
+ Staying indoors, just getting artificial light,
+
+41:13.080 --> 41:17.720
+ and looking at things up close leads to visual defects, okay?
+
+41:17.720 --> 41:21.080
+ It's a form of kind of like visual obesity, right?
+
+41:21.080 --> 41:23.600
+ The posture of your visual system, if you will,
+
+41:23.600 --> 41:26.080
+ is going to be unhealthy if you're just indoors
+
+41:26.080 --> 41:28.240
+ and you're not getting sunlight early in the day
+
+41:28.240 --> 41:30.760
+ and for at least two hours per day.
+
+41:30.760 --> 41:33.840
+ I want to talk a little bit more about how our eyes adjust
+
+41:33.840 --> 41:36.180
+ to things that are close to us or far away.
+
+41:37.120 --> 41:40.220
+ This is an absolutely brilliant consequence
+
+41:40.220 --> 41:42.660
+ of our nature and our design.
+
+41:42.660 --> 41:44.640
+ And whenever I say nature and design,
+
+41:44.640 --> 41:46.240
+ people always ask me, you know,
+
+41:46.240 --> 41:47.440
+ what are you really trying to say?
+
+41:47.440 --> 41:49.920
+ Are you trying to talk about creators?
+
+41:49.920 --> 41:51.400
+ Are you talking about intelligent design?
+
+41:51.400 --> 41:53.720
+ Look, I want to be very frank with you.
+
+41:53.720 --> 41:56.960
+ I wasn't consulted at the design phase and neither were you.
+
+41:56.960 --> 41:59.120
+ And so that is all very interesting,
+
+41:59.120 --> 42:01.220
+ but it's not the topic of this discussion.
+
+42:02.240 --> 42:05.600
+ What is clear and what is the topic of this discussion
+
+42:05.600 --> 42:10.600
+ is that the eye can dynamically adjust where light lands
+
+42:10.640 --> 42:12.720
+ by moving the lens and changing the shape
+
+42:12.720 --> 42:14.080
+ of the lens in your eye
+
+42:14.080 --> 42:16.760
+ through a process called accommodation.
+
+42:16.760 --> 42:19.780
+ And if you understand this process of accommodation,
+
+42:19.780 --> 42:22.880
+ you not only can enhance the health of your eyes
+
+42:22.880 --> 42:26.800
+ in the immediate and long-term, but you also can work better.
+
+42:26.800 --> 42:29.880
+ You'll be able to focus better on physical and mental work.
+
+42:29.880 --> 42:32.800
+ You will be able to concentrate for longer.
+
+42:32.800 --> 42:37.000
+ And I want to emphasize that so much of our mental focus,
+
+42:37.000 --> 42:38.800
+ whether or not it's for cognitive endeavors
+
+42:38.800 --> 42:40.160
+ or physical endeavors,
+
+42:41.240 --> 42:45.200
+ is grounded in where we place our visual focus, okay?
+
+42:45.200 --> 42:46.960
+ What we look at and our ability
+
+42:46.960 --> 42:50.580
+ to hold our concentration there is critically
+
+42:50.580 --> 42:53.780
+ determining how we think.
+
+42:53.780 --> 42:56.920
+ So in other words, if you can hold visual focus,
+
+42:56.920 --> 42:59.520
+ you can hold mental focus, cognitive focus,
+
+42:59.520 --> 43:01.800
+ but holding visual focus is challenging.
+
+43:01.800 --> 43:06.800
+ It's tiring because it requires movement of the lens
+
+43:07.240 --> 43:10.180
+ and that movement of the lens requires activation of muscles
+
+43:10.180 --> 43:11.360
+ and the activation of muscles,
+
+43:11.360 --> 43:13.880
+ as you know from the physical performance episodes,
+
+43:13.880 --> 43:15.440
+ if you saw them and even if you don't,
+
+43:15.440 --> 43:17.520
+ is dictated by neurons.
+
+43:17.520 --> 43:19.180
+ So what is accommodation?
+
+43:19.180 --> 43:24.160
+ Well, it's actually very simple and very elegant.
+
+43:24.160 --> 43:25.880
+ And again, this is another case
+
+43:25.880 --> 43:27.520
+ where whenever I look at this stuff,
+
+43:27.520 --> 43:29.160
+ even though I've been looking at it for years,
+
+43:29.160 --> 43:30.280
+ learning about it for years,
+
+43:30.280 --> 43:31.680
+ it still boggles my mind
+
+43:31.680 --> 43:35.700
+ that we have these apparatus built into our eyes.
+
+43:35.700 --> 43:37.400
+ So we have lenses in our eyes
+
+43:37.400 --> 43:39.680
+ and we have these things called the irises.
+
+43:39.680 --> 43:40.980
+ You're all familiar with the iris
+
+43:40.980 --> 43:44.100
+ because you'll see people's pupils get bigger or smaller
+
+43:44.100 --> 43:47.960
+ and we intuitively think of eyes as having the pupils.
+
+43:47.960 --> 43:52.080
+ If you actually draw two circles on a sheet of paper
+
+43:52.080 --> 43:53.920
+ and they look like two circles,
+
+43:53.920 --> 43:55.760
+ but if you put little dots in the middle of them,
+
+43:55.760 --> 43:56.960
+ they look like eyes.
+
+43:56.960 --> 43:58.780
+ Your brain recognizes those as eyes
+
+43:58.780 --> 44:00.080
+ because one of the first things you see
+
+44:00.080 --> 44:01.960
+ when you come into this world are eyes.
+
+44:01.960 --> 44:04.520
+ And actually, if you put the little dots close together,
+
+44:04.520 --> 44:06.920
+ it'll look kind of wrong, like it's cross-eyed.
+
+44:06.920 --> 44:09.160
+ And if you put them at different locations
+
+44:09.160 --> 44:11.040
+ within those two dots, opposing locations,
+
+44:11.040 --> 44:12.080
+ it'll look Google-eyed.
+
+44:12.080 --> 44:14.160
+ And so your brain is actually filling in all the face
+
+44:14.160 --> 44:16.800
+ and other information, even emotional information,
+
+44:16.800 --> 44:19.360
+ just based on this recognition of eyes.
+
+44:19.360 --> 44:21.600
+ And so there's clearly, we know this,
+
+44:21.600 --> 44:24.720
+ there's real estate further up in the brain
+
+44:24.720 --> 44:29.340
+ that's responsible for analyzing and recognizing faces
+
+44:29.340 --> 44:31.640
+ and the eyes and the position of these little things
+
+44:31.640 --> 44:33.840
+ we call irises and pupils, et cetera,
+
+44:33.840 --> 44:36.900
+ is really important for how we interpret
+
+44:36.900 --> 44:39.480
+ the status of others.
+
+44:39.480 --> 44:40.980
+ And that's why it's such a powerful thing
+
+44:40.980 --> 44:42.360
+ just to put two circles
+
+44:42.360 --> 44:45.680
+ and move the pupils around on paper.
+
+44:45.680 --> 44:47.960
+ In fact, I want to get into a combination,
+
+44:47.960 --> 44:49.220
+ but if you think about it,
+
+44:49.220 --> 44:50.900
+ if one of my pupils was up there
+
+44:50.900 --> 44:51.920
+ and the other one was down there,
+
+44:51.920 --> 44:53.600
+ one was really big and one was really small,
+
+44:53.600 --> 44:55.940
+ that would actually be a sign of pretty severe damage.
+
+44:55.940 --> 44:58.060
+ If someone gets hit hard on the side of the head,
+
+44:58.060 --> 45:00.840
+ you'll notice that they shine a light in one eye.
+
+45:00.840 --> 45:01.740
+ You know why they're doing that?
+
+45:01.740 --> 45:04.360
+ They're actually looking at the other eye.
+
+45:04.360 --> 45:05.400
+ When you shine light of the eye,
+
+45:05.400 --> 45:07.800
+ that pupil constricts to limit the amount of light
+
+45:07.800 --> 45:09.640
+ that comes in so it doesn't damage the eye.
+
+45:09.640 --> 45:11.780
+ This also happens when you walk outside and it's bright.
+
+45:11.780 --> 45:13.440
+ It constricts,
+
+45:13.440 --> 45:16.120
+ but we have what's called the consensual pupil reflex.
+
+45:16.120 --> 45:18.060
+ There's a connection deep in the brainstem,
+
+45:18.060 --> 45:20.460
+ deep back here in the brain near my neck
+
+45:20.460 --> 45:24.000
+ that connects the pupil mechanism for the two eyes
+
+45:24.000 --> 45:25.040
+ and they're looking at the other eye.
+
+45:25.040 --> 45:27.020
+ And if you shine light in one eye
+
+45:27.020 --> 45:29.120
+ and that pupil constricts, but the other one doesn't,
+
+45:29.120 --> 45:31.560
+ there's a good chance there's brainstem damage.
+
+45:31.560 --> 45:34.040
+ This is what they do on the side of a football field
+
+45:34.040 --> 45:35.080
+ or a boxing match,
+
+45:35.080 --> 45:37.760
+ or if someone unfortunately hits their head.
+
+45:37.760 --> 45:39.720
+ So two pupils, and don't freak out
+
+45:39.720 --> 45:42.440
+ if one pupil is a little bit smaller than the other,
+
+45:42.440 --> 45:44.000
+ that doesn't necessarily mean brain damage.
+
+45:44.000 --> 45:46.880
+ But if you suddenly have one pupil bigger than the other,
+
+45:46.880 --> 45:49.800
+ you absolutely want to go see a neurologist right away.
+
+45:49.800 --> 45:52.120
+ So the eyes and the pupils are indicative
+
+45:52.120 --> 45:54.780
+ of things that are happening deep in the brain.
+
+45:54.780 --> 45:58.520
+ Now, accommodation is our ability to accommodate
+
+45:58.520 --> 46:02.060
+ to things that are up close here or further away.
+
+46:02.060 --> 46:04.520
+ And the way this works is that the iris
+
+46:04.520 --> 46:06.520
+ and the musculature and a structure
+
+46:06.520 --> 46:08.640
+ called the ciliary body move the lens.
+
+46:08.640 --> 46:10.940
+ So when you look far away, okay,
+
+46:10.940 --> 46:15.940
+ when you see things far away, your lens actually relaxes.
+
+46:16.280 --> 46:17.920
+ It can flatten out.
+
+46:17.920 --> 46:18.760
+ So I want you to think about this.
+
+46:18.760 --> 46:20.360
+ When you look far away,
+
+46:20.360 --> 46:23.720
+ when it may be anywhere from like 20 feet away from you
+
+46:23.720 --> 46:27.960
+ out to a horizon that's miles or kilometers away from you,
+
+46:27.960 --> 46:29.440
+ the lens can just relax.
+
+46:29.440 --> 46:30.960
+ It can flatten out.
+
+46:30.960 --> 46:33.280
+ And you'll notice that it actually is relaxing
+
+46:33.280 --> 46:35.080
+ to look at a horizon.
+
+46:35.080 --> 46:36.820
+ It's relaxing to look far away.
+
+46:36.820 --> 46:38.940
+ Whereas if I look at something up close to me,
+
+46:38.940 --> 46:41.680
+ like this pen or my phone or a computer screen
+
+46:41.680 --> 46:44.840
+ or this microphone, it takes effort.
+
+46:44.840 --> 46:46.440
+ You'll sense the effort.
+
+46:46.440 --> 46:48.660
+ Now, some of that effort is actually eye movements
+
+46:48.660 --> 46:50.360
+ because you have muscles that can move your eyes
+
+46:50.360 --> 46:52.160
+ within their sockets.
+
+46:52.160 --> 46:55.640
+ But a lot of the work, quote unquote, is neural work
+
+46:55.640 --> 46:59.280
+ of the muscles having to move and contract
+
+46:59.280 --> 47:02.400
+ such that the lens actually gets thicker
+
+47:02.400 --> 47:05.500
+ in order to bring the light to the retina
+
+47:05.500 --> 47:08.240
+ and not to a location in front of it or behind it,
+
+47:08.240 --> 47:10.240
+ so-called accommodation.
+
+47:10.240 --> 47:12.280
+ There's also changes in the size of the pupil
+
+47:12.280 --> 47:14.760
+ as things are closer and further away from you.
+
+47:14.760 --> 47:18.320
+ In fact, there's a simple way to think about this.
+
+47:18.320 --> 47:20.920
+ Healthy pupils are going to dilate
+
+47:20.920 --> 47:23.520
+ when you look at something far away from you.
+
+47:23.520 --> 47:25.600
+ Now, when you see something that excites you
+
+47:25.600 --> 47:28.200
+ or stresses you out, your pupils also get big.
+
+47:28.200 --> 47:29.280
+ Your eyes get wide.
+
+47:29.280 --> 47:33.460
+ But if you look at something far away,
+
+47:33.460 --> 47:35.680
+ your pupils are going to dilate.
+
+47:35.680 --> 47:38.140
+ And when you look at things that are closer to you,
+
+47:38.140 --> 47:39.040
+ when you move them up close,
+
+47:39.040 --> 47:40.600
+ the pupils are going to shrink.
+
+47:40.600 --> 47:43.520
+ That's all part of this accommodation mechanism.
+
+47:43.520 --> 47:44.960
+ Now, you might say,
+
+47:44.960 --> 47:46.560
+ why are you telling me about accommodation?
+
+47:46.560 --> 47:47.400
+ This is crazy.
+
+47:47.400 --> 47:48.240
+ Why are you telling me about this?
+
+47:48.240 --> 47:51.680
+ Well, these days we're spending a lot of time
+
+47:51.680 --> 47:53.960
+ looking at things, mainly our phones up close
+
+47:53.960 --> 47:56.760
+ and computers up close, and we are indoors.
+
+47:56.760 --> 48:00.800
+ If you are a young person, and even if you are 25 or older,
+
+48:00.800 --> 48:02.480
+ and you are spending a lot of time
+
+48:02.480 --> 48:04.280
+ looking at things up close,
+
+48:04.280 --> 48:08.180
+ and you are not allowing your vision to relax,
+
+48:08.180 --> 48:10.440
+ in other words, you are not giving your lens
+
+48:10.440 --> 48:11.800
+ the opportunity to flatten out
+
+48:11.800 --> 48:15.040
+ and for these muscles to relieve themselves of this work,
+
+48:15.960 --> 48:17.760
+ you may or may not have migraine headaches.
+
+48:17.760 --> 48:19.780
+ You may or may not have headaches.
+
+48:19.780 --> 48:22.600
+ You might, and that could be the cause of those.
+
+48:22.600 --> 48:27.100
+ But you are also training your eyes
+
+48:28.100 --> 48:32.840
+ to be good at looking at things up close and not far away.
+
+48:32.840 --> 48:33.920
+ And as a consequence,
+
+48:33.920 --> 48:37.200
+ you are reshaping the neural circuitry in your brain,
+
+48:37.200 --> 48:40.880
+ and it is not good, it is not healthy,
+
+48:40.880 --> 48:43.640
+ to only look at things up close.
+
+48:43.640 --> 48:45.800
+ Now, there are a lot of recommendations out there right now,
+
+48:45.800 --> 48:49.560
+ especially with all the lockdowns of the last 12 to 18 months
+
+48:49.560 --> 48:51.580
+ that people should look up from Zoom every once in a while,
+
+48:51.580 --> 48:53.700
+ or maybe now I'm hearing that people should take calls
+
+48:53.700 --> 48:55.000
+ instead of doing Zoom,
+
+48:55.000 --> 48:56.580
+ or you should look up from your computer screen.
+
+48:56.580 --> 48:59.680
+ It's actually not going to solve the problem
+
+48:59.680 --> 49:01.600
+ just to look up from your computer screen.
+
+49:01.600 --> 49:02.860
+ You need to go to a window.
+
+49:02.860 --> 49:05.400
+ You need to look out at a distance.
+
+49:05.400 --> 49:08.120
+ Ideally, you would even open the window
+
+49:08.120 --> 49:10.480
+ because those windows actually filter out
+
+49:10.480 --> 49:13.400
+ a lot of the blue light that you want during the daytime,
+
+49:13.400 --> 49:14.520
+ a lot of the sunlight.
+
+49:14.520 --> 49:17.120
+ It's actually 50 times less gets through.
+
+49:17.120 --> 49:18.440
+ You want to get out onto a balcony.
+
+49:18.440 --> 49:21.520
+ You want to relax your eyes and look out at the horizon.
+
+49:21.520 --> 49:23.400
+ You want to go into what's called panoramic vision
+
+49:23.400 --> 49:25.000
+ and let your vision expand.
+
+49:25.000 --> 49:28.280
+ You want this lens mechanism to be very elastic.
+
+49:28.280 --> 49:31.200
+ You don't want it to get stuck in that configuration
+
+49:31.200 --> 49:32.300
+ of looking at things up close.
+
+49:32.300 --> 49:35.260
+ Accommodation is a wonderful feature of your visual system,
+
+49:35.260 --> 49:38.160
+ but you don't want to push that too hard,
+
+49:38.160 --> 49:40.620
+ too often or for too long.
+
+49:41.820 --> 49:44.000
+ You want to view the horizon.
+
+49:44.000 --> 49:45.320
+ You want to get outside,
+
+49:45.320 --> 49:48.720
+ not just to lighten the load on your mind
+
+49:48.720 --> 49:49.960
+ or to think about other things,
+
+49:49.960 --> 49:54.260
+ but to maintain the health of your visual system.
+
+49:54.260 --> 49:58.760
+ In other words, you want to exercise these muscles
+
+49:58.760 --> 50:02.140
+ and that involves both the lens moving
+
+50:02.140 --> 50:05.640
+ and getting kind of thicker and relaxing that lens.
+
+50:05.640 --> 50:06.920
+ And the relaxation of the lens
+
+50:06.920 --> 50:08.560
+ is actually one of the best things you can do
+
+50:08.560 --> 50:10.920
+ for the musculature of the inner eye.
+
+50:10.920 --> 50:12.800
+ So what's the protocol?
+
+50:12.800 --> 50:14.920
+ How often should you do this?
+
+50:14.920 --> 50:15.820
+ You might be surprised,
+
+50:15.820 --> 50:19.060
+ but for every 30 minutes of focused work,
+
+50:19.060 --> 50:21.200
+ you probably want to look up every once in a while
+
+50:21.200 --> 50:23.200
+ and just try and relax your face and eye muscles,
+
+50:23.200 --> 50:24.420
+ including your jaw muscles,
+
+50:24.420 --> 50:26.360
+ because all these things are closely linked
+
+50:26.360 --> 50:28.900
+ in the brainstem and allow your eyes
+
+50:28.900 --> 50:30.580
+ to go into so-called panoramic vision,
+
+50:30.580 --> 50:32.320
+ where you're just not really focusing on anything
+
+50:32.320 --> 50:34.800
+ and then refocus on your work.
+
+50:34.800 --> 50:39.800
+ At least every 90 minutes of looking at things up close,
+
+50:40.680 --> 50:42.840
+ or even if you're looking at a screen,
+
+50:42.840 --> 50:45.680
+ a television screen or you're watching a movie
+
+50:45.680 --> 50:49.160
+ or you're indoors, for every 90 minutes of that,
+
+50:49.160 --> 50:53.480
+ you ideally would have at least 20,
+
+50:53.480 --> 50:57.360
+ probably more like 30 minutes of being outside, ideally,
+
+50:57.360 --> 51:02.040
+ but if you can't be outside, of non up close vision.
+
+51:02.040 --> 51:03.220
+ Now you might say, that's impossible.
+
+51:03.220 --> 51:04.520
+ How am I supposed to do that?
+
+51:04.520 --> 51:05.940
+ I'm in an office or I'm in a building.
+
+51:05.940 --> 51:09.520
+ Get to a window, get outside if you can do it safely,
+
+51:09.520 --> 51:13.900
+ get onto a balcony and just let your eyes relax.
+
+51:13.900 --> 51:17.020
+ Many people are experiencing severe vision problems
+
+51:18.000 --> 51:20.160
+ because they're not getting enough sunlight during the day.
+
+51:20.160 --> 51:21.360
+ They have sleep problems
+
+51:21.360 --> 51:24.640
+ because they're not viewing sunlight early in the day.
+
+51:24.640 --> 51:27.840
+ And as I've mentioned in previous episodes,
+
+51:27.840 --> 51:30.140
+ they're getting a lot of artificial stimulation,
+
+51:30.140 --> 51:31.660
+ artificial light stimulation of the eye
+
+51:31.660 --> 51:33.760
+ in the middle of the night.
+
+51:33.760 --> 51:35.880
+ All of this is through the visual system.
+
+51:35.880 --> 51:37.920
+ So migraines, fatigue,
+
+51:38.880 --> 51:42.280
+ challenges with your eyesight getting worse as you age,
+
+51:42.280 --> 51:43.880
+ or even in young people there's a, you know,
+
+51:43.880 --> 51:45.520
+ at least according to the articles,
+
+51:45.520 --> 51:48.480
+ they described it as this epidemic of myopia
+
+51:48.480 --> 51:52.460
+ can largely be dealt with by getting outside,
+
+51:52.460 --> 51:54.280
+ going into panoramic vision,
+
+51:54.280 --> 51:56.800
+ experiencing some distance division,
+
+51:56.800 --> 51:59.000
+ look at things off on the horizon.
+
+51:59.000 --> 52:00.940
+ If you're walking or hiking or biking,
+
+52:00.940 --> 52:02.500
+ not looking at your phone the whole time
+
+52:02.500 --> 52:03.600
+ that you're doing that.
+
+52:03.600 --> 52:06.240
+ If you're at the bus stop or you're commuting,
+
+52:06.240 --> 52:07.920
+ certainly not looking at your phone
+
+52:07.920 --> 52:10.200
+ the entire time you're doing that.
+
+52:10.200 --> 52:11.480
+ So this is vital.
+
+52:11.480 --> 52:13.720
+ And I want to emphasize another protocol,
+
+52:13.720 --> 52:15.320
+ although I don't want to get into it in too much depth,
+
+52:15.320 --> 52:17.500
+ because I want to make sure that I also talk about
+
+52:17.500 --> 52:19.500
+ a number of other important aspects of the visual system
+
+52:19.500 --> 52:21.320
+ that are more related to sight.
+
+52:21.320 --> 52:25.920
+ But getting into optic flow is very important
+
+52:25.920 --> 52:28.220
+ for de-stressing your system.
+
+52:29.380 --> 52:30.720
+ When you move through space,
+
+52:30.720 --> 52:34.560
+ whether or not it's through walking, biking, even swimming,
+
+52:34.560 --> 52:37.480
+ if it's self-generated optic flow,
+
+52:37.480 --> 52:40.080
+ so probably not driving or motorcycling,
+
+52:40.080 --> 52:43.800
+ but yes, bicycling or, I don't know, unicycling.
+
+52:43.800 --> 52:44.960
+ I don't know why I thought about unicycling.
+
+52:44.960 --> 52:46.260
+ There used to be a graduate student at Stanford
+
+52:46.260 --> 52:47.640
+ who was a really impressive unicycler.
+
+52:47.640 --> 52:48.800
+ Those are pretty rare.
+
+52:49.900 --> 52:51.920
+ As long as it's self-generated optic flow,
+
+52:51.920 --> 52:54.520
+ meaning you're generating motion of your body
+
+52:54.520 --> 52:57.560
+ and the visual images around you are passing by
+
+52:57.560 --> 53:00.900
+ on your eyes, that is very good for the visual system.
+
+53:00.900 --> 53:02.960
+ And it's very good for the mood systems
+
+53:02.960 --> 53:05.080
+ and the neuromodulator systems of the brain and body
+
+53:05.080 --> 53:06.280
+ that regulate mood.
+
+53:06.280 --> 53:08.200
+ This is well-established.
+
+53:08.200 --> 53:10.280
+ So I'm not telling people to get away
+
+53:10.280 --> 53:11.400
+ from their phone and their computers.
+
+53:11.400 --> 53:13.640
+ I spend a lot of time staring at a page,
+
+53:13.640 --> 53:16.520
+ drawing, writing, texting, et cetera, just like you do.
+
+53:16.520 --> 53:20.040
+ But we're really talking about some very simple protocols
+
+53:20.040 --> 53:22.200
+ that aren't just designed to improve your sleep,
+
+53:22.200 --> 53:26.200
+ but are really designed to bolster and enhance your vision.
+
+53:26.200 --> 53:27.960
+ And of course, because it's this podcast,
+
+53:27.960 --> 53:30.120
+ we will also talk about things that you can take
+
+53:30.120 --> 53:31.000
+ to improve your vision.
+
+53:31.000 --> 53:35.120
+ But if your visual behavior isn't right,
+
+53:35.120 --> 53:37.320
+ and I do believe we should always start with behaviors
+
+53:37.320 --> 53:39.880
+ and then think about nutrition, supplementation, et cetera.
+
+53:39.880 --> 53:42.120
+ If your behaviors around vision aren't right,
+
+53:42.120 --> 53:45.240
+ you cannot expect to have good, healthy eyesight
+
+53:45.240 --> 53:48.560
+ for a long time, meaning throughout your lifespan.
+
+53:48.560 --> 53:50.360
+ And if your vision is already poor,
+
+53:50.360 --> 53:52.820
+ many of these things that I'm talking about today,
+
+53:52.820 --> 53:54.840
+ perhaps all of them, will improve your vision
+
+53:54.840 --> 53:56.480
+ to some degree.
+
+53:56.480 --> 53:59.040
+ And if your vision is starting to go,
+
+53:59.040 --> 54:01.400
+ then doing these behaviors is likely
+
+54:01.400 --> 54:03.920
+ to really enhance the quality of the vision
+
+54:03.920 --> 54:06.600
+ that you will build and maintain over time.
+
+54:06.600 --> 54:09.780
+ And all of these are essentially zero cost, okay?
+
+54:09.780 --> 54:11.740
+ If you live in a very dark environment,
+
+54:11.740 --> 54:14.740
+ like a cave or outer space,
+
+54:14.740 --> 54:16.520
+ it's going to be hard to do some of this stuff.
+
+54:16.520 --> 54:20.560
+ But if you're on planet earth, even if there's cloud cover,
+
+54:20.560 --> 54:22.960
+ chances are you can do some or most,
+
+54:22.960 --> 54:26.060
+ or even all of these, some, most, or all days.
+
+54:26.060 --> 54:29.280
+ What I'm about to describe next is going to seem so silly
+
+54:29.280 --> 54:32.080
+ on the face of it, but has deep mechanism to support it.
+
+54:32.080 --> 54:37.080
+ Put simply, when you get tired, your eyelids close.
+
+54:39.000 --> 54:41.300
+ And when you're alert, your eyelids are open.
+
+54:42.400 --> 54:46.440
+ That is because you have neurons in your brain
+
+54:46.440 --> 54:49.080
+ that depending on your level of alertness
+
+54:49.080 --> 54:52.160
+ will make it easy or hard to keep your eyes open.
+
+54:53.060 --> 54:55.200
+ Now that's a complete duh,
+
+54:55.200 --> 54:57.300
+ except that we don't often think about the relationship
+
+54:57.300 --> 55:02.300
+ between alertness and where we are looking and our eyelids.
+
+55:02.400 --> 55:05.240
+ Now, I learned this from a colleague of mine in psychiatry
+
+55:05.240 --> 55:06.480
+ who happens to work on hypnosis.
+
+55:06.480 --> 55:07.920
+ I'm not going to hypnotize you right now.
+
+55:07.920 --> 55:10.320
+ That's actually for a future episode.
+
+55:10.320 --> 55:14.520
+ But what happens when we get tired?
+
+55:14.520 --> 55:17.140
+ Our eyelids close and our chin moves down.
+
+55:18.160 --> 55:20.060
+ We tend to nod out this way.
+
+55:20.060 --> 55:22.880
+ If you have ever been in a classroom,
+
+55:22.880 --> 55:24.040
+ certainly not one of mine,
+
+55:24.040 --> 55:25.920
+ but if you've been in a classroom
+
+55:25.920 --> 55:29.680
+ and the lecture is kind of drawing on or it's the afternoon,
+
+55:29.680 --> 55:31.200
+ what you'll notice is that a number of students,
+
+55:31.200 --> 55:34.180
+ their heads are kind of,
+
+55:34.180 --> 55:36.480
+ their eyelids are closing and their chin is dropping.
+
+55:36.480 --> 55:39.160
+ And then you'll see a bunch of heads balancing back up.
+
+55:39.160 --> 55:41.560
+ I was definitely one of those people in class.
+
+55:41.560 --> 55:44.660
+ If it was post-lunch in the afternoon, it's warm,
+
+55:44.660 --> 55:47.400
+ the hum of the air conditioner or whatever it is,
+
+55:47.400 --> 55:49.220
+ and I just out, okay?
+
+55:50.500 --> 55:53.320
+ When we're wide awake, the opposite happens.
+
+55:53.320 --> 55:56.440
+ Our eyelids are open all the way
+
+55:56.440 --> 55:58.360
+ and our chin happens to be up.
+
+55:58.360 --> 56:01.280
+ And no, this is not me telling you to have good posture.
+
+56:01.280 --> 56:04.720
+ However, what I learned from my colleague at Stanford
+
+56:04.720 --> 56:08.560
+ is that these circuits actually act in loops.
+
+56:08.560 --> 56:10.880
+ When we look up,
+
+56:10.880 --> 56:13.640
+ maybe it's because these melanopsin cells
+
+56:13.640 --> 56:15.660
+ are in the bottom of our retina, they are.
+
+56:15.660 --> 56:17.240
+ And maybe it's because they're there
+
+56:17.240 --> 56:21.720
+ in order to view sunlight, which is overhead, which it is.
+
+56:21.720 --> 56:24.360
+ But that system of alertness
+
+56:24.360 --> 56:26.560
+ is linked to the position of our eyes.
+
+56:26.560 --> 56:28.520
+ So when we look up and our eyelids are up,
+
+56:28.520 --> 56:31.520
+ it actually has a purpose.
+
+56:31.520 --> 56:35.760
+ It actually creates a wakefulness signal for the brain.
+
+56:35.760 --> 56:37.900
+ And so while this might seem like the silliest
+
+56:37.900 --> 56:41.280
+ and simple tool that I might ever describe on this podcast,
+
+56:41.280 --> 56:44.040
+ if you are feeling tired,
+
+56:44.040 --> 56:45.840
+ it actually can be beneficial
+
+56:45.840 --> 56:47.520
+ to the wakefulness systems of the brain,
+
+56:47.520 --> 56:48.880
+ including the locus coeruleus
+
+56:48.880 --> 56:51.020
+ and these areas that release norepinephrine,
+
+56:51.020 --> 56:54.600
+ to actually look up, to actually look up toward the ceiling.
+
+56:54.600 --> 56:56.360
+ You don't want your chin all the way back,
+
+56:56.360 --> 56:59.480
+ but to look up and to raise your eyes toward the ceiling
+
+56:59.480 --> 57:02.920
+ and to look up and try and hold that for 10 to 15 seconds.
+
+57:02.920 --> 57:04.760
+ So this isn't looking up and closing your eyes
+
+57:04.760 --> 57:07.120
+ like on a nice sunny day, that's relaxing.
+
+57:07.120 --> 57:11.120
+ This is looking up and actually looking up at the ceiling.
+
+57:11.120 --> 57:13.680
+ It actually triggers some of the areas of the brain
+
+57:13.680 --> 57:15.400
+ that are involved in wakefulness.
+
+57:15.400 --> 57:18.220
+ So if you're somebody who's falling asleep at your work,
+
+57:18.220 --> 57:20.220
+ this can be very beneficial.
+
+57:20.220 --> 57:25.220
+ Likewise, many people are looking at their phone all day
+
+57:26.720 --> 57:28.360
+ and their chin is down,
+
+57:28.360 --> 57:29.860
+ and then they're sitting at a computer
+
+57:29.860 --> 57:31.000
+ that's positioned below them
+
+57:31.000 --> 57:33.960
+ and they're having trouble staying awake or focusing.
+
+57:33.960 --> 57:34.840
+ It can be very bad.
+
+57:34.840 --> 57:36.120
+ I tell Costello this all the time
+
+57:36.120 --> 57:37.160
+ because he's always falling asleep
+
+57:37.160 --> 57:38.380
+ while he's trying to do his work.
+
+57:38.380 --> 57:42.880
+ Positioning your computer screen up at eye level
+
+57:42.880 --> 57:46.360
+ or sometimes having it actually above eye level
+
+57:46.360 --> 57:49.120
+ can actually create wakefulness and alertness
+
+57:49.120 --> 57:50.400
+ for the work that you're going to do.
+
+57:50.400 --> 57:53.220
+ This is simply because of this connection
+
+57:53.220 --> 57:55.920
+ between the brainstem circuits and the other neural circuits
+
+57:55.920 --> 58:00.920
+ that control wakefulness and eyelids opening and looking up.
+
+58:01.920 --> 58:04.480
+ Okay, so again, it's remarkably simple,
+
+58:04.480 --> 58:05.680
+ almost laughably simple,
+
+58:05.680 --> 58:08.600
+ but it's grounded in some of the most hardwired,
+
+58:08.600 --> 58:12.160
+ meaning present from birth aspects of our neural circuitry.
+
+58:12.160 --> 58:15.480
+ And norepinephrine released from locus coeruleus
+
+58:15.480 --> 58:16.960
+ isn't just a mouthful.
+
+58:16.960 --> 58:20.960
+ It's a really interesting and powerful mechanism
+
+58:20.960 --> 58:22.600
+ for how the rest of the brain wakes up.
+
+58:22.600 --> 58:25.240
+ Locus coeruleus hoses the rest of your brain
+
+58:25.240 --> 58:28.980
+ with norepinephrine in order to wake up those circuits
+
+58:28.980 --> 58:30.200
+ for work and attention.
+
+58:30.200 --> 58:34.200
+ And so eyes up is actually a way,
+
+58:34.200 --> 58:36.560
+ a route into increased alertness.
+
+58:36.560 --> 58:39.480
+ Eyes down is a route into sleepiness,
+
+58:39.480 --> 58:41.520
+ into reduced alertness.
+
+58:41.520 --> 58:45.320
+ And I have only one friend that texts up here,
+
+58:45.320 --> 58:47.480
+ like on the street, holds his phone up here.
+
+58:47.480 --> 58:49.000
+ It looks ridiculous.
+
+58:49.000 --> 58:52.960
+ And yet, you know, if we were trying to create
+
+58:52.960 --> 58:55.300
+ more sense of alertness, if that's your goal,
+
+58:55.300 --> 58:58.520
+ positioning computer screens up high, chin up,
+
+58:58.520 --> 59:00.400
+ looking up if you need to kind of create
+
+59:00.400 --> 59:03.000
+ an alertness signal, not always being chinned down
+
+59:03.000 --> 59:06.760
+ and texting or working into typewriters or reading below us
+
+59:06.760 --> 59:10.400
+ is actually going to send a recurring wakefulness signal.
+
+59:10.400 --> 59:11.840
+ When things are up, we tend to be alert.
+
+59:11.840 --> 59:14.160
+ When everything's focused down, including our eyes,
+
+59:14.160 --> 59:16.880
+ it tends to have a more suppressive or sedative type
+
+59:16.880 --> 59:19.120
+ signaling to the deeper centers of the brain.
+
+59:19.120 --> 59:22.120
+ Now, before we move on to the science and tools
+
+59:22.120 --> 59:24.660
+ and protocols related to pattern vision,
+
+59:24.660 --> 59:26.800
+ I want to mention another study that was done
+
+59:26.800 --> 59:28.420
+ by the University of Pennsylvania.
+
+59:28.420 --> 59:31.680
+ They have a terrific group there that works on sleep
+
+59:31.680 --> 59:33.380
+ that made an important discovery
+
+59:33.380 --> 59:35.760
+ that I think everybody should know about,
+
+59:35.760 --> 59:39.920
+ which is that children that sleep in rooms
+
+59:39.920 --> 59:43.480
+ that have a nightlight or dim lights
+
+59:43.480 --> 59:47.540
+ are much more likely to develop myopia, nearsightedness.
+
+59:48.800 --> 59:53.080
+ Conversely, children that sleep in very dark rooms,
+
+59:53.080 --> 59:57.600
+ so either very dim nightlights or a complete black,
+
+59:58.480 --> 1:00:01.420
+ they have a much lower, statistically speaking,
+
+1:00:01.420 --> 1:00:03.160
+ a significantly lower probability
+
+1:00:03.160 --> 1:00:06.120
+ of developing myopia, nearsightedness.
+
+1:00:06.120 --> 1:00:07.960
+ Now, why is that?
+
+1:00:07.960 --> 1:00:12.400
+ It's because the wavelengths of light that matter
+
+1:00:12.400 --> 1:00:14.120
+ for these melanopsin cells
+
+1:00:15.120 --> 1:00:17.600
+ oftentimes can get through the eyelids.
+
+1:00:18.620 --> 1:00:21.840
+ And that's particularly true for children
+
+1:00:21.840 --> 1:00:23.760
+ and people that have thin eyelids.
+
+1:00:23.760 --> 1:00:26.360
+ Some people, like me, have very thin eyelids.
+
+1:00:26.360 --> 1:00:27.940
+ I've been told this before.
+
+1:00:28.800 --> 1:00:30.140
+ Not many people touch my eyelids,
+
+1:00:30.140 --> 1:00:33.520
+ but among those that have, they have very thin eyelids.
+
+1:00:33.520 --> 1:00:36.780
+ I notice I have very thin eyelids compared to, say, Costello.
+
+1:00:36.780 --> 1:00:38.200
+ Now, Costello's eyes droop.
+
+1:00:38.200 --> 1:00:39.580
+ He can't even close his eyes all the way.
+
+1:00:39.580 --> 1:00:40.620
+ They're so droopy.
+
+1:00:40.620 --> 1:00:43.600
+ But many people have thin eyelids,
+
+1:00:43.600 --> 1:00:45.680
+ and those people are going to be even more prone
+
+1:00:45.680 --> 1:00:48.240
+ to light coming in through the eyelid.
+
+1:00:48.240 --> 1:00:52.540
+ So for parents, for kids, and for adults,
+
+1:00:52.540 --> 1:00:54.940
+ you really want to try to get to a place
+
+1:00:54.940 --> 1:00:57.380
+ where you can sleep in a completely black
+
+1:00:57.380 --> 1:00:58.940
+ or dark environment.
+
+1:00:58.940 --> 1:01:00.880
+ One little exposure to light, no big deal.
+
+1:01:00.880 --> 1:01:03.600
+ But this ties back to the other protocol
+
+1:01:03.600 --> 1:01:06.420
+ that I've described before in the mood and sleep episodes,
+
+1:01:06.420 --> 1:01:10.260
+ which is that viewing light, even a very low intensity,
+
+1:01:10.260 --> 1:01:12.400
+ between the hours of 10 p.m. and 4 a.m.,
+
+1:01:12.400 --> 1:01:14.440
+ it's extremely detrimental to the dopamine
+
+1:01:14.440 --> 1:01:17.140
+ and other mood-producing systems of the brain.
+
+1:01:17.140 --> 1:01:19.720
+ It can negatively impact learning and immunity
+
+1:01:19.720 --> 1:01:23.360
+ and even blood sugar and make people type 2 diabetes prone
+
+1:01:23.360 --> 1:01:26.120
+ by way of communication from these melanopsin cells
+
+1:01:26.120 --> 1:01:28.660
+ to a structure in the brain called the habenula.
+
+1:01:28.660 --> 1:01:30.500
+ Why am I throwing out all this verbiage?
+
+1:01:30.500 --> 1:01:32.400
+ Well, because people have asked for more mechanisms.
+
+1:01:32.400 --> 1:01:35.200
+ So if you really want to know when you look at blue light
+
+1:01:35.200 --> 1:01:36.980
+ or if blue light is getting in through your eyelids
+
+1:01:36.980 --> 1:01:38.280
+ in the middle of the night,
+
+1:01:38.280 --> 1:01:42.940
+ it is likely distorting these lens accommodation mechanism
+
+1:01:42.940 --> 1:01:47.220
+ in the eye and leading to myopia in some cases.
+
+1:01:47.220 --> 1:01:49.620
+ So that's one reason to avoid blue light exposure
+
+1:01:49.620 --> 1:01:50.460
+ and bright light exposure,
+
+1:01:50.460 --> 1:01:52.700
+ even nightlight exposure in the middle of the night.
+
+1:01:52.700 --> 1:01:55.300
+ Viewing any light of bright intensity
+
+1:01:55.300 --> 1:01:58.000
+ between the hours of 10 p.m. and 4 a.m.
+
+1:01:58.000 --> 1:02:01.000
+ on a consistent basis is going to suppress dopamine
+
+1:02:01.000 --> 1:02:03.200
+ because of the way that that light activates
+
+1:02:03.200 --> 1:02:04.980
+ these melanopsin cells and the habenula
+
+1:02:04.980 --> 1:02:06.740
+ and the dopamine system.
+
+1:02:06.740 --> 1:02:08.660
+ So it's all very simple.
+
+1:02:08.660 --> 1:02:12.260
+ Get as much bright light as you can safely, right?
+
+1:02:12.260 --> 1:02:13.760
+ You never want to look at any light so bright
+
+1:02:13.760 --> 1:02:16.720
+ that it's painful to look at during the daytime.
+
+1:02:16.720 --> 1:02:18.920
+ Try and go without sunglasses unless you need them.
+
+1:02:18.920 --> 1:02:21.080
+ Now I wear sunglasses for sake of sport
+
+1:02:21.080 --> 1:02:23.140
+ and sake of when it's really bright out,
+
+1:02:23.140 --> 1:02:26.200
+ but I try to get two hours a day of working outside
+
+1:02:26.200 --> 1:02:28.820
+ or being outside, even if there's cloud cover,
+
+1:02:28.820 --> 1:02:30.700
+ that's going to offset myopia.
+
+1:02:30.700 --> 1:02:32.280
+ It's going to help you get better sleep.
+
+1:02:32.280 --> 1:02:35.280
+ It's going to support mood and metabolism, et cetera.
+
+1:02:35.280 --> 1:02:38.140
+ And at night, if you're sleeping with a lot of lights
+
+1:02:38.140 --> 1:02:40.380
+ in the room, and especially if there are kids
+
+1:02:40.380 --> 1:02:41.420
+ that need a nightlight,
+
+1:02:41.420 --> 1:02:43.860
+ you should try and wean them off that nightlight
+
+1:02:43.860 --> 1:02:46.020
+ because it's going to be beneficial for their vision
+
+1:02:46.020 --> 1:02:47.260
+ to wean them off that nightlight
+
+1:02:47.260 --> 1:02:49.220
+ and put them into a darker environment.
+
+1:02:49.220 --> 1:02:50.840
+ Obviously you want to get them emotionally comfortable
+
+1:02:50.840 --> 1:02:52.440
+ with that first.
+
+1:02:52.440 --> 1:02:54.160
+ Now let's talk about pattern vision,
+
+1:02:54.160 --> 1:02:58.000
+ actual seeing things like faces and colors, et cetera.
+
+1:02:58.000 --> 1:03:01.240
+ I'm presuming that some of you out there are colorblind.
+
+1:03:01.240 --> 1:03:05.240
+ We can all help the red-green colorblind folks out there.
+
+1:03:05.240 --> 1:03:09.360
+ By not using red in slides and diagrams and on menus
+
+1:03:09.360 --> 1:03:12.000
+ and things of that sort, try and use magenta instead.
+
+1:03:12.000 --> 1:03:16.440
+ They can see the contrast between magenta and green better
+
+1:03:16.440 --> 1:03:18.960
+ than if there's red and green.
+
+1:03:18.960 --> 1:03:21.120
+ So be kind to the colorblind folks out there.
+
+1:03:21.120 --> 1:03:23.040
+ It's actually a fair percentage.
+
+1:03:23.040 --> 1:03:25.360
+ And there are a lot of different kinds of colorblind.
+
+1:03:25.360 --> 1:03:28.280
+ I should just mention some people are true monochromats.
+
+1:03:28.280 --> 1:03:29.660
+ They see the world in black and white.
+
+1:03:29.660 --> 1:03:31.200
+ That's exceedingly rare.
+
+1:03:32.080 --> 1:03:35.120
+ Most colorblind people, colorblind in quotes,
+
+1:03:35.120 --> 1:03:36.880
+ are red-green colorblind,
+
+1:03:36.880 --> 1:03:39.640
+ meaning they lack red cone photopigment,
+
+1:03:39.640 --> 1:03:42.100
+ meaning they can't see long wavelengths of light.
+
+1:03:42.100 --> 1:03:45.520
+ So they see the world much as a canine or a cat does
+
+1:03:45.520 --> 1:03:48.160
+ where they don't get the green-red contrast.
+
+1:03:48.160 --> 1:03:50.500
+ That's where we call it red-green colorblind.
+
+1:03:50.500 --> 1:03:51.960
+ They have the green cones,
+
+1:03:51.960 --> 1:03:54.000
+ but they can't do the contrast comparison
+
+1:03:54.000 --> 1:03:56.680
+ that I described at the beginning of the episode.
+
+1:03:56.680 --> 1:04:00.420
+ So use magenta and they will be able to see things.
+
+1:04:00.420 --> 1:04:02.400
+ You wonder why stop signs and stop lights
+
+1:04:02.400 --> 1:04:03.880
+ and things aren't in magenta.
+
+1:04:03.880 --> 1:04:05.360
+ Well, because the world is unkind
+
+1:04:05.360 --> 1:04:07.760
+ to the red-green colorblind individuals
+
+1:04:07.760 --> 1:04:09.080
+ and they have to learn the position
+
+1:04:09.080 --> 1:04:11.360
+ of those lights in the street lights
+
+1:04:11.360 --> 1:04:13.400
+ and they have to learn the shapes of signs,
+
+1:04:13.400 --> 1:04:14.320
+ which they can do readily
+
+1:04:14.320 --> 1:04:16.700
+ and it usually says stop on it as well.
+
+1:04:16.700 --> 1:04:19.600
+ But if you care about colorblind folks, which I do,
+
+1:04:19.600 --> 1:04:21.960
+ then we could all do them a service by,
+
+1:04:21.960 --> 1:04:24.600
+ I think by law actually in the US,
+
+1:04:24.600 --> 1:04:27.320
+ menus are required to be colorblind accessible.
+
+1:04:28.840 --> 1:04:31.480
+ How can you improve your vision?
+
+1:04:31.480 --> 1:04:33.980
+ How can you get better at seeing things?
+
+1:04:33.980 --> 1:04:36.780
+ Well, one way is to make sure that you spend
+
+1:04:36.780 --> 1:04:39.360
+ at least 10 minutes a day total,
+
+1:04:39.360 --> 1:04:42.280
+ at least, viewing things off in the distance.
+
+1:04:42.280 --> 1:04:45.360
+ So that would be well over half a mile or more.
+
+1:04:45.360 --> 1:04:46.720
+ Try and see a horizon,
+
+1:04:46.720 --> 1:04:50.080
+ try and get your vision out to a location
+
+1:04:50.080 --> 1:04:53.000
+ that's beyond the four walls of your house or apartment
+
+1:04:53.960 --> 1:04:56.660
+ or the doors of your car and the windshield of your car.
+
+1:04:56.660 --> 1:04:59.360
+ I know that can be hard to do, but it's very valuable.
+
+1:04:59.360 --> 1:05:00.940
+ If you live in a city like New York
+
+1:05:00.940 --> 1:05:02.820
+ and it's skyscrapers everywhere,
+
+1:05:02.820 --> 1:05:04.080
+ you've probably experienced
+
+1:05:04.080 --> 1:05:06.680
+ the incredible sense of relaxation.
+
+1:05:06.680 --> 1:05:08.080
+ And it's aesthetically beautiful
+
+1:05:08.080 --> 1:05:10.240
+ when you are walking down one of these long avenues
+
+1:05:10.240 --> 1:05:11.560
+ and you turn,
+
+1:05:11.560 --> 1:05:14.080
+ and I think they have a name for this in New York,
+
+1:05:14.080 --> 1:05:17.560
+ where the sunset is suddenly visible
+
+1:05:17.560 --> 1:05:20.320
+ along a long avenue between some skyscrapers.
+
+1:05:20.320 --> 1:05:21.800
+ And it's just very relaxing
+
+1:05:21.800 --> 1:05:23.720
+ to be able suddenly to see at a distance.
+
+1:05:23.720 --> 1:05:25.960
+ And that's actually because this eye mechanism
+
+1:05:25.960 --> 1:05:30.840
+ relaxing the lens and relaxing some of the musculature
+
+1:05:30.840 --> 1:05:34.040
+ around the eyes send signals deep into the brainstem
+
+1:05:34.040 --> 1:05:35.420
+ that release some of the centers
+
+1:05:35.420 --> 1:05:39.040
+ that are involved in alertness, AKA stress.
+
+1:05:39.040 --> 1:05:40.880
+ And it's very pleasant for a reason.
+
+1:05:40.880 --> 1:05:45.240
+ It's not a placebo effect, if you will.
+
+1:05:45.240 --> 1:05:46.520
+ There are a bunch of neurochemicals
+
+1:05:46.520 --> 1:05:48.300
+ and things that are associated with that.
+
+1:05:48.300 --> 1:05:49.820
+ So try and see at a distance
+
+1:05:49.820 --> 1:05:51.380
+ because it's good for your eyesight.
+
+1:05:51.380 --> 1:05:54.020
+ It'll keep this lens nice and elastic
+
+1:05:54.020 --> 1:05:55.560
+ and the muscles nice and strong
+
+1:05:55.560 --> 1:05:56.660
+ that move the lens.
+
+1:05:56.660 --> 1:06:00.480
+ And it has this relaxing component to it.
+
+1:06:00.480 --> 1:06:05.200
+ Now, our visual system is exquisitely tuned to motion,
+
+1:06:05.200 --> 1:06:07.080
+ not just our self-generated motion,
+
+1:06:07.080 --> 1:06:08.840
+ but the motion of things around us.
+
+1:06:08.840 --> 1:06:11.000
+ And one of the things that it does
+
+1:06:11.000 --> 1:06:13.740
+ is something called smooth pursuit.
+
+1:06:13.740 --> 1:06:16.360
+ Smooth pursuit is our ability
+
+1:06:16.360 --> 1:06:19.320
+ to track individual objects moving,
+
+1:06:19.320 --> 1:06:20.160
+ as the name suggests,
+
+1:06:20.160 --> 1:06:23.960
+ smoothly through space in various trajectories.
+
+1:06:23.960 --> 1:06:28.960
+ You can actually train or improve your vision
+
+1:06:29.960 --> 1:06:33.000
+ by looking at smooth pursuit stimuli.
+
+1:06:33.000 --> 1:06:34.000
+ And that sounds really boring.
+
+1:06:34.000 --> 1:06:34.840
+ What you can do is,
+
+1:06:34.840 --> 1:06:37.080
+ and I'll provide a link to some that I think are pretty good
+
+1:06:37.080 --> 1:06:39.420
+ that are used in various clinics,
+
+1:06:39.420 --> 1:06:42.360
+ ophthalmology and optometry clinics.
+
+1:06:42.360 --> 1:06:45.000
+ You can actually take a few minutes each day,
+
+1:06:45.000 --> 1:06:46.640
+ or maybe if you don't do it each day,
+
+1:06:46.640 --> 1:06:47.880
+ you could do every third day or so,
+
+1:06:47.880 --> 1:06:50.440
+ and actually just visually track a ball.
+
+1:06:50.440 --> 1:06:52.580
+ Sometimes it's moving in and kind of an infinity symbol.
+
+1:06:52.580 --> 1:06:54.880
+ Sometimes it's more of a sawtooth.
+
+1:06:54.880 --> 1:06:56.680
+ Sometimes it's changing speed.
+
+1:06:56.680 --> 1:06:59.780
+ Sometimes the cue that you're following,
+
+1:06:59.780 --> 1:07:03.360
+ the little target, is dilating and contracting.
+
+1:07:03.360 --> 1:07:05.920
+ This is going to keep the muscles,
+
+1:07:05.920 --> 1:07:06.760
+ I want to be clear,
+
+1:07:06.760 --> 1:07:09.420
+ this is going to keep the extraocular muscles
+
+1:07:09.420 --> 1:07:11.200
+ conditioned and strong
+
+1:07:11.200 --> 1:07:15.460
+ and allow you to have a healthy smooth pursuit system.
+
+1:07:15.460 --> 1:07:17.520
+ Remember, the brain follows the eye.
+
+1:07:17.520 --> 1:07:19.680
+ It follows the movements of the eye.
+
+1:07:19.680 --> 1:07:20.840
+ It has to deal with that.
+
+1:07:20.840 --> 1:07:23.720
+ And the neural circuits within the brain have to cope
+
+1:07:23.720 --> 1:07:25.560
+ with changes in smooth pursuit.
+
+1:07:25.560 --> 1:07:27.560
+ So if you're doing a lot of reading up close,
+
+1:07:27.560 --> 1:07:28.680
+ you're not viewing horizons,
+
+1:07:28.680 --> 1:07:31.720
+ you're not getting a lot of smooth pursuit type stimulation
+
+1:07:31.720 --> 1:07:32.900
+ from your life,
+
+1:07:34.180 --> 1:07:35.920
+ or you're just getting it within the confines
+
+1:07:35.920 --> 1:07:37.320
+ of a little box on your phone,
+
+1:07:37.320 --> 1:07:40.540
+ like your smooth pursuit is over millimeters
+
+1:07:40.540 --> 1:07:43.060
+ or what we always talk in terms of visual angle,
+
+1:07:43.060 --> 1:07:44.880
+ but the amount of degrees of visual angle.
+
+1:07:44.880 --> 1:07:46.320
+ But if you're just looking at smooth pursuit
+
+1:07:46.320 --> 1:07:48.020
+ in this little tiny box on your phone
+
+1:07:48.020 --> 1:07:49.360
+ or on your computer screen,
+
+1:07:49.360 --> 1:07:51.420
+ and you're not looking at objects in your environment,
+
+1:07:51.420 --> 1:07:52.940
+ like swooping birds and things like that,
+
+1:07:52.940 --> 1:07:53.920
+ which I'm guessing many of you
+
+1:07:53.920 --> 1:07:55.560
+ are not spending your time doing,
+
+1:07:55.560 --> 1:07:57.360
+ well, these mechanisms for smooth pursuit
+
+1:07:57.360 --> 1:07:58.420
+ will get worse over time.
+
+1:07:58.420 --> 1:07:59.560
+ Your vision will get worse.
+
+1:07:59.560 --> 1:08:02.160
+ And so while I prefer that people get out
+
+1:08:02.160 --> 1:08:04.080
+ into the real world and experience
+
+1:08:04.080 --> 1:08:07.040
+ smooth pursuit tracking of visual objects,
+
+1:08:07.040 --> 1:08:08.800
+ and maybe it's a good reason to go to a hockey game
+
+1:08:08.800 --> 1:08:11.080
+ or try and keep your eye on the puck,
+
+1:08:11.080 --> 1:08:13.880
+ which I can never seem to do, move so fast,
+
+1:08:13.880 --> 1:08:16.520
+ or I guess this is a good reason to watch live sports
+
+1:08:16.520 --> 1:08:17.620
+ if that's your thing,
+
+1:08:17.620 --> 1:08:19.880
+ or watch a tennis match like a cat, like a kitten,
+
+1:08:19.880 --> 1:08:21.940
+ watching the ball go back and forth.
+
+1:08:21.940 --> 1:08:25.040
+ Whatever, watching kids play, it doesn't really matter.
+
+1:08:25.040 --> 1:08:29.960
+ The idea is that you want to use the visual system regularly
+
+1:08:29.960 --> 1:08:31.000
+ for what it was designed for,
+
+1:08:31.000 --> 1:08:33.440
+ and smooth pursuit is a great way
+
+1:08:33.440 --> 1:08:36.440
+ to keep the visual and motion tracking systems
+
+1:08:36.440 --> 1:08:38.820
+ of the brain and the eye and the extraocular muscles
+
+1:08:38.820 --> 1:08:41.120
+ working in a really nice coordinate fashion.
+
+1:08:41.120 --> 1:08:46.120
+ I would say five to 10 minutes, three times a week,
+
+1:08:46.120 --> 1:08:47.940
+ will be great if you care about your vision,
+
+1:08:47.940 --> 1:08:50.180
+ you can train your vision in this way.
+
+1:08:50.180 --> 1:08:53.540
+ The other one is to train accommodation.
+
+1:08:53.540 --> 1:08:55.180
+ There are a lot of videos out there,
+
+1:08:55.180 --> 1:08:57.000
+ I want to be clear, on the internet,
+
+1:08:57.000 --> 1:09:01.320
+ some of which are from clinicians, some of which are not,
+
+1:09:01.320 --> 1:09:02.600
+ some of which are from scientists,
+
+1:09:02.600 --> 1:09:04.580
+ some of which are from other sources,
+
+1:09:04.580 --> 1:09:08.380
+ talking about things you can do to make your vision better,
+
+1:09:08.380 --> 1:09:09.560
+ to improve your vision.
+
+1:09:09.560 --> 1:09:12.700
+ Most of those are geared toward improving
+
+1:09:12.700 --> 1:09:14.440
+ the extraocular eye muscles,
+
+1:09:14.440 --> 1:09:18.120
+ but I did consult with our chair of ophthalmology
+
+1:09:18.120 --> 1:09:20.960
+ at Stanford School of Medicine, Jeff Goldberg,
+
+1:09:20.960 --> 1:09:23.780
+ who's an MD and a PhD, a phenomenal scientist
+
+1:09:23.780 --> 1:09:25.600
+ and a phenomenal clinician,
+
+1:09:25.600 --> 1:09:28.360
+ and incidentally, a phenomenal chairman as well,
+
+1:09:28.360 --> 1:09:31.120
+ about what sorts of things,
+
+1:09:31.120 --> 1:09:35.200
+ tools are actually beneficial for pattern vision and sight,
+
+1:09:35.200 --> 1:09:37.440
+ because there's just so much out there on the internet,
+
+1:09:37.440 --> 1:09:40.960
+ not all of which is accurate or good, frankly.
+
+1:09:40.960 --> 1:09:43.940
+ And he agreed that a smooth pursuit stimulus,
+
+1:09:43.940 --> 1:09:47.920
+ that kind of training, as well as, or exercise,
+
+1:09:47.920 --> 1:09:49.720
+ as well as near far.
+
+1:09:49.720 --> 1:09:51.280
+ So spending a few minutes,
+
+1:09:51.280 --> 1:09:52.840
+ you might even just do this for two minutes
+
+1:09:52.840 --> 1:09:54.920
+ of looking at something up close,
+
+1:09:54.920 --> 1:09:57.160
+ that's going to activate these accommodation mechanisms
+
+1:09:57.160 --> 1:09:59.240
+ and then moving it at arm's length
+
+1:09:59.240 --> 1:10:01.360
+ and focusing on it for five, 10 seconds,
+
+1:10:01.360 --> 1:10:03.840
+ maybe more, maybe 15 or 20 seconds,
+
+1:10:03.840 --> 1:10:07.480
+ then slowly moving it into a location and then out.
+
+1:10:07.480 --> 1:10:09.700
+ This is actually a lot like the visual training
+
+1:10:09.700 --> 1:10:13.740
+ that's done post-concussion to try and repair
+
+1:10:13.740 --> 1:10:16.300
+ actually repair some of the balance and motor
+
+1:10:16.300 --> 1:10:20.360
+ and visual and cognitive aspects of the brain.
+
+1:10:20.360 --> 1:10:23.520
+ And we are going to have a guest on in a future time
+
+1:10:23.520 --> 1:10:26.560
+ to deal with concussion and some post-concussion training.
+
+1:10:26.560 --> 1:10:28.720
+ A lot of post-concussion recovery and training
+
+1:10:28.720 --> 1:10:30.360
+ centers around the visual system,
+
+1:10:30.360 --> 1:10:33.800
+ not just because people are trying to recover their vision
+
+1:10:33.800 --> 1:10:35.560
+ and their sense of balance,
+
+1:10:35.560 --> 1:10:37.300
+ but because, as I mentioned earlier,
+
+1:10:37.300 --> 1:10:40.480
+ the brain's ability to make sense of its environment
+
+1:10:40.480 --> 1:10:42.840
+ and the brain's ability to parse time,
+
+1:10:42.840 --> 1:10:44.800
+ not just on the day-night schedule,
+
+1:10:44.800 --> 1:10:49.200
+ but also shorter time intervals follows the visual system.
+
+1:10:49.200 --> 1:10:51.140
+ Something we'll turn to a little bit more at the end.
+
+1:10:51.140 --> 1:10:52.080
+ So what does this mean?
+
+1:10:52.080 --> 1:10:56.840
+ The tool is spend two to three minutes doing smooth pursuit.
+
+1:10:56.840 --> 1:10:59.000
+ There's some programs on YouTube.
+
+1:10:59.000 --> 1:11:00.840
+ You can just look up smooth pursuit stimulus
+
+1:11:00.840 --> 1:11:04.220
+ and I'll provide a link to a couple I like as well.
+
+1:11:04.220 --> 1:11:06.600
+ You could do this with a pen if you wanted.
+
+1:11:06.600 --> 1:11:09.160
+ You could do this, someone else could hold a wand
+
+1:11:09.160 --> 1:11:10.000
+ and you could do that
+
+1:11:10.000 --> 1:11:11.540
+ if you've got someone that can do that for you.
+
+1:11:11.540 --> 1:11:13.260
+ Practice accommodation for a few minutes,
+
+1:11:13.260 --> 1:11:16.360
+ maybe every other day, just bringing something in close.
+
+1:11:16.360 --> 1:11:18.240
+ You'll feel the strain of your eyes doing that.
+
+1:11:18.240 --> 1:11:19.540
+ I can feel it right now.
+
+1:11:19.540 --> 1:11:20.980
+ Move it out.
+
+1:11:20.980 --> 1:11:22.520
+ You'll feel a relaxation point.
+
+1:11:22.520 --> 1:11:24.200
+ Move it past that relaxation point
+
+1:11:24.200 --> 1:11:25.920
+ where you will have to do what's called a virgin side
+
+1:11:25.920 --> 1:11:27.840
+ movement to maintain focus on that location
+
+1:11:27.840 --> 1:11:30.080
+ as it moves out, bring it back in.
+
+1:11:30.080 --> 1:11:32.720
+ At the point where you actually have to go cross-eyed,
+
+1:11:32.720 --> 1:11:33.940
+ this will differ for different people
+
+1:11:33.940 --> 1:11:35.840
+ depending on how far apart your eyes are,
+
+1:11:35.840 --> 1:11:37.540
+ so-called interpupillary distance.
+
+1:11:37.540 --> 1:11:39.280
+ So for me, I have been teased before,
+
+1:11:39.280 --> 1:11:41.480
+ I have a very short interpupillary distance.
+
+1:11:41.480 --> 1:11:44.300
+ I'm not a cyclops, but I'm heading there.
+
+1:11:44.300 --> 1:11:47.040
+ Some people are more wall-eyed like a flounder.
+
+1:11:47.040 --> 1:11:49.820
+ Well, depending on your interpupillary distance,
+
+1:11:49.820 --> 1:11:51.860
+ the point at which things get blurry
+
+1:11:51.860 --> 1:11:53.880
+ and cross-eyed will vary.
+
+1:11:53.880 --> 1:11:57.440
+ But for me, as I get about, oh gosh,
+
+1:11:57.440 --> 1:11:59.340
+ I guess it's about six inches from my nose,
+
+1:11:59.340 --> 1:12:01.440
+ it's really hard, I can't accommodate any longer.
+
+1:12:01.440 --> 1:12:04.000
+ I move it out another inch and everything's in nice focus.
+
+1:12:04.000 --> 1:12:05.920
+ Try and see whether or not you can get things closer.
+
+1:12:05.920 --> 1:12:07.280
+ Now you don't want to get cross-eyed.
+
+1:12:07.280 --> 1:12:09.000
+ Remember what your parents told you,
+
+1:12:09.000 --> 1:12:11.240
+ or my parents told me that if you cross your eyes
+
+1:12:11.240 --> 1:12:13.520
+ when you're young, that they can stay that way.
+
+1:12:13.520 --> 1:12:16.040
+ Actually, they won't necessarily stay that way,
+
+1:12:16.040 --> 1:12:18.940
+ but your brain can start losing information
+
+1:12:18.940 --> 1:12:21.840
+ and the ability to see binocular depth,
+
+1:12:21.840 --> 1:12:22.960
+ something we'll talk about in a moment.
+
+1:12:22.960 --> 1:12:26.560
+ But for now, the protocol would be two to three,
+
+1:12:26.560 --> 1:12:28.400
+ maybe five minutes, just practice that,
+
+1:12:28.400 --> 1:12:29.400
+ practice accommodation,
+
+1:12:29.400 --> 1:12:31.880
+ and then be sure to give your eyes some rest.
+
+1:12:31.880 --> 1:12:34.500
+ Get outside, look at a horizon or do nothing,
+
+1:12:34.500 --> 1:12:36.280
+ just kind of let your eyes go soft.
+
+1:12:36.280 --> 1:12:38.120
+ I guess what the yogis would call soft gaze,
+
+1:12:38.120 --> 1:12:39.760
+ just kind of relax your eyelids,
+
+1:12:39.760 --> 1:12:43.020
+ not this, not eyes closed, just relax.
+
+1:12:43.020 --> 1:12:45.040
+ Panoramic vision, try and see the walls around you
+
+1:12:45.040 --> 1:12:46.920
+ without moving your head.
+
+1:12:46.920 --> 1:12:48.280
+ Exercise your eye muscles,
+
+1:12:48.280 --> 1:12:50.940
+ exercise the accommodation mechanisms of your eyes.
+
+1:12:50.940 --> 1:12:53.160
+ Practice a little bit of smooth pursuit.
+
+1:12:53.160 --> 1:12:54.580
+ You don't have to be neurotic about this,
+
+1:12:54.580 --> 1:12:56.240
+ but if you do this often enough,
+
+1:12:57.120 --> 1:12:59.660
+ meaning every other day, every third day or so,
+
+1:12:59.660 --> 1:13:01.280
+ you can be the strange person on the plane
+
+1:13:01.280 --> 1:13:03.460
+ or in the classroom doing this.
+
+1:13:03.460 --> 1:13:06.360
+ People might chuckle or look at you funny or tease you,
+
+1:13:06.360 --> 1:13:08.780
+ but that's okay because you'll be able to see
+
+1:13:08.780 --> 1:13:11.040
+ when they are losing their vision,
+
+1:13:11.040 --> 1:13:13.000
+ so you'll get the last laugh.
+
+1:13:13.000 --> 1:13:13.920
+ Please don't laugh at them,
+
+1:13:13.920 --> 1:13:15.420
+ but maybe you can help them at that point.
+
+1:13:15.420 --> 1:13:16.920
+ You can hold the pen for them.
+
+1:13:18.320 --> 1:13:19.280
+ It's worth doing.
+
+1:13:19.280 --> 1:13:21.200
+ It's really worth preserving your vision.
+
+1:13:21.200 --> 1:13:23.600
+ And again, if you're a young person, this is great
+
+1:13:23.600 --> 1:13:24.920
+ because then you can actually build
+
+1:13:24.920 --> 1:13:27.260
+ an extra strong visual system
+
+1:13:27.260 --> 1:13:29.600
+ using all the tools that we're describing.
+
+1:13:29.600 --> 1:13:33.160
+ I do want to talk about a new set of findings
+
+1:13:33.160 --> 1:13:34.920
+ that are related to red light
+
+1:13:34.920 --> 1:13:37.960
+ and offsetting age-related macular degeneration.
+
+1:13:37.960 --> 1:13:39.940
+ There are a lot of ways in which our visual system
+
+1:13:39.940 --> 1:13:40.780
+ gets worse over time,
+
+1:13:40.780 --> 1:13:44.020
+ but one is so-called age-related macular degeneration.
+
+1:13:44.020 --> 1:13:46.160
+ Glenn Jeffrey at the University College London,
+
+1:13:46.160 --> 1:13:50.280
+ somebody I've known for decades because he's a scientist,
+
+1:13:50.280 --> 1:13:52.000
+ has done beautiful work on development
+
+1:13:52.000 --> 1:13:53.040
+ and function of the visual system,
+
+1:13:53.040 --> 1:13:55.720
+ has published a number of papers recently.
+
+1:13:55.720 --> 1:13:59.600
+ One that got a particularly high amount of attention
+
+1:13:59.600 --> 1:14:02.520
+ in the press was one that showed that flashing red light
+
+1:14:02.520 --> 1:14:05.360
+ into the eyes early in the day, not late in the day,
+
+1:14:05.360 --> 1:14:08.240
+ early in the day can help offset
+
+1:14:08.240 --> 1:14:11.180
+ some age-related macular degeneration,
+
+1:14:11.180 --> 1:14:14.120
+ presumably by enhancing the mitochondrial function
+
+1:14:14.120 --> 1:14:15.680
+ in the photoreceptors.
+
+1:14:15.680 --> 1:14:17.920
+ There does seem to be some evidence for that,
+
+1:14:17.920 --> 1:14:19.480
+ although it's still early days.
+
+1:14:19.480 --> 1:14:21.760
+ I want to emphasize you don't want to shine
+
+1:14:21.760 --> 1:14:23.200
+ really bright lights into your eyes.
+
+1:14:23.200 --> 1:14:25.620
+ You never want to look at any light that's so bright
+
+1:14:25.620 --> 1:14:26.860
+ that it's painful,
+
+1:14:26.860 --> 1:14:28.700
+ and you never want to force your eyelids to stay open.
+
+1:14:28.700 --> 1:14:30.980
+ If you need to close your eyes in order to be comfortable,
+
+1:14:30.980 --> 1:14:33.380
+ well, then chances are that light is too bright.
+
+1:14:33.380 --> 1:14:35.540
+ But doing just a couple minutes a day,
+
+1:14:35.540 --> 1:14:38.640
+ like two minutes a day of flashing this red light
+
+1:14:38.640 --> 1:14:40.500
+ into one eye and then the other,
+
+1:14:41.340 --> 1:14:44.440
+ as long as it was early in the day before noontime,
+
+1:14:44.440 --> 1:14:46.080
+ and as long as it was in individuals
+
+1:14:46.080 --> 1:14:48.860
+ that were 40 years or older,
+
+1:14:48.860 --> 1:14:50.640
+ did seem to have a significant effect
+
+1:14:50.640 --> 1:14:53.800
+ in offsetting some of the age-related macular degeneration
+
+1:14:53.800 --> 1:14:55.560
+ that would otherwise occur.
+
+1:14:55.560 --> 1:14:56.860
+ Again, these are early findings.
+
+1:14:56.860 --> 1:14:59.200
+ If you want to do this, please be careful.
+
+1:14:59.200 --> 1:15:02.600
+ Please talk to your optometrist and or ophthalmologist.
+
+1:15:02.600 --> 1:15:03.680
+ Your eyesight is precious.
+
+1:15:03.680 --> 1:15:06.120
+ You don't want to damage it, but it is interesting,
+
+1:15:06.120 --> 1:15:07.460
+ and it does seem like red light
+
+1:15:07.460 --> 1:15:09.280
+ can improve the function of the mitochondria.
+
+1:15:09.280 --> 1:15:11.820
+ These photoreceptors have a lot of mitochondria,
+
+1:15:11.820 --> 1:15:14.520
+ the energy-producing organelles within the cells,
+
+1:15:14.520 --> 1:15:17.720
+ because they are some of the most metabolically active cells
+
+1:15:17.720 --> 1:15:18.920
+ in your entire body.
+
+1:15:18.920 --> 1:15:20.940
+ Your photoreceptors are active all the time
+
+1:15:20.940 --> 1:15:21.780
+ as you're looking around,
+
+1:15:21.780 --> 1:15:23.840
+ and even when your eyes are closed, they're active.
+
+1:15:23.840 --> 1:15:26.400
+ In fact, through a weird twist of the biology,
+
+1:15:26.400 --> 1:15:29.080
+ and please look this up if you're really interested in this,
+
+1:15:29.080 --> 1:15:32.540
+ your photoreceptors are actually most active in the dark.
+
+1:15:32.540 --> 1:15:33.380
+ This is so weird.
+
+1:15:33.380 --> 1:15:37.060
+ It's a twist of biology, the way the system's arranged,
+
+1:15:37.060 --> 1:15:40.120
+ that when light comes on, they shut off their activity.
+
+1:15:40.120 --> 1:15:42.920
+ So actually, whether or not you see something in front of you
+
+1:15:42.920 --> 1:15:44.840
+ like this pen or my face
+
+1:15:44.840 --> 1:15:48.160
+ is because the way your photoreceptors are turning off,
+
+1:15:48.160 --> 1:15:50.240
+ not turning on, it's a really cool twist,
+
+1:15:50.240 --> 1:15:53.540
+ and I don't want to go too far down that rabbit hole,
+
+1:15:53.540 --> 1:15:54.560
+ but check it out.
+
+1:15:54.560 --> 1:15:56.120
+ If you're interested in how photoreceptors work,
+
+1:15:56.120 --> 1:15:59.000
+ it's an absolutely incredible literature.
+
+1:15:59.000 --> 1:16:01.640
+ Just Google, excuse me, look up on the web.
+
+1:16:01.640 --> 1:16:03.000
+ We are not partial just to Google.
+
+1:16:03.000 --> 1:16:06.040
+ I happen to use Google, but use your web browser
+
+1:16:06.040 --> 1:16:10.280
+ to look up a photoreceptors hyperpolarization site,
+
+1:16:10.280 --> 1:16:11.480
+ and you can learn a lot about that
+
+1:16:11.480 --> 1:16:14.160
+ if you're a real nerd for the stuff like I am.
+
+1:16:14.160 --> 1:16:19.160
+ Okay, so red light to the eye can perhaps, it seems,
+
+1:16:19.420 --> 1:16:22.760
+ help maintain vision, doing smooth pursuit exercises,
+
+1:16:22.760 --> 1:16:25.320
+ and accommodation, near-far exercises.
+
+1:16:25.320 --> 1:16:27.860
+ Some people suffer from poor eyesight
+
+1:16:27.860 --> 1:16:29.760
+ simply because their eyes get dry.
+
+1:16:29.760 --> 1:16:31.920
+ There are incredible, believe it or not,
+
+1:16:31.920 --> 1:16:34.380
+ lubricating mechanisms for the eye,
+
+1:16:34.380 --> 1:16:37.200
+ not just tears, but thin sheet of oil.
+
+1:16:37.200 --> 1:16:38.040
+ I mean, it's just amazing.
+
+1:16:38.040 --> 1:16:40.000
+ Unless you have some sort of corneal abrasion,
+
+1:16:40.000 --> 1:16:42.680
+ the cornea is the clear stuff on the outside of your eye,
+
+1:16:42.680 --> 1:16:45.960
+ corneal abrasion, when you blink, it's smooth.
+
+1:16:45.960 --> 1:16:47.200
+ You don't feel it.
+
+1:16:47.200 --> 1:16:48.660
+ It's just really, really smooth,
+
+1:16:48.660 --> 1:16:50.880
+ and yet if you've ever had a corneal scratch,
+
+1:16:50.880 --> 1:16:52.440
+ I've had this, it's really rough.
+
+1:16:52.440 --> 1:16:54.080
+ It is so painful.
+
+1:16:54.080 --> 1:16:56.580
+ You have a ton of pain receptors in the cornea.
+
+1:16:56.580 --> 1:17:01.580
+ The lubrication of the cornea is supported by blinking,
+
+1:17:03.780 --> 1:17:06.060
+ and while it seems a little silly,
+
+1:17:06.060 --> 1:17:09.240
+ some people actually benefit from doing, you know,
+
+1:17:09.240 --> 1:17:12.380
+ some, you know, five or 10 or 15 seconds of blinking,
+
+1:17:12.380 --> 1:17:15.020
+ and then doing their focused work.
+
+1:17:15.020 --> 1:17:16.460
+ Some people, their eyes are drying out,
+
+1:17:16.460 --> 1:17:19.080
+ because as we focus, if we're trying to do something,
+
+1:17:19.080 --> 1:17:22.080
+ our eyelids stay open, the eyes can dry out,
+
+1:17:22.080 --> 1:17:23.720
+ but it also can make it such
+
+1:17:23.720 --> 1:17:25.380
+ that when we blink the next time,
+
+1:17:25.380 --> 1:17:26.900
+ there's a kind of a need to focus,
+
+1:17:26.900 --> 1:17:29.980
+ because there's some distortions in these oils and liquids
+
+1:17:29.980 --> 1:17:32.020
+ across the corneal surface.
+
+1:17:32.020 --> 1:17:33.660
+ If you're somebody who suffers from dry eye,
+
+1:17:33.660 --> 1:17:36.140
+ I do hope they'll find a treatment or a cure for dry eye
+
+1:17:36.140 --> 1:17:37.860
+ soon, there isn't one at present.
+
+1:17:37.860 --> 1:17:39.620
+ Someone stands to make a lot of money out there.
+
+1:17:39.620 --> 1:17:42.060
+ If you can find a cure for dry eye,
+
+1:17:42.060 --> 1:17:44.980
+ let the companies know or start a company.
+
+1:17:44.980 --> 1:17:47.100
+ Right now, it's still a mystery as to how to do that,
+
+1:17:47.100 --> 1:17:49.060
+ but blinking for five to 15 seconds,
+
+1:17:49.060 --> 1:17:51.480
+ probably slowly, not as quickly as I'm doing here on video,
+
+1:17:51.480 --> 1:17:54.340
+ but just, you know, maybe a blink every second or two
+
+1:17:54.340 --> 1:17:56.380
+ for 15 seconds can lubricate the eyes,
+
+1:17:56.380 --> 1:17:59.300
+ and that's not directly related to anything neural,
+
+1:17:59.300 --> 1:18:01.580
+ it's just going to allow the optics of your eye to be clear,
+
+1:18:01.580 --> 1:18:03.940
+ just like when the screen of your phone gets dirty,
+
+1:18:03.940 --> 1:18:05.620
+ like when Costello is texting on my phone
+
+1:18:05.620 --> 1:18:07.700
+ and I pick it up and it's like covered with smudge,
+
+1:18:07.700 --> 1:18:09.580
+ to clean it off in order to see things clearly,
+
+1:18:09.580 --> 1:18:12.060
+ the same thing is happening for these optical devices
+
+1:18:12.060 --> 1:18:14.100
+ on the front of your brain.
+
+1:18:14.100 --> 1:18:15.980
+ Remember, these are brain.
+
+1:18:15.980 --> 1:18:19.780
+ Okay, so a lot of protocols today, almost all of them.
+
+1:18:21.380 --> 1:18:22.620
+ Behavioral protocols.
+
+1:18:22.620 --> 1:18:26.100
+ I do want to talk a little bit more about vision
+
+1:18:26.100 --> 1:18:27.620
+ and how it works internally,
+
+1:18:27.620 --> 1:18:29.380
+ and then I also want to talk about
+
+1:18:29.380 --> 1:18:31.220
+ some of the foods and supplements
+
+1:18:31.220 --> 1:18:32.880
+ that have been shown to support vision
+
+1:18:32.880 --> 1:18:34.400
+ and offset visual loss,
+
+1:18:34.400 --> 1:18:36.940
+ and maybe even reverse some visual loss.
+
+1:18:36.940 --> 1:18:40.100
+ Let's talk about binocular vision and lazy eye.
+
+1:18:41.020 --> 1:18:44.580
+ I'm very familiar with lazy eye because when I was a kid,
+
+1:18:44.580 --> 1:18:47.620
+ I went swimming one day, one day,
+
+1:18:47.620 --> 1:18:49.300
+ and I didn't have my goggles,
+
+1:18:49.300 --> 1:18:52.320
+ and so something must have been happening, as I recall,
+
+1:18:52.320 --> 1:18:54.900
+ with the eye moving down through the water.
+
+1:18:54.900 --> 1:18:55.980
+ I've always had this problem
+
+1:18:55.980 --> 1:18:58.580
+ that I can only do the freestyle stroke off to one side.
+
+1:18:58.580 --> 1:19:00.260
+ The people I swim with are always laughing.
+
+1:19:00.260 --> 1:19:02.380
+ Somehow I kind of move toward drowning
+
+1:19:02.380 --> 1:19:04.300
+ when I try and breathe on the right side.
+
+1:19:04.300 --> 1:19:07.420
+ I think there's some asymmetry in the way I'm organized.
+
+1:19:07.420 --> 1:19:09.780
+ Anyway, I was off to my left
+
+1:19:09.780 --> 1:19:12.240
+ and my eye kept going in and out of the water,
+
+1:19:12.240 --> 1:19:13.400
+ and there was chlorine in the water,
+
+1:19:13.400 --> 1:19:14.460
+ and it was making my eye uncomfortable,
+
+1:19:14.460 --> 1:19:15.560
+ so I just closed my eye.
+
+1:19:15.560 --> 1:19:16.780
+ I just decided, you know,
+
+1:19:16.780 --> 1:19:19.820
+ I knew more or less how to swim straight-ish.
+
+1:19:19.820 --> 1:19:21.640
+ Might've bounced off the lane lines a few times,
+
+1:19:21.640 --> 1:19:22.640
+ but I just used the other eye
+
+1:19:22.640 --> 1:19:25.100
+ to kind of steer for that mark on the wall.
+
+1:19:25.100 --> 1:19:28.780
+ Got out of the pool, took a shower, dried off,
+
+1:19:28.780 --> 1:19:32.540
+ and then completely lost binocular vision for three days.
+
+1:19:32.540 --> 1:19:33.380
+ Completely.
+
+1:19:34.220 --> 1:19:37.100
+ The young brain up until about age seven,
+
+1:19:37.100 --> 1:19:40.260
+ but maybe even extending out until about age 12,
+
+1:19:40.260 --> 1:19:44.220
+ is extremely vulnerable to differences
+
+1:19:44.220 --> 1:19:46.860
+ in ocular input between the two eyes.
+
+1:19:46.860 --> 1:19:49.500
+ My scientific great-grandparents won the Nobel Prize
+
+1:19:49.500 --> 1:19:51.620
+ for discovering so-called critical periods.
+
+1:19:51.620 --> 1:19:53.960
+ Periods of time in which the brain is more plastic,
+
+1:19:53.960 --> 1:19:55.500
+ more able to change.
+
+1:19:55.500 --> 1:19:57.900
+ Those two guys, David Hubel and Torrance Wiesel,
+
+1:19:57.900 --> 1:19:59.100
+ thank you, David and Torrance,
+
+1:19:59.100 --> 1:20:01.500
+ forever changed the face of visual neuroscience
+
+1:20:01.500 --> 1:20:05.220
+ and forever changed the way we think about treatment
+
+1:20:05.220 --> 1:20:06.740
+ of the young brain.
+
+1:20:06.740 --> 1:20:08.880
+ It used to be thought that you wouldn't want to do a surgery
+
+1:20:08.880 --> 1:20:12.100
+ on a young kid because of risk of anesthesia
+
+1:20:12.100 --> 1:20:13.860
+ in young individuals,
+
+1:20:13.860 --> 1:20:16.980
+ but we now know that you need to repair these imbalances
+
+1:20:16.980 --> 1:20:20.060
+ that even a few hours, okay, I don't want to scare anybody.
+
+1:20:20.060 --> 1:20:22.220
+ I'll talk about reversal, but a few hours
+
+1:20:22.220 --> 1:20:26.740
+ of occluding one eye early in life can lead to permanent,
+
+1:20:26.740 --> 1:20:28.580
+ unless something's done, permanent changes
+
+1:20:28.580 --> 1:20:31.300
+ in the way that the brain perceives the outside world,
+
+1:20:31.300 --> 1:20:33.820
+ such that when that eye is opened up again,
+
+1:20:33.820 --> 1:20:35.420
+ the brain actually can't make sense
+
+1:20:35.420 --> 1:20:36.380
+ of anything that's coming through it.
+
+1:20:36.380 --> 1:20:38.580
+ It shuts down that visual pathway somehow.
+
+1:20:38.580 --> 1:20:42.340
+ So what happened to me was I actually was, my eye was fine.
+
+1:20:42.340 --> 1:20:43.820
+ I got out of the pool, I opened my eye,
+
+1:20:43.820 --> 1:20:45.420
+ but I couldn't see through that eye.
+
+1:20:45.420 --> 1:20:47.380
+ Everything was blurry, double vision,
+
+1:20:47.380 --> 1:20:48.740
+ unless I covered this eye
+
+1:20:48.740 --> 1:20:50.780
+ and then I could see perfectly fine.
+
+1:20:50.780 --> 1:20:53.200
+ Fortunately, I went to an ophthalmologist
+
+1:20:53.200 --> 1:20:55.220
+ who understood the literature.
+
+1:20:55.220 --> 1:20:59.640
+ Thank you, Dr. Mark Lurie, who understood the literature
+
+1:20:59.640 --> 1:21:03.460
+ and made it clear that what I needed to do
+
+1:21:03.460 --> 1:21:05.660
+ was to occlude the other eye,
+
+1:21:05.660 --> 1:21:07.460
+ the eye that was working very well.
+
+1:21:07.460 --> 1:21:09.340
+ Clearly he understood the work of Hubel and Wiesel.
+
+1:21:09.340 --> 1:21:11.180
+ Now, again, you don't want to start playing games
+
+1:21:11.180 --> 1:21:12.500
+ with this kind of stuff when you're a kid.
+
+1:21:12.500 --> 1:21:14.820
+ If you wear, let's say you have a Halloween costume
+
+1:21:14.820 --> 1:21:15.940
+ and you wear an eye patch,
+
+1:21:15.940 --> 1:21:17.980
+ you're a pirate or something for Halloween
+
+1:21:17.980 --> 1:21:19.840
+ and you cover it up on one side,
+
+1:21:19.840 --> 1:21:21.660
+ probably for the night of Halloween, it's okay.
+
+1:21:21.660 --> 1:21:25.100
+ I do not recommend doing that recreationally
+
+1:21:25.100 --> 1:21:27.180
+ if you don't need that if you're a young child
+
+1:21:27.180 --> 1:21:28.140
+ or for your child to do that,
+
+1:21:28.140 --> 1:21:32.420
+ because indeed you create imbalances in the brain machinery
+
+1:21:32.420 --> 1:21:34.880
+ that compares information coming in through the two eyes
+
+1:21:34.880 --> 1:21:37.980
+ and it can shut down the neural information
+
+1:21:37.980 --> 1:21:40.420
+ for the occluded, the closed eye.
+
+1:21:40.420 --> 1:21:42.220
+ Now, I was able to reverse this issue,
+
+1:21:42.220 --> 1:21:44.220
+ but my binocular vision has never been terrific.
+
+1:21:44.220 --> 1:21:47.020
+ I'm much better at the dartboard and still not very good.
+
+1:21:47.020 --> 1:21:49.380
+ If I close one eye, I'm much better at the pool table.
+
+1:21:49.380 --> 1:21:52.280
+ If I close one eye and I still am terrible.
+
+1:21:52.280 --> 1:21:55.880
+ I was the kid in the outfield,
+
+1:21:55.880 --> 1:21:57.500
+ the ball's coming towards me, the ball's coming towards me,
+
+1:21:57.500 --> 1:21:58.320
+ I'm going to catch the ball
+
+1:21:58.320 --> 1:22:00.500
+ and like a hit me square in the lip.
+
+1:22:00.500 --> 1:22:02.980
+ My binocular vision isn't great
+
+1:22:02.980 --> 1:22:05.740
+ as a consequence of this early event.
+
+1:22:05.740 --> 1:22:09.920
+ And I have a hard time with those binocular stereograms,
+
+1:22:09.920 --> 1:22:11.140
+ those images that are kind of,
+
+1:22:11.140 --> 1:22:12.200
+ you're supposed to look at them
+
+1:22:12.200 --> 1:22:15.460
+ and then the binocular depth image like pops out.
+
+1:22:15.460 --> 1:22:17.780
+ All the other kids were going, oh, there's the whatever,
+
+1:22:17.780 --> 1:22:19.300
+ the Statue of Liberty, there's the American,
+
+1:22:19.300 --> 1:22:21.340
+ I see dots, okay?
+
+1:22:21.340 --> 1:22:24.580
+ So I have binocular vision, but I use other cues.
+
+1:22:24.580 --> 1:22:27.400
+ I use the near far cues that I talked about before,
+
+1:22:27.400 --> 1:22:29.700
+ motion parallax, the fact that things are closer to me
+
+1:22:29.700 --> 1:22:32.000
+ or moving faster than things further away
+
+1:22:32.000 --> 1:22:33.740
+ in order to judge depth.
+
+1:22:33.740 --> 1:22:35.520
+ And years later when I got involved in,
+
+1:22:35.520 --> 1:22:37.620
+ and I don't suggest this for most people,
+
+1:22:39.120 --> 1:22:40.800
+ I got involved in boxing and martial arts
+
+1:22:40.800 --> 1:22:42.340
+ when I was younger.
+
+1:22:42.340 --> 1:22:43.440
+ Sometimes we'll see fighters,
+
+1:22:43.440 --> 1:22:46.060
+ this is a slip to avoid getting punched.
+
+1:22:46.060 --> 1:22:48.140
+ It's also generating motion parallax.
+
+1:22:48.140 --> 1:22:52.660
+ Many animals judge depth by moving their head,
+
+1:22:52.660 --> 1:22:56.380
+ not by using other mechanisms of accommodation, okay?
+
+1:22:56.380 --> 1:22:59.180
+ So a lot of birds and monkeys and animals
+
+1:22:59.180 --> 1:23:02.580
+ will judge depth by moving their head like this,
+
+1:23:02.580 --> 1:23:04.540
+ or they'll move from side to side.
+
+1:23:04.540 --> 1:23:06.420
+ Animals that will undulate sometimes
+
+1:23:06.420 --> 1:23:08.340
+ are actually doing a depth measurement
+
+1:23:08.340 --> 1:23:10.060
+ because as you move from side to side,
+
+1:23:10.060 --> 1:23:12.500
+ the brain is able to do the math of depth.
+
+1:23:12.500 --> 1:23:14.340
+ So what does this all mean in terms of protocols?
+
+1:23:14.340 --> 1:23:15.280
+ If you're a young person,
+
+1:23:15.280 --> 1:23:18.540
+ do your best to get really good binocular vision,
+
+1:23:18.540 --> 1:23:20.980
+ not just at level of your phone or your tablet,
+
+1:23:20.980 --> 1:23:22.060
+ but also at distance.
+
+1:23:22.060 --> 1:23:25.660
+ You will build strong binocular visual machinery
+
+1:23:25.660 --> 1:23:28.080
+ in the brain and at the level of the eyes
+
+1:23:28.080 --> 1:23:30.060
+ and the eye musculature.
+
+1:23:30.060 --> 1:23:32.800
+ Now, if you're somebody who did have an occlusion,
+
+1:23:32.800 --> 1:23:35.140
+ what's needed is to cover up the other eye
+
+1:23:35.140 --> 1:23:37.020
+ to create an imbalance so that the weak eye,
+
+1:23:37.020 --> 1:23:38.100
+ the so-called lazy eye,
+
+1:23:38.100 --> 1:23:40.380
+ this is sometimes referred to as amblyopia,
+
+1:23:40.380 --> 1:23:42.060
+ that eye has to work harder.
+
+1:23:42.060 --> 1:23:46.180
+ So for me, they patched this other eye and made this eye,
+
+1:23:46.180 --> 1:23:47.720
+ eventually I got vision through that eye back,
+
+1:23:47.720 --> 1:23:49.100
+ then they opened them both up.
+
+1:23:49.100 --> 1:23:50.820
+ Now, you might ask,
+
+1:23:50.820 --> 1:23:53.300
+ what happens if you cover both eyes early in life?
+
+1:23:53.300 --> 1:23:54.680
+ And this is where it gets interesting.
+
+1:23:54.680 --> 1:23:55.520
+ You might think, well,
+
+1:23:55.520 --> 1:23:58.860
+ if covering one eye leads to poor vision for that eye
+
+1:23:58.860 --> 1:24:00.380
+ after that eye is open,
+
+1:24:00.380 --> 1:24:03.080
+ covering both eyes will probably make you blind, right?
+
+1:24:03.080 --> 1:24:05.100
+ Actually, that's not what happens.
+
+1:24:05.100 --> 1:24:06.340
+ What Hubel and Wiesel discovered
+
+1:24:06.340 --> 1:24:09.780
+ and what's been affirmed many, many more times over
+
+1:24:09.780 --> 1:24:11.500
+ in subsequent studies
+
+1:24:11.500 --> 1:24:13.180
+ is that it's competitive,
+
+1:24:13.180 --> 1:24:14.900
+ that the two eyes are competing
+
+1:24:14.900 --> 1:24:16.460
+ for real estate up in the brain.
+
+1:24:16.460 --> 1:24:18.740
+ So if you actually cover both eyes,
+
+1:24:18.740 --> 1:24:23.060
+ you actually extend the period of critical plasticity.
+
+1:24:23.060 --> 1:24:24.660
+ This is a really interesting aspect
+
+1:24:24.660 --> 1:24:26.860
+ that other people are starting to leverage now
+
+1:24:26.860 --> 1:24:29.440
+ in terms of how to reopen plasticity later in life.
+
+1:24:29.440 --> 1:24:31.260
+ But please don't go around
+
+1:24:31.260 --> 1:24:33.040
+ with your eyes covered for too long.
+
+1:24:33.040 --> 1:24:35.100
+ There are some like retreats and stuff
+
+1:24:35.100 --> 1:24:38.140
+ where people go into caves with absolutely no vision.
+
+1:24:38.140 --> 1:24:39.300
+ It creates hallucinations.
+
+1:24:39.300 --> 1:24:41.440
+ We'll talk about why that is in just a moment.
+
+1:24:41.440 --> 1:24:43.100
+ But here's my suggestion.
+
+1:24:43.100 --> 1:24:45.460
+ Try and get balanced visual input through the two eyes.
+
+1:24:45.460 --> 1:24:47.780
+ Almost everybody has a dominant eye.
+
+1:24:47.780 --> 1:24:50.280
+ It usually doesn't relate to your dominant hand,
+
+1:24:50.280 --> 1:24:51.120
+ although it can.
+
+1:24:51.120 --> 1:24:53.900
+ And so for me, if I cover up my right eye,
+
+1:24:53.900 --> 1:24:56.960
+ I see much less well, much more poorly.
+
+1:24:56.960 --> 1:24:58.180
+ It's a little bit fuzzy
+
+1:24:58.180 --> 1:24:59.420
+ and I have to work harder
+
+1:24:59.420 --> 1:25:01.540
+ in order to see the camera, for instance.
+
+1:25:01.540 --> 1:25:03.220
+ Then if I cover up my left eye,
+
+1:25:03.220 --> 1:25:04.860
+ it's actually really easy for me to relax.
+
+1:25:04.860 --> 1:25:06.900
+ I have a dominant eye.
+
+1:25:06.900 --> 1:25:08.220
+ Yeah, you can balance that out
+
+1:25:08.220 --> 1:25:10.900
+ by covering up the dominant eye a little bit each day.
+
+1:25:10.900 --> 1:25:12.900
+ But I would warn any young people,
+
+1:25:12.900 --> 1:25:15.960
+ meaning 12 or younger,
+
+1:25:15.960 --> 1:25:18.080
+ against creating these imbalances
+
+1:25:18.080 --> 1:25:20.340
+ if there isn't a clinical need to do that.
+
+1:25:20.340 --> 1:25:23.700
+ And if you do have strong imbalances between the two eyes,
+
+1:25:23.700 --> 1:25:27.500
+ which can be caused by cataract and lens issues,
+
+1:25:27.500 --> 1:25:29.900
+ can be caused by neuromuscular issues, et cetera,
+
+1:25:29.900 --> 1:25:32.700
+ to try and get those dealt with as early as possible
+
+1:25:32.700 --> 1:25:35.380
+ by contacting a really good ophthalmologist
+
+1:25:35.380 --> 1:25:37.660
+ and ideally a neuro-ophthalmologist.
+
+1:25:37.660 --> 1:25:39.180
+ It is very normal.
+
+1:25:39.180 --> 1:25:42.580
+ I should say it's very common for young children, babies,
+
+1:25:42.580 --> 1:25:45.340
+ to have an eye with strabismus
+
+1:25:45.340 --> 1:25:47.980
+ that either deviates out or that deviates in.
+
+1:25:47.980 --> 1:25:50.140
+ It is important to correct that
+
+1:25:50.140 --> 1:25:53.180
+ if you would like to have balanced vision
+
+1:25:53.180 --> 1:25:54.020
+ between the two eyes
+
+1:25:54.020 --> 1:25:57.340
+ and for the brain to respond equally to the two eyes
+
+1:25:57.340 --> 1:26:01.440
+ and to have, I would say, high-fidelity quality vision.
+
+1:26:01.440 --> 1:26:03.300
+ Although some people who have an eye
+
+1:26:03.300 --> 1:26:06.580
+ that drifts can function normally in life,
+
+1:26:06.580 --> 1:26:09.220
+ you have an opportunity early in life to rescue that.
+
+1:26:10.720 --> 1:26:11.700
+ Well, maybe I will do this,
+
+1:26:11.700 --> 1:26:14.500
+ but I can actually relax this eye.
+
+1:26:14.500 --> 1:26:16.120
+ It's so weak in some cases
+
+1:26:16.120 --> 1:26:17.460
+ that it actually can start to deviate.
+
+1:26:17.460 --> 1:26:18.380
+ Here, I'll just do this here.
+
+1:26:18.380 --> 1:26:19.220
+ It's not crossing my eyes.
+
+1:26:19.220 --> 1:26:22.260
+ So I actually can move my, I can misalign my eyes
+
+1:26:22.260 --> 1:26:23.940
+ because I have to fight very hard
+
+1:26:23.940 --> 1:26:25.740
+ to have the musculature for this eye,
+
+1:26:26.600 --> 1:26:28.700
+ keep that eye aligned with the other eye.
+
+1:26:28.700 --> 1:26:30.920
+ And that's because I've been doing eye exercises
+
+1:26:30.920 --> 1:26:32.340
+ since I was in my 20s
+
+1:26:32.340 --> 1:26:34.220
+ because I noticed when I would study a lot,
+
+1:26:34.220 --> 1:26:35.300
+ this eye would start to drift in.
+
+1:26:35.300 --> 1:26:36.200
+ I'd start to see double,
+
+1:26:36.200 --> 1:26:38.600
+ and then next thing you know, I was just covering the eye up.
+
+1:26:38.600 --> 1:26:39.900
+ It was getting weaker and weaker,
+
+1:26:39.900 --> 1:26:41.780
+ just like the atrophy of a muscle.
+
+1:26:41.780 --> 1:26:43.100
+ So I went to the doctor.
+
+1:26:43.100 --> 1:26:43.940
+ What did they do?
+
+1:26:43.940 --> 1:26:45.620
+ They did the exact wrong thing.
+
+1:26:45.620 --> 1:26:47.820
+ The optometrist I went to gave me a prism,
+
+1:26:47.820 --> 1:26:50.020
+ which adjusted it so that I could see things normally,
+
+1:26:50.020 --> 1:26:51.780
+ which just made the eye weaker and weaker.
+
+1:26:51.780 --> 1:26:54.600
+ It's like putting a weak arm into a sling.
+
+1:26:54.600 --> 1:26:58.700
+ So I had to spend at least three years of 10 minutes a day,
+
+1:26:58.700 --> 1:27:01.780
+ is what I recommend, doing near-far,
+
+1:27:01.780 --> 1:27:05.900
+ covering up my good eye, doing near-far with my bad eye,
+
+1:27:05.900 --> 1:27:09.380
+ and now it's been about 10, 12 years
+
+1:27:09.380 --> 1:27:12.460
+ that I have pretty decent binocular vision.
+
+1:27:12.460 --> 1:27:14.500
+ Now, many of you aren't dealing with this
+
+1:27:15.360 --> 1:27:17.420
+ or have these early childhood issues.
+
+1:27:17.420 --> 1:27:20.260
+ Some of you might be experiencing challenges
+
+1:27:20.260 --> 1:27:23.060
+ with fatigued eyes or with differences
+
+1:27:23.060 --> 1:27:24.260
+ in focus with the two eyes.
+
+1:27:24.260 --> 1:27:26.860
+ These eye exercises of near-far smooth pursuit
+
+1:27:26.860 --> 1:27:29.960
+ and checking for dominant and non-dominant eye
+
+1:27:29.960 --> 1:27:31.700
+ can be very beneficial.
+
+1:27:31.700 --> 1:27:32.820
+ Again, I'm not a clinician,
+
+1:27:32.820 --> 1:27:36.780
+ so I don't want to give you protocols or enforce protocols
+
+1:27:36.780 --> 1:27:37.620
+ on anybody.
+
+1:27:37.620 --> 1:27:39.340
+ You need to figure out what's right and safe for you,
+
+1:27:39.340 --> 1:27:42.060
+ given your vision history.
+
+1:27:42.060 --> 1:27:44.340
+ I do recommend talking to a really good ophthalmologist
+
+1:27:44.340 --> 1:27:46.640
+ if you have severe vision problems of any kind,
+
+1:27:46.640 --> 1:27:49.760
+ or if you want to offset vision problems of any kind.
+
+1:27:49.760 --> 1:27:51.160
+ An optometrist as well,
+
+1:27:51.160 --> 1:27:53.920
+ but ideally it would be a neuro-ophthalmologist.
+
+1:27:53.920 --> 1:27:56.580
+ Okay, I did mention hallucinations,
+
+1:27:56.580 --> 1:27:58.980
+ and they're fun to talk about and think about.
+
+1:27:58.980 --> 1:28:00.460
+ For years, people have asked,
+
+1:28:00.460 --> 1:28:03.260
+ why do people get visual hallucinations?
+
+1:28:03.260 --> 1:28:04.620
+ Costello's in sleep right now.
+
+1:28:04.620 --> 1:28:06.680
+ You can probably hear him snoring, he's snoring so loud.
+
+1:28:06.680 --> 1:28:09.780
+ He's probably having hallucinations about rabbits, pizza,
+
+1:28:09.780 --> 1:28:12.420
+ and those are mainly his favorite, and sleep.
+
+1:28:12.420 --> 1:28:14.380
+ He's dreaming about sleep in sleep.
+
+1:28:15.420 --> 1:28:18.440
+ Hallucinations are a property of the visual system,
+
+1:28:18.440 --> 1:28:21.940
+ and it was always thought that hallucinations arise
+
+1:28:21.940 --> 1:28:24.280
+ because of over-activation or activation
+
+1:28:24.280 --> 1:28:25.820
+ of certain aspects of the visual system.
+
+1:28:25.820 --> 1:28:27.420
+ I just briefly want to mention a paper
+
+1:28:27.420 --> 1:28:28.740
+ that was published by my good friend
+
+1:28:28.740 --> 1:28:33.040
+ and phenomenal scientist and physicist for that matter,
+
+1:28:33.040 --> 1:28:36.580
+ Chris Neal, who's up at the University of Oregon in Eugene,
+
+1:28:36.580 --> 1:28:38.940
+ they studied LSD-like compounds
+
+1:28:38.940 --> 1:28:42.260
+ and discovered that hallucinations actually occur
+
+1:28:42.260 --> 1:28:46.200
+ because portions of your brain become underactive.
+
+1:28:46.200 --> 1:28:49.020
+ The visual portions of your brain are understimulated.
+
+1:28:49.020 --> 1:28:52.540
+ This is probably why when people go into these cave retreats,
+
+1:28:52.540 --> 1:28:55.180
+ something I've never done, I don't think I ever will do,
+
+1:28:55.180 --> 1:28:56.760
+ where it's completely black,
+
+1:28:56.760 --> 1:28:58.900
+ pretty soon they start hallucinating.
+
+1:28:58.900 --> 1:29:01.860
+ They start seeing things, even though there's nothing there.
+
+1:29:01.860 --> 1:29:04.880
+ The visual system is desperate to make guesses
+
+1:29:04.880 --> 1:29:06.020
+ about what's out in the world.
+
+1:29:06.020 --> 1:29:07.520
+ It's like the eager beaver of your brain.
+
+1:29:07.520 --> 1:29:08.620
+ It's like, what's out there, what's out there,
+
+1:29:08.620 --> 1:29:10.220
+ what's out there?
+
+1:29:10.220 --> 1:29:12.940
+ Even in low to no vision people, blind people,
+
+1:29:13.820 --> 1:29:15.540
+ their brain is going to be making guesses
+
+1:29:15.540 --> 1:29:17.180
+ about what's out there in the auditory world,
+
+1:29:17.180 --> 1:29:20.740
+ what sounds are there, what touch sensations are there.
+
+1:29:20.740 --> 1:29:23.380
+ For sighted folks, it's going to be
+
+1:29:23.380 --> 1:29:24.940
+ what's out there in terms of light.
+
+1:29:24.940 --> 1:29:27.180
+ Light is the dominant way, vision is the dominant way
+
+1:29:27.180 --> 1:29:29.220
+ that we evaluate the world around us.
+
+1:29:29.220 --> 1:29:31.740
+ So it turns out that hallucinations
+
+1:29:31.740 --> 1:29:34.220
+ are an underactivation of the visual system
+
+1:29:34.220 --> 1:29:36.840
+ and then a compensatory, a compensation
+
+1:29:36.840 --> 1:29:39.900
+ by which the visual system creates activity
+
+1:29:39.900 --> 1:29:41.020
+ and hallucinations.
+
+1:29:41.020 --> 1:29:42.640
+ So if you're in the dark long enough,
+
+1:29:42.640 --> 1:29:44.660
+ you start to hallucinate and see things.
+
+1:29:44.660 --> 1:29:47.680
+ So that's a little note about hallucinations.
+
+1:29:47.680 --> 1:29:49.860
+ One of the things that you can do to improve your vision,
+
+1:29:49.860 --> 1:29:51.500
+ and it's also kind of fun,
+
+1:29:51.500 --> 1:29:54.980
+ is to put a Snellen chart in your home.
+
+1:29:54.980 --> 1:29:57.220
+ A Snellen chart is that list of letters.
+
+1:29:57.220 --> 1:29:59.840
+ If you go to the dreaded Department of Motor Vehicles,
+
+1:29:59.840 --> 1:30:01.120
+ actually, I'm up for renewal soon,
+
+1:30:01.120 --> 1:30:03.560
+ so I love the Department of Motor Vehicles.
+
+1:30:03.560 --> 1:30:04.680
+ The Department of Motor Vehicles
+
+1:30:04.680 --> 1:30:06.260
+ will have you cover up an eye,
+
+1:30:06.260 --> 1:30:09.420
+ read the letters on the chart.
+
+1:30:09.420 --> 1:30:11.060
+ The letters, of course, get smaller and smaller.
+
+1:30:11.060 --> 1:30:13.580
+ They're trying to figure out roughly what your vision is.
+
+1:30:13.580 --> 1:30:16.480
+ Cover up the other eye, you'll do that.
+
+1:30:16.480 --> 1:30:19.580
+ Some people, including nerdy vision scientists like me,
+
+1:30:19.580 --> 1:30:22.020
+ have had Snellen charts in their office
+
+1:30:22.020 --> 1:30:24.240
+ or in their home for many years now,
+
+1:30:24.240 --> 1:30:25.220
+ and you can just practice,
+
+1:30:25.220 --> 1:30:26.240
+ and you can see how you're doing
+
+1:30:26.240 --> 1:30:27.900
+ sitting at a particular distance.
+
+1:30:29.660 --> 1:30:31.200
+ This is something that's not often mentioned,
+
+1:30:31.200 --> 1:30:34.540
+ but your performance on the Snellen chart will vary
+
+1:30:34.540 --> 1:30:36.140
+ depending on time of day,
+
+1:30:36.140 --> 1:30:37.980
+ because your level of fatigue
+
+1:30:37.980 --> 1:30:39.900
+ and your ability to control that accommodation
+
+1:30:39.900 --> 1:30:42.540
+ and other mechanisms of the eye muscles will vary.
+
+1:30:42.540 --> 1:30:44.540
+ So you can take it as an average.
+
+1:30:44.540 --> 1:30:46.380
+ It's also a good thing
+
+1:30:46.380 --> 1:30:48.100
+ if you're going to get your vision tested
+
+1:30:48.100 --> 1:30:49.620
+ for corrective lenses,
+
+1:30:49.620 --> 1:30:51.500
+ or maybe you're going to do laser surgery
+
+1:30:51.500 --> 1:30:52.540
+ or something of that sort.
+
+1:30:52.540 --> 1:30:53.780
+ If you're thinking about any of that,
+
+1:30:53.780 --> 1:30:55.620
+ to really get it measured by a professional,
+
+1:30:55.620 --> 1:30:57.820
+ the ones that you get in those supermarkets
+
+1:30:58.900 --> 1:31:00.980
+ or in many eyeglass stores,
+
+1:31:00.980 --> 1:31:02.220
+ apologies to the eyeglass stores,
+
+1:31:02.220 --> 1:31:05.420
+ are often wrong by an order of magnitude.
+
+1:31:06.360 --> 1:31:08.900
+ And then when you start putting corrective lenses on
+
+1:31:08.900 --> 1:31:12.340
+ that are over-correcting or under-correcting,
+
+1:31:12.340 --> 1:31:14.340
+ but more often are over-correcting,
+
+1:31:14.340 --> 1:31:16.180
+ then you're essentially weakening the system.
+
+1:31:16.180 --> 1:31:18.340
+ It's like putting a prosthetic on a limb that you didn't
+
+1:31:18.340 --> 1:31:21.220
+ necessarily need or a robot arm
+
+1:31:21.220 --> 1:31:23.620
+ when you didn't need the use of the robot arm.
+
+1:31:23.620 --> 1:31:25.720
+ Although now there's so much excitement about robots,
+
+1:31:25.720 --> 1:31:26.780
+ I think people are going to be doing that.
+
+1:31:26.780 --> 1:31:29.140
+ Anyway, nonetheless,
+
+1:31:29.140 --> 1:31:30.500
+ get your vision tested by somebody
+
+1:31:30.500 --> 1:31:32.100
+ who really understands vision,
+
+1:31:32.100 --> 1:31:34.700
+ like an ophthalmologist or a really good optometrist.
+
+1:31:35.740 --> 1:31:38.880
+ If you put a Snellen chart in your home,
+
+1:31:38.880 --> 1:31:41.380
+ you can do that as part of your visual training.
+
+1:31:41.380 --> 1:31:43.380
+ Now, this might seem excessively nerdy,
+
+1:31:43.380 --> 1:31:46.760
+ but what is more important than your eyesight, right?
+
+1:31:46.760 --> 1:31:48.020
+ Eyesight is so vital.
+
+1:31:48.020 --> 1:31:49.420
+ It's right up there with movement
+
+1:31:49.420 --> 1:31:51.340
+ and our ability to move, to generate,
+
+1:31:51.340 --> 1:31:53.340
+ to get up out of chairs and to walk and to run
+
+1:31:53.340 --> 1:31:55.240
+ and to take care of ourselves.
+
+1:31:55.240 --> 1:31:57.860
+ Eyesight and movement are the main ways
+
+1:31:57.860 --> 1:32:00.620
+ that we are able to take care of ourselves
+
+1:32:00.620 --> 1:32:01.780
+ and take care of others.
+
+1:32:01.780 --> 1:32:03.980
+ When you start having compromised eyesight
+
+1:32:03.980 --> 1:32:05.280
+ or compromised movement,
+
+1:32:05.280 --> 1:32:06.660
+ people need to take care of us
+
+1:32:06.660 --> 1:32:08.700
+ and we become much more challenged
+
+1:32:08.700 --> 1:32:10.320
+ in moving through our daily life.
+
+1:32:10.320 --> 1:32:12.340
+ So while it might seem nerdy to have a Snellen chart
+
+1:32:12.340 --> 1:32:15.700
+ in your home or to do a smooth pursuit exercise
+
+1:32:15.700 --> 1:32:16.540
+ a couple of times a week
+
+1:32:16.540 --> 1:32:18.100
+ or to get outside for a few hours a day
+
+1:32:18.100 --> 1:32:20.780
+ and do your reading or your laptop work there,
+
+1:32:20.780 --> 1:32:23.220
+ preserving your eyesight and preserving your vision
+
+1:32:23.220 --> 1:32:25.660
+ is one of the most life enhancing
+
+1:32:25.660 --> 1:32:27.940
+ or quality of life enhancing things that you can do.
+
+1:32:27.940 --> 1:32:29.580
+ And if you're a young person
+
+1:32:29.580 --> 1:32:32.820
+ and you can build some of this into your framework
+
+1:32:32.820 --> 1:32:36.300
+ of exercise or brain training, if you want to call it that,
+
+1:32:36.300 --> 1:32:37.540
+ that can be immensely beneficial
+
+1:32:37.540 --> 1:32:39.900
+ and will really set you up to have really good vision
+
+1:32:39.900 --> 1:32:41.260
+ over a long period of time.
+
+1:32:41.260 --> 1:32:42.940
+ Now, of course there are genetic factors
+
+1:32:42.940 --> 1:32:45.300
+ and there are injury related factors
+
+1:32:45.300 --> 1:32:48.500
+ that can compromise eyesight and our ability to see.
+
+1:32:48.500 --> 1:32:51.620
+ And of course, the things I'm talking about today
+
+1:32:51.620 --> 1:32:53.500
+ aren't going to solve all those issues
+
+1:32:53.500 --> 1:32:57.000
+ but they can have a tremendous positive impact
+
+1:32:57.000 --> 1:32:58.900
+ if you're willing to do just a little bit of work
+
+1:32:58.900 --> 1:33:02.660
+ and none of this is involving any cost, right?
+
+1:33:02.660 --> 1:33:04.320
+ It's just time cost.
+
+1:33:04.320 --> 1:33:06.840
+ So I do want to talk about a few other things
+
+1:33:06.840 --> 1:33:09.360
+ that can perhaps improve vision.
+
+1:33:09.360 --> 1:33:12.340
+ I want to dispel a few myths about stuff to take
+
+1:33:12.340 --> 1:33:13.540
+ to improve vision.
+
+1:33:13.540 --> 1:33:15.780
+ And then I want to just close
+
+1:33:15.780 --> 1:33:19.800
+ by talking about how we perceive time using our vision
+
+1:33:19.800 --> 1:33:21.460
+ because that will nicely set the stage
+
+1:33:21.460 --> 1:33:23.980
+ for what we're going to talk about next episode.
+
+1:33:23.980 --> 1:33:27.540
+ So now you understand a lot about the biology of vision.
+
+1:33:27.540 --> 1:33:29.540
+ You understand that light has to arrive at the retina
+
+1:33:29.540 --> 1:33:32.020
+ and get converted into electrical signals.
+
+1:33:32.020 --> 1:33:36.420
+ That process requires things like vitamin A,
+
+1:33:36.420 --> 1:33:38.540
+ a fat soluble vitamin.
+
+1:33:38.540 --> 1:33:42.060
+ It requires things like the carotenoids.
+
+1:33:42.060 --> 1:33:45.440
+ That metabolic cascade, the biochemical cascade
+
+1:33:46.320 --> 1:33:47.820
+ is essential for vision.
+
+1:33:47.820 --> 1:33:49.220
+ And this is why you've been told
+
+1:33:49.220 --> 1:33:50.900
+ that carrots help you see better
+
+1:33:50.900 --> 1:33:52.500
+ because they're high in vitamin A.
+
+1:33:53.900 --> 1:33:55.340
+ There are a few simple things you can do
+
+1:33:55.340 --> 1:33:56.820
+ to support your vision.
+
+1:33:56.820 --> 1:34:01.820
+ First of all, it is true that eating vegetables,
+
+1:34:02.300 --> 1:34:05.060
+ the dark leafy vegetables and things like carrots
+
+1:34:05.060 --> 1:34:08.020
+ that have vitamin A in abundance
+
+1:34:08.020 --> 1:34:11.160
+ and eating them in close to their raw form.
+
+1:34:11.160 --> 1:34:14.740
+ So naturally occurring foods that contain a lot of vitamin A
+
+1:34:14.740 --> 1:34:19.420
+ in their raw form can help support vision.
+
+1:34:19.420 --> 1:34:20.260
+ Now, does that mean that
+
+1:34:20.260 --> 1:34:23.540
+ if you ingest super physiological amounts of that stuff
+
+1:34:23.540 --> 1:34:25.800
+ that it's going to make your vision that much better?
+
+1:34:25.800 --> 1:34:29.580
+ No, but you do need a threshold level of vitamin A
+
+1:34:29.580 --> 1:34:33.740
+ in order to see and in order to see well.
+
+1:34:33.740 --> 1:34:36.560
+ Now, there's a lot of excitement nowadays
+
+1:34:36.560 --> 1:34:39.300
+ about supplementation to help support
+
+1:34:39.300 --> 1:34:40.740
+ the health of the visual system.
+
+1:34:40.740 --> 1:34:43.060
+ And I'm somebody who's pretty open
+
+1:34:43.060 --> 1:34:45.180
+ to novel forms of supplementation.
+
+1:34:45.180 --> 1:34:46.220
+ You've probably gathered that
+
+1:34:46.220 --> 1:34:48.800
+ if you've been listening to this podcast for a while.
+
+1:34:48.800 --> 1:34:51.780
+ You have to determine what's safe and economical
+
+1:34:51.780 --> 1:34:55.660
+ and right for you, what your risk tolerance is, et cetera.
+
+1:34:55.660 --> 1:34:58.620
+ But I want to talk about a molecule
+
+1:34:58.620 --> 1:35:01.700
+ that's in a lot of supplements to support vision.
+
+1:35:01.700 --> 1:35:05.900
+ And there are some really good data on and that's lutein.
+
+1:35:05.900 --> 1:35:07.620
+ Now, the study I want to describe
+
+1:35:08.720 --> 1:35:11.300
+ is actually published in 2016.
+
+1:35:11.300 --> 1:35:12.980
+ It's from the Journal of Ophthalmology.
+
+1:35:12.980 --> 1:35:15.060
+ It's a good journal.
+
+1:35:15.060 --> 1:35:18.360
+ And the title of this paper might catch your attention.
+
+1:35:18.360 --> 1:35:22.020
+ It's increased macular pigment optical density.
+
+1:35:22.020 --> 1:35:25.980
+ That just means that the macula is an area of the eye
+
+1:35:25.980 --> 1:35:28.180
+ for central vision, for high acuity vision.
+
+1:35:29.060 --> 1:35:31.180
+ Pigment density there is good.
+
+1:35:31.180 --> 1:35:32.860
+ You want pigment there.
+
+1:35:32.860 --> 1:35:35.760
+ Increased macular pigment optical density.
+
+1:35:35.760 --> 1:35:37.580
+ And visual acuity, visual acuity
+
+1:35:37.580 --> 1:35:40.420
+ is your ability to see things in fine detail.
+
+1:35:40.420 --> 1:35:43.060
+ Following consumption of a buttermilk drink
+
+1:35:43.060 --> 1:35:45.680
+ containing lutein enriched egg yolks.
+
+1:35:45.680 --> 1:35:49.160
+ Remember raw foods, lutein enriched egg yolks.
+
+1:35:49.160 --> 1:35:50.420
+ Sounds like a Rocky movie
+
+1:35:50.420 --> 1:35:52.820
+ where he would drink the raw egg yolks.
+
+1:35:52.820 --> 1:35:56.160
+ A randomized double blind placebo controlled trial.
+
+1:35:56.160 --> 1:35:59.460
+ Now I'm not suggesting you go out and eat raw egg yolks.
+
+1:35:59.460 --> 1:36:00.580
+ There's the risk of salmonella.
+
+1:36:00.580 --> 1:36:02.740
+ Although I did hear this, someone correct me if I'm wrong,
+
+1:36:02.740 --> 1:36:06.020
+ but the salmonella is actually on the outside of the egg,
+
+1:36:06.020 --> 1:36:07.700
+ not actually in the egg itself.
+
+1:36:07.700 --> 1:36:10.860
+ It's on the shell for reasons that relate
+
+1:36:10.860 --> 1:36:13.280
+ to how that egg got into the world.
+
+1:36:13.280 --> 1:36:15.100
+ That's where the salmonella lives.
+
+1:36:15.100 --> 1:36:17.300
+ But I could be wrong about that.
+
+1:36:17.300 --> 1:36:19.700
+ But raw egg yolks are not something
+
+1:36:19.700 --> 1:36:21.920
+ that most people want to consume.
+
+1:36:21.920 --> 1:36:23.260
+ What is this lutein stuff?
+
+1:36:23.260 --> 1:36:27.540
+ Well, lutein is in the pathway that relates to vitamin A
+
+1:36:27.540 --> 1:36:31.940
+ and the formation of the opsin, the photopigment
+
+1:36:31.940 --> 1:36:33.820
+ that captures light in the back of your eye,
+
+1:36:33.820 --> 1:36:37.460
+ literally absorbs light pigment in your eye
+
+1:36:37.460 --> 1:36:39.300
+ and converts that into electrical signals
+
+1:36:39.300 --> 1:36:40.500
+ and allows you to see.
+
+1:36:40.500 --> 1:36:42.340
+ And there is some evidence.
+
+1:36:42.340 --> 1:36:44.320
+ I spoke to our chair of ophthalmology.
+
+1:36:44.320 --> 1:36:48.060
+ There is some evidence through quality peer reviewed studies
+
+1:36:48.060 --> 1:36:53.060
+ that supplementing with lutein can help offset
+
+1:36:53.440 --> 1:36:56.260
+ some of the detrimental effects
+
+1:36:56.260 --> 1:36:58.760
+ of age-related macular degeneration.
+
+1:36:58.760 --> 1:37:03.100
+ But, I want to emphasize but or emphasize however,
+
+1:37:04.660 --> 1:37:07.100
+ only for individuals with moderate
+
+1:37:07.100 --> 1:37:09.540
+ to severe macular degeneration.
+
+1:37:09.540 --> 1:37:11.580
+ For people that have normal vision
+
+1:37:11.580 --> 1:37:16.580
+ or with just a low degree of macular degeneration,
+
+1:37:16.740 --> 1:37:19.300
+ these studies did not see a significant improvement
+
+1:37:19.300 --> 1:37:21.980
+ of vision from supplementing with lutein.
+
+1:37:21.980 --> 1:37:22.980
+ So I'm not going to tell you
+
+1:37:22.980 --> 1:37:24.760
+ to supplement with lutein or not.
+
+1:37:26.140 --> 1:37:27.980
+ I don't think any study is holy,
+
+1:37:27.980 --> 1:37:30.620
+ but it does seem that if you have moderate
+
+1:37:30.620 --> 1:37:32.600
+ to severe macular degeneration,
+
+1:37:32.600 --> 1:37:33.800
+ talk to your physician of course,
+
+1:37:33.800 --> 1:37:35.140
+ talk to your ophthalmologist.
+
+1:37:35.140 --> 1:37:37.540
+ I'll always say that and I'll say it three times.
+
+1:37:39.180 --> 1:37:42.960
+ Supplementing with lutein could perhaps support vision
+
+1:37:42.960 --> 1:37:45.020
+ and offset some vision loss in that case.
+
+1:37:45.020 --> 1:37:46.980
+ Probably also talk to your ophthalmologist
+
+1:37:46.980 --> 1:37:48.300
+ or consider the red light therapy
+
+1:37:48.300 --> 1:37:49.720
+ that I talked about earlier.
+
+1:37:49.720 --> 1:37:51.900
+ Whereas if you have normal vision
+
+1:37:51.900 --> 1:37:55.500
+ or a low amount of macular degeneration,
+
+1:37:55.500 --> 1:37:57.500
+ it does not seem at least from these studies
+
+1:37:57.500 --> 1:37:59.720
+ that lutein can have much of an effect.
+
+1:37:59.720 --> 1:38:03.820
+ Now I know and I confess I'm sort of of the mind
+
+1:38:03.820 --> 1:38:08.820
+ that if I personally had age-related macular degeneration
+
+1:38:09.140 --> 1:38:10.700
+ or a propensity for it in my family,
+
+1:38:10.700 --> 1:38:11.980
+ which fortunately I don't,
+
+1:38:13.440 --> 1:38:16.580
+ but in that case, I would think that supplementing
+
+1:38:16.580 --> 1:38:20.500
+ with lutein provided it's safe could perhaps be of benefit
+
+1:38:20.500 --> 1:38:22.440
+ and you might want to consider a low dose of that.
+
+1:38:22.440 --> 1:38:25.040
+ So again, I'm not pushing any of this on anybody
+
+1:38:25.040 --> 1:38:27.180
+ by any means, but you should know
+
+1:38:27.180 --> 1:38:29.020
+ that under certain conditions
+
+1:38:29.020 --> 1:38:30.460
+ of severe macular degeneration
+
+1:38:30.460 --> 1:38:31.820
+ or moderate macular degeneration,
+
+1:38:31.820 --> 1:38:33.380
+ it does seem like lutein can be beneficial.
+
+1:38:33.380 --> 1:38:36.060
+ It does not have to be consumed through raw egg yolks,
+
+1:38:36.060 --> 1:38:39.860
+ although that is the highest density source.
+
+1:38:39.860 --> 1:38:43.440
+ Cooking your eggs, if you like your scrambled eggs dry
+
+1:38:43.440 --> 1:38:48.340
+ or you like your eggs not easy over or whatever, not runny,
+
+1:38:48.340 --> 1:38:50.980
+ then you aren't going to get the benefits of the leucine.
+
+1:38:50.980 --> 1:38:52.380
+ There are other sources of leucine,
+
+1:38:52.380 --> 1:38:53.880
+ non-animal sources of leucine as well.
+
+1:38:53.880 --> 1:38:56.980
+ You can look those up on the internet.
+
+1:38:56.980 --> 1:39:00.800
+ Now, there are other compounds that have been shown
+
+1:39:00.800 --> 1:39:03.020
+ to perhaps be important for offsetting
+
+1:39:03.020 --> 1:39:06.460
+ or helping different forms of vision loss.
+
+1:39:06.460 --> 1:39:08.420
+ One is, I'm going to spell this out,
+
+1:39:08.420 --> 1:39:13.420
+ I-D-E-B-E-N-O-N-E, indebene, indebenone, indebenone.
+
+1:39:14.860 --> 1:39:16.700
+ I can never pronounce these compounds.
+
+1:39:16.700 --> 1:39:19.380
+ Forgive me, unless I've worked with them.
+
+1:39:20.440 --> 1:39:22.580
+ There is evidence that it can be beneficial
+
+1:39:22.580 --> 1:39:27.540
+ for Lieber's congenital eye disease.
+
+1:39:27.540 --> 1:39:29.980
+ I would definitely go onto examine.com,
+
+1:39:29.980 --> 1:39:32.700
+ put in I-D-E-B-E-N-O-N-E,
+
+1:39:32.700 --> 1:39:36.580
+ and for things like Lieber's optic neuropathies,
+
+1:39:36.580 --> 1:39:38.780
+ which is a degenerative condition of the eye.
+
+1:39:39.640 --> 1:39:42.100
+ Whether or not people should just be taking this stuff anyway
+
+1:39:42.100 --> 1:39:43.220
+ is still an open question.
+
+1:39:43.220 --> 1:39:45.260
+ There aren't a lot of studies about it.
+
+1:39:45.260 --> 1:39:47.460
+ A lot of people that are interested in taking things
+
+1:39:47.460 --> 1:39:50.460
+ to support their vision are taking leucine
+
+1:39:50.460 --> 1:39:53.020
+ as a preventative measure.
+
+1:39:53.020 --> 1:39:55.380
+ I don't pass any judgment one way or the other.
+
+1:39:55.380 --> 1:39:58.820
+ Typically, those supplements also include
+
+1:39:58.820 --> 1:40:02.500
+ the zeaxathins and the astaxyns.
+
+1:40:02.500 --> 1:40:05.660
+ Okay, the pronunciation of this is terrible, I'm sure,
+
+1:40:05.660 --> 1:40:07.020
+ but that's not too far off,
+
+1:40:07.020 --> 1:40:12.020
+ but basically, Z-E-A-X-A-N-T-H-I-N.
+
+1:40:12.820 --> 1:40:13.820
+ Let's see what I start to pronounce.
+
+1:40:13.820 --> 1:40:16.980
+ Z-E-A-X-A-N-T-H-I-N.
+
+1:40:16.980 --> 1:40:21.420
+ And the other one is A-S-T-A-X-A-N-T-H-I-N.
+
+1:40:21.420 --> 1:40:24.420
+ Both of these have been shown, excuse me,
+
+1:40:24.420 --> 1:40:27.740
+ both of these have been shown to offset
+
+1:40:27.740 --> 1:40:32.740
+ some of the disruption in vision that occurs with aging.
+
+1:40:32.740 --> 1:40:35.340
+ What is astaxaxin?
+
+1:40:35.340 --> 1:40:37.420
+ It's a really interesting compound.
+
+1:40:37.420 --> 1:40:41.120
+ It's the red pink pigment found in various seafoods.
+
+1:40:41.120 --> 1:40:43.860
+ So shrimp, I'm not a big seafood fan,
+
+1:40:43.860 --> 1:40:47.180
+ but like certain fish, like you'll see at the fish market,
+
+1:40:47.180 --> 1:40:49.500
+ will have that red pink pigment,
+
+1:40:49.500 --> 1:40:51.740
+ and it's also in the feathers of flamingos.
+
+1:40:51.740 --> 1:40:54.240
+ Please don't eat the feathers of flamingos,
+
+1:40:54.240 --> 1:40:56.320
+ and please also don't eat flamingos.
+
+1:40:57.260 --> 1:40:59.500
+ It's structurally similar to beta carotene,
+
+1:40:59.500 --> 1:41:01.980
+ so it's very pro vitamin A,
+
+1:41:01.980 --> 1:41:03.680
+ but it has some chemical differences
+
+1:41:03.680 --> 1:41:05.860
+ which may make it safer than vitamin A.
+
+1:41:05.860 --> 1:41:09.180
+ Remember, vitamin A is a lipid-soluble vitamin,
+
+1:41:09.180 --> 1:41:12.700
+ so it can be stored in our body for long periods of time.
+
+1:41:12.700 --> 1:41:15.520
+ What is the deal with this astaxaxin?
+
+1:41:15.520 --> 1:41:16.460
+ What are its drawbacks?
+
+1:41:16.460 --> 1:41:20.740
+ Well, we can go to our ever favorite, examine.com.
+
+1:41:20.740 --> 1:41:21.580
+ What does it do?
+
+1:41:21.580 --> 1:41:23.400
+ Well, it has a number of different effects,
+
+1:41:23.400 --> 1:41:24.380
+ a huge number, in fact,
+
+1:41:24.380 --> 1:41:27.800
+ but it does seem to notably increase,
+
+1:41:27.800 --> 1:41:29.600
+ it's now been shown in three studies,
+
+1:41:29.600 --> 1:41:32.800
+ the antioxidant enzyme profile.
+
+1:41:32.800 --> 1:41:34.820
+ It has a number of different effects,
+
+1:41:34.820 --> 1:41:36.780
+ but the most notable for sake of this episode
+
+1:41:36.780 --> 1:41:39.140
+ is the one on ocular blood flow.
+
+1:41:39.140 --> 1:41:41.900
+ It does seem to increase the amount of ocular blood flow,
+
+1:41:41.900 --> 1:41:43.700
+ so the blood supply to the eyes,
+
+1:41:43.700 --> 1:41:46.060
+ so that makes it an interesting compound.
+
+1:41:46.060 --> 1:41:47.900
+ There's a number of other effects.
+
+1:41:47.900 --> 1:41:51.760
+ For whatever reason, it also has a notable effect,
+
+1:41:51.760 --> 1:41:55.580
+ several studies have shown this, on fertility in males,
+
+1:41:55.580 --> 1:41:59.600
+ so it seems to at least double the pregnancy rate
+
+1:41:59.600 --> 1:42:04.600
+ when men take astaxanthin and works as,
+
+1:42:05.560 --> 1:42:06.900
+ in particular, it seems here,
+
+1:42:06.900 --> 1:42:08.600
+ in men that were previously infertile,
+
+1:42:08.600 --> 1:42:11.220
+ so I don't know if that has something to do
+
+1:42:11.220 --> 1:42:13.340
+ with the blood flow to the eyes, probably not.
+
+1:42:13.340 --> 1:42:14.180
+ It probably has something to do
+
+1:42:14.180 --> 1:42:16.620
+ with something unrelated to the eyes.
+
+1:42:16.620 --> 1:42:19.100
+ Nonetheless, that's an effect of this molecule.
+
+1:42:19.100 --> 1:42:21.820
+ It's also been shown to have positive effects
+
+1:42:21.820 --> 1:42:24.260
+ on things like skin elasticity, skin moisture,
+
+1:42:24.260 --> 1:42:25.780
+ skin quality, et cetera,
+
+1:42:25.780 --> 1:42:28.740
+ probably due to its effects on blood flow.
+
+1:42:28.740 --> 1:42:33.740
+ So lutein, astaxanthin, A-S-T-A-X-A-N-T-H-I-N,
+
+1:42:34.380 --> 1:42:37.340
+ and for people who have concerns
+
+1:42:37.340 --> 1:42:39.400
+ about Leber's optic neuropathies,
+
+1:42:39.400 --> 1:42:41.740
+ which is going to be a small percentage of people out there,
+
+1:42:41.740 --> 1:42:44.080
+ but that is a pretty severe condition,
+
+1:42:44.080 --> 1:42:46.960
+ there are supplements that are available out there.
+
+1:42:46.960 --> 1:42:48.200
+ I do encourage you, as always,
+
+1:42:48.200 --> 1:42:51.580
+ to talk to your ophthalmologist and physician about them.
+
+1:42:51.580 --> 1:42:53.620
+ And I will say that there are a number of people
+
+1:42:53.620 --> 1:42:56.140
+ that take lutein and some of these other things
+
+1:42:56.140 --> 1:42:59.220
+ as a precautionary measure in order to bolster their health
+
+1:42:59.220 --> 1:43:01.540
+ in the same way that some people take vitamins and minerals
+
+1:43:01.540 --> 1:43:02.380
+ to bolster their health,
+
+1:43:02.380 --> 1:43:04.260
+ and some people are very, health, excuse me,
+
+1:43:04.260 --> 1:43:05.860
+ and some people are very averse
+
+1:43:05.860 --> 1:43:07.080
+ to taking vitamins and minerals
+
+1:43:07.080 --> 1:43:08.640
+ because they feel like they can get all that
+
+1:43:08.640 --> 1:43:10.060
+ from healthy whole foods.
+
+1:43:10.060 --> 1:43:13.820
+ And of course, you can get these things from whole foods.
+
+1:43:13.820 --> 1:43:14.660
+ The question is whether or not
+
+1:43:14.660 --> 1:43:17.300
+ you can get them in concentrations that are sufficient.
+
+1:43:17.300 --> 1:43:19.220
+ I do think that in the years to come,
+
+1:43:19.220 --> 1:43:21.900
+ we are going to see more about lutein.
+
+1:43:22.740 --> 1:43:23.780
+ I think we are going to see
+
+1:43:23.780 --> 1:43:25.840
+ more about some of these other compounds,
+
+1:43:25.840 --> 1:43:29.020
+ like astaxanthin, and hopefully by then
+
+1:43:29.020 --> 1:43:30.780
+ I'll be able to pronounce it.
+
+1:43:30.780 --> 1:43:34.160
+ But at present, these things are more or less
+
+1:43:34.160 --> 1:43:36.900
+ in the kind of experimental or self-experimental phase.
+
+1:43:36.900 --> 1:43:39.220
+ There are some good double-blind placebo-controlled studies
+
+1:43:39.220 --> 1:43:41.840
+ like the egg yolk buttermilk study of all things,
+
+1:43:41.840 --> 1:43:43.500
+ published in really good journals.
+
+1:43:43.500 --> 1:43:44.740
+ Journal of Ophthalmology,
+
+1:43:44.740 --> 1:43:48.760
+ Journal of Investigative Ophthalmology and Vision Sciences,
+
+1:43:48.760 --> 1:43:50.400
+ these are good journals.
+
+1:43:50.400 --> 1:43:53.360
+ These are journals that are peer-reviewed by experts.
+
+1:43:53.360 --> 1:43:57.920
+ The study that I mentioned earlier about keeping rooms dark,
+
+1:43:57.920 --> 1:43:59.860
+ that was also published in an excellent journal.
+
+1:43:59.860 --> 1:44:01.940
+ I think it was JAMA, I'll go back and look.
+
+1:44:01.940 --> 1:44:04.860
+ It's not on my screen any longer, but very easy to find,
+
+1:44:04.860 --> 1:44:06.420
+ and there've been some follow-up studies as well
+
+1:44:06.420 --> 1:44:09.620
+ from the University of Pennsylvania and other universities.
+
+1:44:09.620 --> 1:44:11.560
+ So everything I've talked about today
+
+1:44:11.560 --> 1:44:13.820
+ relates to studies that were done
+
+1:44:13.820 --> 1:44:15.940
+ and published in quality peer-reviewed journals.
+
+1:44:15.940 --> 1:44:17.800
+ That doesn't necessarily mean you want to run out
+
+1:44:17.800 --> 1:44:19.940
+ and start taking the stuff that I've described,
+
+1:44:19.940 --> 1:44:21.620
+ or even doing the protocols I've described.
+
+1:44:21.620 --> 1:44:24.620
+ I've given you an array, a palette, a buffet, if you will,
+
+1:44:24.620 --> 1:44:26.740
+ of things that you could do to try and enhance
+
+1:44:26.740 --> 1:44:30.060
+ or support your vision, depending on how good your vision is
+
+1:44:30.060 --> 1:44:33.300
+ your family history of vision and vision loss,
+
+1:44:33.300 --> 1:44:35.340
+ your occupational hazards,
+
+1:44:35.340 --> 1:44:38.060
+ people that work with metal filings
+
+1:44:38.060 --> 1:44:39.580
+ that are flying out of machines
+
+1:44:39.580 --> 1:44:44.420
+ are going to have a higher degree of risk
+
+1:44:44.420 --> 1:44:45.500
+ to their visual system
+
+1:44:45.500 --> 1:44:47.060
+ than will people who just do office work.
+
+1:44:47.060 --> 1:44:48.940
+ Although if you're doing a lot of office work,
+
+1:44:48.940 --> 1:44:51.660
+ chances are you're not getting a lot of long view vision,
+
+1:44:51.660 --> 1:44:52.960
+ your accommodation mechanisms
+
+1:44:52.960 --> 1:44:54.480
+ are going to start to suffer over time.
+
+1:44:54.480 --> 1:44:56.660
+ I think we can reliably predict that.
+
+1:44:56.660 --> 1:44:59.520
+ So I've tried to give you an array of behavioral tools,
+
+1:44:59.520 --> 1:45:03.060
+ and we did touch upon some supplementation tools.
+
+1:45:03.060 --> 1:45:04.860
+ I'd be remiss if I didn't say that
+
+1:45:04.860 --> 1:45:07.160
+ because blood flow is so critical
+
+1:45:07.160 --> 1:45:08.100
+ for the neurons of the eye.
+
+1:45:08.100 --> 1:45:10.120
+ Remember, these are the most metabolically active cells
+
+1:45:10.120 --> 1:45:12.760
+ in your entire body, the cells within your retina,
+
+1:45:12.760 --> 1:45:14.620
+ because blood flow is required to get them
+
+1:45:14.620 --> 1:45:16.220
+ the energy and nutrients they need.
+
+1:45:16.220 --> 1:45:19.360
+ Having a healthy cardiovascular system, right?
+
+1:45:19.360 --> 1:45:23.100
+ Doing endurance work, doing strength training work regularly
+
+1:45:23.100 --> 1:45:25.780
+ is going to support your eyes and your brain
+
+1:45:25.780 --> 1:45:26.600
+ and your vision.
+
+1:45:26.600 --> 1:45:28.860
+ It's indirect, but it's essential, right?
+
+1:45:28.860 --> 1:45:31.740
+ It's necessary, but it's not going to be sufficient.
+
+1:45:31.740 --> 1:45:33.100
+ You're going to have to do other things
+
+1:45:33.100 --> 1:45:34.820
+ to support your eyesight as well.
+
+1:45:34.820 --> 1:45:36.700
+ But having a healthy cardiovascular system
+
+1:45:36.700 --> 1:45:39.420
+ because it's going to deliver blood and oxygen
+
+1:45:39.420 --> 1:45:42.500
+ and nutrients to this incredible apparati
+
+1:45:42.500 --> 1:45:45.900
+ on the front of your face, these two pieces of brain,
+
+1:45:45.900 --> 1:45:48.420
+ is going to support your overall brain health
+
+1:45:48.420 --> 1:45:50.080
+ and vision over time.
+
+1:45:50.080 --> 1:45:51.740
+ So early in the podcast, I talked about
+
+1:45:51.740 --> 1:45:54.700
+ how the optimal window for learning is 90 minutes.
+
+1:45:54.700 --> 1:45:57.420
+ That's the so-called ultradian cycle for learning.
+
+1:45:57.420 --> 1:45:59.480
+ That's why we held our episodes to about 90 minutes.
+
+1:45:59.480 --> 1:46:02.140
+ They're now starting to extend into the hour and 50 minute
+
+1:46:02.140 --> 1:46:03.660
+ and two hour mark.
+
+1:46:03.660 --> 1:46:06.060
+ That simply reflects my enthusiasm and excitement
+
+1:46:06.060 --> 1:46:07.700
+ about these topics and my desire to give you
+
+1:46:07.700 --> 1:46:10.980
+ as much information as I possibly can in each episode.
+
+1:46:10.980 --> 1:46:12.400
+ Please remember, you don't have to listen
+
+1:46:12.400 --> 1:46:14.060
+ to the whole episode all at once.
+
+1:46:14.060 --> 1:46:15.140
+ Everything is timestamped.
+
+1:46:15.140 --> 1:46:17.940
+ Everything is captioned in English and Spanish.
+
+1:46:17.940 --> 1:46:20.220
+ The captions take a few days on YouTube.
+
+1:46:20.220 --> 1:46:21.100
+ We apologize for that,
+
+1:46:21.100 --> 1:46:23.140
+ but in order to have them done correctly,
+
+1:46:23.140 --> 1:46:25.900
+ it takes a few days after it's posted.
+
+1:46:25.900 --> 1:46:27.980
+ So if you need those captions,
+
+1:46:27.980 --> 1:46:31.380
+ please check back maybe 24 or 48 hours
+
+1:46:31.380 --> 1:46:33.420
+ after the episodes are released.
+
+1:46:33.420 --> 1:46:36.020
+ If you're enjoying this podcast and the information,
+
+1:46:36.020 --> 1:46:37.480
+ if you're finding it beneficial,
+
+1:46:37.480 --> 1:46:38.420
+ there are a couple of things that you can do
+
+1:46:38.420 --> 1:46:40.860
+ that are totally zero cost that really help us
+
+1:46:40.860 --> 1:46:44.260
+ and help you get this information going forward.
+
+1:46:44.260 --> 1:46:46.740
+ One is if you don't already subscribe on YouTube,
+
+1:46:46.740 --> 1:46:48.400
+ please do subscribe.
+
+1:46:48.400 --> 1:46:50.540
+ We release episodes every Monday and hopefully soon,
+
+1:46:50.540 --> 1:46:53.180
+ more often than that, shorter episodes as well.
+
+1:46:53.180 --> 1:46:54.820
+ But every Monday we release an episode,
+
+1:46:54.820 --> 1:46:56.780
+ please do subscribe.
+
+1:46:56.780 --> 1:46:59.240
+ If you don't already subscribe on Apple and Spotify,
+
+1:46:59.240 --> 1:47:01.720
+ that's very beneficial, please do that.
+
+1:47:01.720 --> 1:47:03.020
+ That helps us as well.
+
+1:47:03.020 --> 1:47:04.900
+ If you could give us a five star review on Apple,
+
+1:47:04.900 --> 1:47:06.780
+ if you feel that that's what we deserve
+
+1:47:06.780 --> 1:47:08.660
+ and Apple also gives you the opportunity
+
+1:47:08.660 --> 1:47:11.640
+ to give us comments, feedback about the episodes.
+
+1:47:11.640 --> 1:47:13.660
+ If you have suggestions about episodes,
+
+1:47:13.660 --> 1:47:15.660
+ feedback of any kind,
+
+1:47:15.660 --> 1:47:19.120
+ please put it in the comment section on YouTube.
+
+1:47:19.120 --> 1:47:20.340
+ Routinely throughout the week
+
+1:47:20.340 --> 1:47:21.820
+ after the release of each episode,
+
+1:47:21.820 --> 1:47:23.580
+ I cover content in shorter format
+
+1:47:23.580 --> 1:47:26.120
+ and in more depth on Instagram at Huberman Lab.
+
+1:47:27.220 --> 1:47:31.860
+ Every episode is also indexed and searchable
+
+1:47:31.860 --> 1:47:34.820
+ in the search function on our website, HubermanLab.com.
+
+1:47:34.820 --> 1:47:37.820
+ That's also where we post links to various studies
+
+1:47:37.820 --> 1:47:40.620
+ and downloadable protocols, all zero cost.
+
+1:47:40.620 --> 1:47:42.760
+ And as I mentioned, you can search for different topics
+
+1:47:42.760 --> 1:47:45.200
+ and it will bring you to the particular episodes
+
+1:47:45.200 --> 1:47:48.020
+ that contain the information on those topics.
+
+1:47:48.020 --> 1:47:50.500
+ If you'd like to support us on Patreon,
+
+1:47:50.500 --> 1:47:51.620
+ we have a Patreon account,
+
+1:47:51.620 --> 1:47:54.780
+ it's patreon.com slash Andrew Huberman.
+
+1:47:54.780 --> 1:47:57.400
+ There you can support us at any level that you like.
+
+1:47:57.400 --> 1:47:59.540
+ As well, if you'd like to support us,
+
+1:47:59.540 --> 1:48:01.020
+ please check out our sponsors.
+
+1:48:01.020 --> 1:48:02.180
+ The sponsors that we discussed
+
+1:48:02.180 --> 1:48:03.580
+ at the beginning of the podcast
+
+1:48:03.580 --> 1:48:05.620
+ are a vital way to keep the information
+
+1:48:05.620 --> 1:48:07.980
+ being distributed at zero cost to everybody.
+
+1:48:09.020 --> 1:48:10.480
+ We only work with sponsors
+
+1:48:10.480 --> 1:48:12.600
+ that we really love their products
+
+1:48:12.600 --> 1:48:14.020
+ and that we really respect the people
+
+1:48:14.020 --> 1:48:15.540
+ that we're working with there.
+
+1:48:15.540 --> 1:48:18.220
+ And of course, there's no obligation to purchase
+
+1:48:18.220 --> 1:48:19.920
+ or to even check out those sponsors,
+
+1:48:19.920 --> 1:48:21.300
+ but if you're in a position to do so,
+
+1:48:21.300 --> 1:48:23.040
+ that really does help us.
+
+1:48:23.040 --> 1:48:24.460
+ Routinely throughout the podcast,
+
+1:48:24.460 --> 1:48:25.520
+ we talk about supplements.
+
+1:48:25.520 --> 1:48:26.780
+ There are a lot of supplement companies
+
+1:48:26.780 --> 1:48:28.940
+ and sources of supplements out there.
+
+1:48:28.940 --> 1:48:30.700
+ The one that we work with and that we partnered with
+
+1:48:30.700 --> 1:48:33.160
+ is Thorne, T-H-O-R-N-E,
+
+1:48:33.160 --> 1:48:35.340
+ because Thorne has the highest levels of stringency
+
+1:48:35.340 --> 1:48:38.300
+ in terms of what they say is in their supplements
+
+1:48:38.300 --> 1:48:39.380
+ is actually in their supplements
+
+1:48:39.380 --> 1:48:41.220
+ because it's independently tested and verified,
+
+1:48:41.220 --> 1:48:44.200
+ as well as the amounts that they list on the bottles
+
+1:48:44.200 --> 1:48:47.620
+ actually are matched by what's in the capsules and tablets.
+
+1:48:47.620 --> 1:48:49.820
+ That's a serious problem in the supplement industry.
+
+1:48:49.820 --> 1:48:52.880
+ And Thorne deals with that problem by being very truthful
+
+1:48:52.880 --> 1:48:55.200
+ and very accurate about what's in their supplements
+
+1:48:55.200 --> 1:48:56.820
+ and how much of those things are in there.
+
+1:48:56.820 --> 1:48:58.660
+ If you want to see the supplements that I take,
+
+1:48:58.660 --> 1:49:01.340
+ you can go to Thorne, thorne.com,
+
+1:49:01.340 --> 1:49:04.340
+ slash the letter U, slash Huberman.
+
+1:49:04.340 --> 1:49:06.580
+ There you'll see all the supplements that I take.
+
+1:49:06.580 --> 1:49:08.820
+ You can get 20% off any of those supplements,
+
+1:49:08.820 --> 1:49:11.300
+ as well as 20% off any of the other supplements
+
+1:49:11.300 --> 1:49:13.040
+ that Thorne happens to make
+
+1:49:13.040 --> 1:49:14.740
+ if you happen to navigate into their website
+
+1:49:14.740 --> 1:49:17.500
+ through that portal, thorne.com,
+
+1:49:17.500 --> 1:49:19.860
+ slash the letter U, slash Huberman.
+
+1:49:19.860 --> 1:49:21.260
+ And last but not least,
+
+1:49:21.260 --> 1:49:23.380
+ I want to thank you for your time and attention today,
+
+1:49:23.380 --> 1:49:25.020
+ your willingness to learn about vision
+
+1:49:25.020 --> 1:49:27.560
+ in the visual system and the various things that you can do
+
+1:49:27.560 --> 1:49:28.820
+ to help support the health
+
+1:49:28.820 --> 1:49:30.780
+ and functioning of your visual system.
+
+1:49:30.780 --> 1:49:31.920
+ And of course, I want to thank you
+
+1:49:31.920 --> 1:49:33.460
+ for your interest in science.
+
+1:49:33.460 --> 1:49:58.380
+ I'll see you in the next one.
+

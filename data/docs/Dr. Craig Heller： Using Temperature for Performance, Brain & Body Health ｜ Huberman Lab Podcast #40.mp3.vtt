@@ -1,0 +1,7874 @@
+WEBVTT
+
+00:00.000 --> 00:02.240
+ Welcome to the Huberman Lab Podcast,
+
+00:02.240 --> 00:04.880
+ where we discuss science and science-based tools
+
+00:04.880 --> 00:05.920
+ for everyday life.
+
+00:09.480 --> 00:10.560
+ I'm Andrew Huberman,
+
+00:10.560 --> 00:13.080
+ and I'm a professor of neurobiology and ophthalmology
+
+00:13.080 --> 00:15.120
+ at Stanford School of Medicine.
+
+00:15.120 --> 00:18.040
+ Today, I have the pleasure of introducing Dr. Craig Heller
+
+00:18.040 --> 00:20.800
+ as my guest on the Huberman Lab Podcast.
+
+00:20.800 --> 00:22.800
+ Dr. Heller is a professor of biology
+
+00:22.800 --> 00:25.240
+ and neurosciences at Stanford.
+
+00:25.240 --> 00:27.480
+ His laboratory works on a range of topics,
+
+00:27.480 --> 00:30.420
+ including thermoregulation, down syndrome,
+
+00:30.420 --> 00:32.120
+ and circadian rhythms.
+
+00:32.120 --> 00:34.400
+ Today, we talk about thermoregulation,
+
+00:34.400 --> 00:36.880
+ how the body heats and cools itself
+
+00:36.880 --> 00:39.660
+ and maintains what we call homeostasis,
+
+00:39.660 --> 00:41.760
+ which is an equilibrium of processes
+
+00:41.760 --> 00:43.560
+ that keeps our neurons healthy,
+
+00:43.560 --> 00:45.280
+ our organs functioning well.
+
+00:45.280 --> 00:48.000
+ And as Dr. Heller teaches us,
+
+00:48.000 --> 00:49.760
+ thermoregulation can be leveraged
+
+00:49.760 --> 00:53.380
+ in order to greatly increase our performance in athletics
+
+00:53.380 --> 00:55.700
+ and mental performance as well.
+
+00:55.700 --> 00:58.200
+ Learning to control your core body temperature
+
+00:58.200 --> 01:01.320
+ is one of the most, if not the most powerful thing
+
+01:01.320 --> 01:04.560
+ that you can do to optimize mental and physical performance
+
+01:04.560 --> 01:06.840
+ regardless of the environment that you're in.
+
+01:06.840 --> 01:08.720
+ He also dispels many common myths
+
+01:08.720 --> 01:10.880
+ about heating and cooling the body,
+
+01:10.880 --> 01:13.240
+ including the idea that putting a cold pack
+
+01:13.240 --> 01:15.080
+ on your head or neck is the optimal way
+
+01:15.080 --> 01:16.280
+ to cool down quickly.
+
+01:16.280 --> 01:18.880
+ And in fact, as Dr. Heller tells us,
+
+01:18.880 --> 01:20.480
+ it actually can be counterproductive
+
+01:20.480 --> 01:22.760
+ and lead to hyperthermia.
+
+01:22.760 --> 01:24.400
+ It's a fascinating conversation
+
+01:24.400 --> 01:26.160
+ from which I learned a tremendous amount
+
+01:26.160 --> 01:27.520
+ of new information,
+
+01:27.520 --> 01:29.560
+ and we didn't even get into the other
+
+01:29.560 --> 01:31.700
+ incredibly interesting work that Dr. Heller does
+
+01:31.700 --> 01:34.680
+ on Down syndrome and circadian rhythms and sleep.
+
+01:34.680 --> 01:36.320
+ So we hope to have him back in the future
+
+01:36.320 --> 01:38.400
+ to discuss those topics.
+
+01:38.400 --> 01:39.240
+ As you'll soon see,
+
+01:39.240 --> 01:41.480
+ Dr. Heller is a wealth of knowledge
+
+01:41.480 --> 01:44.760
+ on all things human physiology, biology,
+
+01:44.760 --> 01:46.400
+ and human performance.
+
+01:46.400 --> 01:48.240
+ It's no surprise then that he's been
+
+01:48.240 --> 01:51.200
+ chair of the biology department at Stanford for many years,
+
+01:51.200 --> 01:54.280
+ as well as director of the human biology program.
+
+01:54.280 --> 01:55.920
+ So if you're interested in human biology
+
+01:55.920 --> 01:57.860
+ and how to improve your performance
+
+01:57.860 --> 02:01.320
+ in any context or setting, athletic or otherwise,
+
+02:01.320 --> 02:04.160
+ I think you'll very much enjoy today's conversation.
+
+02:04.160 --> 02:05.000
+ Before we begin,
+
+02:05.000 --> 02:06.800
+ I'd like to emphasize that this podcast
+
+02:06.800 --> 02:09.520
+ is separate from my teaching and research roles at Stanford.
+
+02:09.520 --> 02:11.600
+ It is however, part of my desire and effort
+
+02:11.600 --> 02:13.520
+ to bring zero cost to consumer information
+
+02:13.520 --> 02:15.800
+ about science and science related tools
+
+02:15.800 --> 02:17.320
+ to the general public.
+
+02:17.320 --> 02:18.400
+ In keeping with that theme,
+
+02:18.400 --> 02:21.260
+ I'd like to thank the sponsors of today's podcast.
+
+02:21.260 --> 02:23.200
+ Our first sponsor is Roca.
+
+02:23.200 --> 02:25.300
+ Roca makes sunglasses and eyeglasses
+
+02:25.300 --> 02:27.860
+ that are of the absolute highest quality.
+
+02:27.860 --> 02:30.240
+ I've spent a lifetime working on the visual system.
+
+02:30.240 --> 02:31.440
+ I can tell you that the visual system
+
+02:31.440 --> 02:32.640
+ has to go through a lot of work
+
+02:32.640 --> 02:35.360
+ in order to maintain clarity of what you see
+
+02:35.360 --> 02:36.760
+ when there are shadows,
+
+02:36.760 --> 02:38.600
+ when you go into different types of indoor lighting
+
+02:38.600 --> 02:39.440
+ and so on.
+
+02:39.440 --> 02:41.040
+ And a lot of glasses don't work well
+
+02:41.040 --> 02:44.280
+ because you put them on and then you're in bright light
+
+02:44.280 --> 02:46.040
+ and you can see fine, but then you move into a shadow
+
+02:46.040 --> 02:47.160
+ and then you have to take them off
+
+02:47.160 --> 02:49.800
+ and they don't adjust or they don't adjust quickly enough.
+
+02:49.800 --> 02:52.720
+ With Roca, their eyeglasses and sunglasses are designed
+
+02:52.720 --> 02:55.360
+ with the visual system biology in mind.
+
+02:55.360 --> 02:57.280
+ So you always see things with perfect clarity.
+
+02:57.280 --> 02:58.600
+ The glasses are also terrific
+
+02:58.600 --> 02:59.920
+ because they're very lightweight
+
+02:59.920 --> 03:02.280
+ and they won't slip off your face if you're exercising,
+
+03:02.280 --> 03:03.280
+ if you're running or biking.
+
+03:03.280 --> 03:05.000
+ In fact, they were designed for the purpose
+
+03:05.000 --> 03:07.440
+ of being able to be worn while you're engaging
+
+03:07.440 --> 03:10.420
+ in those sorts of activities or simply working at your desk.
+
+03:10.420 --> 03:12.840
+ I happen to wear readers at night
+
+03:12.840 --> 03:14.360
+ when I drive or when I work,
+
+03:14.360 --> 03:15.800
+ and I love their sunglasses
+
+03:15.800 --> 03:17.280
+ because I can wear them anywhere.
+
+03:17.280 --> 03:19.600
+ And also the aesthetics of their sunglasses
+
+03:19.600 --> 03:20.920
+ and eyeglasses are terrific.
+
+03:20.920 --> 03:22.760
+ Unlike a lot of other performance glasses
+
+03:22.760 --> 03:25.180
+ that frankly make people look like cyborgs,
+
+03:25.180 --> 03:27.000
+ the aesthetics on Roca's are really terrific.
+
+03:27.000 --> 03:29.200
+ You could wear them anywhere you'd like to go.
+
+03:29.200 --> 03:30.680
+ If you'd like to try Roca glasses,
+
+03:30.680 --> 03:34.120
+ you can go to roca.com, that's R-O-K-A dot com
+
+03:34.120 --> 03:37.560
+ and enter the code Huberman to save 20% off your first order
+
+03:37.560 --> 03:39.680
+ that's Roca, R-O-K-A dot com,
+
+03:39.680 --> 03:42.040
+ enter the code Huberman at checkout.
+
+03:42.040 --> 03:45.520
+ Today's podcast is also brought to us by Inside Tracker.
+
+03:45.520 --> 03:47.960
+ Inside Tracker is a personalized nutrition platform
+
+03:47.960 --> 03:50.360
+ that analyzes data from your blood and DNA
+
+03:50.360 --> 03:52.360
+ to help you better understand your body
+
+03:52.360 --> 03:54.320
+ and help you reach your health goals.
+
+03:54.320 --> 03:57.360
+ I'm a big believer in getting regular blood work done.
+
+03:57.360 --> 03:59.640
+ And now with the advent of modern DNA tests,
+
+03:59.640 --> 04:01.600
+ you can also analyze your DNA
+
+04:01.600 --> 04:03.540
+ to see what you ought to be doing
+
+04:03.540 --> 04:05.920
+ for your immediate and long-term health.
+
+04:05.920 --> 04:07.760
+ We hear a lot these days about optimization,
+
+04:07.760 --> 04:09.960
+ optimizing hormones, optimizing your metabolism,
+
+04:09.960 --> 04:11.400
+ optimizing this, optimizing that.
+
+04:11.400 --> 04:14.440
+ But unless you know the measurements of metabolic factors,
+
+04:14.440 --> 04:17.960
+ hormones, and other things that are in your blood and DNA,
+
+04:17.960 --> 04:19.720
+ you don't know what to optimize.
+
+04:19.720 --> 04:22.520
+ With Inside Tracker, it makes all of that very easy.
+
+04:22.520 --> 04:24.720
+ They can come to your house to take the blood and DNA test,
+
+04:24.720 --> 04:26.840
+ or you can go to a nearby clinic.
+
+04:26.840 --> 04:29.680
+ They send you the information and you take those results.
+
+04:29.680 --> 04:31.800
+ And unlike a lot of laboratories
+
+04:31.800 --> 04:34.040
+ doing blood work out there and DNA tests,
+
+04:34.040 --> 04:36.180
+ they have a simple platform, a dashboard,
+
+04:36.180 --> 04:38.160
+ that walks you through your results
+
+04:38.160 --> 04:40.560
+ and helps you identify what sorts of nutritional
+
+04:40.560 --> 04:42.880
+ or behavioral or other types of practices
+
+04:42.880 --> 04:44.600
+ you might want to incorporate into your life
+
+04:44.600 --> 04:46.500
+ in order to positively impact
+
+04:46.500 --> 04:48.480
+ your immediate and long-term health.
+
+04:48.480 --> 04:50.180
+ It's a very easy system to use,
+
+04:50.180 --> 04:51.760
+ and you will gain a ton of information
+
+04:51.760 --> 04:52.940
+ simply by doing that test,
+
+04:52.940 --> 04:54.340
+ whether or not you end up making changes
+
+04:54.340 --> 04:56.100
+ to what you're doing or not.
+
+04:56.100 --> 04:57.920
+ If you'd like to try Inside Tracker,
+
+04:57.920 --> 05:00.960
+ you can go to insidetracker.com slash Huberman
+
+05:00.960 --> 05:03.920
+ to get 25% off any of Inside Tracker's plans.
+
+05:03.920 --> 05:06.620
+ Just use the code Huberman at checkout.
+
+05:06.620 --> 05:09.720
+ Today's episode is also brought to us by Athletic Greens.
+
+05:09.720 --> 05:11.260
+ Athletic Greens is an all-in-one
+
+05:11.260 --> 05:13.760
+ vitamin mineral probiotic drink.
+
+05:13.760 --> 05:16.300
+ I've been using Athletic Greens since 2012,
+
+05:16.300 --> 05:18.820
+ so I'm delighted that they're sponsoring the podcast.
+
+05:18.820 --> 05:20.480
+ The reason I started using Athletic Greens
+
+05:20.480 --> 05:22.120
+ and the reason I still take Athletic Greens
+
+05:22.120 --> 05:23.640
+ once or twice a day
+
+05:23.640 --> 05:26.460
+ is because it covers all of my nutritional bases.
+
+05:26.460 --> 05:29.240
+ In fact, if people ask me and I often am asked,
+
+05:29.240 --> 05:31.120
+ what supplement should I take?
+
+05:31.120 --> 05:33.000
+ I always recommend Athletic Greens.
+
+05:33.000 --> 05:35.520
+ And in fact, if you were to take just one supplement,
+
+05:35.520 --> 05:38.160
+ I recommend Athletic Greens for the simple reason
+
+05:38.160 --> 05:41.940
+ that the vitamins, minerals, and probiotics and adaptogens
+
+05:41.940 --> 05:44.040
+ cover all your nutritional bases
+
+05:44.040 --> 05:46.900
+ and the probiotics optimize gut brain health,
+
+05:46.900 --> 05:49.560
+ which we now know is essential for mood,
+
+05:49.560 --> 05:52.260
+ for immune system function, for metabolic function.
+
+05:52.260 --> 05:54.600
+ It's got so many great things in there.
+
+05:54.600 --> 05:55.640
+ I really do feel better
+
+05:55.640 --> 05:57.280
+ when I'm drinking my Athletic Greens.
+
+05:57.280 --> 06:00.360
+ I mix mine up with some water, a little bit of lemon juice,
+
+06:00.360 --> 06:03.960
+ and as I mentioned before, I'll drink it once or twice a day.
+
+06:03.960 --> 06:06.200
+ If I travel, I might even drink it a third time
+
+06:06.200 --> 06:09.720
+ just because of the additional stress on my mind and body.
+
+06:09.720 --> 06:11.040
+ If you'd like to try Athletic Greens,
+
+06:11.040 --> 06:13.900
+ you can go to athleticgreens.com slash Huberman
+
+06:13.900 --> 06:15.480
+ to claim a special offer.
+
+06:15.480 --> 06:17.340
+ They'll give you five free travel packs.
+
+06:17.340 --> 06:19.320
+ So these are travel packs that make it really easy
+
+06:19.320 --> 06:20.320
+ to mix up Athletic Greens
+
+06:20.320 --> 06:23.040
+ if you're on the plane or in the car.
+
+06:23.040 --> 06:27.040
+ And they'll give you a year supply of vitamin D3K2.
+
+06:27.040 --> 06:30.440
+ There's now ample evidence that vitamin D3K2
+
+06:30.440 --> 06:32.040
+ is supportive of the immune system
+
+06:32.040 --> 06:34.120
+ and a bunch of other biological functions.
+
+06:34.120 --> 06:35.700
+ And K2 has been shown to be important
+
+06:35.700 --> 06:37.140
+ for cardiovascular health.
+
+06:37.140 --> 06:39.860
+ So again, if you go to athleticgreens.com slash Huberman,
+
+06:39.860 --> 06:42.400
+ you'll get the Athletic Greens, the five free travel packs,
+
+06:42.400 --> 06:45.360
+ and the year supply of vitamin D3K2.
+
+06:45.360 --> 06:48.780
+ And now for my discussion with Dr. Craig Heller.
+
+06:48.780 --> 06:49.720
+ Great to have you here.
+
+06:49.720 --> 06:50.880
+ It's good to be here.
+
+06:50.880 --> 06:52.360
+ It's been a long time coming.
+
+06:53.280 --> 06:56.560
+ I know that I and many people have a lot of questions
+
+06:56.560 --> 06:58.860
+ about the use of cold.
+
+06:58.860 --> 07:02.440
+ So one of the things that's happened in recent years
+
+07:02.440 --> 07:05.640
+ is that for many reasons,
+
+07:05.640 --> 07:08.220
+ people have become interested in things
+
+07:08.220 --> 07:11.680
+ like taking cold showers and taking ice baths
+
+07:11.680 --> 07:13.760
+ for many different purposes.
+
+07:13.760 --> 07:18.240
+ Sometimes this is introduced as just a general health tonic,
+
+07:18.240 --> 07:20.760
+ but other times people get specific
+
+07:20.760 --> 07:22.840
+ about how it can improve resilience
+
+07:22.840 --> 07:25.660
+ or it can improve one's metabolism.
+
+07:27.040 --> 07:31.160
+ Could you just tell me a little bit about what happens
+
+07:31.160 --> 07:34.920
+ when I get into a cold shower or an ice bath?
+
+07:34.920 --> 07:36.920
+ What are some of the basic responses
+
+07:36.920 --> 07:38.860
+ at the level of metabolism?
+
+07:38.860 --> 07:41.500
+ Obviously, psychologically, we don't know exactly.
+
+07:41.500 --> 07:42.840
+ It'll vary from person to person,
+
+07:42.840 --> 07:46.160
+ but what happens when I submerge myself into an ice bath
+
+07:46.160 --> 07:48.220
+ if I've never done it before?
+
+07:49.120 --> 07:52.180
+ Well, first of all, you get a tremendous shock.
+
+07:52.180 --> 07:54.720
+ And what that's going to translate into
+
+07:54.720 --> 07:57.280
+ is a bit of a shot of adrenaline.
+
+07:57.280 --> 08:01.260
+ And I think this is really the so-called benefit,
+
+08:01.260 --> 08:04.620
+ but I wouldn't call it a benefit of the cryochambers.
+
+08:04.620 --> 08:06.800
+ You go into a cryochamber and it's a shock,
+
+08:06.800 --> 08:08.220
+ so you get a shot of adrenaline.
+
+08:08.220 --> 08:11.080
+ So sure, you're going to feel different when you come out.
+
+08:11.080 --> 08:12.880
+ You've had a shot of adrenaline,
+
+08:12.880 --> 08:16.840
+ but it doesn't necessarily translate into any benefit
+
+08:16.840 --> 08:21.040
+ in terms of your physiology or performance and so forth.
+
+08:21.040 --> 08:25.400
+ Now, if you take a cold bath or a cold shower,
+
+08:25.400 --> 08:26.980
+ a couple of things are happening.
+
+08:26.980 --> 08:30.440
+ One is you're going to stimulate vasoconstriction.
+
+08:30.440 --> 08:32.040
+ So if anything, it's going to make it
+
+08:32.040 --> 08:34.080
+ a little bit more difficult for your body
+
+08:34.080 --> 08:37.120
+ to get rid of heat because you're shutting off
+
+08:37.120 --> 08:40.240
+ your avenues of heat loss.
+
+08:40.240 --> 08:43.520
+ If you're in a true cold bath,
+
+08:43.520 --> 08:47.440
+ the overall surface area of your body is so great
+
+08:47.440 --> 08:49.840
+ that it doesn't matter if you've vasoconstricted,
+
+08:49.840 --> 08:51.320
+ you're still going to lose heat.
+
+08:51.320 --> 08:55.120
+ Okay, so vasoconstriction, the constriction of,
+
+08:55.120 --> 08:58.780
+ is it capillaries, vessels, and arteries all constrict
+
+08:58.780 --> 09:01.680
+ or just one or two?
+
+09:01.680 --> 09:05.340
+ Well, this is an area of controversy.
+
+09:05.340 --> 09:07.840
+ In general, when people talk of vasoconstriction,
+
+09:07.840 --> 09:10.360
+ they talk of the overall skin surface,
+
+09:10.360 --> 09:11.760
+ and that is not true.
+
+09:12.920 --> 09:15.140
+ The primary sites of heat loss,
+
+09:15.140 --> 09:17.080
+ which we're going to get into,
+
+09:17.080 --> 09:20.220
+ are the palms of your hands, the soles of your feet,
+
+09:20.220 --> 09:22.280
+ and the upper part of your face.
+
+09:22.280 --> 09:25.760
+ And the reason these are avenues for heat loss
+
+09:25.760 --> 09:28.880
+ is they're underlain by special blood vessels.
+
+09:28.880 --> 09:32.760
+ And these blood vessels are able to shunt the blood
+
+09:32.760 --> 09:35.760
+ from the arteries, which are coming from the heart,
+
+09:35.760 --> 09:38.960
+ directly to the veins, which are returning to the heart,
+
+09:38.960 --> 09:40.880
+ and bypassing the capillaries,
+
+09:40.880 --> 09:44.560
+ which are the nutritive vessels, but high resistance.
+
+09:44.560 --> 09:47.240
+ So you can tell when you shake someone's hand
+
+09:47.240 --> 09:49.700
+ what his or her thermal status is,
+
+09:49.700 --> 09:51.400
+ the hand's hot or it's cold.
+
+09:51.400 --> 09:52.240
+ And sometimes it's-
+
+09:52.240 --> 09:53.060
+ Do you think that's part of the reason
+
+09:53.060 --> 09:56.640
+ why humans evolved this practice of shaking hands,
+
+09:56.640 --> 09:58.520
+ assessing each other's level of anxiety?
+
+09:58.520 --> 10:00.040
+ We all know that a limp handshake
+
+10:00.040 --> 10:02.360
+ is pretty indicative of something,
+
+10:02.360 --> 10:04.480
+ and a firm handshake is indicative of something,
+
+10:04.480 --> 10:07.360
+ as is the crushing handshake for that matter, right?
+
+10:07.360 --> 10:08.360
+ Yeah, I really don't know
+
+10:08.360 --> 10:10.880
+ what the evolutionary origin of handshaking is
+
+10:10.880 --> 10:14.720
+ other than to get your hand away from your weapon, perhaps.
+
+10:14.720 --> 10:16.720
+ Right, a couple of questions
+
+10:16.720 --> 10:21.320
+ before we get into these specialized vascular compartments
+
+10:21.320 --> 10:24.840
+ on the soles, the palms, and the upper face.
+
+10:24.840 --> 10:28.160
+ You mentioned whole body immersion, like into an ice bath
+
+10:28.160 --> 10:31.880
+ or very cold water up to the neck versus a cold shower.
+
+10:31.880 --> 10:34.560
+ Is there something fundamentally different about those two
+
+10:34.560 --> 10:36.280
+ besides the fact that they both provide
+
+10:36.280 --> 10:37.780
+ this release of adrenaline?
+
+10:37.780 --> 10:40.900
+ Is there anything that's really important to understand
+
+10:40.900 --> 10:43.700
+ about the difference in the physiological response
+
+10:43.700 --> 10:48.480
+ evoked by cold shower versus immersion in cold?
+
+10:48.480 --> 10:51.380
+ Well, there are differences that are more physical
+
+10:51.380 --> 10:52.400
+ than anything else.
+
+10:52.400 --> 10:55.420
+ So if you are in a cold bath and you're still,
+
+10:55.420 --> 10:57.740
+ you develop a boundary layer.
+
+10:57.740 --> 11:00.080
+ If you're in a shower, you can't develop a boundary layer.
+
+11:00.080 --> 11:01.800
+ Could you explain what a boundary layer is?
+
+11:01.800 --> 11:06.080
+ Yes, it's best to explain it in terms of a hot bath
+
+11:06.080 --> 11:08.000
+ because everybody's experienced that.
+
+11:08.000 --> 11:11.600
+ You get into a hot bath and oh my God, it's really hot,
+
+11:11.600 --> 11:14.640
+ almost painful, and then you sit down
+
+11:14.640 --> 11:17.760
+ and eventually it doesn't feel so hot anymore
+
+11:17.760 --> 11:21.880
+ because the still water, which is close to your skin,
+
+11:21.880 --> 11:24.200
+ is coming into equilibrium with your skin.
+
+11:24.200 --> 11:28.360
+ So it's like having a blanket on you or an insulator on you.
+
+11:28.360 --> 11:32.560
+ And then if you move around, you disturb that still water
+
+11:32.560 --> 11:35.880
+ layer, you feel the hot temperature again.
+
+11:35.880 --> 11:36.720
+ I see.
+
+11:36.720 --> 11:38.760
+ So if I were to get into a cold ice bath
+
+11:38.760 --> 11:43.000
+ or a very cold body of water of some kind and stay still,
+
+11:43.000 --> 11:45.840
+ I'd likely feel warmer, at least until I start-
+
+11:45.840 --> 11:47.700
+ You're not going to be losing as much heat.
+
+11:47.700 --> 11:48.540
+ I see.
+
+11:48.540 --> 11:49.360
+ And then when I move it, I'll say-
+
+11:49.360 --> 11:51.100
+ If you flail around, if you flail around,
+
+11:51.100 --> 11:52.440
+ then you're going to lose more heat.
+
+11:52.440 --> 11:53.280
+ Got it.
+
+11:53.280 --> 11:54.100
+ Yeah.
+
+11:54.100 --> 11:55.640
+ But I think getting back to your original question
+
+11:55.640 --> 11:58.800
+ about benefits, you have to keep in mind
+
+11:58.800 --> 12:01.760
+ whether you're talking about aerobic activity
+
+12:01.760 --> 12:05.440
+ or anaerobic activity, if you're referring to performance
+
+12:05.440 --> 12:07.440
+ and exercise and so forth.
+
+12:07.440 --> 12:10.960
+ So if you're doing aerobic activity that you can sustain
+
+12:10.960 --> 12:15.960
+ for a long time, your production of heat is rising gradually
+
+12:16.640 --> 12:19.600
+ and is being distributed throughout your body.
+
+12:19.600 --> 12:22.060
+ So eventually your body temperature is going to come up
+
+12:22.060 --> 12:25.240
+ to a level that's going to impair your performance.
+
+12:25.240 --> 12:28.160
+ So the benefit of a cold bath or a cold shower
+
+12:28.160 --> 12:32.620
+ before aerobic activity is that you increase the capacity
+
+12:32.620 --> 12:35.960
+ of your body mass to absorb that excess heat.
+
+12:35.960 --> 12:36.800
+ I see.
+
+12:36.800 --> 12:41.220
+ So could you say that in a rough sense that a protocol
+
+12:41.220 --> 12:43.160
+ that one might use if they're going to head out
+
+12:43.160 --> 12:47.000
+ for a long run, even on a reasonably warm day,
+
+12:47.000 --> 12:49.680
+ not super hot, or maybe it is super hot,
+
+12:49.680 --> 12:52.980
+ would be to take a cool shower before they go run?
+
+12:52.980 --> 12:53.820
+ Would that be beneficial?
+
+12:53.820 --> 12:56.860
+ Sure, it'll take them longer to get to the sweat point
+
+12:56.860 --> 12:57.760
+ and to heat up.
+
+12:57.760 --> 12:59.040
+ And what will that translate to
+
+12:59.040 --> 13:01.680
+ in terms of a performance benefit?
+
+13:01.680 --> 13:04.000
+ Well, could increase your speed,
+
+13:04.000 --> 13:06.880
+ or it depends on how you use that benefit.
+
+13:06.880 --> 13:10.040
+ Some people are pacers, they will go at the same pace
+
+13:10.040 --> 13:12.040
+ and then they will go farther.
+
+13:12.040 --> 13:17.040
+ Or some people are, I want to say, pacers and regulators.
+
+13:17.160 --> 13:22.000
+ And no, no, pacers or forcers, they will take that advantage
+
+13:22.000 --> 13:23.860
+ and use it up as fast as they can.
+
+13:23.860 --> 13:27.420
+ So they will go faster, but not necessarily farther.
+
+13:27.420 --> 13:28.260
+ I see.
+
+13:28.260 --> 13:30.400
+ As far as I know, not many athletes,
+
+13:30.400 --> 13:31.760
+ at least not the ones that I know,
+
+13:31.760 --> 13:33.600
+ are getting into cool bodies of water,
+
+13:33.600 --> 13:36.240
+ taking cold showers before they head out to train.
+
+13:36.240 --> 13:37.260
+ But it sounds like there could be
+
+13:37.260 --> 13:39.140
+ a real performance benefit there.
+
+13:39.140 --> 13:40.640
+ It could be a benefit.
+
+13:40.640 --> 13:44.680
+ I know we're going to talk about our technology for cooling,
+
+13:44.680 --> 13:47.960
+ but at one point, I don't know if they're using it now,
+
+13:47.960 --> 13:49.600
+ but our cross-country team,
+
+13:49.600 --> 13:51.720
+ when they would go to compete in a very hot place,
+
+13:51.720 --> 13:55.160
+ they would do their warmup exercises, their stretching,
+
+13:55.160 --> 13:57.780
+ then they would extract heat
+
+13:57.780 --> 13:59.760
+ before the beginning of the race.
+
+13:59.760 --> 14:03.240
+ So I like to think of it as you have greater scope
+
+14:03.240 --> 14:04.820
+ for heat absorption.
+
+14:04.820 --> 14:07.280
+ Interesting, about how long would one need
+
+14:07.280 --> 14:09.960
+ to take one of these showers or cold immersions
+
+14:09.960 --> 14:11.200
+ before heading out for a run?
+
+14:11.200 --> 14:13.360
+ Roughly speaking, we don't have to get into details
+
+14:13.360 --> 14:16.360
+ because everyone's performance level and regimen
+
+14:16.360 --> 14:17.200
+ is going to be different,
+
+14:17.200 --> 14:18.720
+ where they live is going to be different, et cetera.
+
+14:18.720 --> 14:21.600
+ Right, it's not as long as you think, it's minutes.
+
+14:21.600 --> 14:22.440
+ Couple minutes.
+
+14:22.440 --> 14:24.640
+ Yeah, because what's going to happen
+
+14:24.640 --> 14:27.920
+ is as your core temperature goes down,
+
+14:27.920 --> 14:30.920
+ you will eventually shut off your heat loss
+
+14:30.920 --> 14:35.220
+ and that keeps it from going below normal.
+
+14:35.220 --> 14:39.580
+ So if you've warmed up and your temperature has risen
+
+14:39.580 --> 14:41.760
+ by half a degree, let's say,
+
+14:41.760 --> 14:43.700
+ it doesn't take more than a few minutes
+
+14:43.700 --> 14:46.440
+ to extract that heat if you're vasodilated.
+
+14:46.440 --> 14:49.920
+ Interesting, and what about for the anaerobic athlete,
+
+14:49.920 --> 14:50.760
+ the strength athlete?
+
+14:50.760 --> 14:53.000
+ Right, for the anaerobic athlete,
+
+14:53.000 --> 14:56.000
+ and let's say they're doing several sets
+
+14:59.600 --> 15:01.800
+ and how many reps, whatever they're doing,
+
+15:02.720 --> 15:05.360
+ their core temperature is not going to rise that fast
+
+15:05.360 --> 15:08.840
+ because it's only certain muscles which are being used,
+
+15:08.840 --> 15:11.820
+ but the temperature of those muscles will go up.
+
+15:11.820 --> 15:13.080
+ So it's a local effect?
+
+15:13.080 --> 15:14.720
+ It's a local effect, right.
+
+15:14.720 --> 15:18.520
+ So let's say for sake of today, maybe for this discussion,
+
+15:18.520 --> 15:21.200
+ if we assume that the basic workout,
+
+15:21.200 --> 15:22.780
+ even though people do variation on this,
+
+15:22.780 --> 15:26.200
+ is five sets of five or 10 sets of 10.
+
+15:26.200 --> 15:29.680
+ So for those listening, it would be five sets
+
+15:29.680 --> 15:34.080
+ of five repetitions or 10 sets of 10 repetitions,
+
+15:34.080 --> 15:36.080
+ 10 by 10, five by five, yeah.
+
+15:36.080 --> 15:37.940
+ So if somebody, let's say,
+
+15:37.940 --> 15:41.360
+ is doing a large body compound movement
+
+15:41.360 --> 15:44.040
+ like barbell squats where there are a lot
+
+15:44.040 --> 15:46.700
+ of large body movements, hip hinging and et cetera,
+
+15:46.700 --> 15:51.700
+ but for instance, the biceps are not,
+
+15:52.480 --> 15:54.700
+ they're involved, but more or less indirectly.
+
+15:54.700 --> 15:55.600
+ Right.
+
+15:55.600 --> 15:58.380
+ So the effect is going to be to heat up the quadriceps,
+
+15:58.380 --> 16:00.420
+ heat up the hamstrings, heat up the glutes,
+
+16:00.420 --> 16:01.260
+ this kind of thing.
+
+16:01.260 --> 16:02.580
+ Right. I see.
+
+16:02.580 --> 16:06.740
+ And then during rest, that heat will leave the muscle,
+
+16:06.740 --> 16:09.780
+ but it's not fast, and certainly the heat
+
+16:09.780 --> 16:12.580
+ can't leave the muscle very fast while you're working out
+
+16:12.580 --> 16:14.460
+ because when the muscle contracts,
+
+16:14.460 --> 16:18.180
+ it squeezes the blood vessels, and the only way heat gets
+
+16:18.180 --> 16:20.460
+ out of a muscle is in the blood,
+
+16:20.460 --> 16:23.100
+ and your muscle metabolism can go up 50
+
+16:23.100 --> 16:25.860
+ or 60 fold during anaerobic activity.
+
+16:25.860 --> 16:27.220
+ That means the heat production
+
+16:27.220 --> 16:30.020
+ in the muscle goes up 50 or 60 fold.
+
+16:30.020 --> 16:34.580
+ The blood flow to that muscle cannot go up 50 or 60 fold.
+
+16:34.580 --> 16:38.220
+ So you literally have the capacity to cook your muscles.
+
+16:39.100 --> 16:41.740
+ So this is probably an appropriate time
+
+16:41.740 --> 16:45.340
+ to mention briefly what the underlying mechanism of this is.
+
+16:45.340 --> 16:47.960
+ Could you just, we will return to the specifics
+
+16:47.960 --> 16:51.300
+ of what one can do to mitigate this heating up,
+
+16:51.300 --> 16:54.260
+ but could you just explain the relationship
+
+16:54.260 --> 16:58.100
+ between energy production ATP and pyruvate kinase
+
+16:58.100 --> 17:00.040
+ and the role of heat there?
+
+17:00.040 --> 17:00.880
+ Sure.
+
+17:02.380 --> 17:05.160
+ We don't get something for nothing.
+
+17:05.160 --> 17:07.180
+ So like a steam engine,
+
+17:07.180 --> 17:11.980
+ most of the energy in our food is lost as heat.
+
+17:11.980 --> 17:15.100
+ So we are roughly about 20% efficient.
+
+17:15.100 --> 17:17.820
+ So of the energy that we take in in our food,
+
+17:17.820 --> 17:20.420
+ about 20% of that can go into doing work,
+
+17:20.420 --> 17:22.880
+ and the rest of it is lost as heat.
+
+17:22.880 --> 17:24.520
+ Now, we're mammals.
+
+17:24.520 --> 17:26.980
+ We use that heat to keep our body temperature
+
+17:26.980 --> 17:29.500
+ considerably above the environment.
+
+17:29.500 --> 17:34.140
+ But if you raise body temperature a few degrees higher,
+
+17:34.140 --> 17:35.640
+ you're in trouble.
+
+17:35.640 --> 17:37.820
+ That's hyperthermia.
+
+17:37.820 --> 17:41.740
+ So individual muscles can reach hyperthermic limits
+
+17:41.740 --> 17:45.500
+ before you might experience it in the whole body.
+
+17:45.500 --> 17:50.500
+ So to keep you from damaging your muscle by hyperthermia,
+
+17:50.660 --> 17:52.580
+ we have fail-safe mechanisms.
+
+17:52.580 --> 17:56.340
+ And one of those fail-safe mechanisms is an enzyme
+
+17:56.340 --> 17:59.540
+ which is critical for getting fuel,
+
+17:59.540 --> 18:04.420
+ in other words, the results of metabolism of glucose,
+
+18:04.420 --> 18:06.840
+ getting that fuel into the mitochondria,
+
+18:06.840 --> 18:11.800
+ which is making our major coinage of energy exchange ATP.
+
+18:12.740 --> 18:16.820
+ So that particular enzyme is temperature sensitive.
+
+18:16.820 --> 18:20.660
+ So when the muscle temperature gets above 39 or 35,
+
+18:20.660 --> 18:22.100
+ it shuts off.
+
+18:22.100 --> 18:25.300
+ And that essentially shuts off the fuel supply
+
+18:25.300 --> 18:26.400
+ to the mitochondria.
+
+18:26.400 --> 18:28.920
+ That's when you cannot do one more rep.
+
+18:28.920 --> 18:32.340
+ So failure, could we say that one component
+
+18:32.340 --> 18:36.180
+ of muscular failure is overheating of the muscle locally?
+
+18:36.180 --> 18:37.940
+ There are probably other things too.
+
+18:37.940 --> 18:40.540
+ Well, yeah, if you lack oxygen,
+
+18:40.540 --> 18:45.020
+ but our oxygen delivery is pretty good to the muscle.
+
+18:45.020 --> 18:48.220
+ If you run out of glucose, yeah, that's going to impair you.
+
+18:48.220 --> 18:53.220
+ But the most immediate impairment of muscle activity,
+
+18:53.840 --> 18:55.580
+ muscle fatigue, in other words,
+
+18:55.580 --> 18:57.700
+ is the rise in temperature of the muscle.
+
+18:57.700 --> 18:58.520
+ Interesting.
+
+18:59.700 --> 19:02.280
+ I want to talk about how that muscle fails locally,
+
+19:02.280 --> 19:04.460
+ but I have this burning question in my mind
+
+19:04.460 --> 19:07.980
+ that I cannot seem to answer for myself.
+
+19:07.980 --> 19:09.420
+ I'm hoping you can answer it for me.
+
+19:09.420 --> 19:13.040
+ So let's say I'm doing five sets of five with squats.
+
+19:14.000 --> 19:17.320
+ I hit muscular failure at a given weight.
+
+19:17.320 --> 19:21.400
+ And according to what I now know,
+
+19:21.400 --> 19:24.480
+ it's my quadriceps and the muscles associated
+
+19:24.480 --> 19:26.060
+ with the squat that have failed
+
+19:26.060 --> 19:29.860
+ because of this mechanism triggered by heat
+
+19:29.860 --> 19:31.660
+ that shuts off the muscle.
+
+19:31.660 --> 19:34.380
+ But my biceps are nice and cool, you're telling me.
+
+19:34.380 --> 19:36.060
+ They're not doing too much work.
+
+19:36.060 --> 19:37.500
+ It's only indirect work.
+
+19:37.500 --> 19:40.940
+ So why is it that I can't set the bar down
+
+19:40.940 --> 19:45.000
+ in the squat rack, walk over and do barbell curls
+
+19:45.000 --> 19:47.640
+ with the same intensity that I could
+
+19:47.640 --> 19:51.040
+ if I were to do those barbell curls fresh,
+
+19:51.040 --> 19:52.980
+ not having done anything prior?
+
+19:52.980 --> 19:55.460
+ Well, you will still have a fatigue curve
+
+19:55.460 --> 19:58.540
+ with your upper body, okay?
+
+19:58.540 --> 20:02.340
+ And that will be influenced by any rise in temperature
+
+20:02.340 --> 20:06.100
+ that has been generated by your lower body exercise.
+
+20:06.100 --> 20:09.900
+ So temperature in both cases is the limiting factor.
+
+20:09.900 --> 20:12.060
+ It's one limiting factor.
+
+20:12.060 --> 20:13.300
+ It's one limiting factor.
+
+20:13.300 --> 20:14.660
+ I find that amazing.
+
+20:14.660 --> 20:18.700
+ I find that amazing because I always thought naively
+
+20:18.700 --> 20:20.700
+ that the reason muscles fail is because we, quote,
+
+20:20.700 --> 20:23.380
+ "'Don't have the strength to do another repetition'
+
+20:23.380 --> 20:25.100
+ or it's that you lack glycogen
+
+20:25.100 --> 20:28.560
+ or some ability to access that glycogen."
+
+20:28.560 --> 20:30.980
+ But of course we still have glycogen.
+
+20:30.980 --> 20:32.180
+ It's naive for me to think that
+
+20:32.180 --> 20:34.500
+ because if I wait three minutes and go back,
+
+20:34.500 --> 20:35.920
+ I can do those repetitions again.
+
+20:35.920 --> 20:38.560
+ So the glycogen wasn't restored in that three minutes.
+
+20:38.560 --> 20:40.180
+ Obviously it was there.
+
+20:40.180 --> 20:42.980
+ So I realized there might be other mechanisms involved.
+
+20:42.980 --> 20:46.940
+ Sounds like heat is if not the dominant mechanism
+
+20:46.940 --> 20:49.220
+ that prevents more work.
+
+20:49.220 --> 20:50.500
+ It's one of them.
+
+20:50.500 --> 20:55.980
+ It's one of them and it's a quick one, it's a fast one.
+
+20:55.980 --> 20:57.420
+ So it can happen with,
+
+20:57.420 --> 21:01.820
+ let's say you are a really experienced weightlifter, okay?
+
+21:01.820 --> 21:04.380
+ You may be doing very, very high weights
+
+21:04.380 --> 21:07.540
+ with sets of five or six.
+
+21:07.540 --> 21:08.740
+ Yeah, to be clear for the audience,
+
+21:08.740 --> 21:11.540
+ I'm not doing very high weights with sets of five.
+
+21:11.540 --> 21:14.800
+ Not particularly strong, I'm not super weak,
+
+21:14.800 --> 21:15.700
+ but I'm not particularly strong.
+
+21:15.700 --> 21:19.020
+ But Craig's referring in the general sense to you.
+
+21:19.020 --> 21:24.020
+ So why is it that if I finish a set of squats,
+
+21:24.980 --> 21:27.800
+ I can't simply cool off my quadriceps
+
+21:27.800 --> 21:31.380
+ by throwing a nice cool towel on my quadriceps?
+
+21:31.380 --> 21:34.500
+ Why is that not the best way to go about it?
+
+21:34.500 --> 21:39.100
+ Because your body surface is a very good insulator, okay?
+
+21:39.100 --> 21:40.860
+ We think we don't have fur
+
+21:40.860 --> 21:42.640
+ and therefore we're not insulated.
+
+21:42.640 --> 21:47.640
+ But the skin, the fascia, the muscles underneath,
+
+21:47.640 --> 21:50.960
+ underneath, they're all very good insulators.
+
+21:50.960 --> 21:52.560
+ And that's why I said earlier
+
+21:52.560 --> 21:54.840
+ that the way the heat gets out of the muscle
+
+21:54.840 --> 21:56.580
+ is in the blood.
+
+21:56.580 --> 21:59.480
+ So I want to step through a couple other portals
+
+21:59.480 --> 22:02.680
+ by which one might think that heating and cooling
+
+22:02.680 --> 22:05.000
+ would be ideal and then get back
+
+22:05.000 --> 22:08.240
+ to these specialized surfaces on the hands,
+
+22:08.240 --> 22:09.720
+ the feet, and the face.
+
+22:09.720 --> 22:12.880
+ So if throwing a cold towel or even ice cold towel
+
+22:12.880 --> 22:14.320
+ on my quadriceps isn't going to work
+
+22:14.320 --> 22:15.440
+ or standing in front of the fan
+
+22:15.440 --> 22:17.200
+ because I'm insulated from that cool,
+
+22:17.200 --> 22:19.320
+ I can't cool off my blood fast enough.
+
+22:19.320 --> 22:22.680
+ What about drinking 16 ounces of ice water?
+
+22:22.680 --> 22:23.520
+ Sure, you can do that,
+
+22:23.520 --> 22:27.600
+ but you can calculate how much heat that can absorb.
+
+22:27.600 --> 22:31.040
+ And you can't continue drinking liters of ice water.
+
+22:31.040 --> 22:34.480
+ You're going to dilute your blood and have other problems.
+
+22:34.480 --> 22:35.760
+ But yes, it'll help.
+
+22:35.760 --> 22:36.960
+ Sure, it will help.
+
+22:36.960 --> 22:41.960
+ But it doesn't have the full capacity you will need.
+
+22:42.240 --> 22:44.520
+ What about an ice pack to the back of my neck
+
+22:44.520 --> 22:47.640
+ or to my head or squeezing the cold sponge over the head?
+
+22:47.640 --> 22:50.240
+ I'm deliberately moving through these options
+
+22:50.240 --> 22:52.440
+ because these are the ones that we see most often.
+
+22:52.440 --> 22:53.540
+ We were actually just watching
+
+22:53.540 --> 22:55.600
+ the Olympic track and field trials last night
+
+22:55.600 --> 22:56.440
+ up in Oregon.
+
+22:56.440 --> 22:57.820
+ I'm a huge track and field fan.
+
+22:57.820 --> 23:02.820
+ And there were a lot of sponges on the backs of necks
+
+23:03.080 --> 23:05.340
+ before and between and after events.
+
+23:05.340 --> 23:10.340
+ And how good is that or how poor is that as a strategy?
+
+23:10.860 --> 23:13.280
+ Since now we know that being overheated
+
+23:13.280 --> 23:15.400
+ locally and systemically throughout the body
+
+23:15.400 --> 23:18.300
+ is a serious limiting factor on performance.
+
+23:18.300 --> 23:20.060
+ Well, you have to understand something
+
+23:20.060 --> 23:22.880
+ about our thermoregulatory system.
+
+23:22.880 --> 23:24.620
+ We have a thermostat,
+
+23:24.620 --> 23:26.840
+ just like you have a thermostat in your house.
+
+23:26.840 --> 23:30.160
+ And that thermostat is in the brain, okay?
+
+23:30.160 --> 23:31.680
+ Do we know the specific site?
+
+23:31.680 --> 23:32.500
+ Yes. Yes.
+
+23:32.500 --> 23:35.580
+ It's called the preoptic anterior hypothalamus.
+
+23:35.580 --> 23:39.320
+ It does many things in terms of physiological regulation,
+
+23:39.320 --> 23:41.760
+ but it serves as a thermostat.
+
+23:41.760 --> 23:44.060
+ Now that thermostat has to have information.
+
+23:44.060 --> 23:45.700
+ It has to have input.
+
+23:45.700 --> 23:47.400
+ Where does that input come from?
+
+23:47.400 --> 23:49.500
+ It comes from our overall body surface
+
+23:49.500 --> 23:52.040
+ where we sense temperature, okay?
+
+23:52.040 --> 23:55.760
+ So one of the things that can happen when you're overheated
+
+23:55.760 --> 24:00.000
+ is that you can send in a cold stimulus to your thermostat.
+
+24:00.000 --> 24:02.760
+ And that's sort of like wanting to cool your house
+
+24:02.760 --> 24:06.040
+ by putting a wet washcloth over your thermostat.
+
+24:06.040 --> 24:08.840
+ No, it's doing the wrong thing.
+
+24:08.840 --> 24:10.720
+ So we've actually had experiences
+
+24:10.720 --> 24:14.040
+ where we've had people exercising, getting overheated,
+
+24:14.040 --> 24:16.020
+ and then cooling the body surface.
+
+24:16.020 --> 24:17.960
+ And they say, it feels great.
+
+24:17.960 --> 24:19.200
+ This is fantastic.
+
+24:19.200 --> 24:21.040
+ And their core temperature's going up.
+
+24:21.040 --> 24:22.920
+ Well, I think this is such an important point.
+
+24:22.920 --> 24:26.000
+ First of all, I was weaned in a laboratory
+
+24:26.000 --> 24:27.460
+ where there were always battles
+
+24:27.460 --> 24:29.640
+ over the temperature in the lab.
+
+24:29.640 --> 24:33.040
+ So people were always putting ice packs on thermostats
+
+24:33.040 --> 24:35.120
+ or putting fans towards thermostats
+
+24:35.120 --> 24:36.520
+ and trying to play this game.
+
+24:36.520 --> 24:38.560
+ Good to know we were all being foolish,
+
+24:38.560 --> 24:40.680
+ even though we were neurobiologists.
+
+24:42.440 --> 24:45.320
+ Putting a cold towel over my torso
+
+24:45.320 --> 24:47.960
+ or putting ice on the back of my upper back,
+
+24:47.960 --> 24:51.840
+ you're saying could actually heat up my core.
+
+24:51.840 --> 24:55.120
+ It'll at least decrease your heat loss,
+
+24:55.120 --> 24:56.960
+ your rate of heat loss.
+
+24:56.960 --> 25:00.880
+ You're going to raise the issue a little later, I know,
+
+25:00.880 --> 25:04.120
+ and that is our natural portals for heat loss.
+
+25:04.120 --> 25:07.280
+ So you can think of the natural portals for heat loss
+
+25:07.280 --> 25:09.480
+ as our air conditioners, okay?
+
+25:09.480 --> 25:11.120
+ The thermostats in the brain
+
+25:11.120 --> 25:13.680
+ and the information to the thermostat
+
+25:13.680 --> 25:16.400
+ is coming from the overall body surface.
+
+25:16.400 --> 25:18.720
+ So what can happen if you, let's say,
+
+25:18.720 --> 25:21.360
+ cool the torso with an ice vest,
+
+25:21.360 --> 25:25.640
+ you can actually cause vasoconstriction of your portals,
+
+25:25.640 --> 25:27.160
+ your heat loss portals.
+
+25:27.160 --> 25:30.560
+ So that's what impairs the rate at which you're losing heat.
+
+25:30.560 --> 25:31.820
+ It feels good.
+
+25:31.820 --> 25:34.220
+ Now back to the head.
+
+25:34.220 --> 25:35.960
+ That's really interesting.
+
+25:35.960 --> 25:38.080
+ The major blood flow to the brain
+
+25:38.080 --> 25:41.440
+ comes up four arteries through the neck.
+
+25:41.440 --> 25:43.080
+ There's the carotid arteries
+
+25:43.080 --> 25:45.220
+ and there's the vertebral arteries.
+
+25:45.220 --> 25:48.060
+ So when you put a cold towel around the neck,
+
+25:48.060 --> 25:53.060
+ you're going to be putting a cold stimulus into the brain.
+
+25:53.160 --> 25:55.340
+ Well, that's great for protecting the brain.
+
+25:55.340 --> 25:57.080
+ You want to protect the brain,
+
+25:57.080 --> 26:01.440
+ but it's also going to make you feel cooler than you are.
+
+26:01.440 --> 26:04.620
+ So you will think you're ready to go again quickly
+
+26:04.620 --> 26:09.200
+ when you've just essentially cooled the thermostat.
+
+26:09.200 --> 26:10.520
+ This is an important point.
+
+26:10.520 --> 26:13.320
+ And there's a lot of interest nowadays
+
+26:13.320 --> 26:14.640
+ in people doing marathons
+
+26:14.640 --> 26:16.480
+ and there are even some people do these ultras,
+
+26:16.480 --> 26:18.240
+ ultra running, which I guess is everything longer
+
+26:18.240 --> 26:21.840
+ than a marathon and last man standing,
+
+26:21.840 --> 26:24.580
+ last man, last woman standing kind of thing.
+
+26:24.580 --> 26:27.480
+ So you're saying that if somebody is hyperthermic,
+
+26:27.480 --> 26:31.400
+ they could trick themselves into subjectively thinking
+
+26:31.400 --> 26:33.880
+ that they are cooling off by putting a cold towel
+
+26:33.880 --> 26:36.380
+ and that they can go further, but their brain could cook.
+
+26:36.380 --> 26:38.000
+ Well, if they stop the cooling,
+
+26:38.000 --> 26:39.880
+ then that hot blood from the body core
+
+26:39.880 --> 26:41.360
+ is going to go to the brain.
+
+26:41.360 --> 26:42.240
+ Interesting.
+
+26:42.240 --> 26:44.880
+ Well, it's a bit of a tangent,
+
+26:44.880 --> 26:48.920
+ but many people report after long bouts of exercise
+
+26:48.920 --> 26:51.760
+ or even just very intense bouts of exercise,
+
+26:51.760 --> 26:54.720
+ feeling a kind of brain fog or mental fatigue.
+
+26:55.680 --> 26:58.160
+ I assumed that that was due
+
+26:58.160 --> 27:01.880
+ to lowered brain oxygenation post-exercise,
+
+27:01.880 --> 27:05.080
+ but is it possible that there are some post-exercise effects
+
+27:05.080 --> 27:06.840
+ on heating and cooling of the brain
+
+27:06.840 --> 27:09.080
+ that might impact cognition
+
+27:09.080 --> 27:11.560
+ or I should say negatively impact cognition?
+
+27:11.560 --> 27:14.120
+ It's certainly possible because we know
+
+27:14.120 --> 27:19.120
+ that a rise in temperature decreases cognitive capacity.
+
+27:20.360 --> 27:22.000
+ I mean, you can experience that yourself.
+
+27:22.000 --> 27:25.400
+ You can get on a treadmill and follow your temperature
+
+27:25.400 --> 27:27.400
+ and then just do a simple activity
+
+27:27.400 --> 27:29.360
+ like adding and subtracting.
+
+27:29.360 --> 27:31.600
+ You get to about 39 degrees,
+
+27:31.600 --> 27:33.320
+ so you can't do that anymore.
+
+27:33.320 --> 27:35.120
+ You can't just calculate
+
+27:35.120 --> 27:36.700
+ how long you've been on the treadmill.
+
+27:36.700 --> 27:39.400
+ So the phrase cool, common, collected is-
+
+27:39.400 --> 27:40.240
+ Cool, common, collected.
+
+27:40.240 --> 27:42.200
+ That's the goal in all pursuits.
+
+27:42.200 --> 27:43.600
+ That's right.
+
+27:43.600 --> 27:47.080
+ So I want to talk about these portals
+
+27:47.080 --> 27:49.120
+ because you've mentioned them a few times.
+
+27:50.080 --> 27:53.260
+ Before I ask about what the portals are exactly
+
+27:53.260 --> 27:54.960
+ and how they work and how they can be leveraged
+
+27:54.960 --> 27:57.000
+ for performance, there's a question
+
+27:57.000 --> 28:02.000
+ that my neurobiologist self can't resist but ask.
+
+28:02.120 --> 28:05.040
+ We have this thermostat in the preoptic area
+
+28:05.040 --> 28:07.240
+ of the hypothalamus, which is interesting to me.
+
+28:07.240 --> 28:10.000
+ The medial preoptic area is also one
+
+28:10.000 --> 28:12.640
+ that's known to be sexually dimorphic
+
+28:12.640 --> 28:16.400
+ depending on testosterone exposure early in life, et cetera.
+
+28:16.400 --> 28:18.840
+ Although people should just note
+
+28:18.840 --> 28:20.600
+ that it's not actually testosterone
+
+28:20.600 --> 28:23.240
+ that creates these sexual dimorphisms, these differences.
+
+28:23.240 --> 28:26.040
+ It's actually testosterone converted into estrogen.
+
+28:26.040 --> 28:27.800
+ It's actually estrogen is the effector,
+
+28:27.800 --> 28:29.480
+ which is fascinating.
+
+28:29.480 --> 28:33.400
+ Nonetheless, we've got this area that acts as a thermostat,
+
+28:33.400 --> 28:35.920
+ and you said it's collecting information
+
+28:35.920 --> 28:37.840
+ from the whole body.
+
+28:37.840 --> 28:40.160
+ Does that mean that there are pathways
+
+28:40.160 --> 28:43.500
+ as the neuroscientists like you and I refer to them
+
+28:43.500 --> 28:46.080
+ as these afferent or input pathways
+
+28:46.080 --> 28:48.600
+ from the body to the preoptic area?
+
+28:48.600 --> 28:51.640
+ Is there a map of our body in the preoptic area?
+
+28:51.640 --> 28:55.000
+ Because I have to imagine that you can't have
+
+28:55.000 --> 28:57.360
+ the information just coming from the left shoulder,
+
+28:57.360 --> 28:58.560
+ just from the right toe.
+
+28:58.560 --> 29:02.480
+ It sounds like you need probably a pretty crude map,
+
+29:02.480 --> 29:05.160
+ but that you need a complete map of the body surface there.
+
+29:05.160 --> 29:08.680
+ Well, you don't need a complete map in the hypothalamus.
+
+29:08.680 --> 29:11.600
+ I mean, that thermal afferent information that you mentioned,
+
+29:11.600 --> 29:14.800
+ it also goes to the somatosensory cortex.
+
+29:14.800 --> 29:18.940
+ So you know if an ice cube has touched you on the back,
+
+29:19.780 --> 29:23.200
+ but that doesn't necessarily translate into a change
+
+29:23.200 --> 29:27.360
+ in let's say you're shivering or sweating.
+
+29:28.560 --> 29:31.600
+ So the information that's going to the hypothalamus
+
+29:31.600 --> 29:36.360
+ is more integrated, representation of body temperature.
+
+29:36.360 --> 29:38.040
+ So it's sort of an average of what's happening
+
+29:38.040 --> 29:39.560
+ across the body. It's an average.
+
+29:39.560 --> 29:42.580
+ So if I were to, let's say I get hot on a hot day
+
+29:42.580 --> 29:44.520
+ and popsicles when we were in summer camp,
+
+29:44.520 --> 29:46.440
+ I went to a sports camp near here actually,
+
+29:46.440 --> 29:47.880
+ and we'd run around like crazy,
+
+29:47.880 --> 29:49.320
+ and then we'd get into the shade if we could,
+
+29:49.320 --> 29:50.880
+ but we were popsicles.
+
+29:50.880 --> 29:51.880
+ Brain freeze.
+
+29:51.880 --> 29:55.260
+ Or the kids were putting ice cubes down each other's shirts
+
+29:55.260 --> 29:58.120
+ or something, but that's an average
+
+29:58.120 --> 30:00.600
+ because other parts of the body aren't exposed.
+
+30:00.600 --> 30:03.000
+ The mouth is exposed to the ice in the popsicle case
+
+30:03.000 --> 30:05.640
+ or the cold cubes or in the hands.
+
+30:05.640 --> 30:07.480
+ As you said, it feels really good.
+
+30:07.480 --> 30:08.320
+ It feels good, yeah.
+
+30:08.320 --> 30:11.640
+ But it sounds like it feels deceptively good
+
+30:11.640 --> 30:16.600
+ because in reality, it could still be quite warm internally.
+
+30:16.600 --> 30:18.240
+ Absolutely, yeah.
+
+30:18.240 --> 30:19.080
+ Interesting.
+
+30:19.080 --> 30:22.980
+ You can feel great and have a dangerously
+
+30:22.980 --> 30:24.440
+ hyperthermic temperature.
+
+30:24.440 --> 30:28.220
+ But I should say that when you get into the danger zone,
+
+30:28.220 --> 30:29.680
+ things get bad fast.
+
+30:29.680 --> 30:30.720
+ What are some of the symptoms
+
+30:30.720 --> 30:34.240
+ that people could be on the lookout for, for hyperthermia?
+
+30:34.240 --> 30:36.800
+ Essentially, it's almost ironic
+
+30:36.800 --> 30:41.800
+ that if individuals are transitioning into heat stroke,
+
+30:42.540 --> 30:46.580
+ they actually vasoconstrict and they stop sweating.
+
+30:46.580 --> 30:50.260
+ And that's a pathological situation.
+
+30:50.260 --> 30:53.080
+ I couldn't begin to explain it.
+
+30:53.080 --> 30:57.940
+ But essentially, you are just feeling exhausted.
+
+30:57.940 --> 31:01.280
+ You're feeling miserable.
+
+31:03.460 --> 31:06.060
+ The heart rate is very high.
+
+31:06.060 --> 31:09.320
+ Your heart rate goes up as your core temperature goes up,
+
+31:10.340 --> 31:11.860
+ called cardiac drift.
+
+31:11.860 --> 31:15.880
+ So you just feel rotten.
+
+31:16.940 --> 31:21.540
+ But that's why, since it's not a danger signal
+
+31:21.540 --> 31:23.900
+ that you can translate immediately into,
+
+31:23.900 --> 31:25.900
+ nope, I'm going into heat stroke,
+
+31:25.900 --> 31:29.100
+ that's why people can overcome their bad feeling
+
+31:29.100 --> 31:32.540
+ with motivation to continue going, to work harder.
+
+31:32.540 --> 31:37.540
+ So there have been a number of high profile athletic deaths
+
+31:37.540 --> 31:42.120
+ due to heat stroke that were during practice,
+
+31:42.120 --> 31:45.360
+ not in competition when people are really trying to do it,
+
+31:45.360 --> 31:46.880
+ but in practice,
+
+31:46.880 --> 31:50.480
+ which shows they were just motivated to push.
+
+31:50.480 --> 31:53.880
+ So let's talk about these magnificent portals
+
+31:53.880 --> 31:56.920
+ that not just humans, but other animals,
+
+31:56.920 --> 31:58.760
+ mammals are equipped with.
+
+31:58.760 --> 32:02.320
+ So if putting cold on the neck or on the head
+
+32:02.320 --> 32:06.440
+ or on the torso is not optimal, what is optimal?
+
+32:06.440 --> 32:10.820
+ And maybe walk us through a theory
+
+32:10.820 --> 32:12.920
+ as to why we would have these portals
+
+32:12.920 --> 32:14.280
+ located where they are,
+
+32:14.280 --> 32:16.800
+ and then we can talk about how one might leverage them
+
+32:16.800 --> 32:18.160
+ for performance.
+
+32:18.160 --> 32:23.160
+ Okay, where the portals are are in the glabrous skin,
+
+32:23.680 --> 32:25.400
+ big word, okay?
+
+32:25.400 --> 32:28.080
+ Glabrous just means no hair.
+
+32:28.080 --> 32:29.600
+ So it's the hairless skin.
+
+32:29.600 --> 32:32.980
+ You say, well, most of my body is without hair.
+
+32:32.980 --> 32:36.880
+ No, most of your body has hair follicles.
+
+32:36.880 --> 32:38.240
+ We are mammals.
+
+32:38.240 --> 32:39.860
+ Mammals have fur.
+
+32:39.860 --> 32:43.240
+ We've lost the fur, but we still have those,
+
+32:43.240 --> 32:46.260
+ that hairy skin phenotype all over our body,
+
+32:46.260 --> 32:50.100
+ except, except for those skin surfaces
+
+32:50.100 --> 32:53.880
+ where our mammal relatives didn't have fur.
+
+32:53.880 --> 32:56.000
+ So the pads of the feet.
+
+32:56.000 --> 32:58.920
+ And for the primates, upper part of the face.
+
+32:58.920 --> 33:02.240
+ For rabbits, no portions of the ears,
+
+33:02.240 --> 33:03.080
+ the inner surface of the ears.
+
+33:03.080 --> 33:04.160
+ No, I never thought about that.
+
+33:04.160 --> 33:06.800
+ For bears, not the tongue.
+
+33:06.800 --> 33:10.000
+ Bears have big tongues, huge tongues.
+
+33:10.000 --> 33:11.880
+ I didn't know that either.
+
+33:11.880 --> 33:13.440
+ I'm in that close to a bear yet.
+
+33:13.440 --> 33:15.960
+ Yeah, I've had a licking match with a bear.
+
+33:15.960 --> 33:17.480
+ Not yet, no.
+
+33:17.480 --> 33:22.480
+ So anyway, our mammalian relatives
+
+33:23.200 --> 33:26.480
+ can't lose heat over their overall body surface.
+
+33:26.480 --> 33:30.180
+ So probably very early on in mammalian evolution,
+
+33:30.180 --> 33:32.600
+ they evolved these special blood vessels
+
+33:32.600 --> 33:36.200
+ in the limited surface areas that don't have fur.
+
+33:36.200 --> 33:38.840
+ And as I said, what these blood vessels are
+
+33:38.840 --> 33:42.160
+ are shunts between the arteries and the veins.
+
+33:42.160 --> 33:45.520
+ Arteries and veins are both low resistance vessels.
+
+33:45.520 --> 33:47.480
+ So you can have high flow rate.
+
+33:47.480 --> 33:50.840
+ Capillaries, which normally are between arteries and veins,
+
+33:50.840 --> 33:54.240
+ are high resistance because they're very tiny, okay?
+
+33:54.240 --> 33:57.400
+ Is it fair to say that what I was taught
+
+33:57.400 --> 34:01.640
+ is that blood flows from arteries, then to capillaries,
+
+34:01.640 --> 34:03.720
+ and then to veins, and then back to the heart.
+
+34:03.720 --> 34:05.940
+ So it's sort of like from the heart through arteries,
+
+34:05.940 --> 34:07.760
+ then through these little capillaries,
+
+34:07.760 --> 34:09.660
+ which are like little estuaries and streams,
+
+34:09.660 --> 34:11.400
+ and then to the veins, back to the heart.
+
+34:11.400 --> 34:12.800
+ Is that generally true?
+
+34:12.800 --> 34:13.800
+ Yeah, absolutely.
+
+34:13.800 --> 34:16.080
+ So what I learned in basic physiology is still,
+
+34:16.080 --> 34:18.640
+ I wouldn't get an F in your class.
+
+34:18.640 --> 34:19.600
+ No.
+
+34:19.600 --> 34:22.600
+ Maybe a D or a C, but not an F.
+
+34:22.600 --> 34:23.440
+ So that's excellent.
+
+34:23.440 --> 34:26.520
+ Okay, and so you're saying that in this glabrous,
+
+34:26.520 --> 34:28.300
+ or beneath the glabrous skin.
+
+34:29.240 --> 34:30.880
+ There are these shunts.
+
+34:30.880 --> 34:33.880
+ And those go directly from arteries to veins.
+
+34:33.880 --> 34:36.440
+ So you skip the capillaries.
+
+34:36.440 --> 34:37.280
+ Yeah, I see.
+
+34:37.280 --> 34:41.440
+ And is it actually, as long as I say that in the skin,
+
+34:41.440 --> 34:43.900
+ you know, when I feel the pads in my hands,
+
+34:45.680 --> 34:49.160
+ how deep to the surface do these vessels reside?
+
+34:49.160 --> 34:54.160
+ They're below the, obviously, the epidermis.
+
+34:54.160 --> 34:59.160
+ So if you are warm and you look at the palms of your hands,
+
+35:00.120 --> 35:02.320
+ they are fairly red.
+
+35:02.320 --> 35:04.340
+ The backs of your hands aren't.
+
+35:04.340 --> 35:06.760
+ You don't have these vessels in the backs of your hands.
+
+35:06.760 --> 35:11.760
+ Now, if you take a glass, like a water tumbler, right,
+
+35:12.000 --> 35:16.680
+ and you grab it, you can see if you squeeze a little bit,
+
+35:16.680 --> 35:18.960
+ the hand goes white.
+
+35:18.960 --> 35:21.520
+ That's because you've shut off that blood flow.
+
+35:21.520 --> 35:22.400
+ Oh, interesting.
+
+35:22.400 --> 35:23.800
+ I'm going to do that little home experiment.
+
+35:23.800 --> 35:26.240
+ So if you're bicycling on a hot day,
+
+35:26.240 --> 35:28.860
+ you don't want to be grabbing your handlebars all the time.
+
+35:28.860 --> 35:30.760
+ You want to periodically.
+
+35:30.760 --> 35:31.600
+ Well, this is important.
+
+35:31.600 --> 35:35.320
+ I know you're privy to some really amazing results
+
+35:35.320 --> 35:36.140
+ that we're going to talk about,
+
+35:36.140 --> 35:38.760
+ but I actually heard you say this during this lecture
+
+35:38.760 --> 35:41.680
+ recently that Stanford held about human performance
+
+35:41.680 --> 35:43.280
+ that we're both part of.
+
+35:43.280 --> 35:46.420
+ And you mentioned this, that if you're cycling
+
+35:46.420 --> 35:48.580
+ and you're working hard and you want to be able
+
+35:48.580 --> 35:52.480
+ to do more work, we now know why you want to remain cool
+
+35:52.480 --> 35:54.680
+ in order to continue to do work.
+
+35:54.680 --> 35:56.760
+ And if you get too warm, that's bad.
+
+35:56.760 --> 35:59.200
+ That gripping the handlebars too tightly
+
+35:59.200 --> 36:01.360
+ will actually limit your performance.
+
+36:01.360 --> 36:03.240
+ And that's probably also true on the Peloton
+
+36:03.240 --> 36:04.320
+ or any other kind of device,
+
+36:04.320 --> 36:06.860
+ or the skier or anything like that.
+
+36:06.860 --> 36:09.480
+ So loosen the grip, or if you safely can,
+
+36:09.480 --> 36:12.440
+ you want to actually expose your hands to the world.
+
+36:12.440 --> 36:14.240
+ Now, what about for people wearing gloves?
+
+36:14.240 --> 36:16.960
+ What about the, to me, that just seems crazy
+
+36:16.960 --> 36:18.580
+ based on everything you're telling me?
+
+36:18.580 --> 36:23.400
+ Well, gloves definitely impede heat loss from the hands,
+
+36:23.400 --> 36:27.000
+ just as socks impede heat loss from the feet, okay?
+
+36:27.000 --> 36:29.480
+ So if you want to maximize your heat loss,
+
+36:29.480 --> 36:31.760
+ you want to have as thin a protectors
+
+36:31.760 --> 36:33.760
+ as possible on your hands.
+
+36:33.760 --> 36:36.440
+ And of course the feet are more problematical
+
+36:36.440 --> 36:38.840
+ because you have to be using them in certain ways.
+
+36:38.840 --> 36:40.600
+ Some people run barefoot.
+
+36:40.600 --> 36:41.440
+ Well, yeah.
+
+36:41.440 --> 36:43.720
+ That's become somewhat popular.
+
+36:43.720 --> 36:45.000
+ It seems like it kind of came and went.
+
+36:45.000 --> 36:46.800
+ They had those toe shoes things,
+
+36:46.800 --> 36:49.140
+ but they looked so ridiculous that I think most people
+
+36:49.140 --> 36:51.760
+ just were willing to take the performance hindrance
+
+36:51.760 --> 36:52.720
+ of regular shoes.
+
+36:52.720 --> 36:54.840
+ Actually, we had a track coach here at Stanford
+
+36:54.840 --> 36:59.340
+ who for a while was famous for introducing training
+
+36:59.340 --> 37:00.760
+ without shoes running.
+
+37:00.760 --> 37:01.600
+ Interesting.
+
+37:01.600 --> 37:03.720
+ And he thought it was because it changed the posture
+
+37:03.720 --> 37:04.860
+ of the runner.
+
+37:04.860 --> 37:06.800
+ And I think it was just due to the fact
+
+37:06.800 --> 37:09.160
+ that he was increasing the capacity
+
+37:09.160 --> 37:10.560
+ of his runners to lose heat.
+
+37:10.560 --> 37:11.560
+ Interesting.
+
+37:11.560 --> 37:15.000
+ Yeah, so heating up at the level of the hands
+
+37:15.000 --> 37:16.360
+ obviously is going to hinder performance.
+
+37:16.360 --> 37:18.820
+ So if I can, how about with running?
+
+37:18.820 --> 37:22.020
+ I noticed I ran across the country briefly in high school
+
+37:22.020 --> 37:24.040
+ and not particularly well at that,
+
+37:24.040 --> 37:27.280
+ but that we were told to run as if we were holding crackers
+
+37:27.280 --> 37:29.920
+ in our fingers or something, like very lightly,
+
+37:29.920 --> 37:30.960
+ and to keep hands kind of loose.
+
+37:30.960 --> 37:33.600
+ So running like this would actually be more beneficial
+
+37:33.600 --> 37:36.600
+ performance than, or gripping a phone,
+
+37:36.600 --> 37:39.040
+ which is probably what most people are doing nowadays.
+
+37:39.040 --> 37:39.880
+ Right?
+
+37:39.880 --> 37:40.720
+ Interesting.
+
+37:40.720 --> 37:43.960
+ And I once, I'll tell you an experience I had once.
+
+37:43.960 --> 37:46.080
+ I was in Alaska in the winter
+
+37:46.080 --> 37:47.560
+ and I went out running
+
+37:47.560 --> 37:51.360
+ and I absentmindedly forgot gloves.
+
+37:51.360 --> 37:54.520
+ And I realized this after a short period running
+
+37:54.520 --> 37:58.740
+ because the backs of my hands were aching from the cold.
+
+37:58.740 --> 38:01.320
+ The palms of my hands were sweating and were hot.
+
+38:01.320 --> 38:02.520
+ Oh, amazing.
+
+38:02.520 --> 38:03.360
+ Amazing.
+
+38:03.360 --> 38:04.740
+ So these compartments are a real thing.
+
+38:04.740 --> 38:06.880
+ And you mentioned the upper half of the face.
+
+38:06.880 --> 38:10.320
+ That's where our primate ancestors don't have fur.
+
+38:10.320 --> 38:11.600
+ And the bottoms of our feet.
+
+38:11.600 --> 38:14.900
+ So let's just take a moment and talk about
+
+38:14.900 --> 38:17.800
+ some of the more amazing results
+
+38:17.800 --> 38:20.000
+ that have been associated with proper cooling
+
+38:20.000 --> 38:23.600
+ of these glabrous skin surfaces.
+
+38:23.600 --> 38:25.100
+ Let me introduce one more thing.
+
+38:25.100 --> 38:25.940
+ Sure.
+
+38:25.940 --> 38:27.240
+ Because you asked earlier
+
+38:27.240 --> 38:31.120
+ about the pouring of water on the head.
+
+38:31.120 --> 38:34.400
+ One of the things which is not appreciated fully
+
+38:34.400 --> 38:38.920
+ is that the blood which is perfusing
+
+38:38.920 --> 38:42.700
+ these special blood vessels in the face above the beard line,
+
+38:42.700 --> 38:45.200
+ that's the non-hairy skin.
+
+38:45.200 --> 38:50.200
+ That blood then returns in the venous supply to the heart
+
+38:50.360 --> 38:54.200
+ but it actually does it in a very strange way.
+
+38:54.200 --> 38:57.920
+ It actually goes through what are called,
+
+38:57.920 --> 38:59.240
+ I'm blocking on the name now.
+
+38:59.240 --> 39:00.200
+ Take your time.
+
+39:00.200 --> 39:03.500
+ These are blood vessels that go through the skull, okay?
+
+39:03.500 --> 39:05.760
+ And that's why the scalp bleeds a lot
+
+39:05.760 --> 39:07.560
+ if you cut the scalp.
+
+39:07.560 --> 39:09.760
+ And these blood vessels which are called,
+
+39:09.760 --> 39:11.880
+ I want to say emergent but it's not emergent,
+
+39:11.880 --> 39:14.440
+ it's a word that means leaving.
+
+39:14.440 --> 39:17.560
+ And these blood vessels were primarily thought
+
+39:17.560 --> 39:21.280
+ to be ways that blood is leaving the brain.
+
+39:21.280 --> 39:22.740
+ But when you're overheated,
+
+39:23.600 --> 39:28.200
+ the direction of flow in those blood vessels reverses.
+
+39:28.200 --> 39:33.200
+ So the cooled blood that's coming from your facial region
+
+39:33.300 --> 39:35.160
+ goes into that circulation
+
+39:35.160 --> 39:38.280
+ and actually is a cooling source for the brain.
+
+39:38.280 --> 39:41.080
+ So you can cool the brain,
+
+39:41.080 --> 39:42.880
+ you can have a cooling effect on the brain
+
+39:42.880 --> 39:45.920
+ by pouring water on your head.
+
+39:45.920 --> 39:48.360
+ Interesting, so that practice which we,
+
+39:48.360 --> 39:50.520
+ at least for me, I most commonly associate
+
+39:50.520 --> 39:53.080
+ with combat sports where someone,
+
+39:53.080 --> 39:54.500
+ the fighter goes to their corner,
+
+39:54.500 --> 39:56.920
+ they usually sit down on a stool
+
+39:56.920 --> 40:01.280
+ unless they're trying to do some mental warfare
+
+40:01.280 --> 40:04.300
+ from the corner in which case they don't even take a seat.
+
+40:04.300 --> 40:09.300
+ And their corner crew will squeeze a glove,
+
+40:09.300 --> 40:12.520
+ excuse me, a sponge full of cold water over them.
+
+40:14.180 --> 40:16.420
+ That you're saying is somewhat effective
+
+40:16.420 --> 40:17.540
+ in cooling the brain.
+
+40:17.540 --> 40:19.740
+ Yeah, it's one of the natural mechanisms
+
+40:19.740 --> 40:21.380
+ for cooling the brain.
+
+40:21.380 --> 40:23.680
+ I want to return to this at some point as well,
+
+40:23.680 --> 40:27.500
+ but is there any known benefit to cooling the brain
+
+40:27.500 --> 40:30.020
+ in terms of offsetting physical damage,
+
+40:30.020 --> 40:32.460
+ offsetting the negative effects of concussion?
+
+40:32.460 --> 40:35.620
+ Because one of the reasons why fighters
+
+40:35.620 --> 40:38.460
+ will often get a cold on the back,
+
+40:38.460 --> 40:41.020
+ cold item on the back of the neck or on the head
+
+40:41.020 --> 40:43.120
+ is not just to cool them down,
+
+40:43.120 --> 40:46.240
+ but the theory is that it might offset
+
+40:46.240 --> 40:48.480
+ some of the damage of neurons.
+
+40:50.100 --> 40:51.760
+ I just can't comment on that.
+
+40:51.760 --> 40:55.820
+ I'm aware of those ideas, but they're controversial.
+
+40:55.820 --> 40:57.740
+ One of the things that you want to do
+
+40:57.740 --> 41:01.900
+ for injury to the brain is to decrease swelling.
+
+41:01.900 --> 41:05.200
+ And one of the ways that you decrease swelling
+
+41:05.200 --> 41:08.780
+ in many parts of the body is to cool.
+
+41:10.140 --> 41:12.020
+ It decreases inflammation.
+
+41:12.020 --> 41:14.060
+ It decreases the blood flow.
+
+41:14.060 --> 41:18.560
+ So I think it's a really interesting topic
+
+41:18.560 --> 41:21.800
+ and it's something that should be investigated.
+
+41:21.800 --> 41:23.380
+ It's kind of hard to investigate.
+
+41:23.380 --> 41:26.260
+ Yeah, interesting.
+
+41:26.260 --> 41:31.260
+ Okay, so I hear these stories and I've seen the data,
+
+41:31.700 --> 41:33.520
+ so I believe the stories.
+
+41:33.520 --> 41:36.900
+ Maybe tell us a story about an observation
+
+41:36.900 --> 41:41.740
+ that your group has made with respect to anaerobic exercise
+
+41:41.740 --> 41:46.740
+ and proper cooling of these glabrous surfaces.
+
+41:46.980 --> 41:48.780
+ And we can talk about the technology.
+
+41:49.860 --> 41:52.420
+ Maybe give us the dips example first.
+
+41:52.420 --> 41:55.240
+ Dips, of course, I think most people are familiar with dips.
+
+41:55.240 --> 41:56.620
+ You're supposed to, I guess, get down.
+
+41:56.620 --> 41:57.660
+ Raise and lower your body mass.
+
+41:57.660 --> 42:00.140
+ Yeah, raise and lower your body mass,
+
+42:00.140 --> 42:01.540
+ usually with your legs dangling down.
+
+42:01.540 --> 42:04.180
+ Sometimes people are strong enough to attach a weight there
+
+42:04.180 --> 42:07.060
+ and they'll do, it's essentially
+
+42:07.060 --> 42:08.700
+ a compound upper body exercise.
+
+42:10.560 --> 42:12.580
+ One dip would not be particularly impressive
+
+42:12.580 --> 42:13.660
+ for most people.
+
+42:13.660 --> 42:16.300
+ 100 would be very impressive.
+
+42:16.300 --> 42:19.220
+ 20 would be impressive for some, et cetera.
+
+42:19.220 --> 42:23.060
+ What happens when a skilled athlete comes in
+
+42:23.060 --> 42:25.180
+ and does dips for multiple sets?
+
+42:25.180 --> 42:27.420
+ And then what happens when they cool properly
+
+42:27.420 --> 42:29.740
+ using the glabrous skin surfaces?
+
+42:29.740 --> 42:33.580
+ This was a story that occurred early on
+
+42:33.580 --> 42:37.060
+ in our investigations when we first made the discoveries
+
+42:37.060 --> 42:41.620
+ that cooling has a benefit to increase your work volume,
+
+42:41.620 --> 42:45.020
+ your capacity to do more reps, okay?
+
+42:45.020 --> 42:48.860
+ So the word got over, I think, to the 49ers camp
+
+42:49.800 --> 42:52.660
+ and one of their players, Greg Clark,
+
+42:52.660 --> 42:54.060
+ who was a tight end at the time,
+
+42:54.060 --> 42:56.280
+ he had been tight end at Stanford,
+
+42:56.280 --> 43:01.280
+ and he decided, or I don't know if he was asked or what,
+
+43:01.580 --> 43:03.980
+ to come over and check it out.
+
+43:03.980 --> 43:07.820
+ So Greg came over and we said, Greg, what are you good at?
+
+43:07.820 --> 43:09.860
+ What activity do you like to do?
+
+43:09.860 --> 43:10.860
+ He said, dips.
+
+43:10.860 --> 43:12.420
+ I can do a lot of dips.
+
+43:12.420 --> 43:15.260
+ I can do 40 dips in a first set
+
+43:15.260 --> 43:16.940
+ and I can probably do five sets.
+
+43:16.940 --> 43:19.140
+ That's a usual workout for me.
+
+43:19.140 --> 43:20.420
+ And we said, okay.
+
+43:20.420 --> 43:22.820
+ So he came over to the gym one day
+
+43:22.820 --> 43:24.460
+ and that's exactly what he did.
+
+43:24.460 --> 43:29.460
+ He did 40 dips the first set and then maybe 25 and 15
+
+43:30.660 --> 43:31.780
+ and down from there.
+
+43:31.780 --> 43:34.020
+ Do you recall roughly what kind of rest periods
+
+43:34.020 --> 43:35.020
+ he was taking between sets?
+
+43:35.020 --> 43:40.020
+ Yeah, we standardized the rest period to three minutes
+
+43:40.020 --> 43:43.880
+ because that's what we had set on for cooling
+
+43:43.880 --> 43:44.720
+ as the intervals.
+
+43:44.720 --> 43:45.980
+ That's a good long rest period.
+
+43:45.980 --> 43:46.820
+ Yeah, it is.
+
+43:46.820 --> 43:48.180
+ It's still a lot of dips.
+
+43:48.180 --> 43:50.180
+ Yeah, it's actually a longer rest period
+
+43:50.180 --> 43:54.060
+ than many people would prefer during workouts.
+
+43:54.060 --> 43:54.900
+ They want to make the most of their time.
+
+43:54.900 --> 43:58.740
+ Not me, I prefer to take as much rest as I possibly can.
+
+43:58.740 --> 44:00.580
+ So several days later, he came back
+
+44:00.580 --> 44:04.860
+ and his first set he did, I think maybe 42.
+
+44:04.860 --> 44:06.060
+ A little bit better,
+
+44:06.060 --> 44:07.980
+ but now people were standing around watching.
+
+44:07.980 --> 44:10.980
+ So there was a little impetus there to show off.
+
+44:12.340 --> 44:15.820
+ So then his second set was, I don't remember the numbers,
+
+44:15.820 --> 44:19.700
+ but very much above the second set on the control day.
+
+44:19.700 --> 44:21.700
+ This was after we cooled his-
+
+44:21.700 --> 44:22.780
+ Okay, so he does.
+
+44:22.780 --> 44:24.500
+ When is he doing the cooling?
+
+44:24.500 --> 44:27.300
+ He's sitting down and putting his hands
+
+44:27.300 --> 44:28.860
+ in the devices that we had built,
+
+44:28.860 --> 44:31.760
+ which were cooling the palms of his hands.
+
+44:31.760 --> 44:33.420
+ For how long does that cooling take?
+
+44:33.420 --> 44:35.420
+ Can he do it inside of a three-minute rest period?
+
+44:35.420 --> 44:36.660
+ Yeah, that's what we were doing.
+
+44:36.660 --> 44:38.940
+ We standardized the interval
+
+44:38.940 --> 44:42.220
+ for resting or cooling to three minutes.
+
+44:42.220 --> 44:45.820
+ Okay, but the point is he got to his fifth set
+
+44:45.820 --> 44:48.140
+ and all of the sets were above
+
+44:48.140 --> 44:50.560
+ what he had done on the previous day.
+
+44:50.560 --> 44:52.300
+ And he said, you know, I'm not tired.
+
+44:52.300 --> 44:53.900
+ I can do another set.
+
+44:53.900 --> 44:56.340
+ And then I can do another set.
+
+44:56.340 --> 44:57.780
+ I can do another set.
+
+44:57.780 --> 44:58.620
+ I can do another set.
+
+44:58.620 --> 45:03.480
+ So from one day to two or three days later with cooling,
+
+45:03.480 --> 45:06.460
+ he doubled the total work volume.
+
+45:06.460 --> 45:08.700
+ He doubled the total number of dips.
+
+45:08.700 --> 45:12.140
+ By adding more sets and more repetitions to each set.
+
+45:12.140 --> 45:13.200
+ Right.
+
+45:13.200 --> 45:17.740
+ So then he kept coming back for four more weeks,
+
+45:17.740 --> 45:18.900
+ twice a week.
+
+45:18.900 --> 45:21.980
+ And by the end of that month,
+
+45:21.980 --> 45:24.820
+ he was doing 300 dips.
+
+45:24.820 --> 45:25.660
+ Wow, so what percentage?
+
+45:25.660 --> 45:26.500
+ So he tripled.
+
+45:26.500 --> 45:28.260
+ He essentially tripled.
+
+45:28.260 --> 45:30.420
+ And so here's a professional athlete
+
+45:30.420 --> 45:32.260
+ at peak physical conditioning
+
+45:32.260 --> 45:34.820
+ and he triples what he can do.
+
+45:34.820 --> 45:35.820
+ Amazing.
+
+45:35.820 --> 45:38.060
+ And in terms of his ability to recover,
+
+45:39.060 --> 45:42.060
+ was that explored or discussed at all?
+
+45:42.060 --> 45:43.940
+ Because my understanding is that
+
+45:43.940 --> 45:47.740
+ if we cause enough stress to a muscle
+
+45:47.740 --> 45:49.640
+ during anaerobic training,
+
+45:49.640 --> 45:54.100
+ we provide the stimulus for compensatory regrowth, et cetera.
+
+45:54.100 --> 45:56.820
+ But if we do more work,
+
+45:56.820 --> 45:59.740
+ we essentially scale up the amount of recovery that's needed
+
+45:59.740 --> 46:00.700
+ or the recovery time.
+
+46:00.700 --> 46:02.260
+ I'm very curious about whether or not
+
+46:02.260 --> 46:03.600
+ he needed longer to recover
+
+46:03.600 --> 46:05.940
+ between these super performing workouts.
+
+46:05.940 --> 46:07.500
+ That's very interesting.
+
+46:07.500 --> 46:09.740
+ That was a major discovery,
+
+46:09.740 --> 46:13.460
+ which we didn't realize we were making at the time.
+
+46:13.460 --> 46:15.540
+ There is this phenomenon you're referring to
+
+46:15.540 --> 46:19.020
+ as delayed onset muscle soreness, DOMS.
+
+46:19.020 --> 46:21.700
+ And this is due to those little micro tears
+
+46:21.700 --> 46:23.700
+ and so forth that are happening
+
+46:23.700 --> 46:28.700
+ as we extend our workout capacity, volume.
+
+46:29.980 --> 46:32.940
+ So we've had this experience so many times
+
+46:32.940 --> 46:36.740
+ that an athlete or anyone will come in to the lab
+
+46:36.740 --> 46:40.220
+ and they will exceed what their previous goals were,
+
+46:40.220 --> 46:42.140
+ their previous expectations.
+
+46:42.140 --> 46:44.900
+ And I can always see the words coming out of their mouth.
+
+46:44.900 --> 46:47.660
+ I'm going to be so sore tomorrow.
+
+46:47.660 --> 46:49.280
+ They never are.
+
+46:49.280 --> 46:50.120
+ Interesting.
+
+46:50.120 --> 46:53.360
+ And we've actually demonstrated that with a naive group.
+
+46:53.360 --> 46:58.120
+ We had a class, a physical conditioning class,
+
+46:58.120 --> 47:01.620
+ and we had half of them.
+
+47:01.620 --> 47:02.980
+ The first days of the class,
+
+47:02.980 --> 47:05.580
+ we had to establish their true capacity,
+
+47:05.580 --> 47:07.180
+ what they could do.
+
+47:07.180 --> 47:11.260
+ So these were pretty heavy workouts for these new recruits.
+
+47:11.260 --> 47:14.700
+ And we gave half of them the benefit of cooling
+
+47:14.700 --> 47:16.140
+ and the other half not.
+
+47:16.140 --> 47:19.300
+ And then we had them record their subjective levels
+
+47:19.300 --> 47:21.180
+ of delayed onset muscle soreness.
+
+47:21.180 --> 47:23.440
+ And those that were cooled
+
+47:23.440 --> 47:25.900
+ didn't have significant muscle soreness.
+
+47:25.900 --> 47:26.740
+ Amazing.
+
+47:26.740 --> 47:28.340
+ And I know there are also published results
+
+47:28.340 --> 47:30.740
+ and we will provide links to some of these papers
+
+47:30.740 --> 47:33.980
+ for people seeing similar effects,
+
+47:33.980 --> 47:36.780
+ I should say similar performance enhancing effects
+
+47:36.780 --> 47:41.100
+ using bench presses, bench press or pushups
+
+47:41.100 --> 47:42.700
+ or other sorts of things.
+
+47:42.700 --> 47:44.360
+ Maybe you could give us an example
+
+47:44.360 --> 47:48.860
+ from the realm of endurance work or aerobic work,
+
+47:48.860 --> 47:51.680
+ running, cycling, things of that sort.
+
+47:51.680 --> 47:55.340
+ Well, one of the problems for us
+
+47:55.340 --> 47:59.740
+ is that our equipment now is not really portable.
+
+47:59.740 --> 48:01.020
+ I mean, it's portable in the sense
+
+48:01.020 --> 48:03.980
+ you can carry it to the gym or to the football field.
+
+48:03.980 --> 48:04.820
+ But you're not going to run with it.
+
+48:04.820 --> 48:06.580
+ But you're not going to run with it, right.
+
+48:06.580 --> 48:07.780
+ Or equip a bicycle with it.
+
+48:07.780 --> 48:10.420
+ Although when are the cooling handles on bicycles coming?
+
+48:10.420 --> 48:11.840
+ Yeah, that would be good.
+
+48:11.840 --> 48:15.740
+ But one itinerant activity is golfing
+
+48:15.740 --> 48:17.740
+ and people have put it on their golf carts
+
+48:17.740 --> 48:18.580
+ and they're out.
+
+48:18.580 --> 48:20.900
+ Do people really heat up that much in golf?
+
+48:20.900 --> 48:21.740
+ They do.
+
+48:21.740 --> 48:23.100
+ Not to be disparaging of the golfers,
+
+48:23.100 --> 48:25.260
+ but the way I conceptualize golf,
+
+48:25.260 --> 48:26.740
+ it's like a swing and then a walk
+
+48:26.740 --> 48:29.500
+ and then a cart ride and then a meal.
+
+48:29.500 --> 48:31.740
+ I probably just offended all the golfers out there.
+
+48:31.740 --> 48:35.300
+ Well, one time we were doing work
+
+48:35.300 --> 48:38.980
+ for the Department of Defense
+
+48:38.980 --> 48:40.580
+ and they wanted to check it out
+
+48:40.580 --> 48:43.740
+ whether or not what we were doing was really worthwhile.
+
+48:43.740 --> 48:48.740
+ So they sent out a team of special ops soldiers
+
+48:48.860 --> 48:51.500
+ to be our subjects and test it out.
+
+48:51.500 --> 48:53.220
+ They were here for a week.
+
+48:53.220 --> 48:56.060
+ So that was a fun week.
+
+48:56.060 --> 48:57.880
+ Yeah, I do some work with those guys.
+
+48:57.880 --> 49:00.100
+ They're hard driving guys.
+
+49:00.100 --> 49:01.420
+ They also know how to have fun.
+
+49:01.420 --> 49:04.900
+ But yeah, they definitely have,
+
+49:04.900 --> 49:07.700
+ if they have an off or a quit switch,
+
+49:07.700 --> 49:11.400
+ it's buried deep within their nervous system.
+
+49:11.400 --> 49:13.640
+ They don't like to hit that quit switch.
+
+49:13.640 --> 49:16.260
+ So the guy who wrote the final report,
+
+49:16.260 --> 49:19.360
+ he gave an addendum to the report and he said,
+
+49:19.360 --> 49:22.700
+ well, I'll tell you this, after I've gotten home,
+
+49:22.700 --> 49:24.260
+ it's added that technology.
+
+49:24.260 --> 49:25.660
+ They took the technology with them.
+
+49:25.660 --> 49:26.500
+ They wanted to keep it.
+
+49:26.500 --> 49:28.020
+ Oh yeah, that sounds about right.
+
+49:28.020 --> 49:30.180
+ I said, and using it,
+
+49:30.180 --> 49:33.160
+ it has added 20 yards to every club in my bag
+
+49:33.160 --> 49:35.920
+ and that's no effing small deal.
+
+49:35.920 --> 49:38.180
+ So it's allowing people to hit further,
+
+49:38.180 --> 49:40.300
+ hit the golf ball further.
+
+49:40.300 --> 49:41.140
+ Interesting.
+
+49:42.740 --> 49:46.640
+ All right, so for the golf players out there,
+
+49:48.340 --> 49:52.440
+ then that's the reward you get back from Craig
+
+49:52.440 --> 49:54.040
+ for all my little knocks on golf.
+
+49:54.040 --> 49:56.080
+ I actually, I don't have any knock on golf.
+
+49:56.080 --> 49:58.280
+ I just don't think about it as a sport
+
+49:58.280 --> 50:00.980
+ where heating up is a limiting factor.
+
+50:00.980 --> 50:04.540
+ So since they're getting more out of their drive,
+
+50:04.540 --> 50:06.300
+ what do you think is going on there?
+
+50:06.300 --> 50:08.480
+ Well, they can be heating up.
+
+50:08.480 --> 50:09.320
+ And they're wearing gloves, right?
+
+50:09.320 --> 50:11.900
+ They're wearing gloves on a hot day and so forth.
+
+50:11.900 --> 50:14.660
+ But let me just tell you one more serious story
+
+50:14.660 --> 50:19.400
+ about golfers and that is individuals with multiple sclerosis
+
+50:19.400 --> 50:21.700
+ are exceedingly temperature sensitive.
+
+50:21.700 --> 50:22.540
+ I didn't know that.
+
+50:22.540 --> 50:24.780
+ So they may still be mobile,
+
+50:24.780 --> 50:27.020
+ but they have to stay in cool locations
+
+50:27.020 --> 50:31.220
+ and not increase their exercise to any great extent.
+
+50:31.220 --> 50:35.420
+ But we've had subjects that have with multiple sclerosis
+
+50:35.420 --> 50:38.340
+ who have just essentially put the device on their golf cart
+
+50:38.340 --> 50:39.540
+ and they're back out playing golf
+
+50:39.540 --> 50:40.540
+ in the middle of the summer.
+
+50:40.540 --> 50:41.660
+ Oh, that's great.
+
+50:41.660 --> 50:42.900
+ That's great.
+
+50:42.900 --> 50:45.780
+ Anything that allows people to have normal levels
+
+50:45.780 --> 50:50.640
+ of livelihood and recreation is great.
+
+50:50.640 --> 50:52.460
+ We always think about performance
+
+50:52.460 --> 50:54.460
+ at these kind of like peak and elite levels
+
+50:54.460 --> 50:56.260
+ and pushing harder.
+
+50:56.260 --> 50:57.660
+ But yeah, anything that allows people
+
+50:57.660 --> 51:00.440
+ to be mobile and functional is great.
+
+51:00.440 --> 51:04.860
+ So what's your favorite example of endurance?
+
+51:04.860 --> 51:06.780
+ And feel free to give us the extreme one
+
+51:06.780 --> 51:09.660
+ and then we'll talk about averages to be,
+
+51:09.660 --> 51:12.860
+ make sure we're thorough about averages versus exceptions.
+
+51:12.860 --> 51:13.700
+ Right.
+
+51:13.700 --> 51:16.740
+ We haven't done a lot in the field.
+
+51:16.740 --> 51:18.660
+ I mean, outdoors.
+
+51:18.660 --> 51:22.300
+ Most of our endurance has been in a hot room
+
+51:22.300 --> 51:24.060
+ with treadmill work and so forth.
+
+51:24.060 --> 51:26.380
+ So the very first experiment we had,
+
+51:26.380 --> 51:29.300
+ I think maybe 18 subjects just off the street.
+
+51:29.300 --> 51:32.100
+ I mean, we just recruited people in the hallways,
+
+51:32.100 --> 51:33.480
+ come on in and do this.
+
+51:33.480 --> 51:36.900
+ And what we found is we could,
+
+51:36.900 --> 51:39.900
+ for this group with one trial with and without cooling,
+
+51:39.900 --> 51:42.300
+ we could double their endurance,
+
+51:42.300 --> 51:43.600
+ walking on the treadmill,
+
+51:43.600 --> 51:45.960
+ walking uphill on the treadmill in the heat,
+
+51:45.960 --> 51:48.380
+ like maybe 40 degrees ambient temperature,
+
+51:48.380 --> 51:49.540
+ 40 degrees centigrade.
+
+51:49.540 --> 51:50.940
+ So what does that experiment look like?
+
+51:50.940 --> 51:54.080
+ You're having people walk on an incline, it's really warm.
+
+51:54.080 --> 51:56.300
+ Some people are just going to hit the quit button
+
+51:56.300 --> 51:58.700
+ and say, I've had enough and get off the treadmill.
+
+51:58.700 --> 51:59.540
+ Right.
+
+51:59.540 --> 52:00.540
+ With proper cooling.
+
+52:00.540 --> 52:01.980
+ When are they doing the cooling?
+
+52:01.980 --> 52:04.220
+ They're doing it continuously.
+
+52:04.220 --> 52:05.060
+ I see.
+
+52:05.060 --> 52:06.540
+ Because in the laboratory,
+
+52:06.540 --> 52:10.460
+ we can suspend devices from the ceiling, for example.
+
+52:10.460 --> 52:13.260
+ Now we do have prototype wearable devices.
+
+52:13.260 --> 52:18.260
+ We did them in response to emails from Ebola workers
+
+52:18.740 --> 52:21.940
+ a number of years ago in Sierra Leone.
+
+52:21.940 --> 52:24.120
+ They said, we've read about your work with athletes.
+
+52:24.120 --> 52:25.500
+ Can't you do something for us?
+
+52:25.500 --> 52:27.600
+ I mean, we're in the personal protective gear
+
+52:27.600 --> 52:28.940
+ and we can't be in the hot zone
+
+52:28.940 --> 52:31.500
+ for more than 15 or 20 minutes.
+
+52:31.500 --> 52:34.760
+ So that was started us on the challenge
+
+52:34.760 --> 52:39.180
+ of developing wearable systems that could go under the PPE.
+
+52:39.180 --> 52:40.780
+ We've published that work now.
+
+52:40.780 --> 52:41.620
+ That's great.
+
+52:41.620 --> 52:43.540
+ And I'm guessing the military special operators
+
+52:43.540 --> 52:45.460
+ that are out in the desert and other locations
+
+52:45.460 --> 52:47.940
+ are probably excited about this technology.
+
+52:47.940 --> 52:49.300
+ Well, once they get it.
+
+52:49.300 --> 52:50.140
+ Once they get it.
+
+52:50.140 --> 52:52.020
+ It's coming, it's coming.
+
+52:52.020 --> 52:55.620
+ Yeah, I think some people might wonder
+
+52:55.620 --> 52:56.740
+ if there are all these studies
+
+52:56.740 --> 52:59.180
+ and there are these incredible results over the years,
+
+52:59.180 --> 53:00.660
+ why haven't we heard more about it?
+
+53:00.660 --> 53:02.920
+ And I will ask your opinion on that as well,
+
+53:02.920 --> 53:04.860
+ but I'll just editorialize a little bit.
+
+53:04.860 --> 53:09.460
+ Is that the best laboratory work
+
+53:09.460 --> 53:11.060
+ and its practical applications
+
+53:11.060 --> 53:13.880
+ oftentimes requires many studies.
+
+53:14.860 --> 53:19.420
+ And oftentimes there isn't a portal, so to speak,
+
+53:19.420 --> 53:22.140
+ to get that information out into the technology sector.
+
+53:22.140 --> 53:25.740
+ So there is a company that's developing this technology
+
+53:25.740 --> 53:30.260
+ for people to use, to purchase and use.
+
+53:30.260 --> 53:31.420
+ We might as well just tell us now,
+
+53:31.420 --> 53:32.980
+ what is the name of that company?
+
+53:32.980 --> 53:34.820
+ And do they have a website?
+
+53:34.820 --> 53:36.540
+ People are going to want to know
+
+53:36.540 --> 53:39.140
+ where can they get this magical technology?
+
+53:39.140 --> 53:42.000
+ And is there a poor man's version of it as well?
+
+53:42.000 --> 53:46.220
+ Well, the company is Arturia, A-R-T-E-R-I-A.
+
+53:46.220 --> 53:51.220
+ And the website is www.coolmit.com.
+
+53:51.220 --> 53:56.220
+ So coolmit is just C-O-O-L-M-I-T-T, coolmit.com.
+
+53:57.100 --> 53:58.260
+ It's a great website.
+
+53:58.260 --> 54:00.120
+ When I went there, it says that right now
+
+54:00.120 --> 54:01.660
+ the technology is only available
+
+54:01.660 --> 54:04.020
+ to professional sports teams and military.
+
+54:04.020 --> 54:04.860
+ Is that true?
+
+54:04.860 --> 54:07.660
+ Well, where we stand now is the new version
+
+54:07.660 --> 54:10.620
+ of the technology is sort of in beta test versions.
+
+54:10.620 --> 54:12.520
+ We got it into the hands of people
+
+54:12.520 --> 54:14.520
+ who had used the technology before.
+
+54:14.520 --> 54:17.980
+ So there's NFL teams that are using,
+
+54:17.980 --> 54:22.020
+ there's college teams, there's Olympics,
+
+54:22.020 --> 54:26.360
+ there's the Navy Seals, Major League Baseball,
+
+54:26.360 --> 54:29.460
+ the NBA, the National Tennis Association.
+
+54:29.460 --> 54:33.860
+ They have locations where now they are trying this out
+
+54:33.860 --> 54:35.540
+ and reporting back, how's it working?
+
+54:35.540 --> 54:36.520
+ How could you change it?
+
+54:36.520 --> 54:37.580
+ How could you improve it?
+
+54:37.580 --> 54:38.400
+ Great.
+
+54:38.400 --> 54:39.240
+ And so forth.
+
+54:39.240 --> 54:40.620
+ So that's where we are.
+
+54:40.620 --> 54:44.420
+ But on the website, you can actually sign up
+
+54:44.420 --> 54:48.020
+ for being one who will be able to get one
+
+54:48.020 --> 54:50.500
+ when they are finally manufactured.
+
+54:50.500 --> 54:52.920
+ They're now being made in fairly small lots
+
+54:52.920 --> 54:54.620
+ because you want to change things
+
+54:54.620 --> 54:57.020
+ as you realize how it can be improved.
+
+54:57.020 --> 54:58.420
+ Yeah, this is Stanford after all.
+
+54:58.420 --> 55:00.420
+ You want to get the technology right.
+
+55:00.420 --> 55:02.800
+ I like to joke that one of the reasons
+
+55:02.800 --> 55:04.540
+ I like being at Stanford so much is that
+
+55:04.540 --> 55:06.260
+ not only are my colleagues amazing
+
+55:06.260 --> 55:07.660
+ and they're so forward thinking,
+
+55:07.660 --> 55:09.300
+ but they're all perfectionists.
+
+55:09.300 --> 55:12.860
+ And so the perfectionist mindset has to be perfect
+
+55:12.860 --> 55:15.920
+ before it can go live, so to speak.
+
+55:15.920 --> 55:18.400
+ Well, I think there will be a lot of interest.
+
+55:18.400 --> 55:20.660
+ Let's talk about the technology
+
+55:20.660 --> 55:22.180
+ in a little more detail for a moment.
+
+55:22.180 --> 55:24.460
+ And then let's talk about whether or not
+
+55:24.460 --> 55:26.500
+ cruder forms of that technology exist,
+
+55:26.500 --> 55:29.140
+ either for sake of safety and or performance.
+
+55:30.140 --> 55:33.800
+ So what is, the cool mitt, as I understand,
+
+55:33.800 --> 55:35.660
+ is it's a mitt, it's a glove.
+
+55:35.660 --> 55:39.360
+ You put your hand into, you hold on to a surface
+
+55:39.360 --> 55:42.300
+ and that surface cools your hand
+
+55:42.300 --> 55:46.140
+ and thereby through this specialized portal,
+
+55:46.140 --> 55:47.800
+ cools your core body temperature
+
+55:47.800 --> 55:50.060
+ and all the muscles of the body.
+
+55:50.060 --> 55:53.200
+ Subjectively, if I were to do this right now,
+
+55:53.200 --> 55:55.260
+ would I think that it was ice cold
+
+55:55.260 --> 55:58.260
+ or would I think it was just cool?
+
+55:58.260 --> 55:59.140
+ Just cool.
+
+55:59.140 --> 55:59.980
+ I see.
+
+55:59.980 --> 56:01.580
+ Ice cold is too cold.
+
+56:01.580 --> 56:02.940
+ So people always ask,
+
+56:02.940 --> 56:04.420
+ well, why can't you just stick your hand
+
+56:04.420 --> 56:05.800
+ in a bucket of ice water?
+
+56:05.800 --> 56:07.100
+ It's too cold.
+
+56:07.100 --> 56:09.500
+ What that does is that causes reflex
+
+56:09.500 --> 56:12.740
+ vasoconstriction of the very portals
+
+56:12.740 --> 56:16.580
+ that you're trying to maximize the heat loss from.
+
+56:16.580 --> 56:18.840
+ So you stick your hand in cold water
+
+56:18.840 --> 56:20.300
+ and when it comes out, it's cold.
+
+56:20.300 --> 56:22.260
+ You just sealed up all the heat in your body.
+
+56:22.260 --> 56:23.980
+ Yeah, right.
+
+56:23.980 --> 56:27.820
+ So what I sort of recommended to someone at one point,
+
+56:27.820 --> 56:29.300
+ they said, well, when I'm running,
+
+56:29.300 --> 56:31.920
+ can I just carry a frozen juice can
+
+56:31.920 --> 56:33.380
+ and it will gradually melt?
+
+56:33.380 --> 56:36.340
+ And I said, well, no, because that's going to decrease
+
+56:36.340 --> 56:37.700
+ the heat loss from that hand.
+
+56:37.700 --> 56:41.060
+ But if every couple of minutes you switched hands,
+
+56:41.060 --> 56:41.900
+ it might work.
+
+56:41.900 --> 56:44.700
+ Well, I have a feeling that there are people now doing that
+
+56:44.700 --> 56:46.740
+ as well as trying this.
+
+56:46.740 --> 56:51.560
+ So how long in the cool mitt at the proper temperature,
+
+56:51.560 --> 56:55.420
+ how long are people putting their hands into the mitt?
+
+56:55.420 --> 56:59.300
+ We, once again, had just standardized on three minutes.
+
+56:59.300 --> 57:03.540
+ And part of the reason for that is that the rate of heat
+
+57:03.540 --> 57:07.580
+ loss is an exponentially declining curve, okay?
+
+57:07.580 --> 57:11.600
+ And three minutes sort of gets the best part of the curve.
+
+57:11.600 --> 57:14.240
+ So you can go longer and get more benefit,
+
+57:14.240 --> 57:15.840
+ but the biggest bang for the buck
+
+57:15.840 --> 57:18.420
+ is in the first two, three minutes.
+
+57:18.420 --> 57:19.260
+ Okay.
+
+57:19.260 --> 57:22.140
+ You mentioned a number of impressive organizations,
+
+57:22.140 --> 57:24.540
+ sports teams, and military that are using this.
+
+57:24.540 --> 57:26.320
+ This is not something that I typically see
+
+57:26.320 --> 57:29.460
+ on the sidelines of games, although to be honest,
+
+57:29.460 --> 57:31.700
+ I haven't looked very carefully.
+
+57:31.700 --> 57:35.080
+ I'm guessing that they are probably keeping the technology
+
+57:35.080 --> 57:36.700
+ somewhat under wraps.
+
+57:36.700 --> 57:38.580
+ Where and how are they doing this?
+
+57:38.580 --> 57:40.180
+ Are they running back to the locker room?
+
+57:40.180 --> 57:41.740
+ I mean, the military special operators
+
+57:41.740 --> 57:44.360
+ are doing their thing, but in terms of the athletes,
+
+57:44.360 --> 57:46.420
+ is it possible, hypothetically,
+
+57:46.420 --> 57:51.020
+ the athletes are doing this somewhat incognito?
+
+57:51.020 --> 57:53.860
+ It's possible, but I really don't know.
+
+57:53.860 --> 57:56.380
+ People have mentioned here at Stanford,
+
+57:56.380 --> 57:59.020
+ they don't see the football team using it.
+
+57:59.020 --> 58:00.980
+ Well, the football team here at Stanford
+
+58:00.980 --> 58:04.740
+ is mostly playing in cold weather, cool weather.
+
+58:04.740 --> 58:06.380
+ The night games are cool.
+
+58:06.380 --> 58:09.400
+ Even date games are not very hot frequently here,
+
+58:09.400 --> 58:13.580
+ but when they go to a hot place like Arizona or Utah,
+
+58:13.580 --> 58:17.880
+ at least our coach, Shaw, says that they take it with them,
+
+58:17.880 --> 58:20.180
+ and that's when they find the benefit.
+
+58:20.180 --> 58:21.220
+ That's when they use it.
+
+58:21.220 --> 58:22.740
+ Interesting.
+
+58:22.740 --> 58:27.740
+ So is there a poor man or woman's version of this?
+
+58:29.760 --> 58:31.680
+ You mentioned the juice can passing back and forth.
+
+58:31.680 --> 58:33.280
+ You mentioned cooling the hands.
+
+58:33.280 --> 58:36.740
+ A number of people said to me
+
+58:36.740 --> 58:38.580
+ after learning a little bit about this science
+
+58:38.580 --> 58:43.260
+ and technology that they've experienced some big effects,
+
+58:43.260 --> 58:46.380
+ positive effects of cooling by,
+
+58:46.380 --> 58:47.420
+ and I confess I've done this,
+
+58:47.420 --> 58:50.380
+ taking a package of frozen blueberries
+
+58:50.380 --> 58:52.260
+ and just kind of passing it back and forth between my hands.
+
+58:52.260 --> 58:53.440
+ Now, talking to you,
+
+58:53.440 --> 58:55.700
+ I realize I probably didn't do it long enough.
+
+58:55.700 --> 58:58.840
+ I probably was, I was only doing maybe 30 seconds,
+
+58:58.840 --> 59:00.660
+ passing it back and forth between my hands
+
+59:00.660 --> 59:02.420
+ and then going back into sets.
+
+59:02.420 --> 59:06.320
+ I did see a performance enhancing effect, absolutely,
+
+59:06.320 --> 59:10.900
+ but I realized I probably wasn't optimizing the protocol.
+
+59:10.900 --> 59:14.540
+ If you were going to give a crude protocol for,
+
+59:14.540 --> 59:15.700
+ let's just say for the gym,
+
+59:15.700 --> 59:17.520
+ because with running, it's a little bit tricky,
+
+59:17.520 --> 59:19.660
+ but what would that look like
+
+59:19.660 --> 59:21.500
+ if people wanted to just play with this
+
+59:21.500 --> 59:23.900
+ in some sort of fashion?
+
+59:23.900 --> 59:28.780
+ Well, it would be experimental.
+
+59:28.780 --> 59:31.340
+ Sure, yeah, none of that is very controlled.
+
+59:31.340 --> 59:34.500
+ Your idea of frozen peas is a good idea.
+
+59:34.500 --> 59:38.220
+ And I think since there's been no actual study of that,
+
+59:38.220 --> 59:40.820
+ you would have to be you working out
+
+59:40.820 --> 59:42.860
+ what is the best for you.
+
+59:42.860 --> 59:45.220
+ But one way to figure it out is that
+
+59:45.220 --> 59:50.220
+ if after you hold the cold peas in one hand
+
+59:50.380 --> 59:52.340
+ and you switch it to the other hand,
+
+59:52.340 --> 59:55.140
+ if someone then comes and feels your hand,
+
+59:55.140 --> 59:56.860
+ is it warm or cold?
+
+59:56.860 --> 59:59.940
+ If it's cold, it means you've as a constricted.
+
+59:59.940 --> 1:00:04.400
+ If it's warm, it means the hot blood is still going there.
+
+1:00:04.400 --> 1:00:06.340
+ Okay, so we do that in the lab.
+
+1:00:06.340 --> 1:00:08.700
+ And the key is for it to not vasoconstrict.
+
+1:00:08.700 --> 1:00:09.540
+ Right.
+
+1:00:09.540 --> 1:00:11.220
+ Okay, so there's a test out there, folks.
+
+1:00:11.220 --> 1:00:13.420
+ If you're going to try this in kind of crude fashion,
+
+1:00:13.420 --> 1:00:17.300
+ at least until the cool mitt is available more broadly
+
+1:00:18.460 --> 1:00:20.180
+ to the general public,
+
+1:00:20.180 --> 1:00:22.380
+ you could assess, you want to assess
+
+1:00:22.380 --> 1:00:25.420
+ whether or not your palms actually feel cool
+
+1:00:25.420 --> 1:00:27.660
+ to the touch by somebody else.
+
+1:00:27.660 --> 1:00:28.500
+ And if it does,
+
+1:00:28.500 --> 1:00:30.380
+ that means you've essentially shut down the port
+
+1:00:30.380 --> 1:00:32.620
+ or you're sealing in more heat, which is bad.
+
+1:00:32.620 --> 1:00:37.620
+ What about putting this cold pack of some sort on the face?
+
+1:00:37.980 --> 1:00:39.320
+ Or-
+
+1:00:39.320 --> 1:00:40.160
+ Or the feet.
+
+1:00:40.160 --> 1:00:40.980
+ More of the feet.
+
+1:00:40.980 --> 1:00:41.820
+ I work out at home.
+
+1:00:41.820 --> 1:00:43.100
+ I don't often work out barefooted,
+
+1:00:43.100 --> 1:00:45.420
+ but I suppose I could, like they did in the 70s,
+
+1:00:45.420 --> 1:00:47.340
+ you know, when those guys were walking around
+
+1:00:47.340 --> 1:00:51.360
+ without shoes and squatting without any shoes or socks on.
+
+1:00:51.360 --> 1:00:53.740
+ Could I put my feet on them?
+
+1:00:53.740 --> 1:00:54.620
+ You could.
+
+1:00:54.620 --> 1:00:59.060
+ If you had simply had a water-perfused pad
+
+1:00:59.060 --> 1:01:01.700
+ and you were circulating cool water through it,
+
+1:01:01.700 --> 1:01:03.740
+ you could just put your feet on it.
+
+1:01:03.740 --> 1:01:04.580
+ Okay?
+
+1:01:07.760 --> 1:01:12.340
+ Part of the problem is that you don't want,
+
+1:01:12.340 --> 1:01:16.660
+ if, let's say you have just a cold pack of something.
+
+1:01:16.660 --> 1:01:19.700
+ The problem is back to boundary layers again.
+
+1:01:19.700 --> 1:01:24.140
+ If you don't have a convective stream of the cooling medium,
+
+1:01:24.140 --> 1:01:25.960
+ the heat sink is not as effective
+
+1:01:25.960 --> 1:01:28.620
+ because there'll be a boundary layer developed
+
+1:01:28.620 --> 1:01:32.700
+ between the heat sink material and your skin.
+
+1:01:32.700 --> 1:01:35.340
+ So that decreases its efficacy.
+
+1:01:35.340 --> 1:01:36.180
+ I see.
+
+1:01:36.180 --> 1:01:39.160
+ Maybe we should just for a moment talk about convection,
+
+1:01:39.160 --> 1:01:41.380
+ radiation and convection, and just make that clear.
+
+1:01:41.380 --> 1:01:44.660
+ Like if I put my hands, let's say it's a cold night
+
+1:01:44.660 --> 1:01:46.660
+ and I'm at a campfire and I take my hands
+
+1:01:46.660 --> 1:01:47.980
+ and I put them out to the fire.
+
+1:01:47.980 --> 1:01:49.140
+ You're getting radiation.
+
+1:01:49.140 --> 1:01:50.420
+ You're getting radiation.
+
+1:01:50.420 --> 1:01:51.860
+ Right, right.
+
+1:01:51.860 --> 1:01:55.060
+ And then if it's a windy, warm night,
+
+1:01:55.060 --> 1:01:56.580
+ no, I don't know if that's the best example.
+
+1:01:56.580 --> 1:01:58.940
+ Give us a good example of convection.
+
+1:01:58.940 --> 1:02:01.420
+ Convection sure is in a cool breeze.
+
+1:02:01.420 --> 1:02:04.580
+ You know, the wind chill factor, that's due to convection.
+
+1:02:04.580 --> 1:02:05.420
+ Okay?
+
+1:02:05.420 --> 1:02:10.180
+ But in terms of heat transfer between two objects,
+
+1:02:10.180 --> 1:02:13.180
+ if you have convection of the medium,
+
+1:02:13.180 --> 1:02:17.780
+ whether it's blood on the inside and water on the outside,
+
+1:02:17.780 --> 1:02:22.260
+ you increase the heat exchange if you have convection
+
+1:02:22.260 --> 1:02:23.100
+ on both sides.
+
+1:02:23.100 --> 1:02:25.540
+ Right, so this is why just planting my feet
+
+1:02:25.540 --> 1:02:28.980
+ on two packages of, my bare feet on two packages
+
+1:02:28.980 --> 1:02:31.180
+ of frozen peas, there's really no opportunity
+
+1:02:31.180 --> 1:02:34.860
+ for circulation and therefore heat transfer.
+
+1:02:34.860 --> 1:02:38.140
+ So it's not really optimal, which is, and I-
+
+1:02:38.140 --> 1:02:40.460
+ But once again, it depends on the surface area
+
+1:02:40.460 --> 1:02:42.020
+ to get any benefit at all.
+
+1:02:42.020 --> 1:02:45.220
+ We have a study that we published,
+
+1:02:45.220 --> 1:02:49.180
+ which was investigating the standard treatment
+
+1:02:49.180 --> 1:02:51.420
+ for hyperthermia in the field.
+
+1:02:51.420 --> 1:02:55.900
+ And the standard treatment that's recommended
+
+1:02:55.900 --> 1:03:00.060
+ by medical organizations is you take cold packs
+
+1:03:00.060 --> 1:03:03.180
+ and you put them in the axilla, the groin.
+
+1:03:03.180 --> 1:03:05.180
+ The axilla or the armpits?
+
+1:03:05.180 --> 1:03:08.100
+ The armpits, yeah, the groin, which is-
+
+1:03:09.900 --> 1:03:11.620
+ Thin skin, lots of vasculature.
+
+1:03:11.620 --> 1:03:14.420
+ Right, and the neck.
+
+1:03:14.420 --> 1:03:17.820
+ So what we did is we did studies in which we made people
+
+1:03:17.820 --> 1:03:20.420
+ hyperthermic, and then we measured the rate
+
+1:03:20.420 --> 1:03:24.420
+ at which we could cool them by putting those positions
+
+1:03:24.420 --> 1:03:29.100
+ in those heat exchange bags in the recommended location
+
+1:03:29.100 --> 1:03:33.580
+ versus on the glabrous skin, versus palms, soles, and face.
+
+1:03:33.580 --> 1:03:36.500
+ The cooling rate was double.
+
+1:03:36.500 --> 1:03:37.340
+ Wow.
+
+1:03:37.340 --> 1:03:42.020
+ So we put the same ice packs, the same cold packs
+
+1:03:42.020 --> 1:03:46.420
+ on the heat portals rather than the axilla,
+
+1:03:46.420 --> 1:03:47.900
+ the groin, and the face.
+
+1:03:47.900 --> 1:03:48.740
+ Wow.
+
+1:03:48.740 --> 1:03:49.820
+ Or the neck.
+
+1:03:49.820 --> 1:03:50.700
+ Wow.
+
+1:03:50.700 --> 1:03:53.280
+ So face, hands, and bottoms of feet
+
+1:03:53.280 --> 1:03:55.100
+ will cool you twice as fast
+
+1:03:56.340 --> 1:03:59.940
+ as putting cold packs into your armpits,
+
+1:03:59.940 --> 1:04:01.940
+ your groin, or back of neck.
+
+1:04:01.940 --> 1:04:05.900
+ So I like to give the analogy of if your car is overheating,
+
+1:04:05.900 --> 1:04:09.040
+ okay, and you have a hose, a garden hose,
+
+1:04:09.040 --> 1:04:12.060
+ where should you spray your cooling system?
+
+1:04:12.060 --> 1:04:15.640
+ Should you spray the radiator or should you spray the tubes
+
+1:04:15.640 --> 1:04:17.680
+ going in and out of the radiator?
+
+1:04:17.680 --> 1:04:20.180
+ Well, the rationale with putting these cold packs
+
+1:04:20.180 --> 1:04:22.120
+ in the axilla, the groin, and the neck
+
+1:04:22.120 --> 1:04:25.420
+ is that you're getting close to the major arteries.
+
+1:04:25.420 --> 1:04:27.380
+ Sure, that's going to be effective,
+
+1:04:27.380 --> 1:04:30.620
+ but it's much more effective if you actually increase
+
+1:04:30.620 --> 1:04:33.580
+ the heat loss capacity of the radiating surface,
+
+1:04:33.580 --> 1:04:34.460
+ the radiators.
+
+1:04:34.460 --> 1:04:38.660
+ So you cool the hot stuff heading toward the core.
+
+1:04:38.660 --> 1:04:43.660
+ That's essentially what the standard operating procedure is,
+
+1:04:43.660 --> 1:04:46.580
+ that you hit the arteries.
+
+1:04:46.580 --> 1:04:47.400
+ Amazing.
+
+1:04:47.400 --> 1:04:48.900
+ And the veins, the arteries and veins.
+
+1:04:48.900 --> 1:04:50.420
+ I'm going to just tell a brief story
+
+1:04:50.420 --> 1:04:55.420
+ that illustrates how almost everybody gets this stuff wrong,
+
+1:04:56.120 --> 1:04:57.560
+ and then I'm going to use that as an opportunity
+
+1:04:57.560 --> 1:05:00.260
+ to ask you about heating, deliberate heating,
+
+1:05:00.260 --> 1:05:02.080
+ as opposed to deliberate cooling.
+
+1:05:02.080 --> 1:05:06.460
+ So about four months ago, a friend of mine, incidentally,
+
+1:05:06.460 --> 1:05:08.900
+ a guy who did nine years in the SEAL teams,
+
+1:05:08.900 --> 1:05:10.820
+ really skilled cold water swimmer.
+
+1:05:10.820 --> 1:05:13.140
+ We went out for a swim in the morning.
+
+1:05:13.140 --> 1:05:17.400
+ I'm not nearly even close to being in the same universe
+
+1:05:17.400 --> 1:05:19.740
+ of his output potential.
+
+1:05:19.740 --> 1:05:21.820
+ We do these swims, I'm familiar with them.
+
+1:05:21.820 --> 1:05:24.500
+ I got enough blubber on me that I stay warm enough
+
+1:05:24.500 --> 1:05:26.060
+ in the cold Pacific, no wetsuits.
+
+1:05:26.060 --> 1:05:28.980
+ We do the morning cold swim for about a mile or so.
+
+1:05:28.980 --> 1:05:32.900
+ And we brought with us a young kid that I know real well
+
+1:05:32.900 --> 1:05:35.380
+ that hangs out with us sometimes and trains with us,
+
+1:05:35.380 --> 1:05:37.740
+ who's got very little body fat.
+
+1:05:37.740 --> 1:05:39.980
+ He's just exceptionally lean,
+
+1:05:39.980 --> 1:05:42.500
+ despite eating everything inside, right?
+
+1:05:42.500 --> 1:05:47.500
+ Teenager, great athlete, great kid, great swimmer.
+
+1:05:47.680 --> 1:05:49.100
+ So we're out there swimming,
+
+1:05:49.100 --> 1:05:51.460
+ and at some point we're talking to him
+
+1:05:51.460 --> 1:05:54.020
+ and it's clear that he's gone hypothermic.
+
+1:05:54.020 --> 1:05:56.980
+ He's slurring his words, he's not doing well.
+
+1:05:56.980 --> 1:05:59.820
+ So we get him onto the beach, his teeth are turning yellow,
+
+1:05:59.820 --> 1:06:03.260
+ he's quaking, he's not, he's got, you know,
+
+1:06:03.260 --> 1:06:06.220
+ his saliva is taking on that consistency that's clear,
+
+1:06:06.220 --> 1:06:07.900
+ like he's hypothermic.
+
+1:06:07.900 --> 1:06:10.140
+ We go to the lifeguard station.
+
+1:06:10.140 --> 1:06:12.500
+ Lifeguard says, okay, let's get his vitals,
+
+1:06:12.500 --> 1:06:13.340
+ let's do all this.
+
+1:06:13.340 --> 1:06:17.340
+ Meanwhile, trying stand next to him, you know,
+
+1:06:17.340 --> 1:06:19.660
+ and heat him up by heating up his torso.
+
+1:06:19.660 --> 1:06:23.980
+ So there we are, like pressing against this guy, our friend,
+
+1:06:23.980 --> 1:06:24.940
+ trying to heat him up.
+
+1:06:24.940 --> 1:06:27.020
+ They get a blanket on him.
+
+1:06:27.020 --> 1:06:29.500
+ He's, I'm realizing he was barefoot.
+
+1:06:29.500 --> 1:06:30.900
+ His face was exposed,
+
+1:06:30.900 --> 1:06:32.740
+ although we did cover his head with the blanket.
+
+1:06:32.740 --> 1:06:33.700
+ And he eventually came back.
+
+1:06:33.700 --> 1:06:36.660
+ We got some warm liquids into him and he was okay.
+
+1:06:36.660 --> 1:06:37.700
+ He was fine.
+
+1:06:37.700 --> 1:06:39.620
+ I don't know that his mother is ever going to let him swim
+
+1:06:39.620 --> 1:06:41.220
+ with us again.
+
+1:06:41.220 --> 1:06:43.760
+ If I ever disappear and go missing,
+
+1:06:43.760 --> 1:06:46.500
+ it's because of that incident.
+
+1:06:46.500 --> 1:06:48.780
+ Anyway, he did great.
+
+1:06:48.780 --> 1:06:49.620
+ He recovered.
+
+1:06:49.620 --> 1:06:51.740
+ He's back in the water and doing well.
+
+1:06:51.740 --> 1:06:55.940
+ But I realized that pretty much everything from the point
+
+1:06:55.940 --> 1:06:59.860
+ where we got back on the beach until he was back to normal
+
+1:06:59.860 --> 1:07:01.380
+ was we did incorrectly.
+
+1:07:01.380 --> 1:07:03.200
+ We heated his torso.
+
+1:07:03.200 --> 1:07:06.700
+ We left his extremities exposed.
+
+1:07:06.700 --> 1:07:09.180
+ And we assumed we were doing the right thing.
+
+1:07:09.180 --> 1:07:11.060
+ And the lifeguard is a skilled lifeguard
+
+1:07:11.060 --> 1:07:13.260
+ at a major public beach.
+
+1:07:13.260 --> 1:07:15.460
+ So I guess the simple question is,
+
+1:07:15.460 --> 1:07:16.940
+ did we get everything wrong?
+
+1:07:16.940 --> 1:07:18.820
+ Did we get anything right?
+
+1:07:18.820 --> 1:07:21.040
+ And what would have been the better option
+
+1:07:21.040 --> 1:07:24.920
+ to heat up a hypothermic person in that
+
+1:07:24.920 --> 1:07:26.780
+ or a similar situation?
+
+1:07:26.780 --> 1:07:28.400
+ Well, it's interesting you asked that
+
+1:07:28.400 --> 1:07:33.060
+ because that is the way we got into this area
+
+1:07:33.060 --> 1:07:34.340
+ of investigation.
+
+1:07:35.520 --> 1:07:39.180
+ I worked on how the hypothalamus regulates body temperature
+
+1:07:39.180 --> 1:07:40.940
+ neurophysiology.
+
+1:07:40.940 --> 1:07:45.640
+ And one day we were having a discussion with a colleague
+
+1:07:45.640 --> 1:07:48.020
+ in the department of anesthesia.
+
+1:07:48.020 --> 1:07:51.640
+ And he jokingly said to my colleague, he said,
+
+1:07:51.640 --> 1:07:54.560
+ yeah, you guys think you know so much about temperature.
+
+1:07:54.560 --> 1:07:56.700
+ I bet you couldn't solve a problem we have
+
+1:07:56.700 --> 1:07:58.660
+ in the recovery room.
+
+1:07:58.660 --> 1:07:59.860
+ What's that?
+
+1:07:59.860 --> 1:08:01.660
+ Well, the patients come out of surgery,
+
+1:08:01.660 --> 1:08:03.880
+ they're hypothermic and it takes us hours
+
+1:08:03.880 --> 1:08:06.340
+ to get them to stop shivering.
+
+1:08:06.340 --> 1:08:08.020
+ What do they do in the recovery room?
+
+1:08:08.020 --> 1:08:09.780
+ Exactly what you suggested.
+
+1:08:09.780 --> 1:08:11.340
+ They put in warm blankets.
+
+1:08:11.340 --> 1:08:13.820
+ They put in heat lamps.
+
+1:08:13.820 --> 1:08:16.880
+ And it takes them an hour or two hours
+
+1:08:16.880 --> 1:08:18.940
+ to get these patients to stop shivering
+
+1:08:18.940 --> 1:08:20.580
+ to bring them back up.
+
+1:08:20.580 --> 1:08:22.740
+ So we say, ah, it's a trivial problem.
+
+1:08:22.740 --> 1:08:24.940
+ No, it's a hard problem.
+
+1:08:24.940 --> 1:08:28.380
+ It's a hard problem because when you're under anesthesia,
+
+1:08:28.380 --> 1:08:29.820
+ you're vasodilated.
+
+1:08:29.820 --> 1:08:31.580
+ When you come out of anesthesia,
+
+1:08:31.580 --> 1:08:34.420
+ you're hypothermic and you vasoconstrict.
+
+1:08:34.420 --> 1:08:38.220
+ That makes it very difficult to get heat into the body.
+
+1:08:38.220 --> 1:08:40.420
+ So we got the idea that, well,
+
+1:08:40.420 --> 1:08:43.800
+ if we could just take one appendage, like an arm,
+
+1:08:43.800 --> 1:08:47.940
+ and we put it in a environment wrapped in a heating pad
+
+1:08:47.940 --> 1:08:51.260
+ and a negative pressure, you know, suction,
+
+1:08:51.260 --> 1:08:53.660
+ that would pull more blood into that limb.
+
+1:08:53.660 --> 1:08:55.020
+ That blood would get heated
+
+1:08:55.020 --> 1:08:57.360
+ and it would warm the body up faster.
+
+1:08:57.360 --> 1:09:01.980
+ So my colleague built a prototype device.
+
+1:09:01.980 --> 1:09:04.900
+ You couldn't get such a device into the hospital these days.
+
+1:09:04.900 --> 1:09:09.620
+ But we were with our anesthesiologist friend.
+
+1:09:09.620 --> 1:09:11.260
+ We took it into the recovery room
+
+1:09:11.260 --> 1:09:15.460
+ and the first thing the patient said, no way.
+
+1:09:15.460 --> 1:09:17.620
+ You're not gonna put that on my patient.
+
+1:09:17.620 --> 1:09:22.620
+ But he prevailed and first patient didn't shiver at all.
+
+1:09:22.620 --> 1:09:25.340
+ First patient was back to normal temperature,
+
+1:09:25.340 --> 1:09:28.300
+ core temperature in, I think it was eight minutes,
+
+1:09:28.300 --> 1:09:29.260
+ eight or nine minutes.
+
+1:09:29.260 --> 1:09:31.540
+ Is this now standard practice in hospitals?
+
+1:09:31.540 --> 1:09:32.380
+ No, no, no.
+
+1:09:32.380 --> 1:09:35.380
+ So this is another example where I don't get upset
+
+1:09:35.380 --> 1:09:38.960
+ about the, although it's upsetting to know that it's not,
+
+1:09:38.960 --> 1:09:41.460
+ but I think that it's yet another case
+
+1:09:41.460 --> 1:09:44.780
+ where a fundamental problem exists.
+
+1:09:44.780 --> 1:09:49.780
+ There's a science-based solution
+
+1:09:50.020 --> 1:09:52.300
+ that makes sense at the level of physiology,
+
+1:09:52.300 --> 1:09:55.900
+ engineering and practice, and yet it's not being done.
+
+1:09:55.900 --> 1:09:59.060
+ And I mean, that's a whole other discussion
+
+1:09:59.060 --> 1:10:00.680
+ as to what the limitations are.
+
+1:10:00.680 --> 1:10:03.300
+ Well, perhaps in, I know a number of our listeners
+
+1:10:03.300 --> 1:10:05.220
+ are in the healthcare and medical profession
+
+1:10:05.220 --> 1:10:06.380
+ as well as military athletes,
+
+1:10:06.380 --> 1:10:08.820
+ and just also standard other types of jobs,
+
+1:10:08.820 --> 1:10:11.400
+ civilians doing other types of work.
+
+1:10:11.400 --> 1:10:14.020
+ It would be wonderful if people understood this.
+
+1:10:14.020 --> 1:10:19.020
+ So once again, is there a homegrown technology
+
+1:10:19.180 --> 1:10:20.020
+ that people could use?
+
+1:10:20.020 --> 1:10:24.100
+ If somebody is hypothermic, what is going to be the best way
+
+1:10:24.100 --> 1:10:24.940
+ for them to warm up?
+
+1:10:24.940 --> 1:10:28.000
+ Is it going to be holding a nice warm mug of cocoa
+
+1:10:28.000 --> 1:10:28.840
+ or something like that?
+
+1:10:28.840 --> 1:10:31.900
+ But not too hot, I guess, is again the idea.
+
+1:10:31.900 --> 1:10:36.900
+ Yeah, well, actually you can go hotter on the glabrous skin.
+
+1:10:37.860 --> 1:10:39.180
+ Oh, because it'll dilate.
+
+1:10:39.180 --> 1:10:42.500
+ Because it takes the heat away faster, okay?
+
+1:10:42.500 --> 1:10:44.260
+ But back to the anesthesia,
+
+1:10:44.260 --> 1:10:47.700
+ what you can do is you can use warm pads.
+
+1:10:47.700 --> 1:10:49.800
+ They have them in all hospitals.
+
+1:10:49.800 --> 1:10:52.780
+ They have circulating water perfused pads.
+
+1:10:52.780 --> 1:10:53.600
+ Hot water bottle type stuff.
+
+1:10:53.600 --> 1:10:54.660
+ Put them on the feet.
+
+1:10:54.660 --> 1:10:57.300
+ So typically they'll slide them under your lower back
+
+1:10:57.300 --> 1:10:58.140
+ or something like that?
+
+1:10:58.140 --> 1:11:00.180
+ Yeah, put them on the feet.
+
+1:11:00.180 --> 1:11:02.620
+ Okay, sure, that will do it.
+
+1:11:02.620 --> 1:11:07.360
+ But it turns out that we discovered through this work
+
+1:11:07.360 --> 1:11:09.600
+ that it had nothing to do with the whole arm.
+
+1:11:09.600 --> 1:11:11.400
+ It was only the hand.
+
+1:11:11.400 --> 1:11:13.540
+ And that's when we came to the realization
+
+1:11:13.540 --> 1:11:15.400
+ of these special blood vessels.
+
+1:11:15.400 --> 1:11:17.160
+ We didn't discover the blood vessels.
+
+1:11:17.160 --> 1:11:19.180
+ They're described in Grey's Anatomy,
+
+1:11:19.180 --> 1:11:21.140
+ but nobody knew what they were for.
+
+1:11:21.140 --> 1:11:24.880
+ And you mentioned bears earlier and other hairy animals.
+
+1:11:26.580 --> 1:11:29.380
+ Do they have these AVAs as well?
+
+1:11:29.380 --> 1:11:31.020
+ And I suppose we haven't defined AVAs.
+
+1:11:31.020 --> 1:11:32.880
+ We've been pretty good about the no acronyms rule.
+
+1:11:32.880 --> 1:11:35.900
+ AVAs is arteriovenous anastomosis.
+
+1:11:35.900 --> 1:11:40.420
+ So a connection between the arteries and the veins, yeah.
+
+1:11:40.420 --> 1:11:41.820
+ I actually use this technology.
+
+1:11:41.820 --> 1:11:43.500
+ I have a bulldog, bulldog mastiff.
+
+1:11:43.500 --> 1:11:47.860
+ He has a very high propensity for overheating
+
+1:11:47.860 --> 1:11:49.720
+ because they're terrible at dumping heat
+
+1:11:49.720 --> 1:11:53.020
+ and bulldogs are great at pushing themselves
+
+1:11:53.020 --> 1:11:54.740
+ to the point of exhaustion or death.
+
+1:11:54.740 --> 1:11:56.140
+ It happens.
+
+1:11:56.140 --> 1:11:59.540
+ And so now we do what we call palmer cooling.
+
+1:11:59.540 --> 1:12:00.960
+ Sorry, I couldn't help myself.
+
+1:12:00.960 --> 1:12:02.880
+ Where I'll take Costello and lower him
+
+1:12:02.880 --> 1:12:05.140
+ into a cool body of water,
+
+1:12:05.140 --> 1:12:06.820
+ just the bottoms of his paws.
+
+1:12:06.820 --> 1:12:10.760
+ Although I think animals instinctually know to do this
+
+1:12:10.760 --> 1:12:13.680
+ and will go and stand in bodies of water.
+
+1:12:13.680 --> 1:12:15.340
+ They don't often lie down all the way.
+
+1:12:15.340 --> 1:12:16.180
+ Some do.
+
+1:12:16.180 --> 1:12:17.140
+ Yeah.
+
+1:12:17.140 --> 1:12:20.020
+ But they seem to know that's a great way
+
+1:12:20.020 --> 1:12:21.140
+ to cool themselves off.
+
+1:12:21.140 --> 1:12:22.260
+ Yeah.
+
+1:12:22.260 --> 1:12:23.700
+ Oh, absolutely. Yeah.
+
+1:12:23.700 --> 1:12:25.900
+ And they get the advantage that their palms
+
+1:12:25.900 --> 1:12:27.540
+ and their feet are essentially the same thing.
+
+1:12:27.540 --> 1:12:29.940
+ So we actually built devices for dogs.
+
+1:12:29.940 --> 1:12:30.780
+ Did you really?
+
+1:12:30.780 --> 1:12:31.600
+ And tried them on.
+
+1:12:31.600 --> 1:12:34.780
+ I did a rod sled dogs and it worked beautifully.
+
+1:12:34.780 --> 1:12:38.100
+ They had little backpacks with the equipment
+
+1:12:38.100 --> 1:12:42.540
+ and pads on all their feet and it worked beautifully.
+
+1:12:42.540 --> 1:12:43.940
+ Amazing. Amazing.
+
+1:12:43.940 --> 1:12:47.200
+ Along the lines of heating, deliberate heating,
+
+1:12:48.040 --> 1:12:51.860
+ wearing a knit cap is something that,
+
+1:12:51.860 --> 1:12:53.860
+ you see more of that on the East Coast.
+
+1:12:53.860 --> 1:12:58.160
+ People run around Boston and New England with a knit cap.
+
+1:12:58.160 --> 1:13:00.240
+ I've always done that at the start of my runs
+
+1:13:00.240 --> 1:13:01.940
+ to try and warm up more quickly.
+
+1:13:01.940 --> 1:13:04.560
+ And then I take it off, I shed layers as I go.
+
+1:13:06.020 --> 1:13:09.180
+ Is that a rational practice the way I just described it?
+
+1:13:09.180 --> 1:13:10.020
+ Yeah.
+
+1:13:10.020 --> 1:13:11.940
+ Because warming up is important too.
+
+1:13:11.940 --> 1:13:14.800
+ There's a certain amount of quote unquote warming up
+
+1:13:14.800 --> 1:13:17.060
+ that's required to lubricate joints
+
+1:13:17.060 --> 1:13:19.380
+ or at least to get the sense that joints are lubricated
+
+1:13:19.380 --> 1:13:21.060
+ and to be able to move more easily.
+
+1:13:21.060 --> 1:13:21.900
+ Yeah.
+
+1:13:21.900 --> 1:13:24.380
+ Do you still recommend that people warm up?
+
+1:13:24.380 --> 1:13:28.800
+ Yeah, but I think we're misled by the term warm up
+
+1:13:28.800 --> 1:13:33.120
+ as if the major purpose is to raise temperature.
+
+1:13:34.560 --> 1:13:36.960
+ I'm not aware of any data on this,
+
+1:13:36.960 --> 1:13:39.600
+ but I do think that the major contribution
+
+1:13:39.600 --> 1:13:41.700
+ is increasing flexibility.
+
+1:13:41.700 --> 1:13:44.700
+ So you're going to avoid having damage
+
+1:13:44.700 --> 1:13:48.220
+ of joints and tendons and ligaments and so forth.
+
+1:13:50.140 --> 1:13:54.860
+ But also the ability of the mitochondria
+
+1:13:54.860 --> 1:13:59.860
+ to produce energy can be impaired at lower temperatures.
+
+1:14:00.380 --> 1:14:01.940
+ And you have to keep in mind
+
+1:14:01.940 --> 1:14:04.940
+ that we say our body temperature is 37 degrees,
+
+1:14:04.940 --> 1:14:06.540
+ but that's not true.
+
+1:14:06.540 --> 1:14:08.220
+ Yeah, it varies across the day.
+
+1:14:08.220 --> 1:14:10.860
+ Well, it varies in parts of your body.
+
+1:14:10.860 --> 1:14:14.500
+ I mean, my hands and arms are not at 37 degrees right now.
+
+1:14:14.500 --> 1:14:15.500
+ They're much lower.
+
+1:14:16.500 --> 1:14:18.440
+ So that raises an interesting question.
+
+1:14:18.440 --> 1:14:22.460
+ What is the best way to measure core body temperature?
+
+1:14:22.460 --> 1:14:24.460
+ Well, the best core temperature
+
+1:14:24.460 --> 1:14:28.020
+ is that what we use is esophageal.
+
+1:14:28.020 --> 1:14:30.820
+ So we put a thermocouple up the nose
+
+1:14:30.820 --> 1:14:32.860
+ about two feet down the esophagus
+
+1:14:32.860 --> 1:14:34.840
+ so that it's about the level of your heart.
+
+1:14:34.840 --> 1:14:37.860
+ Not gym or home practical, although I don't know.
+
+1:14:37.860 --> 1:14:40.260
+ Some of those COVID swab tests go pretty far.
+
+1:14:40.260 --> 1:14:42.120
+ I can't even imagine it going any further.
+
+1:14:42.120 --> 1:14:44.220
+ I felt like my brain was getting tickled.
+
+1:14:45.220 --> 1:14:46.860
+ And it was really unpleasant.
+
+1:14:46.860 --> 1:14:48.220
+ Timpaniq is a pretty good-
+
+1:14:48.220 --> 1:14:49.060
+ So the ear.
+
+1:14:49.060 --> 1:14:50.140
+ The ear.
+
+1:14:50.140 --> 1:14:53.420
+ It's not foolproof because you have to actually
+
+1:14:53.420 --> 1:14:56.180
+ have it aimed properly at the tympanum.
+
+1:14:56.180 --> 1:14:57.740
+ And frequently what you're getting
+
+1:14:57.740 --> 1:14:59.260
+ is you're getting sort of a mixture
+
+1:14:59.260 --> 1:15:02.340
+ of tympanic plus ear canal temperature.
+
+1:15:02.340 --> 1:15:04.540
+ And for those listening and for those watching,
+
+1:15:04.540 --> 1:15:06.900
+ the tympanic is not going to be the pinna
+
+1:15:06.900 --> 1:15:08.740
+ that this part of the ear, the outer part of the ear,
+
+1:15:08.740 --> 1:15:10.060
+ the tympanic is going to be near the tympanic.
+
+1:15:10.060 --> 1:15:11.860
+ All headed towards the tympanic membrane.
+
+1:15:11.860 --> 1:15:13.700
+ And yes, I'm sticking my finger in my ear
+
+1:15:13.700 --> 1:15:17.140
+ because that's where the laser would actually have to go
+
+1:15:17.140 --> 1:15:18.700
+ to measure your temperature.
+
+1:15:18.700 --> 1:15:20.220
+ So when we're walking into restaurants
+
+1:15:20.220 --> 1:15:21.260
+ and other places nowadays,
+
+1:15:21.260 --> 1:15:22.980
+ and they're shining the laser at our forehead,
+
+1:15:22.980 --> 1:15:25.740
+ that's probably giving a pretty crude readout of temperature.
+
+1:15:25.740 --> 1:15:28.420
+ It is, but there's much less insulation
+
+1:15:28.420 --> 1:15:31.020
+ between your brain and your forehead skin
+
+1:15:31.020 --> 1:15:34.480
+ than there is between your biceps and your arm skin.
+
+1:15:34.480 --> 1:15:37.900
+ So if you're going to measure a surface temperature,
+
+1:15:37.900 --> 1:15:39.060
+ that's where you would do it.
+
+1:15:39.060 --> 1:15:42.420
+ And we do temperatures in the infrared.
+
+1:15:42.420 --> 1:15:46.860
+ We take infrared videos of athletes and our subjects.
+
+1:15:46.860 --> 1:15:49.520
+ And of course, the face lights up.
+
+1:15:50.340 --> 1:15:51.300
+ Okay, so if we're not,
+
+1:15:51.300 --> 1:15:53.380
+ I imagine there's going to be a technology coming soon
+
+1:15:53.380 --> 1:15:56.140
+ where you can point your smartwatch
+
+1:15:56.140 --> 1:15:57.220
+ or your smartphone at yourself
+
+1:15:57.220 --> 1:15:58.700
+ and you're going to get a heat map.
+
+1:15:58.700 --> 1:15:59.540
+ Right, right.
+
+1:15:59.540 --> 1:16:01.020
+ That's got to, if somebody out there
+
+1:16:01.020 --> 1:16:02.500
+ hasn't already invented this
+
+1:16:02.500 --> 1:16:04.820
+ for the typical folks outside military,
+
+1:16:04.820 --> 1:16:06.080
+ somebody please invent that
+
+1:16:06.080 --> 1:16:10.180
+ because I think there's growing interest in temperature
+
+1:16:10.180 --> 1:16:11.600
+ based on the work that you're doing.
+
+1:16:11.600 --> 1:16:14.460
+ And also for sake of something I do want to touch on,
+
+1:16:14.460 --> 1:16:16.500
+ which is sleep and metabolism,
+
+1:16:16.500 --> 1:16:19.400
+ although we don't want to open up those portals all the way
+
+1:16:19.400 --> 1:16:21.540
+ because we'd need several days to cover it.
+
+1:16:22.820 --> 1:16:25.320
+ Okay, so putting on the cap,
+
+1:16:26.220 --> 1:16:28.940
+ what about some of the helmets and gloves
+
+1:16:28.940 --> 1:16:30.620
+ that are used in typical sports?
+
+1:16:30.620 --> 1:16:32.220
+ Do you think that those can be improved
+
+1:16:32.220 --> 1:16:34.420
+ in order to improve performance
+
+1:16:34.420 --> 1:16:36.180
+ in terms of their ventilation ability
+
+1:16:36.180 --> 1:16:40.100
+ or keeping Palmer surfaces open, for instance?
+
+1:16:40.100 --> 1:16:42.740
+ Well, you mentioned about the knit cap
+
+1:16:42.740 --> 1:16:44.500
+ in cold weather especially,
+
+1:16:44.500 --> 1:16:46.260
+ and that is significant
+
+1:16:46.260 --> 1:16:50.220
+ because you do lose a lot of heat from your head,
+
+1:16:51.160 --> 1:16:53.260
+ but it's a constant heat loss.
+
+1:16:53.260 --> 1:16:56.540
+ It's not variable like your glibrous skin.
+
+1:16:56.540 --> 1:16:59.740
+ So if you decrease that heat loss,
+
+1:16:59.740 --> 1:17:01.700
+ you're going to be warmer.
+
+1:17:01.700 --> 1:17:06.440
+ So sure, that has an impact.
+
+1:17:06.440 --> 1:17:10.540
+ Now, in terms of helmets, they should be ventilated.
+
+1:17:10.540 --> 1:17:13.580
+ I mean, they should have enough space in them
+
+1:17:13.580 --> 1:17:17.180
+ and holes in them so that air can circulate.
+
+1:17:17.180 --> 1:17:22.180
+ You don't want to thermally insulate your scalp.
+
+1:17:22.460 --> 1:17:25.140
+ That's going to decrease heat loss quite considerably.
+
+1:17:25.140 --> 1:17:27.380
+ You know, just for a resting individual,
+
+1:17:27.380 --> 1:17:30.200
+ the brain is about 20% of your metabolism.
+
+1:17:30.200 --> 1:17:32.180
+ So that's a lot of heat production.
+
+1:17:32.180 --> 1:17:33.200
+ Yeah, absolutely.
+
+1:17:34.900 --> 1:17:38.520
+ I realized there was a question that I failed to ask earlier
+
+1:17:38.520 --> 1:17:41.740
+ that is burning in my mind now,
+
+1:17:41.740 --> 1:17:43.740
+ and I think is likely burning in the minds
+
+1:17:43.740 --> 1:17:45.740
+ of some of the listeners, which is,
+
+1:17:46.740 --> 1:17:49.860
+ so if you do this cooling in between sets in the gym,
+
+1:17:49.860 --> 1:17:52.620
+ you get this performance-enhancing effect.
+
+1:17:52.620 --> 1:17:55.060
+ You don't get the delayed onset muscle soreness,
+
+1:17:55.060 --> 1:17:56.540
+ which is great.
+
+1:17:56.540 --> 1:17:59.080
+ So presumably, the body is adapting.
+
+1:17:59.080 --> 1:18:00.780
+ You're getting better as a consequence
+
+1:18:00.780 --> 1:18:03.180
+ of being able to do more work per unit time
+
+1:18:03.180 --> 1:18:06.140
+ or to go harder in some way, of course.
+
+1:18:07.580 --> 1:18:09.040
+ You get that adaptation.
+
+1:18:09.040 --> 1:18:12.620
+ Does that mean that you see a performance-enhancing effect
+
+1:18:12.620 --> 1:18:14.820
+ even when you don't cool
+
+1:18:14.820 --> 1:18:17.320
+ if you've previously done the cooling workouts?
+
+1:18:17.320 --> 1:18:19.740
+ So for instance, let's say I can do 10 sets of 10 dips,
+
+1:18:19.740 --> 1:18:21.660
+ which I like to think I can.
+
+1:18:21.660 --> 1:18:22.540
+ Maybe I need to go try.
+
+1:18:22.540 --> 1:18:24.020
+ I don't know if I've done that recently.
+
+1:18:24.020 --> 1:18:24.940
+ I do the cooling.
+
+1:18:24.940 --> 1:18:27.380
+ I cool for three minutes between sets.
+
+1:18:27.380 --> 1:18:30.260
+ And let's say I get to the point
+
+1:18:30.260 --> 1:18:33.900
+ where I can do 20 for 10 sets,
+
+1:18:33.900 --> 1:18:37.360
+ 10 sets of 20 repetitions, and then I don't cool.
+
+1:18:38.360 --> 1:18:40.780
+ Will I be able to match or approximate
+
+1:18:40.780 --> 1:18:42.620
+ my new, better performance?
+
+1:18:42.620 --> 1:18:44.220
+ You keep your gains.
+
+1:18:44.220 --> 1:18:46.260
+ It's a true conditioning effect.
+
+1:18:46.260 --> 1:18:49.820
+ You respond to the increased work volume
+
+1:18:49.820 --> 1:18:52.460
+ by all of those mechanisms you mentioned.
+
+1:18:52.460 --> 1:18:53.280
+ Amazing.
+
+1:18:53.280 --> 1:18:55.140
+ You increase the number of contractile elements
+
+1:18:55.140 --> 1:18:56.180
+ in your muscles.
+
+1:18:56.180 --> 1:18:57.620
+ The muscles get bigger.
+
+1:18:57.620 --> 1:18:58.460
+ Amazing.
+
+1:18:58.460 --> 1:19:00.300
+ We had an experiment that involved
+
+1:19:00.300 --> 1:19:05.300
+ some of our female students, not athletes,
+
+1:19:05.420 --> 1:19:08.300
+ but just regular, they were freshmen actually.
+
+1:19:08.300 --> 1:19:12.460
+ And the experiment was 10 sets of pushups
+
+1:19:12.460 --> 1:19:15.220
+ to muscle failure with or without cooling.
+
+1:19:15.220 --> 1:19:17.300
+ Same regimen, three minutes of cooling
+
+1:19:17.300 --> 1:19:18.620
+ in between sets of pushups?
+
+1:19:18.620 --> 1:19:19.580
+ Right.
+
+1:19:19.580 --> 1:19:24.580
+ Some of those young ladies reached over 800 pushups.
+
+1:19:24.580 --> 1:19:26.840
+ Now, the total duration of the workout
+
+1:19:26.840 --> 1:19:28.600
+ could be getting much longer as a consequence
+
+1:19:28.600 --> 1:19:29.600
+ of doing more work.
+
+1:19:29.600 --> 1:19:31.280
+ No, it doesn't take you longer.
+
+1:19:31.280 --> 1:19:33.000
+ Well, minor.
+
+1:19:33.000 --> 1:19:34.560
+ I mean, a pushup is pretty fast.
+
+1:19:34.560 --> 1:19:35.500
+ Yeah, it's pretty fast.
+
+1:19:35.500 --> 1:19:40.080
+ So you do 10 sets, the maximum 45 minutes total.
+
+1:19:40.080 --> 1:19:41.880
+ That's a lot of pushups.
+
+1:19:41.880 --> 1:19:43.600
+ That's a lot of pushups.
+
+1:19:43.600 --> 1:19:45.640
+ So the interesting thing is they came in one day
+
+1:19:45.640 --> 1:19:48.820
+ and they said, Dr. Heller, you cost us a lot of money.
+
+1:19:48.820 --> 1:19:49.660
+ Why?
+
+1:19:49.660 --> 1:19:51.200
+ Well, we had a formal dance this weekend.
+
+1:19:51.200 --> 1:19:53.320
+ We all had to buy new sleeveless dresses.
+
+1:19:53.320 --> 1:19:54.760
+ Nice.
+
+1:19:54.760 --> 1:19:56.260
+ It's a good problem to have.
+
+1:19:56.260 --> 1:19:57.360
+ Good problem to have.
+
+1:19:59.280 --> 1:20:01.840
+ Let's talk about steroids, anabolic steroids.
+
+1:20:03.020 --> 1:20:05.080
+ We're heading into an Olympics.
+
+1:20:05.080 --> 1:20:07.240
+ Every time the Olympics rolls around,
+
+1:20:07.240 --> 1:20:10.100
+ you hear about these cases of people getting popped,
+
+1:20:10.100 --> 1:20:12.980
+ as they call it, or caught for anabolic steroids.
+
+1:20:12.980 --> 1:20:14.700
+ There are some accusations out there now.
+
+1:20:14.700 --> 1:20:16.280
+ There'll be more.
+
+1:20:16.280 --> 1:20:19.840
+ This will get handled in the press
+
+1:20:19.840 --> 1:20:22.000
+ and in the various organizations.
+
+1:20:22.000 --> 1:20:26.160
+ Clearly athletes and non-athletes use anabolic steroids.
+
+1:20:26.160 --> 1:20:27.800
+ And typically anabolic steroids
+
+1:20:27.800 --> 1:20:30.240
+ are of the testosterone variety.
+
+1:20:30.240 --> 1:20:32.720
+ There are derivatives, et cetera.
+
+1:20:32.720 --> 1:20:34.960
+ And those derivatives do different things
+
+1:20:34.960 --> 1:20:36.920
+ in anabolic versus androgenic, et cetera.
+
+1:20:36.920 --> 1:20:41.480
+ But typically the idea is, at least as I understand it,
+
+1:20:41.480 --> 1:20:43.480
+ in talking to some of these individuals,
+
+1:20:44.680 --> 1:20:47.520
+ is that they allow people to train more
+
+1:20:47.520 --> 1:20:49.700
+ because they recover faster.
+
+1:20:49.700 --> 1:20:53.120
+ They are able to synthesize more protein
+
+1:20:53.120 --> 1:20:55.680
+ because they're basically getting a second puberty.
+
+1:20:55.680 --> 1:20:57.340
+ Because as we all know, during puberty,
+
+1:20:57.340 --> 1:20:59.140
+ there's a lot of growth of the body.
+
+1:21:00.220 --> 1:21:02.680
+ And of course there are a lot of negative effects
+
+1:21:02.680 --> 1:21:04.060
+ of abuse of these things.
+
+1:21:04.060 --> 1:21:07.820
+ And they are banned from various sports organizations.
+
+1:21:07.820 --> 1:21:10.140
+ Especially, I should mention, in combat sports,
+
+1:21:10.140 --> 1:21:13.760
+ it's especially concerning because in combat sports,
+
+1:21:13.760 --> 1:21:16.780
+ a performance enhancement means that you can harm somebody
+
+1:21:16.780 --> 1:21:20.020
+ more than you would be able to otherwise,
+
+1:21:20.020 --> 1:21:21.940
+ as opposed to in other sorts of sports,
+
+1:21:21.940 --> 1:21:23.600
+ just to conceptualize it.
+
+1:21:23.600 --> 1:21:25.860
+ And I'm not taking a moral stance on any of this.
+
+1:21:25.860 --> 1:21:28.060
+ I just want to ask you,
+
+1:21:28.060 --> 1:21:32.940
+ when you compare Palmer cooling to anabolic steroids
+
+1:21:32.940 --> 1:21:37.940
+ in terms of gym performance, what do you see?
+
+1:21:38.060 --> 1:21:41.620
+ Well, we do not do research on steroids,
+
+1:21:41.620 --> 1:21:46.620
+ but there is a lot of research in the literature.
+
+1:21:46.800 --> 1:21:51.160
+ A lot of that research in the strength conditioning
+
+1:21:52.840 --> 1:21:55.320
+ magazines is not very scientific.
+
+1:21:55.320 --> 1:21:56.400
+ No. Okay.
+
+1:21:56.400 --> 1:21:58.320
+ Or it might not even be scientific at all.
+
+1:21:58.320 --> 1:21:59.160
+ Right. Right.
+
+1:21:59.160 --> 1:22:02.760
+ But we did do an analysis of reputable papers.
+
+1:22:02.760 --> 1:22:06.960
+ And we did find, I think it was probably eight or nine,
+
+1:22:06.960 --> 1:22:11.960
+ 10 studies on bench press, increase in bench press
+
+1:22:12.080 --> 1:22:15.160
+ performance on steroids or not.
+
+1:22:15.160 --> 1:22:16.160
+ Okay.
+
+1:22:16.160 --> 1:22:18.000
+ These were males or females?
+
+1:22:18.000 --> 1:22:20.640
+ Well, these were all males,
+
+1:22:20.640 --> 1:22:22.200
+ but I'll get back to the females.
+
+1:22:22.200 --> 1:22:23.520
+ Okay.
+
+1:22:23.520 --> 1:22:28.400
+ The bottom line is that in all of these independent studies,
+
+1:22:28.400 --> 1:22:33.400
+ their rate of improvement was approximately 1% per week.
+
+1:22:34.080 --> 1:22:34.920
+ Okay.
+
+1:22:34.920 --> 1:22:35.740
+ Okay.
+
+1:22:35.740 --> 1:22:38.360
+ And I just told you about studies
+
+1:22:38.360 --> 1:22:42.680
+ in which we've had 300% increase in a month.
+
+1:22:46.960 --> 1:22:49.560
+ It's an enormous, enormous difference.
+
+1:22:49.560 --> 1:22:51.920
+ So why would you endanger your health
+
+1:22:51.920 --> 1:22:55.400
+ as well as your legal ability to compete
+
+1:22:55.400 --> 1:22:58.280
+ with such an ineffective tool?
+
+1:22:58.280 --> 1:22:59.120
+ Yeah.
+
+1:22:59.120 --> 1:23:03.480
+ No, I think the notion of performance enhancement
+
+1:23:03.480 --> 1:23:04.900
+ is a really interesting one,
+
+1:23:04.900 --> 1:23:07.880
+ because people clearly pay attention to nutrition.
+
+1:23:07.880 --> 1:23:10.800
+ Sleep is now something that I think everybody,
+
+1:23:10.800 --> 1:23:12.840
+ but especially athletes are paying attention to.
+
+1:23:12.840 --> 1:23:14.240
+ Right.
+
+1:23:14.240 --> 1:23:17.400
+ And I predict that temperature will be one
+
+1:23:17.400 --> 1:23:21.440
+ of the more powerful parameters
+
+1:23:21.440 --> 1:23:23.180
+ that people are going to be focusing on.
+
+1:23:23.180 --> 1:23:24.020
+ Yeah.
+
+1:23:24.020 --> 1:23:25.820
+ Because of the magnitude of the effects
+
+1:23:25.820 --> 1:23:27.160
+ that you're describing.
+
+1:23:27.160 --> 1:23:30.960
+ And also because so much of the variability
+
+1:23:30.960 --> 1:23:32.480
+ around performance, as you mentioned,
+
+1:23:32.480 --> 1:23:35.840
+ has to do with when you go to a new environment.
+
+1:23:35.840 --> 1:23:39.360
+ Everyone has their home environment worked out pretty well.
+
+1:23:39.360 --> 1:23:40.880
+ Sleep well in your own bed at home.
+
+1:23:40.880 --> 1:23:42.600
+ When you can control everything,
+
+1:23:42.600 --> 1:23:43.840
+ your performance is always great.
+
+1:23:43.840 --> 1:23:45.720
+ This is why I think military special operators
+
+1:23:45.720 --> 1:23:48.000
+ are a particularly interesting group,
+
+1:23:48.000 --> 1:23:52.600
+ because their whole world is centered around elite
+
+1:23:52.600 --> 1:23:56.200
+ and high performance with very high risk, high consequence,
+
+1:23:56.200 --> 1:23:58.200
+ under variable conditions.
+
+1:23:58.200 --> 1:23:59.400
+ The essence of their work
+
+1:23:59.400 --> 1:24:01.900
+ is variable, unpredictable conditions.
+
+1:24:01.900 --> 1:24:05.280
+ So you mentioned female athletes and steroids.
+
+1:24:05.280 --> 1:24:06.600
+ I'm curious about this.
+
+1:24:06.600 --> 1:24:08.720
+ Yeah, because everybody has always said to us,
+
+1:24:08.720 --> 1:24:11.280
+ well, you only use male subjects,
+
+1:24:11.280 --> 1:24:14.480
+ and obviously they have this testosterone background.
+
+1:24:14.480 --> 1:24:16.320
+ They have higher levels of testosterone.
+
+1:24:16.320 --> 1:24:18.200
+ That's why you get these results.
+
+1:24:18.200 --> 1:24:20.780
+ So we did a comparative study on females.
+
+1:24:20.780 --> 1:24:22.880
+ We get the same results.
+
+1:24:22.880 --> 1:24:23.720
+ Impressive.
+
+1:24:23.720 --> 1:24:25.920
+ And these are our Stanford athletes or also-
+
+1:24:25.920 --> 1:24:27.280
+ No, these were not Stanford athletes.
+
+1:24:27.280 --> 1:24:31.120
+ They were Stanford students, but not athletes.
+
+1:24:31.120 --> 1:24:34.000
+ Well, we have done, of course, work on some athletes,
+
+1:24:34.000 --> 1:24:37.420
+ but in general, we don't do research on our teams,
+
+1:24:37.420 --> 1:24:40.580
+ our varsity teams, so they have their own protocols.
+
+1:24:40.580 --> 1:24:42.440
+ They have their own training programs.
+
+1:24:42.440 --> 1:24:44.560
+ Yeah, they don't like us to get too close to them.
+
+1:24:44.560 --> 1:24:46.680
+ No, I work with some of these folks and the coaches,
+
+1:24:46.680 --> 1:24:49.000
+ and they are very skeptical, with good reason.
+
+1:24:49.000 --> 1:24:54.000
+ Also, and the reason I ask is that when you see these PAC-10
+
+1:24:54.280 --> 1:24:56.320
+ or Division I college athletes,
+
+1:24:56.320 --> 1:24:58.120
+ and then you see their peers,
+
+1:24:58.120 --> 1:25:01.280
+ there's clearly a difference, right?
+
+1:25:01.280 --> 1:25:05.000
+ I mean, they are pedigreed throughout, right?
+
+1:25:06.240 --> 1:25:10.320
+ And more typical folks also have different goals.
+
+1:25:10.320 --> 1:25:13.200
+ They may not want to get infinitely stronger
+
+1:25:13.200 --> 1:25:14.840
+ or perform more endurance work.
+
+1:25:15.940 --> 1:25:18.200
+ So I want to ask you a couple of things
+
+1:25:18.200 --> 1:25:20.920
+ about shivering and metabolism,
+
+1:25:20.920 --> 1:25:22.960
+ because I think they're very interesting
+
+1:25:22.960 --> 1:25:25.180
+ and sufficiently related.
+
+1:25:25.180 --> 1:25:29.940
+ So my understanding is that shiver is an adaptation
+
+1:25:29.940 --> 1:25:31.520
+ that's designed to heat us up,
+
+1:25:32.680 --> 1:25:36.880
+ that we have brown fat that's in compartments
+
+1:25:36.880 --> 1:25:39.680
+ around our body that are activated by shiver
+
+1:25:39.680 --> 1:25:41.900
+ or coactivated by shiver,
+
+1:25:41.900 --> 1:25:46.600
+ and that shivering is useful for increasing metabolism.
+
+1:25:46.600 --> 1:25:48.080
+ Is that true?
+
+1:25:48.080 --> 1:25:50.760
+ And does it require that cold be the stimulus?
+
+1:25:50.760 --> 1:25:53.260
+ So two scenarios, I'll give you an experiment.
+
+1:25:53.260 --> 1:25:56.060
+ I put someone into cold water of some sort,
+
+1:25:56.060 --> 1:25:58.520
+ and then I make them get out or I have them stand near it,
+
+1:25:58.520 --> 1:25:59.840
+ and then they start shivering.
+
+1:25:59.840 --> 1:26:03.740
+ My understanding is that their metabolism will increase.
+
+1:26:03.740 --> 1:26:06.900
+ What if I take someone and I just have them shiver,
+
+1:26:06.900 --> 1:26:08.120
+ but they're not exposed by cold?
+
+1:26:08.120 --> 1:26:09.940
+ It's kind of a deliberate shivering.
+
+1:26:09.940 --> 1:26:14.740
+ Will that also create a substantial increase in metabolism?
+
+1:26:14.740 --> 1:26:15.620
+ Sure.
+
+1:26:15.620 --> 1:26:19.180
+ So deliberate shivering without cold
+
+1:26:19.180 --> 1:26:21.680
+ is essentially what happens when you get a fever.
+
+1:26:21.680 --> 1:26:25.400
+ Your set point goes up and you're hypothalamus,
+
+1:26:25.400 --> 1:26:28.760
+ and you actually, even though you're normal body temperature
+
+1:26:28.760 --> 1:26:31.080
+ your thermostat is telling you you're too cold,
+
+1:26:31.080 --> 1:26:33.220
+ increase your metabolism, so shiver.
+
+1:26:34.520 --> 1:26:39.140
+ So sure, shivering is a good way of increasing metabolism,
+
+1:26:39.140 --> 1:26:41.040
+ but it only can take metabolism up
+
+1:26:41.040 --> 1:26:43.040
+ maybe three or four times resting.
+
+1:26:44.320 --> 1:26:48.120
+ Whereas exercise can take you up 10 times.
+
+1:26:48.120 --> 1:26:48.960
+ Got it.
+
+1:26:48.960 --> 1:26:51.120
+ All right, I'm gonna ask a couple of more random questions
+
+1:26:51.120 --> 1:26:53.720
+ and seemingly random.
+
+1:26:53.720 --> 1:26:55.380
+ Do bears actually hibernate?
+
+1:26:55.380 --> 1:26:56.320
+ Oh yeah.
+
+1:26:56.320 --> 1:26:58.200
+ The true hibernation?
+
+1:26:58.200 --> 1:27:00.240
+ Well, it depends on how you define true.
+
+1:27:01.080 --> 1:27:04.920
+ A bear, actually we've done a lot of work on bears.
+
+1:27:06.360 --> 1:27:09.400
+ Do you also put the nose thermocouple down in the esophagus?
+
+1:27:09.400 --> 1:27:10.960
+ We implant them surgically.
+
+1:27:10.960 --> 1:27:12.800
+ Okay, they're anesthetized when you implant them.
+
+1:27:12.800 --> 1:27:13.640
+ Yes.
+
+1:27:13.640 --> 1:27:14.460
+ What kind of bears are these?
+
+1:27:14.460 --> 1:27:15.300
+ Black bears.
+
+1:27:15.300 --> 1:27:16.140
+ Okay.
+
+1:27:16.140 --> 1:27:18.240
+ And did this with colleagues at University of Alaska,
+
+1:27:18.240 --> 1:27:19.920
+ and we're analyzing the data now,
+
+1:27:19.920 --> 1:27:24.480
+ but what we've done is we've had now a total of 18 bears,
+
+1:27:24.480 --> 1:27:29.280
+ and we implant them with EEG, EKG, temperature sensors,
+
+1:27:29.280 --> 1:27:31.840
+ and sometimes we actually measure their oxygen consumption.
+
+1:27:31.840 --> 1:27:32.900
+ These are bears in the wild.
+
+1:27:32.900 --> 1:27:34.120
+ These are bears in the wild,
+
+1:27:34.120 --> 1:27:36.800
+ but they're brought in to University of Alaska
+
+1:27:36.800 --> 1:27:38.940
+ where we keep them in an outdoor enclosure,
+
+1:27:38.940 --> 1:27:42.560
+ so they're hibernating in a nest box in an enclosure,
+
+1:27:42.560 --> 1:27:45.360
+ and we're recording this electrophysiological data
+
+1:27:45.360 --> 1:27:47.200
+ continuously for six months.
+
+1:27:47.200 --> 1:27:48.040
+ Amazing.
+
+1:27:48.040 --> 1:27:49.440
+ How do I get on this protocol?
+
+1:27:49.440 --> 1:27:53.520
+ Craig and I are doing some work together going forward,
+
+1:27:53.520 --> 1:27:56.280
+ and maybe you can slide me onto this protocol too.
+
+1:27:56.280 --> 1:27:57.320
+ That sounds amazing.
+
+1:27:57.320 --> 1:28:00.680
+ Right now, it's a matter of just analyzing the gigabytes,
+
+1:28:00.680 --> 1:28:03.840
+ terabytes of data that have been collected.
+
+1:28:03.840 --> 1:28:05.880
+ But anyway, you asked about hibernation.
+
+1:28:05.880 --> 1:28:10.880
+ So bears only go down to about 33, 34 degrees centigrade
+
+1:28:11.520 --> 1:28:15.120
+ in core temperature, and that's been argued that,
+
+1:28:15.120 --> 1:28:16.400
+ well, they can't go lower
+
+1:28:16.400 --> 1:28:18.240
+ because they have so much insulation.
+
+1:28:18.240 --> 1:28:21.060
+ They're so big, their surface volume ratio and so forth,
+
+1:28:21.060 --> 1:28:22.600
+ and that's not true.
+
+1:28:22.600 --> 1:28:23.640
+ They shiver.
+
+1:28:23.640 --> 1:28:27.320
+ So if we have a day like minus 40,
+
+1:28:27.320 --> 1:28:30.480
+ which you get up in Alaska,
+
+1:28:30.480 --> 1:28:32.780
+ they will go through periods of shivering
+
+1:28:32.780 --> 1:28:35.940
+ and maintain a core temperature on 33, 34.
+
+1:28:35.940 --> 1:28:38.660
+ Now, the ground squirrels and the marmots,
+
+1:28:38.660 --> 1:28:41.120
+ which are smaller animals,
+
+1:28:42.040 --> 1:28:44.400
+ they will drop down to a body temperature,
+
+1:28:45.320 --> 1:28:47.620
+ maybe within a degree of the environment.
+
+1:28:47.620 --> 1:28:50.600
+ So they can go down to one or two degrees centigrade,
+
+1:28:50.600 --> 1:28:54.320
+ just above freezing during bouts of hibernation.
+
+1:28:54.320 --> 1:28:56.720
+ So they'll stay in hibernation for seven or eight days,
+
+1:28:56.720 --> 1:28:58.680
+ and they'll come back up to normal body temperature
+
+1:28:58.680 --> 1:28:59.520
+ for a day.
+
+1:28:59.520 --> 1:29:00.360
+ Then they'll go back down and do another job.
+
+1:29:00.360 --> 1:29:01.340
+ What do they do during that day
+
+1:29:01.340 --> 1:29:02.720
+ when they're warming up again?
+
+1:29:02.720 --> 1:29:03.560
+ Do they go around?
+
+1:29:03.560 --> 1:29:07.200
+ They rearrange their nests, eat, if they've stored food.
+
+1:29:07.200 --> 1:29:09.120
+ Some species store lots of food.
+
+1:29:09.120 --> 1:29:10.880
+ Others just depend on their fat.
+
+1:29:10.880 --> 1:29:14.760
+ A former mentor of mine, my master's degree mentor,
+
+1:29:14.760 --> 1:29:17.820
+ and a colleague and friend of yours,
+
+1:29:17.820 --> 1:29:21.320
+ Irving Zucker at UC Berkeley, told me a story once,
+
+1:29:21.320 --> 1:29:22.280
+ told me a lot of stories.
+
+1:29:22.280 --> 1:29:24.040
+ He tells great stories, as you know.
+
+1:29:24.040 --> 1:29:27.240
+ He told me that when an animal comes out of hibernation
+
+1:29:27.240 --> 1:29:31.440
+ periodically, that it's a very dramatic thing to observe.
+
+1:29:31.440 --> 1:29:34.320
+ That it's not like they wake up and yawn and look around,
+
+1:29:34.320 --> 1:29:37.660
+ but it's like a complete epileptic seizure.
+
+1:29:37.660 --> 1:29:39.360
+ What's going on there?
+
+1:29:39.360 --> 1:29:40.200
+ Shivering.
+
+1:29:40.200 --> 1:29:42.040
+ It's just a very dramatic shiver.
+
+1:29:42.040 --> 1:29:45.600
+ So at the low temperatures, they cannot shiver
+
+1:29:45.600 --> 1:29:48.680
+ because the effect of temperature on the conduction
+
+1:29:48.680 --> 1:29:50.880
+ of the nerves and the muscle fibers.
+
+1:29:50.880 --> 1:29:52.080
+ So they're shut down, basically.
+
+1:29:52.080 --> 1:29:52.920
+ They're shut down.
+
+1:29:52.920 --> 1:29:54.320
+ So there they use brown fat.
+
+1:29:54.320 --> 1:29:55.680
+ So activate brown fat.
+
+1:29:55.680 --> 1:29:57.560
+ And then when they get up to a temperature
+
+1:29:57.560 --> 1:29:59.840
+ of maybe 15, 16 degrees centigrade,
+
+1:29:59.840 --> 1:30:02.640
+ then the shivering starts and it gets very, very violent.
+
+1:30:02.640 --> 1:30:05.320
+ But they're still asleep.
+
+1:30:06.600 --> 1:30:08.100
+ Do we shiver in our sleep?
+
+1:30:08.100 --> 1:30:12.380
+ I would imagine we do, but it probably wakes us up.
+
+1:30:12.380 --> 1:30:13.220
+ Interesting.
+
+1:30:13.220 --> 1:30:16.140
+ So the brown fat is kind of like kindling.
+
+1:30:16.140 --> 1:30:21.140
+ The brown fat is a tissue which has lots of stored energy
+
+1:30:22.220 --> 1:30:24.000
+ because it's fat.
+
+1:30:24.000 --> 1:30:26.900
+ But unlike our white fat, our regular fat,
+
+1:30:26.900 --> 1:30:29.760
+ it also has lots of these little powerhouses,
+
+1:30:29.760 --> 1:30:32.740
+ mitochondria, and lots of blood supply.
+
+1:30:32.740 --> 1:30:36.880
+ So essentially it is a tissue just to produce heat.
+
+1:30:36.880 --> 1:30:38.260
+ That's what it's there for.
+
+1:30:38.260 --> 1:30:40.260
+ Now, in these hibernators,
+
+1:30:40.260 --> 1:30:43.560
+ there are big patches of brown fat at certain locations
+
+1:30:43.560 --> 1:30:46.800
+ that are critical, like around the heart, for example.
+
+1:30:46.800 --> 1:30:49.780
+ For us, the brown fat is sort of distributed.
+
+1:30:49.780 --> 1:30:51.740
+ So for many, many years,
+
+1:30:51.740 --> 1:30:54.100
+ it was thought humans don't have brown fat,
+
+1:30:54.100 --> 1:30:55.560
+ but indeed we do.
+
+1:30:55.560 --> 1:30:59.020
+ It's just not localized into discrete fat pads
+
+1:30:59.020 --> 1:31:02.980
+ like it is in ground squirrels, marmots.
+
+1:31:02.980 --> 1:31:06.260
+ I don't know why the phrase fat pads is so satisfying to say,
+
+1:31:06.260 --> 1:31:08.460
+ but it is fat pads.
+
+1:31:08.460 --> 1:31:12.780
+ Speaking of fat pads, I was taught that we have,
+
+1:31:13.780 --> 1:31:15.020
+ by the internet, I should say,
+
+1:31:15.020 --> 1:31:18.100
+ I was taught by the internet that we have brown fat
+
+1:31:18.100 --> 1:31:20.460
+ between our scapulae and our upper neck.
+
+1:31:20.460 --> 1:31:24.420
+ Is that truly a source of brown enrichment for brown fat?
+
+1:31:24.420 --> 1:31:26.500
+ If you're a ground squirrel.
+
+1:31:26.500 --> 1:31:29.040
+ So it's completely, this is all the drawings out there.
+
+1:31:29.040 --> 1:31:32.180
+ Okay, so what I'm hearing you say is that brown fat
+
+1:31:32.180 --> 1:31:33.700
+ is actually distributed in patches.
+
+1:31:33.700 --> 1:31:38.420
+ In humans, it's distributed along with other fat tissue.
+
+1:31:38.420 --> 1:31:41.060
+ It's not as discrete.
+
+1:31:41.060 --> 1:31:44.640
+ So the reason I'm kind of shocked and amused
+
+1:31:44.640 --> 1:31:47.380
+ and troubled by this
+
+1:31:47.380 --> 1:31:52.380
+ is because there is a somewhat standard protocol
+
+1:31:52.600 --> 1:31:55.620
+ in the performance wellness, whatever, world,
+
+1:31:55.620 --> 1:31:56.760
+ whatever you want to call it,
+
+1:31:56.760 --> 1:31:59.860
+ of putting ice packs on the upper back
+
+1:31:59.860 --> 1:32:04.480
+ as a way to stimulate brown fat thermogenesis.
+
+1:32:04.480 --> 1:32:09.060
+ I'm hearing some inhales of concern from the physiologist.
+
+1:32:09.060 --> 1:32:12.100
+ So tell me why, it sounds like that's probably not
+
+1:32:12.100 --> 1:32:14.880
+ the best way to stimulate brown fat activation.
+
+1:32:14.880 --> 1:32:17.140
+ Well, let's put it this way.
+
+1:32:17.140 --> 1:32:18.760
+ You're not attacking anyone specifically
+
+1:32:18.760 --> 1:32:20.480
+ because the whole world believes this.
+
+1:32:20.480 --> 1:32:21.420
+ So it doesn't-
+
+1:32:21.420 --> 1:32:26.140
+ But it may not be totally facetious or false.
+
+1:32:26.140 --> 1:32:27.540
+ Think of what that's doing.
+
+1:32:27.540 --> 1:32:31.100
+ If you put ice right there where your spinal cord
+
+1:32:31.100 --> 1:32:32.800
+ is close to the surface,
+
+1:32:32.800 --> 1:32:35.400
+ that's where you're going to hit the vertebral arteries.
+
+1:32:35.400 --> 1:32:38.060
+ So you're essentially putting a cold source
+
+1:32:38.060 --> 1:32:40.340
+ into the brain to the hypothalamus.
+
+1:32:40.340 --> 1:32:43.340
+ The hypothalamus says you're too cold,
+
+1:32:43.340 --> 1:32:47.860
+ so it is going to turn on shivering and brown fat.
+
+1:32:47.860 --> 1:32:49.160
+ So-
+
+1:32:49.160 --> 1:32:50.660
+ Would there be a better site
+
+1:32:51.900 --> 1:32:54.060
+ for sake of activating brown fat?
+
+1:32:54.060 --> 1:32:56.200
+ Um...
+
+1:32:56.200 --> 1:32:57.040
+ Polymer cooling?
+
+1:32:58.680 --> 1:33:03.680
+ You know, I can't say because the activation of brown fat
+
+1:33:03.680 --> 1:33:07.620
+ is a sympathetic nervous system response.
+
+1:33:07.620 --> 1:33:10.680
+ So any lowering of core temperature
+
+1:33:10.680 --> 1:33:15.200
+ that will let the thermostat say you're too cold
+
+1:33:15.200 --> 1:33:16.960
+ is going to turn on sympathetic.
+
+1:33:16.960 --> 1:33:20.640
+ Now, people will have perhaps different amounts
+
+1:33:20.640 --> 1:33:22.020
+ of brown fat.
+
+1:33:22.020 --> 1:33:25.760
+ So newborn have more brown fat than adults.
+
+1:33:25.760 --> 1:33:26.600
+ And probably-
+
+1:33:26.600 --> 1:33:27.700
+ Because newborns can't shiver, correct?
+
+1:33:27.700 --> 1:33:28.540
+ I don't know.
+
+1:33:28.540 --> 1:33:29.860
+ Okay, that's what I read.
+
+1:33:29.860 --> 1:33:30.700
+ I don't know if it's true.
+
+1:33:30.700 --> 1:33:32.080
+ Yeah, I don't know.
+
+1:33:32.080 --> 1:33:34.680
+ I read that in what I believe to be credible sources,
+
+1:33:34.680 --> 1:33:35.520
+ but-
+
+1:33:35.520 --> 1:33:36.340
+ Yeah, it could be.
+
+1:33:36.340 --> 1:33:37.180
+ I just don't know.
+
+1:33:37.180 --> 1:33:40.140
+ It depends on if it's really newborn.
+
+1:33:40.140 --> 1:33:42.300
+ I can agree because you don't have
+
+1:33:42.300 --> 1:33:46.320
+ all of the motor pathways connected up yet.
+
+1:33:46.320 --> 1:33:49.800
+ That's something that occurs in early days of life
+
+1:33:49.800 --> 1:33:52.200
+ and is probably one of the functions of REM sleep,
+
+1:33:54.120 --> 1:33:55.800
+ which infants have a lot of.
+
+1:33:55.800 --> 1:33:56.640
+ Right.
+
+1:33:56.640 --> 1:33:57.460
+ Okay.
+
+1:33:57.460 --> 1:33:59.560
+ But how to activate brown fat?
+
+1:33:59.560 --> 1:34:02.880
+ If you are consistently exposed to cold,
+
+1:34:02.880 --> 1:34:05.380
+ so if you live in the Arctic
+
+1:34:05.380 --> 1:34:08.080
+ and you go out jogging in the winter,
+
+1:34:08.080 --> 1:34:11.040
+ maybe that will increase the amount of brown fat you have.
+
+1:34:11.040 --> 1:34:13.920
+ If you live in the tropics, maybe you have less brown fat.
+
+1:34:13.920 --> 1:34:14.760
+ I don't know.
+
+1:34:14.760 --> 1:34:17.720
+ I don't know of any studies which have looked into that.
+
+1:34:17.720 --> 1:34:18.840
+ Okay.
+
+1:34:18.840 --> 1:34:20.420
+ Ice headache.
+
+1:34:20.420 --> 1:34:22.040
+ Sometimes I'll drink a cold beverage
+
+1:34:22.040 --> 1:34:25.920
+ or I'll eat ice cream and my head will-
+
+1:34:25.920 --> 1:34:26.920
+ Brain freeze.
+
+1:34:26.920 --> 1:34:27.760
+ Brain freeze.
+
+1:34:27.760 --> 1:34:30.760
+ And speaking of special forces, I was talking to,
+
+1:34:30.760 --> 1:34:35.560
+ we all see the images, the SEAL training slash screening
+
+1:34:35.560 --> 1:34:37.680
+ in Coronado where they're going in and out of the Pacific,
+
+1:34:37.680 --> 1:34:38.920
+ which is very cold.
+
+1:34:38.920 --> 1:34:41.800
+ But I know they also spend some time
+
+1:34:41.800 --> 1:34:44.720
+ in the very cold waters of Kodiak, Alaska.
+
+1:34:44.720 --> 1:34:46.680
+ You mentioned Alaska.
+
+1:34:46.680 --> 1:34:49.240
+ Brain freeze, so-called ice headache,
+
+1:34:49.240 --> 1:34:54.240
+ is a common occurrence there in those situations.
+
+1:34:54.660 --> 1:34:56.220
+ But we all have experienced this.
+
+1:34:56.220 --> 1:34:58.560
+ We eat ice cream, we get that brain freeze.
+
+1:34:58.560 --> 1:35:00.940
+ I can feel it right now a little bit subjectively.
+
+1:35:00.940 --> 1:35:02.020
+ I can induce it.
+
+1:35:02.880 --> 1:35:04.000
+ What's going on there?
+
+1:35:04.000 --> 1:35:06.200
+ And I would always just rub my tongue
+
+1:35:06.200 --> 1:35:07.220
+ on the roof of my mouth.
+
+1:35:07.220 --> 1:35:09.760
+ Is there something that I'm doing that's functional there
+
+1:35:09.760 --> 1:35:11.320
+ just to try and alleviate it?
+
+1:35:11.320 --> 1:35:12.160
+ Good question.
+
+1:35:12.160 --> 1:35:14.320
+ The thing is that the roof of your mouth
+
+1:35:14.320 --> 1:35:16.780
+ is very close to your hypothalamus.
+
+1:35:16.780 --> 1:35:20.000
+ So if indeed it's a popsicle
+
+1:35:20.000 --> 1:35:21.600
+ that's giving you the brain freeze,
+
+1:35:21.600 --> 1:35:24.720
+ it may be a direct cooling effect
+
+1:35:24.720 --> 1:35:25.800
+ from the roof of your mouth.
+
+1:35:25.800 --> 1:35:26.860
+ You put your tongue there,
+
+1:35:26.860 --> 1:35:28.880
+ you're insulating the roof of your mouth.
+
+1:35:28.880 --> 1:35:29.920
+ I don't know.
+
+1:35:29.920 --> 1:35:30.760
+ I'm guessing.
+
+1:35:30.760 --> 1:35:32.720
+ But what's the source of the brain freeze?
+
+1:35:32.720 --> 1:35:34.200
+ Is it a vasoconstriction?
+
+1:35:34.200 --> 1:35:36.800
+ It's a vasomotor change.
+
+1:35:36.800 --> 1:35:37.980
+ Whether it's constriction,
+
+1:35:37.980 --> 1:35:39.960
+ I think it's more likely a vaso,
+
+1:35:39.960 --> 1:35:41.820
+ an increase in blood pressure,
+
+1:35:41.820 --> 1:35:45.600
+ which will essentially cause an expansion of the arteries
+
+1:35:45.600 --> 1:35:48.200
+ and activate pain receptors.
+
+1:35:48.200 --> 1:35:50.840
+ We don't have pain receptors in the neural tissue,
+
+1:35:50.840 --> 1:35:51.680
+ in the brain.
+
+1:35:51.680 --> 1:35:53.280
+ We have them in the meninges
+
+1:35:53.280 --> 1:35:56.320
+ and predominantly associated with the blood vessels,
+
+1:35:56.320 --> 1:35:57.880
+ the walls of the blood vessels.
+
+1:35:57.880 --> 1:35:58.840
+ So if you have something
+
+1:35:58.840 --> 1:36:03.840
+ which will dramatically increase your blood pressure
+
+1:36:04.200 --> 1:36:07.200
+ going to the brain, you're likely to get a...
+
+1:36:08.840 --> 1:36:11.040
+ We've had some preliminary data.
+
+1:36:11.040 --> 1:36:12.400
+ I even hate to mention this
+
+1:36:12.400 --> 1:36:16.380
+ because we have not been able to pursue it systematically,
+
+1:36:16.380 --> 1:36:21.380
+ but we've had some experience with people with migraine
+
+1:36:22.000 --> 1:36:26.980
+ that say if they use one of our devices to heat,
+
+1:36:26.980 --> 1:36:28.360
+ that the migraine goes away.
+
+1:36:29.280 --> 1:36:31.920
+ And I don't know.
+
+1:36:31.920 --> 1:36:32.760
+ You know, the idea-
+
+1:36:32.760 --> 1:36:33.580
+ It's very interesting.
+
+1:36:33.580 --> 1:36:34.420
+ A lot of people suffer from migraine.
+
+1:36:34.420 --> 1:36:36.800
+ I know there are a lot of different types of migraine.
+
+1:36:36.800 --> 1:36:37.640
+ Right.
+
+1:36:37.640 --> 1:36:38.640
+ I've been reading a lot about this lately
+
+1:36:38.640 --> 1:36:41.960
+ because I get so many questions about migraine.
+
+1:36:41.960 --> 1:36:42.800
+ But-
+
+1:36:42.800 --> 1:36:43.640
+ I hate to say anything.
+
+1:36:43.640 --> 1:36:44.480
+ Sure.
+
+1:36:44.480 --> 1:36:46.120
+ And we'll just underscore this as preliminary.
+
+1:36:46.120 --> 1:36:49.420
+ And people have been great about understanding
+
+1:36:49.420 --> 1:36:50.720
+ that when we say preliminary,
+
+1:36:50.720 --> 1:36:54.680
+ we mean it has not passed through the required filters
+
+1:36:54.680 --> 1:36:57.960
+ to call it hard fact yet.
+
+1:36:57.960 --> 1:36:59.920
+ We don't even have a decent data set.
+
+1:36:59.920 --> 1:37:00.920
+ Right.
+
+1:37:00.920 --> 1:37:02.440
+ These are anecdotal reports.
+
+1:37:02.440 --> 1:37:04.000
+ Anecdata, as people like to call it.
+
+1:37:04.000 --> 1:37:05.440
+ But I don't even like to call it that
+
+1:37:05.440 --> 1:37:07.520
+ because then we don't want to give it more weight
+
+1:37:07.520 --> 1:37:08.360
+ than it deserves.
+
+1:37:08.360 --> 1:37:09.900
+ That's interesting.
+
+1:37:09.900 --> 1:37:12.560
+ The ice headache and the increase in blood pressure
+
+1:37:12.560 --> 1:37:15.380
+ is interesting because the only thing that I've heard
+
+1:37:15.380 --> 1:37:19.160
+ is similar to it is something that comes from,
+
+1:37:19.160 --> 1:37:20.380
+ you know, they have these competitions
+
+1:37:20.380 --> 1:37:22.960
+ where people eat these very hot chili peppers.
+
+1:37:22.960 --> 1:37:24.000
+ You know, it's kind of a-
+
+1:37:24.000 --> 1:37:24.840
+ Yeah.
+
+1:37:24.840 --> 1:37:28.320
+ An ego thing, I guess, for reasons that escape me,
+
+1:37:28.320 --> 1:37:29.840
+ that eating really hot peppers.
+
+1:37:29.840 --> 1:37:31.940
+ And every once in a while, someone will eat one of these
+
+1:37:31.940 --> 1:37:33.920
+ and get what's called thunderclap headache,
+
+1:37:33.920 --> 1:37:36.920
+ where a headache comes on extremely quickly.
+
+1:37:36.920 --> 1:37:39.520
+ And so quickly that it's caused,
+
+1:37:39.520 --> 1:37:42.120
+ so severe, rather, that it's been known
+
+1:37:42.120 --> 1:37:44.520
+ to cause stroke and brain damage.
+
+1:37:44.520 --> 1:37:46.680
+ So these very, very hot peppers,
+
+1:37:46.680 --> 1:37:48.380
+ if you're not acclimated to them,
+
+1:37:48.380 --> 1:37:49.560
+ and maybe even if you are,
+
+1:37:49.560 --> 1:37:52.260
+ have been shown to actually cause brain damage.
+
+1:37:52.260 --> 1:37:53.100
+ Yeah.
+
+1:37:53.100 --> 1:37:54.260
+ Some good evidence for this.
+
+1:37:55.520 --> 1:37:58.360
+ I do want to talk about something
+
+1:37:58.360 --> 1:38:01.640
+ that we have not touched on yet,
+
+1:38:01.640 --> 1:38:06.640
+ which is NEAT, non-exercise induced thermogenesis.
+
+1:38:06.640 --> 1:38:07.480
+ Right?
+
+1:38:08.320 --> 1:38:11.280
+ So non-activity associated thermogenesis
+
+1:38:11.280 --> 1:38:12.940
+ and the fidgeters, right?
+
+1:38:12.940 --> 1:38:15.880
+ So the classic work of like Rothwell and Stock
+
+1:38:15.880 --> 1:38:19.840
+ and the idea that some people who overeat
+
+1:38:19.840 --> 1:38:23.740
+ are burning off that energy by way of shaking their knee
+
+1:38:23.740 --> 1:38:24.840
+ or moving around a lot.
+
+1:38:24.840 --> 1:38:26.400
+ These are the kind of nerve, they quote,
+
+1:38:26.400 --> 1:38:28.040
+ you know, quote unquote nervous types.
+
+1:38:28.040 --> 1:38:31.920
+ But they quoted in those studies,
+
+1:38:31.920 --> 1:38:34.440
+ a huge degree of caloric burn, you know,
+
+1:38:34.440 --> 1:38:37.440
+ 800, 2,500 calories per day burned
+
+1:38:37.440 --> 1:38:39.960
+ above those who sit rather still.
+
+1:38:39.960 --> 1:38:42.140
+ Does that seem far-fetched?
+
+1:38:42.140 --> 1:38:45.240
+ Those are older data, but any comment on NEAT
+
+1:38:45.240 --> 1:38:48.440
+ or non-exercise induced thermogenesis?
+
+1:38:48.440 --> 1:38:50.640
+ Well, I do think it's pretty straightforward
+
+1:38:50.640 --> 1:38:53.240
+ that if you increase muscle activity of any kind,
+
+1:38:53.240 --> 1:38:55.720
+ you're increasing your energy consumption
+
+1:38:55.720 --> 1:38:57.440
+ and your heat production.
+
+1:38:57.440 --> 1:38:59.760
+ And no, the really extreme example
+
+1:38:59.760 --> 1:39:02.820
+ is hyper and hypothyroidism.
+
+1:39:02.820 --> 1:39:05.680
+ People that are hyperthyroid are fidgety
+
+1:39:05.680 --> 1:39:07.640
+ and you know, they have a high metabolic rate
+
+1:39:07.640 --> 1:39:09.360
+ and they're hot.
+
+1:39:09.360 --> 1:39:12.160
+ And people that are hypothermic are cool.
+
+1:39:12.160 --> 1:39:15.200
+ They're not, they don't move very much.
+
+1:39:15.200 --> 1:39:17.800
+ So any kind of muscle activity increases.
+
+1:39:17.800 --> 1:39:20.540
+ And when you say, you know, it's not much activity,
+
+1:39:20.540 --> 1:39:23.440
+ but remember it's only 20% effective.
+
+1:39:23.440 --> 1:39:26.900
+ 80% of the energy is going to heat.
+
+1:39:27.760 --> 1:39:32.240
+ So it may not exert much energy to tap your foot,
+
+1:39:32.240 --> 1:39:35.680
+ but four times the amount of energy
+
+1:39:35.680 --> 1:39:39.360
+ that is going into the movement is being lost as heat.
+
+1:39:39.360 --> 1:39:41.840
+ That's very interesting.
+
+1:39:41.840 --> 1:39:44.080
+ A couple more quick questions.
+
+1:39:44.080 --> 1:39:46.300
+ There's a lot of excitement these days,
+
+1:39:46.300 --> 1:39:48.920
+ or at least usage these days of so-called energy drinks
+
+1:39:48.920 --> 1:39:50.640
+ or pre-workout drinks.
+
+1:39:50.640 --> 1:39:53.320
+ Many of these contain thermogenic compounds.
+
+1:39:53.320 --> 1:39:57.600
+ So caffeine, things, there's a culture now
+
+1:39:57.600 --> 1:40:01.880
+ of taking arginine, things that support arginine.
+
+1:40:01.880 --> 1:40:06.280
+ So, you know, beet juice and L-citrulline,
+
+1:40:06.280 --> 1:40:08.040
+ things to dilate the blood vessels.
+
+1:40:08.040 --> 1:40:10.520
+ Sometimes this is for sake of increasing blood flow
+
+1:40:10.520 --> 1:40:12.200
+ to the muscles during resistance exercise.
+
+1:40:12.200 --> 1:40:14.200
+ But a lot of these are thermogenic.
+
+1:40:14.200 --> 1:40:16.320
+ It's to increase body temperature.
+
+1:40:16.320 --> 1:40:19.160
+ And is it possible that some of these energy drinks
+
+1:40:19.160 --> 1:40:21.660
+ are actually, or similar, you know,
+
+1:40:21.660 --> 1:40:23.600
+ six espresso or whatever it is,
+
+1:40:23.600 --> 1:40:27.560
+ are acting to prevent optimal performance
+
+1:40:27.560 --> 1:40:29.320
+ or reduce performance?
+
+1:40:29.320 --> 1:40:33.660
+ I don't think that the temperature rise is that.
+
+1:40:33.660 --> 1:40:35.680
+ I really don't know.
+
+1:40:35.680 --> 1:40:38.800
+ But what it does is it makes you more jittery
+
+1:40:38.800 --> 1:40:40.920
+ and you're going to increase that neat
+
+1:40:40.920 --> 1:40:42.360
+ that you were talking about.
+
+1:40:43.400 --> 1:40:45.480
+ Or it's another thing, and that is that
+
+1:40:46.400 --> 1:40:48.720
+ when you are exercising your muscle
+
+1:40:48.720 --> 1:40:52.320
+ and it becomes slightly hypoxic,
+
+1:40:52.320 --> 1:40:56.780
+ I mean, the oxygen supply is not enough,
+
+1:40:56.780 --> 1:40:59.760
+ the muscle releases adenosine.
+
+1:40:59.760 --> 1:41:01.880
+ And what adenosine does in the muscle
+
+1:41:01.880 --> 1:41:05.660
+ is cause the blood vessels to open up, to dilate.
+
+1:41:05.660 --> 1:41:09.240
+ So it's a way of increasing the blood flow to the muscle
+
+1:41:09.240 --> 1:41:11.600
+ and therefore the oxygen supply to the muscle.
+
+1:41:11.600 --> 1:41:14.640
+ And caffeine is essentially an adenosine antagonist.
+
+1:41:14.640 --> 1:41:16.800
+ An adenosine antagonist, right.
+
+1:41:16.800 --> 1:41:21.500
+ So under the strict logic, ingesting caffeine
+
+1:41:21.500 --> 1:41:23.480
+ will reduce adenosine release
+
+1:41:23.480 --> 1:41:27.480
+ and will reduce oxygen utilization at the muscle.
+
+1:41:27.480 --> 1:41:29.520
+ So that would lead me to believe
+
+1:41:29.520 --> 1:41:33.320
+ that motivational support aside,
+
+1:41:33.320 --> 1:41:37.040
+ that caffeine will hinder muscular performance.
+
+1:41:37.040 --> 1:41:38.120
+ I would think so,
+
+1:41:38.120 --> 1:41:43.120
+ but I can't give you an authoritative answer on that.
+
+1:41:43.160 --> 1:41:46.340
+ Okay, we're just going through the logic
+
+1:41:46.340 --> 1:41:48.080
+ and the gymnastics around that.
+
+1:41:49.820 --> 1:41:52.480
+ I think it's a fascinating area that deserves attention
+
+1:41:52.480 --> 1:41:56.400
+ because the question of what one can ingest
+
+1:41:56.400 --> 1:41:57.980
+ in order to perform better,
+
+1:41:58.880 --> 1:42:00.900
+ to say nothing of hormone augmentation,
+
+1:42:00.900 --> 1:42:05.900
+ but has often leads back to stimulants.
+
+1:42:06.320 --> 1:42:08.060
+ And if those stimulants,
+
+1:42:08.060 --> 1:42:10.760
+ most of which include caffeine of some sort,
+
+1:42:10.760 --> 1:42:13.080
+ are inhibiting the adenosine system
+
+1:42:13.080 --> 1:42:14.000
+ and the adenosine system
+
+1:42:14.000 --> 1:42:16.000
+ is supporting the oxygenation of muscle,
+
+1:42:16.000 --> 1:42:19.960
+ then I would imagine that avoiding them
+
+1:42:19.960 --> 1:42:21.880
+ might be the better option.
+
+1:42:21.880 --> 1:42:26.880
+ Yeah, I just am not aware of data that would...
+
+1:42:27.440 --> 1:42:30.400
+ So this is a general phenomenon of adenosine
+
+1:42:30.400 --> 1:42:31.880
+ and blood flow.
+
+1:42:31.880 --> 1:42:34.360
+ It has, of course, a different effect in the brain.
+
+1:42:34.360 --> 1:42:38.600
+ Adenosine causes sleep, so caffeine keeps you awake.
+
+1:42:38.600 --> 1:42:40.280
+ And if you stay awake,
+
+1:42:40.280 --> 1:42:42.000
+ you're going to have a higher metabolic rate
+
+1:42:42.000 --> 1:42:45.140
+ than if you go to sleep.
+
+1:42:45.140 --> 1:42:48.940
+ So, and the thing is you say energy drinks.
+
+1:42:48.940 --> 1:42:52.240
+ The question is, what really is in them?
+
+1:42:52.240 --> 1:42:54.320
+ It's usually a cocktail of things.
+
+1:42:54.320 --> 1:42:55.160
+ I don't take these.
+
+1:42:55.160 --> 1:42:56.020
+ I don't like them at all,
+
+1:42:56.020 --> 1:42:59.280
+ but they're usually a combination of vasodilators,
+
+1:42:59.280 --> 1:43:01.320
+ stimulant, caffeine, some sort of stimulant.
+
+1:43:01.320 --> 1:43:02.760
+ And a source of glucose.
+
+1:43:02.760 --> 1:43:05.000
+ Sometimes a source of glucose and sometimes not.
+
+1:43:05.000 --> 1:43:10.000
+ And oftentimes there are vasodilators
+
+1:43:11.480 --> 1:43:14.160
+ and there are compounds
+
+1:43:14.160 --> 1:43:16.760
+ that are thought to be so-called nootropics, smart drugs,
+
+1:43:16.760 --> 1:43:18.840
+ that basically increase acetylcholine
+
+1:43:18.840 --> 1:43:21.060
+ or norepinephrine transmission.
+
+1:43:22.080 --> 1:43:25.280
+ You know, in the 80s and 90s,
+
+1:43:25.280 --> 1:43:28.680
+ the beta-3 agonists like clambuterol were very popular,
+
+1:43:28.680 --> 1:43:30.080
+ but they were all banned.
+
+1:43:30.080 --> 1:43:32.320
+ So those are all banned from...
+
+1:43:32.320 --> 1:43:33.920
+ Although people use them recreationally,
+
+1:43:33.920 --> 1:43:35.560
+ which I do not recommend.
+
+1:43:35.560 --> 1:43:36.880
+ There were actually a number of deaths
+
+1:43:36.880 --> 1:43:39.560
+ due to dehydration, overheating,
+
+1:43:39.560 --> 1:43:41.660
+ as well as cardiac effects.
+
+1:43:42.800 --> 1:43:44.040
+ Before we wrap up,
+
+1:43:44.040 --> 1:43:46.800
+ I know you've done a ton of work on sleep.
+
+1:43:46.800 --> 1:43:48.700
+ I think we're going to have to do another episode
+
+1:43:48.700 --> 1:43:50.200
+ about your work on sleep
+
+1:43:50.200 --> 1:43:52.720
+ because the amount of data that you produce there
+
+1:43:52.720 --> 1:43:54.080
+ is vast, actually.
+
+1:43:54.080 --> 1:43:56.080
+ So I first got to know you and your work
+
+1:43:57.280 --> 1:43:59.400
+ related to sleep and temperature.
+
+1:43:59.400 --> 1:44:02.960
+ We all hear nowadays that it's good to keep the room
+
+1:44:02.960 --> 1:44:05.480
+ that you sleep in cool, keep it dark.
+
+1:44:05.480 --> 1:44:08.480
+ I've talked a number of times on podcast episodes
+
+1:44:08.480 --> 1:44:11.780
+ about the role of light and shifting in circadian rhythms.
+
+1:44:12.760 --> 1:44:15.140
+ I have two questions related to sleep.
+
+1:44:15.140 --> 1:44:18.240
+ One is, are there any things
+
+1:44:18.240 --> 1:44:21.420
+ that may or may not relate to temperature,
+
+1:44:21.420 --> 1:44:26.000
+ but that you think are very useful for getting better sleep
+
+1:44:26.000 --> 1:44:29.020
+ that you don't hear that much about,
+
+1:44:30.000 --> 1:44:33.120
+ that people might want to consider or try,
+
+1:44:33.120 --> 1:44:34.480
+ realizing that there are a lot of reasons
+
+1:44:34.480 --> 1:44:36.480
+ why people don't sleep great,
+
+1:44:36.480 --> 1:44:39.280
+ but what are some things that you don't hear
+
+1:44:39.280 --> 1:44:43.080
+ that much about these days that you wish people knew?
+
+1:44:43.080 --> 1:44:45.640
+ Well, the sleep medicine community
+
+1:44:45.640 --> 1:44:50.640
+ now puts a lot more emphasis on cognitive behavioral therapy
+
+1:44:50.800 --> 1:44:53.120
+ than on pharmacology.
+
+1:44:53.120 --> 1:44:55.920
+ So what cognitive behavioral therapy does
+
+1:44:55.920 --> 1:44:59.720
+ is it essentially increases your sleep hygiene.
+
+1:44:59.720 --> 1:45:02.720
+ So there are certain just general rules.
+
+1:45:02.720 --> 1:45:06.200
+ So have a regular bedtime and a regular arousal time.
+
+1:45:06.200 --> 1:45:08.840
+ Don't be skipping back and forth all the time.
+
+1:45:08.840 --> 1:45:10.160
+ Arousal, you mean wake-up time.
+
+1:45:10.160 --> 1:45:11.200
+ Wake-up time, yeah.
+
+1:45:11.200 --> 1:45:12.600
+ Spoken like a true physiologist.
+
+1:45:12.600 --> 1:45:16.600
+ Yeah.
+
+1:45:16.600 --> 1:45:20.780
+ Another thing is don't use screens
+
+1:45:20.780 --> 1:45:22.520
+ within a couple hours of bedtime
+
+1:45:22.520 --> 1:45:26.860
+ because screens are predominantly rich in blue light.
+
+1:45:26.860 --> 1:45:29.560
+ And what that does is you mentioned the circadian system.
+
+1:45:29.560 --> 1:45:31.580
+ That affects your circadian system.
+
+1:45:31.580 --> 1:45:36.580
+ That pushes off your circadian stimulus for sleep, okay?
+
+1:45:37.560 --> 1:45:40.520
+ Another thing is, of course, relax.
+
+1:45:40.520 --> 1:45:42.600
+ I mean, don't work right up till the time
+
+1:45:42.600 --> 1:45:44.280
+ you're going to bed.
+
+1:45:44.280 --> 1:45:46.640
+ Take some time to do something relaxing.
+
+1:45:47.480 --> 1:45:50.180
+ And then temperature, you've mentioned that.
+
+1:45:50.180 --> 1:45:55.180
+ And for many people, a warm bath is really conducive
+
+1:45:55.240 --> 1:45:57.040
+ to good sleep.
+
+1:45:57.040 --> 1:46:01.480
+ And people are now swearing by a cooler environment
+
+1:46:01.480 --> 1:46:02.680
+ for sleep.
+
+1:46:02.680 --> 1:46:06.120
+ And that makes sense in terms of the circadian effect
+
+1:46:06.120 --> 1:46:07.700
+ on body temperature.
+
+1:46:07.700 --> 1:46:12.700
+ So our circadian clock is affecting our thermostat.
+
+1:46:13.080 --> 1:46:15.720
+ So at the time we go to bed, our thermostat
+
+1:46:15.720 --> 1:46:19.760
+ is on its way down to a lower set point, okay?
+
+1:46:19.760 --> 1:46:20.600
+ So what happens?
+
+1:46:20.600 --> 1:46:24.060
+ You go to bed and you're feeling a little bit cool.
+
+1:46:24.060 --> 1:46:26.960
+ So you pile on lots of blankets.
+
+1:46:26.960 --> 1:46:29.920
+ And then what happens is you wake up a little bit later
+
+1:46:29.920 --> 1:46:31.340
+ and you're hot, so you throw them off.
+
+1:46:31.340 --> 1:46:35.200
+ It's because your thermostat has set downward.
+
+1:46:35.200 --> 1:46:37.760
+ Now, why is it better to have a cool environment?
+
+1:46:37.760 --> 1:46:39.380
+ It's better to have a cool environment
+
+1:46:39.380 --> 1:46:42.320
+ because it's easier to thermoregulate.
+
+1:46:42.320 --> 1:46:44.720
+ So you can go to Europe in the summertime
+
+1:46:44.720 --> 1:46:47.960
+ and the hotel rooms still have these big comforters,
+
+1:46:47.960 --> 1:46:50.040
+ these down comforters.
+
+1:46:50.040 --> 1:46:51.800
+ So how do you deal with that?
+
+1:46:51.800 --> 1:46:55.000
+ You stick out your hands and your legs, okay?
+
+1:46:55.000 --> 1:46:57.200
+ I've always slept with, I have one leg
+
+1:46:57.200 --> 1:47:00.000
+ that just kind of hangs out of the, yeah.
+
+1:47:00.000 --> 1:47:03.400
+ But that's, they're your heat loss surfaces, right?
+
+1:47:03.400 --> 1:47:04.880
+ So if you're in a cool environment,
+
+1:47:04.880 --> 1:47:06.600
+ you can take advantage of that.
+
+1:47:06.600 --> 1:47:09.340
+ You can take advantage by passively
+
+1:47:09.340 --> 1:47:10.960
+ regulating your body temperature.
+
+1:47:10.960 --> 1:47:13.840
+ You don't have to get up and wake up and say,
+
+1:47:13.840 --> 1:47:16.060
+ oh my God, I got to change the covers
+
+1:47:16.060 --> 1:47:17.680
+ or blankets or what have you.
+
+1:47:17.680 --> 1:47:20.800
+ If you're in a warm environment, what can you do?
+
+1:47:20.800 --> 1:47:23.600
+ You need to sleep with one hand in the cool mitt, right?
+
+1:47:23.600 --> 1:47:25.480
+ And right now that's not available yet.
+
+1:47:25.480 --> 1:47:26.960
+ Right, it's not available.
+
+1:47:26.960 --> 1:47:28.760
+ I've never heard about it that way.
+
+1:47:28.760 --> 1:47:31.120
+ I've always heard you want to sleep in a cool room
+
+1:47:31.120 --> 1:47:33.120
+ or keep the room cold.
+
+1:47:33.120 --> 1:47:35.720
+ But I never realized why that's useful,
+
+1:47:35.720 --> 1:47:37.320
+ which is, as you're saying,
+
+1:47:37.320 --> 1:47:41.640
+ that then you can move these glabrous surfaces in and out.
+
+1:47:41.640 --> 1:47:43.200
+ You could even, I'll sometimes even wake up
+
+1:47:43.200 --> 1:47:45.320
+ under the blanket completely.
+
+1:47:45.320 --> 1:47:47.140
+ Very, very interesting.
+
+1:47:47.140 --> 1:47:51.940
+ That finally a rational science grounded explanation
+
+1:47:51.940 --> 1:47:53.640
+ for why we need to sleep in a cool room.
+
+1:47:53.640 --> 1:47:54.480
+ Because I always thought, well,
+
+1:47:54.480 --> 1:47:56.080
+ if your temperature is going down anyway,
+
+1:47:56.080 --> 1:47:57.620
+ why do you have to sleep in a cool room?
+
+1:47:57.620 --> 1:47:59.400
+ What about wearing socks while you sleep?
+
+1:47:59.400 --> 1:48:01.000
+ That was big a few years ago where they said,
+
+1:48:01.000 --> 1:48:02.820
+ you know, you should put socks on.
+
+1:48:02.820 --> 1:48:05.300
+ Now I would think that's probably the wrong advice.
+
+1:48:05.300 --> 1:48:06.140
+ You probably just-
+
+1:48:06.140 --> 1:48:08.260
+ Well, I don't know if it's wrong advice.
+
+1:48:08.260 --> 1:48:12.220
+ There's an old, old study that was supported by,
+
+1:48:12.220 --> 1:48:17.220
+ I think, Eddie Bauer, the sleeping bag company.
+
+1:48:17.240 --> 1:48:21.360
+ And what the study showed, what the study was asking is,
+
+1:48:21.360 --> 1:48:24.340
+ what are the most temperature sensitive spots in the body?
+
+1:48:24.340 --> 1:48:26.000
+ Where do you feel cold?
+
+1:48:26.000 --> 1:48:28.880
+ And what that showed was it was the toes.
+
+1:48:28.880 --> 1:48:29.720
+ So-
+
+1:48:29.720 --> 1:48:30.540
+ Makes sense.
+
+1:48:30.540 --> 1:48:31.720
+ So when you sample water with your toe,
+
+1:48:31.720 --> 1:48:33.560
+ you always see that.
+
+1:48:33.560 --> 1:48:37.600
+ So the socks essentially are promoting thermal comfort
+
+1:48:37.600 --> 1:48:40.900
+ by insulating that area that's quite sensitive.
+
+1:48:40.900 --> 1:48:42.120
+ Now, of course, if it's too warm,
+
+1:48:42.120 --> 1:48:43.420
+ you're not going to put socks on.
+
+1:48:43.420 --> 1:48:44.460
+ Right.
+
+1:48:44.460 --> 1:48:47.000
+ Well, Craig, thank you so much.
+
+1:48:47.000 --> 1:48:49.800
+ You gave so much information
+
+1:48:49.800 --> 1:48:51.760
+ that's actionable and interesting.
+
+1:48:51.760 --> 1:48:55.060
+ I know a lot of people are going to be really interested
+
+1:48:55.060 --> 1:48:58.560
+ in the Palmer Cooling Technology from Coolmit.
+
+1:48:58.560 --> 1:49:01.000
+ We will be sure to provide resources to the website
+
+1:49:01.000 --> 1:49:03.020
+ so that people can register interest.
+
+1:49:03.020 --> 1:49:08.020
+ I do encourage people to play around with, so to speak,
+
+1:49:08.060 --> 1:49:12.600
+ the Palmer Cooling Technology that we all have,
+
+1:49:12.600 --> 1:49:15.040
+ which are these glabrous surfaces.
+
+1:49:15.040 --> 1:49:16.760
+ And I also just want to thank you
+
+1:49:16.760 --> 1:49:18.760
+ for taking time out of your busy schedule
+
+1:49:18.760 --> 1:49:20.600
+ to share this information.
+
+1:49:20.600 --> 1:49:21.680
+ It was fun.
+
+1:49:21.680 --> 1:49:22.840
+ It was lots of fun.
+
+1:49:22.840 --> 1:49:24.000
+ I certainly learned a lot,
+
+1:49:24.000 --> 1:49:26.560
+ and I know a lot of people are going to learn a lot
+
+1:49:26.560 --> 1:49:27.680
+ that's useful to them.
+
+1:49:27.680 --> 1:49:28.680
+ Good questions.
+
+1:49:28.680 --> 1:49:30.320
+ Well, fabulous answers.
+
+1:49:30.320 --> 1:49:31.160
+ Thank you.
+
+1:49:31.160 --> 1:49:31.980
+ Thank you.
+
+1:49:31.980 --> 1:49:33.220
+ Thank you for joining for my discussion
+
+1:49:33.220 --> 1:49:35.020
+ with Dr. Craig Heller.
+
+1:49:35.020 --> 1:49:37.120
+ If you're enjoying this podcast and learning from it,
+
+1:49:37.120 --> 1:49:39.040
+ please subscribe to our YouTube channel.
+
+1:49:39.040 --> 1:49:41.040
+ As well, you can give us feedback
+
+1:49:41.040 --> 1:49:42.740
+ in the comment section on YouTube
+
+1:49:42.740 --> 1:49:44.780
+ as to topics you would like us to cover,
+
+1:49:44.780 --> 1:49:46.660
+ future guests, and so on.
+
+1:49:46.660 --> 1:49:48.840
+ Also, please subscribe to the podcast
+
+1:49:48.840 --> 1:49:50.600
+ on Apple and on Spotify.
+
+1:49:50.600 --> 1:49:52.480
+ And on Apple, you have the opportunity
+
+1:49:52.480 --> 1:49:54.400
+ to leave us up to a five-star review,
+
+1:49:54.400 --> 1:49:58.600
+ and you can leave us a comment or feedback there as well.
+
+1:49:58.600 --> 1:50:00.120
+ Please also check out our sponsors
+
+1:50:00.120 --> 1:50:01.920
+ that we mentioned at the beginning of the podcast.
+
+1:50:01.920 --> 1:50:04.840
+ That's a terrific way to support our podcast.
+
+1:50:04.840 --> 1:50:07.080
+ In addition, if you're interested in supporting research
+
+1:50:07.080 --> 1:50:08.800
+ in the Huberman Lab at Stanford,
+
+1:50:08.800 --> 1:50:13.300
+ you can go to hubermanlab.stanford.edu slash giving,
+
+1:50:13.300 --> 1:50:15.560
+ and there you can make a tax-deductible donation
+
+1:50:15.560 --> 1:50:17.480
+ to support research in my laboratory
+
+1:50:17.480 --> 1:50:20.840
+ on stress, human performance, sleep, and trauma,
+
+1:50:20.840 --> 1:50:22.280
+ and topics of that sort.
+
+1:50:22.280 --> 1:50:24.760
+ If you're not already following us at Huberman Lab
+
+1:50:24.760 --> 1:50:27.600
+ on Instagram or Twitter, you're welcome to do so.
+
+1:50:27.600 --> 1:50:31.120
+ On Instagram, I do short neuroscience tutorials
+
+1:50:31.120 --> 1:50:33.040
+ that are separate from the tutorials
+
+1:50:33.040 --> 1:50:35.480
+ that I tend to do on the podcast.
+
+1:50:35.480 --> 1:50:38.040
+ Often on this podcast, we discuss supplements.
+
+1:50:38.040 --> 1:50:39.640
+ One of the really important things
+
+1:50:39.640 --> 1:50:41.120
+ if you're going to take supplements
+
+1:50:41.120 --> 1:50:43.900
+ is that the supplements be of the highest quality ingredients
+
+1:50:43.900 --> 1:50:46.320
+ and that the amount of those ingredients
+
+1:50:46.320 --> 1:50:48.580
+ that's listed on the label actually matches
+
+1:50:48.580 --> 1:50:50.900
+ what is in those supplements.
+
+1:50:50.900 --> 1:50:53.280
+ We've partnered with Thorne, T-H-O-R-N-E,
+
+1:50:53.280 --> 1:50:55.760
+ because Thorne has the highest levels of stringency
+
+1:50:55.760 --> 1:50:58.920
+ in terms of quality and how much of each supplement
+
+1:50:58.920 --> 1:51:00.880
+ they put in their products.
+
+1:51:00.880 --> 1:51:02.600
+ If you'd like to see the supplements that I take,
+
+1:51:02.600 --> 1:51:05.280
+ you can go to Thorne, T-H-O-R-N-E.com
+
+1:51:05.280 --> 1:51:07.840
+ slash the letter U slash Huberman,
+
+1:51:07.840 --> 1:51:09.600
+ and there you can see what I take.
+
+1:51:09.600 --> 1:51:11.920
+ You can get 20% off any of those supplements
+
+1:51:11.920 --> 1:51:14.080
+ if you enter the Thorne site through that portal.
+
+1:51:14.080 --> 1:51:16.340
+ And even if you navigate to other products
+
+1:51:16.340 --> 1:51:18.720
+ and other product pages within the Thorne site,
+
+1:51:18.720 --> 1:51:20.780
+ you can still get that 20% off.
+
+1:51:20.780 --> 1:51:23.400
+ So it's Thorne, T-H-O-R-N-E.com
+
+1:51:23.400 --> 1:51:26.020
+ slash the letter U slash Huberman.
+
+1:51:26.020 --> 1:51:28.160
+ And last, but certainly not least,
+
+1:51:28.160 --> 1:51:30.080
+ thank you for your interest in science.
+
+1:51:30.080 --> 1:51:58.080
+ I'll see you next time.
+

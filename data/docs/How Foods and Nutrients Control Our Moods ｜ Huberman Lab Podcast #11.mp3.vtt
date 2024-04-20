@@ -1,0 +1,7736 @@
+WEBVTT
+
+00:00.000 --> 00:02.280
+ Welcome to the Huberman Lab Podcast,
+
+00:02.280 --> 00:04.920
+ where we discuss science and science-based tools
+
+00:04.920 --> 00:05.920
+ for everyday life.
+
+00:09.360 --> 00:10.880
+ My name is Andrew Huberman,
+
+00:10.880 --> 00:13.920
+ and I'm a professor of neurobiology and ophthalmology
+
+00:13.920 --> 00:15.920
+ at Stanford School of Medicine.
+
+00:15.920 --> 00:17.680
+ This podcast is separate from my teaching
+
+00:17.680 --> 00:19.480
+ and research roles at Stanford.
+
+00:19.480 --> 00:21.540
+ It is, however, part of my desire and effort
+
+00:21.540 --> 00:23.560
+ to bring zero cost to consumer information
+
+00:23.560 --> 00:25.640
+ about science and science-related tools
+
+00:25.640 --> 00:27.400
+ to the general public.
+
+00:27.400 --> 00:28.560
+ In keeping with that theme,
+
+00:28.560 --> 00:31.480
+ I'd like to thank the sponsors of today's podcast.
+
+00:31.480 --> 00:34.120
+ Our first sponsor today is Theragun.
+
+00:34.120 --> 00:36.800
+ Theragun is a handheld percussive therapy device
+
+00:36.800 --> 00:39.400
+ that releases deep muscle tension.
+
+00:39.400 --> 00:42.040
+ I was first introduced to Theragun in 2017
+
+00:42.040 --> 00:44.160
+ while on a laboratory expedition.
+
+00:44.160 --> 00:45.800
+ We were in the middle of the Pacific Ocean
+
+00:45.800 --> 00:48.000
+ filming great white sharks for my laboratory studies
+
+00:48.000 --> 00:50.720
+ on fear using virtual reality.
+
+00:50.720 --> 00:52.880
+ We were working very hard around the clock,
+
+00:52.880 --> 00:54.360
+ and I and other people on the trip
+
+00:54.360 --> 00:55.900
+ were picking up a lot of aches and pains,
+
+00:55.900 --> 00:57.440
+ and just kind of chronic soreness.
+
+00:57.440 --> 00:59.680
+ A couple of people had injuries that were flaring up
+
+00:59.680 --> 01:02.500
+ because of all the hard work and lack of sleep.
+
+01:02.500 --> 01:03.960
+ Someone had a Theragun,
+
+01:03.960 --> 01:05.720
+ and pretty soon it was getting passed around.
+
+01:05.720 --> 01:07.740
+ It became the most coveted device on board.
+
+01:07.740 --> 01:08.800
+ Everyone was using it to work
+
+01:08.800 --> 01:10.440
+ on these different sites of soreness.
+
+01:10.440 --> 01:11.960
+ And I really fell in love with the thing,
+
+01:11.960 --> 01:13.560
+ so much so that when I got back,
+
+01:13.560 --> 01:15.040
+ I immediately purchased one,
+
+01:15.040 --> 01:17.720
+ and I've used it almost daily ever since.
+
+01:17.720 --> 01:20.240
+ I use it on muscles that are sore.
+
+01:20.240 --> 01:22.440
+ I use it on areas that I'm really working on
+
+01:22.440 --> 01:26.120
+ to release tension and improve tissue quality, and so forth.
+
+01:26.120 --> 01:28.180
+ The great thing about Theragun is it's really quiet,
+
+01:28.180 --> 01:30.360
+ so you can use it while you're in a conversation
+
+01:30.360 --> 01:31.600
+ or while you're watching a movie,
+
+01:31.600 --> 01:34.460
+ and it doesn't disrupt those activities at all.
+
+01:34.460 --> 01:36.400
+ If you want to try Theragun,
+
+01:36.400 --> 01:41.300
+ you can try Theragun by going to theragun.com slash Huberman
+
+01:41.300 --> 01:42.720
+ to get your Gen 4 Theragun.
+
+01:42.720 --> 01:45.440
+ They start at $199,
+
+01:45.440 --> 01:46.420
+ but if you think about it,
+
+01:46.420 --> 01:49.400
+ a massage, which is an hour long or 90 minutes long,
+
+01:49.400 --> 01:51.640
+ is typically in that range of cost.
+
+01:51.640 --> 01:53.440
+ And this is something you can use every day
+
+01:53.440 --> 01:54.480
+ whenever you want,
+
+01:54.480 --> 01:56.160
+ and even while enjoying other activities.
+
+01:56.160 --> 01:59.040
+ So that's theragun.com slash Huberman.
+
+01:59.040 --> 02:02.400
+ The second sponsor of today's podcast is Inside Tracker.
+
+02:02.400 --> 02:04.920
+ Inside Tracker is a personalized nutrition platform
+
+02:04.920 --> 02:07.740
+ that analyzes data from your blood and DNA
+
+02:07.740 --> 02:09.360
+ to help you better understand your body
+
+02:09.360 --> 02:11.660
+ and help you reach your health goals.
+
+02:11.660 --> 02:13.080
+ The great thing about Inside Tracker
+
+02:13.080 --> 02:15.940
+ is that it gives you data that you can make sense of.
+
+02:15.940 --> 02:19.200
+ I've long been a believer in getting blood samples taken,
+
+02:19.200 --> 02:20.040
+ and more recently,
+
+02:20.040 --> 02:22.700
+ I've become a believer in getting DNA samples taken.
+
+02:22.700 --> 02:24.760
+ In order to understand what's going on at the level
+
+02:24.760 --> 02:26.640
+ of hormones, metabolic factors,
+
+02:26.640 --> 02:28.980
+ and other things that profoundly influence
+
+02:28.980 --> 02:31.060
+ our immediate and long-term health.
+
+02:31.060 --> 02:33.440
+ The problem always has been getting those samples taken
+
+02:33.440 --> 02:35.640
+ and making sense of those samples.
+
+02:35.640 --> 02:38.160
+ Inside Tracker makes all of that really easy.
+
+02:38.160 --> 02:40.580
+ They'll even come to your home to take the samples.
+
+02:40.580 --> 02:42.200
+ Then you get the information back,
+
+02:42.200 --> 02:44.880
+ and while typically, after getting information back,
+
+02:44.880 --> 02:46.240
+ there's these long list of numbers
+
+02:46.240 --> 02:47.680
+ and nobody knows what to do with them,
+
+02:47.680 --> 02:49.200
+ Inside Tracker makes it really easy
+
+02:49.200 --> 02:51.400
+ to interpret what those numbers mean,
+
+02:51.400 --> 02:55.080
+ and it points to things in terms of lifestyle,
+
+02:55.080 --> 02:57.680
+ exercise, nutrition, and so forth
+
+02:57.680 --> 02:59.600
+ that can help you adjust some of the numbers
+
+02:59.600 --> 03:01.680
+ that you might need to bring down or up
+
+03:01.680 --> 03:04.340
+ to put into the appropriate normal range.
+
+03:04.340 --> 03:06.760
+ So I find this whole process to be immensely valuable
+
+03:06.760 --> 03:08.400
+ for guiding my health choices,
+
+03:08.400 --> 03:10.100
+ and also just for giving me peace of mind
+
+03:10.100 --> 03:12.880
+ about how my body and the rest of my health
+
+03:12.880 --> 03:14.240
+ are doing internally,
+
+03:14.240 --> 03:17.280
+ something you just can't know without a blood and DNA test.
+
+03:17.280 --> 03:19.240
+ If you want to try Inside Tracker,
+
+03:19.240 --> 03:22.400
+ you can go to insidetracker.com slash Huberman,
+
+03:22.400 --> 03:25.880
+ and you'll get 25% off any of their programs.
+
+03:25.880 --> 03:27.540
+ You want to put Huberman at checkout,
+
+03:27.540 --> 03:30.780
+ so that's insidetracker.com slash Huberman
+
+03:30.780 --> 03:33.640
+ to get 25% off any of Inside Tracker's plans
+
+03:33.640 --> 03:35.640
+ and put Huberman at checkout.
+
+03:35.640 --> 03:38.720
+ The third sponsor of today's podcast is Athletic Greens.
+
+03:38.720 --> 03:40.300
+ Athletic Greens is an all-in-one
+
+03:40.300 --> 03:42.640
+ vitamin mineral probiotic drink.
+
+03:42.640 --> 03:45.480
+ I started using Athletic Greens in 2012,
+
+03:45.480 --> 03:48.280
+ so I'm delighted that they're a sponsor of the podcast.
+
+03:48.280 --> 03:50.120
+ The reason I started using Athletic Greens,
+
+03:50.120 --> 03:53.100
+ and the reason I still take it once or twice per day,
+
+03:53.100 --> 03:55.720
+ is that I find it very hard to know
+
+03:55.720 --> 03:58.200
+ what vitamins and minerals I need to take.
+
+03:58.200 --> 03:59.840
+ And by drinking Athletic Greens,
+
+03:59.840 --> 04:03.440
+ I get it all in one, easy to consume, great tasting formula.
+
+04:03.440 --> 04:04.680
+ I really do like the way it tastes.
+
+04:04.680 --> 04:08.200
+ I mix mine with water and a little bit of lemon or lime juice
+
+04:08.200 --> 04:10.260
+ and to me, it's delicious.
+
+04:10.260 --> 04:11.920
+ The other thing about Athletic Greens
+
+04:11.920 --> 04:14.320
+ that I really like are the probiotics.
+
+04:14.320 --> 04:17.540
+ There's so much data out there now telling us,
+
+04:17.540 --> 04:20.460
+ and I certainly believe based on the data that I've seen,
+
+04:20.460 --> 04:22.220
+ that probiotics are really important
+
+04:22.220 --> 04:24.960
+ for support of the gut microbiome,
+
+04:24.960 --> 04:27.200
+ the gut brain axis, the immune system,
+
+04:27.200 --> 04:29.520
+ and many other aspects of our biology.
+
+04:29.520 --> 04:32.160
+ So with Athletic Greens, I get the vitamins,
+
+04:32.160 --> 04:34.680
+ the minerals, and the probiotics that I need.
+
+04:34.680 --> 04:36.280
+ If you want to try Athletic Greens,
+
+04:36.280 --> 04:39.720
+ you can go to athleticgreens.com slash Huberman.
+
+04:39.720 --> 04:41.200
+ And if you do that,
+
+04:41.200 --> 04:45.140
+ they'll also give you a year's supply of vitamin D3K2.
+
+04:45.140 --> 04:48.400
+ Vitamin D3, we also know is really important
+
+04:48.400 --> 04:51.360
+ for things like immune system and metabolic support.
+
+04:51.360 --> 04:54.220
+ So that's athleticgreens.com slash Huberman
+
+04:54.220 --> 04:58.140
+ to get Athletic Greens, the year supply of vitamin D3K2,
+
+04:58.140 --> 05:00.560
+ and they'll give you five free travel packs.
+
+05:00.560 --> 05:03.320
+ Today, we're talking all about emotions.
+
+05:03.320 --> 05:07.000
+ Emotions are central to our entire experience of life.
+
+05:07.000 --> 05:11.040
+ Whether or not we're happy or sad or depressed or angry
+
+05:11.040 --> 05:13.240
+ is our life experience.
+
+05:13.240 --> 05:15.800
+ And yet I think with all the importance
+
+05:15.800 --> 05:17.140
+ that we've placed on emotions,
+
+05:17.140 --> 05:19.960
+ very few people actually understand how emotions arise
+
+05:19.960 --> 05:21.180
+ in our brain and body.
+
+05:21.180 --> 05:24.640
+ And I mentioned brain and body because as you'll see today,
+
+05:24.640 --> 05:28.280
+ emotions really capture the brain-body relationship.
+
+05:28.280 --> 05:30.300
+ We cannot say that emotions arise
+
+05:30.300 --> 05:31.720
+ just from what happens in our head.
+
+05:31.720 --> 05:34.840
+ It also involves events, biological events,
+
+05:34.840 --> 05:37.100
+ chemical events within our body.
+
+05:38.360 --> 05:40.440
+ The other thing about emotions is that
+
+05:40.440 --> 05:43.060
+ there's no real agreement as to what's a good emotion
+
+05:43.060 --> 05:44.880
+ or a bad emotion.
+
+05:44.880 --> 05:46.680
+ Today, we're going to talk about the biology
+
+05:46.680 --> 05:49.880
+ of the chemicals and pathways that give rise to emotions.
+
+05:49.880 --> 05:54.000
+ And I'm going to equip you with several, if not many tools
+
+05:54.000 --> 05:56.120
+ that will allow you to regulate and change
+
+05:56.120 --> 05:58.220
+ and steer your emotions should you want,
+
+05:58.220 --> 06:00.440
+ but not using the typical advice.
+
+06:00.440 --> 06:01.740
+ Everyone's probably heard of this thing.
+
+06:01.740 --> 06:04.480
+ Oh, if you're feeling depressed, just smile.
+
+06:04.480 --> 06:07.180
+ It's impossible to be depressed while smiling.
+
+06:07.180 --> 06:08.280
+ Look, if that were true,
+
+06:08.280 --> 06:09.820
+ we wouldn't have any depressed people
+
+06:09.820 --> 06:12.440
+ because depressed people don't want to be depressed.
+
+06:12.440 --> 06:15.280
+ And it is not the case that simply smiling
+
+06:15.280 --> 06:17.520
+ will reverse depression or sadness.
+
+06:17.520 --> 06:19.000
+ And it's simply not the case
+
+06:19.000 --> 06:22.640
+ that smiling can inhibit sadness.
+
+06:22.640 --> 06:24.380
+ It just doesn't work that way.
+
+06:24.380 --> 06:26.540
+ However, it is the case that certain things
+
+06:26.540 --> 06:27.800
+ that are happening in our body
+
+06:27.800 --> 06:30.020
+ influence how our brain functions
+
+06:30.020 --> 06:32.360
+ and the chemicals that are released.
+
+06:32.360 --> 06:34.440
+ And today we're going to talk a lot
+
+06:34.440 --> 06:36.360
+ about how the brain and body interact
+
+06:36.360 --> 06:38.480
+ to create these things called emotions
+
+06:38.480 --> 06:41.880
+ in the context of food and nutrition.
+
+06:41.880 --> 06:43.200
+ And the reason we're doing that
+
+06:43.200 --> 06:45.600
+ is not because I'm beating the drum
+
+06:45.600 --> 06:47.640
+ about particular diet regimens or anything.
+
+06:47.640 --> 06:48.960
+ In fact, I'm not going to do any of that.
+
+06:48.960 --> 06:51.080
+ What I'm going to do is I'm going to review
+
+06:51.080 --> 06:53.040
+ some of the most important scientific data
+
+06:53.040 --> 06:56.280
+ that point to how ingesting certain nutrients,
+
+06:56.280 --> 06:59.520
+ both macronutrients like proteins, fats, and carbohydrates,
+
+06:59.520 --> 07:02.800
+ as well as micronutrients can impact the chemicals
+
+07:02.800 --> 07:05.240
+ in our brain that give rise to the feelings
+
+07:05.240 --> 07:08.520
+ of being happy or sad or sleepy
+
+07:08.520 --> 07:10.880
+ or alert when you want to be sleepy
+
+07:10.880 --> 07:12.720
+ or sleepy when you want to be alert.
+
+07:12.720 --> 07:15.480
+ So this is sure to be a broad discussion
+
+07:15.480 --> 07:17.120
+ and yet we're going to get very specific
+
+07:17.120 --> 07:20.280
+ about what emotions are, how they arise in the body,
+
+07:20.280 --> 07:21.600
+ tools that one can use
+
+07:21.600 --> 07:24.620
+ in order to better control their emotions,
+
+07:24.620 --> 07:27.340
+ tools that people can use to, believe it or not,
+
+07:27.340 --> 07:29.980
+ feel happier or feel calmer.
+
+07:29.980 --> 07:32.880
+ And that's because in the last 20 years or so,
+
+07:32.880 --> 07:35.560
+ there's been an explosion of scientific studies
+
+07:35.560 --> 07:38.040
+ exploring how the brain and body interact
+
+07:38.040 --> 07:40.520
+ to support certain neurochemicals
+
+07:40.520 --> 07:43.880
+ that give us these feelings of being alert and happy
+
+07:43.880 --> 07:47.580
+ or depressed or certain that our life is going to be terrible
+
+07:47.580 --> 07:49.760
+ or certain that our life is going to be great.
+
+07:49.760 --> 07:51.620
+ So as mysterious as all that might sound
+
+07:51.620 --> 07:53.040
+ and confusing as all that might sound,
+
+07:53.040 --> 07:54.820
+ we're going to make it very clear today.
+
+07:54.820 --> 07:56.820
+ And you're going to come away from this conversation
+
+07:56.820 --> 08:01.500
+ with a lot of tools that you can act on immediately.
+
+08:01.500 --> 08:03.880
+ And those tools are grounded in scientific data.
+
+08:03.880 --> 08:06.000
+ We are going to provide links to several of the studies.
+
+08:06.000 --> 08:08.400
+ And I'm going to mention several of those studies
+
+08:08.400 --> 08:10.020
+ as we go along.
+
+08:10.020 --> 08:12.880
+ But overall, the goal today is for you to understand
+
+08:12.880 --> 08:14.960
+ how moods and emotions arise
+
+08:14.960 --> 08:16.880
+ and the different pathways in your brain and body
+
+08:16.880 --> 08:18.160
+ that allow them to happen
+
+08:18.160 --> 08:21.520
+ and how you can use those pathways to change those emotions
+
+08:21.520 --> 08:26.480
+ and the tools that you can rely on in very specific ways
+
+08:26.480 --> 08:28.440
+ to shift from being, say,
+
+08:28.440 --> 08:30.240
+ slightly depressed to feeling happier.
+
+08:30.240 --> 08:32.320
+ There actually are ways to do that,
+
+08:32.320 --> 08:35.480
+ or from feeling too alert and anxious to feeling calmer.
+
+08:35.480 --> 08:36.700
+ And these are tools that are distinct
+
+08:36.700 --> 08:39.660
+ from the tools I've talked about in previous episodes.
+
+08:39.660 --> 08:43.260
+ The discussion around emotions has a long and rich history
+
+08:43.260 --> 08:46.580
+ going back to Darwin and even long before Darwin.
+
+08:46.580 --> 08:49.240
+ This is a conversation that philosophers and scientists
+
+08:49.240 --> 08:52.740
+ have been having for hundreds, if not thousands of years.
+
+08:54.220 --> 08:55.960
+ The idea that Darwin put forth
+
+08:55.960 --> 08:59.080
+ and that was really attractive for about the last 100 years
+
+08:59.080 --> 09:01.640
+ was that emotions are universal
+
+09:01.640 --> 09:03.160
+ and that some of the facial expressions
+
+09:03.160 --> 09:04.840
+ around emotion are universal.
+
+09:04.840 --> 09:08.520
+ And other people have capitalized on that idea.
+
+09:08.520 --> 09:10.160
+ And to some extent, it's true.
+
+09:10.160 --> 09:14.920
+ I mean, I think that the two most robust examples of that
+
+09:14.920 --> 09:19.400
+ would be when we see something or we smell something
+
+09:19.400 --> 09:21.240
+ or we taste something that we like,
+
+09:21.240 --> 09:24.620
+ there does tend to be a postural leaning in.
+
+09:24.620 --> 09:27.080
+ We tend to inhale air at that time.
+
+09:27.080 --> 09:28.680
+ We tend to bring in more
+
+09:28.680 --> 09:30.420
+ of whatever chemical substance is there.
+
+09:30.420 --> 09:33.760
+ So we tend to do these mmm and kind of lean in closer
+
+09:33.760 --> 09:35.760
+ to things that are attractive to us.
+
+09:35.760 --> 09:38.280
+ And when we see and experience things
+
+09:38.280 --> 09:41.860
+ that we don't like, sometimes it's a mild aversion.
+
+09:41.860 --> 09:43.600
+ We just kind of lean back or look away.
+
+09:43.600 --> 09:46.720
+ Other times it's an intensive version of disgust
+
+09:46.720 --> 09:48.340
+ and we tend to cringe our face.
+
+09:48.340 --> 09:50.720
+ We tend to avoid inhaling any of the chemicals.
+
+09:50.720 --> 09:54.860
+ This probably has roots in ancient biological mechanisms
+
+09:54.860 --> 09:57.540
+ that are to prevent us from ingesting things
+
+09:57.540 --> 09:59.560
+ that are bad for us, chemical compounds
+
+09:59.560 --> 10:01.440
+ and tastes that might be poisonous.
+
+10:01.440 --> 10:05.740
+ So much of the foundation of any discussion about emotion
+
+10:05.740 --> 10:07.920
+ has to center around this kind of push-pull
+
+10:07.920 --> 10:11.680
+ of attraction to things or aversion from things.
+
+10:11.680 --> 10:14.560
+ Now that's a very basic way of thinking about emotions.
+
+10:14.560 --> 10:15.720
+ But if you think about it,
+
+10:15.720 --> 10:17.920
+ it works for a lot of different circumstances.
+
+10:17.920 --> 10:19.080
+ And in the brain,
+
+10:19.080 --> 10:21.280
+ everywhere from the deep circuits of the brain
+
+10:21.280 --> 10:23.440
+ to the more kind of what we call higher order
+
+10:23.440 --> 10:25.040
+ evolved centers of the brain,
+
+10:25.040 --> 10:27.240
+ we have this push-pull thing.
+
+10:27.240 --> 10:29.840
+ We're either, in a previous episode I talked about GO,
+
+10:29.840 --> 10:33.440
+ the circuits that allow you to emphasize action
+
+10:33.440 --> 10:35.500
+ and then no-go circuits,
+
+10:35.500 --> 10:36.880
+ the circuits in the basal ganglia
+
+10:36.880 --> 10:40.300
+ that allow you to de-emphasize action and prevent action.
+
+10:40.300 --> 10:42.080
+ We talked about how that's a push-pull.
+
+10:42.080 --> 10:44.880
+ So aversion and attraction is a push-pull too.
+
+10:44.880 --> 10:47.400
+ Delight or happiness or excitement
+
+10:47.400 --> 10:50.520
+ are attractions to certain things and ideas,
+
+10:50.520 --> 10:53.520
+ songs, people, places, foods.
+
+10:53.520 --> 10:55.440
+ Aversion is a leaning out.
+
+10:55.440 --> 10:58.180
+ It's a disgust, it's an avoidance.
+
+10:58.180 --> 11:01.520
+ And so we can break down the discussion about emotions
+
+11:01.520 --> 11:04.520
+ into these simpler versions of themselves.
+
+11:04.520 --> 11:08.520
+ But at the core of that, of attraction or aversion
+
+11:08.520 --> 11:11.900
+ is an important theme that you might realize already
+
+11:11.900 --> 11:13.760
+ but most people tend to overlook,
+
+11:13.760 --> 11:16.160
+ which is that there's an action there.
+
+11:16.160 --> 11:17.700
+ You're either moving forward
+
+11:17.700 --> 11:19.840
+ or you're moving away from something.
+
+11:19.840 --> 11:21.640
+ And anytime you're talking about action
+
+11:21.640 --> 11:22.880
+ in the nervous system,
+
+11:22.880 --> 11:24.820
+ you're talking about motor behaviors.
+
+11:24.820 --> 11:27.680
+ You're talking about literally the contraction of muscles
+
+11:27.680 --> 11:29.600
+ to move you toward or away from things.
+
+11:29.600 --> 11:34.200
+ And anytime you're talking about nerve to muscle and action,
+
+11:34.200 --> 11:36.760
+ you're talking about the brain and the body
+
+11:36.760 --> 11:39.600
+ because the brain can't move itself.
+
+11:39.600 --> 11:43.560
+ The brain has a body so that the organism can move.
+
+11:43.560 --> 11:47.280
+ And the body has a brain so that the organism, you,
+
+11:47.280 --> 11:49.100
+ can move toward or away from things
+
+11:49.100 --> 11:51.380
+ that you deem to be good or bad for you.
+
+11:51.380 --> 11:53.320
+ Now, some of these things that we're attracted to
+
+11:53.320 --> 11:54.840
+ and some of them that we avoid
+
+11:54.840 --> 11:57.560
+ are what we call innate or hardwired.
+
+11:57.560 --> 12:00.900
+ When we taste bitter compounds,
+
+12:00.900 --> 12:01.760
+ I'm not saying about bitter,
+
+12:01.760 --> 12:04.260
+ like you like a little bit of bitters in your drink
+
+12:04.260 --> 12:06.380
+ or something like that, but really bitter compounds,
+
+12:06.380 --> 12:07.420
+ we tend to avoid those
+
+12:07.420 --> 12:09.480
+ because they're associated with poisons.
+
+12:09.480 --> 12:12.960
+ When we taste things that are sweet or that are savory,
+
+12:12.960 --> 12:15.700
+ we tend to pursue more of those.
+
+12:15.700 --> 12:18.120
+ We tend to lean toward those, so to speak.
+
+12:18.120 --> 12:20.100
+ And we tend to not avoid them.
+
+12:20.100 --> 12:22.720
+ So there are circuits in the brain for aversion
+
+12:22.720 --> 12:24.600
+ and for attraction toward things.
+
+12:24.600 --> 12:27.200
+ And the body is governing a lot of that.
+
+12:27.200 --> 12:29.160
+ And so immediately in this conversation,
+
+12:29.160 --> 12:31.320
+ I want to raise an important point,
+
+12:31.320 --> 12:33.600
+ which is about a nerve pathway
+
+12:33.600 --> 12:35.720
+ that many, many people have heard of
+
+12:35.720 --> 12:37.200
+ that gets discussed all the time.
+
+12:37.200 --> 12:40.320
+ And that is one of the most kind of oversold
+
+12:40.320 --> 12:42.680
+ for the wrong reasons and undersold,
+
+12:42.680 --> 12:46.840
+ unfortunately for its real power, which is the vagus nerve.
+
+12:46.840 --> 12:50.540
+ So the vagus nerve is one, not the only,
+
+12:50.540 --> 12:53.440
+ but one way in which our brain and body are connected
+
+12:53.440 --> 12:56.880
+ and regulates our emotional states.
+
+12:56.880 --> 12:59.520
+ Now, many of you have probably heard about polyvagal theory.
+
+12:59.520 --> 13:01.000
+ I'm going to talk about this today.
+
+13:01.000 --> 13:05.280
+ Polyvagal theory was popularized by Stephen Porges.
+
+13:05.280 --> 13:07.600
+ And it's an interesting theory.
+
+13:07.600 --> 13:10.480
+ Certain aspects of it, frankly, hold up to the science.
+
+13:10.480 --> 13:11.800
+ Some of it doesn't.
+
+13:11.800 --> 13:14.760
+ And I'm going to discuss all of that today.
+
+13:14.760 --> 13:18.040
+ A lot of the vagus and the excitement about the vagus,
+
+13:18.040 --> 13:23.040
+ V-A-G-U-S, is because it somehow got into the mind
+
+13:23.220 --> 13:27.140
+ of the public that the vagus is involved in calming us down.
+
+13:27.140 --> 13:28.560
+ So what is the vagus nerve?
+
+13:28.560 --> 13:30.920
+ Okay, we're going to make this really simple.
+
+13:30.920 --> 13:33.240
+ In particular, for those that are just listening,
+
+13:33.240 --> 13:34.280
+ you can just imagine this.
+
+13:34.280 --> 13:35.560
+ For those of you that are watching,
+
+13:35.560 --> 13:36.800
+ I'll point to the various areas.
+
+13:36.800 --> 13:40.840
+ But basically, the vagus is the 10th cranial nerve,
+
+13:40.840 --> 13:43.040
+ which basically means that the neurons,
+
+13:43.040 --> 13:46.660
+ the control center of each of those neurons in the vagus
+
+13:46.660 --> 13:50.080
+ lives just kind of near the neck, right?
+
+13:50.080 --> 13:52.560
+ And a branch of the vagus goes into the brain.
+
+13:52.560 --> 13:54.180
+ They send a little wire into the brain.
+
+13:54.180 --> 13:56.240
+ The other branch goes into the periphery,
+
+13:56.240 --> 13:57.920
+ but not just the gut.
+
+13:57.920 --> 14:00.700
+ It goes into the stomach, the intestines, the heart,
+
+14:00.700 --> 14:02.640
+ the lungs, and the immune system.
+
+14:02.640 --> 14:04.700
+ So this vagus nerve is incredible
+
+14:04.700 --> 14:07.080
+ because it's taking information from the body
+
+14:07.080 --> 14:08.320
+ and it has two directions.
+
+14:08.320 --> 14:10.200
+ The first is what we call sensory.
+
+14:10.200 --> 14:12.400
+ So it's sensing things that are happening
+
+14:12.400 --> 14:13.880
+ in the gut, in the lungs.
+
+14:13.880 --> 14:15.620
+ Everything, for example, in the lungs,
+
+14:15.620 --> 14:17.640
+ when our lungs are distended,
+
+14:17.640 --> 14:20.160
+ the vagus nerve senses that
+
+14:20.160 --> 14:22.600
+ and sends that information up into the brain.
+
+14:22.600 --> 14:24.540
+ It also can sense things in the gut,
+
+14:24.540 --> 14:27.900
+ like how distended or empty your stomach happens to be.
+
+14:27.900 --> 14:30.280
+ It can sense heart rate.
+
+14:30.280 --> 14:31.920
+ It can sense your immune system,
+
+14:31.920 --> 14:33.340
+ whether or not you have bacteria
+
+14:33.340 --> 14:35.580
+ or things invading you in your body.
+
+14:35.580 --> 14:37.520
+ So it sends that information up to the brain.
+
+14:37.520 --> 14:38.480
+ So it's a two-way street
+
+14:38.480 --> 14:40.740
+ and sensory information is going up to the brain.
+
+14:40.740 --> 14:42.480
+ That's all vagus.
+
+14:42.480 --> 14:43.400
+ So it's like a super highway,
+
+14:43.400 --> 14:44.840
+ sensory information going one way.
+
+14:44.840 --> 14:48.120
+ And then the other direction is motor control.
+
+14:48.120 --> 14:50.160
+ So the vagus is not just for sensing things,
+
+14:50.160 --> 14:51.520
+ it's actually for controlling things.
+
+14:51.520 --> 14:54.000
+ It's got a sensory pathway and a motor pathway.
+
+14:54.860 --> 14:57.120
+ So that's the first thing I think everyone should know
+
+14:57.120 --> 14:58.000
+ about the vagus.
+
+14:58.000 --> 15:00.560
+ In fact, it's so important
+
+15:00.560 --> 15:03.160
+ that I feel like this is as important as people knowing
+
+15:03.160 --> 15:05.800
+ that walking involves flexors and extensors.
+
+15:05.800 --> 15:07.380
+ And if you don't think that's important,
+
+15:07.380 --> 15:09.280
+ it's as important as walking frankly,
+
+15:09.280 --> 15:11.840
+ because the vagus is the way in which you can govern
+
+15:11.840 --> 15:13.620
+ the brain-body connection
+
+15:13.620 --> 15:16.600
+ and in which you can steer various aspects
+
+15:16.600 --> 15:17.760
+ of your mood and wellbeing.
+
+15:17.760 --> 15:20.200
+ But most people just don't understand how to use it.
+
+15:20.200 --> 15:21.920
+ So first you got to understand what it is.
+
+15:21.920 --> 15:23.260
+ So you've got sensory information
+
+15:23.260 --> 15:25.240
+ coming from all these different organs of the body
+
+15:25.240 --> 15:26.080
+ up to the brain.
+
+15:26.080 --> 15:28.080
+ You got motor information going from the brain
+
+15:28.080 --> 15:29.120
+ back to the body.
+
+15:29.120 --> 15:31.520
+ And so you've got this super highway within you.
+
+15:31.520 --> 15:34.080
+ Now what actually regulates the vagus?
+
+15:34.080 --> 15:36.080
+ Oftentimes you'll hear things like,
+
+15:36.080 --> 15:39.200
+ oh, this particular behavior,
+
+15:39.200 --> 15:41.880
+ rubbing your face at a particular location
+
+15:41.880 --> 15:44.120
+ or breathing in a particular way,
+
+15:44.120 --> 15:48.560
+ or a warm bath or something stimulates the vagus.
+
+15:48.560 --> 15:51.260
+ Well, right now I want everyone to know that quote unquote,
+
+15:51.260 --> 15:53.640
+ stimulating the vagus broadly speaking
+
+15:53.640 --> 15:55.920
+ is a terrible way to think about the vagus.
+
+15:55.920 --> 15:57.400
+ Because did you know what?
+
+15:57.400 --> 16:00.260
+ If you have a contaminant inside your body,
+
+16:00.260 --> 16:02.200
+ the vagus senses that
+
+16:02.200 --> 16:04.320
+ and projects that information to your brain
+
+16:04.320 --> 16:06.600
+ and you start to generate a fever.
+
+16:06.600 --> 16:09.980
+ You start to try and kill that contaminant in your body.
+
+16:09.980 --> 16:12.120
+ So I don't know that you want to stimulate the vagus
+
+16:12.120 --> 16:13.460
+ just as like a general theme.
+
+16:13.460 --> 16:14.920
+ Today we're going to get specific
+
+16:14.920 --> 16:18.200
+ about how you can activate particular circuits,
+
+16:18.200 --> 16:21.180
+ certain pathways from certain organs to the brain
+
+16:21.180 --> 16:24.680
+ in order to feel better or relieve certain conditions.
+
+16:24.680 --> 16:28.880
+ But you certainly don't want to just stimulate the vagus.
+
+16:28.880 --> 16:31.340
+ Now, excitement about the vagus in part
+
+16:31.340 --> 16:34.680
+ is because of what quite honestly
+
+16:34.680 --> 16:37.760
+ was a fairly pioneering theory about the vagus,
+
+16:37.760 --> 16:39.320
+ which is this polyvagal theory.
+
+16:39.320 --> 16:42.120
+ So polyvagal, the word poly means many,
+
+16:42.120 --> 16:45.280
+ is cool because it acknowledges
+
+16:45.280 --> 16:48.160
+ that the vagus has a lot of different branches.
+
+16:48.160 --> 16:49.760
+ It's not just one thing.
+
+16:49.760 --> 16:51.120
+ And so I really like that.
+
+16:51.120 --> 16:53.100
+ I like the naming polyvagal.
+
+16:53.100 --> 16:54.980
+ The idea that Portis put forward was that
+
+16:54.980 --> 16:56.840
+ there's a dorsal vagus,
+
+16:56.840 --> 16:59.200
+ which is kind of runs the back of the spinal cord,
+
+16:59.200 --> 17:01.520
+ which is involved in alertness and activation
+
+17:01.520 --> 17:03.560
+ and kind of fight or flight type stuff.
+
+17:03.560 --> 17:06.600
+ And that there's a ventral pathway
+
+17:06.600 --> 17:10.380
+ and that that's involved in more kind of empathic behaviors.
+
+17:10.380 --> 17:14.480
+ That is not quite in agreement with the modern anatomy,
+
+17:14.480 --> 17:16.720
+ but he was doing the best with what he had at the time.
+
+17:16.720 --> 17:18.240
+ So, okay.
+
+17:18.240 --> 17:20.840
+ The problem I have with the polyvagal theory
+
+17:20.840 --> 17:22.680
+ is the way that it's discussed.
+
+17:22.680 --> 17:24.280
+ People will often say, oh, you know,
+
+17:24.280 --> 17:27.640
+ if your dorsal vagus is too active,
+
+17:27.640 --> 17:29.560
+ then you tend to be someone who's a little too keyed up.
+
+17:29.560 --> 17:32.420
+ And people who are kind of in a state of freeze
+
+17:32.420 --> 17:35.160
+ or kind of flaccid and kind of, you know,
+
+17:35.160 --> 17:39.960
+ like just not really active and they're just lethargic.
+
+17:39.960 --> 17:42.000
+ Well, then that pathway is hypoactive.
+
+17:42.000 --> 17:43.240
+ It should be more active.
+
+17:43.240 --> 17:44.600
+ So there are a lot of theories
+
+17:44.600 --> 17:46.680
+ about how psychology maps onto the vagus
+
+17:46.680 --> 17:50.340
+ that as far as I know, don't map to any real physiology.
+
+17:50.340 --> 17:53.760
+ Now, the other problem with this kind of the way
+
+17:53.760 --> 17:55.720
+ that the polyvagal theory is discussed,
+
+17:55.720 --> 17:58.160
+ probably not by the real experts, but by a lot of people
+
+17:58.160 --> 18:02.240
+ is that people start to diagnose different psychological
+
+18:02.240 --> 18:05.760
+ and physical manifestations through the vagus.
+
+18:05.760 --> 18:07.080
+ They would say things like, oh, you know,
+
+18:07.080 --> 18:10.080
+ this person is hyper-flexible at the joints
+
+18:10.080 --> 18:13.020
+ and therefore their dorsal vagus isn't active enough
+
+18:13.020 --> 18:14.120
+ or something like that.
+
+18:14.120 --> 18:17.080
+ And it's really kind of gone way outside the lane lines.
+
+18:17.080 --> 18:19.280
+ So today we're going to clean up a lot of that.
+
+18:19.280 --> 18:20.480
+ Let's make it really simple
+
+18:20.480 --> 18:22.160
+ about how the vagus actually works
+
+18:22.160 --> 18:26.040
+ at least as we understand it today in 2021.
+
+18:26.040 --> 18:29.360
+ First of all, as I mentioned, you have sensory information.
+
+18:29.360 --> 18:31.440
+ The same way that you detect light with your eyes
+
+18:31.440 --> 18:33.460
+ or you hear sounds with your ears,
+
+18:33.460 --> 18:36.760
+ you have sensors in your gut that sense how full
+
+18:36.760 --> 18:38.600
+ or empty your gut is.
+
+18:38.600 --> 18:41.520
+ It can also sense how acidic your gut is.
+
+18:41.520 --> 18:44.620
+ It can sense various things within your gut.
+
+18:44.620 --> 18:45.740
+ Your heart is doing the same.
+
+18:45.740 --> 18:47.800
+ It's informing the brain how fast your heart is beating,
+
+18:47.800 --> 18:50.040
+ how full your lungs are has been communicated,
+
+18:50.040 --> 18:52.060
+ and then the status of your immune system.
+
+18:52.060 --> 18:54.740
+ So the way to think about the vagus
+
+18:54.740 --> 18:56.840
+ is the same way I would think about the eyes.
+
+18:56.840 --> 18:58.720
+ The eyes are looking at colors.
+
+18:58.720 --> 18:59.780
+ They're looking at motion.
+
+18:59.780 --> 19:01.240
+ They're looking at how bright it is.
+
+19:01.240 --> 19:03.980
+ And each one of those things, those features,
+
+19:03.980 --> 19:05.320
+ is telling the brain something different
+
+19:05.320 --> 19:07.680
+ so the brain can decide when to be awake or asleep,
+
+19:07.680 --> 19:10.320
+ whether or not it's looking at somebody attractive
+
+19:10.320 --> 19:11.680
+ or unattractive.
+
+19:11.680 --> 19:14.840
+ The vagus nerve is also analyzing many features
+
+19:14.840 --> 19:17.320
+ within the body and informing the brain
+
+19:17.320 --> 19:20.880
+ of how to feel about that and what to do.
+
+19:20.880 --> 19:24.220
+ So a really good example that I think is an exciting one
+
+19:24.220 --> 19:26.920
+ is as it relates to sugar.
+
+19:26.920 --> 19:30.360
+ So we all know that sweet things generally taste good.
+
+19:30.360 --> 19:33.440
+ I'm not particularly a fan of very sweet things.
+
+19:33.440 --> 19:38.440
+ I'd much rather have cheese or pizza or hamburger or steak.
+
+19:38.440 --> 19:41.320
+ I like savory fatty foods, but I do like sweet foods.
+
+19:41.320 --> 19:45.000
+ And most people find sweet foods to be attractive.
+
+19:45.000 --> 19:45.840
+ They want them.
+
+19:45.840 --> 19:48.480
+ They might, or they might not be able
+
+19:48.480 --> 19:51.520
+ to regulate their behavior around them, but they want them.
+
+19:51.520 --> 19:54.940
+ And what's really interesting is that for hundreds of years,
+
+19:54.940 --> 19:56.640
+ people have thought that that's because of the way
+
+19:56.640 --> 19:59.720
+ that sweet foods taste.
+
+19:59.720 --> 20:00.800
+ So that makes sense, right?
+
+20:00.800 --> 20:03.440
+ You eat something, it tastes sweet, you want more of it.
+
+20:03.440 --> 20:06.460
+ Well, it turns out that it's much more interesting
+
+20:06.460 --> 20:07.300
+ than that.
+
+20:07.300 --> 20:10.960
+ When you eat something sweet, within your stomach,
+
+20:10.960 --> 20:14.800
+ you have cells, neurons, that sense the presence
+
+20:14.800 --> 20:18.200
+ of sugary foods independent of their taste
+
+20:18.200 --> 20:19.720
+ and signal to the brain.
+
+20:19.720 --> 20:23.280
+ So those sensors, those neurons send information
+
+20:23.280 --> 20:25.120
+ up the vagus to your brain,
+
+20:25.120 --> 20:26.720
+ goes through a series of stations,
+
+20:26.720 --> 20:28.540
+ and then you release dopamine,
+
+20:28.540 --> 20:32.840
+ this molecule that makes you want more of whatever it is
+
+20:32.840 --> 20:34.380
+ that you just ingested.
+
+20:34.380 --> 20:37.440
+ In fact, this pathway is so powerful
+
+20:37.440 --> 20:40.640
+ that they've done experiments where they completely numb
+
+20:40.640 --> 20:43.640
+ all the taste and feeling in somebody's mouth.
+
+20:43.640 --> 20:45.440
+ They're blindfolded so they don't know what they're eating.
+
+20:45.440 --> 20:47.800
+ And they're eating a food that's either sugary
+
+20:47.800 --> 20:48.960
+ or not sugary.
+
+20:48.960 --> 20:51.600
+ And what they find is that even though people can't taste
+
+20:51.600 --> 20:55.200
+ the sugary food, they crave more of the food
+
+20:55.200 --> 20:59.000
+ that contains sugar because of the sensors in the gut
+
+20:59.000 --> 21:00.440
+ that sense sugar.
+
+21:00.440 --> 21:03.640
+ So to put this differently, you actually have sensors
+
+21:03.640 --> 21:08.120
+ within your body that make you crave sugar independent
+
+21:08.120 --> 21:10.240
+ of the sweet taste of those things.
+
+21:10.240 --> 21:11.560
+ Now that's incredible.
+
+21:11.560 --> 21:14.280
+ And what it does and what it tells us is that we have
+
+21:14.280 --> 21:16.800
+ circuits in our body that are driving us
+
+21:16.800 --> 21:20.200
+ towards certain behaviors and making us feel good
+
+21:20.200 --> 21:22.200
+ even though we can't perceive them.
+
+21:22.200 --> 21:23.920
+ Now, for those of you that are really interested
+
+21:23.920 --> 21:26.800
+ in gut intuition and kind of gut feelings,
+
+21:26.800 --> 21:28.160
+ this is a gut feeling,
+
+21:28.160 --> 21:30.280
+ except this is a chemical gut feeling.
+
+21:30.280 --> 21:34.600
+ This is a particular set of neurons detecting that something
+
+21:34.600 --> 21:37.640
+ in your body has a particular feature, in this case,
+
+21:37.640 --> 21:41.100
+ the presence of sugars and sending information to the brain
+
+21:41.100 --> 21:44.000
+ to essentially to control your behavior.
+
+21:44.000 --> 21:46.840
+ And I find this remarkable because what it means
+
+21:46.840 --> 21:49.360
+ is that what we call attractive,
+
+21:49.360 --> 21:52.120
+ isn't always coming from our thoughts about that
+
+21:52.120 --> 21:54.600
+ or our feelings or even our perception.
+
+21:54.600 --> 21:58.080
+ We are drawn to particular foods and we're drawn to perhaps
+
+21:58.080 --> 22:01.580
+ also to particular people, places and other things
+
+22:01.580 --> 22:04.880
+ because of information that's coming from our body.
+
+22:04.880 --> 22:07.120
+ And we're gonna talk about what one can do
+
+22:07.120 --> 22:07.980
+ with this information.
+
+22:07.980 --> 22:10.400
+ I know many people are thoughtful or concerned
+
+22:10.400 --> 22:12.220
+ about sugars these days thinking,
+
+22:12.220 --> 22:13.720
+ we all ingest too much sugar,
+
+22:13.720 --> 22:16.960
+ there's sugar snuck into all the things we eat.
+
+22:16.960 --> 22:18.160
+ And indeed that's true.
+
+22:18.160 --> 22:20.160
+ I mean, this should completely reframe the way
+
+22:20.160 --> 22:23.560
+ that we think about the sort of so-called hidden sugars
+
+22:23.560 --> 22:24.400
+ in foods.
+
+22:24.400 --> 22:26.760
+ What this means is that even if a food is very savory
+
+22:26.760 --> 22:29.680
+ like a piece of pizza or a piece of bread
+
+22:29.680 --> 22:32.480
+ or even like a salad dressing,
+
+22:32.480 --> 22:36.160
+ if there's sugar snuck into that and you can't taste it,
+
+22:36.160 --> 22:39.320
+ you will still crave more of that thing
+
+22:39.320 --> 22:42.560
+ without knowing that you crave it because it has sugar.
+
+22:42.560 --> 22:44.520
+ In other words, you might find yourself wanting
+
+22:44.520 --> 22:47.540
+ certain foods and not knowing why you want those foods.
+
+22:47.540 --> 22:50.440
+ So I find this to be a fascinating aspect of our biology.
+
+22:50.440 --> 22:52.880
+ And yes, it relates to mood and emotion.
+
+22:52.880 --> 22:55.200
+ And we'll talk about how that is in a moment.
+
+22:55.200 --> 22:58.320
+ So let's just back up a bit and ask the question,
+
+22:58.320 --> 23:00.640
+ why do we eat certain things?
+
+23:00.640 --> 23:03.440
+ And why do certain foods make us feel good
+
+23:03.440 --> 23:06.040
+ and other foods actually make us feel anxious?
+
+23:06.040 --> 23:07.680
+ I think some people may be familiar with this,
+
+23:07.680 --> 23:09.060
+ other people might not.
+
+23:09.060 --> 23:13.700
+ But most people don't realize that as you approach eating,
+
+23:13.700 --> 23:16.240
+ there's an anxiety associated with that.
+
+23:16.240 --> 23:17.080
+ It's an alertness.
+
+23:17.080 --> 23:19.380
+ Remember in the previous discussions,
+
+23:19.380 --> 23:22.000
+ or even if you don't and you haven't seen those,
+
+23:22.000 --> 23:24.200
+ all of your moods and feelings of wellbeing
+
+23:24.200 --> 23:28.160
+ are anchored on this continuum of alertness versus calmness.
+
+23:28.160 --> 23:31.120
+ And we hear so often about rest and digest,
+
+23:31.120 --> 23:33.880
+ that, oh, after we eat, we feel really nice and full,
+
+23:33.880 --> 23:36.500
+ hopefully comfortably full and not too full.
+
+23:36.500 --> 23:40.240
+ Then we're relaxing and we feel satiated.
+
+23:40.240 --> 23:43.440
+ It's associated with serotonin, this molecule of satiation.
+
+23:43.440 --> 23:45.100
+ That's all true.
+
+23:45.100 --> 23:47.360
+ But what most people don't know is that there's an area
+
+23:47.360 --> 23:49.400
+ of the hypothalamus, so deep in the brain,
+
+23:49.400 --> 23:51.480
+ kind of in the middle deep portion of the brain,
+
+23:51.480 --> 23:53.640
+ called the lateral hypothalamus.
+
+23:53.640 --> 23:56.180
+ And the lateral hypothalamus is really interesting
+
+23:56.180 --> 24:00.540
+ because it controls feeding, but it inhibits feeding.
+
+24:00.540 --> 24:02.940
+ It stops us from feeding.
+
+24:02.940 --> 24:05.120
+ And there's another area in the brain,
+
+24:05.120 --> 24:06.480
+ if you want names, I'll give them to you.
+
+24:06.480 --> 24:08.120
+ If you don't want names, just ignore them,
+
+24:08.120 --> 24:10.740
+ delete them from your memory and awareness,
+
+24:10.740 --> 24:12.120
+ called the locus coeruleus.
+
+24:12.120 --> 24:15.200
+ Now the locus coeruleus sits back further in the brainstem
+
+24:15.200 --> 24:16.640
+ and it releases norepinephrine,
+
+24:16.640 --> 24:20.240
+ which is essentially adrenaline and makes us feel alert.
+
+24:20.240 --> 24:22.480
+ Now locus coeruleus has a lot of different functions
+
+24:22.480 --> 24:24.660
+ in the brain, but when we are going to eat,
+
+24:24.660 --> 24:26.000
+ let's say we walk into a restaurant,
+
+24:26.000 --> 24:28.960
+ we sit down or we're preparing a meal,
+
+24:28.960 --> 24:31.460
+ locus coeruleus is known to release
+
+24:31.460 --> 24:33.080
+ noradrenaline in the brain.
+
+24:33.080 --> 24:35.160
+ It's creating a kind of alertness.
+
+24:35.160 --> 24:39.320
+ This has ancient utility, but it's creating this alertness.
+
+24:39.320 --> 24:42.100
+ And for many people, they experience that
+
+24:42.100 --> 24:45.060
+ as they approach food as stress, as anxiety.
+
+24:45.060 --> 24:48.800
+ But what's interesting is that as we approach food,
+
+24:48.800 --> 24:52.040
+ locus coeruleus is releasing all these molecules
+
+24:52.040 --> 24:54.460
+ that make us feel more anxious and alert.
+
+24:54.460 --> 24:56.120
+ Sometimes it's felt as excitement
+
+24:56.120 --> 24:57.280
+ and that has probably to do
+
+24:57.280 --> 24:58.820
+ with how we feel about food generally.
+
+24:58.820 --> 25:00.800
+ Are we happy with our relationship to food?
+
+25:00.800 --> 25:02.840
+ Are we trying to restrict our relationship to food?
+
+25:02.840 --> 25:04.240
+ Are people coming over for dinner?
+
+25:04.240 --> 25:06.060
+ All that will play in of course,
+
+25:06.060 --> 25:08.880
+ but there's a certain stress and anxiety
+
+25:08.880 --> 25:10.880
+ on approach to food.
+
+25:10.880 --> 25:15.200
+ And as we approach food and we feel that anxiety,
+
+25:15.200 --> 25:19.160
+ locus coeruleus activates the lateral hypothalamus
+
+25:19.160 --> 25:21.640
+ in a way that inhibits feeding,
+
+25:21.640 --> 25:23.180
+ that makes us not want to eat.
+
+25:23.180 --> 25:26.040
+ So a lot of people who have kind of pre-meal anxiety
+
+25:26.040 --> 25:28.040
+ or anxiety around food,
+
+25:28.040 --> 25:30.560
+ and they can't seem to just calm down and have a good meal
+
+25:30.560 --> 25:33.200
+ to access that later rest and digest.
+
+25:33.200 --> 25:35.800
+ A lot of that is because of this heightened stress
+
+25:35.800 --> 25:37.160
+ upon approach to food.
+
+25:37.160 --> 25:39.680
+ And a lot of the tools that are out there
+
+25:39.680 --> 25:40.880
+ both for eating disorders
+
+25:40.880 --> 25:42.760
+ and for just kind of the general public
+
+25:42.760 --> 25:44.560
+ who isn't suffering from eating disorders,
+
+25:44.560 --> 25:48.160
+ things like mindfulness around meals,
+
+25:48.160 --> 25:50.480
+ they always tell you, you should never eat when stressed.
+
+25:50.480 --> 25:52.160
+ I'm sorry, but my life is not organized
+
+25:52.160 --> 25:53.400
+ in a way that I can't do that.
+
+25:53.400 --> 25:54.700
+ I would never eat, right?
+
+25:54.700 --> 25:56.160
+ Because I eat when I'm awake
+
+25:56.160 --> 25:59.840
+ and I don't know if I'm stressed, but I don't think I am,
+
+25:59.840 --> 26:02.260
+ but I tend to run around a lot during the day.
+
+26:02.260 --> 26:05.760
+ I don't generally take time to do two or three deep breaths
+
+26:05.760 --> 26:08.320
+ before I eat, I generally will eat.
+
+26:09.560 --> 26:10.840
+ That can be healthy or unhealthy
+
+26:10.840 --> 26:13.140
+ depending on the quality of your digestion.
+
+26:13.140 --> 26:15.680
+ I think using digestion as a guide is good.
+
+26:15.680 --> 26:19.720
+ But a lot of people aren't aware that this interaction
+
+26:19.720 --> 26:21.860
+ between locus coeruleus and lateral hypothalamus
+
+26:21.860 --> 26:24.920
+ is a basic mechanism where we are supposed to get
+
+26:24.920 --> 26:27.800
+ a little bit alert and anxious around mealtime.
+
+26:27.800 --> 26:31.400
+ And then as we eat, the mechanisms for calming
+
+26:31.400 --> 26:33.760
+ and satiation are supposed to kick in.
+
+26:33.760 --> 26:35.560
+ And those mechanisms involve,
+
+26:35.560 --> 26:37.020
+ as I mentioned earlier, two things.
+
+26:37.020 --> 26:38.400
+ One is how things taste.
+
+26:38.400 --> 26:41.240
+ Digestion starts in the mouth, of course.
+
+26:41.240 --> 26:43.120
+ We taste our food.
+
+26:43.120 --> 26:45.080
+ Everyone tells us we should chew our food more.
+
+26:45.080 --> 26:46.440
+ Yes, that can improve digestion.
+
+26:46.440 --> 26:48.600
+ We're not supposed to drink too many fluids as we eat.
+
+26:48.600 --> 26:49.920
+ That's true too.
+
+26:49.920 --> 26:54.920
+ But a lot of how we feel while we eat and after we eat
+
+26:54.920 --> 26:59.920
+ is because of this vagus sensing of what's in our gut.
+
+27:00.420 --> 27:02.880
+ It's sending information all the time.
+
+27:02.880 --> 27:04.640
+ Is there sugar?
+
+27:04.640 --> 27:06.180
+ Are there fats?
+
+27:06.180 --> 27:08.220
+ Are there contaminants?
+
+27:08.220 --> 27:09.620
+ There are a lot of information,
+
+27:09.620 --> 27:10.940
+ these so-called parallel pathways
+
+27:10.940 --> 27:12.180
+ that are going up into our brain
+
+27:12.180 --> 27:13.300
+ that regulate whether or not
+
+27:13.300 --> 27:15.380
+ we want to eat more of something or not.
+
+27:15.380 --> 27:16.840
+ And there are accelerators,
+
+27:16.840 --> 27:18.740
+ things that make us want to eat more,
+
+27:18.740 --> 27:22.380
+ like sugar and fats, because those are nutrient dense
+
+27:22.380 --> 27:24.620
+ and they help generally, at least in the short term,
+
+27:24.620 --> 27:29.100
+ support the survival of animals, but also amino acids.
+
+27:29.100 --> 27:31.520
+ And this is very important.
+
+27:31.520 --> 27:33.540
+ There are a lot of data,
+
+27:33.540 --> 27:38.500
+ but much of what comes from the data on what people eat
+
+27:38.500 --> 27:42.500
+ and how much they eat is from a subconscious detection
+
+27:42.500 --> 27:47.140
+ of how many amino acids and what the array,
+
+27:47.140 --> 27:50.660
+ meaning the constellation of amino acids is in a given food.
+
+27:50.660 --> 27:54.620
+ And it's fair to say that the sum total of these studies
+
+27:54.620 --> 27:58.140
+ point in a direction where people will basically eat
+
+27:58.140 --> 28:00.780
+ not until their stomach is full,
+
+28:00.780 --> 28:04.500
+ but until the brain perceives
+
+28:04.500 --> 28:07.860
+ that they have adequate intake of amino acids.
+
+28:07.860 --> 28:11.380
+ Now, this is a conversation that comes up
+
+28:11.380 --> 28:14.740
+ in the context of the meat only, the keto,
+
+28:14.740 --> 28:17.860
+ the kind of zone diet, the Mediterranean diet,
+
+28:17.860 --> 28:18.700
+ the vegan diet.
+
+28:18.700 --> 28:23.600
+ I'm largely going to ignore the kind of strict camps today.
+
+28:23.600 --> 28:25.100
+ I will talk a little bit about it
+
+28:25.100 --> 28:27.220
+ because I think each one of them actually taps
+
+28:27.220 --> 28:29.700
+ into something important about this brain body relationship
+
+28:29.700 --> 28:31.540
+ that the other ones don't.
+
+28:31.540 --> 28:33.220
+ But I don't want to get into a discussion
+
+28:33.220 --> 28:35.420
+ about the ethics of different foods
+
+28:35.420 --> 28:36.860
+ of animal-based or non-animal-based,
+
+28:36.860 --> 28:38.260
+ because that's not the topic today.
+
+28:38.260 --> 28:41.740
+ It's really about nutrient sensing and amino acid sensing.
+
+28:41.740 --> 28:45.820
+ So we generally will eat until our gut tells our brain
+
+28:45.820 --> 28:48.460
+ that we have adequate amounts of these amino acids,
+
+28:48.460 --> 28:50.300
+ amino acids of course are important
+
+28:50.300 --> 28:52.780
+ because they are the building blocks of sure,
+
+28:52.780 --> 28:56.500
+ muscle and the other things in our body that need repair.
+
+28:56.500 --> 29:00.460
+ But what most people don't realize is that amino acids
+
+29:00.460 --> 29:04.800
+ are what the neurochemicals in the brain are made from.
+
+29:04.800 --> 29:07.260
+ Now this is vitally important, okay?
+
+29:07.260 --> 29:10.060
+ So we've heard dopamine is this molecule
+
+29:10.060 --> 29:11.180
+ that makes you feel good.
+
+29:11.180 --> 29:13.780
+ Actually dopamine is a molecule that makes you feel good.
+
+29:13.780 --> 29:15.740
+ It's released within the brain
+
+29:15.740 --> 29:19.460
+ and it does feel very good when you have dopamine release.
+
+29:19.460 --> 29:22.720
+ Dopamine release is caused by surprise, excitement,
+
+29:22.720 --> 29:25.860
+ events that you're looking forward to and that turn out well.
+
+29:25.860 --> 29:28.380
+ It is inhibited by events you're looking forward to
+
+29:28.380 --> 29:29.840
+ that don't work out.
+
+29:29.840 --> 29:31.020
+ When someone says they're going to call
+
+29:31.020 --> 29:32.580
+ that you're really, really excited to talk to
+
+29:32.580 --> 29:33.540
+ and then they don't.
+
+29:33.540 --> 29:35.740
+ Or you thought a movie was going to be really great
+
+29:35.740 --> 29:36.580
+ and it's not.
+
+29:36.580 --> 29:38.400
+ Or you expect a meal to be really delicious
+
+29:38.400 --> 29:40.060
+ and it's kind of eh.
+
+29:40.060 --> 29:42.000
+ And we actually, there's a name for that.
+
+29:42.000 --> 29:44.260
+ It's called reward prediction error.
+
+29:44.260 --> 29:46.460
+ So if, and you can actually use this
+
+29:46.460 --> 29:48.140
+ in the context of meals and plans
+
+29:48.140 --> 29:50.180
+ in a way that's very useful with yourself
+
+29:50.180 --> 29:51.820
+ and people you know.
+
+29:51.820 --> 29:56.340
+ Essentially, if you expect something to be really terrific,
+
+29:57.200 --> 29:59.660
+ it really does place a higher expectation
+
+29:59.660 --> 30:01.080
+ at the chemical level.
+
+30:01.080 --> 30:03.600
+ So if you don't get as much dopamine
+
+30:03.600 --> 30:04.980
+ as you're expecting from something,
+
+30:04.980 --> 30:07.860
+ so you hear about a really great restaurant
+
+30:07.860 --> 30:08.900
+ or a place that has a really,
+
+30:08.900 --> 30:11.300
+ in my case, I wouldn't call it an addiction.
+
+30:11.300 --> 30:14.020
+ I would call it more of an affliction for croissants.
+
+30:14.020 --> 30:16.260
+ The best vegetable, of course, is the croissant.
+
+30:16.260 --> 30:18.180
+ And I get really excited about the fact
+
+30:18.180 --> 30:20.300
+ that someone will tell me, oh, there's this place
+
+30:20.300 --> 30:21.820
+ and they have incredible croissants.
+
+30:21.820 --> 30:22.780
+ You got to go there.
+
+30:22.780 --> 30:24.340
+ So I get really excited and I'll go.
+
+30:24.340 --> 30:25.880
+ And just them telling me
+
+30:25.880 --> 30:29.020
+ that it's going to be really terrific raises an expectation,
+
+30:29.020 --> 30:30.780
+ a dopamine expectation.
+
+30:30.780 --> 30:34.980
+ And unless those croissants are amazing,
+
+30:34.980 --> 30:37.420
+ chances are I'm going to experience them
+
+30:37.420 --> 30:40.300
+ as less good, less satisfying.
+
+30:40.300 --> 30:43.440
+ I will truly release less dopamine
+
+30:43.440 --> 30:45.000
+ than I would had they just said,
+
+30:45.000 --> 30:47.100
+ oh yeah, I think that there are croissants down the street
+
+30:47.100 --> 30:48.720
+ or if I just tried one at random.
+
+30:48.720 --> 30:51.260
+ And that's because of this reward prediction error.
+
+30:51.260 --> 30:54.660
+ Your expectation of something releases dopamine
+
+30:54.660 --> 30:58.060
+ and the actual event releases dopamine.
+
+30:58.060 --> 31:01.500
+ And if the event related dopamine
+
+31:01.500 --> 31:04.740
+ does not exceed the expectation or at least match it,
+
+31:04.740 --> 31:06.260
+ there's a much higher tendency
+
+31:06.260 --> 31:08.500
+ that you won't pursue that thing again.
+
+31:08.500 --> 31:10.140
+ So dopamine is really powerful
+
+31:10.140 --> 31:12.320
+ and it's not just the molecule of reward.
+
+31:12.320 --> 31:13.980
+ It is the molecule of desire.
+
+31:13.980 --> 31:16.100
+ It's the molecule of wanting,
+
+31:16.100 --> 31:18.420
+ not just the molecule of having.
+
+31:18.420 --> 31:19.300
+ And a book,
+
+31:19.300 --> 31:21.580
+ since people often ask for book recommendations,
+
+31:21.580 --> 31:23.740
+ I don't know the author personally, but I love the book.
+
+31:23.740 --> 31:25.340
+ It's called The Molecule of More.
+
+31:25.340 --> 31:26.700
+ It's a terrific book.
+
+31:26.700 --> 31:28.760
+ I wish I had written it frankly,
+
+31:28.760 --> 31:30.580
+ but if you want to learn more about dopamine,
+
+31:30.580 --> 31:31.640
+ reward prediction error,
+
+31:31.640 --> 31:33.940
+ and how dopamine regulates various aspects
+
+31:33.940 --> 31:35.820
+ of your emotional and motivational life,
+
+31:35.820 --> 31:37.000
+ it's a terrific read.
+
+31:38.720 --> 31:41.700
+ Dopamine is what's going to lead us
+
+31:41.700 --> 31:43.500
+ to want to eat more of something
+
+31:43.500 --> 31:45.140
+ or to not want more of something
+
+31:45.140 --> 31:48.140
+ because dopamine really is about craving.
+
+31:48.140 --> 31:51.120
+ It's about motivation and it's about desire.
+
+31:51.120 --> 31:52.180
+ And as I mentioned,
+
+31:52.180 --> 31:54.440
+ these amino acid sensors in our gut
+
+31:54.440 --> 31:56.780
+ are detecting how many amino acids,
+
+31:56.780 --> 31:59.300
+ but they're also detecting which amino acids.
+
+31:59.300 --> 32:02.600
+ And there's a particular amino acid called L-tyrosine,
+
+32:02.600 --> 32:03.920
+ which comes from food.
+
+32:03.920 --> 32:06.860
+ You can look up online which foods contain L-tyrosine.
+
+32:06.860 --> 32:07.700
+ It is in meats.
+
+32:07.700 --> 32:08.660
+ It is in nuts.
+
+32:08.660 --> 32:11.200
+ It is also in some plant-based foods.
+
+32:11.200 --> 32:16.200
+ L-tyrosine is the precursor to a couple other molecules
+
+32:16.760 --> 32:19.620
+ like L-dopa, et cetera, that make dopamine.
+
+32:19.620 --> 32:22.260
+ And so there's a misconception out there
+
+32:22.260 --> 32:25.380
+ that most of the serotonin is in our gut
+
+32:25.380 --> 32:27.460
+ and most of the dopamine is in our gut
+
+32:27.460 --> 32:29.900
+ and therefore our mood is in our gut.
+
+32:29.900 --> 32:32.060
+ That's not quite the way it works.
+
+32:32.060 --> 32:33.500
+ We'll talk about serotonin in a moment,
+
+32:33.500 --> 32:37.740
+ but dopamine is synthesized from the amino acids
+
+32:37.740 --> 32:38.900
+ that you eat.
+
+32:38.900 --> 32:42.200
+ However, the dopamine neurons that give rise
+
+32:42.200 --> 32:45.380
+ to these feelings of good or wanting more
+
+32:45.380 --> 32:48.640
+ or desire and motivation, those reside in the brain.
+
+32:48.640 --> 32:49.900
+ So we don't want to get too confused.
+
+32:49.900 --> 32:52.700
+ We want to respect and honor the power of the gut
+
+32:52.700 --> 32:54.140
+ and this vagal pathway,
+
+32:54.140 --> 32:55.740
+ but it's really neurons within your brain
+
+32:55.740 --> 32:58.660
+ that drive the pursuit and decision-making.
+
+32:58.660 --> 32:59.620
+ So what does this mean?
+
+32:59.620 --> 33:03.460
+ Well, some people make too little dopamine.
+
+33:03.460 --> 33:04.940
+ Some people make so little dopamine
+
+33:04.940 --> 33:07.300
+ that they need prescription dopamine.
+
+33:07.300 --> 33:08.260
+ They need L-dopa.
+
+33:08.260 --> 33:10.380
+ People with Parkinson's take L-dopa
+
+33:10.380 --> 33:12.420
+ and other compounds to increase dopamine
+
+33:12.420 --> 33:14.900
+ because Parkinson's is associated
+
+33:14.900 --> 33:16.900
+ with deficits in movement.
+
+33:16.900 --> 33:18.660
+ It starts as a tremor,
+
+33:18.660 --> 33:20.460
+ actually starts as some other things that are interesting.
+
+33:20.460 --> 33:21.440
+ We'll talk about in a moment,
+
+33:21.440 --> 33:25.540
+ but Parkinson's is a depression.
+
+33:25.540 --> 33:28.640
+ It's a blunting of motivation and mood and affect,
+
+33:28.640 --> 33:29.540
+ and it's a tremor.
+
+33:29.540 --> 33:31.220
+ And then eventually in severe conditions,
+
+33:31.220 --> 33:33.340
+ it's challenges in speaking and walking.
+
+33:33.340 --> 33:36.420
+ So some famous examples would be Muhammad Ali,
+
+33:36.420 --> 33:41.300
+ Michael J. Fox, the great boxing trainer, Freddy Roach.
+
+33:41.300 --> 33:43.240
+ Like these people have Parkinson's
+
+33:43.240 --> 33:45.160
+ and they at least later in their life
+
+33:45.160 --> 33:46.780
+ had challenges speaking.
+
+33:46.780 --> 33:49.380
+ Now, it's not just fighters that develop Parkinson's.
+
+33:50.380 --> 33:54.660
+ As far as I know, Michael J. Fox wasn't a fighter.
+
+33:54.660 --> 33:55.980
+ People can develop Parkinson's
+
+33:55.980 --> 33:57.660
+ and Parkinson's is a depletion
+
+33:57.660 --> 33:59.180
+ of dopamine neurons in the brain.
+
+33:59.180 --> 34:01.100
+ And it's not just movement challenges,
+
+34:01.100 --> 34:02.620
+ it's challenges with mood.
+
+34:02.620 --> 34:03.860
+ Now, hopefully most of you,
+
+34:03.860 --> 34:06.380
+ all of you don't have Parkinson's,
+
+34:06.380 --> 34:09.380
+ but it's clear that dietary L-tyrosine
+
+34:09.380 --> 34:14.380
+ supports the healthy production of things like dopamine
+
+34:14.380 --> 34:17.340
+ and as well as other factors within the brain.
+
+34:17.340 --> 34:18.980
+ Now, some people immediately ask,
+
+34:18.980 --> 34:20.820
+ well, should I supplement L-tyrosine?
+
+34:20.820 --> 34:22.000
+ So let's just talk about that
+
+34:22.000 --> 34:24.160
+ because that's going to come up.
+
+34:24.160 --> 34:26.620
+ Full disclosure, I sometimes take L-tyrosine.
+
+34:26.620 --> 34:27.640
+ I'm not taking it right now,
+
+34:27.640 --> 34:29.500
+ but I take it only occasionally.
+
+34:29.500 --> 34:31.540
+ You can buy this in capsule form.
+
+34:31.540 --> 34:35.560
+ It does increase kind of mood and elevation and alertness.
+
+34:35.560 --> 34:36.680
+ It is over the counter.
+
+34:36.680 --> 34:37.940
+ You have to check with your doctor.
+
+34:37.940 --> 34:39.420
+ I'm not responsible for your healthcare
+
+34:39.420 --> 34:40.940
+ and I'm not a doctor.
+
+34:40.940 --> 34:41.980
+ Whether or not it's safe for you.
+
+34:41.980 --> 34:44.920
+ People with preexisting hyper dopaminergic conditions
+
+34:44.920 --> 34:48.840
+ like mania should probably not take L-tyrosine.
+
+34:48.840 --> 34:50.340
+ The other thing about taking L-tyrosine
+
+34:50.340 --> 34:52.060
+ is there is a crash, okay?
+
+34:52.060 --> 34:53.300
+ It's not a massive crash
+
+34:53.300 --> 34:56.220
+ if you take it at appropriate doses and it's right for you,
+
+34:56.220 --> 34:59.020
+ but it can produce a crash and a lethargy
+
+34:59.020 --> 35:02.540
+ and a kind of brain fog after the next day or so.
+
+35:02.540 --> 35:06.100
+ And so L-tyrosine, however,
+
+35:06.100 --> 35:08.700
+ can be ingested through foods or through supplementation
+
+35:08.700 --> 35:09.880
+ to increase dopamine levels.
+
+35:09.880 --> 35:11.020
+ That's well known.
+
+35:11.020 --> 35:12.660
+ Taken chronically, however,
+
+35:12.660 --> 35:14.900
+ it can disrupt those dopamine pathways.
+
+35:14.900 --> 35:18.060
+ Now there are other drugs that will increase L-tyrosine
+
+35:18.060 --> 35:19.540
+ and dopamine as well,
+
+35:19.540 --> 35:20.620
+ but those are severe enough
+
+35:20.620 --> 35:22.680
+ that they generally tend to have addictive properties.
+
+35:22.680 --> 35:24.140
+ So things like methamphetamine,
+
+35:24.140 --> 35:26.340
+ things like cocaine are terrible
+
+35:26.340 --> 35:29.460
+ because they really ramp up the dopamine system so much
+
+35:29.460 --> 35:32.060
+ that people really can't achieve dopamine release
+
+35:32.060 --> 35:33.660
+ through any other mechanisms.
+
+35:33.660 --> 35:35.900
+ But food and the ingestion of L-tyrosine
+
+35:35.900 --> 35:38.880
+ has a profound effect on our levels of dopamine.
+
+35:38.880 --> 35:40.160
+ It takes a little while,
+
+35:40.160 --> 35:43.400
+ but that really will impact level of mood.
+
+35:43.400 --> 35:46.060
+ Certain antidepressants fall into the category
+
+35:46.060 --> 35:48.020
+ of dopaminergic antidepressants.
+
+35:48.020 --> 35:51.020
+ One of the most famous ones, of course, is Wellbutrin.
+
+35:51.020 --> 35:52.560
+ Wellbutrin was developed
+
+35:52.560 --> 35:54.960
+ because a lot of the other antidepressants
+
+35:54.960 --> 35:57.060
+ tend to make people feel kind of lethargic
+
+35:57.060 --> 35:59.860
+ or they had side effect profiles that people didn't like.
+
+35:59.860 --> 36:02.860
+ So they developed this thing that,
+
+36:02.860 --> 36:04.060
+ the generic name is different,
+
+36:04.060 --> 36:05.740
+ but it's generally called Wellbutrin.
+
+36:05.740 --> 36:08.840
+ Wellbutrin activates dopamine and epinephrine,
+
+36:08.840 --> 36:10.700
+ which is a substrate of dopamine.
+
+36:10.700 --> 36:12.820
+ And both of those are involved in motivation
+
+36:12.820 --> 36:14.380
+ and alertness and effort.
+
+36:14.380 --> 36:16.240
+ So you might say, wow, this sounds like a great drug.
+
+36:16.240 --> 36:19.640
+ However, this drug, the side effect profile
+
+36:19.640 --> 36:21.300
+ tends to be the things that are associated
+
+36:21.300 --> 36:22.980
+ with elevated mood and alertness.
+
+36:22.980 --> 36:25.100
+ So this isn't like taking some L-tyrosine.
+
+36:25.100 --> 36:27.180
+ This isn't like eating some tyrosine rich foods.
+
+36:27.180 --> 36:30.500
+ This is really a much greater release of dopamine
+
+36:30.500 --> 36:34.060
+ and epinephrine, and it increases things like anxiety,
+
+36:34.060 --> 36:36.380
+ sweating, the pupils dilate.
+
+36:36.380 --> 36:38.340
+ It has certain effects on,
+
+36:38.340 --> 36:40.260
+ in particular people with epilepsy.
+
+36:40.260 --> 36:43.760
+ It's been used somewhat successfully for smoking cessation,
+
+36:43.760 --> 36:45.380
+ but again, it's not for everybody.
+
+36:45.380 --> 36:48.100
+ And I'm not here to encourage the use of these things.
+
+36:48.100 --> 36:50.260
+ I'm just describing the biology and the rationale
+
+36:50.260 --> 36:52.700
+ for why these drugs were developed.
+
+36:52.700 --> 36:55.380
+ So let's back up a second.
+
+36:55.380 --> 36:57.040
+ Let's just kind of take stock of where we're at.
+
+36:57.040 --> 36:58.560
+ We have a brain-body connection.
+
+36:58.560 --> 36:59.580
+ There are many of them,
+
+36:59.580 --> 37:01.580
+ but one of the main ones is the vagus nerve.
+
+37:01.580 --> 37:04.020
+ The vagus collects information about a lot of things,
+
+37:04.020 --> 37:07.380
+ breathing, heart rate, stuff that's happening in the gut,
+
+37:07.380 --> 37:08.600
+ et cetera, and gut by the way,
+
+37:08.600 --> 37:10.420
+ includes the stomach and the intestines,
+
+37:10.420 --> 37:12.700
+ sends that information up to the brain.
+
+37:12.700 --> 37:14.400
+ The brain is using that information
+
+37:14.400 --> 37:16.140
+ to decide one of two things,
+
+37:16.140 --> 37:18.620
+ move towards something or move away.
+
+37:18.620 --> 37:19.640
+ It can also pause,
+
+37:19.640 --> 37:22.460
+ but essentially pausing is not moving toward.
+
+37:22.460 --> 37:24.860
+ So that's the dopamine pathway
+
+37:24.860 --> 37:27.500
+ and foods rich in L-tyrosine generally give us
+
+37:27.500 --> 37:29.900
+ an elevated mood and make us want to do more
+
+37:29.900 --> 37:32.100
+ of whatever it is that we happen to be doing
+
+37:32.100 --> 37:32.940
+ as well as other things.
+
+37:32.940 --> 37:34.880
+ Motivation generalizes to other things.
+
+37:34.880 --> 37:37.260
+ It's not unique to just ingesting foods,
+
+37:37.260 --> 37:40.040
+ but foods that give us a big pulse of dopamine
+
+37:40.040 --> 37:42.940
+ will make us crave more of that food.
+
+37:42.940 --> 37:45.220
+ It will make us crave more of the activity
+
+37:45.220 --> 37:47.900
+ that led to the ingestion of that food.
+
+37:47.900 --> 37:48.960
+ And as I mentioned earlier,
+
+37:48.960 --> 37:51.860
+ a lot of that is happening at a subconscious level
+
+37:51.860 --> 37:53.100
+ that you're not even aware of.
+
+37:53.100 --> 37:56.220
+ And this is why I think the concern about hidden sugars
+
+37:56.220 --> 37:58.740
+ and over-ingestion of sugars is serious
+
+37:58.740 --> 38:01.320
+ because it's not just that the sugars
+
+38:01.320 --> 38:04.180
+ are impacting our blood glucose in negative ways,
+
+38:04.180 --> 38:05.380
+ although often it is.
+
+38:05.380 --> 38:08.260
+ It's not just the obesity crisis that's happening.
+
+38:08.260 --> 38:10.700
+ It's also the fact that it's disrupting
+
+38:10.700 --> 38:12.220
+ our dopamine systems.
+
+38:12.220 --> 38:14.340
+ Now that doesn't mean all sugar is bad.
+
+38:14.340 --> 38:17.420
+ Some people have a quite healthy relationship to sugar,
+
+38:17.420 --> 38:19.060
+ but I think most people are just not aware
+
+38:19.060 --> 38:21.700
+ that sugar isn't just operating at the level of taste.
+
+38:21.700 --> 38:23.580
+ It's operating at the level of neurochemicals
+
+38:23.580 --> 38:25.940
+ and it's doing it subconsciously.
+
+38:25.940 --> 38:28.120
+ So I'd like to talk about some of the other pathways
+
+38:28.120 --> 38:31.700
+ between brain and body that regulate our moods and emotions,
+
+38:31.700 --> 38:33.820
+ but also are actionable.
+
+38:33.820 --> 38:36.200
+ So the other neuromodulator that's really interesting
+
+38:36.200 --> 38:39.300
+ in the context of the vagus is serotonin.
+
+38:39.300 --> 38:42.660
+ Serotonin, just to remind you, is a neuromodulator.
+
+38:42.660 --> 38:46.160
+ Therefore, it creates a bias in which neural circuits,
+
+38:46.160 --> 38:49.140
+ which neurons in the brain and body are going to be active,
+
+38:49.140 --> 38:50.440
+ and it makes it less likely
+
+38:50.440 --> 38:53.020
+ that other ones are going to be active.
+
+38:53.020 --> 38:55.660
+ I think it's fair to say, without ever having measured it,
+
+38:55.660 --> 38:58.700
+ that my bulldog Costello must just,
+
+38:58.700 --> 39:01.500
+ his brain and body must be swimming in serotonin
+
+39:01.500 --> 39:05.620
+ because he's very calm and he eats a lot,
+
+39:05.620 --> 39:07.300
+ but he generally feels pretty sated.
+
+39:07.300 --> 39:10.700
+ He's kind of an animal that's obsessed with comforts.
+
+39:10.700 --> 39:12.180
+ He's a bit of a hedonist.
+
+39:12.180 --> 39:13.820
+ And serotonin, when it's elevated,
+
+39:13.820 --> 39:16.100
+ tends to make us feel really comfortable
+
+39:16.100 --> 39:18.980
+ and kind of blissed out wherever we are.
+
+39:18.980 --> 39:22.500
+ And that contrasts with dopamine and epinephrine,
+
+39:22.500 --> 39:25.180
+ which mainly put us in pursuit of things.
+
+39:25.180 --> 39:27.260
+ Motivation is pursuit.
+
+39:27.260 --> 39:30.500
+ Serotonin is more about feeling really comfy where we are.
+
+39:31.920 --> 39:34.500
+ The conversation around the brain-body relationship
+
+39:34.500 --> 39:36.420
+ and mood in serotonin for many years was,
+
+39:36.420 --> 39:39.000
+ well, you eat a big meal, the gut is distended,
+
+39:39.000 --> 39:40.300
+ you've got all the nutrients you need,
+
+39:40.300 --> 39:43.820
+ you rest and digest, and serotonin is released.
+
+39:43.820 --> 39:47.880
+ That's sorta true, but there's a lot more going on
+
+39:47.880 --> 39:49.260
+ and a lot more that's interesting
+
+39:49.260 --> 39:51.060
+ and actionable that's going on.
+
+39:51.060 --> 39:53.740
+ First of all, some of you, but perhaps not all,
+
+39:53.740 --> 39:57.360
+ have heard that more than 90% of the serotonin
+
+39:57.360 --> 39:59.020
+ that we make is in our gut.
+
+39:59.020 --> 40:01.860
+ And indeed, we have a lot of serotonin in our gut.
+
+40:01.860 --> 40:04.180
+ We have neurons in our gut that make serotonin.
+
+40:04.180 --> 40:06.940
+ We have neurons in our brain that make serotonin.
+
+40:06.940 --> 40:07.940
+ But here's the deal.
+
+40:08.940 --> 40:11.540
+ Most of the serotonin that impacts our mood
+
+40:11.540 --> 40:14.600
+ and our mental state is not in our gut.
+
+40:14.600 --> 40:16.720
+ Most of it is in the neurons of the brain
+
+40:16.720 --> 40:19.060
+ in an area called the raphe nucleus of the brain.
+
+40:19.060 --> 40:20.860
+ There are a few other locations too.
+
+40:20.860 --> 40:22.320
+ And those are the neurons that control
+
+40:22.320 --> 40:24.700
+ whether or not we feel satiated or not,
+
+40:24.700 --> 40:27.000
+ whether or not we feel happy and calm.
+
+40:28.100 --> 40:30.280
+ You can't have a discussion about serotonin
+
+40:30.280 --> 40:32.400
+ without having a discussion about antidepressants
+
+40:32.400 --> 40:35.420
+ because during the late 80s and early 90s,
+
+40:35.420 --> 40:37.780
+ there was this explosion in the number
+
+40:37.780 --> 40:39.420
+ of prescription drugs that were released,
+
+40:39.420 --> 40:42.100
+ things like first one and most famous one is Prozac,
+
+40:42.100 --> 40:44.520
+ Zoloft, and Paxil, a number of other ones
+
+40:44.520 --> 40:47.560
+ that are so-called SSRI, Selective Serotonin
+
+40:47.560 --> 40:49.420
+ Reuptake Inhibitors.
+
+40:50.320 --> 40:53.720
+ That's a long acronym, but basically those drugs work
+
+40:53.720 --> 40:58.720
+ by preventing the gobbling up of serotonin
+
+40:59.580 --> 41:02.400
+ or reuptake of serotonin into neurons
+
+41:02.400 --> 41:03.380
+ after it's been released,
+
+41:03.380 --> 41:05.560
+ which leads to more serotonin overall,
+
+41:05.560 --> 41:07.100
+ which means to elevate serotonin.
+
+41:07.100 --> 41:11.200
+ And indeed, those drugs were and can be very useful
+
+41:11.200 --> 41:14.680
+ for certain people to feel better in cases of depression
+
+41:14.680 --> 41:17.080
+ and some other clinical disorders as well.
+
+41:17.080 --> 41:20.140
+ So I really don't want to dismiss them
+
+41:20.140 --> 41:22.660
+ as useless or dangerous for everybody.
+
+41:22.660 --> 41:25.620
+ They can be quite useful for many people.
+
+41:25.620 --> 41:27.480
+ Not everyone responds well to them
+
+41:27.480 --> 41:29.140
+ as I'm sure you've all heard.
+
+41:29.140 --> 41:31.880
+ And their side effect profile
+
+41:31.880 --> 41:34.760
+ has effects like blunting affect.
+
+41:34.760 --> 41:37.180
+ It can make people feel kind of flat, kind of meh.
+
+41:37.180 --> 41:39.800
+ It can reduce appetite for food.
+
+41:39.800 --> 41:41.320
+ It can reduce appetite for sex.
+
+41:41.320 --> 41:44.400
+ It can do all sorts of things, or it can work really well.
+
+41:44.400 --> 41:47.720
+ Sometimes it's a dose-related issue, et cetera.
+
+41:47.720 --> 41:50.000
+ Serotonin is fascinating, however,
+
+41:50.000 --> 41:53.480
+ because how well those neurons in the RAFAE work
+
+41:53.480 --> 41:55.880
+ is impacted by some events within the gut,
+
+41:55.880 --> 41:57.800
+ although you might be surprised
+
+41:57.800 --> 42:00.280
+ to find out what those events are.
+
+42:00.280 --> 42:03.100
+ So let's go a little bit deeper into the gut.
+
+42:03.100 --> 42:05.740
+ And again, the gut includes the stomach
+
+42:05.740 --> 42:07.840
+ and then the small intestine and the large intestine
+
+42:07.840 --> 42:10.400
+ and ask like, what is going on with serotonin in the gut?
+
+42:10.400 --> 42:12.600
+ How is it impacting serotonin in the brain?
+
+42:13.440 --> 42:15.960
+ And let's think about this in the context
+
+42:15.960 --> 42:18.480
+ of how some of us might want to increase
+
+42:18.480 --> 42:20.280
+ or decrease our serotonin levels.
+
+42:20.280 --> 42:23.340
+ So as far as I know,
+
+42:23.340 --> 42:27.000
+ there aren't any really good at-home blood tests
+
+42:27.000 --> 42:29.240
+ for things like serotonin and dopamine.
+
+42:29.240 --> 42:30.880
+ There are some commercial products out there,
+
+42:30.880 --> 42:35.120
+ but to me, just to me, I'm not particularly impressed.
+
+42:35.120 --> 42:37.960
+ It's not the same as getting your hormones levels measured
+
+42:37.960 --> 42:39.700
+ or your metabolic factors measured.
+
+42:39.700 --> 42:43.320
+ That can be done and it can be done rigorously.
+
+42:43.320 --> 42:44.420
+ There are tests out there.
+
+42:44.420 --> 42:45.960
+ There are even some, believe it or not,
+
+42:45.960 --> 42:47.680
+ there's some questionnaires.
+
+42:47.680 --> 42:49.040
+ And I think actually last year
+
+42:49.040 --> 42:50.560
+ it made some of the bigger newspapers.
+
+42:50.560 --> 42:52.760
+ Are you more of a dopamine or a serotonin?
+
+42:52.760 --> 42:54.280
+ Are you a this or a that?
+
+42:54.280 --> 42:55.820
+ I find that stuff to be a little silly,
+
+42:55.820 --> 42:58.160
+ although I do appreciate and like the fact
+
+42:58.160 --> 42:59.220
+ that people are thinking about
+
+42:59.220 --> 43:01.440
+ and talking about neuromodulators.
+
+43:01.440 --> 43:04.760
+ There aren't really great ways to measure these things
+
+43:04.760 --> 43:05.680
+ outside the clinic.
+
+43:05.680 --> 43:06.980
+ There's some great clinical tools
+
+43:06.980 --> 43:08.480
+ that you can get inside of a hospital
+
+43:08.480 --> 43:10.720
+ or from a proper endocrinologist or neurologist,
+
+43:10.720 --> 43:12.400
+ but no great at-home tool.
+
+43:12.400 --> 43:13.600
+ So maybe that's a call to arms
+
+43:13.600 --> 43:16.320
+ for some of you entrepreneurial folks out there
+
+43:16.320 --> 43:19.120
+ to create these tests, accurate tests, please,
+
+43:19.120 --> 43:20.680
+ that could be done at home.
+
+43:20.680 --> 43:23.640
+ But some people feel like they're too anxious
+
+43:23.640 --> 43:25.920
+ or they're always in a motivated state
+
+43:25.920 --> 43:27.680
+ and they're trying to adjust their serotonin.
+
+43:27.680 --> 43:31.320
+ Many people adjust their serotonin by just eating more food
+
+43:31.320 --> 43:35.160
+ and carbohydrate-rich foods will increase serotonin.
+
+43:35.160 --> 43:36.920
+ I've talked about this on a previous podcast,
+
+43:36.920 --> 43:39.700
+ but I personally am a big fan, at least for me,
+
+43:39.700 --> 43:42.280
+ as I usually fast and exercise
+
+43:42.280 --> 43:43.800
+ in the early part of the day.
+
+43:43.800 --> 43:48.420
+ I eat a relatively high protein and moderate fat,
+
+43:48.420 --> 43:51.680
+ zero carb or low carb meal at lunch
+
+43:51.680 --> 43:53.460
+ and in the afternoon to stay alert
+
+43:53.460 --> 43:56.760
+ because those foods tend to favor dopamine production,
+
+43:56.760 --> 43:57.920
+ acetylcholine production,
+
+43:57.920 --> 43:59.960
+ epinephrine production, and alertness.
+
+43:59.960 --> 44:03.480
+ My mood is generally pretty good most of the time.
+
+44:03.480 --> 44:05.240
+ And then as evening comes around
+
+44:05.240 --> 44:08.720
+ and I'm concerned about sleep and a good night's sleep,
+
+44:08.720 --> 44:09.980
+ not concerned in an anxious way,
+
+44:09.980 --> 44:11.640
+ but I want to get a good night's sleep,
+
+44:11.640 --> 44:14.600
+ I will ingest foods that promote serotonin release
+
+44:14.600 --> 44:16.520
+ because they contain a lot of tryptophan.
+
+44:16.520 --> 44:17.500
+ So if I do eat meat,
+
+44:17.500 --> 44:19.080
+ it would be like a white meat, turkey meat.
+
+44:19.080 --> 44:21.480
+ I don't tend to, I've never liked turkey.
+
+44:21.480 --> 44:25.160
+ I don't mind the animal, but I don't like ingesting the meat.
+
+44:25.160 --> 44:28.840
+ But starchy carbohydrates will increase serotonin.
+
+44:28.840 --> 44:32.240
+ Some people also will take serotonin.
+
+44:32.240 --> 44:35.280
+ You can now buy 5-HTP supplements.
+
+44:35.280 --> 44:36.700
+ This is a little bit tricky.
+
+44:36.700 --> 44:40.720
+ 5-HTP supplements can of course increase 5-HTP.
+
+44:40.720 --> 44:43.480
+ It is 5-HTP or serotonin,
+
+44:43.480 --> 44:46.360
+ but that sometimes can create problems
+
+44:46.360 --> 44:49.640
+ in endogenous or self-made production of serotonin.
+
+44:49.640 --> 44:52.160
+ So I'm never a fan of taking things
+
+44:52.160 --> 44:54.440
+ very close to the chemical you're trying to increase
+
+44:54.440 --> 44:57.800
+ for very long periods of time, maybe for occasional use.
+
+44:57.800 --> 45:00.700
+ I have the problem that if I take serotonin supplements,
+
+45:00.700 --> 45:04.120
+ 5-HTP, I fall asleep, the sleep I have is very intense
+
+45:04.120 --> 45:05.640
+ and I wake up three or four hours later.
+
+45:05.640 --> 45:08.160
+ And we know based on sleep studies
+
+45:08.160 --> 45:09.660
+ with good measurements in the lab
+
+45:09.660 --> 45:12.040
+ that serotonin release tends to be
+
+45:12.040 --> 45:13.520
+ in the later part of the night.
+
+45:13.520 --> 45:15.200
+ And so by taking it early in the night,
+
+45:15.200 --> 45:17.240
+ it really can disrupt the pattern of sleep
+
+45:17.240 --> 45:18.440
+ and the depth of sleep.
+
+45:18.440 --> 45:21.420
+ Nonetheless, some people are interested in taking serotonin
+
+45:21.420 --> 45:23.980
+ to get some of the more blissed out effects.
+
+45:23.980 --> 45:25.760
+ You can achieve that with foods, as I mentioned,
+
+45:25.760 --> 45:27.420
+ that are carbohydrate rich.
+
+45:27.420 --> 45:28.260
+ So as you're seeing,
+
+45:28.260 --> 45:30.400
+ this isn't really a discussion about nutrition per se.
+
+45:30.400 --> 45:31.880
+ This is a discussion about food,
+
+45:31.880 --> 45:33.760
+ which contains amino acids.
+
+45:33.760 --> 45:36.440
+ Amino acids being the precursors to neuromodulators
+
+45:36.440 --> 45:39.320
+ and neuromodulators having a profound effect
+
+45:39.320 --> 45:42.360
+ on your overall state of alertness or calmness,
+
+45:42.360 --> 45:44.440
+ happiness, sadness, and wellbeing.
+
+45:44.440 --> 45:47.600
+ So there are a number of things that one can take.
+
+45:47.600 --> 45:50.160
+ As I mentioned, one of them being 5-HTP itself.
+
+45:50.160 --> 45:52.520
+ Now I'm not recommending people take anything,
+
+45:52.520 --> 45:55.480
+ but if you're interested in what this does
+
+45:55.480 --> 45:56.640
+ and you want to explore this,
+
+45:56.640 --> 45:58.760
+ of course you'd want permission from your doctor.
+
+45:58.760 --> 46:00.680
+ You can go to this free website.
+
+46:00.680 --> 46:02.280
+ I love this resource.
+
+46:02.280 --> 46:03.400
+ They don't pay me to say that,
+
+46:03.400 --> 46:04.660
+ but I just love this resource.
+
+46:04.660 --> 46:07.540
+ I followed it for a long time called examine.com.
+
+46:08.760 --> 46:10.640
+ Thank you folks at examine.com
+
+46:10.640 --> 46:12.420
+ for putting this free resource out on the web
+
+46:12.420 --> 46:14.120
+ that has links through what they call
+
+46:14.120 --> 46:16.040
+ the human effect matrix.
+
+46:16.040 --> 46:18.040
+ So it's links to all the PubMed studies
+
+46:18.040 --> 46:20.280
+ for particular effects of particular compounds
+
+46:20.280 --> 46:21.360
+ that one can buy and ingest.
+
+46:21.360 --> 46:23.920
+ Incredible, as well as important health warnings.
+
+46:23.920 --> 46:25.160
+ So I'm not going to read through everything,
+
+46:25.160 --> 46:27.760
+ but if you were to go to examine.com, as I have now,
+
+46:27.760 --> 46:30.280
+ and you'd put in 5-HTP,
+
+46:30.280 --> 46:32.520
+ they're only looking at things that have strong evidence.
+
+46:32.520 --> 46:37.520
+ PubMed articles, articles are in the PubMed archives.
+
+46:37.520 --> 46:39.520
+ So for instance, I didn't know this,
+
+46:39.520 --> 46:44.000
+ but 5-HTP produces a notable decrease in appetite.
+
+46:44.000 --> 46:45.360
+ Three studies.
+
+46:45.360 --> 46:48.000
+ And this appetite suppression makes sense, of course,
+
+46:48.000 --> 46:51.440
+ because we ingest foods to get serotonin.
+
+46:51.440 --> 46:53.400
+ And if we have enough serotonin,
+
+46:53.400 --> 46:55.700
+ then there's no reason to ingest more foods.
+
+46:55.700 --> 46:57.560
+ It tends to have a blunting of appetite.
+
+46:57.560 --> 46:59.640
+ It probably does that also through other mechanisms.
+
+46:59.640 --> 47:01.160
+ So I'm not saying you should do this,
+
+47:01.160 --> 47:03.360
+ but if someone's trying to blunt their appetite,
+
+47:03.360 --> 47:05.740
+ it could be a interesting route.
+
+47:05.740 --> 47:07.800
+ Although I don't recommend chronic use.
+
+47:08.760 --> 47:11.960
+ Not surprisingly, there's a decrease in body weight
+
+47:11.960 --> 47:14.120
+ as a consequence, an increase in cortisol.
+
+47:14.120 --> 47:15.960
+ So that's kind of important to note
+
+47:15.960 --> 47:18.320
+ that when you typically in biology,
+
+47:18.320 --> 47:20.600
+ if you pull on one string really hard, another one moves,
+
+47:20.600 --> 47:21.880
+ it's a little bit like a puppet
+
+47:21.880 --> 47:24.040
+ and there's more than one string on the puppet.
+
+47:24.040 --> 47:26.400
+ So it does seem to increase cortisol,
+
+47:26.400 --> 47:27.880
+ though they report as a minor effect.
+
+47:27.880 --> 47:30.160
+ Again, links to all those studies are there,
+
+47:30.160 --> 47:32.460
+ which is why I'm not listing them out in our caption notes.
+
+47:32.460 --> 47:34.280
+ You can go and get them at examine.com,
+
+47:34.280 --> 47:36.700
+ put in serotonin and you'll find that.
+
+47:36.700 --> 47:40.880
+ So I find it fascinating that nowadays
+
+47:40.880 --> 47:44.980
+ there are things that are somewhere between doing nothing,
+
+47:44.980 --> 47:47.440
+ getting serotonin from tryptophan in foods
+
+47:47.440 --> 47:48.560
+ and prescription drugs.
+
+47:48.560 --> 47:51.080
+ There's this other category of supplements
+
+47:51.080 --> 47:53.840
+ that are really interesting for modulating
+
+47:53.840 --> 47:55.200
+ these chemicals in the body.
+
+47:55.200 --> 47:57.180
+ And I should mention before I move on,
+
+47:57.180 --> 47:58.480
+ because I mentioned L-tyrosine,
+
+47:58.480 --> 48:00.480
+ I neglected to mention earlier
+
+48:00.480 --> 48:02.080
+ in our discussion about dopamine.
+
+48:02.080 --> 48:04.140
+ If you're interested in the dopamine pathway,
+
+48:04.140 --> 48:08.240
+ go to examine.com, put in mucuna pruriens,
+
+48:08.240 --> 48:11.320
+ it's M-U-C-U-N-A,
+
+48:11.320 --> 48:16.000
+ P separate word, P-R-U-R-I-E-N-S.
+
+48:17.000 --> 48:20.080
+ It is a velvet bean that grows from vines
+
+48:20.080 --> 48:23.460
+ and is very itchy to touch due to serotonin on its surface.
+
+48:23.460 --> 48:25.900
+ Amazing, this bean has serotonin on its surface.
+
+48:25.900 --> 48:29.040
+ And indeed serotonin, if you were to put it on your skin,
+
+48:29.040 --> 48:31.620
+ would cause some irritation of the skin, amazing.
+
+48:31.620 --> 48:35.240
+ Inside the bean is L-DOPA.
+
+48:35.240 --> 48:37.800
+ Mucuna pruriens is not just something
+
+48:37.800 --> 48:39.640
+ that promotes dopamine release
+
+48:39.640 --> 48:42.720
+ because of some weird mystical ancient thing
+
+48:42.720 --> 48:44.520
+ or whatever, or sorcery.
+
+48:44.520 --> 48:49.320
+ It is chemically L-DOPA, the precursor to dopamine.
+
+48:49.320 --> 48:51.480
+ It contains some other molecules as well
+
+48:51.480 --> 48:53.840
+ and low levels of other psychoactives.
+
+48:53.840 --> 48:56.720
+ This stuff is available over the counter, incredible.
+
+48:56.720 --> 48:58.280
+ I personally find it incredible.
+
+48:59.140 --> 49:00.580
+ Its effects are really interesting.
+
+49:00.580 --> 49:01.940
+ I'm not going to read them all off,
+
+49:01.940 --> 49:03.460
+ but I mentioned these effects
+
+49:03.460 --> 49:05.240
+ not because I'm encouraging you to take it,
+
+49:05.240 --> 49:06.760
+ but because you get a window
+
+49:06.760 --> 49:10.320
+ into what acute dopamine increase does
+
+49:10.320 --> 49:12.840
+ in the non-Parkinsonian context.
+
+49:12.840 --> 49:14.600
+ And you can start to think about foods
+
+49:14.600 --> 49:16.560
+ that are rich in L-tyrosine
+
+49:16.560 --> 49:20.100
+ as biasing certain effects or not others.
+
+49:20.100 --> 49:21.400
+ So when you hear food is medicine,
+
+49:21.400 --> 49:23.420
+ food isn't really medicine, food is food,
+
+49:23.420 --> 49:25.880
+ but food has these chemical effects as well.
+
+49:25.880 --> 49:30.880
+ So first one listed is three studies with very high rigor
+
+49:32.600 --> 49:35.760
+ that overall have a minor effect on,
+
+49:35.760 --> 49:37.300
+ of all things, sperm quality.
+
+49:37.300 --> 49:39.840
+ So it appears that sperm motility itself,
+
+49:39.840 --> 49:41.320
+ I'm assuming when they say sperm quality,
+
+49:41.320 --> 49:43.260
+ I don't know what features of sperm of quality
+
+49:43.260 --> 49:44.100
+ they looked at with sperm.
+
+49:44.100 --> 49:45.740
+ That's not a discussion I want to have,
+
+49:45.740 --> 49:47.240
+ but I'm assuming it's motility
+
+49:47.240 --> 49:49.920
+ because I know enough about reproductive biology
+
+49:49.920 --> 49:52.880
+ to know that sperm ability to swim
+
+49:52.880 --> 49:54.840
+ depends on some proteins that are present
+
+49:54.840 --> 49:56.560
+ in the front of the sperm, et cetera,
+
+49:56.560 --> 49:58.000
+ things like pentraxins,
+
+49:58.000 --> 50:00.920
+ and sperm motility is generally associated
+
+50:00.920 --> 50:02.120
+ with sperm quality.
+
+50:02.120 --> 50:05.600
+ Sperm that don't move are generally not very useful sperm.
+
+50:05.600 --> 50:07.260
+ Symptoms of Parkinson disease
+
+50:07.260 --> 50:10.120
+ are notably degraded with macuna purines.
+
+50:10.120 --> 50:12.120
+ So fascinating, that's not surprising.
+
+50:12.120 --> 50:13.840
+ And there are a lot of other effects here,
+
+50:13.840 --> 50:16.320
+ feelings of subjective wellbeing, testosterone,
+
+50:16.320 --> 50:18.840
+ reductions in prolactin, not surprising.
+
+50:18.840 --> 50:22.240
+ Prolactin is a hormone that's involved in milk letdown,
+
+50:22.240 --> 50:24.480
+ it's in lactating mothers,
+
+50:24.480 --> 50:26.960
+ it's involved in feelings of peace
+
+50:26.960 --> 50:30.920
+ and generally is antagonistic to sexual desire
+
+50:30.920 --> 50:33.280
+ in both men and female.
+
+50:33.280 --> 50:37.200
+ So it's really interesting that things like macuna purines,
+
+50:37.200 --> 50:40.260
+ which are L-DOPA, reduced prolactin, increased motility,
+
+50:40.260 --> 50:42.180
+ increased testosterone, subjective wellbeing.
+
+50:42.180 --> 50:44.000
+ So you're starting to see a theme, right?
+
+50:44.000 --> 50:47.160
+ Dopamine really makes us motivated, feel in pursuit,
+
+50:47.160 --> 50:48.240
+ makes us feel good.
+
+50:48.240 --> 50:51.760
+ Serotonin makes us feel more relaxed and calm.
+
+50:51.760 --> 50:53.480
+ Now, this whole month is about emotion.
+
+50:53.480 --> 50:54.960
+ So you might be thinking, well, wait,
+
+50:54.960 --> 50:57.240
+ where are we going with all this as it relates to emotions?
+
+50:57.240 --> 50:59.540
+ But in the last episode,
+
+50:59.540 --> 51:01.840
+ I said something I'm going to repeat it now briefly,
+
+51:01.840 --> 51:04.120
+ which is that much of what we talk about
+
+51:04.120 --> 51:06.040
+ as good emotions or bad emotions,
+
+51:06.040 --> 51:08.640
+ there's a context to that, there's a social context.
+
+51:08.640 --> 51:11.400
+ You can't really say an emotion is good or bad,
+
+51:11.400 --> 51:14.480
+ grieving at a funeral is healthy, okay?
+
+51:14.480 --> 51:16.480
+ Being happy at a funeral,
+
+51:16.480 --> 51:18.560
+ assuming you loved the person that died,
+
+51:18.560 --> 51:21.580
+ is most people probably wouldn't think that was healthy.
+
+51:21.580 --> 51:25.800
+ So we can't really say that certain emotions like sadness
+
+51:25.800 --> 51:28.160
+ or happiness are healthy, its context is important.
+
+51:28.160 --> 51:29.920
+ Cultural context is important.
+
+51:29.920 --> 51:31.920
+ Many of you have asked for book recommendations.
+
+51:31.920 --> 51:35.100
+ This is an opportunity to raise a mention of another book.
+
+51:35.100 --> 51:38.260
+ Again, I don't have any financial affiliation or anything,
+
+51:38.260 --> 51:40.280
+ but if you want to read more about emotions
+
+51:40.280 --> 51:44.360
+ and how the context and cultural things impact our emotions,
+
+51:44.360 --> 51:47.000
+ I'm a huge fan of Lisa Feldman Barrett.
+
+51:47.000 --> 51:49.440
+ I learned about her from the Lex Fridman podcast.
+
+51:50.700 --> 51:52.720
+ I've had discussions with her on my Instagram live.
+
+51:52.720 --> 51:56.040
+ She's at Northeastern University, a world expert in emotions.
+
+51:56.040 --> 51:58.440
+ Her first book is How Emotions Are Made.
+
+51:58.440 --> 51:59.580
+ This is not a book she sent me.
+
+51:59.580 --> 52:02.640
+ I paid for this with my own money years ago,
+
+52:02.640 --> 52:05.720
+ bought it, read it, loved it long before I met Lisa.
+
+52:05.720 --> 52:06.760
+ I'm just delighted that we've got
+
+52:06.760 --> 52:08.060
+ to known each other a little bit.
+
+52:08.060 --> 52:10.320
+ It's a really interesting read into the psychology
+
+52:10.320 --> 52:13.720
+ of emotions and some of the subjectivity of emotions.
+
+52:13.720 --> 52:16.800
+ So whereas I'm talking about mainly the biology of emotions,
+
+52:16.800 --> 52:18.880
+ this gets a little bit more into the psychology
+
+52:18.880 --> 52:21.160
+ of the biology as well.
+
+52:21.160 --> 52:23.200
+ And Lisa is just terrific.
+
+52:23.200 --> 52:24.560
+ She's also putting a lot of information
+
+52:24.560 --> 52:25.920
+ out into the world about emotions.
+
+52:25.920 --> 52:29.920
+ So if you want to learn more about that, check out her work.
+
+52:29.920 --> 52:32.040
+ Again, it's Lisa Feldman Barrett
+
+52:32.040 --> 52:34.120
+ and that book is How Emotions Are Made.
+
+52:34.120 --> 52:37.520
+ Hopefully she'll continue to write many more books.
+
+52:37.520 --> 52:41.680
+ So now you understand the relationship, I hope,
+
+52:41.680 --> 52:46.200
+ between foods and dopamine, foods and serotonin
+
+52:46.200 --> 52:47.920
+ and that they're both being communicated
+
+52:47.920 --> 52:49.640
+ to the brain via the vagus, right?
+
+52:49.640 --> 52:51.120
+ We ingest these foods.
+
+52:51.120 --> 52:53.680
+ These supplements are things people take.
+
+52:53.680 --> 52:55.520
+ They don't put them directly into the brain.
+
+52:55.520 --> 52:56.440
+ They put them in our gut.
+
+52:56.440 --> 52:58.640
+ So yes, there's a gut brain connection
+
+52:58.640 --> 53:01.760
+ but it's not about the serotonin in the gut
+
+53:01.760 --> 53:04.160
+ that makes you feel calm and placid.
+
+53:04.160 --> 53:07.560
+ It's not about the dopamine in the gut.
+
+53:07.560 --> 53:09.760
+ It's just been oversold that way
+
+53:09.760 --> 53:11.720
+ because I think there's something really attractive
+
+53:11.720 --> 53:14.160
+ and I understand about the idea
+
+53:14.160 --> 53:18.060
+ that because certain things about our experience of life
+
+53:18.060 --> 53:19.620
+ and our emotions is happening in our body
+
+53:19.620 --> 53:21.720
+ that maybe we have a little more control, right?
+
+53:21.720 --> 53:23.400
+ Because this thing is a hard container.
+
+53:23.400 --> 53:25.100
+ We can't just stuff some dopamine in there.
+
+53:25.100 --> 53:26.320
+ I can't just, you know,
+
+53:26.320 --> 53:28.760
+ I could probably take a macuna purines bean
+
+53:28.760 --> 53:29.760
+ and stuff it in my ear.
+
+53:29.760 --> 53:30.600
+ Please don't do that.
+
+53:30.600 --> 53:31.520
+ It'd make my ear itchy
+
+53:31.520 --> 53:32.960
+ because of the serotonin on the outside.
+
+53:32.960 --> 53:34.480
+ But you can't get stuff in there.
+
+53:34.480 --> 53:36.280
+ What you have to do is ingest things
+
+53:36.280 --> 53:38.360
+ that are metabolized in certain ways
+
+53:38.360 --> 53:40.440
+ that communicate to the brain
+
+53:40.440 --> 53:43.300
+ or so maybe they pass into the brain themselves
+
+53:43.300 --> 53:45.680
+ across what's called the blood brain barrier.
+
+53:45.680 --> 53:48.280
+ I'll talk about the blood brain barrier in a minute.
+
+53:48.280 --> 53:49.800
+ It's actually called the BBB.
+
+53:49.800 --> 53:51.800
+ So it ends up sounding like baby, BBB.
+
+53:53.360 --> 53:54.920
+ I guess that's like BB.
+
+53:54.920 --> 53:57.720
+ Anyway, BBB.
+
+53:57.720 --> 53:59.960
+ But there are also nerves in the gut
+
+53:59.960 --> 54:02.680
+ that are sensing the nutrient contents of food
+
+54:02.680 --> 54:05.160
+ and then saying, oh, you should feel better and want more.
+
+54:05.160 --> 54:09.880
+ Oh, that's got a lot of bitterness and acid taste to it.
+
+54:09.880 --> 54:12.080
+ You should want less of that, okay?
+
+54:12.080 --> 54:14.080
+ So as I transition out of the discussion
+
+54:14.080 --> 54:16.880
+ about dopamine and serotonin and the gut,
+
+54:16.880 --> 54:19.160
+ hopefully you've got some actionable items there
+
+54:19.160 --> 54:21.380
+ under your belt, pun intended,
+
+54:21.380 --> 54:23.960
+ where you can understand how certain foods
+
+54:23.960 --> 54:26.040
+ and certain nutrients and you can look these up
+
+54:26.040 --> 54:27.840
+ might impact your mood.
+
+54:27.840 --> 54:30.600
+ If you're somebody who's really anxious and really wired,
+
+54:30.600 --> 54:32.880
+ well, then the dopamine adrenaline pathway,
+
+54:32.880 --> 54:34.440
+ epinephrine pathway is probably not one
+
+54:34.440 --> 54:36.880
+ that you want to lean on any harder.
+
+54:36.880 --> 54:39.320
+ If you tend to be someone who's pretty passive
+
+54:39.320 --> 54:40.760
+ and you're having trouble with motivation,
+
+54:40.760 --> 54:44.320
+ well, then think about ramping up the dopamine pathway.
+
+54:44.320 --> 54:46.920
+ I always think behaviors and proper food choices
+
+54:46.920 --> 54:48.200
+ is the best way to start
+
+54:48.200 --> 54:51.340
+ and behaviors include things like exercise, et cetera.
+
+54:51.340 --> 54:53.280
+ But one of the problems with the discussion
+
+54:53.280 --> 54:57.200
+ around mood and exercise or mood and meditation
+
+54:57.200 --> 54:59.480
+ is that it's so subjective.
+
+54:59.480 --> 55:01.920
+ It's like, I love certain forms of exercise and not others.
+
+55:01.920 --> 55:03.320
+ Certain ones are aversive to me.
+
+55:03.320 --> 55:05.000
+ Certain ones are attractive to me.
+
+55:05.000 --> 55:06.000
+ And it's never really clear.
+
+55:06.000 --> 55:07.200
+ No one's ever told me, okay,
+
+55:07.200 --> 55:09.760
+ you have to do 10 minutes on the bike
+
+55:09.760 --> 55:12.940
+ at X number of RPM at so-and-so or on the skier
+
+55:12.940 --> 55:14.460
+ in order to get your dopamine up.
+
+55:14.460 --> 55:18.680
+ But we can actually say if you ingest more L-tyrosine,
+
+55:18.680 --> 55:19.920
+ there's a high probability
+
+55:19.920 --> 55:22.240
+ that you're going to make more dopamine.
+
+55:22.240 --> 55:23.600
+ And I'm talking about ingesting it through food
+
+55:23.600 --> 55:25.440
+ or through supplementation, if you like.
+
+55:25.440 --> 55:28.520
+ Macuna purines I've tried, I should just mention,
+
+55:28.520 --> 55:30.540
+ it was too dopaminergic for me.
+
+55:30.540 --> 55:33.280
+ I really, really jazzed up
+
+55:33.280 --> 55:36.560
+ and then severe crash for me the next day.
+
+55:36.560 --> 55:39.320
+ But that's, I think, because I tend to ride pretty high
+
+55:39.320 --> 55:41.320
+ on the kind of alertness and motivation scale.
+
+55:41.320 --> 55:43.640
+ I'm always being told by Costello
+
+55:43.640 --> 55:44.960
+ and other people in the podcast studio
+
+55:44.960 --> 55:46.640
+ to slow my speech down.
+
+55:46.640 --> 55:48.440
+ This is me uncaffeinated
+
+55:48.440 --> 55:49.860
+ and I could probably afford
+
+55:49.860 --> 55:51.760
+ a little more serotonin in my life.
+
+55:51.760 --> 55:54.520
+ So whereas Costello, he could afford,
+
+55:54.520 --> 55:57.440
+ well, he could afford to wake up every couple of days
+
+55:57.440 --> 55:58.680
+ and just say hello to us.
+
+55:58.680 --> 56:01.560
+ This dog sleeps more than any other creature.
+
+56:01.560 --> 56:02.660
+ It's remarkable.
+
+56:03.600 --> 56:06.960
+ So there are things that we can do and they're actionable
+
+56:06.960 --> 56:09.520
+ and they are, in some ways they're quantitative
+
+56:09.520 --> 56:11.120
+ because you can regulate dosages
+
+56:11.120 --> 56:13.500
+ and you can regulate amounts and you can regulate timing.
+
+56:13.500 --> 56:14.760
+ And everyone has to play with these things
+
+56:14.760 --> 56:17.400
+ and figure out what's right for them in terms of feeding.
+
+56:17.400 --> 56:19.680
+ And everyone has to explore
+
+56:19.680 --> 56:21.780
+ and understand what's safe and right for them.
+
+56:21.780 --> 56:25.000
+ But, and of course, exercise is still very important.
+
+56:25.000 --> 56:27.320
+ I talked about social connection in the last episode,
+
+56:27.320 --> 56:30.800
+ super important for activation of serotonin.
+
+56:30.800 --> 56:33.040
+ But when it comes to this gut brain,
+
+56:33.040 --> 56:36.440
+ body brain relationship, what we eat really matters
+
+56:36.440 --> 56:38.960
+ in terms of the neurochemicals that we make.
+
+56:38.960 --> 56:41.120
+ So let's talk a little bit more about things
+
+56:41.120 --> 56:43.680
+ that we ingest in our body and then allow our body
+
+56:43.680 --> 56:46.280
+ to inform our brain to shift our mood.
+
+56:46.280 --> 56:48.800
+ And this is something I've been doing for years
+
+56:48.800 --> 56:50.080
+ and I just want to say,
+
+56:50.080 --> 56:52.560
+ I've found to be a complete game changer.
+
+56:52.560 --> 56:55.120
+ There's excellent science to support it.
+
+56:55.120 --> 56:58.960
+ And I think most people are familiar with it
+
+56:58.960 --> 57:00.100
+ in a different context,
+
+57:00.100 --> 57:03.440
+ but I don't think most people know this simple fact,
+
+57:03.440 --> 57:08.440
+ which is that the omega-3 to omega-6 fatty acid ratio
+
+57:09.680 --> 57:12.600
+ has a profound effect on depression.
+
+57:12.600 --> 57:15.160
+ It has a profound effect on mood.
+
+57:15.160 --> 57:20.040
+ So much so that in a double blind placebo controlled study
+
+57:20.040 --> 57:21.220
+ that I will provide the link to,
+
+57:21.220 --> 57:23.300
+ this was a study first published in 2008,
+
+57:23.300 --> 57:25.240
+ but there've been many others as well.
+
+57:27.380 --> 57:29.740
+ First of all, in an experiment done in animals,
+
+57:29.740 --> 57:31.920
+ they found there's a model of learned helplessness
+
+57:31.920 --> 57:32.760
+ in animals.
+
+57:32.760 --> 57:33.840
+ It's not very kind to the animals,
+
+57:33.840 --> 57:35.680
+ but they put rats or mice in a jar.
+
+57:35.680 --> 57:38.440
+ They let them swim and they'll swim, swim, swim
+
+57:38.440 --> 57:39.440
+ to try and save their life.
+
+57:39.440 --> 57:40.560
+ And eventually they give up.
+
+57:40.560 --> 57:41.460
+ It's a learned helplessness.
+
+57:41.460 --> 57:42.320
+ They don't let them drown.
+
+57:42.320 --> 57:43.280
+ They take them out.
+
+57:44.620 --> 57:47.140
+ Adjusting the omega-3 omega-6 ratio
+
+57:47.140 --> 57:49.620
+ so that the omega-3s are higher
+
+57:49.620 --> 57:51.900
+ led to less learned helplessness,
+
+57:51.900 --> 57:54.080
+ meaning these animals would swim longer, okay?
+
+57:54.080 --> 57:55.640
+ Now that's an animal that's a rat,
+
+57:55.640 --> 57:57.960
+ not a particularly kind study,
+
+57:57.960 --> 58:01.440
+ but that same study was essentially done in humans,
+
+58:01.440 --> 58:02.680
+ although they didn't have them swim
+
+58:02.680 --> 58:04.480
+ to the point of near drowning.
+
+58:04.480 --> 58:07.680
+ What they did is they took people
+
+58:07.680 --> 58:10.600
+ who were clinically depressed, major depression, okay?
+
+58:10.600 --> 58:14.560
+ Major depression is severe maladaptive state,
+
+58:14.560 --> 58:17.900
+ meaning it inhibits job, relationships, appetite,
+
+58:17.900 --> 58:19.800
+ all sorts of negative health effects.
+
+58:19.800 --> 58:24.800
+ And they did a comparison of 1,000 milligrams a day of EPA.
+
+58:26.320 --> 58:29.280
+ So EPA is one of the elements
+
+58:29.280 --> 58:31.320
+ that contains high levels of omega-3s
+
+58:31.320 --> 58:32.820
+ that's in things like fish oil.
+
+58:32.820 --> 58:35.060
+ Talk about other sources in a little bit,
+
+58:35.060 --> 58:38.520
+ but it wasn't 1,000 milligrams of fish oil.
+
+58:38.520 --> 58:41.760
+ It was 1,000 milligrams of EPA.
+
+58:41.760 --> 58:45.240
+ Compare that to 20 milligrams of fluoxetine,
+
+58:45.240 --> 58:47.480
+ which is Prozac, okay?
+
+58:47.480 --> 58:49.440
+ Really increases serotonin.
+
+58:49.440 --> 58:52.280
+ And in this study of 60 individuals,
+
+58:52.280 --> 58:54.980
+ again, I'll provide the links to the study,
+
+58:56.260 --> 58:59.520
+ they found that they were equally effective
+
+58:59.520 --> 59:01.260
+ in reducing depressive symptoms.
+
+59:01.260 --> 59:03.080
+ So imagine that,
+
+59:03.080 --> 59:07.840
+ a food-based compound that you can't make without, right?
+
+59:07.840 --> 59:09.280
+ This is not a situation
+
+59:09.280 --> 59:10.960
+ where you can make your own omega-3s.
+
+59:10.960 --> 59:12.360
+ You have to get them from food sources
+
+59:12.360 --> 59:13.360
+ or from supplementation.
+
+59:13.360 --> 59:17.440
+ Was as effective as 20 milligrams of fluoxetine
+
+59:17.440 --> 59:19.400
+ over the course of eight weeks.
+
+59:19.400 --> 59:22.560
+ And what was really interesting in addition to that
+
+59:22.560 --> 59:26.320
+ is that the combination of 1,000 milligrams of EPA
+
+59:26.320 --> 59:28.480
+ and fluoxetine had a synergistic effect
+
+59:28.480 --> 59:30.320
+ in lowering depressive symptoms.
+
+59:30.320 --> 59:31.540
+ I find this remarkable.
+
+59:31.540 --> 59:35.360
+ I heard about this when it first came out
+
+59:35.360 --> 59:37.040
+ and I wasn't sure what to make of it
+
+59:37.040 --> 59:38.360
+ because there are a lot of studies that come out.
+
+59:38.360 --> 59:41.720
+ And I generally like to focus my changes in behavior
+
+59:41.720 --> 59:43.720
+ around things where there's a large center of mass.
+
+59:43.720 --> 59:45.180
+ There's a lot of information.
+
+59:46.240 --> 59:47.080
+ A couple of years later,
+
+59:47.080 --> 59:52.080
+ I did in fact start taking 1,000 milligrams per day of EPA
+
+59:52.120 --> 59:53.300
+ in fish oil.
+
+59:53.300 --> 59:57.000
+ Now, there are a few side effects of fish oil.
+
+59:57.000 --> 59:59.840
+ People who have blood, who are bleeders,
+
+59:59.840 --> 1:00:02.280
+ who have factor V Leiden mutations
+
+1:00:02.280 --> 1:00:05.620
+ or women who are taking birth control,
+
+1:00:05.620 --> 1:00:06.460
+ which can make you,
+
+1:00:06.460 --> 1:00:08.280
+ which can affect blood clotting and things of that sort
+
+1:00:08.280 --> 1:00:10.340
+ really should talk to your doctor,
+
+1:00:10.340 --> 1:00:12.080
+ make sure it's okay for you.
+
+1:00:12.080 --> 1:00:14.880
+ Fish oil also can give people fishy breath,
+
+1:00:14.880 --> 1:00:17.040
+ which is pretty gross, frankly,
+
+1:00:17.040 --> 1:00:18.800
+ but there are now fish oils that
+
+1:00:18.800 --> 1:00:20.360
+ either because of the encapsulations
+
+1:00:20.360 --> 1:00:24.960
+ or because they put some lemon flavoring in there
+
+1:00:24.960 --> 1:00:26.620
+ doesn't have that effect.
+
+1:00:26.620 --> 1:00:29.040
+ In any event, 1,000 milligrams per day of EPA,
+
+1:00:29.040 --> 1:00:30.720
+ I started ingesting that regularly.
+
+1:00:30.720 --> 1:00:31.620
+ I just felt better.
+
+1:00:31.620 --> 1:00:32.840
+ I wasn't clinically depressed,
+
+1:00:32.840 --> 1:00:35.680
+ but I generally, I did feel, at least for me,
+
+1:00:35.680 --> 1:00:37.780
+ an increase in mood and affect
+
+1:00:37.780 --> 1:00:39.040
+ and a number of other things.
+
+1:00:39.040 --> 1:00:40.340
+ It's supposed to reduce inflammation.
+
+1:00:40.340 --> 1:00:42.360
+ The cardiovascular effects are controversial.
+
+1:00:42.360 --> 1:00:44.180
+ For a long time, everyone thought
+
+1:00:44.180 --> 1:00:47.080
+ the effects on platelets were really terrific.
+
+1:00:47.080 --> 1:00:48.280
+ Then there were articles that came out
+
+1:00:48.280 --> 1:00:50.660
+ in major newspapers saying maybe not so much,
+
+1:00:50.660 --> 1:00:53.800
+ but the effects on mood are really profound.
+
+1:00:53.800 --> 1:00:56.120
+ And now there are lots of studies.
+
+1:00:56.120 --> 1:00:59.520
+ If you go into PubMed and you were to put EPA
+
+1:00:59.520 --> 1:01:01.280
+ or fish oil and depression,
+
+1:01:01.280 --> 1:01:03.040
+ you would find that there were a number
+
+1:01:03.040 --> 1:01:04.960
+ of really impressive results showing
+
+1:01:04.960 --> 1:01:06.720
+ that it's at least as effective
+
+1:01:06.720 --> 1:01:11.620
+ as certain SSRIs antidepressants at these dosages.
+
+1:01:11.620 --> 1:01:13.440
+ And it can amplify or improve
+
+1:01:13.440 --> 1:01:16.320
+ the effect of low dosages of some of these SSRIs.
+
+1:01:16.320 --> 1:01:18.220
+ So I feel like more people should know about this.
+
+1:01:18.220 --> 1:01:21.240
+ This is nutrition, but it's profoundly affecting mood.
+
+1:01:21.240 --> 1:01:23.160
+ And depression is terrible, right?
+
+1:01:23.160 --> 1:01:27.120
+ Depression can have a component of anxiety in some cases
+
+1:01:27.120 --> 1:01:30.680
+ where people are, they feel lousy and very uncertain.
+
+1:01:30.680 --> 1:01:32.720
+ That's kind of how I talk about depression with anxiety
+
+1:01:32.720 --> 1:01:34.520
+ is you talk to someone who's anxious
+
+1:01:34.520 --> 1:01:36.300
+ and you can tell them everything's going to be okay, okay.
+
+1:01:36.300 --> 1:01:39.360
+ And they're always concerned about what they might not know.
+
+1:01:39.360 --> 1:01:41.280
+ You don't really know the plane isn't going to crash.
+
+1:01:41.280 --> 1:01:43.880
+ You don't really know that life is going to go okay.
+
+1:01:43.880 --> 1:01:44.920
+ And in some sense, they're right.
+
+1:01:44.920 --> 1:01:47.680
+ No one has a crystal ball or can predict the future,
+
+1:01:47.680 --> 1:01:50.920
+ but they tend to perseverate or fixate on the uncertainty.
+
+1:01:50.920 --> 1:01:51.760
+ And then of course,
+
+1:01:51.760 --> 1:01:55.080
+ there are the versions of depression that involve certainty.
+
+1:01:55.080 --> 1:01:56.540
+ People are lethargic and they're certain.
+
+1:01:56.540 --> 1:01:57.860
+ They say, yeah, I'm certain
+
+1:01:57.860 --> 1:01:58.960
+ I'm never going to get another job.
+
+1:01:58.960 --> 1:02:00.580
+ I'm certain I'm never going to meet anyone new.
+
+1:02:00.580 --> 1:02:01.740
+ I'm certain I'm going to fail.
+
+1:02:01.740 --> 1:02:03.680
+ So there's this kind of a divide
+
+1:02:03.680 --> 1:02:05.480
+ in the sphere of depression
+
+1:02:05.480 --> 1:02:06.840
+ around certainty and uncertainty.
+
+1:02:06.840 --> 1:02:10.680
+ But what's interesting is this 1,000 milligrams per day
+
+1:02:10.680 --> 1:02:12.200
+ or more of EPA
+
+1:02:12.200 --> 1:02:16.280
+ has been shown to relieve both forms of depression.
+
+1:02:16.280 --> 1:02:18.480
+ Now, does that mean it's going to work for everybody?
+
+1:02:18.480 --> 1:02:20.640
+ No, I'm not here to try and play psychiatrist.
+
+1:02:20.640 --> 1:02:23.520
+ I want to point you in the direction of these manuscripts
+
+1:02:23.520 --> 1:02:26.140
+ so that you can make informed choices for yourself.
+
+1:02:26.140 --> 1:02:28.140
+ You can discuss it with your doctor and family
+
+1:02:28.140 --> 1:02:30.420
+ and make the choices that are right for you.
+
+1:02:30.420 --> 1:02:32.540
+ But here's what's especially interesting
+
+1:02:32.540 --> 1:02:33.480
+ about the heart effects,
+
+1:02:33.480 --> 1:02:36.880
+ because we've heard that these omega-3s,
+
+1:02:36.880 --> 1:02:38.880
+ which of course you can get from other sources too.
+
+1:02:38.880 --> 1:02:40.240
+ You can get from fatty fish.
+
+1:02:40.240 --> 1:02:42.840
+ There are flax seeds, hemp seeds.
+
+1:02:44.440 --> 1:02:47.960
+ There are a number of chia seeds, these kinds of things.
+
+1:02:47.960 --> 1:02:51.320
+ But the levels of EPA that are required are quite high.
+
+1:02:51.320 --> 1:02:53.600
+ So this 1,000 milligrams per day,
+
+1:02:53.600 --> 1:02:55.140
+ that's pretty hard to get from food,
+
+1:02:55.140 --> 1:02:58.480
+ although it can be done depending on what you're eating.
+
+1:02:58.480 --> 1:03:02.360
+ What's interesting is that the heart effects
+
+1:03:02.360 --> 1:03:05.720
+ that are solid, that really stand up in the literature
+
+1:03:05.720 --> 1:03:07.860
+ have a lot more to do with something we talked about
+
+1:03:07.860 --> 1:03:09.600
+ in a previous episode and I'll mention again,
+
+1:03:09.600 --> 1:03:11.640
+ which is heart rate variability.
+
+1:03:11.640 --> 1:03:14.000
+ So we know that having a heart rate that's really high
+
+1:03:14.000 --> 1:03:15.600
+ or a heart rate that's really low,
+
+1:03:15.600 --> 1:03:17.020
+ neither of those are good.
+
+1:03:17.020 --> 1:03:17.860
+ A lot of people think,
+
+1:03:17.860 --> 1:03:20.640
+ oh, you just want a low heart rate, big stroke volume.
+
+1:03:20.640 --> 1:03:22.040
+ You know, if you're running a lot,
+
+1:03:22.040 --> 1:03:24.160
+ you may have 30 or 40 beats per minute.
+
+1:03:24.160 --> 1:03:25.440
+ That's great to be in shape,
+
+1:03:25.440 --> 1:03:27.720
+ but you still want heart rate variability.
+
+1:03:27.720 --> 1:03:29.320
+ It has a lot to do with the tone
+
+1:03:29.320 --> 1:03:31.240
+ of the autonomic nervous system.
+
+1:03:31.240 --> 1:03:33.140
+ Talked about last time how when you inhale,
+
+1:03:33.140 --> 1:03:34.280
+ it speeds up heart rate.
+
+1:03:34.280 --> 1:03:35.840
+ When you exhale, it decreases heart rate.
+
+1:03:35.840 --> 1:03:38.600
+ That's called respiratory sinus arrhythmia.
+
+1:03:38.600 --> 1:03:41.000
+ That's the basis of heart rate variability.
+
+1:03:41.000 --> 1:03:42.500
+ We'll maybe do a short post about this
+
+1:03:42.500 --> 1:03:44.320
+ so you can get all the mechanism
+
+1:03:44.320 --> 1:03:46.880
+ and the behaviors that spill out of that
+
+1:03:46.880 --> 1:03:48.200
+ that might be useful for you.
+
+1:03:48.200 --> 1:03:51.760
+ But the point is heart rate variability, HRV, is good.
+
+1:03:51.760 --> 1:03:54.880
+ And what's interesting is that there was a study in 2009
+
+1:03:54.880 --> 1:03:58.600
+ that showed that people who eat a diet
+
+1:03:58.600 --> 1:04:00.480
+ and fail to supplement in a way
+
+1:04:00.480 --> 1:04:03.240
+ that there's a high omega-6 to 3 ratio,
+
+1:04:03.240 --> 1:04:05.240
+ so not enough omega-3s,
+
+1:04:05.240 --> 1:04:08.600
+ not only are there markers of inflammatory cytokines
+
+1:04:08.600 --> 1:04:11.500
+ elevated things like IL-6 and TNF-alpha,
+
+1:04:11.500 --> 1:04:15.540
+ but they tend to be non-responders to antidepressants.
+
+1:04:16.440 --> 1:04:19.880
+ Shifting that omega-3 omega-6 ratio did a couple things.
+
+1:04:19.880 --> 1:04:22.680
+ First of all, increasing the amount of EPA,
+
+1:04:22.680 --> 1:04:24.960
+ shifted the ratio so it was higher omega-3
+
+1:04:24.960 --> 1:04:27.480
+ to omega-6 ratio, which was good,
+
+1:04:27.480 --> 1:04:29.360
+ lowered the inflammation markers,
+
+1:04:29.360 --> 1:04:32.400
+ and then allowed antidepressants to have their effect
+
+1:04:32.400 --> 1:04:34.000
+ even at low doses.
+
+1:04:34.000 --> 1:04:36.080
+ And here's the really interesting thing.
+
+1:04:36.080 --> 1:04:40.040
+ It worked by increasing heart rate variability.
+
+1:04:40.040 --> 1:04:42.680
+ And you think, well, how in the world would this happen?
+
+1:04:42.680 --> 1:04:45.720
+ But that's a ton of effects.
+
+1:04:45.720 --> 1:04:48.600
+ But the way it works is because of the way
+
+1:04:48.600 --> 1:04:50.540
+ that these things are impacting the gut
+
+1:04:50.540 --> 1:04:51.960
+ and the autonomic nervous system.
+
+1:04:51.960 --> 1:04:55.200
+ Remember earlier I said the vagus includes connections
+
+1:04:55.200 --> 1:04:57.780
+ from the heart signaling about sensory information
+
+1:04:57.780 --> 1:05:00.360
+ about how fast the heart is beating to the brain,
+
+1:05:00.360 --> 1:05:01.560
+ not just stuff from the lungs,
+
+1:05:01.560 --> 1:05:03.560
+ but information from the heart.
+
+1:05:03.560 --> 1:05:05.400
+ And the brain then adjusts heart rate
+
+1:05:05.400 --> 1:05:07.120
+ by heart rate variability.
+
+1:05:07.120 --> 1:05:09.280
+ So it's incredible that there's a way
+
+1:05:09.280 --> 1:05:12.080
+ that one can use the gut,
+
+1:05:12.080 --> 1:05:14.280
+ the ingestion of more of these EPAs,
+
+1:05:14.280 --> 1:05:16.280
+ either through food or supplementation,
+
+1:05:16.280 --> 1:05:19.000
+ to increase heart rate variability
+
+1:05:19.000 --> 1:05:22.800
+ and thereby to improve symptoms,
+
+1:05:22.800 --> 1:05:25.080
+ meaning reduce symptoms of depression,
+
+1:05:25.080 --> 1:05:28.560
+ and to even make low levels of antidepressants
+
+1:05:28.560 --> 1:05:30.480
+ that wouldn't otherwise work work.
+
+1:05:30.480 --> 1:05:32.640
+ And I think I like this study so much
+
+1:05:32.640 --> 1:05:34.400
+ because A, it's super cool.
+
+1:05:34.400 --> 1:05:36.140
+ It bridges the brain-body axis.
+
+1:05:36.140 --> 1:05:39.400
+ It incorporates nutrition and micronutrients in the brain,
+
+1:05:39.400 --> 1:05:42.080
+ but also because it really points to something
+
+1:05:42.080 --> 1:05:43.480
+ that we hear all the time,
+
+1:05:43.480 --> 1:05:45.140
+ which is that our body is a whole system.
+
+1:05:45.140 --> 1:05:45.980
+ It's working as a whole system.
+
+1:05:45.980 --> 1:05:47.960
+ And the brain isn't working in isolation
+
+1:05:47.960 --> 1:05:49.400
+ up there in the skull.
+
+1:05:49.400 --> 1:05:51.800
+ It's reacting to things that are happening in the body,
+
+1:05:51.800 --> 1:05:53.180
+ in the gut, and in the heart rate,
+
+1:05:53.180 --> 1:05:54.400
+ and heart rate variability,
+
+1:05:54.400 --> 1:05:55.680
+ and that the things we ingest
+
+1:05:55.680 --> 1:05:57.520
+ can have a profound effect on them.
+
+1:05:57.520 --> 1:06:00.260
+ Now, of course, I really want to emphasize something,
+
+1:06:00.260 --> 1:06:04.780
+ which is that no one compound or nutrient
+
+1:06:04.780 --> 1:06:08.560
+ or supplement or drug or behavior for that matter
+
+1:06:08.560 --> 1:06:11.400
+ is going to be the be all end all
+
+1:06:11.400 --> 1:06:13.840
+ of shifting out of depression
+
+1:06:13.840 --> 1:06:16.760
+ or improving one's mood or improving sleep.
+
+1:06:16.760 --> 1:06:18.520
+ It's a constellation of things.
+
+1:06:18.520 --> 1:06:20.120
+ And this is especially true
+
+1:06:20.120 --> 1:06:22.200
+ when people start to get excited about supplements
+
+1:06:22.200 --> 1:06:23.680
+ and drugs of all kinds
+
+1:06:23.680 --> 1:06:25.280
+ and their potential for various things.
+
+1:06:25.280 --> 1:06:27.480
+ Right now, there's a lot of excitement about psychedelics
+
+1:06:27.480 --> 1:06:29.400
+ and their therapeutic uses, and I think great.
+
+1:06:29.400 --> 1:06:33.040
+ But as a good friend of mine who's a physician clinician
+
+1:06:33.040 --> 1:06:36.220
+ says better living through chemistry
+
+1:06:36.220 --> 1:06:38.360
+ still requires better living.
+
+1:06:38.360 --> 1:06:41.260
+ You cannot expect to take a compound
+
+1:06:41.260 --> 1:06:43.640
+ regardless of source or potency
+
+1:06:43.640 --> 1:06:46.760
+ and have it completely shift your experience of life
+
+1:06:46.760 --> 1:06:48.680
+ without having to continue to engage
+
+1:06:48.680 --> 1:06:50.880
+ in the proper behaviors, all the things we know,
+
+1:06:50.880 --> 1:06:54.440
+ proper sleep, exercise, social connection, food, et cetera.
+
+1:06:54.440 --> 1:06:56.400
+ There are many others as well.
+
+1:06:56.400 --> 1:07:00.800
+ So I still find that this collection of studies
+
+1:07:00.800 --> 1:07:04.180
+ about omega-3 to omega-6 ratios to be profoundly important,
+
+1:07:04.180 --> 1:07:05.980
+ so much so that it's completely changed the way
+
+1:07:05.980 --> 1:07:09.260
+ that I think about food, the foods I eat, I do supplement.
+
+1:07:09.260 --> 1:07:11.800
+ I don't necessarily think that's for everybody,
+
+1:07:11.800 --> 1:07:14.740
+ but I really think it's incredible
+
+1:07:14.740 --> 1:07:15.680
+ that there are these compounds
+
+1:07:15.680 --> 1:07:17.120
+ that have these robust effects
+
+1:07:17.120 --> 1:07:18.960
+ on our feelings of wellbeing.
+
+1:07:18.960 --> 1:07:20.640
+ And there are others too.
+
+1:07:20.640 --> 1:07:23.340
+ So that 1,000 milligram per day threshold
+
+1:07:23.340 --> 1:07:25.600
+ of fish oil that's beneficial
+
+1:07:25.600 --> 1:07:28.760
+ requires that one take a reasonable amount of these things
+
+1:07:28.760 --> 1:07:31.840
+ either through food or through supplementation.
+
+1:07:31.840 --> 1:07:35.100
+ I acknowledge that not everyone wants to take fish oil.
+
+1:07:35.100 --> 1:07:35.940
+ There are a couple of reasons
+
+1:07:35.940 --> 1:07:37.800
+ why one might want to avoid that.
+
+1:07:37.800 --> 1:07:40.060
+ One would be for ethical reasons.
+
+1:07:40.060 --> 1:07:42.040
+ You have an emotional relationship
+
+1:07:42.040 --> 1:07:44.020
+ or a relationship to the environment
+
+1:07:44.020 --> 1:07:47.680
+ that makes you not want to ingest fish related products.
+
+1:07:47.680 --> 1:07:48.880
+ There's krill oil.
+
+1:07:48.880 --> 1:07:49.960
+ Krill is still an organism.
+
+1:07:49.960 --> 1:07:52.400
+ It's a little tiny thing that whales eat a lot of
+
+1:07:52.400 --> 1:07:54.080
+ and people generally eat very little of.
+
+1:07:54.080 --> 1:07:56.080
+ So krill is out there.
+
+1:07:56.080 --> 1:07:58.480
+ I personally, just me, I don't know why,
+
+1:07:58.480 --> 1:08:00.660
+ I didn't react well to krill.
+
+1:08:00.660 --> 1:08:02.040
+ It didn't make me feel very good.
+
+1:08:02.040 --> 1:08:05.560
+ I had some like kind of skin itches and things like that.
+
+1:08:05.560 --> 1:08:06.920
+ And they stopped when I stopped taking it,
+
+1:08:06.920 --> 1:08:08.980
+ but I don't want to bias you against it
+
+1:08:08.980 --> 1:08:09.920
+ if that's your preference.
+
+1:08:09.920 --> 1:08:13.260
+ Some people really like krill oil as a source of omega-3s.
+
+1:08:13.260 --> 1:08:16.200
+ I did mention some of the other sources
+
+1:08:16.200 --> 1:08:18.200
+ like chia seeds and flax seeds.
+
+1:08:18.200 --> 1:08:19.020
+ But as you'll notice,
+
+1:08:19.020 --> 1:08:21.400
+ these are not things that we tend to ingest a lot of
+
+1:08:21.400 --> 1:08:22.600
+ on a regular basis.
+
+1:08:22.600 --> 1:08:25.640
+ It is possible to get omega-3s from meats
+
+1:08:25.640 --> 1:08:27.560
+ if the animals have grazed on grasses
+
+1:08:27.560 --> 1:08:30.040
+ that contain a lot of omega-3s.
+
+1:08:30.040 --> 1:08:33.520
+ So for those of you that ingest meat,
+
+1:08:34.560 --> 1:08:37.220
+ the source of those meats is going to be very important
+
+1:08:37.220 --> 1:08:39.160
+ as it relates to omega-3s.
+
+1:08:39.160 --> 1:08:41.500
+ Even within the category of fish oil,
+
+1:08:42.840 --> 1:08:45.360
+ there's a concern sometimes about mercury
+
+1:08:45.360 --> 1:08:47.000
+ and other contaminants.
+
+1:08:47.000 --> 1:08:49.720
+ You want to go with a brand that emphasizes
+
+1:08:49.720 --> 1:08:52.840
+ that they've gone to really good sources
+
+1:08:52.840 --> 1:08:56.520
+ and that they decontaminate regardless.
+
+1:08:56.520 --> 1:08:58.680
+ And so you have to search out those brands.
+
+1:08:58.680 --> 1:08:59.840
+ There is a test that you can do
+
+1:08:59.840 --> 1:09:03.320
+ as to whether or not the fish oil is rancid or not.
+
+1:09:03.320 --> 1:09:05.000
+ Some people take it in liquid form.
+
+1:09:05.000 --> 1:09:06.360
+ Some people take it in capsule form.
+
+1:09:06.360 --> 1:09:08.760
+ The liquid form is going to be more affordable.
+
+1:09:08.760 --> 1:09:12.800
+ The capsule form is a little easier and a little more
+
+1:09:12.800 --> 1:09:13.640
+ portable.
+
+1:09:14.600 --> 1:09:18.680
+ You can actually just chew one of the gel tablets.
+
+1:09:18.680 --> 1:09:20.800
+ And if it tastes really fishy and kind of rancid,
+
+1:09:20.800 --> 1:09:22.060
+ you'll know it's disgusting.
+
+1:09:22.060 --> 1:09:23.400
+ You'll want to spit it out.
+
+1:09:23.400 --> 1:09:25.340
+ And if it doesn't and it's tolerable,
+
+1:09:25.340 --> 1:09:26.860
+ then you'll know that it's okay.
+
+1:09:26.860 --> 1:09:28.240
+ Unfortunately, you have to buy it first
+
+1:09:28.240 --> 1:09:29.060
+ in order to do that.
+
+1:09:29.060 --> 1:09:30.340
+ Although, I don't know,
+
+1:09:30.340 --> 1:09:32.040
+ maybe you can get them to open up the bottle for you
+
+1:09:32.040 --> 1:09:34.680
+ in the store and tell them that you don't want to try it.
+
+1:09:34.680 --> 1:09:37.400
+ Someday, perhaps, fish oil and omega-3s,
+
+1:09:37.400 --> 1:09:39.040
+ it'll be like tasting wine at a restaurant
+
+1:09:39.040 --> 1:09:39.960
+ where you can send it back.
+
+1:09:39.960 --> 1:09:42.240
+ For now, I think you have to purchase it first,
+
+1:09:42.240 --> 1:09:44.460
+ but find a brand you trust and like
+
+1:09:44.460 --> 1:09:46.240
+ and then work with them
+
+1:09:46.240 --> 1:09:48.520
+ if you decide to go that route, of course.
+
+1:09:48.520 --> 1:09:51.220
+ There are other compounds that are also interesting
+
+1:09:51.220 --> 1:09:53.400
+ for mood elevation
+
+1:09:53.400 --> 1:09:58.160
+ that are essentially like foods or are supplement-based
+
+1:09:58.160 --> 1:10:00.480
+ that now, fortunately,
+
+1:10:00.480 --> 1:10:03.160
+ there are really good data from peer-reviewed studies.
+
+1:10:03.160 --> 1:10:04.720
+ And the next one I want to mention,
+
+1:10:04.720 --> 1:10:06.440
+ because I think it's really interesting,
+
+1:10:06.440 --> 1:10:08.360
+ is L-carnitine.
+
+1:10:08.360 --> 1:10:11.320
+ Now, L-carnitine has been around a long time
+
+1:10:11.320 --> 1:10:13.720
+ and it's been discussed in the context of heart health
+
+1:10:13.720 --> 1:10:14.560
+ and a number of other things.
+
+1:10:14.560 --> 1:10:17.480
+ It was actually in tout is a bit of a weight loss agent
+
+1:10:17.480 --> 1:10:19.680
+ in the early 90s,
+
+1:10:19.680 --> 1:10:23.840
+ but L-carnitine actually has some really impressive effects
+
+1:10:23.840 --> 1:10:25.680
+ on depression.
+
+1:10:25.680 --> 1:10:29.000
+ And again, we will look to PubMed
+
+1:10:29.000 --> 1:10:31.260
+ because looking at examine.com is essentially,
+
+1:10:31.260 --> 1:10:33.600
+ for me anyway, looking at PubMed.
+
+1:10:33.600 --> 1:10:34.760
+ What is L-carnitine?
+
+1:10:34.760 --> 1:10:37.040
+ L-carnitine is most prevalent in meat
+
+1:10:37.040 --> 1:10:38.640
+ and in beef in particular.
+
+1:10:38.640 --> 1:10:39.800
+ Now, for the vegans,
+
+1:10:39.800 --> 1:10:42.440
+ please know that L-carnitine is available
+
+1:10:42.440 --> 1:10:44.120
+ through non-meat sources as well,
+
+1:10:44.120 --> 1:10:46.940
+ although it's not as enriched in non-meat sources.
+
+1:10:46.940 --> 1:10:48.720
+ It's a really interesting molecule
+
+1:10:48.720 --> 1:10:50.900
+ because L-cetyl L-carnitine
+
+1:10:50.900 --> 1:10:53.560
+ is essentially what's made from L-carnitine,
+
+1:10:53.560 --> 1:10:55.400
+ but it's acetylated.
+
+1:10:55.400 --> 1:10:56.920
+ If you're interested in the biochemistry,
+
+1:10:56.920 --> 1:10:57.760
+ you can look that up.
+
+1:10:57.760 --> 1:10:59.840
+ It's acetylated into a form
+
+1:10:59.840 --> 1:11:01.380
+ that can cross the blood-brain barrier.
+
+1:11:01.380 --> 1:11:04.240
+ The blood-brain barrier or BBB is a barrier.
+
+1:11:04.240 --> 1:11:06.820
+ It's a wall around the brain.
+
+1:11:06.820 --> 1:11:08.260
+ And you have this barrier
+
+1:11:08.260 --> 1:11:11.280
+ because the brain is so important
+
+1:11:11.280 --> 1:11:13.300
+ and it has this feature that the neurons there
+
+1:11:13.300 --> 1:11:15.520
+ don't recreate themselves after injury,
+
+1:11:15.520 --> 1:11:17.000
+ like other organs of the body.
+
+1:11:17.000 --> 1:11:19.000
+ There's not a lot of turnover of cells,
+
+1:11:19.000 --> 1:11:20.500
+ despite what you might've heard.
+
+1:11:20.500 --> 1:11:23.160
+ And so nature has created this BBB,
+
+1:11:23.160 --> 1:11:24.200
+ this blood-brain barrier,
+
+1:11:24.200 --> 1:11:26.400
+ to make sure that certain molecules,
+
+1:11:26.400 --> 1:11:27.680
+ in particular large molecules,
+
+1:11:27.680 --> 1:11:29.900
+ don't get across the blood-brain barrier
+
+1:11:29.900 --> 1:11:32.020
+ because it can be damaging to those tissues.
+
+1:11:32.020 --> 1:11:35.960
+ Incidentally, you also have a very rigid
+
+1:11:35.960 --> 1:11:38.240
+ or stringent barrier around other organs,
+
+1:11:38.240 --> 1:11:39.120
+ which are the gonads.
+
+1:11:39.120 --> 1:11:41.920
+ So the ovaries and the testes and the brain
+
+1:11:41.920 --> 1:11:45.880
+ are the organs of the body that nature has gone
+
+1:11:45.880 --> 1:11:47.780
+ out of its way to protect,
+
+1:11:47.780 --> 1:11:50.880
+ give this additional layer of the blood-brain barrier,
+
+1:11:50.880 --> 1:11:54.800
+ or as you might imagine for the testes and the ovaries,
+
+1:11:54.800 --> 1:11:57.520
+ it's going to be the blood gonadal barrier.
+
+1:11:57.520 --> 1:12:01.000
+ So these barriers exist and make it such that
+
+1:12:01.000 --> 1:12:02.600
+ just because you eat something,
+
+1:12:02.600 --> 1:12:03.600
+ just because you ingest it,
+
+1:12:03.600 --> 1:12:05.900
+ doesn't mean it's going to cross the blood-brain barrier.
+
+1:12:05.900 --> 1:12:07.400
+ But L-carnitine, when taken,
+
+1:12:07.400 --> 1:12:10.520
+ is acetylated and converted into this form
+
+1:12:10.520 --> 1:12:12.700
+ that gets across the blood-brain barrier.
+
+1:12:12.700 --> 1:12:14.200
+ And it has a lot of effects.
+
+1:12:14.200 --> 1:12:15.920
+ It's involved in mitochondrial activation
+
+1:12:15.920 --> 1:12:17.300
+ of long-chain fatty acids,
+
+1:12:17.300 --> 1:12:19.000
+ which that's a big mouthful
+
+1:12:19.000 --> 1:12:20.060
+ that we can get into sometime
+
+1:12:20.060 --> 1:12:21.640
+ when we're talking about metabolic.
+
+1:12:21.640 --> 1:12:24.780
+ But it has some interesting effects on the neuro side.
+
+1:12:24.780 --> 1:12:28.600
+ So if you decide to check it out on examine.com,
+
+1:12:28.600 --> 1:12:29.760
+ you'll see some really interesting things.
+
+1:12:29.760 --> 1:12:32.960
+ Lots of effects on ammonia, C-reactive proteins,
+
+1:12:32.960 --> 1:12:35.980
+ things of that sort, blood glucose is lowered, et cetera.
+
+1:12:35.980 --> 1:12:39.600
+ That's all stuff that's the level of blood in periphery,
+
+1:12:39.600 --> 1:12:41.720
+ slight effects in lowering cholesterol.
+
+1:12:42.720 --> 1:12:44.220
+ Here's some interesting ones.
+
+1:12:45.460 --> 1:12:48.200
+ Rates of pregnancy go way up
+
+1:12:48.200 --> 1:12:51.140
+ when people are taking L-carnitine,
+
+1:12:51.140 --> 1:12:52.840
+ both the father and the mother,
+
+1:12:52.840 --> 1:12:55.280
+ both the source of sperm and the source of egg
+
+1:12:56.660 --> 1:12:59.640
+ are affected in ways that favor pregnancy.
+
+1:12:59.640 --> 1:13:02.280
+ It does increase, here we go again with sperm quality,
+
+1:13:02.280 --> 1:13:04.640
+ sperm motility in males,
+
+1:13:04.640 --> 1:13:08.320
+ and it seems to have positive effects on females
+
+1:13:08.320 --> 1:13:11.080
+ that have polycystic ovary syndrome.
+
+1:13:11.080 --> 1:13:13.120
+ So check that out.
+
+1:13:13.120 --> 1:13:14.800
+ The effects are very strong.
+
+1:13:14.800 --> 1:13:16.320
+ There are three studies listed there.
+
+1:13:16.320 --> 1:13:18.060
+ Again, I'm not promoting this,
+
+1:13:18.060 --> 1:13:20.320
+ but that people take L-carnitine,
+
+1:13:20.320 --> 1:13:22.160
+ especially if you're trying to get pregnant,
+
+1:13:22.160 --> 1:13:25.040
+ but check it out because the effects there
+
+1:13:25.040 --> 1:13:26.320
+ and the studies that are mentioned
+
+1:13:26.320 --> 1:13:30.240
+ are published in peer-reviewed rigorous journals.
+
+1:13:30.240 --> 1:13:32.680
+ In terms of the neural effects,
+
+1:13:32.680 --> 1:13:34.240
+ those are quite interesting.
+
+1:13:34.240 --> 1:13:37.160
+ The effects on depression are still emerging,
+
+1:13:37.160 --> 1:13:38.780
+ but they do seem to exist,
+
+1:13:38.780 --> 1:13:42.940
+ that people feel a notable decrease in depressive symptoms.
+
+1:13:42.940 --> 1:13:45.500
+ There are seven studies listed on examine.com
+
+1:13:46.380 --> 1:13:48.960
+ that has a notable benefit in a variety of circumstances
+
+1:13:48.960 --> 1:13:51.740
+ where participants have heightened depression already.
+
+1:13:51.740 --> 1:13:55.420
+ They start taking L-carnitine and they start feeling better,
+
+1:13:55.420 --> 1:13:57.800
+ and they talk about dosages in those various studies.
+
+1:13:57.800 --> 1:14:00.980
+ It also has been shown to have a notable decrease
+
+1:14:00.980 --> 1:14:04.400
+ in the symptoms of autism, which I find fascinating also.
+
+1:14:04.400 --> 1:14:08.600
+ Again, the things we ingest impact the chemicals
+
+1:14:08.600 --> 1:14:11.560
+ in our brain and how they impact the rest of our body.
+
+1:14:11.560 --> 1:14:12.920
+ There's other things that's been used
+
+1:14:12.920 --> 1:14:15.480
+ to treat certain forms of alcohol dependence.
+
+1:14:15.480 --> 1:14:16.760
+ I think this is going to be
+
+1:14:16.760 --> 1:14:19.320
+ a very exciting emerging area.
+
+1:14:19.320 --> 1:14:20.940
+ We're going to do a whole month about addiction.
+
+1:14:20.940 --> 1:14:23.280
+ I've got a great guest lined up for that month,
+
+1:14:23.280 --> 1:14:27.080
+ but there's now an emerging field
+
+1:14:27.080 --> 1:14:29.400
+ about what people can take and supplement
+
+1:14:29.400 --> 1:14:32.880
+ to help ease the cravings and the withdrawal
+
+1:14:32.880 --> 1:14:35.280
+ when trying to quit drugs of abuse,
+
+1:14:35.280 --> 1:14:37.800
+ like cocaine, alcohol, heroin, and smoking,
+
+1:14:37.800 --> 1:14:39.080
+ and things of that sort.
+
+1:14:39.080 --> 1:14:41.700
+ So really interesting area.
+
+1:14:41.700 --> 1:14:43.740
+ This is, I like to think is the early days,
+
+1:14:43.740 --> 1:14:44.880
+ and then we're going to discover a lot more.
+
+1:14:44.880 --> 1:14:47.280
+ There's a huge list of things here.
+
+1:14:47.280 --> 1:14:49.200
+ Since we talked about pain in a previous episode,
+
+1:14:49.200 --> 1:14:52.120
+ and I know a lot of people have written to me
+
+1:14:52.120 --> 1:14:55.520
+ about fibromyalgia, it does, L-carnitine has been shown
+
+1:14:55.520 --> 1:14:57.640
+ to reduce symptoms of fibromyalgia.
+
+1:14:57.640 --> 1:15:00.880
+ Again, all the links to studies are on examine.com,
+
+1:15:00.880 --> 1:15:04.160
+ totally free site, and that was my bulldog
+
+1:15:04.160 --> 1:15:05.640
+ being a battering ram.
+
+1:15:05.640 --> 1:15:07.640
+ There's nothing graceful about this bulldog.
+
+1:15:07.640 --> 1:15:09.840
+ He's the side he wanted to leave to go get a drink of water,
+
+1:15:09.840 --> 1:15:12.320
+ and so please forgive the noise.
+
+1:15:12.320 --> 1:15:15.200
+ Okay, so now let's turn to another aspect
+
+1:15:15.200 --> 1:15:20.140
+ of the gut-brain relationship that will surprise you,
+
+1:15:20.140 --> 1:15:22.080
+ in some cases might shock you,
+
+1:15:22.080 --> 1:15:25.760
+ and that has some really cool and actionable biology,
+
+1:15:25.760 --> 1:15:30.120
+ and that's the gut microbiome, probiotics,
+
+1:15:30.120 --> 1:15:31.360
+ and prebiotics.
+
+1:15:31.360 --> 1:15:34.220
+ I know today we're talking about emotions and not pain,
+
+1:15:34.220 --> 1:15:36.580
+ but I'd be remiss if I didn't mention another effect
+
+1:15:36.580 --> 1:15:39.000
+ of acetyl-L-carnitine that's been reported,
+
+1:15:39.000 --> 1:15:41.520
+ and that you can find listed with link to study
+
+1:15:41.520 --> 1:15:44.700
+ on examine.com, which is its effect
+
+1:15:44.700 --> 1:15:47.160
+ in reducing the symptoms of migraine.
+
+1:15:47.160 --> 1:15:51.480
+ This was a randomized control trial with 133 participants
+
+1:15:51.480 --> 1:15:53.280
+ who had frequent migraines.
+
+1:15:53.280 --> 1:15:57.580
+ They were taking 500 milligrams of L-carnitine,
+
+1:15:57.580 --> 1:16:00.440
+ or nothing, for 12 weeks.
+
+1:16:00.440 --> 1:16:02.220
+ So the control is a little bit,
+
+1:16:02.220 --> 1:16:04.120
+ the control experiment there is a little bit tricky,
+
+1:16:04.120 --> 1:16:06.040
+ but it had a significant effect
+
+1:16:06.040 --> 1:16:08.340
+ on reducing the number of migraine attacks per month.
+
+1:16:08.340 --> 1:16:10.460
+ So I find that really interesting,
+
+1:16:10.460 --> 1:16:13.740
+ and there's a lot more listed there about the study,
+
+1:16:13.740 --> 1:16:17.260
+ and I think these compounds are powerful.
+
+1:16:17.260 --> 1:16:19.680
+ They carry risks for certain people, not for others.
+
+1:16:19.680 --> 1:16:22.960
+ So again, you have to find out what's right for you,
+
+1:16:22.960 --> 1:16:25.760
+ but I do think they are super interesting
+
+1:16:25.760 --> 1:16:29.620
+ as potential therapeutics for various people.
+
+1:16:29.620 --> 1:16:32.240
+ So what's the deal with the gut microbiome
+
+1:16:32.240 --> 1:16:34.300
+ and the gut-brain axis?
+
+1:16:34.300 --> 1:16:36.700
+ Today, we've actually been talking a lot already
+
+1:16:36.700 --> 1:16:38.740
+ about the gut-brain axis
+
+1:16:38.740 --> 1:16:40.860
+ that has nothing to do with microbiomes.
+
+1:16:40.860 --> 1:16:43.180
+ We've been talking about this vagus nerve
+
+1:16:43.180 --> 1:16:47.380
+ that connects providing sensory information
+
+1:16:47.380 --> 1:16:48.820
+ from the body to the brain,
+
+1:16:48.820 --> 1:16:52.560
+ and then the brain also sends, in the same nerve,
+
+1:16:52.560 --> 1:16:55.220
+ motor information to control the motility
+
+1:16:55.220 --> 1:16:57.900
+ the gut, the heart rate, how fast we breathe,
+
+1:16:57.900 --> 1:17:02.100
+ and deployment of immune stuff, killer cells,
+
+1:17:02.100 --> 1:17:03.300
+ and things of that sort.
+
+1:17:04.960 --> 1:17:08.500
+ But oftentimes, when we hear about the gut-brain axis
+
+1:17:08.500 --> 1:17:13.100
+ these days, it's a discussion about the gut microbiome.
+
+1:17:13.100 --> 1:17:15.220
+ And once again, we're in a situation
+
+1:17:15.220 --> 1:17:18.140
+ where there's incredible biology.
+
+1:17:18.140 --> 1:17:20.100
+ I'm very happy there's so much discussion
+
+1:17:20.100 --> 1:17:21.780
+ about the gut microbiome.
+
+1:17:21.780 --> 1:17:24.260
+ I am somewhat dismayed and concerned
+
+1:17:24.260 --> 1:17:26.140
+ that most of what I hear out there
+
+1:17:26.140 --> 1:17:29.440
+ is either false or partially false.
+
+1:17:29.440 --> 1:17:32.580
+ So we're going to clear up some of the misconceptions,
+
+1:17:32.580 --> 1:17:34.100
+ first by understanding the biology,
+
+1:17:34.100 --> 1:17:34.940
+ and then we're going to talk about
+
+1:17:34.940 --> 1:17:36.420
+ some of the actionable items.
+
+1:17:38.620 --> 1:17:42.500
+ It is true that we have a lot of these little
+
+1:17:42.500 --> 1:17:46.200
+ microorganisms living in our gut.
+
+1:17:47.400 --> 1:17:49.380
+ They're not there because they want to help us.
+
+1:17:49.380 --> 1:17:50.660
+ They don't have brains.
+
+1:17:50.660 --> 1:17:52.440
+ They are adaptive, however.
+
+1:17:52.440 --> 1:17:56.540
+ They try and find and create environments
+
+1:17:56.540 --> 1:17:59.140
+ that make it easier for them to proliferate.
+
+1:17:59.140 --> 1:18:01.340
+ So they don't care about you and me,
+
+1:18:01.340 --> 1:18:04.620
+ but they are perfectly willing to exploit you and me
+
+1:18:04.620 --> 1:18:07.180
+ in order to make more of themselves,
+
+1:18:07.180 --> 1:18:08.320
+ the same way viruses are.
+
+1:18:08.320 --> 1:18:09.620
+ Viruses don't have a mind.
+
+1:18:09.620 --> 1:18:11.660
+ They infect cells, they hijack the genome,
+
+1:18:11.660 --> 1:18:14.260
+ and they use that genome to make more of themselves.
+
+1:18:16.540 --> 1:18:19.620
+ The microbiota that live in us
+
+1:18:19.620 --> 1:18:22.720
+ vary along the length of our digestive track.
+
+1:18:22.720 --> 1:18:23.760
+ But let's just take a step back
+
+1:18:23.760 --> 1:18:26.740
+ and think about how our body plan is made.
+
+1:18:26.740 --> 1:18:28.660
+ We are actually a series of tubes.
+
+1:18:28.660 --> 1:18:29.860
+ Our brain is actually a tube.
+
+1:18:29.860 --> 1:18:31.740
+ You see it's all squishy on the outside,
+
+1:18:31.740 --> 1:18:32.980
+ and then it's got that long thing,
+
+1:18:32.980 --> 1:18:34.980
+ the spinal cord that goes down to the base of the spine.
+
+1:18:34.980 --> 1:18:36.420
+ That's the central nervous system.
+
+1:18:36.420 --> 1:18:37.920
+ That all started out as a tube.
+
+1:18:37.920 --> 1:18:40.980
+ It just looks like a cauliflower on the other end
+
+1:18:40.980 --> 1:18:45.180
+ up in the brain because the tube is so big
+
+1:18:45.180 --> 1:18:46.660
+ and it has to be crammed into the skull
+
+1:18:46.660 --> 1:18:48.200
+ so it gets all wrinkled up.
+
+1:18:48.200 --> 1:18:49.720
+ But if we were to splay it out,
+
+1:18:49.720 --> 1:18:52.280
+ you'd find that it's just one big tube.
+
+1:18:52.280 --> 1:18:55.200
+ Similarly, our digestive tract and our airways
+
+1:18:55.200 --> 1:18:57.660
+ are essentially one big tube.
+
+1:18:57.660 --> 1:19:00.220
+ It starts with our mouth, also our nose,
+
+1:19:00.220 --> 1:19:01.640
+ and then we have all these other tubes
+
+1:19:01.640 --> 1:19:05.040
+ that go down through our throat and then into our stomach
+
+1:19:05.040 --> 1:19:07.300
+ and then into our various intestines,
+
+1:19:07.300 --> 1:19:10.460
+ and then the tube ends out the other end.
+
+1:19:10.460 --> 1:19:12.740
+ So we are one long tube for digestion.
+
+1:19:12.740 --> 1:19:16.500
+ And inside of that tube is a mucosal lining.
+
+1:19:16.500 --> 1:19:18.780
+ It's these little microvilli, tiny, tiny, tiny,
+
+1:19:18.780 --> 1:19:22.780
+ little like velvety ends of cells
+
+1:19:22.780 --> 1:19:26.100
+ that are able to move and move things along,
+
+1:19:26.100 --> 1:19:29.320
+ and mucus, mucosa.
+
+1:19:29.320 --> 1:19:32.640
+ And the conditions of that mucosal lining
+
+1:19:32.640 --> 1:19:34.660
+ set a number of different things.
+
+1:19:34.660 --> 1:19:36.860
+ It sets the rate of our digestion
+
+1:19:36.860 --> 1:19:38.940
+ and the quality of our digestion.
+
+1:19:38.940 --> 1:19:41.340
+ It sets, for instance, our immune system.
+
+1:19:41.340 --> 1:19:42.820
+ Most people probably don't realize this,
+
+1:19:42.820 --> 1:19:45.060
+ but most infections in the environment,
+
+1:19:45.060 --> 1:19:47.100
+ well, they have to get into our body somehow.
+
+1:19:47.100 --> 1:19:49.380
+ Some of them are inhaled.
+
+1:19:49.380 --> 1:19:51.180
+ A lot of them go into our mouth
+
+1:19:51.180 --> 1:19:53.740
+ and lodge in the mucosal lining of the mouth,
+
+1:19:53.740 --> 1:19:55.980
+ and then infections start there.
+
+1:19:55.980 --> 1:19:58.020
+ You probably had the experience, unfortunately,
+
+1:19:58.020 --> 1:20:00.060
+ of feeling like you have a tick in your throat,
+
+1:20:00.060 --> 1:20:01.340
+ like something's irritating your throat,
+
+1:20:01.340 --> 1:20:04.160
+ and then it kind of migrates up into a head cold
+
+1:20:04.160 --> 1:20:06.100
+ or a runny nose.
+
+1:20:06.100 --> 1:20:07.500
+ Sometimes it'll start as a headache.
+
+1:20:07.500 --> 1:20:08.780
+ Sometimes it won't.
+
+1:20:08.780 --> 1:20:12.680
+ But things that can migrate down into the gut.
+
+1:20:12.680 --> 1:20:14.720
+ So we're ingesting things all the time.
+
+1:20:14.720 --> 1:20:17.540
+ Think about air, bacteria, viruses,
+
+1:20:17.540 --> 1:20:19.460
+ they're making their way into our gut.
+
+1:20:19.460 --> 1:20:21.940
+ And some of those bacteria live in the gut,
+
+1:20:21.940 --> 1:20:26.420
+ and some of those bacteria bias the mucosal lining
+
+1:20:26.420 --> 1:20:29.800
+ in the gut, stomach and intestines,
+
+1:20:29.800 --> 1:20:33.920
+ to be more acidic or more basic
+
+1:20:33.920 --> 1:20:36.140
+ so that they can make more of themselves,
+
+1:20:36.140 --> 1:20:36.980
+ so they can replicate.
+
+1:20:36.980 --> 1:20:38.420
+ They like a particular comfort.
+
+1:20:38.420 --> 1:20:41.860
+ It's like they like a particular kind of bedding
+
+1:20:41.860 --> 1:20:44.680
+ to lie down in and create more of themselves.
+
+1:20:44.680 --> 1:20:48.960
+ Now, some of those mucosal linings that they promote
+
+1:20:48.960 --> 1:20:50.220
+ make us feel better.
+
+1:20:50.220 --> 1:20:51.400
+ They make us feel more alert.
+
+1:20:51.400 --> 1:20:52.740
+ They bolster our immune system,
+
+1:20:52.740 --> 1:20:54.500
+ and others make us feel worse.
+
+1:20:54.500 --> 1:20:57.460
+ So first rule,
+
+1:20:57.460 --> 1:21:00.340
+ the microbiome isn't good or bad.
+
+1:21:00.340 --> 1:21:02.420
+ Some of these little bugs that live in us
+
+1:21:02.420 --> 1:21:03.580
+ do bad things to us.
+
+1:21:03.580 --> 1:21:05.140
+ They make us feel worse.
+
+1:21:05.140 --> 1:21:06.500
+ They lower our immunity.
+
+1:21:06.500 --> 1:21:08.840
+ They affect us in negative ways.
+
+1:21:08.840 --> 1:21:10.380
+ Some of them make us feel better.
+
+1:21:10.380 --> 1:21:13.960
+ And they do that mainly by changing the conditions
+
+1:21:13.960 --> 1:21:16.660
+ of our gut environment.
+
+1:21:16.660 --> 1:21:17.860
+ In addition to that,
+
+1:21:17.860 --> 1:21:22.720
+ they do impact the neurotransmitters
+
+1:21:22.720 --> 1:21:25.340
+ and the neurons that live in the gut
+
+1:21:25.340 --> 1:21:26.940
+ and that signal up to the brain
+
+1:21:26.940 --> 1:21:28.980
+ to impact things like dopamine and serotonin
+
+1:21:28.980 --> 1:21:31.260
+ that we've been talking about previously.
+
+1:21:31.260 --> 1:21:35.200
+ So there's a vast world now
+
+1:21:35.200 --> 1:21:38.520
+ devoted to trying to understand what sources of food,
+
+1:21:38.520 --> 1:21:41.280
+ what kinds of foods are good or not good
+
+1:21:41.280 --> 1:21:42.460
+ for the gut microbiome.
+
+1:21:42.460 --> 1:21:44.780
+ So let's just talk about some general rules of thumb
+
+1:21:44.780 --> 1:21:46.040
+ related to the research,
+
+1:21:46.040 --> 1:21:48.020
+ quality research that's peer reviewed.
+
+1:21:48.020 --> 1:21:49.540
+ And then in a future episode,
+
+1:21:49.540 --> 1:21:52.540
+ we will go far deeper into the gut microbiome
+
+1:21:52.540 --> 1:21:54.060
+ and gut brain axis.
+
+1:21:54.060 --> 1:21:56.140
+ But here's a few things
+
+1:21:56.140 --> 1:21:59.220
+ that I think you might find surprising.
+
+1:21:59.220 --> 1:22:00.180
+ First of all,
+
+1:22:00.180 --> 1:22:04.280
+ supporting a healthy gut microbiome is good for mood,
+
+1:22:04.280 --> 1:22:05.760
+ great for digestion,
+
+1:22:05.760 --> 1:22:08.560
+ and great for immune system function.
+
+1:22:08.560 --> 1:22:13.260
+ However, that does not mean maxing out
+
+1:22:13.260 --> 1:22:16.280
+ or taking the most probiotic and prebiotic
+
+1:22:16.280 --> 1:22:18.200
+ that you can possibly manage.
+
+1:22:18.200 --> 1:22:19.740
+ As I mentioned many times before,
+
+1:22:19.740 --> 1:22:21.400
+ I do believe in probiotics,
+
+1:22:21.400 --> 1:22:22.800
+ I take probiotics,
+
+1:22:22.800 --> 1:22:23.920
+ but there are studies that show
+
+1:22:23.920 --> 1:22:27.320
+ that if you take lots and lots of certain probiotics
+
+1:22:27.320 --> 1:22:30.740
+ like lactobacillus and you really ramp up the levels more,
+
+1:22:30.740 --> 1:22:33.040
+ it is not a case of more is better.
+
+1:22:33.040 --> 1:22:37.120
+ There are things like brain fog that can come from that.
+
+1:22:37.120 --> 1:22:39.400
+ Brain fog is just this inability to focus,
+
+1:22:39.400 --> 1:22:41.920
+ people feel really not well generally.
+
+1:22:41.920 --> 1:22:43.560
+ Some of those studies are a little bit controversial,
+
+1:22:43.560 --> 1:22:44.620
+ but I think it's fair to say
+
+1:22:44.620 --> 1:22:48.880
+ that if people really increase the amount of probiotic
+
+1:22:48.880 --> 1:22:52.480
+ that they're taking beyond a certain amount,
+
+1:22:52.480 --> 1:22:55.420
+ then they start feeling foggy in the mind.
+
+1:22:55.420 --> 1:22:57.160
+ Now, what's too much?
+
+1:22:57.160 --> 1:23:00.240
+ Well, I get probiotics from,
+
+1:23:00.240 --> 1:23:01.760
+ I've mentioned before from athletic greens,
+
+1:23:01.760 --> 1:23:03.380
+ you can get them from fermented foods
+
+1:23:03.380 --> 1:23:06.940
+ like sauerkraut, pickles, kimchi,
+
+1:23:06.940 --> 1:23:09.920
+ natto, these are different sources from around the world.
+
+1:23:09.920 --> 1:23:11.860
+ Actually, I'd love to hear some of the other sources
+
+1:23:11.860 --> 1:23:13.740
+ that people know, other foods from around the world.
+
+1:23:13.740 --> 1:23:17.080
+ I'm fascinated by the way in which different cultures
+
+1:23:17.080 --> 1:23:21.180
+ have all arrived at these foods
+
+1:23:21.180 --> 1:23:24.400
+ that provide and support healthy microbiomes
+
+1:23:24.400 --> 1:23:26.360
+ because they're fermented.
+
+1:23:26.360 --> 1:23:28.760
+ I have a colleague at Stanford, Justin Sonnenberg,
+
+1:23:28.760 --> 1:23:29.760
+ he and I have talked about this,
+
+1:23:29.760 --> 1:23:33.880
+ I don't want to quote him inappropriately,
+
+1:23:33.880 --> 1:23:35.440
+ but we've had discussions around,
+
+1:23:35.440 --> 1:23:38.840
+ they've published that the ingestion of fermented foods
+
+1:23:38.840 --> 1:23:41.280
+ is one of the best ways to support healthy levels
+
+1:23:41.280 --> 1:23:45.460
+ of gut microbiota without exceeding the threshold
+
+1:23:45.460 --> 1:23:47.940
+ that would cause things like brain fog.
+
+1:23:47.940 --> 1:23:51.240
+ So foods and fermented foods are going to be the best source
+
+1:23:51.240 --> 1:23:54.060
+ and there are a number of different ways
+
+1:23:54.060 --> 1:23:54.900
+ that one could do that.
+
+1:23:54.900 --> 1:23:55.920
+ Some people don't like fermented foods,
+
+1:23:55.920 --> 1:23:57.920
+ however, some people supplement it.
+
+1:23:57.920 --> 1:24:02.220
+ So it isn't a case of more is better, so we know that.
+
+1:24:02.220 --> 1:24:06.920
+ The other is that it is true that healthy gut microbiota
+
+1:24:06.920 --> 1:24:08.860
+ have been shown to improve symptoms
+
+1:24:08.860 --> 1:24:11.160
+ of certain psychiatric illnesses,
+
+1:24:11.160 --> 1:24:15.600
+ as well as certain conditions like particular features
+
+1:24:15.600 --> 1:24:17.920
+ along the autism spectrum, which is interesting.
+
+1:24:17.920 --> 1:24:21.880
+ And those effects are probably due to not just improvement
+
+1:24:21.880 --> 1:24:25.480
+ of immune system function, but to the conditions
+
+1:24:25.480 --> 1:24:29.140
+ in which the neurons that sense nutrients
+
+1:24:29.140 --> 1:24:30.720
+ convey information to the brain
+
+1:24:30.720 --> 1:24:34.280
+ and increase levels of serotonin and or dopamine.
+
+1:24:34.280 --> 1:24:37.400
+ So gut microbiome provides kind of a foundation
+
+1:24:37.400 --> 1:24:41.160
+ for healthy gut and healthy gut brain access.
+
+1:24:41.160 --> 1:24:42.860
+ So much so that some people report
+
+1:24:42.860 --> 1:24:45.440
+ that when they start eating small bits,
+
+1:24:45.440 --> 1:24:47.640
+ because it doesn't require a lot of fermented foods,
+
+1:24:47.640 --> 1:24:49.080
+ that their overall mood is better,
+
+1:24:49.080 --> 1:24:50.560
+ not unlike the effects of EPA,
+
+1:24:50.560 --> 1:24:53.220
+ although I don't think it's been looked at directly
+
+1:24:53.220 --> 1:24:55.760
+ in the context of clinical depression yet.
+
+1:24:55.760 --> 1:24:57.440
+ And if someone knows of a study,
+
+1:24:57.440 --> 1:25:00.680
+ please mention it in the comments, that would be terrific.
+
+1:25:00.680 --> 1:25:02.200
+ There are some things that you can do
+
+1:25:02.200 --> 1:25:04.540
+ to really damage your gut microbiome.
+
+1:25:04.540 --> 1:25:06.860
+ And this is where there's a huge misconception
+
+1:25:06.860 --> 1:25:08.480
+ that I want to clear up.
+
+1:25:08.480 --> 1:25:10.600
+ There was a study that was published in Nature,
+
+1:25:10.600 --> 1:25:13.960
+ which is among the three top journals that we have
+
+1:25:13.960 --> 1:25:15.760
+ in Science, you know, Nature, Science, and Cell
+
+1:25:15.760 --> 1:25:19.440
+ are considered the top tops, but excellent journal
+
+1:25:19.440 --> 1:25:21.880
+ that showed that artificial sweeteners,
+
+1:25:21.880 --> 1:25:25.440
+ but a particular artificial sweetener, which was saccharin,
+
+1:25:25.440 --> 1:25:30.060
+ can disrupt the gut microbiome in ways that is detrimental
+
+1:25:30.060 --> 1:25:32.120
+ to a number of different health markers,
+
+1:25:32.120 --> 1:25:34.520
+ increasing inflammatory cytokines,
+
+1:25:34.520 --> 1:25:36.720
+ and all the other bad things that happen
+
+1:25:36.720 --> 1:25:41.420
+ when the gut microbiome is thrown off kilter.
+
+1:25:41.420 --> 1:25:43.740
+ That study was widely discussed,
+
+1:25:43.740 --> 1:25:46.300
+ but there were a few things that were not mentioned there
+
+1:25:46.300 --> 1:25:47.680
+ that are really important.
+
+1:25:47.680 --> 1:25:50.860
+ That study was about saccharin in particular.
+
+1:25:52.220 --> 1:25:56.400
+ Saccharin is not the most typical artificial sweetener
+
+1:25:56.400 --> 1:25:57.240
+ that's used.
+
+1:25:57.240 --> 1:25:59.640
+ The most typical artificial sweeteners that are used
+
+1:25:59.640 --> 1:26:03.180
+ are things like aspartame, so-called NutraSweet,
+
+1:26:03.180 --> 1:26:05.640
+ or sucralose, or these days, stevia.
+
+1:26:05.640 --> 1:26:06.480
+ There's monk fruits.
+
+1:26:06.480 --> 1:26:08.780
+ To my knowledge, and please correct me
+
+1:26:08.780 --> 1:26:11.600
+ if anyone knows of any studies, to my knowledge,
+
+1:26:11.600 --> 1:26:15.900
+ the negative effects of these artificial sweeteners
+
+1:26:15.900 --> 1:26:20.080
+ on the gut microbiome were restricted to saccharin.
+
+1:26:20.080 --> 1:26:23.360
+ Now, there is enough chemical similarity between saccharin
+
+1:26:23.360 --> 1:26:25.160
+ and some of the other ones that I mentioned,
+
+1:26:25.160 --> 1:26:25.980
+ but not all of them.
+
+1:26:25.980 --> 1:26:29.680
+ For instance, stevia, monk fruit are distinct
+
+1:26:29.680 --> 1:26:31.320
+ in their chemical makeup,
+
+1:26:31.320 --> 1:26:35.800
+ so that they probably don't have, if they have any,
+
+1:26:35.800 --> 1:26:38.760
+ have lower effects, negative effects on the gut microbiome,
+
+1:26:38.760 --> 1:26:40.560
+ but it should still be tested.
+
+1:26:40.560 --> 1:26:42.640
+ So saccharin is really,
+
+1:26:42.640 --> 1:26:45.000
+ it was shown in this study and several other studies,
+
+1:26:45.000 --> 1:26:48.480
+ can really negatively impact, excuse me,
+
+1:26:48.480 --> 1:26:51.520
+ the quality of the gut microbiome.
+
+1:26:51.520 --> 1:26:54.380
+ Interestingly, the narrative around artificial sweeteners
+
+1:26:54.380 --> 1:26:58.920
+ in gut microbiome is incorrect.
+
+1:26:58.920 --> 1:27:01.760
+ Most people thought, oh, saccharin is bad
+
+1:27:01.760 --> 1:27:04.840
+ for the microbiome, it must kill the microbiome.
+
+1:27:04.840 --> 1:27:06.480
+ And so you hear people saying, oh, you know,
+
+1:27:06.480 --> 1:27:08.300
+ artificial sweeteners kill the microbiome.
+
+1:27:08.300 --> 1:27:09.140
+ That's not true at all.
+
+1:27:09.140 --> 1:27:11.720
+ In fact, in that very same study published in Nature,
+
+1:27:11.720 --> 1:27:14.380
+ they showed that the negative effects of saccharin
+
+1:27:14.380 --> 1:27:17.500
+ on the microbiome could be blocked or eliminated
+
+1:27:17.500 --> 1:27:19.640
+ by giving antibiotics.
+
+1:27:19.640 --> 1:27:22.240
+ So what happens is certain artificial sweeteners,
+
+1:27:22.240 --> 1:27:26.240
+ in particular saccharin, disrupt the microbiome
+
+1:27:26.240 --> 1:27:29.120
+ and make the environment within the gut,
+
+1:27:29.120 --> 1:27:33.940
+ that mucosal lining, more favorable to bacteria,
+
+1:27:33.940 --> 1:27:38.280
+ microbiota that are not good for the organism, okay?
+
+1:27:38.280 --> 1:27:40.280
+ This is an important distinction.
+
+1:27:40.280 --> 1:27:42.800
+ It's not just that a language thing where people say,
+
+1:27:42.800 --> 1:27:44.880
+ oh, you know, it kills the microbiome.
+
+1:27:44.880 --> 1:27:48.280
+ It doesn't kill the microbiome, it shifts the microbiome.
+
+1:27:48.280 --> 1:27:51.320
+ And shifts in the microbiome can be good or they can be bad.
+
+1:27:51.320 --> 1:27:53.480
+ And that takes us to another topic.
+
+1:27:53.480 --> 1:27:54.880
+ That's a bit of a hot button topic,
+
+1:27:54.880 --> 1:27:55.780
+ but I'm willing to go there
+
+1:27:55.780 --> 1:27:58.080
+ because I think it deserves conversation,
+
+1:27:58.080 --> 1:28:01.620
+ which is nowadays there are many examples out there
+
+1:28:01.620 --> 1:28:04.640
+ where people have switched from a kind of standard diet
+
+1:28:04.640 --> 1:28:07.720
+ or even a vegetarian diet to a,
+
+1:28:07.720 --> 1:28:09.740
+ or vegan diet to a keto diet.
+
+1:28:09.740 --> 1:28:11.400
+ Now, keto doesn't necessarily have to mean
+
+1:28:11.400 --> 1:28:14.400
+ the ingestion of meats, but it can.
+
+1:28:14.400 --> 1:28:17.040
+ And they experience positive effects for themselves,
+
+1:28:17.040 --> 1:28:17.880
+ not everybody.
+
+1:28:17.880 --> 1:28:20.040
+ And I've talked previously about some of the
+
+1:28:20.040 --> 1:28:23.480
+ kind of the incorrect,
+
+1:28:23.480 --> 1:28:25.760
+ what I believe is incorrect marketing of keto
+
+1:28:25.760 --> 1:28:28.000
+ as it relates to the cosmetic effects
+
+1:28:28.000 --> 1:28:30.040
+ and some of the challenges with sleep that some people have,
+
+1:28:30.040 --> 1:28:32.360
+ but some people love keto and it works great for them.
+
+1:28:32.360 --> 1:28:35.320
+ But the ketogenic diet is interesting
+
+1:28:35.320 --> 1:28:37.880
+ because when one shifts to the ketogenic diet,
+
+1:28:37.880 --> 1:28:39.720
+ there is a shift in the gut microbiome
+
+1:28:39.720 --> 1:28:41.560
+ and some people end up feeling better.
+
+1:28:41.560 --> 1:28:43.800
+ Some people end up feeling worse.
+
+1:28:44.860 --> 1:28:49.280
+ Likewise, some people go from ingesting animal products,
+
+1:28:49.280 --> 1:28:52.880
+ including meat or they're vegetarian and they go to vegan
+
+1:28:52.880 --> 1:28:57.160
+ and they experience positive shifts in mood and affect.
+
+1:28:57.160 --> 1:29:01.920
+ And we know that the transition to a more plant-based diet
+
+1:29:01.920 --> 1:29:04.400
+ and especially the enrichment of fiber
+
+1:29:04.400 --> 1:29:06.680
+ that's present in those diets
+
+1:29:06.680 --> 1:29:09.920
+ also creates dramatic shifts in the gut microbiome.
+
+1:29:09.920 --> 1:29:11.680
+ Some people feel better doing that.
+
+1:29:11.680 --> 1:29:12.760
+ Some people feel worse.
+
+1:29:12.760 --> 1:29:14.540
+ And of course, it's going to depend on whether or not
+
+1:29:14.540 --> 1:29:16.320
+ you're ingesting a lot of processed foods or not.
+
+1:29:16.320 --> 1:29:19.720
+ There was a paper published in Cell, a Cell Press Journal,
+
+1:29:19.720 --> 1:29:21.120
+ obviously, excellent journal,
+
+1:29:21.120 --> 1:29:23.540
+ showing that ingestion of processed foods,
+
+1:29:23.540 --> 1:29:26.360
+ regardless of whether or not they come from animal sources
+
+1:29:26.360 --> 1:29:28.000
+ or non-animal sources,
+
+1:29:28.000 --> 1:29:31.440
+ the processed foods themselves tend to create activity
+
+1:29:31.440 --> 1:29:33.100
+ within the body.
+
+1:29:33.100 --> 1:29:34.960
+ And this surely has roots in the nervous system
+
+1:29:34.960 --> 1:29:38.840
+ that lead to over-consumption of calories and weight gain,
+
+1:29:38.840 --> 1:29:40.940
+ even some weight gain that couldn't be explained
+
+1:29:40.940 --> 1:29:41.840
+ by increased calories.
+
+1:29:41.840 --> 1:29:43.380
+ In other words, processed foods are bad
+
+1:29:43.380 --> 1:29:44.640
+ regardless of whether or not
+
+1:29:44.640 --> 1:29:47.600
+ you're talking about animal products or non-animal products.
+
+1:29:47.600 --> 1:29:48.700
+ Probably not surprising now,
+
+1:29:48.700 --> 1:29:50.700
+ given what you know about these sugar sensing
+
+1:29:50.700 --> 1:29:53.300
+ and other amino acid sensing cells in the gut
+
+1:29:53.300 --> 1:29:54.820
+ that we talked about earlier.
+
+1:29:54.820 --> 1:29:57.160
+ So the point of all this is that
+
+1:29:57.160 --> 1:29:59.240
+ when I say you have to find what's right for you,
+
+1:29:59.240 --> 1:30:01.180
+ that's not a throwaway statement.
+
+1:30:01.180 --> 1:30:06.180
+ Some people's microbiome and the lining of their mucosa,
+
+1:30:08.000 --> 1:30:10.800
+ excuse me, the mucosal lining of their throat,
+
+1:30:10.800 --> 1:30:12.000
+ of their gut, of their nose,
+
+1:30:12.000 --> 1:30:16.380
+ everything is improved by diets that are heavily meat-based
+
+1:30:16.380 --> 1:30:17.480
+ and don't have many plants.
+
+1:30:17.480 --> 1:30:20.300
+ Other people do much better on a plant-based diet
+
+1:30:20.300 --> 1:30:22.480
+ without many meat products or animal products.
+
+1:30:22.480 --> 1:30:23.920
+ It's highly individual.
+
+1:30:23.920 --> 1:30:26.680
+ And this probably has roots in genetic makeup.
+
+1:30:26.680 --> 1:30:30.460
+ This probably has roots in what people were raised on,
+
+1:30:30.460 --> 1:30:32.480
+ because remember the nervous system,
+
+1:30:32.480 --> 1:30:35.600
+ of course, is set up by your genes, your genetic program,
+
+1:30:35.600 --> 1:30:36.760
+ but your nervous system,
+
+1:30:36.760 --> 1:30:40.280
+ it adapts early in life to your conditions.
+
+1:30:40.280 --> 1:30:41.160
+ That's what it's for.
+
+1:30:41.160 --> 1:30:42.440
+ The reason you have a nervous system
+
+1:30:42.440 --> 1:30:44.620
+ is to move your body appropriately
+
+1:30:44.620 --> 1:30:45.820
+ towards things that are good for you
+
+1:30:45.820 --> 1:30:47.080
+ and away from things that are not,
+
+1:30:47.080 --> 1:30:50.160
+ but also it was designed to adapt.
+
+1:30:50.160 --> 1:30:52.280
+ The early life period has this incredible thing
+
+1:30:52.280 --> 1:30:54.260
+ about plasticity that we spent a whole month on
+
+1:30:54.260 --> 1:30:56.520
+ so that it can change so that, yes, indeed,
+
+1:30:56.520 --> 1:30:57.920
+ some people may like certain foods
+
+1:30:57.920 --> 1:31:00.140
+ and react to certain foods better than others
+
+1:31:00.140 --> 1:31:03.280
+ because of the way that their nervous system was wired,
+
+1:31:03.280 --> 1:31:05.460
+ this enteric, as it's called, nervous system
+
+1:31:05.460 --> 1:31:08.320
+ that lines the gut and that communicates with the brain.
+
+1:31:08.320 --> 1:31:10.060
+ So most of what I've talked about today
+
+1:31:10.060 --> 1:31:12.560
+ is black and white.
+
+1:31:12.560 --> 1:31:14.160
+ These are things that are present in all of us,
+
+1:31:14.160 --> 1:31:15.560
+ the sugar-sensing neurons of the gut,
+
+1:31:15.560 --> 1:31:17.240
+ the way the vagus is wired,
+
+1:31:17.240 --> 1:31:20.040
+ the fact that omega-3, omega-6s tend to improve,
+
+1:31:20.040 --> 1:31:22.000
+ the ratios tend to impact mood
+
+1:31:22.000 --> 1:31:25.240
+ with high omega-3, omega-6 ratios improving mood.
+
+1:31:25.240 --> 1:31:28.460
+ We talked about all sorts of things in the gut-brain
+
+1:31:28.460 --> 1:31:32.320
+ and body-brain axis, but when it comes to the microbiome,
+
+1:31:32.320 --> 1:31:34.740
+ the key thing is that we all have a microbiome.
+
+1:31:34.740 --> 1:31:36.200
+ You want a microbiome,
+
+1:31:36.200 --> 1:31:40.320
+ but you want to promote the microbiome that is right for you
+
+1:31:40.320 --> 1:31:43.080
+ and that can be shifted and steered
+
+1:31:43.080 --> 1:31:47.320
+ by ingesting certain categories of foods and not others.
+
+1:31:47.320 --> 1:31:49.120
+ And one thing that really frustrates me
+
+1:31:49.120 --> 1:31:51.360
+ is when the people show up with an agenda,
+
+1:31:51.360 --> 1:31:55.680
+ like all meat agenda or a vegan agenda or a keto agenda,
+
+1:31:55.680 --> 1:31:57.320
+ and they talk about these positive effects
+
+1:31:57.320 --> 1:32:00.240
+ on the gut microbiome and it's all true, frankly,
+
+1:32:00.240 --> 1:32:01.440
+ and so it's highly individual.
+
+1:32:01.440 --> 1:32:03.600
+ Now, this doesn't get to any of the ethical issues
+
+1:32:03.600 --> 1:32:05.000
+ around animals or the planet
+
+1:32:05.000 --> 1:32:10.000
+ or and you hear rabid debates about that on both sides.
+
+1:32:10.600 --> 1:32:13.980
+ And I am not qualified or equipped to talk about
+
+1:32:13.980 --> 1:32:17.200
+ whether or not regenerative agriculture, animal products
+
+1:32:17.200 --> 1:32:18.400
+ or farming or any of these things,
+
+1:32:18.400 --> 1:32:20.540
+ how those actually impact the environment.
+
+1:32:20.540 --> 1:32:22.220
+ That is not my expertise.
+
+1:32:22.220 --> 1:32:24.520
+ But when it comes to your health and your microbiome,
+
+1:32:24.520 --> 1:32:26.040
+ you want to support the microbiome.
+
+1:32:26.040 --> 1:32:28.460
+ It's very clear that these fermented foods
+
+1:32:28.460 --> 1:32:30.040
+ support the microbiome,
+
+1:32:30.040 --> 1:32:33.640
+ that we should be ingesting at least two servings per day,
+
+1:32:33.640 --> 1:32:35.280
+ which is quite a lot.
+
+1:32:35.280 --> 1:32:38.760
+ That supplementation at low levels can be good.
+
+1:32:38.760 --> 1:32:41.280
+ Supplementation at high levels can create this brain fog,
+
+1:32:41.280 --> 1:32:44.240
+ even though some people say that result is controversial.
+
+1:32:44.240 --> 1:32:45.520
+ I've experienced this myself
+
+1:32:45.520 --> 1:32:49.080
+ and the data looked to me pretty darn solid.
+
+1:32:49.080 --> 1:32:52.560
+ So that's one thing to think about as well.
+
+1:32:52.560 --> 1:32:55.480
+ And the other thing about the gut microbiome
+
+1:32:55.480 --> 1:32:57.180
+ is that it's highly contextual
+
+1:32:57.180 --> 1:32:58.700
+ based on other things that you're doing.
+
+1:32:58.700 --> 1:33:01.440
+ So even things like exercise and social wellbeing
+
+1:33:01.440 --> 1:33:03.480
+ and connection, those things are also impacting
+
+1:33:03.480 --> 1:33:04.320
+ the gut microbiome.
+
+1:33:04.320 --> 1:33:06.280
+ So find the diet that's right for you
+
+1:33:06.280 --> 1:33:10.360
+ and that works for you in the context of the other ethical
+
+1:33:10.360 --> 1:33:12.380
+ and lifestyle choices that are important to you.
+
+1:33:12.380 --> 1:33:13.440
+ That's my advice.
+
+1:33:13.440 --> 1:33:14.980
+ A note about fasting.
+
+1:33:14.980 --> 1:33:16.160
+ I have a colleague at Yale
+
+1:33:16.160 --> 1:33:18.040
+ who's an expert in the gut microbiome.
+
+1:33:18.040 --> 1:33:20.560
+ And he told me something really interesting,
+
+1:33:20.560 --> 1:33:23.000
+ which is when we fast,
+
+1:33:24.640 --> 1:33:27.880
+ we actually digest certain components
+
+1:33:27.880 --> 1:33:29.980
+ within our dietary tract.
+
+1:33:29.980 --> 1:33:33.320
+ It actually depletes a good amount of the gut microbiome.
+
+1:33:33.320 --> 1:33:34.240
+ And this is interesting.
+
+1:33:34.240 --> 1:33:36.700
+ I've had good results from,
+
+1:33:36.700 --> 1:33:38.120
+ I guess you would call it intermittent
+
+1:33:38.120 --> 1:33:40.040
+ or kind of circadian type fasting
+
+1:33:40.040 --> 1:33:41.400
+ where I've never done long fast,
+
+1:33:41.400 --> 1:33:43.840
+ but where I push out my first meal by a few hours.
+
+1:33:43.840 --> 1:33:46.640
+ My first meal is generally around lunchtime or so.
+
+1:33:46.640 --> 1:33:49.280
+ But the longer periods of fasting
+
+1:33:49.280 --> 1:33:51.240
+ that go for a day or two or three days
+
+1:33:51.240 --> 1:33:56.180
+ are known to deplete the gut microbiome in major ways.
+
+1:33:56.180 --> 1:33:58.120
+ But that's not always necessarily a bad thing
+
+1:33:58.120 --> 1:34:01.100
+ because when it's replenished,
+
+1:34:01.100 --> 1:34:03.440
+ it often is replenished at levels
+
+1:34:03.440 --> 1:34:05.600
+ that exceeded its previous level.
+
+1:34:05.600 --> 1:34:09.200
+ But I think that some of the GI tract
+
+1:34:09.200 --> 1:34:10.920
+ and even some of the mental effects
+
+1:34:10.920 --> 1:34:12.580
+ of returning to eating after feeding,
+
+1:34:12.580 --> 1:34:14.640
+ sometimes people don't feel so good when they start eating,
+
+1:34:14.640 --> 1:34:16.360
+ they really want food, but then they start eating again,
+
+1:34:16.360 --> 1:34:18.240
+ they don't feel as good as they did on the fast.
+
+1:34:18.240 --> 1:34:20.800
+ Some of that may be related to the depletion
+
+1:34:20.800 --> 1:34:23.120
+ of the microbiome that occurs during long fast.
+
+1:34:23.120 --> 1:34:24.800
+ So again, this is something to think about
+
+1:34:24.800 --> 1:34:26.440
+ and talk about with your doctor.
+
+1:34:26.440 --> 1:34:31.000
+ But the idea that fasting across the board is good,
+
+1:34:31.000 --> 1:34:32.320
+ there may be some merits to that,
+
+1:34:32.320 --> 1:34:33.700
+ and certainly in some cases,
+
+1:34:33.700 --> 1:34:36.640
+ but it does deplete the microbiome.
+
+1:34:36.640 --> 1:34:38.960
+ And that depletion of the microbiome is significant
+
+1:34:38.960 --> 1:34:41.160
+ because it means when you return to eating,
+
+1:34:41.160 --> 1:34:43.160
+ you're actually not in the same position
+
+1:34:43.160 --> 1:34:45.200
+ to digest and assimilate those foods.
+
+1:34:45.200 --> 1:34:47.060
+ And those foods are not in the same position
+
+1:34:47.060 --> 1:34:48.280
+ to impact your brain and body
+
+1:34:48.280 --> 1:34:50.920
+ the same way they were prior to the fast.
+
+1:34:50.920 --> 1:34:52.480
+ And this is, I think, why people suggest
+
+1:34:52.480 --> 1:34:56.760
+ a kind of gradual transition back to consuming nutrients
+
+1:34:56.760 --> 1:34:58.280
+ after a fast.
+
+1:34:58.280 --> 1:35:01.500
+ So as we round up, I want to share some results with you
+
+1:35:01.500 --> 1:35:04.680
+ that without question will impact the way
+
+1:35:04.680 --> 1:35:08.780
+ that you respond to food mentally and even physically.
+
+1:35:08.780 --> 1:35:11.500
+ And I know that because that's the central theme
+
+1:35:11.500 --> 1:35:13.860
+ of the studies I'm about to tell you about.
+
+1:35:13.860 --> 1:35:16.680
+ I have a colleague at Stanford, Aaliyah Crum,
+
+1:35:16.680 --> 1:35:20.880
+ who's done some remarkable experiments on mindset.
+
+1:35:20.880 --> 1:35:24.620
+ And some people could think about these as placebo effects
+
+1:35:24.620 --> 1:35:26.120
+ or belief effects,
+
+1:35:26.120 --> 1:35:29.460
+ but they actually go way beyond those terms.
+
+1:35:29.460 --> 1:35:32.300
+ And there are a number of different examples of this
+
+1:35:32.300 --> 1:35:35.440
+ that Aaliyah's lab and her coworkers have demonstrated,
+
+1:35:35.440 --> 1:35:39.660
+ but two that are particularly interesting to me,
+
+1:35:39.660 --> 1:35:40.700
+ I want to share with you now
+
+1:35:40.700 --> 1:35:44.100
+ because they really emphasize how our beliefs
+
+1:35:44.100 --> 1:35:45.340
+ can really impact the way
+
+1:35:45.340 --> 1:35:47.560
+ that our brain and body work together.
+
+1:35:47.560 --> 1:35:50.080
+ I think the most famous of these is an experiment they did
+
+1:35:50.080 --> 1:35:52.100
+ where they had two groups of individuals.
+
+1:35:52.100 --> 1:35:55.740
+ They were each given a milkshake
+
+1:35:55.740 --> 1:35:59.840
+ and they had some factors measured from their blood
+
+1:35:59.840 --> 1:36:02.260
+ by an IV while they ingested the milkshake
+
+1:36:02.260 --> 1:36:04.340
+ and then afterwards as well.
+
+1:36:04.340 --> 1:36:06.760
+ And one of the factors that they were looking at
+
+1:36:06.760 --> 1:36:10.740
+ was something called ghrelin, G-H-R-E-L-I-N.
+
+1:36:10.740 --> 1:36:13.820
+ Ghrelin is a peptide that increases with hunger.
+
+1:36:13.820 --> 1:36:16.280
+ So the longer you haven't eaten, the ghrelin goes up.
+
+1:36:16.280 --> 1:36:18.740
+ And I know some of you say, well, I fast, I fast, I fast,
+
+1:36:18.740 --> 1:36:19.980
+ and I eventually lose my appetite.
+
+1:36:19.980 --> 1:36:22.140
+ Well, ghrelin still goes up and then it drops.
+
+1:36:22.140 --> 1:36:24.020
+ So if you were one of these people
+
+1:36:24.020 --> 1:36:26.140
+ that eats every three hours regularly,
+
+1:36:26.140 --> 1:36:28.000
+ ghrelin kind of gets a little pulse
+
+1:36:28.000 --> 1:36:30.540
+ as you get to that two hour and 50 minute mark.
+
+1:36:30.540 --> 1:36:32.340
+ So it's a little bit of a timer as well.
+
+1:36:32.340 --> 1:36:34.740
+ It's really interesting peptide.
+
+1:36:34.740 --> 1:36:39.020
+ In any event, what they did is they gave people milkshakes,
+
+1:36:39.020 --> 1:36:42.580
+ two groups, one group got a shake that they were told
+
+1:36:42.580 --> 1:36:44.700
+ was a low calorie, healthy shake.
+
+1:36:44.700 --> 1:36:48.300
+ The other group got a milkshake that they were told
+
+1:36:48.300 --> 1:36:52.180
+ was the very decadent high calorie shake.
+
+1:36:52.180 --> 1:36:53.620
+ I think it was something like two
+
+1:36:53.620 --> 1:36:55.140
+ or maybe even two and a half times
+
+1:36:55.140 --> 1:36:58.760
+ as many calories as the other, perhaps even more.
+
+1:36:58.760 --> 1:36:59.700
+ I don't recall the details,
+
+1:36:59.700 --> 1:37:02.220
+ but you had a high calorie and a low calorie condition.
+
+1:37:02.220 --> 1:37:04.580
+ And then they drank the shake
+
+1:37:04.580 --> 1:37:08.420
+ and then they measured ghrelin in these subjects' blood.
+
+1:37:08.420 --> 1:37:12.060
+ And what they found was that the high calorie shake
+
+1:37:12.060 --> 1:37:15.980
+ had a much more robust effect on blunting ghrelin
+
+1:37:15.980 --> 1:37:18.660
+ and reducing ghrelin.
+
+1:37:18.660 --> 1:37:20.900
+ But the interesting thing you probably guessed already
+
+1:37:20.900 --> 1:37:24.580
+ is that it was the exact same shake given to both groups.
+
+1:37:24.580 --> 1:37:28.760
+ So people's belief about the content of something
+
+1:37:28.760 --> 1:37:31.260
+ impacted their physiology.
+
+1:37:31.260 --> 1:37:35.260
+ And this speaks to the so-called top-down mechanisms
+
+1:37:35.260 --> 1:37:37.500
+ or modulation of our physiology.
+
+1:37:37.500 --> 1:37:38.740
+ In the previous episode about pain,
+
+1:37:38.740 --> 1:37:42.100
+ we talked about the effects of obsessive,
+
+1:37:42.100 --> 1:37:44.700
+ believe it or not, it was kind of obsessive infatuation
+
+1:37:44.700 --> 1:37:47.660
+ and love on pain responses and pain thresholds.
+
+1:37:47.660 --> 1:37:50.020
+ This is yet another example where beliefs
+
+1:37:50.020 --> 1:37:52.940
+ or subjective feelings can impact physiology
+
+1:37:52.940 --> 1:37:54.080
+ at the level of the periphery,
+
+1:37:54.080 --> 1:37:57.660
+ because ghrelin is released in the periphery in the body.
+
+1:37:57.660 --> 1:38:01.680
+ Now, these belief effects extend beyond examples like this.
+
+1:38:01.680 --> 1:38:03.440
+ Another good example that I'd like to share
+
+1:38:03.440 --> 1:38:08.440
+ is Allie, Dr. Crum, and her colleagues did an experiment
+
+1:38:09.780 --> 1:38:12.620
+ where they took housekeepers,
+
+1:38:12.620 --> 1:38:14.180
+ they were essentially hotel workers,
+
+1:38:14.180 --> 1:38:15.400
+ divide them into two groups.
+
+1:38:15.400 --> 1:38:17.140
+ They had them watch a short film.
+
+1:38:17.140 --> 1:38:20.620
+ In one case, the film was about how their work was important,
+
+1:38:20.620 --> 1:38:22.400
+ it helped people feel comfortable in the hotel,
+
+1:38:22.400 --> 1:38:23.740
+ et cetera, et cetera.
+
+1:38:23.740 --> 1:38:25.680
+ The other group heard that the activity
+
+1:38:25.680 --> 1:38:28.500
+ that they were doing, cleaning and taking care of the hotel
+
+1:38:28.500 --> 1:38:30.540
+ was good for them, it was good for their health,
+
+1:38:30.540 --> 1:38:31.540
+ et cetera, et cetera.
+
+1:38:32.620 --> 1:38:34.940
+ They controlled very nicely in the study
+
+1:38:34.940 --> 1:38:38.960
+ for health parameters, for individual differences,
+
+1:38:38.960 --> 1:38:40.820
+ and for the behaviors of these people
+
+1:38:40.820 --> 1:38:43.820
+ in the period that followed this short tutorial.
+
+1:38:43.820 --> 1:38:47.700
+ And what they found was eight weeks later,
+
+1:38:47.700 --> 1:38:49.620
+ the group that had been told
+
+1:38:49.620 --> 1:38:51.860
+ that the activity was good for them
+
+1:38:51.860 --> 1:38:53.500
+ showed lower blood pressure,
+
+1:38:53.500 --> 1:38:56.060
+ they had lost a significant amount of body fat,
+
+1:38:56.060 --> 1:38:58.620
+ and they reported enjoying their work
+
+1:38:58.620 --> 1:39:00.040
+ far more than the other group.
+
+1:39:00.040 --> 1:39:04.740
+ The same work, simply biased mentally
+
+1:39:04.740 --> 1:39:06.500
+ by the information that they were given,
+
+1:39:06.500 --> 1:39:10.740
+ but their physiology followed that information.
+
+1:39:10.740 --> 1:39:14.140
+ And so this is not just the placebo effect,
+
+1:39:14.140 --> 1:39:16.540
+ this is an incredible set of findings
+
+1:39:16.540 --> 1:39:18.140
+ that illustrate the extent to which
+
+1:39:18.140 --> 1:39:21.000
+ whether or not we believe a food is going to be good for us
+
+1:39:21.000 --> 1:39:24.620
+ or not good for us, well, we can't escape the reality.
+
+1:39:24.620 --> 1:39:26.180
+ You can't tell yourself that a poison
+
+1:39:26.180 --> 1:39:27.980
+ is going to be good for you and ingest that poison
+
+1:39:27.980 --> 1:39:29.980
+ and expect it to not kill you,
+
+1:39:29.980 --> 1:39:34.980
+ nor can you tell yourself that eating 12 croissants,
+
+1:39:35.180 --> 1:39:36.500
+ confess I've done it,
+
+1:39:36.500 --> 1:39:39.100
+ it was after a very long run, a long time ago,
+
+1:39:39.100 --> 1:39:41.140
+ but you can't tell yourself that that's necessarily
+
+1:39:41.140 --> 1:39:42.960
+ going to be good for you
+
+1:39:42.960 --> 1:39:44.940
+ or that it's going to make you lose weight.
+
+1:39:44.940 --> 1:39:48.040
+ These belief effects are not about lying to yourself.
+
+1:39:48.040 --> 1:39:50.780
+ In these cases, in these experiments, as you'll notice,
+
+1:39:50.780 --> 1:39:54.620
+ the subjects didn't have prior knowledge about ghrelin
+
+1:39:54.620 --> 1:39:56.900
+ or about the effects of their daily routine
+
+1:39:56.900 --> 1:39:58.940
+ on weight loss and blood pressure.
+
+1:39:58.940 --> 1:40:00.080
+ So in order for them to work,
+
+1:40:00.080 --> 1:40:03.700
+ you have to be naive to the information, right?
+
+1:40:03.700 --> 1:40:05.300
+ You can't simply lie to yourself
+
+1:40:05.300 --> 1:40:07.740
+ and tell yourself what you want to believe.
+
+1:40:07.740 --> 1:40:11.060
+ And that's important, but also important
+
+1:40:11.060 --> 1:40:12.940
+ is that the mind and the body
+
+1:40:12.940 --> 1:40:14.780
+ are in this fascinating interplay.
+
+1:40:14.780 --> 1:40:16.780
+ And today we've talked mainly about
+
+1:40:16.780 --> 1:40:20.580
+ how the body and things that we put inside this tube,
+
+1:40:20.580 --> 1:40:24.220
+ this that runs from our mouth to the other end,
+
+1:40:24.220 --> 1:40:28.040
+ to our rectum basically is impacting all these cells,
+
+1:40:28.040 --> 1:40:31.180
+ these neurons, microbiota in there,
+
+1:40:31.180 --> 1:40:34.060
+ mucosal lining, heart, lungs,
+
+1:40:34.060 --> 1:40:36.160
+ and how all that information is feeding up to the brain
+
+1:40:36.160 --> 1:40:38.080
+ to impact how we feel up here.
+
+1:40:38.080 --> 1:40:39.700
+ But also how we feel up here
+
+1:40:39.700 --> 1:40:42.380
+ is impacting how our body reacts
+
+1:40:42.380 --> 1:40:44.860
+ at levels of very core physiology
+
+1:40:44.860 --> 1:40:46.840
+ that you couldn't just tell yourself
+
+1:40:46.840 --> 1:40:47.860
+ that this was going to work.
+
+1:40:47.860 --> 1:40:51.100
+ But what you believe about certain substances,
+
+1:40:51.100 --> 1:40:52.980
+ certain foods, certain nutrients
+
+1:40:52.980 --> 1:40:54.500
+ does have a profound effect
+
+1:40:54.500 --> 1:40:57.260
+ on the magnitude of their impact
+
+1:40:57.260 --> 1:41:01.320
+ and sometimes even the quality and direction of that impact.
+
+1:41:01.320 --> 1:41:03.120
+ Well, first of all, I want to thank everybody
+
+1:41:03.120 --> 1:41:05.240
+ for their support of this podcast,
+
+1:41:05.240 --> 1:41:07.740
+ the response that we've received since releasing
+
+1:41:07.740 --> 1:41:10.260
+ at the beginning of the new year has been tremendous
+
+1:41:10.260 --> 1:41:12.340
+ and we're so grateful for it.
+
+1:41:12.340 --> 1:41:15.060
+ I know some of you and people you know have said,
+
+1:41:15.060 --> 1:41:16.420
+ well, it's a lot of information,
+
+1:41:16.420 --> 1:41:18.260
+ it's like a college lecture.
+
+1:41:18.260 --> 1:41:19.980
+ Indeed, there's a lot of information
+
+1:41:19.980 --> 1:41:24.020
+ but I believe very strongly that if you learn mechanism
+
+1:41:24.020 --> 1:41:26.620
+ and maybe even if you hear it several times over,
+
+1:41:26.620 --> 1:41:28.620
+ eventually those mechanisms become embedded
+
+1:41:28.620 --> 1:41:31.460
+ into the way that you view an entire topic.
+
+1:41:31.460 --> 1:41:34.560
+ As well, I always try and put tools as I go along
+
+1:41:34.560 --> 1:41:36.460
+ that you can look to immediately.
+
+1:41:36.460 --> 1:41:39.140
+ Some of them might be right for you, others might not.
+
+1:41:39.140 --> 1:41:41.900
+ Try them if you like and don't if you don't want to
+
+1:41:41.900 --> 1:41:44.400
+ and if they don't work for you, then discard them.
+
+1:41:44.400 --> 1:41:47.520
+ If however, you are finding benefits from the information
+
+1:41:47.520 --> 1:41:49.580
+ and from the tools and you know others
+
+1:41:49.580 --> 1:41:51.480
+ that you think could benefit from it,
+
+1:41:51.480 --> 1:41:55.020
+ please pass along information about the podcast.
+
+1:41:55.020 --> 1:41:56.620
+ Please subscribe to the YouTube channel
+
+1:41:56.620 --> 1:41:57.780
+ if you haven't already.
+
+1:41:57.780 --> 1:41:59.940
+ Please subscribe to us on Apple and Spotify
+
+1:41:59.940 --> 1:42:01.180
+ if you haven't already.
+
+1:42:01.180 --> 1:42:03.020
+ Please leave a review in the comment section
+
+1:42:03.020 --> 1:42:04.060
+ here on YouTube.
+
+1:42:04.060 --> 1:42:05.460
+ Also, if you feel we deserve it,
+
+1:42:05.460 --> 1:42:07.560
+ please give us a five-star review on Apple.
+
+1:42:07.560 --> 1:42:09.680
+ All those things really help us.
+
+1:42:09.680 --> 1:42:12.640
+ In addition, if you'd like to support the podcast further,
+
+1:42:12.640 --> 1:42:14.220
+ we've set up a Patreon account.
+
+1:42:14.220 --> 1:42:17.460
+ It's patreon.com slash Andrew Huberman.
+
+1:42:17.460 --> 1:42:19.140
+ It allows you to support the podcast
+
+1:42:19.140 --> 1:42:20.940
+ at a variety of levels.
+
+1:42:20.940 --> 1:42:24.460
+ We have the 5HTP serotonin for $5 a month,
+
+1:42:24.460 --> 1:42:28.580
+ the Costello, $10 a month in honor of Costello, et cetera.
+
+1:42:28.580 --> 1:42:30.220
+ You don't have to, but if you'd like to,
+
+1:42:30.220 --> 1:42:31.640
+ that would be terrific.
+
+1:42:31.640 --> 1:42:33.500
+ In addition, please check out our sponsors
+
+1:42:33.500 --> 1:42:35.620
+ that we've mentioned at the beginning of the podcast.
+
+1:42:35.620 --> 1:42:37.880
+ That's one of the best ways to help support us.
+
+1:42:37.880 --> 1:42:41.480
+ And we do believe in all the products that we support
+
+1:42:41.480 --> 1:42:43.060
+ and our sponsors very much.
+
+1:42:43.060 --> 1:42:45.740
+ Otherwise, we wouldn't be working with them.
+
+1:42:45.740 --> 1:42:48.900
+ So much so that when I mentioned supplements
+
+1:42:48.900 --> 1:42:50.380
+ and I talk about supplements
+
+1:42:50.380 --> 1:42:52.360
+ throughout the course of the episodes,
+
+1:42:52.360 --> 1:42:53.820
+ I don't mention specific brands,
+
+1:42:53.820 --> 1:42:56.720
+ but I would be remiss if I didn't mention the fact
+
+1:42:56.720 --> 1:43:01.460
+ that we have partnered with Thorne, T-H-O-R-N-E.
+
+1:43:01.460 --> 1:43:04.180
+ And we've done that because we know
+
+1:43:04.180 --> 1:43:06.620
+ that Thorne uses the highest levels of stringency
+
+1:43:06.620 --> 1:43:09.360
+ in terms of the products they produce,
+
+1:43:09.360 --> 1:43:12.960
+ what they say is in each capsule and tablet actually is,
+
+1:43:12.960 --> 1:43:14.320
+ they're used by the Mayo Clinic,
+
+1:43:14.320 --> 1:43:15.700
+ by all the major sports teams
+
+1:43:15.700 --> 1:43:18.460
+ because of their level of stringency and rigor.
+
+1:43:18.460 --> 1:43:20.580
+ If you want to know which supplements I take,
+
+1:43:20.580 --> 1:43:25.580
+ you can go to thorne.com slash the letter U slash Huberman
+
+1:43:25.700 --> 1:43:27.260
+ and you can see the supplements that I take
+
+1:43:27.260 --> 1:43:30.500
+ and you can get those as well as any of the other supplements
+
+1:43:30.500 --> 1:43:33.140
+ and products that Thorne makes for 20% off.
+
+1:43:33.140 --> 1:43:37.980
+ So it's thorne.com slash the letter U slash Huberman
+
+1:43:37.980 --> 1:43:41.900
+ to get 20% off any supplements that Thorne makes.
+
+1:43:41.900 --> 1:43:44.300
+ So today's episode, we took a full journey
+
+1:43:44.300 --> 1:43:45.980
+ into the brain-body relationship
+
+1:43:45.980 --> 1:43:47.800
+ and discussed a lot of the mechanisms
+
+1:43:47.800 --> 1:43:50.740
+ and the actionable items that you can approach
+
+1:43:50.740 --> 1:43:53.160
+ if you want to explore this aspect of your biology
+
+1:43:53.160 --> 1:43:54.740
+ and psychology further.
+
+1:43:54.740 --> 1:43:56.900
+ Last, but certainly not least,
+
+1:43:56.900 --> 1:43:59.580
+ I want to thank everybody for your time and attention today
+
+1:43:59.580 --> 1:44:02.660
+ and as always, thank you for your interest in science.
+
+1:44:02.660 --> 1:44:30.660
+ I'll see you next time.
+

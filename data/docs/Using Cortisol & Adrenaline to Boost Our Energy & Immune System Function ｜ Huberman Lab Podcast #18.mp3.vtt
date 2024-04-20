@@ -1,0 +1,7559 @@
+WEBVTT
+
+00:00.000 --> 00:02.260
+ Welcome to the Huberman Lab Podcast,
+
+00:02.260 --> 00:04.900
+ where we discuss science and science-based tools
+
+00:04.900 --> 00:05.900
+ for everyday life.
+
+00:09.560 --> 00:12.420
+ I'm Andrew Huberman, and I'm a professor of neurobiology
+
+00:12.420 --> 00:15.620
+ and ophthalmology at Stanford Schooledicine.
+
+00:15.620 --> 00:17.460
+ This podcast is separate from my teaching
+
+00:17.460 --> 00:19.260
+ and research roles at Stanford.
+
+00:19.260 --> 00:21.340
+ It is, however, part of my desire and effort
+
+00:21.340 --> 00:23.420
+ to bring zero cost to consumer information
+
+00:23.420 --> 00:25.740
+ about science and science-related tools
+
+00:25.740 --> 00:27.420
+ to the general public.
+
+00:27.420 --> 00:28.680
+ In keeping with that theme,
+
+00:28.680 --> 00:31.660
+ I'd like to thank the sponsors of today's podcast.
+
+00:31.660 --> 00:34.320
+ Our first sponsor is Inside Tracker.
+
+00:34.320 --> 00:37.060
+ Inside Tracker is a personalized nutrition platform
+
+00:37.060 --> 00:39.860
+ that analyzes data from your blood and DNA
+
+00:39.860 --> 00:41.540
+ to help you better understand your body
+
+00:41.540 --> 00:43.540
+ and reach your health goals.
+
+00:43.540 --> 00:46.660
+ I've long been a fan of doing blood tests,
+
+00:46.660 --> 00:48.460
+ and more recently as they've been developed,
+
+00:48.460 --> 00:49.980
+ also DNA tests.
+
+00:49.980 --> 00:53.180
+ And the reason for that is that so many of the factors
+
+00:53.180 --> 00:55.740
+ that impact our immediate and long-term health
+
+00:55.740 --> 00:58.040
+ and that inform our health choices
+
+00:58.040 --> 01:01.640
+ can only be analyzed by way of blood or DNA tests.
+
+01:01.640 --> 01:03.160
+ The great thing about Inside Tracker
+
+01:03.160 --> 01:06.780
+ is they make getting the blood and DNA tests extremely easy.
+
+01:06.780 --> 01:08.320
+ They'll come to your home if you like,
+
+01:08.320 --> 01:11.340
+ or you can go to a place where you can get your blood drawn
+
+01:11.340 --> 01:13.840
+ and your DNA swab taken there.
+
+01:13.840 --> 01:16.560
+ As well, once you get the information back
+
+01:16.560 --> 01:19.260
+ from Inside Tracker, it's very easy to understand
+
+01:19.260 --> 01:21.460
+ what to do with that information, how to interpret it.
+
+01:21.460 --> 01:24.180
+ And that's really what sets Inside Tracker apart, I believe,
+
+01:24.180 --> 01:29.120
+ from other blood and DNA testing tools and companies.
+
+01:29.120 --> 01:31.660
+ Most sources and companies will give you information back
+
+01:31.660 --> 01:33.340
+ about what your levels of hormones are
+
+01:33.340 --> 01:35.380
+ and metabolic factors, et cetera,
+
+01:35.380 --> 01:37.200
+ but no clear directives about what to do
+
+01:37.200 --> 01:39.440
+ with that information to get those markers
+
+01:39.440 --> 01:41.480
+ in the ranges that you want
+
+01:41.480 --> 01:43.100
+ in order to optimize your health.
+
+01:43.100 --> 01:45.020
+ Inside Tracker makes that all very easy.
+
+01:45.020 --> 01:48.740
+ It gives you directives about exercise, about nutrition,
+
+01:48.740 --> 01:51.980
+ about various supplements you may or may not want to take.
+
+01:51.980 --> 01:54.320
+ And once again, only through blood and DNA tests
+
+01:54.320 --> 01:56.380
+ can you access that information.
+
+01:56.380 --> 01:58.920
+ If you want to try Inside Tracker,
+
+01:58.920 --> 02:01.940
+ you can visit insidetracker.com slash Huberman.
+
+02:01.940 --> 02:02.780
+ And if you do that,
+
+02:02.780 --> 02:05.780
+ you'll get 25% off any of Inside Tracker's plans.
+
+02:05.780 --> 02:08.620
+ That's insidetracker.com slash Huberman
+
+02:08.620 --> 02:11.980
+ to get 25% off and enter Huberman at checkout.
+
+02:11.980 --> 02:15.040
+ Today's episode is also brought to us by Athletic Greens.
+
+02:15.040 --> 02:16.860
+ Athletic Greens is an all-in-one
+
+02:16.860 --> 02:19.340
+ vitamin mineral probiotic drink.
+
+02:19.340 --> 02:22.580
+ I've been taking Athletic Greens since 2012,
+
+02:22.580 --> 02:25.060
+ and so I'm delighted that they're sponsoring the podcast.
+
+02:25.060 --> 02:26.580
+ I started taking Athletic Greens
+
+02:26.580 --> 02:29.580
+ and I still take Athletic Greens once or twice a day
+
+02:29.580 --> 02:32.720
+ because it covers all my nutritional vitamin mineral
+
+02:32.720 --> 02:34.300
+ and probiotic bases.
+
+02:34.300 --> 02:35.860
+ Of course, you can get vitamins and minerals
+
+02:35.860 --> 02:37.500
+ and probiotics from food,
+
+02:37.500 --> 02:38.620
+ but many of us, including me,
+
+02:38.620 --> 02:41.220
+ find it hard to do that on a consistent basis,
+
+02:41.220 --> 02:43.020
+ especially when I'm working a lot,
+
+02:43.020 --> 02:46.640
+ when stress and sleep aren't optimized, et cetera.
+
+02:46.640 --> 02:47.600
+ With Athletic Greens,
+
+02:47.600 --> 02:49.560
+ I make sure to get all the things I need,
+
+02:49.560 --> 02:52.100
+ and then all the other supplements I take or what I eat,
+
+02:52.100 --> 02:54.540
+ I can consider additional insurance.
+
+02:54.540 --> 02:56.940
+ The great thing about Athletic Greens is it tastes great.
+
+02:56.940 --> 02:58.200
+ I like to mix mine with water
+
+02:58.200 --> 02:59.460
+ and a little bit of lemon juice.
+
+02:59.460 --> 03:01.300
+ I take it once early in the day
+
+03:01.300 --> 03:04.080
+ and then sometimes again in the afternoon.
+
+03:04.080 --> 03:05.820
+ The fact that it includes probiotics
+
+03:05.820 --> 03:07.240
+ is really important to me.
+
+03:07.240 --> 03:10.060
+ There are so many data now pointing to the fact
+
+03:10.060 --> 03:12.740
+ that probiotics and gut brain health
+
+03:12.740 --> 03:16.340
+ and gut health generally are very important for metabolism,
+
+03:16.340 --> 03:19.380
+ for hormone output, for neurotransmitter production,
+
+03:19.380 --> 03:22.100
+ so many vital things related to our health.
+
+03:22.100 --> 03:24.220
+ Athletic Greens makes it easy to make sure
+
+03:24.220 --> 03:25.700
+ that I'm getting everything that I need
+
+03:25.700 --> 03:28.460
+ in the vitamin mineral and probiotic department.
+
+03:28.460 --> 03:29.900
+ If you'd like to try Athletic Greens,
+
+03:29.900 --> 03:33.220
+ you can go to athleticgreens.com slash Huberman
+
+03:33.220 --> 03:34.580
+ and claim a special offer.
+
+03:34.580 --> 03:37.140
+ They'll give you five free travel packs
+
+03:37.140 --> 03:40.460
+ plus a year supply of vitamin D3K2.
+
+03:40.460 --> 03:43.680
+ There's now a ton of data as well pointing to the fact
+
+03:43.680 --> 03:47.620
+ that vitamin D3 and K2 are important for a huge number
+
+03:47.620 --> 03:50.660
+ of health related factors, including hormones,
+
+03:50.660 --> 03:53.320
+ metabolic factors, neurotransmitters, et cetera.
+
+03:53.320 --> 03:56.380
+ So they have the year supply of vitamin D3 completely free
+
+03:56.380 --> 03:58.140
+ along with your Athletic Greens offer
+
+03:58.140 --> 03:59.920
+ and you get the five free travel packs.
+
+03:59.920 --> 04:01.020
+ So if you'd like to try that,
+
+04:01.020 --> 04:03.640
+ you go to athleticgreens.com slash Huberman
+
+04:03.640 --> 04:05.540
+ and claim the special offer.
+
+04:05.540 --> 04:08.420
+ Today's episode is also brought to us by Headspace.
+
+04:08.420 --> 04:11.940
+ Headspace is a meditation app that makes meditation easy.
+
+04:11.940 --> 04:14.280
+ I started meditating many years ago,
+
+04:14.280 --> 04:16.700
+ but I found it was difficult to stay consistent
+
+04:16.700 --> 04:18.400
+ with my meditation practice.
+
+04:18.400 --> 04:20.380
+ In fact, when I would get stressed or really busy,
+
+04:20.380 --> 04:21.980
+ that's when I probably needed
+
+04:21.980 --> 04:23.380
+ the meditation practice the most.
+
+04:23.380 --> 04:26.260
+ And that's when I tended to drop the meditation practice
+
+04:26.260 --> 04:27.580
+ and run around doing other things.
+
+04:27.580 --> 04:29.740
+ So it was really a kind of catch 22.
+
+04:29.740 --> 04:31.400
+ I learned about Headspace a few years ago
+
+04:31.400 --> 04:33.260
+ on JetBlue flights when they had them included
+
+04:33.260 --> 04:35.020
+ as an option of whether or not to watch a movie
+
+04:35.020 --> 04:37.040
+ or a television show or do meditation.
+
+04:37.040 --> 04:39.120
+ I tried the meditation and I really liked it.
+
+04:39.120 --> 04:42.540
+ Very easy to follow along with a Headspace meditation.
+
+04:42.540 --> 04:45.100
+ The meditations that they include on the Headspace app
+
+04:45.100 --> 04:47.100
+ are also backed by dozens of peer reviewed
+
+04:47.100 --> 04:48.820
+ quality independent studies.
+
+04:48.820 --> 04:50.540
+ And of course there are now thousands
+
+04:50.540 --> 04:53.060
+ of peer reviewed quality studies pointing to the fact
+
+04:53.060 --> 04:54.900
+ that a meditation practice is beneficial
+
+04:54.900 --> 04:57.540
+ for sake of improved sleep, for reducing stress
+
+04:57.540 --> 04:59.140
+ and a number of other health metrics,
+
+04:59.140 --> 05:02.260
+ cardiovascular disease, risk, et cetera.
+
+05:02.260 --> 05:04.660
+ The great thing about Headspace is it's allowed me
+
+05:04.660 --> 05:06.900
+ to stay really consistent with my meditation practice.
+
+05:06.900 --> 05:09.220
+ They have meditations of different duration
+
+05:09.220 --> 05:10.140
+ and different type.
+
+05:10.140 --> 05:11.420
+ So you never get bored.
+
+05:11.420 --> 05:13.380
+ I actually look forward to my meditation practice
+
+05:13.380 --> 05:15.140
+ and it continues to benefit me.
+
+05:15.140 --> 05:16.620
+ In fact, since starting Headspace,
+
+05:16.620 --> 05:18.660
+ I've been consistent with meditation for much longer
+
+05:18.660 --> 05:20.500
+ than I ever had previously.
+
+05:20.500 --> 05:21.780
+ If you want to try Headspace,
+
+05:21.780 --> 05:25.140
+ you can go to headspace.com slash special offer
+
+05:25.140 --> 05:27.460
+ and you'll get a free one month trial
+
+05:27.460 --> 05:29.760
+ with Headspace's full library of meditations
+
+05:29.760 --> 05:31.120
+ for every situation.
+
+05:31.120 --> 05:34.160
+ That's headspace.com slash special offer
+
+05:34.160 --> 05:35.800
+ to get a one month free trial.
+
+05:35.800 --> 05:37.820
+ That's their best offer out there right now.
+
+05:37.820 --> 05:40.060
+ And then you can try their full library of meditations
+
+05:40.060 --> 05:41.560
+ for every situation.
+
+05:41.560 --> 05:44.500
+ Today, we're going to continue our discussion about hormones
+
+05:44.500 --> 05:47.620
+ and we're going to focus on how particular hormones
+
+05:47.620 --> 05:51.660
+ influence our energy levels and our immune system.
+
+05:51.660 --> 05:53.740
+ Now, last episode, I mentioned at the end
+
+05:53.740 --> 05:55.980
+ that we were concluding our month on hormones
+
+05:55.980 --> 05:59.060
+ but we decided to include this additional episode.
+
+05:59.060 --> 06:00.740
+ So this would be the fifth episode
+
+06:00.740 --> 06:04.040
+ in the sequence of episodes about hormones
+
+06:04.040 --> 06:05.380
+ because there are two hormones
+
+06:05.380 --> 06:08.380
+ which are vitally important for a huge number
+
+06:08.380 --> 06:11.220
+ of biological functions that we will talk about today
+
+06:11.220 --> 06:14.020
+ but that are particularly important for energy levels
+
+06:14.020 --> 06:15.220
+ and your immune system.
+
+06:15.220 --> 06:17.740
+ This is something that I get asked about a lot.
+
+06:17.740 --> 06:19.900
+ So rather than skip to the next general topic,
+
+06:19.900 --> 06:23.220
+ today we're going to talk about the hormones cortisol
+
+06:23.220 --> 06:25.720
+ and epinephrine, also called adrenaline.
+
+06:26.540 --> 06:29.260
+ You do not have to have heard the previous episodes
+
+06:29.260 --> 06:32.380
+ on hormones in order to understand and digest the material
+
+06:32.380 --> 06:34.180
+ from today's podcast.
+
+06:34.180 --> 06:36.780
+ If I mentioned anything related to previous episodes,
+
+06:36.780 --> 06:38.980
+ I promise to give a little bit of quick background
+
+06:38.980 --> 06:40.820
+ to get everyone up to speed.
+
+06:40.820 --> 06:43.680
+ Today, we're going to talk about the biology of cortisol.
+
+06:43.680 --> 06:46.040
+ We're going to talk about the biology of epinephrine.
+
+06:46.040 --> 06:47.380
+ As always, we'll talk mechanism
+
+06:47.380 --> 06:49.460
+ and there are going to be a lot of tools.
+
+06:49.460 --> 06:51.660
+ If you're somebody who struggles with stress
+
+06:51.660 --> 06:55.660
+ and energy levels and balancing stress and energy levels,
+
+06:55.660 --> 06:58.440
+ today's episode is going to be vital for you.
+
+06:58.440 --> 07:00.280
+ If you're somebody who has challenges with sleep
+
+07:00.280 --> 07:01.540
+ or you're somebody who has challenges
+
+07:01.540 --> 07:04.620
+ getting your energy level up throughout the day
+
+07:04.620 --> 07:07.200
+ and getting your energy level down when you want to sleep,
+
+07:07.200 --> 07:09.100
+ today's episode is also for you.
+
+07:09.100 --> 07:11.380
+ And we're going to talk about the immune system
+
+07:11.380 --> 07:14.180
+ and how to enhance the function of your immune system.
+
+07:14.180 --> 07:16.140
+ We're also going to get into some fun topics
+
+07:16.140 --> 07:17.860
+ related to learning and memory
+
+07:17.860 --> 07:20.140
+ and how you can leverage cortisol
+
+07:20.140 --> 07:23.680
+ and epinephrine in particular in order to learn faster.
+
+07:23.680 --> 07:26.160
+ We're going to talk about so-called nootropics, smart drugs
+
+07:26.160 --> 07:28.240
+ and how they work because there are several of them
+
+07:28.240 --> 07:30.420
+ that tap into the epinephrine system
+
+07:30.420 --> 07:33.700
+ that aren't often discussed and that you have access to.
+
+07:33.700 --> 07:35.060
+ We're going to talk about how caffeine
+
+07:35.060 --> 07:38.620
+ can actually rewire your brain for better or for worse.
+
+07:38.620 --> 07:41.260
+ And we're going to talk about the biology of comfort foods
+
+07:41.260 --> 07:44.140
+ and why they work so well and what they're doing.
+
+07:44.140 --> 07:45.660
+ And in understanding that,
+
+07:45.660 --> 07:48.980
+ you'll be able to better understand your food choices
+
+07:48.980 --> 07:51.500
+ as they relate to short-term and long-term energy.
+
+07:51.500 --> 07:52.820
+ So we have a lot to cover.
+
+07:52.820 --> 07:54.260
+ Everything will be timestamped.
+
+07:54.260 --> 07:56.720
+ I want to just remind people that we caption every episode
+
+07:56.720 --> 07:58.780
+ in English and in Spanish.
+
+07:58.780 --> 08:01.640
+ The captions take a day or two to pop up on YouTube.
+
+08:01.640 --> 08:04.340
+ So if you're not seeing those within the first couple days,
+
+08:04.340 --> 08:06.460
+ please be patient with us in order to get captions
+
+08:06.460 --> 08:10.220
+ that actually read similarly to what I'm saying.
+
+08:10.220 --> 08:12.020
+ We go through a captioning service
+
+08:12.020 --> 08:13.560
+ and so we have them done by experts
+
+08:13.560 --> 08:15.880
+ and that takes a little bit of additional time.
+
+08:15.880 --> 08:18.540
+ Meanwhile, if you have any questions
+
+08:18.540 --> 08:20.560
+ as the episode evolves, please write them down,
+
+08:20.560 --> 08:22.140
+ please put them in the comment section,
+
+08:22.140 --> 08:24.700
+ please subscribe to the channel if you haven't already
+
+08:24.700 --> 08:26.460
+ and let's get started talking about
+
+08:26.460 --> 08:29.020
+ how to increase your energy and improve
+
+08:29.020 --> 08:31.980
+ and increase your immunity by leveraging the biology
+
+08:31.980 --> 08:34.660
+ of cortisol and adrenaline.
+
+08:34.660 --> 08:37.700
+ Before we dive into the biology of increasing energy
+
+08:37.700 --> 08:41.040
+ and your immune system, I want to cover three topics
+
+08:41.040 --> 08:44.660
+ that I promised I would mention from previous episodes.
+
+08:44.660 --> 08:48.000
+ The first one relates to intermittent fasting.
+
+08:48.000 --> 08:51.580
+ The second one relates to why your stomach grumbles.
+
+08:51.580 --> 08:54.140
+ I forgot to mention the biology of that last time.
+
+08:54.140 --> 08:57.480
+ And the third is a powerful way to increase growth hormone,
+
+08:57.480 --> 08:59.660
+ which is powerful for increasing metabolism,
+
+08:59.660 --> 09:01.700
+ fat burning and tissue repair, et cetera,
+
+09:01.700 --> 09:03.600
+ that doesn't involve a sauna
+
+09:03.600 --> 09:07.040
+ or wrapping yourself in plastic bags and going for a jog.
+
+09:07.040 --> 09:08.900
+ So first, intermittent fasting.
+
+09:08.900 --> 09:11.100
+ Last episode, I talked a lot about growth hormone
+
+09:11.100 --> 09:13.900
+ and thyroid hormone and I mentioned things like sauna
+
+09:13.900 --> 09:16.900
+ and exercise and sleep and how they can increase levels
+
+09:16.900 --> 09:19.820
+ of growth hormone within the healthy ranges
+
+09:19.820 --> 09:23.380
+ and why increasing growth hormone can be very beneficial
+
+09:23.380 --> 09:25.780
+ because it can burn off body fat,
+
+09:25.780 --> 09:29.020
+ it can improve muscle and general tissue health,
+
+09:29.020 --> 09:31.380
+ cartilage, et cetera, and we tend to lose
+
+09:31.380 --> 09:35.220
+ or our levels of growth hormone are reduced as we age.
+
+09:35.220 --> 09:37.420
+ Many people ask me, well, what about fasting?
+
+09:37.420 --> 09:39.460
+ Everyone's been promised on the internet
+
+09:39.460 --> 09:42.460
+ that intermittent fasting leads to these big increases
+
+09:42.460 --> 09:44.020
+ in growth hormone.
+
+09:44.020 --> 09:46.380
+ The reason I didn't mention it is that I couldn't find
+
+09:46.380 --> 09:48.720
+ a study that actually pointed to the underlying mechanism.
+
+09:48.720 --> 09:51.480
+ I saw lots of claims, lots of podcasts,
+
+09:51.480 --> 09:54.280
+ lots of degrees behind people's names,
+
+09:54.280 --> 09:56.820
+ sometimes biologists, sometimes entirely different fields
+
+09:56.820 --> 10:00.060
+ talking about this, but very few studies.
+
+10:00.060 --> 10:02.660
+ And then I found what I would consider the study.
+
+10:02.660 --> 10:04.140
+ We will link to this study.
+
+10:04.140 --> 10:08.940
+ Turns out that fasting does increase growth hormone levels
+
+10:08.940 --> 10:11.740
+ and the way that it does it is fascinating.
+
+10:11.740 --> 10:14.240
+ I mentioned in a previous podcast about hunger
+
+10:14.240 --> 10:17.540
+ and timing of meals and timing of hunger
+
+10:17.540 --> 10:20.660
+ that when you're hungry, you release a hormone
+
+10:20.660 --> 10:22.260
+ in your body called ghrelin,
+
+10:22.260 --> 10:24.020
+ sometimes actually called ghrelin.
+
+10:24.020 --> 10:26.660
+ Thanks for all of you ghrelinistas or ghrelinistas
+
+10:26.660 --> 10:27.940
+ that corrected my pronunciation.
+
+10:27.940 --> 10:31.060
+ It's both ghrelin or ghrelin, either one works.
+
+10:31.060 --> 10:33.600
+ Ghrelin makes you hungry.
+
+10:33.600 --> 10:36.260
+ When blood glucose, your blood sugar is low,
+
+10:36.260 --> 10:39.420
+ ghrelin is secreted and makes you hungry.
+
+10:39.420 --> 10:42.460
+ And it turns out that ghrelin, this hunger hormone,
+
+10:42.460 --> 10:45.720
+ actually binds to the receptor in the brain
+
+10:45.720 --> 10:50.080
+ that normally binds what's called
+
+10:50.080 --> 10:52.500
+ growth hormone releasing hormone.
+
+10:52.500 --> 10:54.160
+ So believe it or not, the hunger hormone
+
+10:54.160 --> 10:56.360
+ can act like growth hormone releasing hormone
+
+10:56.360 --> 10:59.220
+ and thereby stimulate growth hormone.
+
+10:59.220 --> 11:02.660
+ Now, the levels of growth hormone that fasting promotes
+
+11:02.660 --> 11:05.020
+ through this ghrelin system are pretty substantial.
+
+11:05.020 --> 11:07.180
+ It's about a doubling of growth hormone levels
+
+11:07.180 --> 11:08.920
+ in the waking state.
+
+11:08.920 --> 11:11.380
+ So we know that you can release growth hormone in sleep.
+
+11:11.380 --> 11:13.100
+ Intermittent fasting, it turns out,
+
+11:13.100 --> 11:16.860
+ can increase growth hormone by binding ghrelin
+
+11:16.860 --> 11:19.500
+ to the growth hormone releasing hormone receptor.
+
+11:19.500 --> 11:21.380
+ And it does it also during the daytime.
+
+11:21.380 --> 11:24.320
+ So yes, indeed, fasting can increase growth hormone,
+
+11:24.320 --> 11:27.540
+ not to the supra levels that taking growth hormone
+
+11:27.540 --> 11:30.560
+ would increase it or that a sauna could increase it,
+
+11:30.560 --> 11:33.560
+ but it does seem to increase growth hormone.
+
+11:33.560 --> 11:35.020
+ Later in today's episode,
+
+11:35.020 --> 11:37.880
+ we're going to talk a lot about different patterns
+
+11:37.880 --> 11:42.540
+ of fasting and eating that can control epinephrine.
+
+11:42.540 --> 11:46.580
+ And so we will return to specifics about how long a fast.
+
+11:46.580 --> 11:49.320
+ Do you need to fast for two or three days or 23 hours?
+
+11:49.320 --> 11:51.700
+ Fortunately, for people like me who love to eat,
+
+11:51.700 --> 11:52.940
+ that's not the case.
+
+11:52.940 --> 11:55.060
+ So we'll talk specific fasting protocols
+
+11:55.060 --> 11:56.160
+ later in the episode.
+
+11:57.100 --> 12:00.500
+ We also said we were going to talk about tummy grumble.
+
+12:00.500 --> 12:02.500
+ When your stomach growls,
+
+12:02.500 --> 12:04.800
+ it is not because of fluid sifting around in there.
+
+12:04.800 --> 12:06.220
+ A lot of people think, oh, you know,
+
+12:06.220 --> 12:07.100
+ it's fluid sifting around.
+
+12:07.100 --> 12:10.780
+ It turns out that your stomach has smooth muscle
+
+12:10.780 --> 12:11.940
+ that lines its sides.
+
+12:11.940 --> 12:14.000
+ And when you eat something or you don't,
+
+12:14.000 --> 12:14.840
+ every once in a while,
+
+12:14.840 --> 12:18.140
+ your stomach cinches off at the two ends like a bag
+
+12:18.140 --> 12:19.240
+ with a hose on either end,
+
+12:19.240 --> 12:21.820
+ because that's essentially what your digestive system is.
+
+12:21.820 --> 12:23.620
+ And if there's nothing in there,
+
+12:23.620 --> 12:27.500
+ what happens is the muscles that line the sides
+
+12:27.500 --> 12:28.340
+ of your stomach,
+
+12:28.340 --> 12:32.300
+ they kind of extend around the stomach in these cables.
+
+12:32.300 --> 12:33.380
+ Those are always there.
+
+12:33.380 --> 12:35.300
+ And if you have food in your stomach,
+
+12:35.300 --> 12:36.940
+ what they do is they churn your stomach.
+
+12:36.940 --> 12:38.940
+ They literally turn the muscles of your stomach
+
+12:38.940 --> 12:41.240
+ like a tumbler to help break up the food
+
+12:41.240 --> 12:43.020
+ that presumably you didn't chew well enough
+
+12:43.020 --> 12:44.660
+ because you were eating too fast.
+
+12:45.600 --> 12:47.980
+ When you don't have any food in your stomach,
+
+12:47.980 --> 12:49.400
+ that churning continues.
+
+12:49.400 --> 12:51.500
+ And that contraction of the muscle and the turning,
+
+12:51.500 --> 12:53.460
+ literally turning over of your muscles,
+
+12:53.460 --> 12:54.860
+ they don't flip over completely,
+
+12:54.860 --> 12:56.080
+ but the turning over the muscles,
+
+12:56.080 --> 12:58.900
+ that's what causes the stomach growling.
+
+12:58.900 --> 13:01.220
+ If you don't want to be the person in the meeting
+
+13:01.220 --> 13:03.460
+ or sitting there in a quiet theater
+
+13:03.460 --> 13:06.820
+ whose stomach is growling, chew your food better.
+
+13:06.820 --> 13:08.340
+ That's the simple solution.
+
+13:08.340 --> 13:09.220
+ And last episode,
+
+13:09.220 --> 13:13.780
+ I talked a lot about how sauna controlled safe hyperthermia
+
+13:13.780 --> 13:16.420
+ can cause huge increases in growth hormone release,
+
+13:16.420 --> 13:18.660
+ anywhere from 300 to 500,
+
+13:18.660 --> 13:23.420
+ even 1,600% increases in growth hormone release,
+
+13:23.420 --> 13:26.780
+ really staggeringly high increases.
+
+13:26.780 --> 13:28.980
+ I point out that many people don't have saunas
+
+13:28.980 --> 13:30.740
+ in their yard or in their homes,
+
+13:30.740 --> 13:32.840
+ and they would go through some other measures
+
+13:32.840 --> 13:35.300
+ to increase safely their body heat,
+
+13:36.260 --> 13:38.000
+ creating a steam room in their bathroom
+
+13:38.000 --> 13:41.100
+ or jogging with extra sweats on, this kind of thing.
+
+13:41.100 --> 13:42.860
+ Many of you asked about hot baths.
+
+13:42.860 --> 13:46.080
+ Hot baths will increase growth hormone, excuse me.
+
+13:46.080 --> 13:48.220
+ However, the temperatures that you need
+
+13:48.220 --> 13:50.640
+ in order to increase growth hormone
+
+13:50.640 --> 13:52.820
+ are high enough that you run the risk of burn.
+
+13:52.820 --> 13:54.820
+ And so I really can't make any recommendations
+
+13:54.820 --> 13:57.620
+ about hot baths, but if you can tolerate a nice hot bath,
+
+13:57.620 --> 13:59.580
+ you are going to get some growth hormone release.
+
+13:59.580 --> 14:01.260
+ However, the sauna has this advantage
+
+14:01.260 --> 14:04.140
+ of you being able to enter 175 degree
+
+14:04.140 --> 14:05.780
+ or 200 degree environment,
+
+14:05.780 --> 14:08.300
+ provided you're not pregnant, you're not a young child,
+
+14:08.300 --> 14:10.300
+ et cetera, you can do that safely.
+
+14:10.300 --> 14:12.360
+ And getting big increases in growth hormone,
+
+14:12.360 --> 14:14.940
+ the hot bath will lead to lesser increases
+
+14:14.940 --> 14:16.540
+ in growth hormone.
+
+14:16.540 --> 14:18.240
+ We're going to talk a lot about temperature regulation
+
+14:18.240 --> 14:20.780
+ in a future episode, but as always,
+
+14:20.780 --> 14:23.500
+ if you're ever going to start playing with hypothermia
+
+14:23.500 --> 14:27.140
+ or hypothermia, cold baths, ice baths, hot showers,
+
+14:27.140 --> 14:29.020
+ hot baths that are beyond the kind of norm
+
+14:29.020 --> 14:31.900
+ of what's comfortable, you have to be extremely careful
+
+14:31.900 --> 14:33.500
+ and please consult a doctor.
+
+14:33.500 --> 14:35.420
+ I think it's fair to say that most people
+
+14:35.420 --> 14:38.460
+ would like to have a lot of energy during the day,
+
+14:38.460 --> 14:40.540
+ if you work during the day,
+
+14:40.540 --> 14:43.860
+ and they'd like their energy to taper off at night.
+
+14:43.860 --> 14:45.700
+ And I think it's fair to say that most people
+
+14:45.700 --> 14:48.700
+ don't enjoy being sick, nobody wants to get sick.
+
+14:49.800 --> 14:51.800
+ In other words, you want to have energy
+
+14:51.800 --> 14:54.820
+ and you want your immune system to function well,
+
+14:54.820 --> 14:56.900
+ to ward off infections of various kinds,
+
+14:56.900 --> 15:00.180
+ bacterial infections, viral infections, et cetera.
+
+15:00.180 --> 15:02.300
+ And it turns out that the two hormones
+
+15:02.300 --> 15:05.900
+ that dominate those processes of having enough energy
+
+15:05.900 --> 15:07.980
+ and having a healthy immune system
+
+15:07.980 --> 15:10.820
+ are cortisol and epinephrine.
+
+15:10.820 --> 15:14.540
+ Epinephrine is the same thing as adrenaline.
+
+15:14.540 --> 15:17.620
+ In the body, we tend to call adrenaline adrenaline
+
+15:17.620 --> 15:20.940
+ and in the brain, we tend to call adrenaline epinephrine.
+
+15:20.940 --> 15:24.380
+ And I'm sorry for that, I didn't create this naming system.
+
+15:24.380 --> 15:26.620
+ And the story behind it is uninteresting
+
+15:26.620 --> 15:27.620
+ and not worth our time.
+
+15:27.620 --> 15:30.540
+ I will use the words adrenaline and epinephrine
+
+15:30.540 --> 15:32.740
+ interchangeably today.
+
+15:32.740 --> 15:34.420
+ Cortisol is cortisol.
+
+15:34.420 --> 15:36.440
+ And I just want to cover a little bit
+
+15:36.440 --> 15:38.820
+ about what cortisol and epinephrine are,
+
+15:38.820 --> 15:42.060
+ where they are released in the body and brain,
+
+15:42.060 --> 15:44.240
+ because if you can understand that,
+
+15:44.240 --> 15:46.840
+ you will understand better how to control them.
+
+15:48.620 --> 15:53.300
+ First of all, cortisol is a steroid hormone,
+
+15:53.300 --> 15:56.880
+ much like estrogen and testosterone,
+
+15:56.880 --> 16:00.660
+ in that it is derived from cholesterol.
+
+16:00.660 --> 16:03.060
+ Now that could be cholesterol that you eat.
+
+16:03.060 --> 16:06.060
+ It could be cholesterol that's produced by the liver.
+
+16:06.060 --> 16:07.300
+ As many of you probably know,
+
+16:07.300 --> 16:10.780
+ the relationship between dietary cholesterol,
+
+16:10.780 --> 16:14.420
+ the fats that you eat and blood cholesterol
+
+16:14.420 --> 16:17.740
+ and liver cholesterol is a very controversial one.
+
+16:17.740 --> 16:19.660
+ It's a barbed wire topic.
+
+16:19.660 --> 16:21.660
+ There are people that claim that dietary cholesterol
+
+16:21.660 --> 16:25.380
+ has zero impact on circulating cholesterol
+
+16:25.380 --> 16:26.260
+ coming from the liver.
+
+16:26.260 --> 16:29.260
+ There are people who argue the exact opposite,
+
+16:29.260 --> 16:32.200
+ both with good data in hand, I would say.
+
+16:32.200 --> 16:34.700
+ There are some problems for the idea
+
+16:34.700 --> 16:36.380
+ that all your cholesterol levels
+
+16:36.380 --> 16:39.660
+ are determined by dietary intake,
+
+16:39.660 --> 16:43.020
+ namely that anorexics often have very high levels
+
+16:43.020 --> 16:44.660
+ of cholesterol that their liver produces,
+
+16:44.660 --> 16:46.100
+ even though they are eating very little
+
+16:46.100 --> 16:47.940
+ and sometimes not eating at all.
+
+16:47.940 --> 16:52.340
+ So understand that cholesterol is a precursor molecule,
+
+16:52.340 --> 16:54.580
+ meaning it's the substrate from which a lot of things
+
+16:54.580 --> 16:57.100
+ like testosterone and estrogen are made.
+
+16:57.100 --> 17:00.080
+ Please also understand that cholesterol can be made
+
+17:00.080 --> 17:03.700
+ into estrogen or testosterone or cortisol,
+
+17:03.700 --> 17:07.800
+ and that cortisol is sort of the competitive partner
+
+17:07.800 --> 17:09.320
+ to estrogen and testosterone.
+
+17:09.320 --> 17:12.380
+ What this means is no matter how much cholesterol
+
+17:12.380 --> 17:13.760
+ you're eating or you produce,
+
+17:13.760 --> 17:15.700
+ whether or not it's low or it's high,
+
+17:15.700 --> 17:19.180
+ if you are stressed, more of that cholesterol
+
+17:19.180 --> 17:23.060
+ is going to be devoted toward creating cortisol,
+
+17:23.060 --> 17:25.500
+ which is indeed a stress hormone.
+
+17:25.500 --> 17:28.820
+ However, the word stress shouldn't stress you out
+
+17:28.820 --> 17:30.240
+ because you need cortisol.
+
+17:30.240 --> 17:31.420
+ Cortisol is vital.
+
+17:31.420 --> 17:34.220
+ You don't want your cortisol levels to be too low.
+
+17:34.220 --> 17:36.460
+ It's very important for immune system function,
+
+17:36.460 --> 17:39.260
+ for memory, for not getting depressed.
+
+17:39.260 --> 17:41.980
+ You just don't want your cortisol levels to be too high,
+
+17:41.980 --> 17:44.660
+ and you don't want them to be elevated
+
+17:44.660 --> 17:47.900
+ even to normal levels at the wrong time of day.
+
+17:47.900 --> 17:49.980
+ So we're going to talk about how to control
+
+17:49.980 --> 17:53.300
+ the timing and level of your cortisol.
+
+17:53.300 --> 17:58.300
+ Epinephrine or adrenaline has also been demonized a bit.
+
+17:59.300 --> 18:01.560
+ We think of it as this stress hormone,
+
+18:01.560 --> 18:03.980
+ this thing that makes us anxious, fight or flight.
+
+18:03.980 --> 18:05.560
+ You know, we used to get chased by lions
+
+18:05.560 --> 18:07.660
+ and tigers and bears, and now we don't,
+
+18:07.660 --> 18:09.240
+ and it's this ancient hangover.
+
+18:09.240 --> 18:10.260
+ That's all wrong.
+
+18:10.260 --> 18:12.220
+ The fact of the matter is that epinephrine
+
+18:12.220 --> 18:15.960
+ is your best friend when it comes to your immunity,
+
+18:15.960 --> 18:18.860
+ when it comes to protecting you from infection,
+
+18:18.860 --> 18:20.620
+ and we're going to talk about why,
+
+18:20.620 --> 18:24.020
+ and epinephrine, adrenaline, is your best friend
+
+18:24.020 --> 18:25.760
+ when it comes to remembering things
+
+18:25.760 --> 18:28.460
+ and learning and activating neuroplasticity.
+
+18:28.460 --> 18:29.940
+ We're going to talk about that as well.
+
+18:29.940 --> 18:33.220
+ Once again, it's a question of how much and how long
+
+18:33.220 --> 18:35.580
+ and the specific timing of release of cortisol
+
+18:35.580 --> 18:39.340
+ and epinephrine, as opposed to cortisol and adrenaline
+
+18:39.340 --> 18:40.580
+ being good or bad.
+
+18:40.580 --> 18:43.260
+ They're terrific when they're regulated.
+
+18:43.260 --> 18:45.420
+ They are terrible when they're misregulated,
+
+18:45.420 --> 18:48.900
+ and we will give you lots of tools to regulate them better.
+
+18:48.900 --> 18:52.660
+ Cortisol biology 101 in less than two minutes.
+
+18:54.280 --> 18:57.460
+ Your brain makes what we call releasing hormones,
+
+18:57.460 --> 19:00.180
+ and in this case, there's corticotropin-releasing hormone,
+
+19:00.180 --> 19:03.180
+ CRH, is made by neurons in your brain.
+
+19:03.180 --> 19:06.060
+ It causes the pituitary, this gland that sits
+
+19:06.060 --> 19:08.620
+ about an inch in front of the roof of your mouth
+
+19:08.620 --> 19:13.580
+ and the base of your brain, to release ACTH.
+
+19:13.580 --> 19:17.000
+ ACTH then goes and causes your adrenals,
+
+19:17.000 --> 19:19.940
+ which sit above your kidneys in your lower back,
+
+19:19.940 --> 19:23.400
+ to release cortisol, a so-called stress hormone.
+
+19:23.400 --> 19:25.700
+ But I would like you to think about cortisol
+
+19:25.700 --> 19:30.180
+ not as a stress hormone, but as a hormone of energy.
+
+19:30.180 --> 19:33.300
+ It produces a situation in the brain and body
+
+19:33.300 --> 19:36.060
+ whereby you want to move
+
+19:36.060 --> 19:39.080
+ and whereby you don't want to rest
+
+19:39.080 --> 19:44.080
+ and whereby you don't want to eat, at least at first.
+
+19:45.100 --> 19:49.220
+ Epinephrine or adrenaline 101 in less than two minutes.
+
+19:50.200 --> 19:52.500
+ When you sense a stressor with your mind
+
+19:52.500 --> 19:55.580
+ or your body senses a stressor, excuse me,
+
+19:55.580 --> 19:57.600
+ from a wound or something of that sort,
+
+19:58.780 --> 20:00.940
+ a signal is sent to neurons that are
+
+20:00.940 --> 20:02.140
+ in the middle of your body.
+
+20:02.140 --> 20:03.940
+ They're called the sympathetic chain ganglia.
+
+20:03.940 --> 20:05.820
+ The name doesn't necessarily matter.
+
+20:05.820 --> 20:07.780
+ They release norepinephrine very quickly.
+
+20:07.780 --> 20:10.220
+ It's almost like a sprinkler system
+
+20:10.220 --> 20:13.980
+ that just hoses your body with epinephrine.
+
+20:15.560 --> 20:18.500
+ That will increase heart rate, will increase breathing rate.
+
+20:18.500 --> 20:20.900
+ In some cases, it will constrict your blood vessels.
+
+20:20.900 --> 20:25.420
+ It will also increase the size of vessels and arteries
+
+20:25.420 --> 20:28.960
+ that are giving blood flow to your vital organs.
+
+20:28.960 --> 20:32.260
+ This is why your extremities get cold when you're stressed
+
+20:32.260 --> 20:33.580
+ and your heart is beating faster.
+
+20:33.580 --> 20:37.880
+ More of that energy is being devoted toward your core.
+
+20:37.880 --> 20:42.880
+ You also release adrenaline from your adrenals
+
+20:42.960 --> 20:45.860
+ in, again, riding atop your kidneys.
+
+20:46.740 --> 20:50.860
+ Those are a second system whereby your system gets flooded
+
+20:50.860 --> 20:52.860
+ with adrenaline in pulses.
+
+20:52.860 --> 20:54.540
+ So you can get one pulse, you can get 10 pulses.
+
+20:54.540 --> 20:57.340
+ We'll talk about how to regulate the number of pulses.
+
+20:57.340 --> 20:59.160
+ And you release it from an area of your brain
+
+20:59.160 --> 21:00.780
+ called locus coeruleus,
+
+21:00.780 --> 21:03.380
+ and that creates alertness in your brain.
+
+21:03.380 --> 21:06.880
+ If you want to learn more about the stress response
+
+21:06.880 --> 21:08.240
+ and all the details of that,
+
+21:08.240 --> 21:10.420
+ including some protocols of how to regulate stress,
+
+21:10.420 --> 21:12.340
+ please see our episode about stress.
+
+21:12.340 --> 21:15.360
+ I go into a lot of detail there.
+
+21:15.360 --> 21:17.540
+ I will touch on some of the same themes today,
+
+21:17.540 --> 21:20.640
+ but I really want to cover energy and the immune system.
+
+21:21.540 --> 21:24.220
+ And if you're very much interested in stress per se
+
+21:24.220 --> 21:27.700
+ and stress regulation, please see the episode on stress.
+
+21:28.580 --> 21:32.180
+ Okay, so we have cortisol and we have epinephrine,
+
+21:32.180 --> 21:34.380
+ and their net effect is to increase energy.
+
+21:34.380 --> 21:37.500
+ So first of all, I want to give you a tool
+
+21:37.500 --> 21:42.500
+ that will help you regulate cortisol
+
+21:42.740 --> 21:45.580
+ and can also help stave off
+
+21:45.580 --> 21:48.100
+ certain patterns of mental illness.
+
+21:48.100 --> 21:49.820
+ Now, of course, it's not going to cure mental illness
+
+21:49.820 --> 21:53.340
+ on its own, but it can support healthy state of mind
+
+21:53.340 --> 21:55.700
+ and can help reduce unhealthy states of mind,
+
+21:55.700 --> 21:57.260
+ including depression.
+
+21:57.260 --> 21:58.980
+ So the first tool is to make sure
+
+21:58.980 --> 22:01.420
+ that your highest levels of cortisol
+
+22:01.420 --> 22:03.960
+ are first thing in the morning when you wake up.
+
+22:03.960 --> 22:06.420
+ One way or another, every 24 hours,
+
+22:06.420 --> 22:08.500
+ you will get an increase in cortisol.
+
+22:08.500 --> 22:09.780
+ That is non-negotiable.
+
+22:09.780 --> 22:12.220
+ That is written into your genome.
+
+22:12.220 --> 22:16.420
+ That increase in cortisol is there to wake you up
+
+22:16.420 --> 22:17.980
+ and to make you alert.
+
+22:17.980 --> 22:21.020
+ It's to stimulate movement from being asleep,
+
+22:21.020 --> 22:22.900
+ presumably horizontal,
+
+22:22.900 --> 22:26.000
+ to getting up and starting to move about your day.
+
+22:26.000 --> 22:28.460
+ And I've said it before, but I will say it again,
+
+22:28.460 --> 22:32.060
+ the best way to stimulate that increase in cortisol
+
+22:32.060 --> 22:35.700
+ at the appropriate time is that very soon after waking,
+
+22:35.700 --> 22:38.300
+ within 30 minutes or so after waking,
+
+22:38.300 --> 22:41.460
+ get outside, view some sunlight.
+
+22:41.460 --> 22:44.160
+ Even if it's overcast, get outside, view some sunlight,
+
+22:44.160 --> 22:47.620
+ no sunglasses, never look at any light so bright
+
+22:47.620 --> 22:48.540
+ that it could damage your eyes,
+
+22:48.540 --> 22:51.020
+ but do that for two to 10 minutes.
+
+22:51.020 --> 22:52.300
+ If it's very bright, two minutes.
+
+22:52.300 --> 22:54.660
+ If it's not so bright, 10 minutes.
+
+22:54.660 --> 22:57.740
+ Do that because in the early part of the day,
+
+22:57.740 --> 23:01.260
+ you have the opportunity to time that cortisol release
+
+23:01.260 --> 23:04.900
+ to the early part of the day, which will improve.
+
+23:04.900 --> 23:06.640
+ This has been backed by peer reviewed studies.
+
+23:06.640 --> 23:08.300
+ It will improve your focus.
+
+23:08.300 --> 23:10.460
+ It will improve your energy levels
+
+23:10.460 --> 23:13.460
+ and it will improve your learning throughout the day.
+
+23:13.460 --> 23:18.460
+ It will also prevent a late shift in cortisol increase
+
+23:18.780 --> 23:21.860
+ and late shifted cortisol, meaning cortisol that increases
+
+23:21.860 --> 23:25.900
+ around eight or 9 p.m. is a signature feature
+
+23:25.900 --> 23:27.740
+ of many depressive disorders,
+
+23:27.740 --> 23:30.540
+ including major depression, anxiety.
+
+23:30.540 --> 23:31.740
+ And that of course correlates
+
+23:31.740 --> 23:33.740
+ with things like insomnia, et cetera.
+
+23:33.740 --> 23:35.780
+ So that's a key tool.
+
+23:35.780 --> 23:38.580
+ And I don't know how many of you are already doing that,
+
+23:38.580 --> 23:40.420
+ but it is vital to do.
+
+23:40.420 --> 23:43.340
+ Now I mentioned sunlight even on cloudy days
+
+23:43.340 --> 23:44.900
+ and there are specific reasons for that.
+
+23:44.900 --> 23:48.000
+ So I want to just briefly cover the data
+
+23:48.000 --> 23:49.680
+ because in the episodes on sleep,
+
+23:49.680 --> 23:51.240
+ I talked about brightness of light
+
+23:51.240 --> 23:53.620
+ in regulating cortisol and sleep.
+
+23:53.620 --> 23:56.900
+ And I talked about how to measure lux brightness,
+
+23:56.900 --> 23:59.140
+ but I was not specific enough.
+
+23:59.140 --> 24:00.860
+ I realized based on the questions
+
+24:00.860 --> 24:02.500
+ that I've received since that episode.
+
+24:02.500 --> 24:04.160
+ So here's how it works.
+
+24:04.160 --> 24:07.580
+ Going outside and getting some sunlight requires
+
+24:07.580 --> 24:11.240
+ that I also tell you how long and under what conditions.
+
+24:11.240 --> 24:13.420
+ I've said looking through a window is not as good.
+
+24:13.420 --> 24:15.860
+ It takes 50 times longer to get as much light,
+
+24:15.860 --> 24:16.920
+ et cetera, et cetera.
+
+24:17.860 --> 24:19.180
+ Many, many questions have told me
+
+24:19.180 --> 24:20.620
+ that I'm not being specific enough.
+
+24:20.620 --> 24:22.100
+ So I'm going to give you the data
+
+24:22.100 --> 24:24.220
+ and from the data you will understand exactly
+
+24:24.220 --> 24:26.660
+ how long you need to do this each day.
+
+24:26.660 --> 24:29.440
+ On a sunny day, so no cloud cover,
+
+24:29.440 --> 24:32.940
+ provided that the sun is not yet overhead,
+
+24:32.940 --> 24:34.620
+ it's somewhere low in the sky,
+
+24:34.620 --> 24:35.900
+ could have just crossed the horizon
+
+24:35.900 --> 24:36.980
+ or if you wake up a little bit later,
+
+24:36.980 --> 24:38.780
+ it could be somewhat low in the sky.
+
+24:39.980 --> 24:42.060
+ Basically the intensity of light,
+
+24:42.060 --> 24:44.980
+ the brightness is somewhere around 100,000 lux.
+
+24:44.980 --> 24:47.180
+ Lux is just a measurement of brightness.
+
+24:47.180 --> 24:50.460
+ If you want to download the app Light Meter,
+
+24:50.460 --> 24:52.500
+ that is a free app that will allow you to do that.
+
+24:52.500 --> 24:56.320
+ You can hold your finger down on the little button there
+
+24:56.320 --> 24:57.480
+ and you can move it around
+
+24:57.480 --> 24:59.300
+ and it will continuously give you a lux readout.
+
+24:59.300 --> 25:01.500
+ It's not perfect, it's not exact,
+
+25:01.500 --> 25:04.260
+ but it's pretty good and it is zero cost.
+
+25:04.260 --> 25:08.260
+ I have no relationship to Light Meter, the company.
+
+25:08.260 --> 25:12.020
+ On a cloudy day, it's about 10,000 lux.
+
+25:12.020 --> 25:15.820
+ So 10 fold reduction, but bright artificial light,
+
+25:15.820 --> 25:17.960
+ very bright artificial light,
+
+25:17.960 --> 25:20.520
+ is somewhere around 1,000 lux.
+
+25:21.540 --> 25:24.140
+ And ordinary room light
+
+25:24.140 --> 25:27.780
+ is somewhere around 100 to 200 lux.
+
+25:27.780 --> 25:29.920
+ And it has to do with how much light scatter there is.
+
+25:29.920 --> 25:31.420
+ So even if you have a very bright bulb
+
+25:31.420 --> 25:33.700
+ sitting right next to you, that's not going to do the job.
+
+25:33.700 --> 25:36.360
+ Your phone will not do the job, not early in the day.
+
+25:36.360 --> 25:39.660
+ To get the cortisol released at the appropriate time,
+
+25:39.660 --> 25:41.380
+ you need to get outside.
+
+25:41.380 --> 25:44.660
+ So let's just set a couple general parameters.
+
+25:44.660 --> 25:48.340
+ If it's bright outside and no cloud cover,
+
+25:48.340 --> 25:49.700
+ the light can be indirect,
+
+25:49.700 --> 25:51.020
+ you don't have to be staring into the sun,
+
+25:51.020 --> 25:52.340
+ please don't damage your eyes.
+
+25:52.340 --> 25:54.240
+ We can't regenerate those neurons yet
+
+25:54.240 --> 25:56.060
+ and restore vision that's lost.
+
+25:56.060 --> 25:58.460
+ But if you have to blink, that means it's too bright.
+
+25:58.460 --> 26:01.820
+ It's fine to blink, of course, please do if you need to.
+
+26:01.820 --> 26:03.360
+ Get outside for 10 minutes
+
+26:04.820 --> 26:07.220
+ or five minutes should suffice,
+
+26:07.220 --> 26:09.660
+ but 10 minutes is sure to suffice.
+
+26:09.660 --> 26:12.240
+ If it's a cloudy day, dense overcast,
+
+26:12.240 --> 26:14.340
+ you're probably going to need about 30 minutes.
+
+26:14.340 --> 26:16.140
+ If it's light cloud, broken cloud cover,
+
+26:16.140 --> 26:17.260
+ it's probably going to be somewhere
+
+26:17.260 --> 26:19.220
+ between 10 and 20 minutes.
+
+26:19.220 --> 26:21.580
+ And if you can't get outside or you're on an airplane
+
+26:21.580 --> 26:24.980
+ and it's bright overhead artificial lights
+
+26:24.980 --> 26:26.540
+ or ordinary room lights,
+
+26:26.540 --> 26:29.260
+ it's going to take you about six hours of light.
+
+26:29.260 --> 26:32.060
+ And by time you reach the middle
+
+26:32.060 --> 26:34.740
+ of your sort of wakeful period, it's too late.
+
+26:34.740 --> 26:36.000
+ You won't be able to shift your clock
+
+26:36.000 --> 26:38.340
+ and your cortisol will start drifting later and later.
+
+26:38.340 --> 26:42.140
+ This is why it's vital to get this light on a regular basis,
+
+26:42.140 --> 26:44.700
+ to get that cortisol released early in the day.
+
+26:44.700 --> 26:47.580
+ That sets you up for optimal levels of energy.
+
+26:47.580 --> 26:49.420
+ It sets you up for great sleep,
+
+26:49.420 --> 26:52.820
+ but today's not really about sleep, it's more about energy.
+
+26:52.820 --> 26:54.580
+ That cortisol pulse and the stress
+
+26:54.580 --> 26:56.020
+ that you might feel early in the day
+
+26:56.020 --> 26:58.700
+ from having a little bit extra energy,
+
+26:58.700 --> 27:02.140
+ that is the energy that you want in order to move about
+
+27:02.140 --> 27:03.900
+ and learn and do various things.
+
+27:03.900 --> 27:06.100
+ That is a healthy level of energy.
+
+27:06.100 --> 27:10.140
+ So please try and get that sunlight
+
+27:10.140 --> 27:12.680
+ if it's within your protocols to do that
+
+27:12.680 --> 27:14.140
+ and try and get sufficient sunlight
+
+27:14.140 --> 27:16.460
+ first thing in the morning, again, within the first hour.
+
+27:16.460 --> 27:17.780
+ That's the best way to make sure
+
+27:17.780 --> 27:20.260
+ that you time your cortisol appropriately.
+
+27:20.260 --> 27:21.180
+ Now, throughout the day,
+
+27:21.180 --> 27:23.860
+ you're going to experience different things.
+
+27:23.860 --> 27:25.860
+ Most of you are not spending your entire day
+
+27:25.860 --> 27:27.540
+ trying to optimize your health.
+
+27:27.540 --> 27:30.320
+ Some of you might be, but most of you have jobs
+
+27:30.320 --> 27:32.520
+ and you have families and you have commitments.
+
+27:32.520 --> 27:35.980
+ Life enters the picture and provides you stressors.
+
+27:35.980 --> 27:38.620
+ And those stressors, whatever they may happen to be,
+
+27:38.620 --> 27:42.180
+ a difficult coworker, some disappointment about something,
+
+27:42.180 --> 27:43.700
+ you didn't get the raise you expected
+
+27:43.700 --> 27:46.260
+ or you didn't get the vacation that you expected,
+
+27:46.260 --> 27:50.780
+ those will cause increases in cortisol and epinephrine.
+
+27:50.780 --> 27:52.500
+ This is important to understand.
+
+27:52.500 --> 27:54.480
+ You don't have the luxury
+
+27:54.480 --> 27:56.140
+ of just having this morning cortisol
+
+27:56.140 --> 27:57.580
+ and then having it taper off.
+
+27:57.580 --> 27:59.860
+ You want that major cortisol early in the day,
+
+27:59.860 --> 28:02.820
+ but then you can expect, you should expect,
+
+28:02.820 --> 28:05.960
+ increases in cortisol and adrenaline throughout the day
+
+28:05.960 --> 28:08.180
+ based on events that are unpleasant to you.
+
+28:08.180 --> 28:10.420
+ So for me, the events that are most unpleasant to me
+
+28:10.420 --> 28:12.380
+ are things like traffic,
+
+28:12.380 --> 28:14.560
+ emails that ask me to fill out a form
+
+28:14.560 --> 28:16.100
+ for which I can't find the link.
+
+28:16.100 --> 28:17.660
+ These kinds of things stress me out.
+
+28:17.660 --> 28:18.840
+ I'm a human being.
+
+28:18.840 --> 28:20.380
+ I don't lose my cool over them,
+
+28:20.380 --> 28:22.960
+ but I can feel my level of alertness
+
+28:22.960 --> 28:24.340
+ and kind of frustration increase.
+
+28:24.340 --> 28:26.440
+ The normal kind of things that go with stress
+
+28:26.440 --> 28:27.580
+ tense up a little bit.
+
+28:28.500 --> 28:32.060
+ The key is these blips in cortisol and epinephrine
+
+28:32.060 --> 28:33.860
+ need to be brief.
+
+28:33.860 --> 28:37.920
+ You can't have them so often or lasting so long
+
+28:37.920 --> 28:41.380
+ that you are in a state of chronic cortisol elevation
+
+28:41.380 --> 28:43.960
+ or chronic epinephrine elevation.
+
+28:43.960 --> 28:46.520
+ This system of stress was designed
+
+28:46.520 --> 28:49.180
+ to increase your alertness and mobilize you towards things,
+
+28:49.180 --> 28:52.500
+ get you frustrated and provide the opportunity
+
+28:52.500 --> 28:53.420
+ to change behavior.
+
+28:53.420 --> 28:54.580
+ That's what they were designed to do.
+
+28:54.580 --> 28:57.540
+ So if you find yourself getting stressed
+
+28:57.540 --> 28:58.780
+ and staying stressed,
+
+28:58.780 --> 29:01.740
+ there are great tools that we provide in the stress episode
+
+29:01.740 --> 29:04.400
+ that relate to things like the double inhale exhale,
+
+29:04.400 --> 29:05.980
+ the so-called physiological psi.
+
+29:05.980 --> 29:08.140
+ You can incorporate an NSDR, a non-sleep deep
+
+29:08.140 --> 29:10.100
+ breast protocol, et cetera.
+
+29:10.100 --> 29:13.500
+ But understand that the energy that you experience
+
+29:13.500 --> 29:16.460
+ during stress, that sudden increase in alertness
+
+29:16.460 --> 29:18.920
+ and attention that comes from seeing something difficult,
+
+29:18.920 --> 29:22.020
+ that is a healthy hormonal system and neural system
+
+29:22.020 --> 29:22.860
+ that's working.
+
+29:22.860 --> 29:25.720
+ And the reason it works is that cortisol,
+
+29:25.720 --> 29:27.480
+ when it's released into the bloodstream,
+
+29:27.480 --> 29:30.920
+ it actually can bind to receptors in the brain.
+
+29:30.920 --> 29:33.340
+ It can bind receptors in the amygdala, fear centers
+
+29:33.340 --> 29:34.340
+ and threat detection centers,
+
+29:34.340 --> 29:37.320
+ but also areas of the brain that are involved in learning
+
+29:37.320 --> 29:39.340
+ and memory and neuroplasticity.
+
+29:39.340 --> 29:41.540
+ And this is why I say that neuroplasticity,
+
+29:41.540 --> 29:42.900
+ the brain's ability to change itself
+
+29:42.900 --> 29:47.380
+ in response to experience is first stimulated
+
+29:47.380 --> 29:48.980
+ by attention and focus
+
+29:48.980 --> 29:52.020
+ and often a low level state of agitation.
+
+29:52.020 --> 29:56.300
+ So understand that, and you won't be quite so troubled
+
+29:56.300 --> 29:58.060
+ about the little stress increases
+
+29:58.060 --> 30:00.100
+ that you experience throughout the day.
+
+30:00.100 --> 30:03.640
+ Now, there are ways to leverage stress,
+
+30:03.640 --> 30:06.180
+ epinephrine and cortisol in ways that serve you
+
+30:06.180 --> 30:08.020
+ and to do it in a deliberate way.
+
+30:08.020 --> 30:10.300
+ There are also ways to do that
+
+30:10.300 --> 30:13.060
+ that increase your level of stress threshold,
+
+30:13.060 --> 30:15.920
+ meaning they make it less likely
+
+30:15.920 --> 30:18.940
+ that epinephrine and cortisol will be released.
+
+30:18.940 --> 30:21.140
+ So I want to talk about the science of those practices
+
+30:21.140 --> 30:23.440
+ because I get asked about these practices a lot,
+
+30:23.440 --> 30:25.220
+ things like Wim Hof breathing,
+
+30:25.220 --> 30:26.980
+ which is also called Tummo breathing,
+
+30:26.980 --> 30:28.300
+ things like ice baths,
+
+30:28.300 --> 30:31.120
+ things like high intensity interval training.
+
+30:31.120 --> 30:33.860
+ All of those things have utility.
+
+30:34.760 --> 30:36.820
+ The question is how you use them
+
+30:36.820 --> 30:39.100
+ and how often you use them.
+
+30:39.100 --> 30:43.500
+ Those tools, just like stress from a life event
+
+30:43.500 --> 30:46.300
+ can either enhance your immunity or deplete it.
+
+30:46.300 --> 30:48.980
+ That's right, those same practices of ice baths,
+
+30:48.980 --> 30:51.500
+ Tummo breathing, high intensity interval training
+
+30:51.500 --> 30:53.960
+ or training of any kind can deplete your immune system
+
+30:53.960 --> 30:56.420
+ or it can improve them.
+
+30:56.420 --> 30:58.160
+ Excuse me, they can improve it,
+
+30:58.160 --> 31:00.980
+ meaning they can improve your immune system.
+
+31:00.980 --> 31:04.220
+ The key is how often you use them and when.
+
+31:04.220 --> 31:05.860
+ And so I want to review that now
+
+31:05.860 --> 31:08.040
+ in light of the scientific literature,
+
+31:08.040 --> 31:08.960
+ because in doing that,
+
+31:08.960 --> 31:11.340
+ you can build practices into your daily
+
+31:11.340 --> 31:13.180
+ or maybe every other day routine
+
+31:13.180 --> 31:14.860
+ that can really help buffer you
+
+31:14.860 --> 31:18.940
+ against unhealthy levels of cortisol and epinephrine,
+
+31:18.940 --> 31:21.580
+ meaning cortisol increases that are much too great
+
+31:21.580 --> 31:23.300
+ or that last much too long.
+
+31:23.300 --> 31:25.580
+ Epinephrine increases that are much too great
+
+31:25.580 --> 31:27.320
+ or that last much too long.
+
+31:27.320 --> 31:30.460
+ And of course, we'll talk about all the negatives
+
+31:30.460 --> 31:32.340
+ that go along with having too much cortisol,
+
+31:32.340 --> 31:34.220
+ too much epinephrine for too long,
+
+31:34.220 --> 31:35.660
+ but you hear about those a lot.
+
+31:35.660 --> 31:36.760
+ You hear about Cushing syndrome,
+
+31:36.760 --> 31:39.260
+ you hear about abdominal fat accumulation,
+
+31:39.260 --> 31:40.780
+ you hear about sleep disturbances.
+
+31:40.780 --> 31:42.780
+ I want to arm you with the tools first
+
+31:42.780 --> 31:45.580
+ and then we can talk about the dark side
+
+31:45.580 --> 31:46.480
+ and all the things that hopefully
+
+31:46.480 --> 31:48.180
+ you'll be able to avoid entirely
+
+31:48.180 --> 31:49.400
+ or that you can get yourself out of
+
+31:49.400 --> 31:51.400
+ once you have the tools in hand.
+
+31:51.400 --> 31:54.340
+ Let's say somebody tells you something very troubling
+
+31:54.340 --> 31:56.540
+ or you look at your phone and you see a text message
+
+31:56.540 --> 31:58.200
+ that's really upsetting to you.
+
+31:58.200 --> 32:01.300
+ That will cause an immediate increase
+
+32:01.300 --> 32:05.280
+ in epinephrine, adrenaline in your brain and body.
+
+32:05.280 --> 32:07.260
+ And chances are it's going to increase
+
+32:07.260 --> 32:08.860
+ your levels of cortisol as well.
+
+32:09.960 --> 32:13.480
+ Let's say you get into an ice bath or a cold shower.
+
+32:13.480 --> 32:17.160
+ Even if you love the cold or if you hate the cold,
+
+32:17.160 --> 32:19.960
+ that will cause an equivalent increase
+
+32:19.960 --> 32:22.280
+ in epinephrine and cortisol.
+
+32:22.280 --> 32:23.560
+ We don't know the exact levels,
+
+32:23.560 --> 32:25.660
+ but it's probably about the same.
+
+32:25.660 --> 32:27.840
+ Let's say you go out for high intensity interval training.
+
+32:27.840 --> 32:29.800
+ You decide you're going to run some sprints.
+
+32:29.800 --> 32:31.200
+ You can do some repeats
+
+32:31.200 --> 32:33.360
+ or you're going to do some weightlifting in the gym
+
+32:33.360 --> 32:35.640
+ and you love lifting weights in the gym.
+
+32:35.640 --> 32:37.380
+ Maybe you're like the powerlifting thing
+
+32:37.380 --> 32:39.880
+ or you decide that you want to do some hot yoga
+
+32:39.880 --> 32:43.560
+ or something that you really enjoy or you hate.
+
+32:44.520 --> 32:46.400
+ You're going to increase your epinephrine
+
+32:46.400 --> 32:47.600
+ and cortisol levels.
+
+32:47.600 --> 32:49.460
+ There's simply no way around this.
+
+32:50.320 --> 32:51.800
+ Let's say you decide to sit down
+
+32:51.800 --> 32:53.880
+ and you're going to do some deep breathing.
+
+32:53.880 --> 32:55.720
+ We all hear about the benefits of deep breathing.
+
+32:55.720 --> 32:57.940
+ So inhale, exhale, inhale, exhale.
+
+32:57.940 --> 32:59.760
+ You're going to get big increases
+
+32:59.760 --> 33:01.880
+ in epinephrine and cortisol.
+
+33:01.880 --> 33:05.480
+ The data from multiple studies support this.
+
+33:05.480 --> 33:09.840
+ All of those are stressors in air quotes.
+
+33:09.840 --> 33:13.340
+ Now there is a way that you can cognitively reframe
+
+33:13.340 --> 33:14.180
+ what those are.
+
+33:14.180 --> 33:15.000
+ You can tell yourself,
+
+33:15.000 --> 33:16.240
+ I love high intensity interval training
+
+33:16.240 --> 33:19.760
+ or I love weight training or I personally love exercise.
+
+33:19.760 --> 33:21.600
+ I'm not crazy about the cold.
+
+33:21.600 --> 33:23.840
+ I do some cold exposure stuff now and again
+
+33:23.840 --> 33:25.600
+ and we're going to talk a lot about how to do that
+
+33:25.600 --> 33:28.960
+ in the optimal way in an upcoming episode.
+
+33:28.960 --> 33:32.160
+ But getting into the cold doesn't feel good to me.
+
+33:32.160 --> 33:35.640
+ I tell myself it's good for me and I enjoy it
+
+33:35.640 --> 33:38.520
+ at some point usually when I'm getting out.
+
+33:38.520 --> 33:41.040
+ All of those increase epinephrine and guess what?
+
+33:41.040 --> 33:44.200
+ They increase your levels of energy and alertness.
+
+33:44.200 --> 33:46.060
+ So if you're somebody who struggles
+
+33:46.060 --> 33:49.700
+ with energy and alertness, it can be beneficial
+
+33:49.700 --> 33:51.420
+ provided you get clearance from your doctor
+
+33:51.420 --> 33:54.260
+ to have some sort of protocol built into your day
+
+33:54.260 --> 33:58.280
+ where you deliberately increase your levels of epinephrine
+
+33:58.280 --> 33:59.700
+ and your levels of cortisol.
+
+34:00.640 --> 34:03.280
+ And I want to put the emphasis on deliberately.
+
+34:03.280 --> 34:04.700
+ So how would you do that?
+
+34:04.700 --> 34:08.100
+ Well, it's quite easy to turn the shower cold
+
+34:08.100 --> 34:08.940
+ and get into that.
+
+34:08.940 --> 34:11.400
+ That will wake you up and it literally wakes you up
+
+34:11.400 --> 34:13.160
+ because of increases in epinephrine.
+
+34:14.080 --> 34:15.600
+ You can do deep breathing of the sort
+
+34:15.600 --> 34:19.880
+ where you inhale and exhale repeatedly 25 or 30 times,
+
+34:19.880 --> 34:22.600
+ maybe hold your breath for a few seconds on an exhale
+
+34:22.600 --> 34:25.280
+ and then repeat so-called Wim Hof or Tummo type breathing.
+
+34:25.280 --> 34:27.520
+ Lots of adrenaline is released into your system.
+
+34:27.520 --> 34:30.840
+ When you do that, you will have more energy afterwards.
+
+34:30.840 --> 34:32.720
+ So it's really important to understand
+
+34:32.720 --> 34:34.660
+ that the body doesn't distinguish
+
+34:34.660 --> 34:38.920
+ between a troubling text message, ice, Tummo breathing
+
+34:38.920 --> 34:40.200
+ or high intensity interval training
+
+34:40.200 --> 34:41.520
+ or any other kind of exercise.
+
+34:41.520 --> 34:42.920
+ It's all stress.
+
+34:43.800 --> 34:46.360
+ Cognitively reframing that and telling yourself,
+
+34:46.360 --> 34:49.480
+ I like this, I enjoy it is not going to change
+
+34:49.480 --> 34:53.160
+ the way that that molecule impacts your body and brain.
+
+34:53.160 --> 34:56.700
+ I sort of chuckle because people would love to tell you
+
+34:56.700 --> 34:58.880
+ that all you have to do is say, oh, this is good for me.
+
+34:58.880 --> 35:03.100
+ No, what it does to tell yourself that it's good for you
+
+35:03.100 --> 35:06.360
+ or that you enjoy it is that it liberates other molecules
+
+35:06.360 --> 35:08.680
+ like dopamine and serotonin
+
+35:08.680 --> 35:12.040
+ that help buffer the epinephrine response.
+
+35:12.040 --> 35:13.440
+ Now, the way that it does that,
+
+35:13.440 --> 35:14.840
+ I've talked about previous episode,
+
+35:14.840 --> 35:17.000
+ but I'll just mention that dopamine
+
+35:17.000 --> 35:19.080
+ is the precursor to epinephrine.
+
+35:19.080 --> 35:22.440
+ Epinephrine, adrenaline is made from dopamine.
+
+35:23.640 --> 35:26.500
+ Cortisol is made from cholesterol.
+
+35:26.500 --> 35:28.920
+ Epinephrine is made from dopamine.
+
+35:28.920 --> 35:30.400
+ And that's why if you tell yourself
+
+35:30.400 --> 35:32.180
+ you're enjoying something
+
+35:32.180 --> 35:34.080
+ and because dopamine is so subjective
+
+35:34.080 --> 35:36.120
+ that you can in some ways,
+
+35:36.120 --> 35:37.880
+ as long as you're not completely lying to yourself,
+
+35:37.880 --> 35:41.680
+ you can get more epinephrine, you get more mileage
+
+35:41.680 --> 35:44.320
+ or more ability to push through something
+
+35:44.320 --> 35:46.000
+ and you can sort of reframe it,
+
+35:46.000 --> 35:47.800
+ but it's not really cognitive reframing.
+
+35:47.800 --> 35:49.480
+ The cognitive part is the trigger,
+
+35:49.480 --> 35:51.960
+ but it's a chemical substance
+
+35:51.960 --> 35:53.300
+ that's actually occurring there.
+
+35:53.300 --> 35:56.800
+ It's dopamine giving you more epinephrine,
+
+35:56.800 --> 35:59.400
+ a bigger amplitude epinephrine release,
+
+35:59.400 --> 36:02.120
+ and it gives you some sense of control.
+
+36:02.120 --> 36:05.520
+ So here's a protocol that anyone can use
+
+36:05.520 --> 36:07.280
+ if you want to increase levels of energy,
+
+36:07.280 --> 36:10.520
+ if you suffer from low energy during the daytime
+
+36:10.520 --> 36:13.360
+ or whenever it is that you'd like to be alert.
+
+36:13.360 --> 36:16.360
+ Pick a practice that you can do fairly consistently,
+
+36:16.360 --> 36:17.660
+ maybe every day,
+
+36:17.660 --> 36:20.280
+ but maybe every third day or every fourth day,
+
+36:20.280 --> 36:22.760
+ maybe it's an ice bath or a cold bath,
+
+36:22.760 --> 36:24.260
+ maybe it's a cold shower,
+
+36:24.260 --> 36:28.800
+ maybe it's the cyclic inhale exhale breathing protocol
+
+36:28.800 --> 36:30.360
+ I described, if that wasn't clear
+
+36:30.360 --> 36:31.720
+ and people always ask for a demo,
+
+36:31.720 --> 36:33.440
+ I'm not going to do the whole thing right now,
+
+36:33.440 --> 36:35.400
+ but I'm willing to do a few rounds of this
+
+36:35.400 --> 36:36.780
+ or a few cycles I should say.
+
+36:36.780 --> 36:37.740
+ So it's inhale,
+
+36:39.960 --> 36:40.960
+ I would do that more deeply,
+
+36:40.960 --> 36:45.880
+ more like you do that 25, 30 times repeatedly,
+
+36:45.880 --> 36:47.480
+ you will start to feel warm,
+
+36:47.480 --> 36:48.840
+ people in the yoga community,
+
+36:48.840 --> 36:49.960
+ they say you're generating heat,
+
+36:49.960 --> 36:52.400
+ you're not generating heat, releasing adrenaline.
+
+36:54.160 --> 36:55.840
+ Inhale, exhale, inhale, exhale,
+
+36:55.840 --> 36:59.600
+ 25 or 30 times, you will feel agitated and stressed,
+
+36:59.600 --> 37:02.260
+ that's because you're releasing adrenaline in your body
+
+37:02.260 --> 37:04.520
+ and that's because you're releasing norepinephrine
+
+37:04.520 --> 37:07.800
+ in your brain and you'll be more alert.
+
+37:07.800 --> 37:10.240
+ Then you can follow that 25 or 30 breath cycles
+
+37:10.240 --> 37:11.520
+ with an exhale hold
+
+37:12.560 --> 37:14.840
+ and hold your breath for 15 to 30 seconds.
+
+37:14.840 --> 37:17.860
+ Always, always, always do this on dry land,
+
+37:17.860 --> 37:19.880
+ never while driving, operating heavy machinery,
+
+37:19.880 --> 37:22.800
+ all of the standard safety protocols, never near water,
+
+37:22.800 --> 37:26.120
+ please, people have passed out and died doing this
+
+37:26.120 --> 37:27.680
+ with breath holds in water,
+
+37:27.680 --> 37:29.680
+ there are several deaths associated with it,
+
+37:29.680 --> 37:32.040
+ on land it's probably safer, clear it with your doctor,
+
+37:32.040 --> 37:34.580
+ but 25, 30 breaths, exhale, hold,
+
+37:34.580 --> 37:37.000
+ 25, 30 breaths again, exhale, hold,
+
+37:37.000 --> 37:39.980
+ 25, 30 breaths again, exhale, hold,
+
+37:39.980 --> 37:42.640
+ and then if you like, you can do an inhale and hold
+
+37:42.640 --> 37:45.300
+ if that's within your margins of safety.
+
+37:46.200 --> 37:47.960
+ So if all these protocols,
+
+37:47.960 --> 37:50.720
+ all these activities are just equivalent,
+
+37:50.720 --> 37:54.000
+ they're just stress, then how do we make them good for us?
+
+37:54.000 --> 37:55.920
+ How do we actually benefit from them?
+
+37:55.920 --> 37:57.980
+ Now, of course, the cold itself
+
+37:57.980 --> 38:00.000
+ can have some health promoting effects,
+
+38:00.000 --> 38:03.280
+ it can increase brown fat thermogenesis and metabolism,
+
+38:03.280 --> 38:06.560
+ high intensity interval training or other forms of exercise
+
+38:06.560 --> 38:10.640
+ of course has cardiovascular effects that can be good for us
+
+38:10.640 --> 38:12.340
+ as does weight training, et cetera,
+
+38:12.340 --> 38:14.080
+ but what we're talking about here
+
+38:14.080 --> 38:18.580
+ are ways to increase energy and to teach our brain and body,
+
+38:18.580 --> 38:22.080
+ to teach ourselves how to regulate the stress response.
+
+38:22.080 --> 38:25.480
+ So in addition to the benefits of the actual practices,
+
+38:25.480 --> 38:28.940
+ what we're talking about is building a system
+
+38:28.940 --> 38:31.920
+ so that when you experience increases
+
+38:31.920 --> 38:34.720
+ in epinephrine and cortisol from life events,
+
+38:34.720 --> 38:36.500
+ you're able to better buffer those,
+
+38:36.500 --> 38:38.320
+ and we are also talking about
+
+38:38.320 --> 38:41.140
+ ways that you can increase energy overall,
+
+38:41.140 --> 38:43.100
+ because that's what today's episode is all about,
+
+38:43.100 --> 38:45.100
+ energy and the immune system.
+
+38:45.100 --> 38:46.700
+ And indeed, we will talk about
+
+38:46.700 --> 38:49.080
+ how you can actually leverage specific protocols
+
+38:49.080 --> 38:51.860
+ to increase your immune system on demand.
+
+38:51.860 --> 38:54.340
+ There's great scientific data to support
+
+38:54.340 --> 38:56.340
+ that one can do that.
+
+38:56.340 --> 39:00.640
+ So there's a biological mechanism that's very important
+
+39:00.640 --> 39:02.180
+ if you want to do those things,
+
+39:02.180 --> 39:04.960
+ increase energy and your immune system on demand,
+
+39:04.960 --> 39:08.640
+ learn to buffer stress on demand in real time.
+
+39:08.640 --> 39:13.100
+ And it means taking these protocols, these practices,
+
+39:13.100 --> 39:16.740
+ whether or not it's cold water or ice bath or exercise
+
+39:16.740 --> 39:20.900
+ or any of those, and making one small
+
+39:20.900 --> 39:24.020
+ but very powerful adjustment in how you perform them.
+
+39:24.020 --> 39:25.760
+ But in order to make that adjustment,
+
+39:25.760 --> 39:27.700
+ I can't just tell you the adjustment,
+
+39:27.700 --> 39:29.180
+ I have to tell you the mechanism
+
+39:29.180 --> 39:31.720
+ so that you know if you're doing it correctly or not.
+
+39:31.720 --> 39:33.020
+ This is really a case where
+
+39:33.020 --> 39:35.780
+ if you can understand a little bit of mechanism,
+
+39:35.780 --> 39:40.780
+ you will be far better off than just adopting protocols.
+
+39:41.820 --> 39:46.140
+ So if you take away nothing else from this episode,
+
+39:46.140 --> 39:48.500
+ except what I'm about to tell you,
+
+39:48.500 --> 39:51.300
+ please take away the information I'm about to tell you.
+
+39:52.660 --> 39:55.860
+ Cortisol, as I mentioned, is released from the adrenals
+
+39:55.860 --> 39:57.660
+ and it can bind to receptors,
+
+39:57.660 --> 40:01.060
+ it can have action both in the body and in the brain.
+
+40:01.060 --> 40:02.620
+ In fact, it can bind the so-called
+
+40:02.620 --> 40:05.620
+ threat detection center in the brain, or one of them,
+
+40:05.620 --> 40:08.280
+ which is the amygdala, also called the fear center.
+
+40:09.460 --> 40:10.900
+ It can do that because cortisol
+
+40:10.900 --> 40:12.680
+ can cross the blood brain barrier,
+
+40:12.680 --> 40:13.900
+ it can be released in the body
+
+40:13.900 --> 40:16.100
+ and cross this biological barrier,
+
+40:16.100 --> 40:18.500
+ it's like a fence that keeps things out of the brain,
+
+40:18.500 --> 40:21.680
+ but cortisol has passing rights, it can go through.
+
+40:22.980 --> 40:26.620
+ Epinephrine cannot, epinephrine is polarized,
+
+40:26.620 --> 40:30.380
+ the shape of it is such that it can't make it
+
+40:30.380 --> 40:32.500
+ through the blood brain barrier.
+
+40:32.500 --> 40:34.700
+ That's one of the reasons why it's released
+
+40:34.700 --> 40:36.900
+ both from the adrenals in your body
+
+40:36.900 --> 40:39.020
+ and released from this brainstem area,
+
+40:39.020 --> 40:40.720
+ the locus coeruleus in your brain.
+
+40:42.380 --> 40:45.220
+ That's a powerful thing because what it means
+
+40:45.220 --> 40:49.860
+ is that the body can enter states of readiness
+
+40:49.860 --> 40:53.920
+ and alertness while the mind remains calm,
+
+40:53.920 --> 40:55.820
+ that is biologically possible,
+
+40:55.820 --> 40:57.780
+ it's not just a psychological trick
+
+40:58.920 --> 41:01.080
+ and there are ways that one can do that.
+
+41:01.080 --> 41:03.520
+ So I'm presuming at this point
+
+41:03.520 --> 41:05.020
+ that you're getting your morning light
+
+41:05.020 --> 41:07.420
+ to time your cortisol increase.
+
+41:07.420 --> 41:09.980
+ I'm presuming that you want more energy
+
+41:09.980 --> 41:12.500
+ or that you want to increase your immune system,
+
+41:12.500 --> 41:14.920
+ its function and its ability to combat infections
+
+41:14.920 --> 41:16.820
+ of various kinds.
+
+41:16.820 --> 41:20.300
+ And what I'm suggesting is that you pick from the palette
+
+41:20.300 --> 41:24.180
+ of exercises that are out there
+
+41:24.180 --> 41:26.940
+ or tools that are out there to increase epinephrine,
+
+41:26.940 --> 41:28.900
+ there are a lot of ways to do that.
+
+41:28.900 --> 41:30.360
+ You can do that as I mentioned,
+
+41:30.360 --> 41:32.200
+ through cold water, through exercise,
+
+41:32.200 --> 41:34.860
+ you can even do that by having confrontations
+
+41:34.860 --> 41:35.800
+ with other people.
+
+41:36.740 --> 41:39.360
+ At a biological level, it is identical.
+
+41:39.360 --> 41:42.500
+ So if you like to go online and place the kind of comments
+
+41:42.500 --> 41:44.180
+ that will read the kinds of things
+
+41:44.180 --> 41:46.820
+ or look at the kinds of things that agitate you,
+
+41:46.820 --> 41:49.260
+ you can, if you like, look at that as an opportunity.
+
+41:49.260 --> 41:50.540
+ I'm not suggesting you do that,
+
+41:50.540 --> 41:52.780
+ I'd like to see people taking care of themselves
+
+41:52.780 --> 41:56.140
+ and each other in much less destructive ways, frankly,
+
+41:56.140 --> 42:01.140
+ but the prerequisite here is getting an increase
+
+42:01.140 --> 42:04.300
+ in adrenaline released from the body.
+
+42:04.300 --> 42:07.860
+ Now, the simplest way to describe how to do that
+
+42:07.860 --> 42:09.640
+ would be in the context of cold water
+
+42:09.640 --> 42:10.940
+ or a breathing protocol,
+
+42:10.940 --> 42:12.340
+ because then I don't have to deal
+
+42:12.340 --> 42:15.900
+ with the unknown life circumstances that get you triggered
+
+42:15.900 --> 42:17.820
+ or I could tell you what gets me triggered,
+
+42:17.820 --> 42:19.060
+ but I'm not going to.
+
+42:19.060 --> 42:21.660
+ So let's presume cold water.
+
+42:21.660 --> 42:24.340
+ So let's say you decide you're going to take a cold shower.
+
+42:24.340 --> 42:27.180
+ You get into the cold shower and if it's cold enough,
+
+42:27.180 --> 42:28.100
+ that will be stressful,
+
+42:28.100 --> 42:31.360
+ you will experience an increase in epinephrine.
+
+42:31.360 --> 42:33.540
+ It will increase your alertness.
+
+42:33.540 --> 42:36.020
+ Now you're using this as a practice,
+
+42:36.020 --> 42:38.380
+ as a tool to build, you could call it resilience,
+
+42:38.380 --> 42:40.580
+ but the ability to stay calm in the mind
+
+42:40.580 --> 42:44.020
+ while being stressed in the body, epinephrines in the body.
+
+42:44.020 --> 42:47.620
+ And you do that by subjectively trying to calm yourself.
+
+42:47.620 --> 42:50.060
+ Now you can do that by telling yourself it's good for you,
+
+42:50.060 --> 42:52.260
+ by emphasizing your exhales,
+
+42:52.260 --> 42:54.880
+ anything that you can do to try and stay calm
+
+42:54.880 --> 42:56.020
+ despite the fact that you are
+
+42:56.020 --> 42:58.500
+ in a heightened state of alertness.
+
+42:58.500 --> 43:00.920
+ You do this with exercise, you could do this with music,
+
+43:00.920 --> 43:02.540
+ pretty much anything that will give you
+
+43:02.540 --> 43:04.500
+ a really heightened state of alertness
+
+43:05.460 --> 43:08.040
+ offers you the opportunity to try and stay calm in the mind.
+
+43:08.040 --> 43:10.500
+ What you're trying to do at a mechanistic level
+
+43:11.420 --> 43:15.220
+ is to have adrenaline released from the adrenals,
+
+43:15.220 --> 43:18.100
+ but not have adrenaline epinephrin released
+
+43:18.100 --> 43:20.540
+ from the brainstem to the same degree.
+
+43:20.540 --> 43:22.120
+ So you're not just trying to buffer this.
+
+43:22.120 --> 43:23.400
+ You're not trying to say, oh, this is good for me,
+
+43:23.400 --> 43:24.940
+ this is good for me, I'm going to grind this out.
+
+43:24.940 --> 43:26.620
+ You're not trying to grind it out.
+
+43:26.620 --> 43:29.900
+ You're trying to move through this calmly
+
+43:29.900 --> 43:31.460
+ while maintaining alertness.
+
+43:31.460 --> 43:33.820
+ You're not trying to zone out necessarily,
+
+43:33.820 --> 43:35.340
+ although maybe that helps.
+
+43:35.340 --> 43:36.840
+ You're not trying to distract yourself.
+
+43:36.840 --> 43:40.820
+ What you're trying to do is shift cognitively
+
+43:40.820 --> 43:43.300
+ your relationship to the somatic,
+
+43:43.300 --> 43:45.620
+ to the body stress response.
+
+43:45.620 --> 43:47.100
+ Now I'm sure some of you out there are shouting,
+
+43:47.100 --> 43:49.840
+ yeah, that's exactly like whatever, whatever, whatever.
+
+43:49.840 --> 43:50.680
+ I agree.
+
+43:50.680 --> 43:53.660
+ This is in many ways a self-directed
+
+43:53.660 --> 43:54.900
+ kind of stress inoculation,
+
+43:54.900 --> 43:58.080
+ but we're not talking about this as stress inoculation.
+
+43:58.080 --> 43:59.820
+ We're talking about this as a way
+
+43:59.820 --> 44:03.180
+ to increase energy and focus.
+
+44:03.180 --> 44:08.060
+ And the reason is that epinephrin when released in the body
+
+44:08.060 --> 44:11.140
+ has a profound effect on the immune system.
+
+44:11.140 --> 44:14.180
+ And when released in the brain has a profound effect
+
+44:14.180 --> 44:17.180
+ on the ability to learn and remember information
+
+44:17.180 --> 44:18.380
+ and to be alert.
+
+44:18.380 --> 44:21.020
+ And so we're talking about splitting the location,
+
+44:21.020 --> 44:24.060
+ separating the location from which you have
+
+44:24.060 --> 44:26.420
+ epinephrin adrenaline released, okay?
+
+44:26.420 --> 44:30.260
+ So let's say you are doing this practice simply to wake up.
+
+44:30.260 --> 44:31.740
+ Okay, cold shower, we'll do that.
+
+44:31.740 --> 44:32.980
+ Exercise, we'll do that.
+
+44:34.360 --> 44:36.180
+ The ability to stay calm in mind
+
+44:36.180 --> 44:38.740
+ while having heightened levels of adrenaline
+
+44:38.740 --> 44:40.840
+ and presumably cortisol as well in the body,
+
+44:40.840 --> 44:43.460
+ but the cortisol is going to circulate everywhere.
+
+44:43.460 --> 44:46.160
+ We'll talk a little bit about cortisol more in a moment.
+
+44:46.160 --> 44:50.780
+ You could do that through some self-soothing, calming way.
+
+44:50.780 --> 44:53.060
+ That's going to be highly individual.
+
+44:53.060 --> 44:56.020
+ You do it by telling yourself you enjoy it, et cetera.
+
+44:56.020 --> 44:57.820
+ But what you need to understand is that
+
+44:57.820 --> 45:01.860
+ in the immediate period following that practice,
+
+45:01.860 --> 45:05.500
+ your system, your entire brain and body are different.
+
+45:05.500 --> 45:10.140
+ Your body is actually primed to resist infection
+
+45:10.140 --> 45:12.260
+ when you have high levels of epinephrin in it
+
+45:12.260 --> 45:13.820
+ for short periods of time.
+
+45:13.820 --> 45:15.740
+ So the scientific study that explored
+
+45:15.740 --> 45:18.540
+ how increasing adrenaline in the body
+
+45:18.540 --> 45:21.700
+ can improve immune resistance is grounded
+
+45:21.700 --> 45:26.380
+ in a well-known phenomenon that increases in stress
+
+45:26.380 --> 45:31.060
+ actually protect you against infection in the short term.
+
+45:31.060 --> 45:33.740
+ So I want to look at the classic data first,
+
+45:33.740 --> 45:34.900
+ describe what was done,
+
+45:34.900 --> 45:37.100
+ and then I want to talk about the more recent study
+
+45:37.100 --> 45:39.180
+ which is immediately actionable.
+
+45:39.180 --> 45:41.220
+ There are classic set of studies
+
+45:41.220 --> 45:43.000
+ that are really based mainly on the work
+
+45:43.000 --> 45:44.520
+ of somebody named Bruce McEwen
+
+45:44.520 --> 45:47.740
+ who was at the Rockefeller University in New York.
+
+45:47.740 --> 45:49.620
+ Bruce passed away a few years ago,
+
+45:49.620 --> 45:53.820
+ but he had many decades of incredibly impactful work
+
+45:53.820 --> 45:55.340
+ under his belt when he did.
+
+45:56.780 --> 45:59.180
+ The work that I'm going to talk about next
+
+45:59.180 --> 46:02.740
+ has been done in humans and has been done in animals
+
+46:02.740 --> 46:06.560
+ and has really explored how inducing stress
+
+46:06.560 --> 46:08.700
+ can enhance the function of the immune system
+
+46:08.700 --> 46:09.620
+ in the short term.
+
+46:09.620 --> 46:14.380
+ And when I mean short term, I mean about one to four days.
+
+46:14.380 --> 46:16.420
+ I'm not going to go through all the details of the study,
+
+46:16.420 --> 46:20.460
+ but essentially what they were doing was exposing subjects
+
+46:20.460 --> 46:22.940
+ to some sort of infection,
+
+46:22.940 --> 46:27.140
+ either bacterial or viral infection and inducing stress.
+
+46:27.140 --> 46:28.380
+ Sounds like a double whammy, right?
+
+46:28.380 --> 46:31.380
+ You think that maybe getting a little electric foot shock
+
+46:31.380 --> 46:33.380
+ or cold water exposure
+
+46:33.380 --> 46:35.580
+ or something to increase your levels of stress
+
+46:35.580 --> 46:38.260
+ and adrenaline would just make the effects
+
+46:38.260 --> 46:42.060
+ of the infection worse, but no, quite the opposite.
+
+46:42.060 --> 46:44.040
+ Brief bouts of stress,
+
+46:44.040 --> 46:45.640
+ which now you should be thinking about
+
+46:45.640 --> 46:48.220
+ in terms of cortisol and epinephrine release,
+
+46:48.220 --> 46:51.880
+ were actually able to increase immune system function.
+
+46:52.940 --> 46:55.140
+ Now that shouldn't surprise you
+
+46:55.140 --> 46:56.500
+ if you understand a little bit
+
+46:56.500 --> 47:00.740
+ about how epinephrine works in the body and in the brain.
+
+47:00.740 --> 47:03.260
+ It essentially is the signal
+
+47:03.260 --> 47:06.860
+ by which the nervous system can inform immune organs,
+
+47:06.860 --> 47:08.700
+ things like the spleen and other organs
+
+47:08.700 --> 47:10.900
+ that make killer cells of various kinds,
+
+47:10.900 --> 47:12.640
+ B cells and T cells,
+
+47:12.640 --> 47:16.300
+ to go and combat infections, bacteria and viruses.
+
+47:16.300 --> 47:18.020
+ How else would your immune system know
+
+47:18.020 --> 47:19.380
+ that there was an infection?
+
+47:19.380 --> 47:22.060
+ Your immune system can recognize foreign invaders,
+
+47:22.060 --> 47:25.300
+ but the nervous system provides the signal,
+
+47:25.300 --> 47:28.420
+ the sort of alarm signal that liberates the killer cells,
+
+47:28.420 --> 47:30.060
+ that tells them there's a problem
+
+47:30.060 --> 47:33.120
+ and to go seek out the problem, so to speak.
+
+47:33.120 --> 47:36.780
+ So the duration here is really important
+
+47:36.780 --> 47:39.780
+ because if stress stayed too high for too long,
+
+47:39.780 --> 47:44.780
+ then yes, indeed, stress can hinder the immune response,
+
+47:44.940 --> 47:47.340
+ but for a period of about one to four days,
+
+47:47.340 --> 47:49.100
+ it actually can protect you
+
+47:49.100 --> 47:52.280
+ by way of increasing the immune response.
+
+47:52.280 --> 47:54.980
+ Now, I can say with certainty
+
+47:54.980 --> 47:58.420
+ that that effect is governed by epinephrine,
+
+47:58.420 --> 48:02.260
+ adrenaline released from the adrenals and not from the brain
+
+48:02.260 --> 48:04.380
+ because they actually explored
+
+48:04.380 --> 48:06.220
+ whether or not the effect exists
+
+48:06.220 --> 48:09.760
+ in the presence of what's called an adrenalectomy
+
+48:09.760 --> 48:12.260
+ or removing the adrenals.
+
+48:12.260 --> 48:13.860
+ So I should just say without the adrenals,
+
+48:13.860 --> 48:14.780
+ you don't get the effect.
+
+48:14.780 --> 48:16.660
+ So we know that that effect comes from adrenaline
+
+48:16.660 --> 48:17.720
+ in the body.
+
+48:17.720 --> 48:18.800
+ What does that mean for you?
+
+48:18.800 --> 48:21.840
+ That means if you want to increase your immune system
+
+48:21.840 --> 48:22.820
+ in the short term,
+
+48:23.800 --> 48:27.080
+ you want to increase your epinephrine in the short term.
+
+48:27.080 --> 48:30.300
+ That's why short bouts of very intense exercise,
+
+48:30.300 --> 48:32.420
+ probably no more than an hour per day,
+
+48:32.420 --> 48:33.880
+ provided you're doing everything else right,
+
+48:33.880 --> 48:36.100
+ sleeping and nutrition, et cetera,
+
+48:36.100 --> 48:38.800
+ maybe even shorter bouts of intense exercise
+
+48:38.800 --> 48:41.160
+ or exposure to cold water
+
+48:41.160 --> 48:44.680
+ or the cyclic breathing that I talked about before.
+
+48:44.680 --> 48:46.740
+ Because they increase epinephrine,
+
+48:46.740 --> 48:49.140
+ they will bolster the immune system.
+
+48:49.140 --> 48:51.980
+ And we all hear these reports every once in a while.
+
+48:51.980 --> 48:53.980
+ It seems to be the thing that every once in a while,
+
+48:53.980 --> 48:55.700
+ there'll be an article about how coffee
+
+48:55.700 --> 48:57.580
+ can improve your immune system or something like that.
+
+48:57.580 --> 49:00.020
+ Indeed, caffeine can increase epinephrine
+
+49:00.020 --> 49:02.060
+ and dopamine to some extent,
+
+49:02.060 --> 49:04.820
+ but most people are drinking it chronically.
+
+49:04.820 --> 49:09.100
+ So its effects are probably due to increases in epinephrine
+
+49:09.100 --> 49:11.500
+ and probably whether or not something like coffee
+
+49:11.500 --> 49:13.300
+ or other forms of caffeine can improve
+
+49:13.300 --> 49:14.820
+ or degrade your immune system
+
+49:14.820 --> 49:16.500
+ will probably depend on whether or not
+
+49:16.500 --> 49:19.020
+ you're using it in a way that it increases your adrenaline
+
+49:19.020 --> 49:21.500
+ as a spike that happens rarely.
+
+49:21.500 --> 49:23.960
+ Once every two or three months,
+
+49:23.960 --> 49:25.400
+ let's say you have an infection coming on.
+
+49:25.400 --> 49:28.180
+ Yes, indeed, what these data probably mean
+
+49:28.180 --> 49:30.920
+ is that drinking some hot caffeinated tea
+
+49:30.920 --> 49:34.900
+ or some hot coffee even provided you don't get dehydrated
+
+49:34.900 --> 49:37.120
+ from it because you're also drinking some water
+
+49:37.120 --> 49:39.340
+ can probably improve your immune system function
+
+49:39.340 --> 49:41.940
+ by way of increasing adrenaline release.
+
+49:41.940 --> 49:44.780
+ But so can the breathing, so can cold exposure,
+
+49:44.780 --> 49:46.940
+ so can exercise.
+
+49:46.940 --> 49:48.620
+ The mechanism here is what's key.
+
+49:48.620 --> 49:51.500
+ And I keep saying that because what it means
+
+49:51.500 --> 49:53.260
+ is that you don't actually have to know
+
+49:53.260 --> 49:54.580
+ the specific protocol.
+
+49:54.580 --> 49:57.740
+ I'm not trying to say, do this particular protocol.
+
+49:57.740 --> 50:00.540
+ You have to figure out, and it should be easy to figure out
+
+50:00.540 --> 50:04.180
+ what short-term adrenaline increasing behavior
+
+50:04.180 --> 50:06.900
+ you're willing to do on a regular basis every day
+
+50:06.900 --> 50:08.340
+ or two or three times a week.
+
+50:08.340 --> 50:10.400
+ Now you could say, well, I'm not sick.
+
+50:10.400 --> 50:13.420
+ Should I be doing these things often?
+
+50:13.420 --> 50:16.580
+ I would say two or three times a week at a minimum,
+
+50:16.580 --> 50:19.140
+ if your goal is to keep your immune system tuned up
+
+50:19.140 --> 50:22.420
+ and you are in the presence of a lot of children,
+
+50:22.420 --> 50:25.100
+ for instance, which carry a lot of bugs
+
+50:25.100 --> 50:26.960
+ because their immune system isn't developed,
+
+50:26.960 --> 50:30.160
+ or you work in a healthcare setting,
+
+50:30.160 --> 50:33.700
+ or you're simply somebody who's prone to get sick.
+
+50:33.700 --> 50:35.580
+ I can just say anecdotally,
+
+50:35.580 --> 50:37.700
+ I guess someone now calls this anecdata,
+
+50:37.700 --> 50:40.500
+ which I don't like that phrase because it's sort of,
+
+50:40.500 --> 50:43.820
+ I don't want anecdotal data to ever be misunderstood
+
+50:43.820 --> 50:45.600
+ as anything but anecdotal data.
+
+50:46.780 --> 50:49.980
+ Anecdotally, I can say that I've had instances
+
+50:49.980 --> 50:52.540
+ where I've felt a throat tickle coming on
+
+50:52.540 --> 50:54.020
+ or some sinus infection.
+
+50:54.020 --> 50:57.100
+ I will do the cyclic breathing that I described before,
+
+50:57.100 --> 50:59.420
+ 25, 30 breaths, exhale, hold, 25, 30 breaths,
+
+50:59.420 --> 51:01.420
+ exhale, hold, 25, 30 breaths, exhale, hold,
+
+51:01.420 --> 51:02.860
+ and then big inhale, hold.
+
+51:02.860 --> 51:05.660
+ And most times I didn't get full-blown sick,
+
+51:05.660 --> 51:07.700
+ but I also take other precautionary measures
+
+51:07.700 --> 51:09.960
+ to get sleep, et cetera.
+
+51:09.960 --> 51:12.100
+ So whether or not it was causal
+
+51:12.100 --> 51:14.580
+ or whether or not it's just correlated, I don't know.
+
+51:14.580 --> 51:16.420
+ However, there's a human study
+
+51:16.420 --> 51:18.780
+ that I definitely want to point out to you
+
+51:18.780 --> 51:21.220
+ because it was published more recently
+
+51:21.220 --> 51:22.140
+ than the McEwen work.
+
+51:22.140 --> 51:23.540
+ It was published in the Proceedings
+
+51:23.540 --> 51:26.380
+ of the National Academy of Sciences for the USA
+
+51:26.380 --> 51:28.140
+ because they're Proceedings of the National Academy
+
+51:28.140 --> 51:30.420
+ of Sciences for many other countries as well.
+
+51:30.420 --> 51:32.740
+ The title of the paper is voluntary activation
+
+51:32.740 --> 51:34.240
+ of the sympathetic nervous system.
+
+51:34.240 --> 51:36.200
+ That's the system that causes fight or flight
+
+51:36.200 --> 51:39.620
+ and AK stress and causes release of adrenaline
+
+51:39.620 --> 51:43.660
+ and attenuation of the innate immune response in humans.
+
+51:43.660 --> 51:48.180
+ This is Cox, K-O-X et al, P-N-A-S,
+
+51:48.180 --> 51:50.860
+ Proceedings of the National Academy of Sciences, 2014.
+
+51:50.860 --> 51:53.900
+ And they incorporate the ever famous Wim Hof breathing.
+
+51:53.900 --> 51:57.220
+ Wim Hof breathing is much like the breathing protocol
+
+51:57.220 --> 52:00.140
+ that I've described several times now in this podcast.
+
+52:00.140 --> 52:02.220
+ It's also called Tummo breathing.
+
+52:02.220 --> 52:05.220
+ Other people from other cultures and communities
+
+52:05.220 --> 52:06.300
+ have called it other things.
+
+52:06.300 --> 52:08.440
+ The naming really isn't important.
+
+52:08.440 --> 52:10.060
+ Although I do think Wim is a pioneer
+
+52:10.060 --> 52:11.780
+ in trying to bring these practices
+
+52:11.780 --> 52:13.540
+ to the general public more broadly
+
+52:13.540 --> 52:15.480
+ and was involved in this study.
+
+52:16.660 --> 52:18.500
+ The study was done in the Netherlands.
+
+52:18.500 --> 52:22.780
+ It was communicated by Dr. Thomas Horvath at Yale.
+
+52:22.780 --> 52:24.180
+ I mentioned all that.
+
+52:24.180 --> 52:26.740
+ Horvath is a terrific scientist.
+
+52:26.740 --> 52:29.380
+ I'm familiar with his work over many years.
+
+52:29.380 --> 52:30.480
+ Here's what they did.
+
+52:31.500 --> 52:36.500
+ They injected people with E. coli
+
+52:36.500 --> 52:40.740
+ and they had groups that either did the sorts of breathing
+
+52:40.740 --> 52:44.020
+ I've been describing that increase adrenaline release.
+
+52:44.020 --> 52:47.540
+ Although I should say, I don't think you need that breathing
+
+52:47.540 --> 52:48.620
+ to get adrenaline release.
+
+52:48.620 --> 52:49.940
+ You could do it with cold exposure.
+
+52:49.940 --> 52:51.820
+ You could do it with other things,
+
+52:51.820 --> 52:53.780
+ high intensity interval training as well.
+
+52:53.780 --> 52:58.780
+ And what they found was that the response to the E. coli
+
+53:00.240 --> 53:03.700
+ was quite different in the people that had a protocol,
+
+53:03.700 --> 53:06.580
+ in this case, breathing to increase adrenaline.
+
+53:06.580 --> 53:09.540
+ So this is a remarkable study
+
+53:09.540 --> 53:12.060
+ because what they found was that the fever, the vomiting,
+
+53:12.060 --> 53:15.940
+ all the negative effects of E. coli,
+
+53:15.940 --> 53:18.300
+ many of them and in some cases, all of them
+
+53:18.300 --> 53:20.620
+ were greatly attenuated
+
+53:20.620 --> 53:24.020
+ by way of engaging the adrenaline system,
+
+53:24.020 --> 53:26.040
+ in this case, using breathing.
+
+53:26.040 --> 53:29.660
+ They looked at inflammatory cytokines, things like IL-6,
+
+53:29.660 --> 53:31.420
+ which I've mentioned many times on this podcast,
+
+53:31.420 --> 53:33.820
+ the sort of classic inflammatory cytokine were reduced.
+
+53:33.820 --> 53:36.460
+ Things like IL-10, which are anti-inflammatory
+
+53:36.460 --> 53:37.340
+ were increased.
+
+53:37.340 --> 53:40.240
+ There were some inflammatory cytokines that were increased.
+
+53:41.480 --> 53:42.320
+ What's the point here?
+
+53:42.320 --> 53:45.140
+ The point is you can control your immune system
+
+53:45.140 --> 53:49.060
+ by finding a way that you can increase adrenaline.
+
+53:49.060 --> 53:51.580
+ And this runs counter to what we always hear,
+
+53:51.580 --> 53:54.740
+ which is don't get too stressed or you will get sick.
+
+53:54.740 --> 53:58.520
+ Learn to control adrenaline, turn it on and turn it off.
+
+53:58.520 --> 54:00.020
+ Learn to control cortisol,
+
+54:00.020 --> 54:02.740
+ turn it on with light in the morning, try and turn it off.
+
+54:02.740 --> 54:05.660
+ And then when it spikes because of life events,
+
+54:05.660 --> 54:06.860
+ learn to turn it off.
+
+54:07.840 --> 54:11.160
+ Learning to turn on and off adrenaline,
+
+54:11.160 --> 54:16.160
+ AKA epinephrine and learning to turn on and off cortisol
+
+54:16.160 --> 54:20.160
+ affords you the ability to turn on energy and focus
+
+54:20.160 --> 54:21.300
+ and your immune system.
+
+54:22.280 --> 54:24.580
+ That's the most important point from today's podcast
+
+54:24.580 --> 54:27.600
+ and understanding that it doesn't matter
+
+54:27.600 --> 54:28.960
+ what protocol you use.
+
+54:28.960 --> 54:31.000
+ Maybe it's a cup of coffee and running up a hill
+
+54:31.000 --> 54:31.960
+ five or six times.
+
+54:31.960 --> 54:33.640
+ That will improve your immune system function
+
+54:33.640 --> 54:36.200
+ if you get adrenaline in your system.
+
+54:36.200 --> 54:38.300
+ You can use an ice bath, you can use a cold bath.
+
+54:38.300 --> 54:40.440
+ It really doesn't matter.
+
+54:40.440 --> 54:41.440
+ You can get into an argument,
+
+54:41.440 --> 54:42.840
+ but I'm not suggesting you do that.
+
+54:42.840 --> 54:44.480
+ It really doesn't matter.
+
+54:44.480 --> 54:46.880
+ What's important is that you're able to then shut off
+
+54:46.880 --> 54:49.000
+ that response and there are ways to do that
+
+54:49.000 --> 54:50.440
+ we will talk about, but I want to talk about
+
+54:50.440 --> 54:54.640
+ some of the other benefits of epinephrine and cortisol
+
+54:54.640 --> 54:57.520
+ that occur because of their actions on the brain,
+
+54:57.520 --> 55:00.100
+ because these are many and they are powerful
+
+55:00.100 --> 55:03.560
+ and they relate to energy, but also the ability to learn.
+
+55:03.560 --> 55:05.960
+ If I haven't already convinced you that seeing light
+
+55:05.960 --> 55:09.240
+ early in the day is good for timing your cortisol,
+
+55:09.240 --> 55:11.520
+ I should also mention that another hormone
+
+55:11.520 --> 55:15.260
+ that I discussed last episode, which is thyroid hormone,
+
+55:15.260 --> 55:18.560
+ and it's critical for setting your level of metabolism
+
+55:18.560 --> 55:23.560
+ is controlled in part by these circadian mechanisms
+
+55:24.060 --> 55:26.200
+ and cortisol itself.
+
+55:27.380 --> 55:31.720
+ The short takeaway on this is that if you get your cortisol
+
+55:31.720 --> 55:33.360
+ release early in the day,
+
+55:33.360 --> 55:35.480
+ it will increase your energy throughout the day.
+
+55:35.480 --> 55:39.580
+ It will also time your thyroid release properly.
+
+55:39.580 --> 55:43.180
+ So there's yet another reason why you would want to get
+
+55:43.180 --> 55:45.280
+ that light exposure early in the day.
+
+55:45.280 --> 55:47.980
+ For me, that's a non-negotiable practice.
+
+55:47.980 --> 55:51.040
+ If I'm on a plane, I'll try and get it any way I can.
+
+55:51.040 --> 55:53.700
+ I'm not shining flashlights in my eyes yet,
+
+55:53.700 --> 55:57.500
+ but I really try hard to get that light exposure
+
+55:57.500 --> 56:01.420
+ from sunlight early in the day without fail.
+
+56:01.420 --> 56:04.580
+ And the thyroid increase has to do with the fact
+
+56:04.580 --> 56:08.280
+ that your circadian clock itself is regulated by cortisol
+
+56:08.280 --> 56:10.600
+ and the circadian clock times the release
+
+56:10.600 --> 56:11.920
+ of thyroid hormone.
+
+56:11.920 --> 56:14.720
+ I don't want to go too far off in that direction,
+
+56:14.720 --> 56:16.720
+ but there are a number of studies,
+
+56:18.240 --> 56:23.240
+ Kalsbeek et al, K-A-L-S-B-E-E-K et al, 2012,
+
+56:25.240 --> 56:28.300
+ if you want to look it up on PubMed is a great one
+
+56:28.300 --> 56:31.160
+ that describes how cortisol secretion begins to rise
+
+56:31.160 --> 56:34.380
+ during sleep and peaks shortly after waking
+
+56:34.380 --> 56:36.560
+ or immediately before.
+
+56:36.560 --> 56:41.560
+ And that times a set of neurons in the circadian clock
+
+56:43.220 --> 56:45.640
+ that then trigger the release of the releasing
+
+56:45.640 --> 56:47.900
+ and stimulating hormones for thyroid.
+
+56:47.900 --> 56:52.120
+ So a really important mechanism and thyroid will also tend
+
+56:52.120 --> 56:54.440
+ to correlate with energy, but mostly metabolism.
+
+56:54.440 --> 56:56.420
+ Very important to have thyroid in check.
+
+56:56.420 --> 56:58.400
+ Now let's talk about epinephrine and cortisol
+
+56:58.400 --> 56:59.780
+ and learning and memory.
+
+57:01.500 --> 57:03.720
+ Everyone has a story about being so stressed
+
+57:03.720 --> 57:05.920
+ they couldn't remember something,
+
+57:05.920 --> 57:08.220
+ sit down to an exam, actually had this happen once,
+
+57:08.220 --> 57:12.340
+ sat down to an exam and just blanked, just blanked.
+
+57:12.340 --> 57:14.960
+ It only happened once, I don't know what happened.
+
+57:14.960 --> 57:16.320
+ I don't think it was sleep deprivation,
+
+57:16.320 --> 57:18.440
+ but I just completely blanked.
+
+57:18.440 --> 57:20.920
+ And it was very hard for me to pull myself
+
+57:20.920 --> 57:22.040
+ out of that ditch.
+
+57:22.040 --> 57:25.200
+ I did manage to do it, but it was a scary experience.
+
+57:25.200 --> 57:27.320
+ So I think most people think about stress
+
+57:27.320 --> 57:29.320
+ and an inability to perform.
+
+57:29.320 --> 57:33.960
+ However, most of the time increases in epinephrine
+
+57:33.960 --> 57:36.980
+ provided they are not through the roof
+
+57:36.980 --> 57:39.080
+ lead to improved performance.
+
+57:39.080 --> 57:42.520
+ Now this has been shown over and over again on memory tests,
+
+57:42.520 --> 57:47.520
+ on learning new information, on physical performance,
+
+57:47.600 --> 57:50.340
+ that when blood levels of epinephrine are low,
+
+57:51.400 --> 57:52.920
+ you don't perform very well.
+
+57:53.960 --> 57:56.720
+ When blood levels of epinephrine are very high,
+
+57:56.720 --> 58:01.200
+ up to about 1500 to 1700 picograms per mil,
+
+58:01.200 --> 58:03.600
+ if anyone's out there who's actually measuring this stuff,
+
+58:03.600 --> 58:07.600
+ but I doubt you are, performance goes way up.
+
+58:07.600 --> 58:10.200
+ Performance gets better when you are alert
+
+58:10.200 --> 58:12.040
+ and when you're a little bit stressed.
+
+58:13.160 --> 58:16.300
+ Absolutely shown again and again and again.
+
+58:16.300 --> 58:19.720
+ If you get too stressed, it's the mental side,
+
+58:19.720 --> 58:22.000
+ it's the epinephrine in the brain that causes people
+
+58:22.000 --> 58:24.560
+ to either focus on their somatic response too much,
+
+58:24.560 --> 58:25.740
+ like they feel like they're sweating
+
+58:25.740 --> 58:27.560
+ and they're focused on their bodily response
+
+58:27.560 --> 58:29.320
+ and they're not focused on what it is they're trying to do
+
+58:29.320 --> 58:32.480
+ or say or perform, et cetera, or learn.
+
+58:32.480 --> 58:36.120
+ But epinephrine is a nootropic,
+
+58:36.120 --> 58:39.480
+ it is a smart drug that we all make internally.
+
+58:39.480 --> 58:42.040
+ And cortisol is as well.
+
+58:42.040 --> 58:43.600
+ Now here's the twist.
+
+58:44.760 --> 58:49.180
+ That does not mean that you want epinephrine high
+
+58:49.180 --> 58:51.620
+ during the exam necessarily.
+
+58:53.800 --> 58:58.560
+ Memory and learning and performance are actually favored,
+
+58:58.560 --> 59:02.160
+ they are enhanced by epinephrine increases
+
+59:02.160 --> 59:04.800
+ immediately after learning.
+
+59:04.800 --> 59:06.960
+ And that's something that's rarely discussed,
+
+59:06.960 --> 59:08.760
+ the timing is vital.
+
+59:08.760 --> 59:11.760
+ So if you learn some information, you have a conversation,
+
+59:11.760 --> 59:15.040
+ you're trying to learn a new language, a new motor skill,
+
+59:15.040 --> 59:18.040
+ whatever it is that you're trying to learn,
+
+59:18.040 --> 59:22.480
+ the increase in epinephrine that occurs just afterward
+
+59:22.480 --> 59:25.520
+ is what's going to consolidate the information.
+
+59:25.520 --> 59:28.380
+ It's going to ensure that the proper circuits and mechanisms
+
+59:28.380 --> 59:31.160
+ in the brain for neuroplasticity are engaged during sleep
+
+59:31.160 --> 59:32.440
+ later that night or the next night,
+
+59:32.440 --> 59:34.600
+ which is when the real rewiring occurs.
+
+59:34.600 --> 59:37.380
+ And you might say, that's crazy, why would that happen?
+
+59:37.380 --> 59:40.940
+ Well, we have to remember none of these mechanisms evolved
+
+59:40.940 --> 59:44.260
+ for us to do what we want and learn what we want necessarily
+
+59:44.260 --> 59:46.940
+ although they will allow us to do that.
+
+59:46.940 --> 59:49.140
+ We've experienced this before.
+
+59:49.140 --> 59:53.080
+ We might have gotten up, gone outside, get in our car,
+
+59:53.080 --> 59:54.980
+ drive to work or to somebody's house,
+
+59:54.980 --> 59:56.500
+ you're not thinking about much at all.
+
+59:56.500 --> 59:59.160
+ And then all of a sudden you see an accident on the road.
+
+59:59.160 --> 1:00:01.520
+ Your alertness is primed
+
+1:00:01.520 --> 1:00:04.720
+ if it happens to be a particularly gory accident,
+
+1:00:04.720 --> 1:00:08.080
+ there's going to be a lot of sensory information there.
+
+1:00:08.080 --> 1:00:09.760
+ All of a sudden adrenaline epinephrine
+
+1:00:09.760 --> 1:00:12.180
+ is released into your brain and body.
+
+1:00:12.180 --> 1:00:13.120
+ Guess what?
+
+1:00:13.120 --> 1:00:15.780
+ Not only will you not forget that event,
+
+1:00:15.780 --> 1:00:18.640
+ but you will remember everything that led up to that event,
+
+1:00:18.640 --> 1:00:20.980
+ which has an adaptive function
+
+1:00:20.980 --> 1:00:25.280
+ because your brain and body's primary concern is safety.
+
+1:00:25.280 --> 1:00:27.320
+ This is the neurobiological explanation
+
+1:00:27.320 --> 1:00:30.860
+ for Maslow's hierarchy of needs is safety first.
+
+1:00:30.860 --> 1:00:32.880
+ And so you have heightened awareness and alertness
+
+1:00:32.880 --> 1:00:34.480
+ for everything that preceded
+
+1:00:35.380 --> 1:00:39.000
+ that spike in adrenaline and cortisol.
+
+1:00:39.000 --> 1:00:41.220
+ So the way to think about this is
+
+1:00:41.220 --> 1:00:43.120
+ if you need to learn something better,
+
+1:00:44.160 --> 1:00:45.520
+ if you're taking Adderall
+
+1:00:45.520 --> 1:00:47.520
+ or you're taking a lot of coffee beforehand,
+
+1:00:47.520 --> 1:00:51.480
+ you're actually driving the process in the wrong direction.
+
+1:00:51.480 --> 1:00:54.000
+ You're increasing epinephrine for learning, sure,
+
+1:00:54.000 --> 1:00:54.980
+ but past a certain point,
+
+1:00:54.980 --> 1:00:57.860
+ you're actually degrading learning and performance.
+
+1:00:57.860 --> 1:01:00.480
+ The time to do that is toward the end
+
+1:01:00.480 --> 1:01:02.400
+ or immediately after the learning
+
+1:01:02.400 --> 1:01:05.160
+ because this mechanism is not simply devoted
+
+1:01:05.160 --> 1:01:08.940
+ to negative events like a car crash or a trauma.
+
+1:01:08.940 --> 1:01:11.480
+ It works to make sure that the hippocampus
+
+1:01:11.480 --> 1:01:13.160
+ that encodes memories
+
+1:01:13.160 --> 1:01:16.420
+ as part of the memory encoding mechanisms
+
+1:01:16.420 --> 1:01:18.880
+ is primed that it's told
+
+1:01:18.880 --> 1:01:20.600
+ what you just experienced is important.
+
+1:01:20.600 --> 1:01:23.520
+ You're going to need that information later.
+
+1:01:23.520 --> 1:01:25.200
+ And so I've talked many times before
+
+1:01:25.200 --> 1:01:28.080
+ about using non-sleep deep rest,
+
+1:01:28.080 --> 1:01:31.400
+ NSDR or ensuring good night's sleep after learning.
+
+1:01:31.400 --> 1:01:33.840
+ But what we're also talking about is
+
+1:01:33.840 --> 1:01:36.320
+ as the learning event tapers off,
+
+1:01:36.320 --> 1:01:37.920
+ as you're exiting that
+
+1:01:37.920 --> 1:01:39.780
+ to make sure that your epinephrine levels
+
+1:01:39.780 --> 1:01:41.760
+ are not tapering off as well.
+
+1:01:41.760 --> 1:01:45.200
+ And this may be one of the reasons why the 90 minute cycle,
+
+1:01:45.200 --> 1:01:47.560
+ the so-called ultradian cycle for learning works
+
+1:01:47.560 --> 1:01:48.520
+ because it takes a few minutes
+
+1:01:48.520 --> 1:01:50.400
+ to get into rhythm of learning.
+
+1:01:50.400 --> 1:01:53.760
+ You can maintain that alertness for about 90 minutes.
+
+1:01:53.760 --> 1:01:55.960
+ It's no coincidence that these podcasts
+
+1:01:55.960 --> 1:01:58.840
+ are typically about 90 minutes long.
+
+1:01:58.840 --> 1:02:02.360
+ And as you exit that 90 minutes
+
+1:02:02.360 --> 1:02:05.080
+ you're going to start to feel fatigued.
+
+1:02:05.080 --> 1:02:06.460
+ You're not going to be able to continue
+
+1:02:06.460 --> 1:02:08.920
+ to secrete epinephrine at the same level.
+
+1:02:08.920 --> 1:02:11.200
+ So I'm not telling you that at the end of this podcast
+
+1:02:11.200 --> 1:02:13.080
+ you should give yourself a foot shock
+
+1:02:13.080 --> 1:02:14.780
+ or that you should jump into an ice bath.
+
+1:02:14.780 --> 1:02:15.620
+ Although I will say
+
+1:02:15.620 --> 1:02:17.400
+ if you were to increase your epinephrine
+
+1:02:17.400 --> 1:02:18.640
+ at the end of this episode
+
+1:02:18.640 --> 1:02:21.040
+ by breathing or by way of cold shower,
+
+1:02:21.040 --> 1:02:25.140
+ I'm willing to bet based on numerous published studies
+
+1:02:25.140 --> 1:02:29.180
+ that the memory for the information would be enhanced
+
+1:02:29.180 --> 1:02:31.860
+ because of this retroactive effect
+
+1:02:31.860 --> 1:02:34.340
+ of epinephrine and cortisol.
+
+1:02:34.340 --> 1:02:37.040
+ Put simply, you can remember things better
+
+1:02:37.040 --> 1:02:39.040
+ if you increase your alertness,
+
+1:02:39.040 --> 1:02:41.920
+ AKA your level of epinephrine and cortisol
+
+1:02:41.920 --> 1:02:46.040
+ after, immediately after something that you want to learn.
+
+1:02:46.040 --> 1:02:48.820
+ So I'm reminded by people here at the Huberman Lab Podcast
+
+1:02:48.820 --> 1:02:51.000
+ that the optimal strategy therefore
+
+1:02:51.000 --> 1:02:55.640
+ would be a 90 minute session of focus or learning.
+
+1:02:55.640 --> 1:03:00.640
+ Then immediately after cold shower or tumor type breathing
+
+1:03:00.680 --> 1:03:02.920
+ or ice bath or something of that sort,
+
+1:03:02.920 --> 1:03:04.960
+ maybe a hard run or hit training
+
+1:03:04.960 --> 1:03:07.120
+ if you can't get access to the other things.
+
+1:03:07.120 --> 1:03:11.240
+ And then shower up and do a non-sleep deep rest
+
+1:03:11.240 --> 1:03:12.360
+ and then get a good night's sleep.
+
+1:03:12.360 --> 1:03:16.280
+ Those would be the optimal tools and the organization of
+
+1:03:16.280 --> 1:03:18.700
+ tools for enhanced learning.
+
+1:03:18.700 --> 1:03:20.360
+ And of course you could use caffeine
+
+1:03:20.360 --> 1:03:23.640
+ to prime the whole process by drinking the caffeine
+
+1:03:23.640 --> 1:03:25.400
+ towards the tail of the learning episode,
+
+1:03:25.400 --> 1:03:27.880
+ which is counterintuitive at least to me.
+
+1:03:27.880 --> 1:03:30.580
+ I should mention since many of you use caffeine
+
+1:03:30.580 --> 1:03:32.400
+ and I use caffeine, I do drink coffee,
+
+1:03:32.400 --> 1:03:35.560
+ I love mushroom coffee, I love mate,
+
+1:03:35.560 --> 1:03:37.740
+ I drink caffeine in various forms,
+
+1:03:38.640 --> 1:03:41.300
+ that there was a study that came out recently
+
+1:03:41.300 --> 1:03:44.300
+ that is relevant to our discussion about energy
+
+1:03:44.300 --> 1:03:47.140
+ and alertness and learning.
+
+1:03:47.140 --> 1:03:51.400
+ And the study came out just recently in March, 2021.
+
+1:03:51.400 --> 1:03:56.400
+ It's Maghalas et al, so M-A-G-A-L-H-A-E-S.
+
+1:03:58.380 --> 1:04:00.420
+ And it was published in Molecular Psychiatry,
+
+1:04:00.420 --> 1:04:02.580
+ which is a fine journal, a peer review journal.
+
+1:04:02.580 --> 1:04:05.700
+ And the title pretty much gives it away.
+
+1:04:05.700 --> 1:04:09.120
+ Habitual coffee drinkers display a distinct pattern
+
+1:04:09.120 --> 1:04:11.800
+ of brain functional connectivity.
+
+1:04:11.800 --> 1:04:15.000
+ Chronically drinking coffee changes brain connectivity.
+
+1:04:15.000 --> 1:04:16.820
+ And it does it in a number of ways,
+
+1:04:16.820 --> 1:04:19.380
+ but the key takeaways from this study,
+
+1:04:19.380 --> 1:04:22.820
+ as it relates to sort of what the circuits do,
+
+1:04:22.820 --> 1:04:25.200
+ as opposed to me just listing off a bunch of brain circuits,
+
+1:04:25.200 --> 1:04:28.240
+ which is kind of meaningless in this conversation,
+
+1:04:28.240 --> 1:04:33.240
+ is that people who drank coffee habitually every day
+
+1:04:33.460 --> 1:04:35.340
+ had changes in their brain circuitry
+
+1:04:35.340 --> 1:04:38.760
+ such that there was a shift or a bias
+
+1:04:38.760 --> 1:04:43.680
+ toward anxiety even when they don't ingest caffeine.
+
+1:04:43.680 --> 1:04:44.700
+ So a lot of times we think,
+
+1:04:44.700 --> 1:04:47.340
+ oh, caffeine increases your levels of anxiety.
+
+1:04:47.340 --> 1:04:50.560
+ And indeed it appears it does if you use it chronically,
+
+1:04:50.560 --> 1:04:53.840
+ but not just to caffeine.
+
+1:04:53.840 --> 1:04:56.100
+ It doesn't just raise your baseline of anxiety
+
+1:04:56.100 --> 1:04:57.900
+ because of what's circulating in your bloodstream.
+
+1:04:57.900 --> 1:04:59.580
+ It actually increases connectivity
+
+1:04:59.580 --> 1:05:02.820
+ between the brain areas that relate to anxiety.
+
+1:05:02.820 --> 1:05:04.380
+ Now that could be a good thing or a bad thing,
+
+1:05:04.380 --> 1:05:05.540
+ depending on how you look at it.
+
+1:05:05.540 --> 1:05:10.200
+ For people that are prone to chronic panic attacks
+
+1:05:10.200 --> 1:05:12.260
+ or anxiety attacks, that's not going to be good.
+
+1:05:12.260 --> 1:05:14.860
+ Some people might use caffeine in healthy ways,
+
+1:05:14.860 --> 1:05:15.680
+ I believe I do,
+
+1:05:15.680 --> 1:05:18.360
+ in order to just increase overall levels of alertness.
+
+1:05:18.360 --> 1:05:20.420
+ Although now not only am I going to start
+
+1:05:20.420 --> 1:05:22.140
+ delaying my caffeine intake
+
+1:05:22.140 --> 1:05:23.580
+ till two hours after I wake up
+
+1:05:23.580 --> 1:05:26.140
+ for reasons I've talked about in previous episodes,
+
+1:05:27.100 --> 1:05:29.700
+ but I'm also going to start drinking it later
+
+1:05:29.700 --> 1:05:32.600
+ in learning and focus sessions
+
+1:05:32.600 --> 1:05:34.460
+ as a way to enhance plasticity
+
+1:05:34.460 --> 1:05:37.580
+ around those learning and focus sessions not before.
+
+1:05:37.580 --> 1:05:40.500
+ So interesting study, feel free to, it's free online.
+
+1:05:40.500 --> 1:05:42.140
+ You can access the full paper online.
+
+1:05:42.140 --> 1:05:43.940
+ We will put a link as well.
+
+1:05:43.940 --> 1:05:46.020
+ I want to mention this issue of nootropic,
+
+1:05:46.020 --> 1:05:47.060
+ so-called smart drugs,
+
+1:05:47.060 --> 1:05:50.340
+ which is not a topic that I particularly enjoy
+
+1:05:50.340 --> 1:05:51.460
+ because I don't like the name.
+
+1:05:51.460 --> 1:05:52.900
+ I don't like the idea of a nootropic
+
+1:05:52.900 --> 1:05:54.260
+ because what is a smart drug?
+
+1:05:54.260 --> 1:05:56.860
+ Well, there's different kinds of smart.
+
+1:05:56.860 --> 1:06:00.000
+ There's creativity, there's task switching,
+
+1:06:00.000 --> 1:06:02.860
+ there's strategy building, there's strategy implementation.
+
+1:06:02.860 --> 1:06:05.580
+ And most of the nootropics that are out there
+
+1:06:05.580 --> 1:06:07.420
+ are just cocktails of a bunch of different things
+
+1:06:07.420 --> 1:06:09.540
+ that aren't tailored to the individual at all.
+
+1:06:09.540 --> 1:06:12.340
+ They all seem to have some caffeine
+
+1:06:12.340 --> 1:06:14.620
+ or some cholinergic stimulation, et cetera.
+
+1:06:14.620 --> 1:06:16.060
+ But there's an important way to frame this
+
+1:06:16.060 --> 1:06:17.940
+ in light of today's conversation.
+
+1:06:17.940 --> 1:06:19.860
+ Nootropics generally fall into two categories.
+
+1:06:19.860 --> 1:06:24.860
+ One category are nootropics that increase blood glucose.
+
+1:06:24.860 --> 1:06:26.820
+ So these are compounds that people take
+
+1:06:26.820 --> 1:06:27.920
+ that increase blood glucose,
+
+1:06:27.920 --> 1:06:32.060
+ and increasing blood glucose will improve performance
+
+1:06:32.060 --> 1:06:34.620
+ and can enhance learning in some situations.
+
+1:06:34.620 --> 1:06:36.020
+ I'm not suggesting people take these things,
+
+1:06:36.020 --> 1:06:38.000
+ but here's just a list of a few of those.
+
+1:06:38.000 --> 1:06:40.220
+ Some of them are legal, some of them are gray market,
+
+1:06:40.220 --> 1:06:41.460
+ some of them are illegal.
+
+1:06:43.300 --> 1:06:48.300
+ Piracetams, oxiracetams, the aniracetams, all the tams, okay?
+
+1:06:49.580 --> 1:06:52.040
+ Elevate blood glucose, that's how they work.
+
+1:06:52.040 --> 1:06:55.060
+ The neural effects that you hear are secondary or tertiary
+
+1:06:55.060 --> 1:06:57.300
+ to the fact that they just increase blood glucose.
+
+1:06:57.300 --> 1:06:59.500
+ We know that because if you block the blood glucose effect,
+
+1:06:59.500 --> 1:07:02.660
+ you block the nootropic effect, okay?
+
+1:07:02.660 --> 1:07:05.660
+ Others include, and definitely don't take these please,
+
+1:07:05.660 --> 1:07:09.820
+ amphetamine, cocaine, those will increase learning
+
+1:07:09.820 --> 1:07:12.100
+ in the short term in particular dosages,
+
+1:07:12.100 --> 1:07:15.020
+ but because they increase blood glucose.
+
+1:07:15.020 --> 1:07:19.060
+ And then of course, things like painful stimuli or stress
+
+1:07:19.060 --> 1:07:22.860
+ will improve learning by way of increasing blood glucose.
+
+1:07:22.860 --> 1:07:26.420
+ Now, stress and epinephrine that's associated with it
+
+1:07:26.420 --> 1:07:31.320
+ not only improve performance during the learning bout,
+
+1:07:31.320 --> 1:07:32.440
+ but as I mentioned before,
+
+1:07:32.440 --> 1:07:34.680
+ having epinephrine come up afterward
+
+1:07:34.680 --> 1:07:36.800
+ will increase the retention of that information
+
+1:07:36.800 --> 1:07:38.080
+ in the long-term.
+
+1:07:38.080 --> 1:07:39.760
+ And then of course, there's a whole category
+
+1:07:39.760 --> 1:07:44.220
+ of nootropics that don't impact blood glucose
+
+1:07:44.220 --> 1:07:47.540
+ that work by increasing the cholinergic system activity.
+
+1:07:47.540 --> 1:07:51.160
+ And these are things like choline, lecithin, phosostigmine,
+
+1:07:51.160 --> 1:07:55.080
+ it's a prescription drug, phosphatidylstyrene.
+
+1:07:55.080 --> 1:07:57.480
+ So there are ways to increase energy
+
+1:07:57.480 --> 1:08:00.000
+ that don't require increasing blood glucose.
+
+1:08:00.000 --> 1:08:02.460
+ And this is vitally important.
+
+1:08:02.460 --> 1:08:04.800
+ The reason we're talking about epinephrine and cortisol
+
+1:08:04.800 --> 1:08:07.160
+ for increasing energy and immune system function
+
+1:08:07.160 --> 1:08:11.220
+ is because they are largely independent of blood glucose.
+
+1:08:11.220 --> 1:08:13.400
+ Of course, they interact with that system,
+
+1:08:13.400 --> 1:08:17.040
+ but we heard so much growing up, you need to eat for energy,
+
+1:08:17.040 --> 1:08:19.640
+ but the energy that we're talking about today
+
+1:08:19.640 --> 1:08:21.160
+ is actually a much more powerful one
+
+1:08:21.160 --> 1:08:22.840
+ than the one that you derive from food.
+
+1:08:22.840 --> 1:08:25.040
+ It's, we could call it neural energy.
+
+1:08:25.040 --> 1:08:28.000
+ It's neurotransmitters that create alertness and focus
+
+1:08:28.000 --> 1:08:30.560
+ and the willingness and the ability to move
+
+1:08:30.560 --> 1:08:33.160
+ and the willingness and ability for immune system
+
+1:08:33.160 --> 1:08:35.560
+ to move in response to intruders.
+
+1:08:35.560 --> 1:08:39.680
+ So I think we all too often think about food as energy,
+
+1:08:39.680 --> 1:08:42.620
+ which is great because it is,
+
+1:08:42.620 --> 1:08:45.880
+ but there are other sources of energy that are neural
+
+1:08:45.880 --> 1:08:47.860
+ and they relate to these hormone systems,
+
+1:08:47.860 --> 1:08:49.040
+ cortisol and epinephrine,
+
+1:08:49.040 --> 1:08:51.720
+ and that's what we're focused on today.
+
+1:08:51.720 --> 1:08:55.020
+ So up until now, we've been talking about increasing energy
+
+1:08:55.020 --> 1:08:57.060
+ and increasing the immune system
+
+1:08:57.060 --> 1:08:59.620
+ by way of cortisol and epinephrine,
+
+1:08:59.620 --> 1:09:02.520
+ but I'd be totally remiss if I didn't cover
+
+1:09:02.520 --> 1:09:07.360
+ how cortisol and epinephrine, if chronically elevated
+
+1:09:07.360 --> 1:09:09.120
+ or if elevated too high,
+
+1:09:09.120 --> 1:09:12.640
+ can have a lot of detrimental effects.
+
+1:09:12.640 --> 1:09:14.600
+ These are the things we normally hear about.
+
+1:09:14.600 --> 1:09:17.000
+ I'm going to describe some of those things,
+
+1:09:17.000 --> 1:09:20.760
+ but I'm also going to talk about ways to ameliorate them,
+
+1:09:20.760 --> 1:09:23.720
+ ways that you can adjust the cortisol levels
+
+1:09:23.720 --> 1:09:24.720
+ even if you're stressed,
+
+1:09:24.720 --> 1:09:26.600
+ ways that you can adjust epinephrine levels
+
+1:09:26.600 --> 1:09:27.880
+ even if you're stressed
+
+1:09:27.880 --> 1:09:30.280
+ so that they have less of a negative impact.
+
+1:09:32.120 --> 1:09:33.560
+ I don't have to list off all the ways
+
+1:09:33.560 --> 1:09:36.520
+ that stress is terrible and chronic stress is terrible.
+
+1:09:36.520 --> 1:09:37.800
+ I think you know.
+
+1:09:37.800 --> 1:09:41.580
+ Insomnia, your immune system over time will get battered
+
+1:09:41.580 --> 1:09:44.680
+ and you won't be able to fight infection off as well, right?
+
+1:09:44.680 --> 1:09:47.580
+ You don't want to be stressed for too long.
+
+1:09:47.580 --> 1:09:50.920
+ You can start laying down the sort of classic pattern
+
+1:09:50.920 --> 1:09:52.800
+ of cortisol-induced body fat.
+
+1:09:52.800 --> 1:09:57.640
+ In fact, there's a whole literature related to comfort foods
+
+1:09:57.640 --> 1:10:00.740
+ and why we want to consume comfort foods
+
+1:10:00.740 --> 1:10:03.220
+ under conditions of chronic stress.
+
+1:10:03.220 --> 1:10:04.840
+ And it's quite interesting actually
+
+1:10:04.840 --> 1:10:05.800
+ because it reveals something
+
+1:10:05.800 --> 1:10:07.560
+ about the biology of chronic stress
+
+1:10:07.560 --> 1:10:10.740
+ that's informative for how to prevent it
+
+1:10:10.740 --> 1:10:15.060
+ or to down-regulate chronic stress once it's occurred.
+
+1:10:15.060 --> 1:10:17.600
+ So let's talk for a second about comfort foods.
+
+1:10:17.600 --> 1:10:19.360
+ And the work that I'm going to refer to
+
+1:10:19.360 --> 1:10:22.240
+ is work that was done by a very impressive scientist
+
+1:10:22.240 --> 1:10:24.440
+ by the name of Mary Dalman.
+
+1:10:24.440 --> 1:10:26.800
+ Her work goes back decades.
+
+1:10:26.800 --> 1:10:29.480
+ She was at University of California, San Francisco.
+
+1:10:29.480 --> 1:10:32.580
+ And she asked this question that on the face of it
+
+1:10:32.580 --> 1:10:33.600
+ seems kind of obvious,
+
+1:10:33.600 --> 1:10:35.920
+ but for which there was no mechanism known
+
+1:10:35.920 --> 1:10:39.880
+ until Mary and her lab personnel came along.
+
+1:10:39.880 --> 1:10:42.840
+ And the question was, why do we seek high fat
+
+1:10:42.840 --> 1:10:46.760
+ and or high sugar foods when we are stressed for awhile?
+
+1:10:46.760 --> 1:10:48.440
+ Why would that be?
+
+1:10:48.440 --> 1:10:52.400
+ And the reason is that the so-called glucocorticoids
+
+1:10:52.400 --> 1:10:54.400
+ of which cortisol is a glucocorticoid
+
+1:10:56.700 --> 1:10:58.160
+ is caused as we've mentioned before
+
+1:10:58.160 --> 1:10:59.560
+ by releasing hormones from the brain
+
+1:10:59.560 --> 1:11:02.200
+ and ACTH from the pituitary, et cetera.
+
+1:11:02.200 --> 1:11:05.200
+ But normally high levels of glucocorticoid
+
+1:11:05.200 --> 1:11:08.760
+ shut off the releasing hormones in the brain
+
+1:11:08.760 --> 1:11:10.520
+ and in the pituitary.
+
+1:11:10.520 --> 1:11:13.720
+ They shut down in a so-called negative feedback loop.
+
+1:11:13.720 --> 1:11:17.720
+ So just like if testosterone or estrogen get too high,
+
+1:11:17.720 --> 1:11:22.040
+ that's read out or that is seen so to speak
+
+1:11:22.040 --> 1:11:23.960
+ by neurons in the pituitary and brain.
+
+1:11:23.960 --> 1:11:26.620
+ And then we shut down our production
+
+1:11:26.620 --> 1:11:31.380
+ of estrogen and testosterone.
+
+1:11:31.380 --> 1:11:33.000
+ If cortisol levels get too high,
+
+1:11:33.000 --> 1:11:33.880
+ if there's too much cortisol
+
+1:11:33.880 --> 1:11:35.360
+ floating around in our bloodstream,
+
+1:11:35.360 --> 1:11:36.720
+ there's a negative feedback loop
+
+1:11:36.720 --> 1:11:40.680
+ and the brain and pituitary shut down CRH and ACTH
+
+1:11:40.680 --> 1:11:42.700
+ which would otherwise stimulate more cortisol.
+
+1:11:42.700 --> 1:11:44.480
+ So cortisol levels go down.
+
+1:11:44.480 --> 1:11:47.340
+ So it's a beautiful negative feedback loop.
+
+1:11:47.340 --> 1:11:49.040
+ Chronic stress, however,
+
+1:11:49.040 --> 1:11:53.120
+ stress that lasts more than four to seven days
+
+1:11:53.120 --> 1:11:54.680
+ and there's a way to think about
+
+1:11:54.680 --> 1:11:57.680
+ what chronic stress really is in an actionable way
+
+1:11:57.680 --> 1:12:01.240
+ causes changes in the feedback loop
+
+1:12:01.240 --> 1:12:06.240
+ between the adrenals and the brain and the pituitary
+
+1:12:06.700 --> 1:12:08.600
+ such that now the brain and the pituitary
+
+1:12:08.600 --> 1:12:11.320
+ respond to high levels of glucocorticoids, cortisol
+
+1:12:11.320 --> 1:12:12.760
+ by releasing more of them.
+
+1:12:12.760 --> 1:12:15.320
+ It becomes a positive feedback loop.
+
+1:12:15.320 --> 1:12:16.180
+ And that's bad.
+
+1:12:16.180 --> 1:12:19.780
+ It actually gets right down to levels of gene regulation
+
+1:12:19.780 --> 1:12:21.600
+ and transcription and translation.
+
+1:12:21.600 --> 1:12:23.780
+ And so you really don't want chronic stress
+
+1:12:23.780 --> 1:12:27.640
+ because it's a cascade of stress equals more stress
+
+1:12:27.640 --> 1:12:28.460
+ equals more stress.
+
+1:12:28.460 --> 1:12:29.680
+ So this is why it's very important
+
+1:12:29.680 --> 1:12:32.520
+ to learn to turn off the stress response.
+
+1:12:32.520 --> 1:12:34.900
+ You don't want it elevated for too long.
+
+1:12:34.900 --> 1:12:37.520
+ So there's one study that Dalman and her colleagues did
+
+1:12:37.520 --> 1:12:39.320
+ where they stimulate chronic stress
+
+1:12:39.320 --> 1:12:43.000
+ by increasing corticosterone cortisol.
+
+1:12:43.000 --> 1:12:46.700
+ And they found that subjects would increase their consumption
+
+1:12:46.700 --> 1:12:48.800
+ of sugar and fat.
+
+1:12:48.800 --> 1:12:50.480
+ In fact, they would even eat lard.
+
+1:12:50.480 --> 1:12:52.560
+ It would just, it sounds disgusting
+
+1:12:52.560 --> 1:12:55.440
+ but they were willing to just eat more fat and more sugar.
+
+1:12:55.440 --> 1:12:58.200
+ And that led to all sorts of things like type 2 diabetes
+
+1:12:59.200 --> 1:13:03.520
+ that led to dysfunction in the adrenal output, et cetera.
+
+1:13:03.520 --> 1:13:05.400
+ And so the real key is to learn
+
+1:13:05.400 --> 1:13:07.600
+ to shut off the stress response
+
+1:13:07.600 --> 1:13:08.880
+ because the interesting thing is,
+
+1:13:08.880 --> 1:13:11.100
+ is that Dalman and colleagues and some studies
+
+1:13:11.100 --> 1:13:13.240
+ that followed up on their work found
+
+1:13:13.240 --> 1:13:17.680
+ that if the system was kicked into motion for too long,
+
+1:13:17.680 --> 1:13:22.200
+ then there was a tremendous shift overall towards anxiety
+
+1:13:22.200 --> 1:13:24.460
+ because it turns out that body fat itself
+
+1:13:24.460 --> 1:13:26.160
+ receives neural innervation.
+
+1:13:26.160 --> 1:13:28.420
+ It received neurons actually talk to body fat.
+
+1:13:28.420 --> 1:13:32.160
+ So now you have body fat releasing certain hormones.
+
+1:13:32.160 --> 1:13:35.040
+ You've got the adrenals releasing cortisol
+
+1:13:35.040 --> 1:13:37.080
+ and all of that is feeding back to the brain
+
+1:13:37.080 --> 1:13:40.180
+ to make you want more sugar and fatty foods.
+
+1:13:40.180 --> 1:13:43.200
+ So that's how the so-called comfort foods work.
+
+1:13:43.200 --> 1:13:45.220
+ And you should watch yourself next time
+
+1:13:45.220 --> 1:13:46.440
+ you experience stress.
+
+1:13:46.440 --> 1:13:48.000
+ If it's a short-term bout of stress,
+
+1:13:48.000 --> 1:13:50.840
+ typically it blocks hunger.
+
+1:13:50.840 --> 1:13:52.760
+ If it's a longer bout of stress,
+
+1:13:52.760 --> 1:13:54.920
+ typically it triggers hunger in particular
+
+1:13:54.920 --> 1:13:57.680
+ for these so-called comfort foods, sugary and fatty foods.
+
+1:13:57.680 --> 1:14:00.880
+ And it's kind of interesting how short-term stress
+
+1:14:00.880 --> 1:14:03.440
+ can actually block hunger.
+
+1:14:03.440 --> 1:14:07.760
+ It does that by activating or interacting
+
+1:14:07.760 --> 1:14:10.960
+ with a system called the bombicin system.
+
+1:14:10.960 --> 1:14:14.040
+ Bombicin is a peptide hormone.
+
+1:14:14.040 --> 1:14:16.140
+ It was actually, I think it was named
+
+1:14:16.140 --> 1:14:18.520
+ after some sort of reptile or amphibian,
+
+1:14:18.520 --> 1:14:20.120
+ excuse me, some sort of toad.
+
+1:14:20.120 --> 1:14:24.040
+ I think it was initially sequenced from the toad
+
+1:14:24.040 --> 1:14:25.880
+ before it was later discovered in humans.
+
+1:14:25.880 --> 1:14:29.300
+ And I think the toad's Latin name is Bombina bombina
+
+1:14:29.300 --> 1:14:30.380
+ or something of that sort.
+
+1:14:30.380 --> 1:14:32.840
+ And so they decided to call this thing bombicin,
+
+1:14:32.840 --> 1:14:37.400
+ but it reduces eating and stress liberates bombicin
+
+1:14:37.400 --> 1:14:38.760
+ and makes you want to eat less.
+
+1:14:38.760 --> 1:14:42.000
+ But chronic stress causes all these positive feedback
+
+1:14:42.000 --> 1:14:43.800
+ changes, which are not positive.
+
+1:14:43.800 --> 1:14:45.880
+ They're positive, I'm calling them positive
+
+1:14:45.880 --> 1:14:48.480
+ because they amplify the stress response over and over,
+
+1:14:48.480 --> 1:14:51.400
+ not because they are good for you.
+
+1:14:51.400 --> 1:14:54.340
+ So short-term stress, great.
+
+1:14:54.340 --> 1:14:56.660
+ Long-term stress, really, really bad.
+
+1:14:56.660 --> 1:14:59.320
+ Other bad effects of stress that we can talk about,
+
+1:14:59.320 --> 1:15:00.940
+ and I won't list off too many more of these
+
+1:15:00.940 --> 1:15:03.040
+ because you know so many of them, you hear about them,
+
+1:15:03.040 --> 1:15:05.240
+ you really want to know how to control them, I'm guessing,
+
+1:15:05.240 --> 1:15:08.520
+ is that yes, indeed, stress can make you go gray.
+
+1:15:09.900 --> 1:15:13.560
+ The rates at which people go gray, meaning gray hair,
+
+1:15:13.560 --> 1:15:15.320
+ some cases gray body hair as well,
+
+1:15:16.320 --> 1:15:18.500
+ depend on some genetic factors.
+
+1:15:18.500 --> 1:15:22.280
+ There are a couple of ways that we can go gray.
+
+1:15:22.280 --> 1:15:24.360
+ There's actually a stem cell,
+
+1:15:24.360 --> 1:15:26.160
+ what they call niche in every follicle.
+
+1:15:26.160 --> 1:15:27.500
+ So you have stem cells in the follicle
+
+1:15:27.500 --> 1:15:30.000
+ that can produce more and more of the given hair cell.
+
+1:15:30.000 --> 1:15:32.120
+ And they're actually peroxide groups.
+
+1:15:32.120 --> 1:15:33.880
+ You know, we hear about bleaching hair with peroxide,
+
+1:15:33.880 --> 1:15:35.440
+ at least in the 80s, that was a thing,
+
+1:15:35.440 --> 1:15:37.800
+ but you can use hydrogen peroxide to bleach things,
+
+1:15:37.800 --> 1:15:41.840
+ and you can produce your own peroxide in the hair follicle
+
+1:15:41.840 --> 1:15:43.980
+ that will cause the hairs to go gray.
+
+1:15:43.980 --> 1:15:46.840
+ In addition, pigmentation of hair,
+
+1:15:46.840 --> 1:15:48.320
+ just like pigmentation of skin,
+
+1:15:48.320 --> 1:15:51.600
+ is controlled by melanocytes.
+
+1:15:51.600 --> 1:15:52.960
+ Our old friends, the melanocytes.
+
+1:15:52.960 --> 1:15:54.880
+ And I say old friends because on previous episodes,
+
+1:15:54.880 --> 1:15:58.040
+ I talked about why sunlight and getting ample sunlight
+
+1:15:58.040 --> 1:16:01.520
+ can increase levels of certain things
+
+1:16:01.520 --> 1:16:03.240
+ like melanocyte-stimulating hormone,
+
+1:16:03.240 --> 1:16:04.200
+ which reduce hunger,
+
+1:16:04.200 --> 1:16:07.080
+ it can improve testosterone and estrogen levels,
+
+1:16:07.080 --> 1:16:08.560
+ and all the reasons for that.
+
+1:16:08.560 --> 1:16:11.760
+ Well, it turns out that activation
+
+1:16:11.760 --> 1:16:13.960
+ of the so-called sympathetic nervous system,
+
+1:16:13.960 --> 1:16:16.500
+ which is really just another name for the system
+
+1:16:16.500 --> 1:16:19.880
+ that liberates adrenaline from the adrenals
+
+1:16:19.880 --> 1:16:22.080
+ and epinephrine in the brain,
+
+1:16:22.080 --> 1:16:26.780
+ drives depletion of melanocytes in hair stem cells.
+
+1:16:26.780 --> 1:16:28.600
+ So indeed, there's a rate of aging
+
+1:16:28.600 --> 1:16:30.920
+ that we will undergo based on our genetics,
+
+1:16:30.920 --> 1:16:33.080
+ but stress will make us go gray.
+
+1:16:33.080 --> 1:16:35.000
+ And the paper that you should look to
+
+1:16:35.000 --> 1:16:36.080
+ if you want to read more about this,
+
+1:16:36.080 --> 1:16:37.200
+ came out very recently.
+
+1:16:37.200 --> 1:16:41.040
+ This is Zang et al, Z-H-A-N-G et al,
+
+1:16:41.040 --> 1:16:43.000
+ Nature, fabulous journal,
+
+1:16:43.000 --> 1:16:46.300
+ definitely one of the apex journals, 2020.
+
+1:16:46.300 --> 1:16:51.300
+ So this paper showed that the activation of stress
+
+1:16:51.560 --> 1:16:54.620
+ in various forms will deplete these melanocyte stem cells.
+
+1:16:55.560 --> 1:16:57.440
+ You do not have to worry about an ice bath
+
+1:16:57.440 --> 1:16:59.000
+ or hard exercise or breathing,
+
+1:16:59.000 --> 1:17:00.480
+ increasing your levels of stress
+
+1:17:00.480 --> 1:17:01.900
+ to the point where it's going to make you go gray.
+
+1:17:01.900 --> 1:17:04.820
+ We're talking again about chronic stress.
+
+1:17:04.820 --> 1:17:08.520
+ And if you want to offset the stress effects
+
+1:17:08.520 --> 1:17:11.880
+ on graying of hair,
+
+1:17:11.880 --> 1:17:15.000
+ you can do that by either having a practice
+
+1:17:15.000 --> 1:17:18.000
+ that helps you regulate stress on a consistent basis,
+
+1:17:18.000 --> 1:17:21.120
+ so something like non-sleep deep rest or meditation.
+
+1:17:21.120 --> 1:17:23.700
+ If you can get access to massages or vacations,
+
+1:17:23.700 --> 1:17:24.540
+ those are great,
+
+1:17:24.540 --> 1:17:27.280
+ but having a practice to keep stress clamped
+
+1:17:27.280 --> 1:17:31.000
+ so that it's not chronically elevated, that will be great.
+
+1:17:31.000 --> 1:17:34.000
+ As well, this is another case where sunlight,
+
+1:17:34.000 --> 1:17:36.740
+ we know, stimulates melanocytes,
+
+1:17:36.740 --> 1:17:39.080
+ not just in skin, but in hair.
+
+1:17:39.080 --> 1:17:40.920
+ And so getting ample sunlight,
+
+1:17:40.920 --> 1:17:43.260
+ having a practice to regulate stress
+
+1:17:43.260 --> 1:17:48.080
+ will offset the stress-induced graying of hairs
+
+1:17:48.080 --> 1:17:53.080
+ by way of stress-induced depletion of melanocytes.
+
+1:17:53.240 --> 1:17:55.720
+ And if melanocyte sounds a lot like melanin, you're right.
+
+1:17:55.720 --> 1:17:57.640
+ That's because anything involved with pigmentation
+
+1:17:57.640 --> 1:18:01.320
+ in the brain and body generally has melano
+
+1:18:01.320 --> 1:18:03.920
+ in the front of the word in some way or another.
+
+1:18:03.920 --> 1:18:05.640
+ So if chronic stress is so bad
+
+1:18:05.640 --> 1:18:09.280
+ because of its effects on epinephrine and cortisol
+
+1:18:09.280 --> 1:18:11.780
+ being elevated for too long,
+
+1:18:11.780 --> 1:18:13.800
+ then the question becomes, of course,
+
+1:18:13.800 --> 1:18:15.960
+ well, what's chronic stress?
+
+1:18:15.960 --> 1:18:16.800
+ How do I know the difference
+
+1:18:16.800 --> 1:18:18.880
+ between chronic and acute stress?
+
+1:18:18.880 --> 1:18:22.440
+ And how do I keep chronic stress at bay
+
+1:18:22.440 --> 1:18:23.760
+ because of all these negative effects?
+
+1:18:23.760 --> 1:18:25.760
+ And I didn't even list out the number of other ones,
+
+1:18:25.760 --> 1:18:27.800
+ the effects on depression,
+
+1:18:27.800 --> 1:18:31.180
+ which certainly has a correlate with elevated cortisol.
+
+1:18:33.400 --> 1:18:36.440
+ Thyroid hormone, low thyroid hormone
+
+1:18:36.440 --> 1:18:40.200
+ is associated with depression, mistimed thyroid.
+
+1:18:40.200 --> 1:18:45.200
+ Once again, getting your light and your feeding
+
+1:18:45.240 --> 1:18:50.220
+ and your exercise and your sleep on a consistent schedule
+
+1:18:50.220 --> 1:18:53.520
+ or consistent-ish is going to be the most powerful thing
+
+1:18:53.520 --> 1:18:55.860
+ you can do in order to buffer yourself
+
+1:18:55.860 --> 1:18:58.760
+ against negative effects on mental health
+
+1:18:58.760 --> 1:19:01.200
+ and physical health for that matter.
+
+1:19:01.200 --> 1:19:03.000
+ There are things that one can take,
+
+1:19:03.920 --> 1:19:06.320
+ supplements, prescription drugs, et cetera.
+
+1:19:06.320 --> 1:19:08.080
+ Some of you out there may have
+
+1:19:08.080 --> 1:19:09.560
+ or may know people that have Cushing's,
+
+1:19:09.560 --> 1:19:11.160
+ which is chronically elevated cortisol.
+
+1:19:11.160 --> 1:19:13.280
+ There are prescription drugs that we will talk about
+
+1:19:13.280 --> 1:19:14.960
+ that can be used.
+
+1:19:14.960 --> 1:19:16.960
+ But most people are dealing with a situation
+
+1:19:16.960 --> 1:19:20.040
+ where life gets stressful, then less stressful,
+
+1:19:20.040 --> 1:19:21.300
+ stressful, then less stressful.
+
+1:19:21.300 --> 1:19:26.300
+ I would say based on the data from McEwen and others,
+
+1:19:26.400 --> 1:19:28.800
+ Bob Sapolsky's lab over many years,
+
+1:19:28.800 --> 1:19:33.120
+ I would say any stress that lasts more than a day
+
+1:19:33.120 --> 1:19:34.400
+ or two days or three days
+
+1:19:34.400 --> 1:19:37.200
+ is starting to become chronic stress.
+
+1:19:37.200 --> 1:19:38.640
+ There's really no strict cutoff
+
+1:19:38.640 --> 1:19:40.740
+ because we're not measuring everybody's cortisol
+
+1:19:40.740 --> 1:19:41.580
+ from moment to moment.
+
+1:19:41.580 --> 1:19:42.960
+ My lab has done experiments
+
+1:19:42.960 --> 1:19:45.040
+ where we measure stress in people over time.
+
+1:19:45.040 --> 1:19:47.040
+ People vary tremendously in their ability
+
+1:19:47.040 --> 1:19:49.480
+ to have a really hard day and then fall deeply asleep.
+
+1:19:49.480 --> 1:19:51.520
+ That's going to be the ultimate reset
+
+1:19:51.520 --> 1:19:53.540
+ is the ability to sleep well,
+
+1:19:53.540 --> 1:19:55.120
+ more or less undisturbed each night,
+
+1:19:55.120 --> 1:19:56.960
+ although one or two wake-ups during the night,
+
+1:19:56.960 --> 1:19:58.960
+ probably not going to be too detrimental
+
+1:19:58.960 --> 1:20:00.640
+ provided they're not too long
+
+1:20:00.640 --> 1:20:02.200
+ and you're not viewing light
+
+1:20:02.200 --> 1:20:04.280
+ during those wake-ups or your phone.
+
+1:20:04.280 --> 1:20:06.020
+ But the things that you can take
+
+1:20:06.020 --> 1:20:07.680
+ if you feel like you're chronically stressed
+
+1:20:07.680 --> 1:20:08.800
+ and you're veering toward
+
+1:20:08.800 --> 1:20:12.380
+ some of the negative effects of stress are many.
+
+1:20:12.380 --> 1:20:16.520
+ There are some simple things that people can do
+
+1:20:16.520 --> 1:20:18.640
+ in terms of supplementation.
+
+1:20:18.640 --> 1:20:21.280
+ All supplements of course have to be checked out
+
+1:20:21.280 --> 1:20:22.960
+ for their safety margins for you
+
+1:20:22.960 --> 1:20:24.640
+ because it's going to differ from person to person.
+
+1:20:24.640 --> 1:20:27.320
+ You're responsible for making sure they're safe for you
+
+1:20:27.320 --> 1:20:28.680
+ if you decide to use them.
+
+1:20:28.680 --> 1:20:32.480
+ One of the most common ones is ashwagandha
+
+1:20:32.480 --> 1:20:37.100
+ and it has a powerful anxiolytic anxiety effect.
+
+1:20:37.100 --> 1:20:40.760
+ You're welcome to go to examine.com and for zero cost,
+
+1:20:40.760 --> 1:20:43.880
+ you can see their so-called human effect matrix.
+
+1:20:43.880 --> 1:20:46.080
+ Ashwagandha has many uses.
+
+1:20:46.080 --> 1:20:50.860
+ It's been used to enhance power output in athletes.
+
+1:20:50.860 --> 1:20:54.700
+ It has been shown to modestly increase testosterone.
+
+1:20:54.700 --> 1:20:56.920
+ It has been shown to modestly adjust things
+
+1:20:56.920 --> 1:20:59.080
+ like low-density lipoprotein cholesterol,
+
+1:20:59.080 --> 1:21:01.820
+ the so-called bad cholesterol in quotes.
+
+1:21:01.820 --> 1:21:03.820
+ It has a profound effect on anxiety.
+
+1:21:03.820 --> 1:21:05.440
+ That's been shown in nine studies,
+
+1:21:05.440 --> 1:21:07.280
+ nine peer-reviewed independent studies,
+
+1:21:07.280 --> 1:21:10.240
+ I mean funded by organizations
+
+1:21:10.240 --> 1:21:12.980
+ that have no vested interest in the answer.
+
+1:21:12.980 --> 1:21:17.080
+ It has a very strong effect on cortisol itself.
+
+1:21:17.080 --> 1:21:17.940
+ How strong?
+
+1:21:17.940 --> 1:21:20.040
+ The decrease in cortisol noted in humans
+
+1:21:20.040 --> 1:21:24.400
+ is 14.5 to 27.9% reduction
+
+1:21:24.400 --> 1:21:27.800
+ in otherwise healthy but stressed humans.
+
+1:21:27.800 --> 1:21:29.560
+ That's great, six studies.
+
+1:21:29.560 --> 1:21:32.440
+ So that's, and it mentions this is significantly larger
+
+1:21:32.440 --> 1:21:33.780
+ than many other supplements.
+
+1:21:33.780 --> 1:21:37.080
+ Now, some people will say that taking ashwagandha
+
+1:21:37.080 --> 1:21:39.280
+ chronically may not be good.
+
+1:21:39.280 --> 1:21:40.560
+ If you've heard about that
+
+1:21:40.560 --> 1:21:43.480
+ or you can point to specific studies
+
+1:21:43.480 --> 1:21:46.200
+ that indicate exactly why it's not good,
+
+1:21:46.200 --> 1:21:49.240
+ please put it in the comment section or let me know.
+
+1:21:49.240 --> 1:21:52.220
+ In the comment section on YouTube would be best.
+
+1:21:52.220 --> 1:21:56.640
+ The studies that I'm referring to did explore both genders.
+
+1:21:56.640 --> 1:22:00.440
+ The number of subjects was reasonably high, 64 or more.
+
+1:22:00.440 --> 1:22:02.400
+ One to six months studies,
+
+1:22:02.400 --> 1:22:04.160
+ so these were long-term studies, that's great.
+
+1:22:04.160 --> 1:22:07.020
+ You'd like to see that, not just an acute study.
+
+1:22:07.020 --> 1:22:10.960
+ So males and females, lots of different ages,
+
+1:22:10.960 --> 1:22:14.520
+ a weight, excuse me, overweight and non-overweight.
+
+1:22:14.520 --> 1:22:16.160
+ They did blood draws of cortisol,
+
+1:22:16.160 --> 1:22:18.240
+ which is going to end as well as saliva tests.
+
+1:22:18.240 --> 1:22:21.360
+ Saliva is actually the best way to measure free cortisol.
+
+1:22:21.360 --> 1:22:23.300
+ You can also measure it from earwax, it turns out,
+
+1:22:23.300 --> 1:22:26.540
+ which sounds pretty gross and kind of is,
+
+1:22:26.540 --> 1:22:29.320
+ but nonetheless, that's where cortisol will accumulate
+
+1:22:29.320 --> 1:22:32.960
+ in earwax and in saliva, the free cortisol.
+
+1:22:32.960 --> 1:22:36.600
+ But that's six very quality studies,
+
+1:22:36.600 --> 1:22:40.240
+ independently supported that all point
+
+1:22:40.240 --> 1:22:44.660
+ to these very significant 14.5 to 27.9% reductions
+
+1:22:44.660 --> 1:22:45.840
+ in otherwise healthy adults.
+
+1:22:45.840 --> 1:22:48.000
+ So if you're somebody who is dealing with chronic stress,
+
+1:22:48.000 --> 1:22:49.680
+ it's a stressful period in your life
+
+1:22:49.680 --> 1:22:53.580
+ and you want to stave off the negative effects of stress,
+
+1:22:53.580 --> 1:22:56.080
+ well, then ashwagandha may,
+
+1:22:56.080 --> 1:22:57.680
+ I want to highlight may be right for you.
+
+1:22:57.680 --> 1:23:00.180
+ It also does tend to lower total cortisol,
+
+1:23:00.180 --> 1:23:03.400
+ which is interesting, can lower depression
+
+1:23:03.400 --> 1:23:06.500
+ to a somewhat minimal degree.
+
+1:23:06.500 --> 1:23:08.200
+ And can lower, as I mentioned before,
+
+1:23:08.200 --> 1:23:10.440
+ things like low-density lipoprotein.
+
+1:23:10.440 --> 1:23:13.340
+ So that, I think ashwagandha comes through
+
+1:23:13.340 --> 1:23:17.380
+ as kind of the heavy hitter in this department.
+
+1:23:17.380 --> 1:23:19.840
+ Now what's interesting also is the other effects
+
+1:23:19.840 --> 1:23:22.080
+ of ashwagandha that are downstream
+
+1:23:22.080 --> 1:23:23.920
+ of reducing chronic stress and cortisol,
+
+1:23:23.920 --> 1:23:25.360
+ because cortisol has so many effects.
+
+1:23:25.360 --> 1:23:26.960
+ There are receptors for cortisol
+
+1:23:26.960 --> 1:23:28.480
+ all over the body and brain.
+
+1:23:28.480 --> 1:23:30.480
+ And so I'll just list these off quickly.
+
+1:23:30.480 --> 1:23:31.980
+ I'm not going to list off each study
+
+1:23:31.980 --> 1:23:33.820
+ or talk about how many subjects in detail.
+
+1:23:33.820 --> 1:23:36.020
+ Again, you can go to examine.com if you want
+
+1:23:36.020 --> 1:23:37.480
+ and just put in ashwagandha.
+
+1:23:37.480 --> 1:23:40.120
+ C-reactive protein, which is a marker
+
+1:23:40.120 --> 1:23:45.040
+ of all sorts of negative health effects.
+
+1:23:45.040 --> 1:23:47.900
+ Cardiovascular health, even macular degeneration
+
+1:23:47.900 --> 1:23:49.720
+ is notably reduced.
+
+1:23:49.720 --> 1:23:52.140
+ Heart palpitations, notably reduced.
+
+1:23:52.140 --> 1:23:55.380
+ Serum T3 and T4, our old friends for the thyroid hormones
+
+1:23:55.380 --> 1:23:57.360
+ from a previous episode are increased.
+
+1:23:58.300 --> 1:24:00.800
+ Symptoms of OCD decreased,
+
+1:24:00.800 --> 1:24:03.480
+ both the obsessions and the compulsions, right?
+
+1:24:03.480 --> 1:24:06.800
+ Obsessions are of the mind, compulsions are of behavior.
+
+1:24:06.800 --> 1:24:09.900
+ So there are a lot of things that are downstream
+
+1:24:09.900 --> 1:24:11.540
+ of reducing cortisol.
+
+1:24:13.240 --> 1:24:16.180
+ Lowered heart rate, lowered rates of insomnia,
+
+1:24:16.180 --> 1:24:18.120
+ slightly improved memory.
+
+1:24:18.120 --> 1:24:19.400
+ Why that would be, I don't know,
+
+1:24:19.400 --> 1:24:21.680
+ because cortisol in the short term can increase memory.
+
+1:24:21.680 --> 1:24:23.920
+ I'm guessing it's from increased sleep,
+
+1:24:23.920 --> 1:24:26.120
+ decreased pain, increased quality,
+
+1:24:27.000 --> 1:24:29.040
+ decreased reaction times, things of that sort.
+
+1:24:29.040 --> 1:24:30.560
+ So the list goes on and on,
+
+1:24:30.560 --> 1:24:34.600
+ but all of those things stem downstream of decreased cortisol
+
+1:24:34.600 --> 1:24:37.200
+ So if one were to decide to take ashwagandha
+
+1:24:37.200 --> 1:24:39.160
+ in order to reduce cortisol,
+
+1:24:39.160 --> 1:24:41.280
+ given that you want cortisol early in the day
+
+1:24:41.280 --> 1:24:43.400
+ to have energy throughout the day,
+
+1:24:43.400 --> 1:24:45.660
+ the time to take it is probably later in the day
+
+1:24:45.660 --> 1:24:46.960
+ or in the evening.
+
+1:24:46.960 --> 1:24:48.900
+ I've never heard of it preventing sleep
+
+1:24:48.900 --> 1:24:51.200
+ or causing insomnia of any kind.
+
+1:24:51.200 --> 1:24:53.920
+ That certainly wasn't listed as one of the major effects
+
+1:24:53.920 --> 1:24:55.540
+ on examine.com.
+
+1:24:55.540 --> 1:24:57.440
+ I will take ashwagandha from time to time
+
+1:24:57.440 --> 1:24:58.560
+ if I'm chronically stressed
+
+1:24:58.560 --> 1:25:01.160
+ or if I'm not sleeping as well as I ought to.
+
+1:25:01.160 --> 1:25:03.120
+ You might think that with all my knowledge about sleep
+
+1:25:03.120 --> 1:25:03.960
+ and sleep protocols
+
+1:25:03.960 --> 1:25:05.320
+ that I would sleep perfectly every night,
+
+1:25:05.320 --> 1:25:06.840
+ but unfortunately I have a dog
+
+1:25:06.840 --> 1:25:11.160
+ that has a canine form of sundowners, of dementia.
+
+1:25:11.160 --> 1:25:13.520
+ So he's up much of the night these days.
+
+1:25:13.520 --> 1:25:15.120
+ And so there's no way I'm getting
+
+1:25:15.120 --> 1:25:17.120
+ a solid night of sleep lately.
+
+1:25:17.120 --> 1:25:19.320
+ And so I will supplement with ashwagandha
+
+1:25:19.320 --> 1:25:21.000
+ and typically I'll take it before sleep
+
+1:25:21.000 --> 1:25:23.640
+ and maybe also with my last meal of the day,
+
+1:25:23.640 --> 1:25:26.720
+ which is at least two hours before I go to sleep.
+
+1:25:26.720 --> 1:25:29.320
+ Again, you have to decide if it's right for you.
+
+1:25:29.320 --> 1:25:31.960
+ The dosages can vary tremendously.
+
+1:25:31.960 --> 1:25:34.520
+ I would just go by what's on the bottle
+
+1:25:34.520 --> 1:25:35.640
+ from a reputable brand.
+
+1:25:35.640 --> 1:25:37.600
+ I would also check out examine.com
+
+1:25:37.600 --> 1:25:41.180
+ because it mentions a range of dosages that people have used
+
+1:25:41.180 --> 1:25:44.000
+ and in various studies to different effects.
+
+1:25:44.000 --> 1:25:45.480
+ Now, there is something out there
+
+1:25:45.480 --> 1:25:47.680
+ that some of you may actually be taking or ingesting
+
+1:25:47.680 --> 1:25:49.800
+ that can increase cortisol
+
+1:25:49.800 --> 1:25:53.180
+ and not so incidentally can decrease estrogen
+
+1:25:53.180 --> 1:25:54.020
+ and testosterone.
+
+1:25:54.020 --> 1:25:57.040
+ Because remember cortisol is made from the cholesterol
+
+1:25:57.040 --> 1:26:00.260
+ molecule, so is estrogen and testosterone.
+
+1:26:00.260 --> 1:26:02.880
+ So our estrogen and testosterone, excuse me.
+
+1:26:02.880 --> 1:26:05.560
+ And it's competitive.
+
+1:26:05.560 --> 1:26:07.400
+ So you're either making more cortisol
+
+1:26:07.400 --> 1:26:10.160
+ or you're making more of the sex steroid hormones,
+
+1:26:10.160 --> 1:26:12.700
+ estrogen and testosterone.
+
+1:26:12.700 --> 1:26:14.560
+ Believe it or not licorice,
+
+1:26:14.560 --> 1:26:16.200
+ which I always thought of as a candy,
+
+1:26:16.200 --> 1:26:21.000
+ but licorice contains a substance that I can't pronounce.
+
+1:26:21.000 --> 1:26:26.000
+ G-L-Y-C-Y-R-R-H-I-Z-I-N glycyrrhizin,
+
+1:26:27.600 --> 1:26:32.600
+ which is of the glabrous species of plant.
+
+1:26:32.760 --> 1:26:35.640
+ Actually, because of its chemistry,
+
+1:26:35.640 --> 1:26:39.200
+ this 18 beta hydroxyceridic acid,
+
+1:26:39.200 --> 1:26:41.960
+ you don't need to know all that licorice, black licorice,
+
+1:26:41.960 --> 1:26:45.960
+ contains a substance that increases cortisol.
+
+1:26:45.960 --> 1:26:50.020
+ And its increase is not huge, but is significant.
+
+1:26:50.020 --> 1:26:54.720
+ This has been looked at in females age 18 to 29,
+
+1:26:54.720 --> 1:26:58.880
+ males and females age 18 to 29, people age 30.
+
+1:26:58.880 --> 1:26:59.880
+ These are separate studies
+
+1:26:59.880 --> 1:27:03.280
+ where I'm listing off the different ages, ages 30 to 64.
+
+1:27:03.280 --> 1:27:06.680
+ It turns out that you can see pretty substantial increases
+
+1:27:06.680 --> 1:27:11.680
+ in serum cortisol and decreases in testosterone and estrogen.
+
+1:27:13.120 --> 1:27:14.460
+ So that was complete news to me.
+
+1:27:14.460 --> 1:27:17.400
+ Also increases in blood pressure that are pretty substantial
+
+1:27:17.400 --> 1:27:19.780
+ that's going to be downstream of cortisol,
+
+1:27:19.780 --> 1:27:21.780
+ increasing cortisol is increased blood pressure
+
+1:27:21.780 --> 1:27:24.360
+ in order to engage the stress response
+
+1:27:24.360 --> 1:27:25.900
+ as part of this stress response.
+
+1:27:25.900 --> 1:27:28.640
+ Increased hormones of other kinds
+
+1:27:28.640 --> 1:27:29.740
+ that are associated with stress.
+
+1:27:29.740 --> 1:27:30.740
+ So who knew?
+
+1:27:30.740 --> 1:27:33.040
+ I didn't know, maybe you knew previously.
+
+1:27:33.040 --> 1:27:33.880
+ If you did, forgive me,
+
+1:27:33.880 --> 1:27:36.240
+ but licorice and some of the compounds in black licorice
+
+1:27:36.240 --> 1:27:37.600
+ can actually increase stress,
+
+1:27:37.600 --> 1:27:40.120
+ probably not the thing to be ingesting
+
+1:27:40.120 --> 1:27:42.320
+ during periods of chronic stress.
+
+1:27:42.320 --> 1:27:44.820
+ Whether or not anyone has had positive effects
+
+1:27:44.820 --> 1:27:47.560
+ of using it to increase cortisol in other contexts,
+
+1:27:47.560 --> 1:27:48.480
+ let me know.
+
+1:27:48.480 --> 1:27:51.600
+ But very interesting that the chemistry of licorice
+
+1:27:51.600 --> 1:27:53.760
+ increases stress hormones,
+
+1:27:53.760 --> 1:27:56.220
+ and therefore you would probably want to,
+
+1:27:56.220 --> 1:27:58.380
+ almost certainly would want to avoid it
+
+1:27:58.380 --> 1:28:00.520
+ in conditions of chronic stress.
+
+1:28:00.520 --> 1:28:02.840
+ Also, if you're trying to optimize testosterone and estrogen,
+
+1:28:02.840 --> 1:28:05.240
+ licorice seems like a bad idea.
+
+1:28:05.240 --> 1:28:07.800
+ I suppose one instance where you might want to use licorice
+
+1:28:07.800 --> 1:28:08.920
+ would be if you're traveling
+
+1:28:08.920 --> 1:28:13.420
+ and you're trying to wake up at a particular location
+
+1:28:13.420 --> 1:28:15.720
+ because licorice has these effects on cortisol
+
+1:28:15.720 --> 1:28:19.480
+ and cortisol is associated with the waking phenomenon
+
+1:28:19.480 --> 1:28:21.080
+ and alertness and energy,
+
+1:28:21.080 --> 1:28:22.680
+ you could use it in that regard.
+
+1:28:23.640 --> 1:28:25.520
+ However, I would be careful to time it
+
+1:28:25.520 --> 1:28:27.600
+ so that you're not getting two cortisol increases
+
+1:28:27.600 --> 1:28:29.360
+ throughout the day, two peaks.
+
+1:28:29.360 --> 1:28:30.840
+ So you're going to want to make sure
+
+1:28:30.840 --> 1:28:34.280
+ that you're doing all the other things correct for jet lag
+
+1:28:34.280 --> 1:28:35.760
+ and adjusting to jet lag.
+
+1:28:35.760 --> 1:28:37.720
+ And if you want to know what those things are,
+
+1:28:37.720 --> 1:28:39.200
+ including timing your feeding,
+
+1:28:39.200 --> 1:28:41.440
+ using temperature, using exercise,
+
+1:28:41.440 --> 1:28:43.920
+ using light to adjust to jet lag more quickly,
+
+1:28:43.920 --> 1:28:46.980
+ please see the episode that we did on jet lag and shift work
+
+1:28:46.980 --> 1:28:49.340
+ where I cover all those protocols in detail.
+
+1:28:49.340 --> 1:28:52.200
+ The other compound that I think deserves attention
+
+1:28:52.200 --> 1:28:57.000
+ is apigenin, A-P-I-G-E-N-I-N, apigenin,
+
+1:28:57.000 --> 1:29:01.260
+ which is what's found in chamomile.
+
+1:29:01.260 --> 1:29:03.720
+ Apigenin, I've talked about previously,
+
+1:29:03.720 --> 1:29:05.140
+ it has various effects.
+
+1:29:05.140 --> 1:29:08.560
+ One is it is a mild anti-estrogen
+
+1:29:08.560 --> 1:29:10.240
+ that's been shown in various studies,
+
+1:29:10.240 --> 1:29:12.780
+ and it does have a bit of an anxiolytic effect
+
+1:29:12.780 --> 1:29:14.300
+ of reducing anxiety.
+
+1:29:14.300 --> 1:29:17.120
+ I take it before bedtime, 50 milligrams.
+
+1:29:17.120 --> 1:29:19.200
+ Again, you have to decide or figure out
+
+1:29:19.200 --> 1:29:20.340
+ if that's safe for you or not.
+
+1:29:20.340 --> 1:29:22.160
+ I'm not suggesting you take it.
+
+1:29:22.160 --> 1:29:26.400
+ The major source of action is to calm the nervous system,
+
+1:29:26.400 --> 1:29:29.920
+ and it does that primarily by adjusting things like GABA
+
+1:29:29.920 --> 1:29:32.000
+ and chloride channels, but also has a mild effect
+
+1:29:32.000 --> 1:29:33.680
+ in reducing cortisol.
+
+1:29:33.680 --> 1:29:37.320
+ So ashwagandha and apigenin together sort of,
+
+1:29:37.320 --> 1:29:41.880
+ I would consider the most potent commercial compounds
+
+1:29:41.880 --> 1:29:44.280
+ that are in supplement non-prescription form
+
+1:29:44.280 --> 1:29:46.960
+ that one could use if they were interested
+
+1:29:46.960 --> 1:29:50.080
+ in reducing chronic stress, especially late in the day
+
+1:29:50.080 --> 1:29:52.880
+ by way of reducing cortisol late in the day.
+
+1:29:52.880 --> 1:29:54.240
+ So you're probably getting the impression
+
+1:29:54.240 --> 1:29:55.640
+ that cortisol and epinephrine
+
+1:29:55.640 --> 1:29:57.160
+ are a bit of a double-edged sword.
+
+1:29:57.160 --> 1:30:00.220
+ You want them elevated, but not for too long or too much.
+
+1:30:00.220 --> 1:30:03.840
+ You don't want them up for days and days and days,
+
+1:30:03.840 --> 1:30:05.940
+ but you do want to have a practice
+
+1:30:05.940 --> 1:30:08.920
+ in order to increase them in the short term.
+
+1:30:08.920 --> 1:30:12.580
+ So we should talk about protocols
+
+1:30:12.580 --> 1:30:17.580
+ that can set a foundation of cortisol and epinephrine
+
+1:30:17.760 --> 1:30:19.680
+ that is headed towards optimal.
+
+1:30:19.680 --> 1:30:22.080
+ Optimization is always going to be a series
+
+1:30:22.080 --> 1:30:24.080
+ of regular practices that you do every day.
+
+1:30:24.080 --> 1:30:26.760
+ So sleeping at certain times, light at specific times,
+
+1:30:26.760 --> 1:30:28.780
+ food at specific times, certain foods, et cetera.
+
+1:30:28.780 --> 1:30:31.080
+ And that's highly individual, but there are some universals,
+
+1:30:31.080 --> 1:30:34.680
+ and we've covered a number of those in the discussion today.
+
+1:30:34.680 --> 1:30:39.000
+ Meal timing, meal schedules has a profound effect
+
+1:30:39.000 --> 1:30:40.920
+ on energy levels.
+
+1:30:40.920 --> 1:30:42.080
+ And as I mentioned before,
+
+1:30:42.080 --> 1:30:45.740
+ the energy I'm referring to is not glucose energy.
+
+1:30:45.740 --> 1:30:48.600
+ It's not burning carbs while running or ketones.
+
+1:30:48.600 --> 1:30:50.360
+ What I'm talking about is neural energy,
+
+1:30:50.360 --> 1:30:51.940
+ epinephrine and cortisol.
+
+1:30:53.080 --> 1:30:55.920
+ Fasting and timing one's eating
+
+1:30:55.920 --> 1:30:57.840
+ are two sides of the same coin.
+
+1:30:57.840 --> 1:31:00.880
+ So even if you're on a kind of standard three meal a day
+
+1:31:00.880 --> 1:31:04.720
+ with a couple of snacks in between diet or nutrition regimen,
+
+1:31:04.720 --> 1:31:06.400
+ you are fasting whenever you're asleep
+
+1:31:06.400 --> 1:31:08.000
+ or you're not ingesting any calories.
+
+1:31:08.000 --> 1:31:10.160
+ So unless you're hooked up to an IV of glucose,
+
+1:31:10.160 --> 1:31:12.080
+ you are fasting while you're sleeping.
+
+1:31:12.080 --> 1:31:14.060
+ There are several different kinds of fasting
+
+1:31:14.060 --> 1:31:16.260
+ that can relate to epinephrine and cortisol.
+
+1:31:16.260 --> 1:31:20.080
+ I will do an entire episode on optimizing food intake
+
+1:31:20.080 --> 1:31:23.580
+ for performance in the sports context.
+
+1:31:23.580 --> 1:31:26.600
+ That's coming up, but in the meantime,
+
+1:31:26.600 --> 1:31:28.640
+ I'd like to just talk about fasting
+
+1:31:28.640 --> 1:31:31.960
+ as a source of epinephrine.
+
+1:31:31.960 --> 1:31:33.960
+ Anytime when our blood glucose is low,
+
+1:31:33.960 --> 1:31:36.220
+ cortisol and epinephrine are going to go up.
+
+1:31:36.220 --> 1:31:39.720
+ If we fast for too long, that is stress.
+
+1:31:39.720 --> 1:31:40.640
+ There's no way around that.
+
+1:31:40.640 --> 1:31:42.080
+ Now that doesn't mean it doesn't have
+
+1:31:42.080 --> 1:31:44.560
+ other beneficial effects.
+
+1:31:44.560 --> 1:31:46.320
+ Running a marathon is stress,
+
+1:31:46.320 --> 1:31:49.800
+ but it can also have positive effects if that's your thing.
+
+1:31:49.800 --> 1:31:52.840
+ So stress has been demonized as a term,
+
+1:31:52.840 --> 1:31:55.720
+ but we want to think about stress mechanistically
+
+1:31:55.720 --> 1:31:57.240
+ as epinephrine and cortisol.
+
+1:31:57.240 --> 1:31:58.800
+ And then if we do that,
+
+1:31:58.800 --> 1:32:01.420
+ we can think about how to regulate its timing.
+
+1:32:01.420 --> 1:32:05.040
+ So anytime we haven't eaten for four to six hours,
+
+1:32:05.040 --> 1:32:06.420
+ levels of epinephrine and cortisol
+
+1:32:06.420 --> 1:32:08.480
+ are going to go up pretty substantially.
+
+1:32:08.480 --> 1:32:09.680
+ There's an exception to that,
+
+1:32:09.680 --> 1:32:12.560
+ which is if you are used to eating on the clock
+
+1:32:12.560 --> 1:32:14.640
+ every two hours or every hour,
+
+1:32:14.640 --> 1:32:17.560
+ being half hour late or being even 10 minutes late
+
+1:32:17.560 --> 1:32:19.180
+ on that schedule will induce stress.
+
+1:32:19.180 --> 1:32:20.720
+ Most of that is psychological stress,
+
+1:32:20.720 --> 1:32:22.320
+ but also the release of things like ghrelin
+
+1:32:22.320 --> 1:32:23.240
+ that are going to make you hungry
+
+1:32:23.240 --> 1:32:25.340
+ because they're on that eating clock.
+
+1:32:25.340 --> 1:32:30.100
+ So one thing that many people do to great benefit
+
+1:32:30.100 --> 1:32:33.480
+ is they follow a so-called circadian eating schedule.
+
+1:32:33.480 --> 1:32:35.640
+ They eat only when the sun is up,
+
+1:32:35.640 --> 1:32:39.460
+ they stop when the sun is down, more or less.
+
+1:32:39.460 --> 1:32:40.480
+ The other way to think about this
+
+1:32:40.480 --> 1:32:42.680
+ is they stop eating a couple hours before sleep
+
+1:32:42.680 --> 1:32:44.420
+ and they eat more or less upon waking,
+
+1:32:44.420 --> 1:32:46.720
+ assuming that they're waking up more or less
+
+1:32:46.720 --> 1:32:48.720
+ around the time that the sun rises,
+
+1:32:48.720 --> 1:32:50.440
+ maybe plus or minus two hours.
+
+1:32:50.440 --> 1:32:52.800
+ Okay, so sort of typical schedule.
+
+1:32:52.800 --> 1:32:55.200
+ Now let's say you decide to do
+
+1:32:55.200 --> 1:32:56.920
+ what I do, which is I skip breakfast.
+
+1:32:56.920 --> 1:32:58.680
+ I drink water, I delay my caffeine
+
+1:32:58.680 --> 1:33:01.440
+ for 90 minutes to two hours, and then I drink my caffeine.
+
+1:33:01.440 --> 1:33:04.080
+ And then my first meal is typically around lunchtime,
+
+1:33:04.080 --> 1:33:05.200
+ 11, 30, or 12.
+
+1:33:05.200 --> 1:33:07.840
+ And yes, occasionally I throw back some almonds
+
+1:33:07.840 --> 1:33:09.560
+ or walnuts or something earlier in the day.
+
+1:33:09.560 --> 1:33:14.520
+ I do do that from time to time if I get hungry enough
+
+1:33:14.520 --> 1:33:15.860
+ or if I just happen to see them.
+
+1:33:15.860 --> 1:33:17.300
+ I'm kind of a drive-by eater.
+
+1:33:17.300 --> 1:33:19.080
+ If I see blueberries or nuts or something,
+
+1:33:19.080 --> 1:33:21.040
+ I just kind of pick them up and put them in my mouth.
+
+1:33:21.040 --> 1:33:23.360
+ I try and not do that off other people's plates,
+
+1:33:23.360 --> 1:33:26.320
+ but I just have that habit of doing that from time to time.
+
+1:33:26.320 --> 1:33:29.160
+ But typically I don't eat until about noon.
+
+1:33:29.160 --> 1:33:30.880
+ So I've got a cortisol increase.
+
+1:33:30.880 --> 1:33:32.160
+ I've got my sunlight in the morning.
+
+1:33:32.160 --> 1:33:34.960
+ So I'm getting a big pulse in energy early in the day.
+
+1:33:34.960 --> 1:33:36.400
+ And yes, there's a little bit of agitation.
+
+1:33:36.400 --> 1:33:39.360
+ I am hungry sometimes early in the day, sometimes no,
+
+1:33:39.360 --> 1:33:42.200
+ but my ghrelin system is used to kicking in
+
+1:33:42.200 --> 1:33:44.020
+ right around noon.
+
+1:33:44.020 --> 1:33:45.440
+ At the point where I eat,
+
+1:33:45.440 --> 1:33:49.140
+ as long as I don't eat carbohydrate, in my case,
+
+1:33:49.140 --> 1:33:50.600
+ I know that my epinephrine levels
+
+1:33:50.600 --> 1:33:51.760
+ are going to stay pretty high.
+
+1:33:51.760 --> 1:33:54.240
+ So for me, it's usually meat and salad
+
+1:33:54.240 --> 1:33:56.680
+ or something of that sort or fish and salad.
+
+1:33:56.680 --> 1:34:00.900
+ I don't particularly like eating fish because of the taste,
+
+1:34:00.900 --> 1:34:03.760
+ but I'm essentially low carb or keto-ish throughout the day.
+
+1:34:03.760 --> 1:34:07.320
+ So I'm probably in a slightly elevated state
+
+1:34:07.320 --> 1:34:09.480
+ of epinephrine and cortisol throughout the day.
+
+1:34:09.480 --> 1:34:11.020
+ Some of you are fasting even longer.
+
+1:34:11.020 --> 1:34:13.120
+ You're pushing out till 4 p.m. or 8 p.m.
+
+1:34:13.120 --> 1:34:15.500
+ or maybe you're even fasting around the clock.
+
+1:34:15.500 --> 1:34:16.860
+ Anytime you're fasting,
+
+1:34:16.860 --> 1:34:19.880
+ you're increasing epinephrine and cortisol release.
+
+1:34:19.880 --> 1:34:21.700
+ You can do all the meditation in the world
+
+1:34:21.700 --> 1:34:23.180
+ to keep your mind calm,
+
+1:34:23.180 --> 1:34:26.440
+ but you are closer to that edge of stress
+
+1:34:26.440 --> 1:34:29.500
+ and you're closer to that edge of peak stress.
+
+1:34:29.500 --> 1:34:32.440
+ So that's something that's just important to understand.
+
+1:34:32.440 --> 1:34:34.600
+ The description about comfort foods and cortisol
+
+1:34:34.600 --> 1:34:37.020
+ was one of kind of an extreme case
+
+1:34:37.020 --> 1:34:40.120
+ where cortisol systems kick over to a positive feedback loop
+
+1:34:40.120 --> 1:34:44.160
+ but we all eat to suppress cortisol and epinephrine.
+
+1:34:44.160 --> 1:34:45.100
+ When we're hungry,
+
+1:34:45.100 --> 1:34:46.960
+ cortisol and epinephrine create an agitation
+
+1:34:46.960 --> 1:34:48.320
+ so we go seek food.
+
+1:34:48.320 --> 1:34:50.900
+ When we ingest food that typically,
+
+1:34:50.900 --> 1:34:52.000
+ if it includes carbohydrate,
+
+1:34:52.000 --> 1:34:53.320
+ there's a blunting of cortisol,
+
+1:34:53.320 --> 1:34:55.220
+ there's a blunting of epinephrine in the bloodstream.
+
+1:34:55.220 --> 1:34:57.280
+ If you've ever had too much coffee to drink
+
+1:34:57.280 --> 1:34:59.400
+ and you go and have a couple of pieces of bread,
+
+1:34:59.400 --> 1:35:02.320
+ you will feel that you might describe it
+
+1:35:02.320 --> 1:35:04.480
+ as the caffeine getting soaked up out of your system
+
+1:35:04.480 --> 1:35:06.680
+ but what you're doing is you're elevating blood glucose,
+
+1:35:06.680 --> 1:35:09.280
+ which is more or less saturating
+
+1:35:09.280 --> 1:35:10.820
+ the effect of caffeine in your system.
+
+1:35:10.820 --> 1:35:14.520
+ Not completely, but it's going to have that effect.
+
+1:35:14.520 --> 1:35:16.440
+ If you're very stressed and you sit down to eat something,
+
+1:35:16.440 --> 1:35:18.020
+ it will calm you down.
+
+1:35:18.020 --> 1:35:20.040
+ Yes, because some of the blood that goes to your stomach
+
+1:35:20.040 --> 1:35:21.440
+ but more so because of these effects
+
+1:35:21.440 --> 1:35:23.280
+ in blunting cortisol and epinephrine.
+
+1:35:23.280 --> 1:35:27.180
+ So the important point here is that if you want to be alert,
+
+1:35:27.180 --> 1:35:30.200
+ you can do that by way of not eating.
+
+1:35:30.200 --> 1:35:31.880
+ Of course, please ingest fluids.
+
+1:35:31.880 --> 1:35:33.760
+ I know some people water fast out there.
+
+1:35:33.760 --> 1:35:36.380
+ I am yet to see good science on water fasting
+
+1:35:36.380 --> 1:35:38.060
+ and why that can stimulate stem cells
+
+1:35:38.060 --> 1:35:40.900
+ or people love the idea of after the Nobel Prize
+
+1:35:40.900 --> 1:35:42.880
+ was given for autophagy and this idea
+
+1:35:42.880 --> 1:35:45.320
+ that our cells clean up debris and senescent cells.
+
+1:35:45.320 --> 1:35:48.720
+ Yes, that's true but the idea that water fasting
+
+1:35:48.720 --> 1:35:50.820
+ is going to promote that I find rather amusing.
+
+1:35:50.820 --> 1:35:53.080
+ Please send me the data if you know some great study
+
+1:35:53.080 --> 1:35:55.480
+ in a decent journal but pretty much this is something
+
+1:35:55.480 --> 1:35:56.320
+ I hear about.
+
+1:35:56.320 --> 1:35:58.660
+ I don't think water fasting is a good idea
+
+1:35:58.660 --> 1:36:00.880
+ nor should you be drinking so much water
+
+1:36:00.880 --> 1:36:01.720
+ that you kill yourself.
+
+1:36:01.720 --> 1:36:04.900
+ You can actually drink enough water that you die.
+
+1:36:04.900 --> 1:36:07.480
+ So I think ingesting water in healthy amounts
+
+1:36:07.480 --> 1:36:08.920
+ is a good thing, stay hydrated
+
+1:36:08.920 --> 1:36:12.080
+ but if you want to be alert, stay hydrated.
+
+1:36:12.080 --> 1:36:14.280
+ Caffeine may or may not be in your regimen
+
+1:36:14.280 --> 1:36:18.720
+ but fasting will make sure that your levels of energy
+
+1:36:18.720 --> 1:36:21.800
+ are up and you will be primed very well
+
+1:36:21.800 --> 1:36:24.440
+ for doing a protocol of the sort that we talked about
+
+1:36:24.440 --> 1:36:27.360
+ earlier in this episode of breathing or cold exposure
+
+1:36:27.360 --> 1:36:29.460
+ or exercise to get that increase
+
+1:36:29.460 --> 1:36:31.040
+ in the immune system function.
+
+1:36:31.040 --> 1:36:32.900
+ And if you do that after learning,
+
+1:36:32.900 --> 1:36:34.440
+ after trying to learn something,
+
+1:36:34.440 --> 1:36:35.680
+ it will increase learning
+
+1:36:35.680 --> 1:36:38.480
+ for that particular set of information,
+
+1:36:38.480 --> 1:36:39.920
+ whether or not it's motor or language
+
+1:36:39.920 --> 1:36:43.440
+ or whatever it happens to be, mathematics, programming.
+
+1:36:43.440 --> 1:36:47.720
+ So fasting is a tool for many reasons,
+
+1:36:47.720 --> 1:36:49.720
+ can increase growth hormone, et cetera.
+
+1:36:49.720 --> 1:36:52.520
+ But today I'm talking about fasting as a tool
+
+1:36:52.520 --> 1:36:55.920
+ to bias your system toward more epinephrine
+
+1:36:55.920 --> 1:36:58.560
+ adrenaline release and toward more cortisol release
+
+1:36:58.560 --> 1:37:01.880
+ but still low enough that it's not chronic stress,
+
+1:37:01.880 --> 1:37:04.160
+ that it's not causing negative health effects.
+
+1:37:04.160 --> 1:37:08.320
+ But please know that if life is very, very stressful,
+
+1:37:08.320 --> 1:37:10.980
+ if you're experiencing lots of stressors
+
+1:37:10.980 --> 1:37:13.480
+ and you're chronically fasting,
+
+1:37:13.480 --> 1:37:17.240
+ you are positioning yourself toward a greater likelihood
+
+1:37:17.240 --> 1:37:20.800
+ of being chronically stressed in the ways that are negative,
+
+1:37:20.800 --> 1:37:22.520
+ negative effects on the reproductive axis,
+
+1:37:22.520 --> 1:37:23.880
+ lower testosterone and estrogen,
+
+1:37:23.880 --> 1:37:27.400
+ negative effects on your hair will turn gray.
+
+1:37:27.400 --> 1:37:28.600
+ There's reasons for that.
+
+1:37:28.600 --> 1:37:31.840
+ Your sleep will suffer, your immune system will suffer.
+
+1:37:31.840 --> 1:37:34.840
+ So I think while it's nuanced,
+
+1:37:35.940 --> 1:37:39.820
+ our discussion today about epinephrine and cortisol
+
+1:37:39.820 --> 1:37:44.040
+ increasing energy and immunity are designed
+
+1:37:44.040 --> 1:37:46.560
+ to help you understand
+
+1:37:46.560 --> 1:37:48.220
+ when you should be doing certain things,
+
+1:37:48.220 --> 1:37:49.680
+ when you should throttle back,
+
+1:37:49.680 --> 1:37:52.160
+ when you might want to kick up your adrenaline a bit.
+
+1:37:52.160 --> 1:37:54.320
+ If you're suffering from low energy
+
+1:37:54.320 --> 1:37:56.600
+ because you're just kind of feeling down
+
+1:37:56.600 --> 1:37:58.900
+ and a little bit under-activated,
+
+1:37:58.900 --> 1:38:00.840
+ well, then the practices of ice baths
+
+1:38:00.840 --> 1:38:03.740
+ and intense breathing, et cetera, could be very beneficial.
+
+1:38:03.740 --> 1:38:05.900
+ So might fasting.
+
+1:38:05.900 --> 1:38:10.020
+ But if you're feeling exhausted and burnt out,
+
+1:38:10.020 --> 1:38:11.960
+ so drained and stressed,
+
+1:38:11.960 --> 1:38:16.140
+ well, then fasting or doing a lot of cold exposure
+
+1:38:16.140 --> 1:38:17.880
+ or doing a lot of intense exercise
+
+1:38:17.880 --> 1:38:20.940
+ is driving you further and further into chronic stress.
+
+1:38:20.940 --> 1:38:24.860
+ So because I don't have a saliva test or a blood test
+
+1:38:24.860 --> 1:38:27.520
+ or God forbid an earwax test to measure your cortisol
+
+1:38:27.520 --> 1:38:30.860
+ as we're engaging in this discussion together,
+
+1:38:30.860 --> 1:38:33.420
+ you have to gauge for yourself
+
+1:38:33.420 --> 1:38:36.740
+ whether or not you are in a state of under-activated
+
+1:38:36.740 --> 1:38:38.860
+ and need more epinephrine and cortisol
+
+1:38:40.140 --> 1:38:43.620
+ or whether or not you are over-activated
+
+1:38:43.620 --> 1:38:45.140
+ in terms of cortisol and epinephrine
+
+1:38:45.140 --> 1:38:48.300
+ and you need ways to buffer those, ashwagandha.
+
+1:38:48.300 --> 1:38:51.100
+ Maybe it should be a warm mellow bath, not an ice bath.
+
+1:38:51.100 --> 1:38:53.920
+ So one has to learn how to regulate these hormones
+
+1:38:53.920 --> 1:38:56.940
+ with behavior, with nutrition, perhaps with supplementation.
+
+1:38:56.940 --> 1:38:58.740
+ And then of course there are prescription drugs.
+
+1:38:58.740 --> 1:39:01.100
+ And I always leave these to the end
+
+1:39:01.100 --> 1:39:02.820
+ because A, I'm not a medical doctor,
+
+1:39:02.820 --> 1:39:04.780
+ I'm not prescribing anything, I'm a professor,
+
+1:39:04.780 --> 1:39:05.940
+ I'm professing a number of things
+
+1:39:05.940 --> 1:39:09.500
+ that you can decide for yourselves what to do with or not.
+
+1:39:09.500 --> 1:39:11.820
+ But of course there are prescription drugs
+
+1:39:11.820 --> 1:39:15.120
+ that can increase cortisol or decrease cortisol
+
+1:39:15.120 --> 1:39:16.700
+ in cases like Cushing syndrome,
+
+1:39:16.700 --> 1:39:18.980
+ which if you have that diagnosed,
+
+1:39:18.980 --> 1:39:20.660
+ you should talk to a physician.
+
+1:39:20.660 --> 1:39:23.580
+ You should talk ideally to a endocrinologist
+
+1:39:23.580 --> 1:39:26.760
+ but to a physician of some sort, board certified physician.
+
+1:39:27.720 --> 1:39:31.780
+ There are drugs that can be used to treat injury
+
+1:39:31.780 --> 1:39:33.700
+ like corticosterones that you can inject
+
+1:39:33.700 --> 1:39:36.660
+ to reduce inflammation and injury, but they are cortisol.
+
+1:39:36.660 --> 1:39:37.660
+ So they're going to bias you
+
+1:39:37.660 --> 1:39:39.460
+ towards more stress in other domains.
+
+1:39:39.460 --> 1:39:41.940
+ Remember cortisol can cross the blood-brain barrier
+
+1:39:41.940 --> 1:39:44.420
+ so you're going to be more prone to psychological stress.
+
+1:39:44.420 --> 1:39:45.780
+ I also want to mention again
+
+1:39:45.780 --> 1:39:48.040
+ that I think there's great benefit to having a practice
+
+1:39:48.040 --> 1:39:49.340
+ that perhaps you do every other day,
+
+1:39:49.340 --> 1:39:53.000
+ but if you can't maybe every third day or every other day
+
+1:39:53.000 --> 1:39:56.280
+ of deliberately increasing your adrenaline in your body
+
+1:39:56.280 --> 1:39:58.500
+ while learning to stay calm in the mind
+
+1:39:58.500 --> 1:40:01.460
+ so that you learn to separate the brain-body experience.
+
+1:40:01.460 --> 1:40:04.100
+ We hear so much about how beneficial it is
+
+1:40:04.100 --> 1:40:05.660
+ to unify the brain and body,
+
+1:40:05.660 --> 1:40:07.580
+ that we're all out of touch with our brain and bodies.
+
+1:40:07.580 --> 1:40:11.660
+ I particularly dislike claims like that
+
+1:40:11.660 --> 1:40:14.980
+ or statements like that because there's great power,
+
+1:40:14.980 --> 1:40:18.500
+ as we learned today, in having your body activated
+
+1:40:18.500 --> 1:40:21.060
+ by some sort of stimulus, cold water
+
+1:40:21.060 --> 1:40:22.780
+ or even psychological stress,
+
+1:40:22.780 --> 1:40:24.980
+ but learning to stay calm in your mind.
+
+1:40:24.980 --> 1:40:25.900
+ I should just remind you
+
+1:40:25.900 --> 1:40:29.220
+ that most of the negative effects on your life
+
+1:40:29.220 --> 1:40:30.800
+ and on the lives of others
+
+1:40:30.800 --> 1:40:35.000
+ are due to people, perhaps you, I hope not,
+
+1:40:35.000 --> 1:40:36.860
+ being unable to regulate their mind
+
+1:40:36.860 --> 1:40:39.020
+ when they have high levels of adrenaline in their body,
+
+1:40:39.020 --> 1:40:40.620
+ either because they read something in a text
+
+1:40:40.620 --> 1:40:42.180
+ or a comment section.
+
+1:40:42.180 --> 1:40:44.020
+ Of course, that never happens to me,
+
+1:40:44.020 --> 1:40:46.260
+ but it may happen to you.
+
+1:40:46.260 --> 1:40:47.780
+ Of course, it happens to me,
+
+1:40:47.780 --> 1:40:49.940
+ but the idea is to stay calm in your mind
+
+1:40:49.940 --> 1:40:52.460
+ so that then you can regulate your action, right?
+
+1:40:52.460 --> 1:40:55.100
+ And so I think that there are these practices
+
+1:40:55.100 --> 1:40:57.360
+ that one can develop over time
+
+1:40:57.360 --> 1:41:01.220
+ that are really straightforward and zero cost, right?
+
+1:41:01.220 --> 1:41:03.320
+ You could find any number of ways
+
+1:41:03.320 --> 1:41:06.080
+ to increase your adrenaline and stay calm.
+
+1:41:06.080 --> 1:41:09.000
+ And we tend to focus on things like exercise
+
+1:41:09.000 --> 1:41:10.740
+ as the way that we get our energy up.
+
+1:41:10.740 --> 1:41:12.440
+ But today, again, I'm talking
+
+1:41:12.440 --> 1:41:15.160
+ about deliberately increasing adrenaline
+
+1:41:15.160 --> 1:41:17.380
+ while staying calm mentally,
+
+1:41:17.380 --> 1:41:18.920
+ because that has great utility
+
+1:41:18.920 --> 1:41:23.900
+ when the adrenaline hits through unwanted events,
+
+1:41:23.900 --> 1:41:25.940
+ through things that we didn't seek out.
+
+1:41:25.940 --> 1:41:29.980
+ So the ability to regulate adrenaline and cortisol
+
+1:41:29.980 --> 1:41:32.580
+ is about inducing them deliberately
+
+1:41:32.580 --> 1:41:35.220
+ when you want to push back on infection,
+
+1:41:35.220 --> 1:41:37.860
+ potential infection from bacteria or viruses.
+
+1:41:37.860 --> 1:41:40.800
+ It's about pulling back on adrenaline and cortisol,
+
+1:41:40.800 --> 1:41:42.400
+ maybe through the use of supplementation,
+
+1:41:42.400 --> 1:41:45.700
+ but certainly through proper use of light and sleep
+
+1:41:45.700 --> 1:41:48.160
+ and mental tools that we talked about as well,
+
+1:41:48.160 --> 1:41:50.820
+ when they are chronically elevated.
+
+1:41:50.820 --> 1:41:52.720
+ It's about training your system,
+
+1:41:52.720 --> 1:41:54.900
+ not just to be unified at brain and body,
+
+1:41:54.900 --> 1:41:57.080
+ which sounds great until you're stressed,
+
+1:41:57.080 --> 1:41:58.240
+ and then that's terrible.
+
+1:41:58.240 --> 1:42:01.360
+ It's really about having a deliberate dissociation
+
+1:42:01.360 --> 1:42:03.880
+ between the adrenaline response from the adrenals
+
+1:42:03.880 --> 1:42:06.600
+ and the adrenaline response from the brainstem.
+
+1:42:06.600 --> 1:42:10.320
+ So once again, we've covered a ton of material.
+
+1:42:10.320 --> 1:42:12.660
+ I hope right now you're thinking,
+
+1:42:12.660 --> 1:42:15.260
+ okay, am I in a state of chronic stress?
+
+1:42:15.260 --> 1:42:17.280
+ Am I under-activated or could I afford
+
+1:42:17.280 --> 1:42:20.160
+ to increase my levels of adrenaline and cortisol
+
+1:42:20.160 --> 1:42:23.120
+ to improve my relationship to my immune system
+
+1:42:23.120 --> 1:42:26.080
+ and to energy, neural energy?
+
+1:42:26.080 --> 1:42:29.400
+ If you like the information that you heard today
+
+1:42:29.400 --> 1:42:30.760
+ and you want to remember it,
+
+1:42:30.760 --> 1:42:33.540
+ well then at the end of this episode,
+
+1:42:33.540 --> 1:42:34.600
+ perhaps you go do something
+
+1:42:34.600 --> 1:42:36.880
+ to increase your level of adrenaline.
+
+1:42:36.880 --> 1:42:38.200
+ And now you know what some of those things are
+
+1:42:38.200 --> 1:42:40.020
+ because it will help you retain the information,
+
+1:42:40.020 --> 1:42:41.440
+ or you could apply that to anything else
+
+1:42:41.440 --> 1:42:44.020
+ that you learn or experience, of course.
+
+1:42:44.020 --> 1:42:47.460
+ And I hope that you'll think about some of the ways
+
+1:42:47.460 --> 1:42:51.840
+ in which cortisol and adrenaline are not good or bad,
+
+1:42:51.840 --> 1:42:53.040
+ that stress isn't good or bad,
+
+1:42:53.040 --> 1:42:54.880
+ but short-term stress is healthy.
+
+1:42:54.880 --> 1:42:56.320
+ Alertness and energy is healthy
+
+1:42:56.320 --> 1:42:58.780
+ even if it puts you at the edge of agitation.
+
+1:42:58.780 --> 1:43:00.360
+ That's an opportunity to learn
+
+1:43:00.360 --> 1:43:02.300
+ how to control these hormones better.
+
+1:43:02.300 --> 1:43:04.480
+ And I hope that if you're in a state of chronic stress
+
+1:43:04.480 --> 1:43:07.040
+ that you'll do things to start tamping down
+
+1:43:07.040 --> 1:43:09.860
+ some of that stress and that you realize
+
+1:43:09.860 --> 1:43:13.040
+ that your nervous system and your hormone system are linked,
+
+1:43:13.040 --> 1:43:14.900
+ but they're linked in ways that you can control,
+
+1:43:14.900 --> 1:43:17.120
+ that we don't have to be slaves to our hormones
+
+1:43:17.120 --> 1:43:19.380
+ and certainly not the hormones that cause us stress.
+
+1:43:19.380 --> 1:43:20.780
+ We can learn to control those
+
+1:43:20.780 --> 1:43:24.280
+ both to the benefit of our body and benefit of mind.
+
+1:43:24.280 --> 1:43:25.900
+ If you're learning from this podcast
+
+1:43:25.900 --> 1:43:28.280
+ and you like the information that you're learning,
+
+1:43:28.280 --> 1:43:30.320
+ please subscribe on YouTube.
+
+1:43:30.320 --> 1:43:31.560
+ That really helps us.
+
+1:43:31.560 --> 1:43:34.740
+ And in addition, if you could hit the notification button,
+
+1:43:34.740 --> 1:43:37.060
+ that will let you know when we release new episodes.
+
+1:43:37.060 --> 1:43:39.560
+ Now we release them every Monday morning,
+
+1:43:39.560 --> 1:43:40.840
+ but in addition to that,
+
+1:43:40.840 --> 1:43:43.180
+ we are starting to release short clips now and again,
+
+1:43:43.180 --> 1:43:44.680
+ as well as some special content.
+
+1:43:44.680 --> 1:43:46.240
+ So hit the subscribe button please
+
+1:43:46.240 --> 1:43:48.560
+ and hit the notifications button.
+
+1:43:48.560 --> 1:43:52.400
+ If you haven't already subscribed on Apple and or Spotify,
+
+1:43:52.400 --> 1:43:53.820
+ please do that.
+
+1:43:53.820 --> 1:43:55.840
+ You can certainly subscribe to all three if you like.
+
+1:43:55.840 --> 1:43:58.840
+ And on Apple, you can give us a five-star review
+
+1:43:58.840 --> 1:44:01.000
+ as well as leave us a review.
+
+1:44:01.000 --> 1:44:04.440
+ On YouTube is the place to leave us comments and feedback
+
+1:44:04.440 --> 1:44:06.740
+ as well as suggestions for future episodes.
+
+1:44:06.740 --> 1:44:08.480
+ We do read all the comments
+
+1:44:08.480 --> 1:44:10.760
+ and I know many of you are anxiously awaiting
+
+1:44:10.760 --> 1:44:13.000
+ particular topics and episodes
+
+1:44:13.000 --> 1:44:14.800
+ and we will eventually get to them all.
+
+1:44:14.800 --> 1:44:16.360
+ I'm not going anywhere.
+
+1:44:16.360 --> 1:44:19.140
+ And we do want to be thorough about every topic.
+
+1:44:19.140 --> 1:44:22.880
+ Today, we rounded out the discussion about hormones.
+
+1:44:22.880 --> 1:44:25.040
+ We aren't going to continue with that topic any longer.
+
+1:44:25.040 --> 1:44:27.180
+ We are moving to a new topic segment
+
+1:44:27.180 --> 1:44:29.320
+ for an entire month or so.
+
+1:44:29.320 --> 1:44:31.520
+ If you know of other people that you think could benefit
+
+1:44:31.520 --> 1:44:33.420
+ from the information on this podcast
+
+1:44:33.420 --> 1:44:35.660
+ or that you think would enjoy listening to it,
+
+1:44:35.660 --> 1:44:37.240
+ please forward it along to them.
+
+1:44:37.240 --> 1:44:39.000
+ We'd really appreciate that.
+
+1:44:39.000 --> 1:44:40.440
+ Another great way to support us
+
+1:44:40.440 --> 1:44:42.040
+ is to check out our sponsors
+
+1:44:42.040 --> 1:44:44.760
+ that we mentioned at the beginning of the podcast.
+
+1:44:44.760 --> 1:44:46.360
+ We also have a Patreon.
+
+1:44:46.360 --> 1:44:49.340
+ It's patreon.com slash Andrew Huberman.
+
+1:44:49.340 --> 1:44:50.920
+ There you can support the podcast
+
+1:44:50.920 --> 1:44:53.000
+ at any level that you like.
+
+1:44:53.000 --> 1:44:56.320
+ I should mention that I will be answering some questions
+
+1:44:56.320 --> 1:44:59.740
+ that come up frequently in the comment section on YouTube
+
+1:44:59.740 --> 1:45:02.280
+ in Instagram lives every once in a while.
+
+1:45:02.280 --> 1:45:04.320
+ I am on Twitter at Huberman Lab.
+
+1:45:04.320 --> 1:45:06.840
+ I'm on Instagram also at Huberman Lab
+
+1:45:06.840 --> 1:45:09.680
+ and on Instagram from time to time coming up,
+
+1:45:09.680 --> 1:45:13.600
+ I'm going to be discussing answers to your common questions
+
+1:45:13.600 --> 1:45:14.960
+ in these Instagram lives
+
+1:45:14.960 --> 1:45:16.960
+ and I will make sure that they're recorded.
+
+1:45:16.960 --> 1:45:18.160
+ So you can check those out.
+
+1:45:18.160 --> 1:45:19.440
+ Please follow our Instagram
+
+1:45:19.440 --> 1:45:21.240
+ if you are not already doing that
+
+1:45:21.240 --> 1:45:23.560
+ and check out our Twitter if you're on Twitter.
+
+1:45:23.560 --> 1:45:25.520
+ I covered a lot of different types of tools today,
+
+1:45:25.520 --> 1:45:28.860
+ behavioral tools, et cetera, but I did mention supplements.
+
+1:45:28.860 --> 1:45:30.960
+ For those of you that are interested in supplements,
+
+1:45:30.960 --> 1:45:34.440
+ we've partnered with Thorne, T-H-O-R-N-E
+
+1:45:34.440 --> 1:45:36.740
+ because we believe them to have the highest levels
+
+1:45:36.740 --> 1:45:40.360
+ of stringency and quality in terms of supplement production,
+
+1:45:40.360 --> 1:45:41.900
+ in terms of amounts of supplements
+
+1:45:41.900 --> 1:45:44.900
+ in their different formulations, et cetera.
+
+1:45:44.900 --> 1:45:47.660
+ If you want to check out the supplements that I take
+
+1:45:47.660 --> 1:45:50.160
+ and you want to get a discount on Thorne supplements,
+
+1:45:50.160 --> 1:45:53.640
+ you can go to Thorne, T-H-O-R-N-E.com
+
+1:45:53.640 --> 1:45:56.640
+ slash the letter U slash Huberman
+
+1:45:56.640 --> 1:46:00.220
+ and you can get 20% off any of the supplements that I take
+
+1:46:00.220 --> 1:46:03.800
+ or any of the supplements that Thorne sells for that matter.
+
+1:46:03.800 --> 1:46:07.200
+ That's Thorne.com slash U slash Huberman
+
+1:46:07.200 --> 1:46:09.920
+ to get 20% off anything that Thorne makes.
+
+1:46:09.920 --> 1:46:12.000
+ Thank you for joining me for what I hope
+
+1:46:12.000 --> 1:46:15.880
+ was an informative discussion and an actionable discussion
+
+1:46:15.880 --> 1:46:18.440
+ about how to increase energy and the immune system
+
+1:46:18.440 --> 1:46:22.600
+ by way of cortisol and adrenaline epinephrine.
+
+1:46:22.600 --> 1:46:25.920
+ I really appreciate your willingness to learn new topics
+
+1:46:25.920 --> 1:46:28.240
+ as well as to embrace and think about new tools
+
+1:46:28.240 --> 1:46:30.120
+ and whether or not they're right for you.
+
+1:46:30.120 --> 1:46:33.000
+ And as always, thank you for your interest in science.
+
+1:46:33.000 --> 1:46:40.000
+ I'll see you next time.
+

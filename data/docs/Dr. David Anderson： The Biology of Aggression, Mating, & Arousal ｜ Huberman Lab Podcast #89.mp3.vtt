@@ -1,0 +1,7376 @@
+WEBVTT
+
+00:00.000 --> 00:02.280
+ Welcome to the Huberman Lab Podcast,
+
+00:02.280 --> 00:04.880
+ where we discuss science and science-based tools
+
+00:04.880 --> 00:05.920
+ for everyday life.
+
+00:09.280 --> 00:12.000
+ I'm Andrew Huberman, and I'm a professor of neurobiology
+
+00:12.000 --> 00:15.020
+ and ophthalmology at Stanford School of Medicine.
+
+00:15.020 --> 00:17.440
+ Today, my guest is Dr. David Anderson.
+
+00:17.440 --> 00:19.400
+ Dr. Anderson is a professor of biology
+
+00:19.400 --> 00:21.960
+ at the California Institute of Technology,
+
+00:21.960 --> 00:25.440
+ often commonly referred to as Caltech University.
+
+00:25.440 --> 00:28.080
+ Dr. Anderson's research focuses on emotions
+
+00:28.080 --> 00:30.000
+ and states of mind and body.
+
+00:30.000 --> 00:31.840
+ And indeed, he emphasizes how emotions
+
+00:31.840 --> 00:34.560
+ like happiness, sadness, anger, and so on
+
+00:34.560 --> 00:36.280
+ are actually subcategories
+
+00:36.280 --> 00:39.360
+ of what are generally governed by states,
+
+00:39.360 --> 00:42.120
+ that is, things that are occurring in the nervous system
+
+00:42.120 --> 00:45.760
+ in our brain and in the connections between brain and body
+
+00:45.760 --> 00:47.500
+ that dictate whether or not we feel good
+
+00:47.500 --> 00:50.660
+ about how we are feeling and that drive our behaviors,
+
+00:50.660 --> 00:54.520
+ that is, bias us to be in action or inaction
+
+00:54.520 --> 00:57.500
+ and strongly influence the way we interpret our experience
+
+00:57.500 --> 00:58.680
+ and our surroundings.
+
+00:58.680 --> 01:01.160
+ Today, Dr. Anderson teaches us, for instance,
+
+01:01.160 --> 01:02.680
+ why people become aggressive
+
+01:02.680 --> 01:06.900
+ and why that aggression can sometimes take the form of rage.
+
+01:06.900 --> 01:08.900
+ I also talk about sexual behavior
+
+01:08.900 --> 01:11.260
+ and the boundaries and overlap
+
+01:11.260 --> 01:13.640
+ between aggression and sexual behavior.
+
+01:13.640 --> 01:16.600
+ And that discussion about aggression and sexual behavior
+
+01:16.600 --> 01:19.120
+ also starts to focus on particular aspects
+
+01:19.120 --> 01:21.360
+ of neural circuits and states of mind and body
+
+01:21.360 --> 01:24.800
+ that govern things like, for instance, male-male aggression
+
+01:24.800 --> 01:28.760
+ versus male-female aggression versus female-female aggression.
+
+01:28.760 --> 01:30.040
+ So today, you will learn a lot
+
+01:30.040 --> 01:31.480
+ about the biological mechanisms
+
+01:31.480 --> 01:33.880
+ that govern why we feel the way we feel.
+
+01:33.880 --> 01:35.840
+ Indeed, Dr. Anderson is an author
+
+01:35.840 --> 01:38.320
+ of a terrific new popular book entitled
+
+01:38.320 --> 01:41.000
+ "'The Nature of the Beast, How Emotions Guide Us.'"
+
+01:41.000 --> 01:43.200
+ I've read this book several times now.
+
+01:43.200 --> 01:45.040
+ I can tell you it contains so many gems
+
+01:45.040 --> 01:47.520
+ that are firmly grounded in the scientific research.
+
+01:47.520 --> 01:49.520
+ In fact, a lot of what's in the book
+
+01:49.520 --> 01:51.660
+ contrasts with many of the common myths
+
+01:51.660 --> 01:53.900
+ about emotions and biology.
+
+01:53.900 --> 01:56.520
+ So whether or not you're a therapist or you're a biologist
+
+01:56.520 --> 01:58.500
+ or you're simply just somebody interested
+
+01:58.500 --> 02:00.200
+ in why we feel the way we feel
+
+02:00.200 --> 02:02.120
+ and why we act the way we act,
+
+02:02.120 --> 02:03.920
+ I cannot recommend the book highly enough.
+
+02:03.920 --> 02:04.740
+ Again, the title is,
+
+02:04.740 --> 02:07.220
+ "'The Nature of the Beast, How Emotions Guide Us.'"
+
+02:07.220 --> 02:09.480
+ Today's discussion also ventures into topics
+
+02:09.480 --> 02:12.120
+ such as mental health and mental illness.
+
+02:12.120 --> 02:13.940
+ And some of the exciting discoveries
+
+02:13.940 --> 02:15.760
+ that have been made by Dr. Anderson's laboratory
+
+02:15.760 --> 02:18.600
+ and other laboratories identifying specific peptides,
+
+02:18.600 --> 02:21.200
+ that is, small proteins that can govern
+
+02:21.200 --> 02:23.680
+ whether or not people feel anxious or less anxious,
+
+02:23.680 --> 02:25.360
+ aggressive or less aggressive.
+
+02:25.360 --> 02:27.140
+ This is an important area of research
+
+02:27.140 --> 02:28.480
+ that has direct implications
+
+02:28.480 --> 02:30.560
+ for much of what we read about in the news,
+
+02:30.560 --> 02:33.080
+ both unfortunate and fortunate events,
+
+02:33.080 --> 02:35.080
+ and that will no doubt drive
+
+02:35.080 --> 02:37.060
+ the future of mental health treatments.
+
+02:37.060 --> 02:40.600
+ Dr. Anderson is considered one of the most pioneering
+
+02:40.600 --> 02:43.840
+ and important researchers in neurobiology of our time.
+
+02:43.840 --> 02:45.940
+ Indeed, he is a member of the National Academy of Sciences
+
+02:45.940 --> 02:49.120
+ and a Howard Hughes Medical Institute investigator.
+
+02:49.120 --> 02:51.440
+ I've mentioned the HHMI once or twice before
+
+02:51.440 --> 02:54.440
+ when we've had other HHMI guests on this podcast,
+
+02:54.440 --> 02:55.880
+ but for those of you that are not familiar,
+
+02:55.880 --> 02:57.200
+ the Howard Hughes Medical Institute
+
+02:57.200 --> 02:59.380
+ funds a small number of investigators
+
+02:59.380 --> 03:02.800
+ doing particularly high-risk, high-benefit work,
+
+03:02.800 --> 03:05.580
+ and it is an extremely competitive process
+
+03:05.580 --> 03:08.800
+ to identify those Howard Hughes investigators.
+
+03:08.800 --> 03:09.760
+ They're essentially appointed,
+
+03:09.760 --> 03:11.540
+ and then every five years,
+
+03:11.540 --> 03:13.720
+ they have to compete against one another
+
+03:13.720 --> 03:16.080
+ and against a new incoming flock
+
+03:16.080 --> 03:18.680
+ of would-be HHMI investigators
+
+03:18.680 --> 03:19.920
+ to get another five years of funding.
+
+03:19.920 --> 03:22.100
+ They are literally given a grade every five years
+
+03:22.100 --> 03:24.580
+ as to whether or not they can continue, not continue,
+
+03:24.580 --> 03:27.120
+ or whether or not they should worry about being funded
+
+03:27.120 --> 03:28.540
+ for an extended period of time.
+
+03:28.540 --> 03:30.300
+ Dr. Anderson has been an investigator
+
+03:30.300 --> 03:33.860
+ with the Howard Hughes Medical Institute since 1989.
+
+03:33.860 --> 03:35.740
+ I'm pleased to announce that the Huberman Lab Podcast
+
+03:35.740 --> 03:38.080
+ is now partnered with Momentus Supplements.
+
+03:38.080 --> 03:40.280
+ We partnered with Momentus for several important reasons.
+
+03:40.280 --> 03:42.000
+ First of all, they ship internationally
+
+03:42.000 --> 03:43.900
+ because we know that many of you are located
+
+03:43.900 --> 03:45.400
+ outside of the United States.
+
+03:45.400 --> 03:47.420
+ Second of all, and perhaps most important,
+
+03:47.420 --> 03:49.960
+ the quality of their supplements is second to none,
+
+03:49.960 --> 03:51.640
+ both in terms of purity and precision
+
+03:51.640 --> 03:53.580
+ of the amounts of the ingredients.
+
+03:53.580 --> 03:56.200
+ Third, we've really emphasized supplements
+
+03:56.200 --> 03:58.400
+ that are single-ingredient supplements
+
+03:58.400 --> 04:00.480
+ and that are supplied in dosages
+
+04:00.480 --> 04:03.440
+ that allow you to build a supplementation protocol
+
+04:03.440 --> 04:05.280
+ that's optimized for cost,
+
+04:05.280 --> 04:07.160
+ that's optimized for effectiveness,
+
+04:07.160 --> 04:09.300
+ and that you can add things and remove things
+
+04:09.300 --> 04:10.640
+ from your protocol in a way
+
+04:10.640 --> 04:12.400
+ that's really systematic and scientific.
+
+04:12.400 --> 04:13.600
+ If you'd like to see the supplements
+
+04:13.600 --> 04:14.920
+ that we partner with Momentus on,
+
+04:14.920 --> 04:18.020
+ you can go to livemomentus.com slash Huberman.
+
+04:18.020 --> 04:19.160
+ There you'll see those supplements,
+
+04:19.160 --> 04:21.600
+ and just keep in mind that we are constantly expanding
+
+04:21.600 --> 04:24.320
+ the library of supplements available through Momentus
+
+04:24.320 --> 04:25.240
+ on a regular basis.
+
+04:25.240 --> 04:27.840
+ Again, that's livemomentus.com slash Huberman.
+
+04:27.840 --> 04:29.560
+ Before we begin, I'd like to emphasize
+
+04:29.560 --> 04:30.840
+ that this podcast is separate
+
+04:30.840 --> 04:33.000
+ from my teaching and research roles at Stanford.
+
+04:33.000 --> 04:35.200
+ It is, however, part of my desire and effort
+
+04:35.200 --> 04:37.080
+ to bring zero cost to consumer information
+
+04:37.080 --> 04:38.980
+ about science and science-related tools
+
+04:38.980 --> 04:40.240
+ to the general public.
+
+04:40.240 --> 04:41.320
+ In keeping with that theme,
+
+04:41.320 --> 04:44.120
+ I'd like to thank the sponsors of today's podcast.
+
+04:44.120 --> 04:45.940
+ Our first sponsor is Levels.
+
+04:45.940 --> 04:47.420
+ Levels is a program that lets you see
+
+04:47.420 --> 04:49.020
+ how different foods affect your health
+
+04:49.020 --> 04:51.040
+ by giving you real-time feedback on your diet
+
+04:51.040 --> 04:53.440
+ using a continuous glucose monitor.
+
+04:53.440 --> 04:55.080
+ One of the most important factors governing
+
+04:55.080 --> 04:56.600
+ our immediate and long-term health,
+
+04:56.600 --> 04:59.600
+ and indeed our ability to think and focus clearly,
+
+04:59.600 --> 05:01.160
+ is our blood glucose levels,
+
+05:01.160 --> 05:03.040
+ also referred to as blood sugar.
+
+05:03.040 --> 05:05.160
+ To maintain healthy energy and focus throughout the day,
+
+05:05.160 --> 05:07.120
+ you want to keep your blood glucose levels steady
+
+05:07.120 --> 05:09.500
+ and avoid peaks and crashes.
+
+05:09.500 --> 05:11.740
+ I first started using Levels about a year ago
+
+05:11.740 --> 05:12.840
+ as a way to better understand
+
+05:12.840 --> 05:15.320
+ how specific foods, food combinations,
+
+05:15.320 --> 05:18.440
+ exercise, and supplements impact my blood glucose levels.
+
+05:18.440 --> 05:20.200
+ And it's been tremendously informative.
+
+05:20.200 --> 05:21.700
+ In fact, it's changed and shaped
+
+05:21.700 --> 05:23.900
+ the way that I organize my entire day.
+
+05:23.900 --> 05:26.600
+ Levels even provides a simple score after you eat a meal
+
+05:26.600 --> 05:28.100
+ so you can see how different foods affect you
+
+05:28.100 --> 05:30.120
+ and develop a personalized nutrition program
+
+05:30.120 --> 05:31.700
+ that's ideal for you.
+
+05:31.700 --> 05:33.540
+ So if you're interested in learning more about Levels
+
+05:33.540 --> 05:35.480
+ and trying a continuous glucose monitor yourself,
+
+05:35.480 --> 05:38.080
+ you can go to levels.link.huberman.
+
+05:38.080 --> 05:41.400
+ That's levels.link.huberman.
+
+05:41.400 --> 05:44.040
+ Today's episode is also brought to us by Helix Sleep.
+
+05:44.040 --> 05:46.080
+ Helix Sleep makes mattresses and pillows
+
+05:46.080 --> 05:47.960
+ that are of the absolute highest quality.
+
+05:47.960 --> 05:50.000
+ They also have some really unique features
+
+05:50.000 --> 05:53.520
+ because they are customized to your unique sleep needs.
+
+05:53.520 --> 05:55.360
+ I've talked over and over again on this podcast
+
+05:55.360 --> 05:56.680
+ and on other podcasts,
+
+05:56.680 --> 05:58.840
+ about the fact that sleep is the foundation
+
+05:58.840 --> 06:01.260
+ of mental health, physical health, and performance.
+
+06:01.260 --> 06:03.100
+ There's just simply no other substitute
+
+06:03.100 --> 06:05.600
+ for a quality night's sleep on a regular basis.
+
+06:05.600 --> 06:07.000
+ I've been sleeping on a Helix mattress
+
+06:07.000 --> 06:08.040
+ for well over a year now,
+
+06:08.040 --> 06:09.960
+ and it's the best sleep that I've ever had.
+
+06:09.960 --> 06:11.340
+ And that's in large part
+
+06:11.340 --> 06:14.080
+ because the mattress was designed for me.
+
+06:14.080 --> 06:15.080
+ What you need to know, however,
+
+06:15.080 --> 06:16.640
+ is what's the ideal mattress for you?
+
+06:16.640 --> 06:18.980
+ And you can do that by going to Helix site.
+
+06:18.980 --> 06:21.320
+ You can take their brief quiz, which will ask you,
+
+06:21.320 --> 06:22.960
+ do you sleep on your side, your back, your stomach,
+
+06:22.960 --> 06:24.580
+ or maybe you don't know, or maybe all three,
+
+06:24.580 --> 06:26.120
+ do you tend to run hot or cold in the night?
+
+06:26.120 --> 06:28.080
+ Maybe you know, maybe you don't.
+
+06:28.080 --> 06:29.080
+ At the end of that short quiz,
+
+06:29.080 --> 06:30.780
+ they will match you to the ideal mattress for you.
+
+06:30.780 --> 06:33.120
+ I matched to the DUSK, the D-U-S-K mattress,
+
+06:33.120 --> 06:34.640
+ but again, that's what I need.
+
+06:34.640 --> 06:35.800
+ That's not necessarily what you need
+
+06:35.800 --> 06:37.680
+ in order to get your best night's sleep.
+
+06:37.680 --> 06:39.200
+ But if you're interested in upgrading your mattress,
+
+06:39.200 --> 06:41.480
+ go to helixsleep.com slash Huberman,
+
+06:41.480 --> 06:42.720
+ take their two-minute sleep quiz,
+
+06:42.720 --> 06:44.560
+ and they'll match you to a customized mattress for you.
+
+06:44.560 --> 06:47.820
+ And you'll get up to $200 off any mattress order
+
+06:47.820 --> 06:49.000
+ and two free pillows.
+
+06:49.000 --> 06:49.880
+ They have terrific pillows.
+
+06:49.880 --> 06:51.040
+ And you get to try out that mattress
+
+06:51.040 --> 06:52.240
+ for a hundred nights risk-free.
+
+06:52.240 --> 06:54.200
+ They'll even pick it up for you if you don't love it,
+
+06:54.200 --> 06:55.400
+ but I'm certain you will.
+
+06:55.400 --> 06:56.240
+ Again, if you're interested in,
+
+06:56.240 --> 06:58.680
+ you go to helixsleep.com slash Huberman
+
+06:58.680 --> 07:02.160
+ for up to $200 off your mattress order and two free pillows.
+
+07:02.160 --> 07:04.640
+ Today's episode is also brought to us by Element.
+
+07:04.640 --> 07:06.280
+ Element is an electrolyte drink
+
+07:06.280 --> 07:08.700
+ that has everything you need and nothing you don't,
+
+07:08.700 --> 07:11.960
+ meaning no sugar, but it has sodium, magnesium,
+
+07:11.960 --> 07:13.720
+ and potassium in the proper ratios.
+
+07:13.720 --> 07:15.800
+ Sodium, magnesium, and potassium are critical
+
+07:15.800 --> 07:17.580
+ for the functioning of all your cells,
+
+07:17.580 --> 07:20.280
+ but of your neurons, your nerve cells in particular.
+
+07:20.280 --> 07:22.160
+ Many people out there, believe it or not,
+
+07:22.160 --> 07:25.060
+ need to ingest more sodium and more potassium
+
+07:25.060 --> 07:29.080
+ and magnesium in the proper ratios to sodium and potassium.
+
+07:29.080 --> 07:31.240
+ For those of you that are pre-hypertensive or hypertensive,
+
+07:31.240 --> 07:33.100
+ you definitely don't want to crank up your sodium intake,
+
+07:33.100 --> 07:33.980
+ but many people out there,
+
+07:33.980 --> 07:36.400
+ especially people following low carb diets
+
+07:36.400 --> 07:38.480
+ or eating exceptionally clean,
+
+07:38.480 --> 07:40.900
+ very well may need more sodium.
+
+07:40.900 --> 07:42.800
+ And by drinking Element mixed with water,
+
+07:42.800 --> 07:44.360
+ which is what I do once or twice a day,
+
+07:44.360 --> 07:47.400
+ and certainly also during workouts and after workouts,
+
+07:47.400 --> 07:49.140
+ you can optimize mental functioning
+
+07:49.140 --> 07:50.640
+ and physical performance
+
+07:50.640 --> 07:52.600
+ by increasing your electrolyte balance
+
+07:52.600 --> 07:54.700
+ in the proper ratios.
+
+07:54.700 --> 07:55.680
+ If you'd like to try Element,
+
+07:55.680 --> 07:59.920
+ you can go to drink element, that's lmnt.com slash Huberman,
+
+07:59.920 --> 08:01.940
+ and you'll get a free sample pack with your order.
+
+08:01.940 --> 08:05.300
+ Again, that's drinklmnt.com slash Huberman
+
+08:05.300 --> 08:07.400
+ to get a free sample pack with your order.
+
+08:07.400 --> 08:10.760
+ And now for my discussion with Dr. David Anderson.
+
+08:10.760 --> 08:11.840
+ David, great to be here
+
+08:11.840 --> 08:14.120
+ and great to finally sit down and chat with you.
+
+08:14.120 --> 08:14.960
+ Great to be here too.
+
+08:14.960 --> 08:16.000
+ Thank you so much.
+
+08:16.000 --> 08:17.420
+ Yeah, I have a ton of questions,
+
+08:17.420 --> 08:20.280
+ but I want to start with something fairly basic,
+
+08:20.280 --> 08:23.640
+ but that I'm aware is a pretty vast landscape.
+
+08:23.640 --> 08:27.680
+ And that's the difference between emotions and states,
+
+08:27.680 --> 08:28.960
+ if indeed there is a difference,
+
+08:28.960 --> 08:31.880
+ and how we should think about emotions.
+
+08:31.880 --> 08:33.560
+ What are they?
+
+08:33.560 --> 08:37.200
+ They have all these names, happiness, sadness, depression,
+
+08:37.200 --> 08:38.740
+ anger, rage.
+
+08:38.740 --> 08:39.960
+ How should we think about them?
+
+08:39.960 --> 08:44.520
+ And why might states be at least as useful
+
+08:44.520 --> 08:46.960
+ a thing to think about, if not more useful?
+
+08:46.960 --> 08:48.400
+ That's great.
+
+08:48.400 --> 08:50.400
+ First, the short answer to your question
+
+08:50.400 --> 08:55.400
+ is that I see emotions as a type of internal state,
+
+08:55.480 --> 08:59.200
+ in the sense that arousal is also a type of internal state,
+
+08:59.200 --> 09:01.320
+ motivation's a type of internal state,
+
+09:01.320 --> 09:04.240
+ sleep is a type of internal state.
+
+09:04.240 --> 09:08.480
+ And the sort of simplest way I think of internal states
+
+09:08.480 --> 09:10.500
+ is that, as you've shown in your own work,
+
+09:10.500 --> 09:15.360
+ they change the input to output transformation of the brain.
+
+09:15.360 --> 09:18.240
+ When you're asleep, you don't hear something
+
+09:18.240 --> 09:20.120
+ that you would hear if you were awake,
+
+09:20.120 --> 09:22.240
+ unless it's a really, really loud noise.
+
+09:22.240 --> 09:25.040
+ So from that broad perspective,
+
+09:25.040 --> 09:30.040
+ I see emotion as a class of state that controls behavior.
+
+09:30.220 --> 09:33.800
+ The reason I think it's useful to think about it as a state
+
+09:33.800 --> 09:38.800
+ is it puts the focus on it as a neurobiological process,
+
+09:39.320 --> 09:42.600
+ rather than as a psychological process.
+
+09:42.600 --> 09:46.480
+ And this gets around all of the definitional problems
+
+09:46.480 --> 09:49.560
+ that people have with the word emotion,
+
+09:49.560 --> 09:53.440
+ where many people equate emotion with feeling,
+
+09:53.440 --> 09:58.440
+ which is a subjective sense that we can only study in humans
+
+09:59.040 --> 10:01.720
+ because to find out what someone's feeling,
+
+10:01.720 --> 10:04.880
+ you have to ask them, and people are the only animals
+
+10:04.880 --> 10:07.280
+ that can talk that we can understand.
+
+10:07.280 --> 10:10.560
+ So that's how I think about emotion.
+
+10:10.560 --> 10:13.420
+ It's the, if you think of an iceberg,
+
+10:13.420 --> 10:15.600
+ it's the heart of the iceberg
+
+10:15.600 --> 10:18.080
+ that's below the surface of the water.
+
+10:18.080 --> 10:21.320
+ The feeling part is the tip that's sort of floating
+
+10:21.320 --> 10:23.720
+ above the surface of your consciousness.
+
+10:23.720 --> 10:25.780
+ Not that that isn't important, it is,
+
+10:25.780 --> 10:28.300
+ but you have to understand consciousness
+
+10:28.300 --> 10:30.400
+ if you wanna understand feelings,
+
+10:30.400 --> 10:33.840
+ and we're not ready to study that in animals yet.
+
+10:33.840 --> 10:36.480
+ And so that's how I think about it.
+
+10:36.480 --> 10:39.120
+ What are the different components of a state?
+
+10:40.160 --> 10:43.620
+ You know, you mentioned arousal as a key component.
+
+10:43.620 --> 10:45.840
+ What are some of the other features of states
+
+10:45.840 --> 10:50.280
+ that represent this, as you so beautifully put in your book,
+
+10:50.280 --> 10:52.320
+ that represent below the tip of the iceberg?
+
+10:52.320 --> 10:53.280
+ Right, right.
+
+10:53.280 --> 10:58.280
+ So you can break states up
+
+10:58.280 --> 11:03.280
+ into different facets, or people would call them dimensions.
+
+11:03.880 --> 11:08.280
+ And so there have been people who've thought of emotions
+
+11:08.280 --> 11:11.080
+ as having just really two dimensions,
+
+11:11.080 --> 11:16.080
+ an arousal dimension, how intense is it,
+
+11:16.720 --> 11:19.960
+ and also a valence dimension,
+
+11:19.960 --> 11:24.160
+ which is, is it positive or negative, good or bad?
+
+11:24.160 --> 11:28.360
+ Ralph Adolphs and I have tried to expand that a little bit
+
+11:28.360 --> 11:31.040
+ to think about components of emotion,
+
+11:31.040 --> 11:34.120
+ particularly those that distinguish emotion states
+
+11:34.120 --> 11:36.120
+ from motivational states,
+
+11:36.120 --> 11:38.620
+ because they are very closely related.
+
+11:39.640 --> 11:43.600
+ One of those important properties is persistence.
+
+11:43.600 --> 11:46.540
+ And this is something that distinguishes
+
+11:46.540 --> 11:50.360
+ state-driven behaviors from simple reflexes.
+
+11:50.360 --> 11:55.360
+ Reflexes tend to terminate when the stimulus turns off,
+
+11:55.800 --> 11:58.480
+ like the doctor hitting your knee with a hammer.
+
+11:58.480 --> 12:00.920
+ It initiates with the stimulus onset,
+
+12:00.920 --> 12:03.700
+ and it terminates with the stimulus offset.
+
+12:03.700 --> 12:06.240
+ Emotions tend to outlast, often,
+
+12:06.240 --> 12:08.400
+ the stimulus that evoke them.
+
+12:08.400 --> 12:12.540
+ If you're walking along a trail here in Southern California,
+
+12:12.540 --> 12:15.200
+ you hear a rattlesnake rattling.
+
+12:15.200 --> 12:16.940
+ You're gonna jump in the air,
+
+12:16.940 --> 12:19.280
+ but your heart is gonna continue to beat,
+
+12:19.280 --> 12:20.760
+ and your palms sweat,
+
+12:20.760 --> 12:23.320
+ and your mouth is gonna be dry for a while
+
+12:23.320 --> 12:25.480
+ after it's slithered off in the bush,
+
+12:25.480 --> 12:27.240
+ and you're gonna be hypervigilant.
+
+12:27.240 --> 12:29.520
+ If you see something that even remotely
+
+12:29.520 --> 12:33.520
+ looks snake-like, a stick, you're gonna stop and jump.
+
+12:33.520 --> 12:38.520
+ So persistence is an important feature of emotion states.
+
+12:39.520 --> 12:42.480
+ Not all states have persistence.
+
+12:42.480 --> 12:45.420
+ So for example, you think about hunger.
+
+12:45.420 --> 12:48.480
+ Once you've eaten, the state is gone.
+
+12:48.480 --> 12:50.120
+ You're not hungry anymore.
+
+12:50.120 --> 12:52.380
+ But if you're really angry,
+
+12:52.380 --> 12:54.280
+ and you get into a fight with somebody,
+
+12:54.280 --> 12:56.120
+ even after the fight is over,
+
+12:56.120 --> 13:00.080
+ you may remain riled up for a long time,
+
+13:00.080 --> 13:02.440
+ and it takes you a while to calm down.
+
+13:02.440 --> 13:05.360
+ And that may have to do with the arousal dimension
+
+13:05.360 --> 13:06.680
+ or some other part of it.
+
+13:07.520 --> 13:11.920
+ And then generalization is an important component
+
+13:11.920 --> 13:16.920
+ of emotion states that make them,
+
+13:16.920 --> 13:21.380
+ if they have been triggered in one situation,
+
+13:21.380 --> 13:24.400
+ they can apply to another situation.
+
+13:24.400 --> 13:28.120
+ And my favorite example of that is you come home from work
+
+13:28.120 --> 13:30.020
+ and your kid is screaming.
+
+13:30.020 --> 13:31.600
+ If you had a good day at work,
+
+13:31.600 --> 13:34.040
+ you might pick it up and soothe it.
+
+13:34.040 --> 13:35.960
+ And if you had a bad day at work,
+
+13:35.960 --> 13:39.280
+ you might react very differently to it and scream at it.
+
+13:39.280 --> 13:42.280
+ And so that's a generalization of the state
+
+13:42.280 --> 13:45.520
+ that was triggered at work by something your boss said
+
+13:45.520 --> 13:48.920
+ to you to a completely different interaction.
+
+13:48.920 --> 13:51.480
+ And again, that's something that distinguishes
+
+13:51.480 --> 13:54.460
+ emotion states from motivation states.
+
+13:54.460 --> 13:57.240
+ Motivation states are really specific.
+
+13:57.240 --> 14:02.240
+ Find and eat food, obtain and consume water.
+
+14:02.440 --> 14:06.960
+ And they're involved in homeostatic maintenance.
+
+14:06.960 --> 14:11.920
+ So states are very multifaceted,
+
+14:11.920 --> 14:16.920
+ and just asking questions about how these components
+
+14:17.840 --> 14:22.640
+ of states are encoded, like what makes a state persist?
+
+14:22.640 --> 14:26.320
+ What gives a state a positive or a negative valence?
+
+14:26.320 --> 14:30.240
+ How do you crank up or crank down the intensity of the state?
+
+14:30.240 --> 14:32.860
+ It just opens up a whole bunch of questions
+
+14:32.860 --> 14:35.120
+ that you can ask in the brain
+
+14:35.120 --> 14:37.160
+ with the kinds of tools we have now.
+
+14:38.480 --> 14:40.100
+ You mentioned arousal a few times,
+
+14:40.100 --> 14:42.040
+ and you mentioned valence.
+
+14:42.040 --> 14:45.640
+ Realizing that there are these other aspects of states,
+
+14:45.640 --> 14:47.820
+ I'd like to just talk about arousal a little bit more
+
+14:47.820 --> 14:50.240
+ and valence, because at a very basic level,
+
+14:50.240 --> 14:52.400
+ it seems to me that arousal,
+
+14:52.400 --> 14:55.920
+ we can be very alert and pissed off,
+
+14:55.920 --> 15:00.920
+ stressed, worried, you have insomnia.
+
+15:01.140 --> 15:03.480
+ We can also be very alert and be quite happy.
+
+15:03.480 --> 15:05.940
+ So the valence flips.
+
+15:05.940 --> 15:08.320
+ We could be very, people can be sexually aroused.
+
+15:08.320 --> 15:11.240
+ People can be aroused in all sorts of ways.
+
+15:11.240 --> 15:16.240
+ Is there any simple or simple-ish neurochemical signature
+
+15:16.480 --> 15:18.000
+ that can flip valence?
+
+15:18.000 --> 15:20.840
+ So for instance, is there any way that we can safely say
+
+15:20.840 --> 15:25.720
+ that arousal with some additional dopamine release
+
+15:25.720 --> 15:28.240
+ is going to be of positive valence,
+
+15:28.240 --> 15:31.640
+ and arousal with very low dopamine
+
+15:31.640 --> 15:33.860
+ is going to be of negative valence?
+
+15:33.860 --> 15:38.860
+ I would be reluctant to say that it's a chemical flip.
+
+15:39.340 --> 15:43.260
+ I would say it's more likely to be a circuit flip,
+
+15:43.260 --> 15:45.060
+ different circuits being engaged,
+
+15:45.060 --> 15:49.000
+ and it might be that a given neurochemical, even dopamine,
+
+15:49.000 --> 15:52.660
+ is involved in both positively valenced arousal
+
+15:52.660 --> 15:55.060
+ and negatively valenced arousal.
+
+15:55.060 --> 15:59.300
+ That's why people think about these as different axes.
+
+15:59.300 --> 16:04.300
+ So I think the interesting question that you touch on is,
+
+16:04.600 --> 16:08.000
+ is arousal something that is just completely generic
+
+16:08.000 --> 16:11.500
+ in the brain, or are there actually different kinds
+
+16:11.500 --> 16:15.340
+ of arousal that are specific to different behaviors?
+
+16:15.340 --> 16:16.460
+ And you raise the question,
+
+16:16.460 --> 16:20.320
+ sexual arousal feels different from aggressive arousal,
+
+16:20.320 --> 16:21.540
+ for example.
+
+16:21.540 --> 16:26.100
+ And we actually published a paper on this back in 2009
+
+16:26.100 --> 16:29.980
+ in Fruit Flies, where we found some evidence
+
+16:29.980 --> 16:32.860
+ for two types of arousal states,
+
+16:32.860 --> 16:35.680
+ one of which is sleep-wake arousal.
+
+16:35.680 --> 16:37.400
+ You're more aroused when you wake up
+
+16:37.400 --> 16:39.900
+ than when you're asleep, and flies show that.
+
+16:39.900 --> 16:44.900
+ And the other is a startle response, an arousal response,
+
+16:45.220 --> 16:48.820
+ to a mechanical stimulus, a noxious mechanical stimulus.
+
+16:48.820 --> 16:50.780
+ If you puff air on flies,
+
+16:50.780 --> 16:53.540
+ kind of like trying to swat the wasp away
+
+16:53.540 --> 16:55.640
+ from your burger at the picnic table,
+
+16:55.640 --> 16:58.700
+ they come back more and more and more vigorously.
+
+16:58.700 --> 17:01.820
+ And we were able to dissect this and show
+
+17:01.820 --> 17:05.220
+ that although both of those forms of arousal
+
+17:05.220 --> 17:09.340
+ require dopamine, they were exerted
+
+17:09.340 --> 17:13.500
+ through completely separable neural circuits in the fly.
+
+17:13.500 --> 17:17.220
+ And so that really put, number one, the emphasis on,
+
+17:17.220 --> 17:20.660
+ it's the circuit that determines the type of arousal,
+
+17:20.660 --> 17:24.140
+ but also that arousal isn't unitary,
+
+17:24.140 --> 17:27.420
+ that there are behavior-specific forms of arousal.
+
+17:27.420 --> 17:29.820
+ And I think the jury is still out
+
+17:29.820 --> 17:32.380
+ as to whether there is such a thing
+
+17:32.380 --> 17:35.820
+ as completely generalized arousal or not.
+
+17:35.820 --> 17:38.460
+ I think some people would argue there is,
+
+17:38.460 --> 17:40.920
+ but I think more attention needs to be paid
+
+17:40.920 --> 17:43.820
+ to this question of domain-specific
+
+17:43.820 --> 17:46.660
+ or behavior-specific forms of arousal.
+
+17:46.660 --> 17:48.220
+ Yeah, it's a super interesting idea,
+
+17:48.220 --> 17:50.260
+ because I always thought of arousal as along a continuum,
+
+17:50.260 --> 17:52.060
+ like you can either be in a panic attack
+
+17:52.060 --> 17:54.300
+ at the one end of the extreme, or you can be in a coma,
+
+17:54.300 --> 17:56.740
+ and then somewhere in the middle, you're alert and calm.
+
+17:56.740 --> 18:00.580
+ But then this issue of valence really, as you say,
+
+18:00.580 --> 18:02.100
+ presents this opportunity that really
+
+18:02.100 --> 18:05.100
+ there might be multiple circuits for arousal
+
+18:05.100 --> 18:08.940
+ or multiple mechanisms that would include neurochemicals
+
+18:08.940 --> 18:11.260
+ as well as different neural pathways.
+
+18:11.260 --> 18:15.140
+ So I'd like to talk a bit about a state,
+
+18:15.140 --> 18:18.100
+ if it is indeed a state, which is aggression.
+
+18:18.100 --> 18:20.520
+ Your lab's worked extensively on this.
+
+18:20.520 --> 18:22.940
+ And if you would, could you highlight
+
+18:22.940 --> 18:25.060
+ some of the key findings there,
+
+18:25.060 --> 18:27.580
+ which brain areas that are involved,
+
+18:27.580 --> 18:30.340
+ the beautiful work of Dai-Yu Lin and others in your lab,
+
+18:32.060 --> 18:35.380
+ that point to the idea that indeed there are
+
+18:35.380 --> 18:37.180
+ kind of switches in the brain,
+
+18:37.180 --> 18:40.280
+ but that thinking of switches for aggression
+
+18:40.280 --> 18:42.580
+ might be too simple.
+
+18:42.580 --> 18:44.400
+ How should we think about aggression?
+
+18:44.400 --> 18:48.000
+ And I'll just sort of skew the question a bit more
+
+18:48.000 --> 18:51.700
+ by saying we see lots of different kinds of aggression,
+
+18:51.700 --> 18:56.360
+ this terrible school shooting down in Texas recently,
+
+18:56.360 --> 18:58.320
+ clearly an act that included aggression,
+
+18:58.320 --> 19:00.180
+ and yet you could imagine
+
+19:00.180 --> 19:01.380
+ that's a very different type of aggression
+
+19:01.380 --> 19:05.540
+ than an all-out rage or a controlled aggression.
+
+19:05.540 --> 19:06.700
+ There's a lot of variation there.
+
+19:06.700 --> 19:09.060
+ So what are your thoughts on aggression,
+
+19:09.060 --> 19:11.000
+ how it's generated the neural circuit mechanisms,
+
+19:11.000 --> 19:13.840
+ and some of the variation in what we call aggression?
+
+19:13.840 --> 19:17.700
+ Yeah, this is a great question, and it's a large area.
+
+19:17.700 --> 19:20.400
+ I would say that the, first of all,
+
+19:21.340 --> 19:24.780
+ the word aggression in my mind
+
+19:24.780 --> 19:28.340
+ refers more to a description of behavior
+
+19:28.340 --> 19:31.300
+ than it does to an internal state.
+
+19:32.380 --> 19:35.300
+ Aggression could reflect an internal state
+
+19:35.300 --> 19:38.280
+ that we would call anger in humans,
+
+19:38.280 --> 19:43.140
+ or could reflect fear, or it could reflect hunger
+
+19:43.140 --> 19:45.140
+ if it's predatory aggression.
+
+19:45.140 --> 19:47.700
+ And so this gets at the issue that you raised
+
+19:47.700 --> 19:51.420
+ of the different types of aggression that exist.
+
+19:51.420 --> 19:55.740
+ The work that Dayu did when she was in my lab
+
+19:55.740 --> 19:58.740
+ that really broke open the field
+
+19:58.740 --> 20:01.780
+ to the application of modern genetic tools
+
+20:01.780 --> 20:04.020
+ for studying circuits in mice
+
+20:04.020 --> 20:09.020
+ is that she found a way to evoke aggression in mice
+
+20:09.020 --> 20:14.020
+ using optogenetics to activate specific neurons
+
+20:15.460 --> 20:18.340
+ in a region of the hypothalamus,
+
+20:18.340 --> 20:21.340
+ the ventromedial hypothalamus, VMH,
+
+20:21.340 --> 20:26.340
+ which people had been studying and looking at for decades,
+
+20:27.460 --> 20:32.380
+ following first the work in Katz,
+
+20:32.380 --> 20:36.500
+ the famous Nobel Prize winning work of Walter Hess,
+
+20:36.500 --> 20:40.100
+ and then followed by work done by Meno Crook
+
+20:40.100 --> 20:42.620
+ in the Netherlands in rats
+
+20:42.620 --> 20:46.980
+ where they would stick electrical wires into the brain
+
+20:46.980 --> 20:49.760
+ and send electric currents into the brain,
+
+20:49.760 --> 20:52.860
+ and they could trigger a placid cat
+
+20:52.860 --> 20:56.080
+ to suddenly bare its teeth, hiss,
+
+20:56.080 --> 20:58.520
+ and almost strike out at the experimenter,
+
+20:59.420 --> 21:03.500
+ and they could trigger rats to fight with each other.
+
+21:03.500 --> 21:07.220
+ And even in Hess's original experiments,
+
+21:07.220 --> 21:10.020
+ he describes two types of aggression
+
+21:10.020 --> 21:11.940
+ that he evokes from Katz
+
+21:11.940 --> 21:14.700
+ depending on where in the hypothalamus
+
+21:14.700 --> 21:16.860
+ he puts his electrode,
+
+21:16.860 --> 21:20.060
+ one of which he calls defensive rage,
+
+21:20.060 --> 21:24.380
+ that's the ears laid back, teeth bared and hissing,
+
+21:24.380 --> 21:27.560
+ and the other one is predatory aggression
+
+21:27.560 --> 21:30.660
+ where the cat has its ears forward
+
+21:30.660 --> 21:34.420
+ and it's like batting with its paw at a mouse-like object
+
+21:34.420 --> 21:36.800
+ like it wants to catch it and eat it.
+
+21:36.800 --> 21:40.740
+ So he already had at that stage some information
+
+21:40.740 --> 21:42.820
+ about segregation in the brain
+
+21:42.820 --> 21:44.780
+ of different forms of aggression.
+
+21:44.780 --> 21:48.260
+ So fast forward to 2008, 2009
+
+21:53.000 --> 21:54.780
+ when Dayu came to the lab
+
+21:54.780 --> 21:58.180
+ and we had started working on aggression in fruit flies
+
+21:58.180 --> 22:00.860
+ and I wanted to bring it into mice
+
+22:00.860 --> 22:03.260
+ so that we could apply genetic tools.
+
+22:03.260 --> 22:05.480
+ And we started by having Dayu,
+
+22:05.480 --> 22:08.180
+ who was an electrophysiologist,
+
+22:08.180 --> 22:11.780
+ just repeat the electrical stimulation
+
+22:11.780 --> 22:15.260
+ of the ventromedial hypothalamus in the mouse,
+
+22:15.260 --> 22:19.340
+ just like people had done in rats, in cats, in hamsters,
+
+22:19.340 --> 22:20.460
+ even in monkeys.
+
+22:20.460 --> 22:23.580
+ And she could not get that experiment to work
+
+22:23.580 --> 22:26.420
+ over 40 different trials.
+
+22:26.420 --> 22:27.540
+ It just didn't work.
+
+22:27.540 --> 22:31.140
+ What she got instead was fear behaviors.
+
+22:31.140 --> 22:35.800
+ She got freezing, cornering, and crouching.
+
+22:35.800 --> 22:39.100
+ And finally in desperation,
+
+22:39.100 --> 22:41.820
+ and we got a lot of input from Meno Crook on this,
+
+22:41.820 --> 22:43.100
+ he really was mystified.
+
+22:43.100 --> 22:44.860
+ Why doesn't it work in mice?
+
+22:44.860 --> 22:47.720
+ We realized why there had been no paper
+
+22:47.720 --> 22:52.460
+ on brain stimulated aggression in mice in 50 years
+
+22:52.460 --> 22:54.900
+ because the experiment doesn't work.
+
+22:54.900 --> 22:59.220
+ And the one bit of credit I can claim there
+
+22:59.220 --> 23:03.320
+ is I convinced Dayu to try optogenetics
+
+23:03.320 --> 23:08.320
+ because it just had sort of come into use deep in the brain
+
+23:09.800 --> 23:12.120
+ from Carl Deiss-Roth and others' work.
+
+23:13.160 --> 23:16.180
+ And I thought maybe because it could be directed
+
+23:16.180 --> 23:19.400
+ more specifically to a region of the brain
+
+23:19.400 --> 23:22.580
+ and types of cells and optogenetic stimulation,
+
+23:22.580 --> 23:24.700
+ than electrical stimulation,
+
+23:24.700 --> 23:25.540
+ it might work.
+
+23:25.540 --> 23:27.880
+ And Dayu said, never, never gonna work.
+
+23:27.880 --> 23:29.620
+ If it doesn't work with electricity,
+
+23:29.620 --> 23:32.700
+ why should it work with optogenetics?
+
+23:32.700 --> 23:35.480
+ And the fact is that it did work
+
+23:35.480 --> 23:40.140
+ and we were able to trigger aggression in this region
+
+23:40.140 --> 23:44.020
+ using optogenetic stimulation of ventromedial hypothalamus.
+
+23:44.020 --> 23:46.620
+ And in retrospect, I think the reason
+
+23:46.620 --> 23:50.320
+ that we were seeing all these fear behaviors
+
+23:50.320 --> 23:53.780
+ is because right at the upper part,
+
+23:53.780 --> 23:56.740
+ if you think of ventromedial hypothalamus
+
+23:56.740 --> 23:59.300
+ like a pear sitting on the ground,
+
+23:59.300 --> 24:02.000
+ the fat part of the pear near the ground
+
+24:02.000 --> 24:03.880
+ is where the aggression neurons are,
+
+24:03.880 --> 24:07.520
+ but the upper part of the pear has fear neurons.
+
+24:07.520 --> 24:11.120
+ And it could be because it's so small in a mouse,
+
+24:11.120 --> 24:15.160
+ when you inject electrical current anywhere in the pear,
+
+24:15.160 --> 24:17.680
+ it flows up through the entire pear
+
+24:17.680 --> 24:19.780
+ and it activates the fear circuits
+
+24:19.780 --> 24:22.800
+ and those totally dominate aggression.
+
+24:22.800 --> 24:25.540
+ And so that's why we were never able to see
+
+24:25.540 --> 24:28.020
+ any fighting with electrical stimulation.
+
+24:28.020 --> 24:29.740
+ Whereas when you use optogenetics,
+
+24:29.740 --> 24:34.100
+ you confine the stimulation just to the region
+
+24:34.100 --> 24:38.500
+ where you've implanted the channelrhodopsin gene
+
+24:38.500 --> 24:39.960
+ into those neurons.
+
+24:41.180 --> 24:43.600
+ And so fast forward from that,
+
+24:43.600 --> 24:47.820
+ from a lot of work from Dayu now on her own at NYU
+
+24:47.820 --> 24:51.020
+ and with her postdoc, Anna-Gret Faulkner,
+
+24:51.020 --> 24:53.580
+ there's, as well as work of other people,
+
+24:53.580 --> 24:57.380
+ there's evidence that the type of fighting
+
+24:57.380 --> 25:01.820
+ that we elicit when we stimulate VMH
+
+25:01.820 --> 25:06.820
+ is offensive aggression that is actually rewarding
+
+25:06.900 --> 25:08.380
+ to male mice. They like it.
+
+25:08.380 --> 25:09.300
+ They like it.
+
+25:09.300 --> 25:13.260
+ Male mice will press, learn to poke their nose
+
+25:13.260 --> 25:16.380
+ or press a bar to get the opportunity
+
+25:16.380 --> 25:20.020
+ to beat up a subordinate male mouse.
+
+25:20.020 --> 25:22.260
+ And in more recent experiments,
+
+25:22.260 --> 25:25.940
+ if you activate those neurons and the mouse has a chance
+
+25:25.940 --> 25:29.100
+ to be in one of two compartments in a box,
+
+25:29.100 --> 25:31.260
+ they will gravitate towards the compartment
+
+25:31.260 --> 25:33.460
+ where those neurons are activated.
+
+25:33.460 --> 25:35.980
+ It has a positive valence.
+
+25:35.980 --> 25:38.460
+ And when I went into this field and I was thinking,
+
+25:38.460 --> 25:43.460
+ well, what goes on in my brain and my body when I'm furious?
+
+25:43.580 --> 25:47.500
+ It certainly doesn't feel like a rewarding experience.
+
+25:47.500 --> 25:50.180
+ It's not something that I would want to repeat
+
+25:50.180 --> 25:52.640
+ because it feels good when I'm in that state.
+
+25:52.640 --> 25:55.580
+ It doesn't feel good at all when I'm in that state.
+
+25:55.580 --> 25:59.300
+ And it is still, I think, a mystery
+
+25:59.300 --> 26:01.300
+ as to where that type of aggression,
+
+26:01.300 --> 26:03.840
+ which is more defensive aggression,
+
+26:03.840 --> 26:07.100
+ the kind of aggression you feel if you're being attacked
+
+26:07.100 --> 26:10.020
+ or if you've been cheated by somebody,
+
+26:10.020 --> 26:14.780
+ where that is encoded in the brain and how that works still,
+
+26:14.780 --> 26:17.460
+ I think, is a very important mystery
+
+26:17.460 --> 26:18.980
+ that we haven't solved.
+
+26:18.980 --> 26:22.260
+ And predatory aggression there has been some progress on.
+
+26:22.260 --> 26:24.540
+ So mice show predatory aggression.
+
+26:24.540 --> 26:27.260
+ They use that to catch crickets that they eat,
+
+26:27.260 --> 26:29.780
+ and that involves different circuits
+
+26:29.780 --> 26:32.780
+ than the ventromedial hypothalamic circuits.
+
+26:32.780 --> 26:36.700
+ So it's become clear that if you want to call it
+
+26:36.700 --> 26:41.700
+ the state of aggressiveness is multifaceted.
+
+26:41.860 --> 26:44.580
+ It depends on the type of aggression,
+
+26:44.580 --> 26:47.820
+ and it involves different sorts of circuits.
+
+26:47.820 --> 26:50.360
+ There is, there's a paper suggesting
+
+26:50.360 --> 26:54.740
+ that there might be a final common pathway
+
+26:54.740 --> 26:57.780
+ for all aggression in a region,
+
+26:57.780 --> 26:59.220
+ which is one of my favorites.
+
+26:59.220 --> 27:01.820
+ It's called the substantia in naminata,
+
+27:01.820 --> 27:03.780
+ the substance with no name.
+
+27:03.780 --> 27:04.620
+ You know, I like-
+
+27:04.620 --> 27:06.340
+ Anatomists are so creative.
+
+27:06.340 --> 27:10.260
+ Or the nucleus ambiguous, you know, or the zona inserta.
+
+27:10.260 --> 27:13.140
+ These are places that no one can think of what they are.
+
+27:13.140 --> 27:16.080
+ Anyhow, that might be a final common pathway
+
+27:16.080 --> 27:18.820
+ for predatory aggression and offensive
+
+27:18.820 --> 27:20.460
+ and defensive aggression.
+
+27:20.460 --> 27:22.620
+ But it can be really hard to tell
+
+27:22.620 --> 27:25.500
+ just from looking at a mouse fight,
+
+27:25.500 --> 27:29.660
+ whether it's engaged in offensive or defensive aggression.
+
+27:29.660 --> 27:31.480
+ We've tried to take that apart
+
+27:31.480 --> 27:34.620
+ using machine learning analysis of behavior.
+
+27:34.620 --> 27:37.940
+ But in rats, for example, it's much clearer
+
+27:37.940 --> 27:40.100
+ when the animal is engaged in offensive
+
+27:40.100 --> 27:41.860
+ versus defensive aggression.
+
+27:41.860 --> 27:44.660
+ They direct their bites at different parts
+
+27:44.660 --> 27:46.080
+ of the opponent's body.
+
+27:46.080 --> 27:46.920
+ In particular-
+
+27:46.920 --> 27:51.240
+ Neck versus, offensive aggression is flank directed.
+
+27:51.240 --> 27:53.880
+ Defensive aggression goes for the neck,
+
+27:53.880 --> 27:55.200
+ goes for the throat.
+
+27:55.200 --> 27:56.500
+ I've seen some nature specials
+
+27:56.500 --> 27:59.860
+ where in a very barbaric way, at least to me,
+
+27:59.860 --> 28:02.700
+ it seems like hyenas will try and go after
+
+28:02.700 --> 28:05.200
+ the reproductive axis.
+
+28:05.200 --> 28:07.420
+ They'll go after testicles and penis.
+
+28:07.420 --> 28:08.860
+ And they basically want to,
+
+28:08.860 --> 28:12.500
+ it seems they want to limit future breeding potential.
+
+28:12.500 --> 28:13.740
+ Or create pain.
+
+28:13.740 --> 28:15.700
+ Or create pain or both.
+
+28:15.700 --> 28:18.820
+ Yeah, I mean, in terms of offensive aggression
+
+28:18.820 --> 28:23.220
+ and your reflection that it doesn't feel good,
+
+28:23.220 --> 28:24.500
+ I mean, I can say,
+
+28:24.500 --> 28:27.080
+ I know some people who really enjoy fighting.
+
+28:28.100 --> 28:29.460
+ I have a relative who is a lawyer.
+
+28:29.460 --> 28:32.160
+ He loves to argue and fight.
+
+28:32.160 --> 28:34.740
+ I don't think of him as physically aggressive.
+
+28:34.740 --> 28:35.580
+ In fact, he's not,
+
+28:35.580 --> 28:38.580
+ but loves to fight and loves to prosecute
+
+28:38.580 --> 28:41.380
+ and go after people and he's pretty effective at it.
+
+28:41.380 --> 28:44.500
+ I have a friend, former military special operations
+
+28:44.500 --> 28:46.260
+ and very calm guy,
+
+28:46.260 --> 28:49.780
+ had a great career in military special operations.
+
+28:49.780 --> 28:52.700
+ And he'll quite plainly say, I love to fight.
+
+28:52.700 --> 28:54.380
+ It's one of my great joys.
+
+28:54.380 --> 28:55.860
+ He really enjoyed his work.
+
+28:56.980 --> 28:58.840
+ And also respected the other side
+
+28:58.840 --> 29:01.820
+ because they offered the opportunity to test that
+
+29:01.820 --> 29:03.060
+ and to experience that joy.
+
+29:03.060 --> 29:04.980
+ So in a kind of bizarre way to somebody like me
+
+29:04.980 --> 29:08.740
+ who I'll certainly defend my stance if I need to,
+
+29:08.740 --> 29:10.860
+ but I certainly don't consider myself
+
+29:10.860 --> 29:12.960
+ somebody who offensively goes after people
+
+29:12.960 --> 29:13.800
+ just to go after them.
+
+29:13.800 --> 29:17.260
+ There's no quote unquote dopamine hit here,
+
+29:17.260 --> 29:19.880
+ acknowledging that dopamine does many things, of course.
+
+29:19.880 --> 29:21.300
+ I have a couple of questions
+
+29:21.300 --> 29:24.020
+ about the way you describe the circuitry.
+
+29:24.020 --> 29:26.880
+ I should say the way the circuitry is arranged.
+
+29:26.880 --> 29:28.020
+ And of course we don't know
+
+29:28.020 --> 29:31.580
+ because we weren't consulted at the design phase,
+
+29:31.580 --> 29:35.900
+ but why do you think there would be such a close positioning
+
+29:35.900 --> 29:38.220
+ of neurons that can elicit
+
+29:38.220 --> 29:41.260
+ such divergent states and behaviors?
+
+29:41.260 --> 29:43.540
+ I mean, you're talking about this pear shaped structure
+
+29:43.540 --> 29:46.060
+ where the neurons that generate fear
+
+29:46.060 --> 29:48.300
+ are cheek to jowl with the neurons
+
+29:48.300 --> 29:51.660
+ that generate offensive aggression of all things.
+
+29:51.660 --> 29:55.900
+ It's like putting the neurons that control swallowing
+
+29:55.900 --> 29:57.980
+ next to the neurons that control vomiting.
+
+29:57.980 --> 30:00.820
+ It just seems to me that on the one hand,
+
+30:00.820 --> 30:03.060
+ this is the way that neural circuits are often arranged.
+
+30:03.060 --> 30:04.620
+ And yet to me, it's always been perplexing
+
+30:04.620 --> 30:06.300
+ as to why this would be the case.
+
+30:06.300 --> 30:10.200
+ Yeah, I think that is a very profound question.
+
+30:10.200 --> 30:14.180
+ And I've wondered about that a lot.
+
+30:15.260 --> 30:19.120
+ If you think from an evolutionary perspective,
+
+30:20.320 --> 30:25.060
+ it might have been the case that defensive behaviors
+
+30:25.060 --> 30:30.060
+ and fear arose before offensive aggression,
+
+30:31.580 --> 30:33.840
+ because animals first and foremost
+
+30:33.840 --> 30:38.200
+ have to defend themselves from predation by other animals.
+
+30:38.200 --> 30:41.280
+ And maybe it's only when they're comfortable
+
+30:41.280 --> 30:45.300
+ with having warded off predation and made themselves safe
+
+30:45.300 --> 30:47.920
+ that they can start to think about
+
+30:47.920 --> 30:51.900
+ who's gonna be the alpha male in my group here.
+
+30:51.900 --> 30:56.420
+ And so it could be that if you think that brain regions
+
+30:56.420 --> 31:00.260
+ and cell populations evolved by duplication
+
+31:00.260 --> 31:05.260
+ and modification of preexisting cell populations,
+
+31:05.460 --> 31:08.700
+ that might be the way that those regions
+
+31:08.700 --> 31:10.760
+ wound up next to each other.
+
+31:11.640 --> 31:14.340
+ And developmentally, they start out
+
+31:14.340 --> 31:16.780
+ from a common pool of precursors
+
+31:16.780 --> 31:18.580
+ that expresses the same gene,
+
+31:18.580 --> 31:21.300
+ the fear neurons and the aggression neurons.
+
+31:21.300 --> 31:22.580
+ And then with development,
+
+31:22.580 --> 31:24.980
+ it gets shut off in the aggression neurons
+
+31:24.980 --> 31:27.660
+ and maintained in the fear neurons.
+
+31:27.660 --> 31:31.020
+ Now that view says, oh, it's an accident
+
+31:31.020 --> 31:32.700
+ of evolution and development,
+
+31:32.700 --> 31:36.180
+ but I think there must be a functional part as well.
+
+31:36.180 --> 31:38.900
+ So one thing we know about offensive aggression
+
+31:38.900 --> 31:42.540
+ is that strong fear shuts it down.
+
+31:42.540 --> 31:46.180
+ Whereas defensive aggression, at least in rats,
+
+31:46.180 --> 31:48.780
+ is actually enhanced by fear.
+
+31:48.780 --> 31:52.700
+ It's one of the big differences between defensive aggression
+
+31:52.700 --> 31:54.300
+ and offensive aggression.
+
+31:54.300 --> 31:55.980
+ And you think about it, if you think about it,
+
+31:55.980 --> 31:59.300
+ if offensive aggression is rewarding and pleasurable,
+
+31:59.300 --> 32:01.680
+ if you start to get really scared,
+
+32:01.680 --> 32:03.780
+ that tends to take the fun out of it.
+
+32:03.780 --> 32:07.140
+ And maybe these two regions are close to each other
+
+32:07.140 --> 32:12.140
+ to facilitate inhibition of aggression by the fear neurons.
+
+32:13.380 --> 32:16.600
+ We know for a fact that if we deliberately stimulate
+
+32:16.600 --> 32:19.380
+ those fear neurons at the top of the pair,
+
+32:19.380 --> 32:21.500
+ when two animals are involved in a fight,
+
+32:21.500 --> 32:24.300
+ it just stops the fight dead in its tracks
+
+32:24.300 --> 32:27.020
+ and they go off into the corner and freeze.
+
+32:27.020 --> 32:29.080
+ So at least hierarchically,
+
+32:29.080 --> 32:32.560
+ it seems like fear is the dominant behavior
+
+32:32.560 --> 32:34.340
+ over offensive aggression.
+
+32:34.340 --> 32:37.340
+ And how that inhibition would work is not clear
+
+32:37.340 --> 32:39.940
+ because all these neurons are pretty much excitatory.
+
+32:39.940 --> 32:42.020
+ They're almost all glutamatergic.
+
+32:42.020 --> 32:45.740
+ And so one of the interesting questions for the future
+
+32:45.740 --> 32:49.300
+ is how exactly does fear dominate over
+
+32:49.300 --> 32:52.720
+ and shut down offensive aggression in the brain?
+
+32:52.720 --> 32:53.700
+ How does that work?
+
+32:53.700 --> 32:54.780
+ Is it all circuitry?
+
+32:54.780 --> 32:56.560
+ Are there chemicals involved?
+
+32:56.560 --> 33:00.340
+ What's the mechanism and when is it called into play?
+
+33:00.340 --> 33:03.260
+ But I think that's the way I tend to think about
+
+33:03.260 --> 33:06.420
+ why these neurons are all mixed up together.
+
+33:06.420 --> 33:10.520
+ And it's not just fight and freezing or fight and flight.
+
+33:10.520 --> 33:13.100
+ There are also metabolic neurons
+
+33:13.100 --> 33:16.060
+ that are mixed together in VMH as well.
+
+33:16.060 --> 33:18.380
+ Controlling body-wide metabolism?
+
+33:18.380 --> 33:21.780
+ Yeah, there are neurons there that respond to glucose.
+
+33:21.780 --> 33:24.540
+ When glucose goes up in your bloodstream,
+
+33:24.540 --> 33:25.820
+ they're activated.
+
+33:25.820 --> 33:30.200
+ And VMH has a whole history in the field of obesity
+
+33:30.200 --> 33:35.200
+ because if you destroy it in a rat, you get a fat rat.
+
+33:35.260 --> 33:38.260
+ So the way most of the world thinks about VMH
+
+33:38.260 --> 33:39.220
+ is they think about,
+
+33:39.220 --> 33:42.140
+ oh, that's the thing that keeps you from getting fat.
+
+33:42.140 --> 33:44.220
+ It's the anti-obesity area.
+
+33:44.220 --> 33:47.220
+ But in the area of social behavior,
+
+33:47.220 --> 33:50.740
+ we see it as a center for control of aggression
+
+33:50.740 --> 33:51.860
+ and fear behaviors.
+
+33:51.860 --> 33:56.440
+ And again, why these neurons and these functions,
+
+33:56.440 --> 33:58.420
+ I like to call them the four Fs,
+
+33:58.420 --> 34:00.820
+ feeding, freezing, fighting, and mating,
+
+34:00.820 --> 34:03.340
+ that they all seem to be closely intermingled
+
+34:03.340 --> 34:06.500
+ with each other, maybe because crosstalk between them
+
+34:06.500 --> 34:09.580
+ is very important to help the animal's brain
+
+34:09.580 --> 34:12.860
+ decide what behavior to prioritize
+
+34:12.860 --> 34:16.300
+ and what behavior to shut down at any given moment.
+
+34:17.220 --> 34:18.420
+ One of the things that we will do
+
+34:18.420 --> 34:22.400
+ is link to the incredible videos of these mice
+
+34:22.400 --> 34:26.500
+ that have selective stimulation of neurons in the VMH,
+
+34:26.500 --> 34:28.860
+ DAUs and the other studies that you've done.
+
+34:28.860 --> 34:33.540
+ Whenever I teach, I show those videos at some point
+
+34:33.540 --> 34:36.620
+ with the caveats and warnings that are required
+
+34:36.620 --> 34:40.860
+ when one is about to see a video of a mouse
+
+34:40.860 --> 34:42.100
+ trying to mate with another mouse
+
+34:42.100 --> 34:43.460
+ or mating with another mouse.
+
+34:43.460 --> 34:45.200
+ And they seem both to be quite happy
+
+34:45.200 --> 34:46.580
+ about the mating experience,
+
+34:46.580 --> 34:49.120
+ at least as far as we know as observers of mice.
+
+34:50.220 --> 34:55.220
+ And then upon stimulation of those VMH neurons,
+
+34:55.520 --> 34:58.940
+ one of the mice essentially tries to kill the other mouse.
+
+34:58.940 --> 35:02.820
+ And then when that stimulation is stopped,
+
+35:02.820 --> 35:04.700
+ they basically go back to hanging out.
+
+35:04.700 --> 35:06.180
+ They don't go right back to mating.
+
+35:06.180 --> 35:07.620
+ There's some reconciliation clearly
+
+35:07.620 --> 35:09.880
+ that needs to happen first, we assume.
+
+35:09.880 --> 35:11.180
+ But it's just so striking.
+
+35:11.180 --> 35:12.760
+ I think equally striking is the video
+
+35:12.760 --> 35:15.940
+ where the mouse is alone in there with the glove.
+
+35:16.820 --> 35:20.180
+ The VMH neurons are stimulated and the mouse goes into a rage
+
+35:20.180 --> 35:23.020
+ it looks like it wants to kill the glove basically.
+
+35:23.020 --> 35:25.560
+ So striking, I encourage people to go watch those
+
+35:25.560 --> 35:29.740
+ because it really puts a tremendous amount of color
+
+35:29.740 --> 35:30.880
+ on what we're describing.
+
+35:30.880 --> 35:34.960
+ And it's just the idea that there are switches in the brain
+
+35:34.960 --> 35:37.460
+ to me really became clear upon seeing that.
+
+35:37.460 --> 35:39.420
+ One of the concepts, excuse me,
+
+35:39.420 --> 35:42.100
+ one of the concepts that you've raised
+
+35:42.100 --> 35:45.340
+ in your lectures before and that I think was Hess's idea
+
+35:45.340 --> 35:47.580
+ is this idea of a sort of hydraulic pressure,
+
+35:47.580 --> 35:51.220
+ or maybe it was Conrad, I can't speak now, excuse me,
+
+35:51.220 --> 35:54.420
+ Conrad Lorenz, Martin, who talked about
+
+35:54.420 --> 35:57.260
+ a kind of hydraulic pressure towards behavior.
+
+35:57.260 --> 36:00.100
+ I'm fascinated by this idea of hydraulic pressure
+
+36:00.100 --> 36:03.220
+ because I don't consider myself a hot tempered person,
+
+36:03.220 --> 36:06.420
+ but I am familiar with the fact that when I lose my temper,
+
+36:06.420 --> 36:09.740
+ it takes quite a while for me to simmer down.
+
+36:09.740 --> 36:11.260
+ I can't think about anything else.
+
+36:11.260 --> 36:12.680
+ I don't want to think about anything else.
+
+36:12.680 --> 36:15.400
+ In fact, trying to think about anything else
+
+36:15.400 --> 36:17.420
+ becomes aversive to me,
+
+36:17.420 --> 36:21.940
+ which to me underscores this notion of prioritization
+
+36:21.940 --> 36:25.400
+ of the different states and potentially conflicting states.
+
+36:26.780 --> 36:28.620
+ What do you think funnels into this idea
+
+36:28.620 --> 36:31.060
+ of hydraulic pressure toward a state?
+
+36:31.060 --> 36:36.060
+ And why is it perhaps that sometimes we can be very angry
+
+36:36.080 --> 36:39.800
+ and if we succeed in winning an argument,
+
+36:39.800 --> 36:41.940
+ all of a sudden it will subside?
+
+36:41.940 --> 36:44.340
+ Because clearly that means that there are external influences
+
+36:44.340 --> 36:46.180
+ it's a complex space here that we're creating.
+
+36:46.180 --> 36:47.700
+ I realize I'm creating a bit of a cloud
+
+36:47.700 --> 36:49.880
+ and I'm doing it on purpose because to me,
+
+36:49.880 --> 36:52.460
+ the idea of a hydraulic pressure towards a state like sleep,
+
+36:52.460 --> 36:55.180
+ there's a sleep pressure, there's a pressure towards,
+
+36:55.180 --> 36:58.060
+ that all makes sense, but what's involved?
+
+36:58.060 --> 37:02.100
+ Is it too multifactorial to actually separate out
+
+37:02.100 --> 37:06.540
+ the variables, but what's really driving hydraulic pressure
+
+37:06.540 --> 37:08.060
+ toward a given state?
+
+37:08.060 --> 37:11.980
+ Yeah, so a really important question.
+
+37:11.980 --> 37:15.460
+ I think one way that is helpful, at least for me,
+
+37:15.460 --> 37:18.420
+ to break this question apart and think about it
+
+37:18.420 --> 37:22.960
+ is to distinguish homeostatic behaviors
+
+37:22.960 --> 37:27.500
+ that is need-based behaviors where the pressure is built up
+
+37:27.500 --> 37:32.220
+ because of a need, like I'm hungry, I need to eat,
+
+37:32.220 --> 37:35.900
+ I'm thirsty, I need to drink, I'm hot,
+
+37:35.900 --> 37:38.140
+ I need to get to a cold place.
+
+37:38.140 --> 37:41.680
+ It's basically the thermostat model of your brain.
+
+37:41.680 --> 37:44.020
+ You have a set point and then if the temperature
+
+37:44.020 --> 37:46.060
+ gets too hot, you turn on the AC
+
+37:46.060 --> 37:47.960
+ and if the temperature gets too cold,
+
+37:47.960 --> 37:49.700
+ you turn on the heater and you put yourself
+
+37:49.700 --> 37:51.140
+ back to the set point.
+
+37:51.140 --> 37:53.760
+ I don't think that's how aggression works.
+
+37:53.760 --> 37:56.780
+ That is, it's not that we all go around,
+
+37:56.780 --> 37:59.080
+ at least subjectively, I don't go around
+
+37:59.080 --> 38:02.680
+ with an accumulating need to fight,
+
+38:02.680 --> 38:05.820
+ which I then look for something to,
+
+38:05.820 --> 38:07.200
+ an excuse to release it.
+
+38:07.200 --> 38:09.020
+ Now, maybe there are people that do that
+
+38:09.020 --> 38:12.460
+ and they go out and look for bar fights to get into.
+
+38:12.460 --> 38:13.300
+ Or Twitter.
+
+38:13.300 --> 38:14.220
+ Yeah, or Twitter.
+
+38:14.220 --> 38:16.380
+ Twitter seems to, I'm sort of half joking
+
+38:16.380 --> 38:20.420
+ because Twitter seems to draw a reasonably sized crowd
+
+38:20.420 --> 38:24.440
+ of people that are there for combat of some sort,
+
+38:24.440 --> 38:26.420
+ even though the total intellectual power
+
+38:26.420 --> 38:28.900
+ of any of their comments is about that of a cap gun.
+
+38:28.900 --> 38:31.440
+ They seem to really like to fire off that cap gun.
+
+38:31.440 --> 38:33.700
+ But I agree.
+
+38:33.700 --> 38:35.940
+ Before we continue with today's discussion,
+
+38:35.940 --> 38:38.040
+ I'd like to just briefly acknowledge our sponsor,
+
+38:38.040 --> 38:41.260
+ Athletic Greens, now called AG1.
+
+38:41.260 --> 38:44.300
+ Athletic Greens, AKA AG1, is an all-in-one
+
+38:44.300 --> 38:45.980
+ vitamin mineral probiotic drink
+
+38:45.980 --> 38:49.020
+ that also has adaptogens and digestive enzymes.
+
+38:49.020 --> 38:51.740
+ I've been taking Athletic Greens since way back in 2012,
+
+38:51.740 --> 38:54.180
+ so I'm delighted that they're sponsoring the podcast.
+
+38:54.180 --> 38:55.780
+ The reason I started taking Athletic Greens
+
+38:55.780 --> 38:58.740
+ and the reason I still drink Athletic Greens twice a day
+
+38:58.740 --> 39:01.640
+ is that it supplies total foundational coverage
+
+39:01.640 --> 39:03.040
+ of my vitamin mineral needs,
+
+39:03.040 --> 39:05.540
+ and it supplies important nutrients
+
+39:05.540 --> 39:07.540
+ that I need to support my gut microbiome.
+
+39:07.540 --> 39:09.260
+ The gut microbiome, as many of you know,
+
+39:09.260 --> 39:10.380
+ supports the immune system.
+
+39:10.380 --> 39:12.400
+ It also supports the so-called gut-brain axis,
+
+39:12.400 --> 39:14.780
+ which is vital for mood, for energy levels,
+
+39:14.780 --> 39:16.020
+ for regulating focus,
+
+39:16.020 --> 39:17.860
+ and many other features of our mental health
+
+39:17.860 --> 39:20.180
+ and physical health that impact our daily performance
+
+39:20.180 --> 39:21.820
+ and high performance in any endeavors
+
+39:21.820 --> 39:23.220
+ we might be involved in.
+
+39:23.220 --> 39:24.600
+ If you'd like to try Athletic Greens,
+
+39:24.600 --> 39:27.260
+ you can go to athleticgreens.com slash Huberman
+
+39:27.260 --> 39:28.880
+ and claim a special offer.
+
+39:28.880 --> 39:30.540
+ They're giving away five free travel packs
+
+39:30.540 --> 39:34.420
+ plus a year supply of vitamin D3K2 with every order.
+
+39:34.420 --> 39:36.660
+ And of course, vitamin D3K2 are vital
+
+39:36.660 --> 39:38.740
+ for all sorts of things like hormone health
+
+39:38.740 --> 39:41.140
+ and metabolic health and K2 for cardiovascular health
+
+39:41.140 --> 39:42.320
+ and calcium regulation.
+
+39:42.320 --> 39:45.540
+ Again, you can go to athleticgreens.com slash Huberman
+
+39:45.540 --> 39:46.860
+ to claim that special offer.
+
+39:46.860 --> 39:51.860
+ So you can think of this accumulated hydraulic pressure
+
+39:51.860 --> 39:55.580
+ either being based on something that you were deprived of,
+
+39:55.580 --> 39:57.980
+ creating an accumulating need,
+
+39:57.980 --> 40:00.580
+ or something that you want to do,
+
+40:00.580 --> 40:04.940
+ building up a drive or a pressure to do that.
+
+40:04.940 --> 40:09.020
+ And the natural way to think about that, at least for me,
+
+40:09.020 --> 40:13.560
+ is as gradual increases in neural activity
+
+40:13.560 --> 40:15.980
+ in a particular region of the brain.
+
+40:15.980 --> 40:19.940
+ And so for example, in the area of the hypothalamus
+
+40:19.940 --> 40:22.980
+ that controls feeding, Scott Stearnsen and others
+
+40:22.980 --> 40:26.260
+ have shown that the hungrier you get,
+
+40:26.260 --> 40:29.440
+ the higher the level of activity in that region
+
+40:29.440 --> 40:30.320
+ in the brain.
+
+40:30.320 --> 40:31.960
+ And then when you eat, boom,
+
+40:31.960 --> 40:34.620
+ the activity goes right back down again.
+
+40:34.620 --> 40:38.660
+ And that state is actually negatively valence.
+
+40:38.660 --> 40:41.860
+ So it's like the animal, quote unquote,
+
+40:41.860 --> 40:44.580
+ feels increasingly uncomfortable,
+
+40:44.580 --> 40:47.180
+ just like we feel increasingly uncomfortable
+
+40:47.180 --> 40:48.620
+ the hungrier we are.
+
+40:48.620 --> 40:51.020
+ And then when we eat, it taps it down.
+
+40:51.020 --> 40:53.340
+ But there is this increased activity.
+
+40:53.340 --> 40:55.500
+ And I think in the case of aggression,
+
+40:55.500 --> 40:59.140
+ our data and others show that the more strongly
+
+40:59.140 --> 41:03.680
+ you drive this region of the brain optogenetically,
+
+41:03.680 --> 41:07.300
+ the more of just a hair trigger you need
+
+41:07.300 --> 41:10.300
+ to set the animal off to get it to fight.
+
+41:10.300 --> 41:13.660
+ Now, the interesting thing is that if there is nothing
+
+41:13.660 --> 41:17.580
+ for the animal to attack, it doesn't really do much
+
+41:17.580 --> 41:19.700
+ when you're stimulating this region.
+
+41:19.700 --> 41:23.180
+ It sort of wanders around the cage a little bit more,
+
+41:23.180 --> 41:27.740
+ but it will not actually show overt attack
+
+41:27.740 --> 41:29.660
+ unless you put something in front of it.
+
+41:29.660 --> 41:32.340
+ And the same thing is true for the areas we've described
+
+41:32.340 --> 41:34.500
+ that control mating behavior.
+
+41:34.500 --> 41:36.420
+ This is what Lindsay is working on.
+
+41:36.420 --> 41:40.040
+ You can stimulate those areas till you're blue in the face
+
+41:40.040 --> 41:42.220
+ and the mouse just sort of wanders around.
+
+41:42.220 --> 41:45.060
+ But if you put another mouse in, wham,
+
+41:45.060 --> 41:46.820
+ he will try to mount that mouse.
+
+41:46.820 --> 41:49.060
+ If you put a kumquat in the cage,
+
+41:49.060 --> 41:51.240
+ he'll try to mount the kumquat.
+
+41:51.240 --> 41:54.880
+ And so it becomes a sort of any port in the storm.
+
+41:54.880 --> 41:59.880
+ So there is this idea that the drive is building up pressure
+
+42:00.820 --> 42:03.600
+ that somehow needs to be released
+
+42:03.600 --> 42:07.700
+ where that pressure is actually being exerted.
+
+42:07.700 --> 42:10.320
+ If you accept that it's increased activity
+
+42:10.320 --> 42:12.940
+ in some circuit or circuits someplace,
+
+42:12.940 --> 42:17.940
+ what is it pushing up against that needs something else
+
+42:18.780 --> 42:22.900
+ to sort of unplug it in the Lorentz hydraulic model?
+
+42:22.900 --> 42:25.100
+ That is, you don't see the behavior
+
+42:25.100 --> 42:27.940
+ until you release a valve on this bucket
+
+42:27.940 --> 42:31.460
+ and let the accumulated pressure flow out.
+
+42:31.460 --> 42:33.980
+ And that's one of the things we're trying to study
+
+42:33.980 --> 42:37.440
+ in the context of the mating behavior as well.
+
+42:37.440 --> 42:40.620
+ How does the information that there's an object
+
+42:40.620 --> 42:44.060
+ in front of you come together with this drive state
+
+42:44.060 --> 42:47.020
+ that is generated by stimulating these neurons
+
+42:47.020 --> 42:50.860
+ in the hypothalamus to say, okay, pull the trigger and go,
+
+42:50.860 --> 42:53.540
+ it's time to mate, it's time to attack.
+
+42:53.540 --> 42:56.860
+ And we're just starting to get some insights into that now.
+
+42:56.860 --> 42:59.700
+ Fascinating, and I should mention to people,
+
+42:59.700 --> 43:01.020
+ Dr. Anderson mentioned Lindsay.
+
+43:01.020 --> 43:02.640
+ Lindsay is a former graduate student of mine
+
+43:02.640 --> 43:04.480
+ that's now a postdoc in David's lab.
+
+43:04.480 --> 43:06.380
+ And I haven't caught up with her recently
+
+43:06.380 --> 43:09.100
+ to hear about these experiments, but they sound fascinating.
+
+43:09.100 --> 43:11.660
+ I would love to spend some time on this issue
+
+43:11.660 --> 43:15.980
+ of why is it that a mouse won't attack nothing,
+
+43:15.980 --> 43:19.140
+ but it'll attack even a glove or,
+
+43:19.140 --> 43:22.060
+ and why, well, we'll only try and mate
+
+43:22.060 --> 43:24.580
+ if there's another mouse to mate with.
+
+43:24.580 --> 43:28.320
+ It's actually, I think fortunately for you,
+
+43:28.320 --> 43:29.460
+ you're not spending a lot of time
+
+43:29.460 --> 43:32.460
+ on Twitter and Instagram or YouTube,
+
+43:32.460 --> 43:35.460
+ but there's this whole online community that exists now.
+
+43:35.460 --> 43:39.880
+ As far as I know, it's almost exclusively young males
+
+43:39.880 --> 43:42.860
+ who are obsessed with this idea.
+
+43:42.860 --> 43:44.000
+ I'll just say it has a name,
+
+43:44.000 --> 43:46.440
+ it's called NoFap of no masturbation
+
+43:46.440 --> 43:48.520
+ as a way to maintain their motivation to go out
+
+43:48.520 --> 43:52.100
+ and actually seek mates because of the ready availability
+
+43:52.100 --> 43:54.180
+ of online pornography.
+
+43:54.180 --> 43:57.340
+ There's probably a much larger population of young males
+
+43:57.340 --> 43:59.200
+ that are never actually going out and seeking mates
+
+43:59.200 --> 44:01.740
+ because they're getting porn addicted, et cetera.
+
+44:01.740 --> 44:03.860
+ There's actually a serious issue that came up
+
+44:03.860 --> 44:05.820
+ in our episode with Anna Lemke who wrote the book,
+
+44:05.820 --> 44:09.420
+ Dopamine Nation, because the availability of pornography,
+
+44:09.420 --> 44:12.380
+ there's a whole social context that's being created
+
+44:12.380 --> 44:14.760
+ around this and genuine addiction.
+
+44:14.760 --> 44:17.020
+ So humans are not like the mice
+
+44:17.020 --> 44:18.540
+ or mice are not like the humans.
+
+44:18.540 --> 44:21.420
+ Humans seem to resolve the issue on their own
+
+44:21.420 --> 44:24.340
+ in ways that might actually impede seeking and finding
+
+44:24.340 --> 44:26.780
+ of sexual partners and or long-term mates.
+
+44:26.780 --> 44:28.500
+ So serious issue there.
+
+44:28.500 --> 44:30.980
+ I raise it as a serious issue that I hear a lot about
+
+44:30.980 --> 44:33.060
+ because I get asked hundreds, if not thousands
+
+44:33.060 --> 44:33.900
+ of questions about this.
+
+44:33.900 --> 44:36.900
+ Is there any physiological basis for what they call NoFap?
+
+44:36.900 --> 44:39.800
+ And I never actually replied because there's no data,
+
+44:39.800 --> 44:43.060
+ but what you're raising here is a very interesting
+
+44:43.060 --> 44:47.620
+ mechanistic scenario that can,
+
+44:47.620 --> 44:49.540
+ as you mentioned, is being explored.
+
+44:49.540 --> 44:54.100
+ So what do we know about the internal state
+
+44:54.100 --> 44:57.020
+ of a mouse whose VMH is being stimulated
+
+44:57.020 --> 45:00.680
+ or a mouse whose other brain region
+
+45:00.680 --> 45:03.340
+ that can stimulate the desire to mate?
+
+45:03.340 --> 45:05.620
+ What do we know about the internal state of that mouse
+
+45:05.620 --> 45:07.500
+ if it's just alone in the cage wandering around?
+
+45:07.500 --> 45:09.540
+ Is it wandering around really wanting to mate
+
+45:09.540 --> 45:10.660
+ and really wanting to fight?
+
+45:10.660 --> 45:15.380
+ We of course don't know, but is its heart rate up?
+
+45:15.380 --> 45:17.260
+ Is its blood pressure up?
+
+45:17.260 --> 45:19.900
+ Is it wishing that there was pornography?
+
+45:19.900 --> 45:23.980
+ Is it, something's going on presumably
+
+45:23.980 --> 45:28.980
+ that's different than prior to that stimulation
+
+45:28.980 --> 45:31.260
+ and is it arousal?
+
+45:31.260 --> 45:33.740
+ And what do you think it is about the visual
+
+45:33.740 --> 45:36.960
+ or olfactory perception of a conspecific
+
+45:36.960 --> 45:40.380
+ that ungates this tremendous repertoire of behaviors?
+
+45:40.380 --> 45:43.820
+ Right, that is the central question.
+
+45:43.820 --> 45:47.720
+ I can say at least with respect to the fear neurons
+
+45:47.720 --> 45:49.740
+ that sit on top of the aggression neurons,
+
+45:49.740 --> 45:53.340
+ we know that when those neurons are activated
+
+45:53.340 --> 45:56.220
+ optogenetically in the same way we would activate
+
+45:56.220 --> 46:00.020
+ the aggression neurons that there's clearly an arousal
+
+46:00.020 --> 46:01.300
+ process that's occurring.
+
+46:01.300 --> 46:04.320
+ You can see the pupils dilate in the animal.
+
+46:04.320 --> 46:07.660
+ There is an increase in stress hormone release
+
+46:07.660 --> 46:09.100
+ into the bloodstream.
+
+46:09.100 --> 46:12.520
+ We've shown that heart rate goes up.
+
+46:12.520 --> 46:17.300
+ So in addition to the drive to actually freeze
+
+46:17.300 --> 46:19.660
+ which is what those animals do,
+
+46:19.660 --> 46:24.660
+ there is autonomic arousal and neuroendocrine activation
+
+46:24.660 --> 46:26.220
+ of stress responses.
+
+46:26.220 --> 46:29.060
+ And some of that is probably shared
+
+46:29.060 --> 46:32.220
+ by the aggression neurons and the mating neurons
+
+46:32.220 --> 46:35.460
+ although we haven't investigated it in as much detail.
+
+46:35.460 --> 46:38.780
+ But I wouldn't be surprised because they project
+
+46:38.780 --> 46:43.420
+ to many of the same regions that the fear neurons
+
+46:43.420 --> 46:47.660
+ project to which is a interesting issue in the context
+
+46:47.660 --> 46:50.440
+ to discuss later maybe in the context of why
+
+46:50.440 --> 46:53.300
+ we're comfortable with mental illnesses that are based
+
+46:53.300 --> 46:56.660
+ on maladaptations of fear but not mental illnesses
+
+46:56.660 --> 46:59.800
+ that are based on maladaptations of aggression
+
+46:59.800 --> 47:02.540
+ if they have pretty similar circuits in the brain.
+
+47:02.540 --> 47:06.300
+ But that's how I would imagine there is
+
+47:06.300 --> 47:08.860
+ an arousal dimension as you say.
+
+47:08.860 --> 47:10.940
+ There are stress hormones that are activated.
+
+47:10.940 --> 47:15.620
+ These regions, VMH projects to about 30 different regions
+
+47:15.620 --> 47:18.400
+ in the brain and it gets input
+
+47:18.400 --> 47:20.100
+ from about 30 different regions.
+
+47:20.100 --> 47:23.460
+ So I kind of see it as both an antenna
+
+47:23.460 --> 47:25.180
+ and a broadcasting center.
+
+47:25.180 --> 47:28.820
+ It's like a satellite dish that takes in information
+
+47:28.820 --> 47:32.260
+ from different sensory modalities, smell,
+
+47:32.260 --> 47:37.100
+ maybe vision, mechanosensation and then it sort
+
+47:37.100 --> 47:40.780
+ of synthesizes and integrates that into
+
+47:40.780 --> 47:44.620
+ a fairly low dimensional as the computational people
+
+47:44.620 --> 47:48.860
+ call it representation of this pressure to attack
+
+47:48.860 --> 47:51.820
+ and it broadcasts that all over the brain
+
+47:51.820 --> 47:54.820
+ to trigger all these systems that have to be brought
+
+47:54.820 --> 47:58.540
+ into play if the animal is gonna engage in aggression
+
+47:58.540 --> 48:01.400
+ because aggression is a very risky thing
+
+48:01.400 --> 48:03.060
+ for an animal to engage in.
+
+48:03.060 --> 48:06.800
+ It could wind up losing and it could wind up getting killed
+
+48:06.800 --> 48:10.340
+ and so its brain constantly has to make
+
+48:10.340 --> 48:13.400
+ a cost benefit analysis of whether to continue
+
+48:13.400 --> 48:16.460
+ on that path or to back off as well.
+
+48:16.460 --> 48:19.620
+ And I think that part of this broadcasting function
+
+48:19.620 --> 48:24.620
+ of this region is engaging all these other brain domains
+
+48:24.620 --> 48:29.320
+ that play a role in this kind of cost benefit analysis.
+
+48:29.320 --> 48:31.380
+ I wanna talk more about mating behavior,
+
+48:31.380 --> 48:35.180
+ but as a segue to that, as we're talking about aggression
+
+48:35.180 --> 48:38.440
+ and mating behavior, I think hormones.
+
+48:38.440 --> 48:41.020
+ And whenever there's an opportunity on this podcast
+
+48:41.020 --> 48:44.700
+ to shatter a common myth, I grab it.
+
+48:44.700 --> 48:46.860
+ One of the common myths that's out there
+
+48:46.860 --> 48:49.940
+ and I think that persists is that testosterone
+
+48:49.940 --> 48:52.780
+ makes animals and humans aggressive
+
+48:52.780 --> 48:56.820
+ and estrogen makes animals placid and kind or emotional.
+
+48:56.820 --> 48:59.100
+ And as we both know, nothing could be further
+
+48:59.100 --> 49:01.300
+ from the truth, although there's some truth to the idea
+
+49:01.300 --> 49:03.880
+ that these hormones are all involved.
+
+49:03.880 --> 49:08.340
+ Robert Sapolsky supplied some information to me
+
+49:08.340 --> 49:11.380
+ when he came on this podcast that if you give people
+
+49:11.380 --> 49:13.620
+ exogenous testosterone, it tends to make them more
+
+49:13.620 --> 49:15.500
+ of the way they were before.
+
+49:15.500 --> 49:17.600
+ If they were a jerk before, they'll become more of a jerk.
+
+49:17.600 --> 49:20.100
+ If they were very altruistic, they'll become more altruistic.
+
+49:20.100 --> 49:22.420
+ And then eventually I pointed out you'll aromatize
+
+49:22.420 --> 49:23.820
+ that testosterone and estrogen
+
+49:23.820 --> 49:25.080
+ and you'll start getting opposite effects.
+
+49:25.080 --> 49:28.000
+ So it's a murky space, it's not straightforward.
+
+49:28.000 --> 49:32.140
+ But if I'm not mistaken, testosterone plays a role
+
+49:32.140 --> 49:33.460
+ in generating aggression.
+
+49:33.460 --> 49:38.180
+ However, the specific hormones that are involved
+
+49:38.180 --> 49:43.180
+ in generating aggression via VMH are things other
+
+49:43.180 --> 49:44.300
+ than testosterone.
+
+49:44.300 --> 49:45.620
+ Can you tell us a little bit more about that?
+
+49:45.620 --> 49:47.740
+ Because there's some interesting surprises in there.
+
+49:47.740 --> 49:50.220
+ Yeah, that's a really important question.
+
+49:50.220 --> 49:55.220
+ So when we finally identified the neurons in VMH
+
+49:55.420 --> 49:58.840
+ that control aggression with a molecular marker,
+
+49:58.840 --> 50:02.660
+ we found out that that marker was the estrogen receptor.
+
+50:02.660 --> 50:05.100
+ So that might strike you as a little strange.
+
+50:05.100 --> 50:10.100
+ Why should aggression promoting neurons in male mice
+
+50:10.100 --> 50:13.540
+ be labeled with the estrogen receptor?
+
+50:13.540 --> 50:17.340
+ Other labs have shown that the estrogen receptor
+
+50:17.340 --> 50:20.980
+ in adult male mice is necessary for aggression.
+
+50:20.980 --> 50:24.940
+ If you knock out the gene in VMH, they don't fight.
+
+50:24.940 --> 50:27.380
+ And it's been shown, and a lot of this is work
+
+50:27.380 --> 50:29.900
+ from your colleague Nirav Shah at Stanford,
+
+50:29.900 --> 50:32.740
+ who is one of my former PhD students,
+
+50:32.740 --> 50:37.740
+ that if you castrate a mouse and it loses the ability
+
+50:37.740 --> 50:41.840
+ to fight, not only can you rescue fighting
+
+50:41.840 --> 50:44.960
+ with a testosterone implant, but you can rescue it
+
+50:44.960 --> 50:46.780
+ with an estrogen implant.
+
+50:46.780 --> 50:50.040
+ So you can bypass completely the requirement
+
+50:50.040 --> 50:54.040
+ for testosterone to restore aggressiveness to the mice.
+
+50:54.040 --> 50:57.400
+ And as you say, it's because many of the effects
+
+50:57.400 --> 51:00.840
+ of testosterone, although not all, many of them
+
+51:00.840 --> 51:04.620
+ are mediated by its conversion to estrogen
+
+51:04.620 --> 51:07.400
+ by a process called aromatization.
+
+51:07.400 --> 51:10.960
+ It's carried out by an enzyme called aromatase.
+
+51:10.960 --> 51:13.580
+ In fact, people may have, most of your listeners
+
+51:13.580 --> 51:17.600
+ may have heard of aromatase, because aromatase inhibitors
+
+51:17.600 --> 51:20.560
+ are widely used in female humans
+
+51:20.560 --> 51:23.600
+ as adjuvant chemotherapy for breast cancer.
+
+51:23.600 --> 51:28.600
+ They are a way of reducing the production of estrogen
+
+51:28.840 --> 51:31.000
+ by preventing testosterone
+
+51:31.000 --> 51:33.240
+ from being converted into estrogen.
+
+51:33.240 --> 51:35.360
+ And in fact, there are a lot of animal experiments
+
+51:35.360 --> 51:38.920
+ showing if you give males aromatase inhibitors,
+
+51:38.920 --> 51:42.240
+ they stop fighting as well as also stop
+
+51:42.240 --> 51:44.880
+ being sexually active.
+
+51:44.880 --> 51:48.480
+ And so that's one of the counterintuitive ideas.
+
+51:48.480 --> 51:52.380
+ And Nirao has shown that progesterone also seems
+
+51:52.380 --> 51:54.160
+ to play a role in aggression,
+
+51:54.160 --> 51:57.060
+ because these aggression neurons also express
+
+51:57.060 --> 51:58.660
+ the progesterone receptor.
+
+51:58.660 --> 52:02.200
+ So here are two hormones that are classically thought of
+
+52:02.200 --> 52:04.680
+ as female reproductive hormones.
+
+52:04.680 --> 52:08.120
+ This is what goes up and goes down during the estrus cycle,
+
+52:08.120 --> 52:10.080
+ estrogen and progesterone,
+
+52:10.080 --> 52:13.360
+ and yet they're playing a very important role
+
+52:13.360 --> 52:17.200
+ in controlling aggression in male mice,
+
+52:17.200 --> 52:20.000
+ and presumably in male humans as well.
+
+52:20.000 --> 52:21.280
+ Fascinating.
+
+52:21.280 --> 52:24.760
+ So estrogen is doing many more things
+
+52:24.760 --> 52:26.420
+ than I think most people believe,
+
+52:26.420 --> 52:29.500
+ and testosterone is doing maybe different
+
+52:29.500 --> 52:32.120
+ and fewer things in some cases and more in others.
+
+52:32.120 --> 52:35.920
+ I've known some aggressive females
+
+52:35.920 --> 52:38.480
+ over the time I've been alive.
+
+52:38.480 --> 52:41.280
+ What's involved in female aggression that's unique
+
+52:41.280 --> 52:43.920
+ from the pathways that generate male aggression?
+
+52:43.920 --> 52:45.720
+ Great, great question.
+
+52:45.720 --> 52:49.160
+ So we and other labs have studied this
+
+52:49.160 --> 52:52.500
+ in both mice and also in fruit flies.
+
+52:52.500 --> 52:56.880
+ So one thing in mice that distinguishes aggression
+
+52:56.880 --> 52:59.160
+ in females from males is that male mice
+
+52:59.160 --> 53:02.240
+ are pretty much ready to fight at the drop of a hat.
+
+53:02.240 --> 53:07.240
+ Female mice only fight when they are nurturing
+
+53:08.040 --> 53:11.800
+ and nursing their pups after they've delivered a litter,
+
+53:11.800 --> 53:13.660
+ and there's a window there
+
+53:13.660 --> 53:16.600
+ where they become hyper aggressive,
+
+53:16.600 --> 53:19.160
+ and then after their pups are weaned,
+
+53:19.160 --> 53:20.700
+ that aggressiveness goes away.
+
+53:20.700 --> 53:23.200
+ So this is pretty remarkable
+
+53:23.200 --> 53:25.960
+ that you take a virgin female mouse
+
+53:25.960 --> 53:27.600
+ and expose it to a male,
+
+53:27.600 --> 53:30.640
+ and her response is to become sexually receptive
+
+53:30.640 --> 53:32.040
+ and to mate with him,
+
+53:32.040 --> 53:34.560
+ and now you let her have her pups
+
+53:34.560 --> 53:37.520
+ and you put the same male or another male mouse
+
+53:37.520 --> 53:38.540
+ in the cage with her,
+
+53:38.540 --> 53:41.640
+ and instead of trying to mate with him, she attacks him.
+
+53:41.640 --> 53:44.920
+ So there is some presumably hormonal
+
+53:44.920 --> 53:49.080
+ and also neuronal switch that's occurring in the brain
+
+53:49.080 --> 53:52.120
+ that switches the response of the female
+
+53:52.120 --> 53:55.040
+ from sex to aggression
+
+53:55.040 --> 53:57.640
+ when she goes from virginity to maternity,
+
+53:57.640 --> 53:59.740
+ and we recently showed in a paper,
+
+53:59.740 --> 54:03.140
+ this is work from one of my students, Mungu Liu,
+
+54:03.140 --> 54:05.560
+ that within VMH in females,
+
+54:05.560 --> 54:09.960
+ there are two clearly divisible subsets
+
+54:09.960 --> 54:12.660
+ of estrogen receptor neurons,
+
+54:12.660 --> 54:17.120
+ and she showed that one of those subsets controls fighting
+
+54:17.120 --> 54:19.400
+ and the other one controls mating,
+
+54:19.400 --> 54:21.120
+ and in fact, if you stimulate
+
+54:21.120 --> 54:24.960
+ the fighting-specific subset in a virgin,
+
+54:24.960 --> 54:27.160
+ you can get the virgin to attack,
+
+54:27.160 --> 54:31.240
+ which is something that we were never able to do before,
+
+54:31.240 --> 54:34.580
+ and if you stimulate the mating one, you enhance mating.
+
+54:34.580 --> 54:37.040
+ The reason we could never get these results
+
+54:37.040 --> 54:39.960
+ when we stimulated the whole population
+
+54:39.960 --> 54:41.560
+ of estrogen receptor neurons
+
+54:41.560 --> 54:45.320
+ is that these effects are opposite and they cancel out,
+
+54:45.320 --> 54:49.120
+ and so it turns out that if you measure the activity
+
+54:49.120 --> 54:51.380
+ of the fighting and the mating neurons
+
+54:51.380 --> 54:55.240
+ going from a virgin to a maternal female,
+
+54:55.240 --> 54:58.360
+ the aggression neurons are very low
+
+54:58.360 --> 55:01.180
+ in their activity in the virgin,
+
+55:01.180 --> 55:04.160
+ but once the female has pups,
+
+55:04.160 --> 55:08.800
+ the activation ability of those neurons goes way up
+
+55:08.800 --> 55:11.060
+ and the mating neurons stay the same,
+
+55:11.060 --> 55:14.720
+ so if you think of the balance between them like a seesaw,
+
+55:14.720 --> 55:19.080
+ in the virgin, there is more activity in the mating neurons
+
+55:19.080 --> 55:20.440
+ than in the fighting neurons,
+
+55:20.440 --> 55:23.040
+ whereas in the nursing mother,
+
+55:23.040 --> 55:25.720
+ there's more activity or more activation
+
+55:25.720 --> 55:29.000
+ in the other way around, the fighting neurons in the mating.
+
+55:29.000 --> 55:31.240
+ Did I say fighting and mating in the first?
+
+55:31.240 --> 55:33.920
+ Mating neurons dominate fighting in the virgin,
+
+55:33.920 --> 55:37.500
+ fighting neurons dominate mating in the mother,
+
+55:37.500 --> 55:41.720
+ so that's a really cool observation,
+
+55:41.720 --> 55:44.200
+ and it's not something that happens in males,
+
+55:44.200 --> 55:48.440
+ and we don't know what causes that or controls that.
+
+55:48.440 --> 55:52.640
+ Interestingly, this gets into the whole issue
+
+55:52.640 --> 55:57.180
+ of neurons that are present in females but not in males,
+
+55:57.180 --> 56:00.560
+ so we've known for, the field has known for a long time
+
+56:00.560 --> 56:04.760
+ that male and female fruit flies have sex-specific neurons,
+
+56:04.760 --> 56:07.380
+ and most of the neurons that we've identified
+
+56:07.380 --> 56:10.440
+ in fruit flies that control fighting in males
+
+56:10.440 --> 56:11.760
+ are male-specific.
+
+56:11.760 --> 56:14.400
+ They're not found in the female brain,
+
+56:14.400 --> 56:18.800
+ but recently, we discovered a set of female-specific
+
+56:18.800 --> 56:21.620
+ fighting neurons in the female brain,
+
+56:21.620 --> 56:24.600
+ together with a couple of other laboratories.
+
+56:24.600 --> 56:28.900
+ Now, they do share one common population of neurons
+
+56:28.900 --> 56:31.240
+ in both male and female flies
+
+56:31.240 --> 56:34.480
+ that in females activates the female-specific
+
+56:34.480 --> 56:37.160
+ fighting neurons and in males activates
+
+56:37.160 --> 56:38.900
+ the male-specific fighting neurons,
+
+56:38.900 --> 56:42.720
+ so it's kind of a hierarchy with this common neuron on top,
+
+56:42.720 --> 56:46.560
+ and in mice, we discovered that there are
+
+56:46.560 --> 56:49.760
+ male-specific neurons in VMH,
+
+56:49.760 --> 56:54.160
+ and those neurons are activated during male aggression.
+
+56:54.160 --> 56:57.040
+ Now, the neurons that are active in females
+
+56:57.040 --> 57:01.020
+ when females fight in VMH are not sex-specific,
+
+57:01.020 --> 57:03.920
+ so they are also found in males,
+
+57:03.920 --> 57:06.420
+ so this is already showing you some complexity.
+
+57:06.420 --> 57:10.480
+ The male mouse VMH has both male-specific
+
+57:10.480 --> 57:13.920
+ aggression neurons and generic aggression neurons,
+
+57:13.920 --> 57:17.080
+ and then the female VMH, the mating cells,
+
+57:17.080 --> 57:18.760
+ are only found in females.
+
+57:18.760 --> 57:22.320
+ They are female-specific and not found in the male brain,
+
+57:22.320 --> 57:23.880
+ and so we're trying to find out
+
+57:23.880 --> 57:27.320
+ what these sex-specific populations of neurons are doing,
+
+57:27.320 --> 57:30.760
+ but that indicates that that is some of the mechanism
+
+57:30.760 --> 57:34.160
+ by which different sexes show different behaviors.
+
+57:34.160 --> 57:36.920
+ I'm fixated on this transition
+
+57:36.920 --> 57:39.760
+ from the virgin female mouse to the maternal female mouse,
+
+57:39.760 --> 57:42.500
+ I have a couple of questions about whether or not,
+
+57:42.500 --> 57:45.260
+ for instance, the transition is governed
+
+57:45.260 --> 57:46.440
+ by the presence of pups.
+
+57:46.440 --> 57:48.080
+ So for instance, if you take a virgin female,
+
+57:48.080 --> 57:49.280
+ she'll mate with a male.
+
+57:50.140 --> 57:53.360
+ Once she's had pups, she'll try and fight that male
+
+57:53.360 --> 57:56.280
+ or presumably another intruder female, right?
+
+57:56.280 --> 57:59.040
+ Equally towards females and male intruders.
+
+57:59.040 --> 58:00.980
+ Does that require the presence of her pups,
+
+58:00.980 --> 58:02.420
+ meaning if you were to take those pups
+
+58:02.420 --> 58:03.960
+ and give them to another mother,
+
+58:03.960 --> 58:06.720
+ does she revert to the more virgin-like behavior?
+
+58:06.720 --> 58:09.160
+ Is it related to, is it triggered by lactation
+
+58:09.160 --> 58:10.980
+ or could it actually be triggered
+
+58:10.980 --> 58:12.660
+ by the mating behavior itself?
+
+58:12.660 --> 58:16.060
+ Because it's possible for the virgin to become a non-virgin,
+
+58:16.060 --> 58:18.280
+ but not actually have a litter of pups.
+
+58:18.280 --> 58:20.560
+ Right, those are all great questions
+
+58:20.560 --> 58:23.480
+ and we don't know the answer to most of them.
+
+58:23.480 --> 58:27.360
+ What I can say is that a nursing mother
+
+58:27.360 --> 58:30.640
+ doesn't have to have her pups with her in the cage
+
+58:30.640 --> 58:35.420
+ in order to attack an intruder male or an intruder female.
+
+58:35.420 --> 58:40.180
+ She is just in a state of brain
+
+58:40.180 --> 58:43.420
+ that makes her aggressive to any intruder.
+
+58:43.420 --> 58:47.200
+ And those aggression neurons in that female's brain
+
+58:47.200 --> 58:51.860
+ are activated by both male and female intruders equally.
+
+58:51.860 --> 58:54.920
+ Whereas in male mice, the aggression neurons
+
+58:54.920 --> 58:59.140
+ are only ever activated by males, not by females,
+
+58:59.140 --> 59:02.380
+ because males are never supposed to attack females.
+
+59:02.380 --> 59:04.580
+ They're only supposed to mate with them.
+
+59:04.580 --> 59:07.300
+ So that's another difference in how those neurons
+
+59:07.300 --> 59:11.580
+ are tuned to signals from different conspecifics.
+
+59:11.580 --> 59:13.860
+ Does it require lactation?
+
+59:13.860 --> 59:15.420
+ I don't know the answer to that.
+
+59:15.420 --> 59:17.300
+ I think there are some experiments
+
+59:17.300 --> 59:20.420
+ where people have tried to, classical experiments,
+
+59:20.420 --> 59:24.540
+ people have tried to reproduce the changes in hormones
+
+59:24.540 --> 59:28.060
+ that occur during pregnancy in female rats
+
+59:28.060 --> 59:30.180
+ to see if it can make them aggressive.
+
+59:30.180 --> 59:33.820
+ And some of those manipulations do to some extent,
+
+59:33.820 --> 59:36.140
+ but there's a whole biology there
+
+59:36.140 --> 59:38.300
+ that remains to be explored
+
+59:38.300 --> 59:40.700
+ about how much of this is hormones,
+
+59:40.700 --> 59:43.840
+ how much of this is circuitry and electricity,
+
+59:43.840 --> 59:46.580
+ and how much of it is other factors
+
+59:46.580 --> 59:48.680
+ that we haven't identified yet.
+
+59:48.680 --> 59:50.060
+ I don't want to anthropomorphize,
+
+59:50.060 --> 59:52.900
+ but well, I'll just ask the question.
+
+59:52.900 --> 59:56.500
+ So the other day I was watching ferrets mate, right?
+
+59:56.500 --> 1:00:00.620
+ Mustelids, they're mustelids and they're mating behavior.
+
+1:00:00.620 --> 1:00:02.260
+ I guess I didn't say why I was watching this.
+
+1:00:02.260 --> 1:00:05.940
+ Doesn't matter, it simply doesn't matter.
+
+1:00:05.940 --> 1:00:08.460
+ But if one observes the mating behaviors
+
+1:00:08.460 --> 1:00:09.580
+ of different animals,
+
+1:00:09.580 --> 1:00:11.320
+ we know that there's a tremendous range
+
+1:00:11.320 --> 1:00:13.400
+ of mating behaviors in humans.
+
+1:00:13.400 --> 1:00:15.500
+ There can be no aggressive component,
+
+1:00:15.500 --> 1:00:16.580
+ there could be aggressive component.
+
+1:00:16.580 --> 1:00:19.800
+ Humans have all sorts of kinks and fetishes and behaviors,
+
+1:00:19.800 --> 1:00:21.780
+ and most of which probably has never been documented
+
+1:00:21.780 --> 1:00:23.700
+ because most of this happens in private.
+
+1:00:23.700 --> 1:00:24.980
+ And here I always say on this podcast,
+
+1:00:24.980 --> 1:00:27.540
+ anytime we're talking about sexual behavior in humans,
+
+1:00:27.540 --> 1:00:28.780
+ we're always making the presumption
+
+1:00:28.780 --> 1:00:31.320
+ that it's consensual, age appropriate,
+
+1:00:31.320 --> 1:00:33.380
+ context appropriate, and species appropriate.
+
+1:00:33.380 --> 1:00:35.520
+ Let's say we're talking about a lot of different species.
+
+1:00:35.520 --> 1:00:38.940
+ With that said, just to set context,
+
+1:00:38.940 --> 1:00:41.900
+ I was watching this video of ferrets mating
+
+1:00:41.900 --> 1:00:44.500
+ and it's quite violent actually.
+
+1:00:44.500 --> 1:00:47.260
+ There's a lot of neck biting, there's a lot of squealing.
+
+1:00:47.260 --> 1:00:49.380
+ If I were going to project an anthropomorphize,
+
+1:00:49.380 --> 1:00:52.380
+ I'd say it's not really clear they both want to be there.
+
+1:00:53.740 --> 1:00:54.860
+ One would make that assumption.
+
+1:00:54.860 --> 1:00:57.100
+ And of course we don't know, we have no idea.
+
+1:00:57.100 --> 1:00:58.620
+ This could be the ritual.
+
+1:00:58.620 --> 1:01:02.740
+ But it seems to me that there is some crossover
+
+1:01:02.740 --> 1:01:06.460
+ of aggression and mating behavior circuitry
+
+1:01:06.460 --> 1:01:08.580
+ during the act of mating.
+
+1:01:08.580 --> 1:01:12.020
+ And do you think that reflects this sort of
+
+1:01:13.520 --> 1:01:15.780
+ stew of competing neurons
+
+1:01:15.780 --> 1:01:19.120
+ that are prioritizing in real time?
+
+1:01:19.120 --> 1:01:22.420
+ Because of course, as states, they have persistence,
+
+1:01:22.420 --> 1:01:23.260
+ as you point out.
+
+1:01:23.260 --> 1:01:25.220
+ And you can imagine that states overlapping
+
+1:01:25.220 --> 1:01:27.740
+ in four different states, the motivational drive to mate,
+
+1:01:27.740 --> 1:01:30.340
+ the motivational drive to get away from this experience,
+
+1:01:30.340 --> 1:01:34.660
+ the motivational drive to eat at some point,
+
+1:01:34.660 --> 1:01:35.900
+ to defecate at some point,
+
+1:01:35.900 --> 1:01:37.420
+ all of these things are competing.
+
+1:01:37.420 --> 1:01:41.280
+ And what we're really seeing is a bias in probabilities.
+
+1:01:41.280 --> 1:01:44.100
+ But when you look at mating behavior of various animals,
+
+1:01:44.100 --> 1:01:47.760
+ you see an aggressive component sometimes, but not always.
+
+1:01:47.760 --> 1:01:49.260
+ Is it species specific?
+
+1:01:49.260 --> 1:01:51.260
+ Is it context specific?
+
+1:01:51.260 --> 1:01:54.900
+ And more generally, do you think that there is crosstalk
+
+1:01:54.900 --> 1:01:57.100
+ between these different neuronal populations
+
+1:01:57.100 --> 1:01:58.940
+ and the animal itself might be kind of confused
+
+1:01:58.940 --> 1:01:59.980
+ about what's going on?
+
+1:01:59.980 --> 1:02:02.300
+ Right, great, great questions.
+
+1:02:02.300 --> 1:02:04.180
+ I can't really speak to the issue
+
+1:02:04.180 --> 1:02:06.500
+ of whether this is species specific
+
+1:02:06.500 --> 1:02:09.240
+ because I'm not a naturalist or a zoologist.
+
+1:02:09.240 --> 1:02:11.620
+ I've seen, like you have, in the wild,
+
+1:02:11.620 --> 1:02:14.020
+ for example, lions when they mate.
+
+1:02:14.020 --> 1:02:15.180
+ I've seen them in Africa.
+
+1:02:15.180 --> 1:02:18.500
+ There's often a biting component of that as well.
+
+1:02:18.500 --> 1:02:20.620
+ One of the things that surprised us
+
+1:02:20.620 --> 1:02:24.440
+ when we identified neurons in VMHVL
+
+1:02:24.440 --> 1:02:27.260
+ that control aggression in males
+
+1:02:27.260 --> 1:02:29.940
+ is that within that population,
+
+1:02:29.940 --> 1:02:34.820
+ there is a subset of neurons that is activated by females
+
+1:02:34.820 --> 1:02:37.380
+ during male-female mating encounters.
+
+1:02:37.380 --> 1:02:42.380
+ Now, you don't generally think of mouse sex as rough sex,
+
+1:02:43.400 --> 1:02:48.400
+ but there is a lot of what superficially looks
+
+1:02:48.420 --> 1:02:50.520
+ like violent behavior sometimes,
+
+1:02:50.520 --> 1:02:54.940
+ especially if the female rejects the male and runs away.
+
+1:02:54.940 --> 1:02:57.420
+ And there's some evidence
+
+1:02:57.420 --> 1:03:02.020
+ that those female selective neurons in VMH
+
+1:03:02.020 --> 1:03:06.460
+ are part of the mating behavior.
+
+1:03:06.460 --> 1:03:10.100
+ If you shut them down, the animals don't mate
+
+1:03:10.100 --> 1:03:13.260
+ as effectively as they otherwise would.
+
+1:03:13.260 --> 1:03:15.500
+ What happens when you stimulate them?
+
+1:03:15.500 --> 1:03:17.660
+ We don't yet know because we don't have a way
+
+1:03:17.660 --> 1:03:20.860
+ to specifically do that without activating
+
+1:03:20.860 --> 1:03:22.820
+ the male aggression neurons.
+
+1:03:22.820 --> 1:03:26.460
+ But I think they must be there for a reason
+
+1:03:26.460 --> 1:03:30.420
+ because VMH is not traditionally the brain region
+
+1:03:30.420 --> 1:03:34.140
+ to which male sexual behavior has been assigned.
+
+1:03:34.140 --> 1:03:38.020
+ That's another area called the medial preoptic area.
+
+1:03:38.020 --> 1:03:41.100
+ And there we have shown that there are neurons
+
+1:03:41.100 --> 1:03:44.120
+ that definitely stimulate mating behavior.
+
+1:03:44.120 --> 1:03:46.980
+ In fact, if we activate those mating neurons
+
+1:03:46.980 --> 1:03:48.740
+ in a male while it's in the middle
+
+1:03:48.740 --> 1:03:52.460
+ of attacking another male, it will stop fighting,
+
+1:03:52.460 --> 1:03:55.400
+ start singing to that male and start to try
+
+1:03:55.400 --> 1:03:58.900
+ to mount that male until we shut those neurons off.
+
+1:03:58.900 --> 1:04:02.260
+ So those are the make love not war neurons
+
+1:04:02.260 --> 1:04:05.460
+ and VMH are the make war not love neurons.
+
+1:04:05.460 --> 1:04:08.140
+ And there are dense interconnections
+
+1:04:08.140 --> 1:04:10.500
+ between these two nuclei,
+
+1:04:10.500 --> 1:04:13.740
+ which are very close to each other in the brain.
+
+1:04:13.740 --> 1:04:16.380
+ And we've shown that some of those connections
+
+1:04:16.380 --> 1:04:20.340
+ are mutually inhibitory to prevent the animal
+
+1:04:20.340 --> 1:04:24.780
+ from attacking a mate that it's supposed to be mating with
+
+1:04:24.780 --> 1:04:28.500
+ or to prevent it from mating with an animal
+
+1:04:28.500 --> 1:04:29.980
+ it's supposed to be attacking.
+
+1:04:29.980 --> 1:04:32.180
+ But it's also possible that there are
+
+1:04:32.180 --> 1:04:36.260
+ some cooperative interactions between those structures
+
+1:04:36.260 --> 1:04:39.960
+ as well as antagonistic interactions
+
+1:04:39.960 --> 1:04:42.900
+ and the balance of whether it's the cooperative
+
+1:04:42.900 --> 1:04:46.140
+ or antagonistic interactions that are firing
+
+1:04:46.140 --> 1:04:49.060
+ at any given moment in a mating encounter,
+
+1:04:49.060 --> 1:04:54.060
+ as you suggest, may determine whether a moment
+
+1:04:54.180 --> 1:04:59.180
+ of coital bliss among two lions may suddenly turn
+
+1:05:00.460 --> 1:05:04.480
+ into a snap or a growl and a bearing of fangs.
+
+1:05:04.480 --> 1:05:07.840
+ We don't know that, but certainly the substrate,
+
+1:05:07.840 --> 1:05:10.980
+ the wiring is there for that to happen.
+
+1:05:10.980 --> 1:05:14.100
+ I'm sure people's minds are running wild with all this.
+
+1:05:14.100 --> 1:05:16.780
+ I'll just use this as an opportunity to raise something
+
+1:05:16.780 --> 1:05:19.840
+ I've wondered about for far too long,
+
+1:05:19.840 --> 1:05:23.180
+ which is I have a friend who's a psychiatrist
+
+1:05:23.180 --> 1:05:25.540
+ who works on the treatment of fetishes.
+
+1:05:25.540 --> 1:05:27.660
+ This is not a psychiatrist that I was treated by.
+
+1:05:27.660 --> 1:05:29.260
+ I'll just point that out.
+
+1:05:29.260 --> 1:05:32.100
+ But they mentioned something very interesting to me
+
+1:05:32.100 --> 1:05:36.140
+ long ago, which is that when you look at true fetishes
+
+1:05:36.140 --> 1:05:38.180
+ and what meets the criteria for fetish,
+
+1:05:38.180 --> 1:05:40.820
+ that there does seem to be some,
+
+1:05:40.820 --> 1:05:43.780
+ what one would think would be competing circuitry
+
+1:05:43.780 --> 1:05:46.940
+ that suddenly becomes aligned.
+
+1:05:46.940 --> 1:05:51.940
+ For instance, avoidance of feces, dead bodies, feet,
+
+1:05:52.820 --> 1:05:55.120
+ things that are very infectious.
+
+1:05:55.120 --> 1:05:58.820
+ Typically, those states of disgust are antagonistic
+
+1:05:58.820 --> 1:06:03.820
+ to states of desire, as one would hope is present
+
+1:06:04.200 --> 1:06:05.720
+ during sexual behavior.
+
+1:06:05.720 --> 1:06:09.660
+ Fetishes often involve exactly those things
+
+1:06:09.660 --> 1:06:14.660
+ that are aversive, feet, dead bodies,
+
+1:06:15.060 --> 1:06:17.500
+ disgusting things to most people.
+
+1:06:17.500 --> 1:06:20.000
+ And true fetishes in the pathologic sense
+
+1:06:21.220 --> 1:06:24.840
+ exist when people have basically a requirement
+
+1:06:24.840 --> 1:06:26.500
+ for thinking about, or even the presence
+
+1:06:26.500 --> 1:06:29.500
+ of those ordinarily disgusting things
+
+1:06:29.500 --> 1:06:31.420
+ in order to become sexually aroused,
+
+1:06:31.420 --> 1:06:33.760
+ as if the circuitry has crossed over.
+
+1:06:33.760 --> 1:06:35.940
+ And the statement that rung in my mind was
+
+1:06:35.940 --> 1:06:39.500
+ people don't develop fetishes to mailboxes
+
+1:06:39.500 --> 1:06:44.220
+ or to the color red or to random objects and things.
+
+1:06:44.220 --> 1:06:47.220
+ They develop fetishes to things that are highly infectious
+
+1:06:47.220 --> 1:06:50.140
+ and counter reproductive, repetitive states.
+
+1:06:50.140 --> 1:06:51.900
+ So I find that interesting.
+
+1:06:51.900 --> 1:06:53.820
+ I don't know if you have any reflections on that
+
+1:06:53.820 --> 1:06:55.660
+ as to why that might be.
+
+1:06:55.660 --> 1:06:57.980
+ I'm tempted to ask whether or not you've ever observed
+
+1:06:57.980 --> 1:06:59.420
+ fetish-like behavior in mice,
+
+1:06:59.420 --> 1:07:02.460
+ but I find it fascinating that you have this area
+
+1:07:02.460 --> 1:07:04.840
+ of the brain that's so highly conserved, the hypothalamus,
+
+1:07:04.840 --> 1:07:06.980
+ which you have these dense populations intermixed
+
+1:07:06.980 --> 1:07:09.820
+ and that the addition of a forebrain,
+
+1:07:09.820 --> 1:07:12.860
+ especially in humans that can think and make decisions
+
+1:07:12.860 --> 1:07:15.860
+ could in some ways facilitate the expression
+
+1:07:15.860 --> 1:07:16.960
+ of these primitive behaviors,
+
+1:07:16.960 --> 1:07:19.140
+ but could also complicate the expression
+
+1:07:19.140 --> 1:07:20.540
+ of primitive behaviors.
+
+1:07:20.540 --> 1:07:22.700
+ Right, I would agree.
+
+1:07:22.700 --> 1:07:26.100
+ I think one way of looking at fetishes
+
+1:07:26.100 --> 1:07:28.660
+ from a neurobiological standpoint
+
+1:07:28.660 --> 1:07:33.660
+ is that they represent a kind of repetitive conditioning
+
+1:07:33.660 --> 1:07:38.660
+ where something that is natively aversive or disgusting
+
+1:07:39.440 --> 1:07:44.440
+ by being repeatedly paired with a rewarding experience
+
+1:07:44.880 --> 1:07:49.140
+ changes its valence, its sign,
+
+1:07:49.140 --> 1:07:54.140
+ so that now it somehow produces the anticipation of reward
+
+1:07:55.320 --> 1:07:57.840
+ the next time a person sees it.
+
+1:07:57.840 --> 1:07:58.720
+ Now, I don't know how,
+
+1:07:58.720 --> 1:08:01.160
+ I don't know that literature in animals,
+
+1:08:01.160 --> 1:08:04.760
+ so I don't know if you could condition a mouse
+
+1:08:04.760 --> 1:08:06.480
+ to eat feces, for example,
+
+1:08:06.480 --> 1:08:10.320
+ although there are animals that are naturally coprophagic.
+
+1:08:10.320 --> 1:08:14.680
+ That is, and maybe mice do that occasionally, I'm not sure,
+
+1:08:14.680 --> 1:08:18.080
+ but that is one way to think about it,
+
+1:08:18.080 --> 1:08:20.880
+ and that could certainly involve in humans
+
+1:08:20.880 --> 1:08:23.360
+ the more recently evolved parts of the brain,
+
+1:08:23.360 --> 1:08:27.360
+ the cortex that is sort of orchestrating
+
+1:08:27.360 --> 1:08:29.920
+ both what behaviors are happening
+
+1:08:29.920 --> 1:08:33.320
+ and whether reward states are turning on
+
+1:08:33.320 --> 1:08:37.040
+ in association with those behaviors that are happening,
+
+1:08:37.040 --> 1:08:41.240
+ and that's the part that I think is difficult
+
+1:08:41.240 --> 1:08:44.340
+ and challenging to study in a mouse,
+
+1:08:44.340 --> 1:08:48.280
+ but certainly bears thinking about
+
+1:08:48.280 --> 1:08:50.820
+ because it's a really interesting,
+
+1:08:50.820 --> 1:08:53.760
+ again, sort of counterintuitive aspect,
+
+1:08:53.760 --> 1:08:55.000
+ again, like rough sex,
+
+1:08:55.000 --> 1:08:58.040
+ people that want to have fighting or violence
+
+1:08:58.040 --> 1:09:01.080
+ or aggressiveness in order to be sexually aroused
+
+1:09:01.080 --> 1:09:03.760
+ and fetishes, and in fact,
+
+1:09:03.760 --> 1:09:05.800
+ when we made that discovery initially,
+
+1:09:05.800 --> 1:09:08.060
+ it raised the question in my mind
+
+1:09:08.060 --> 1:09:13.060
+ whether some people that are serial rapists,
+
+1:09:13.720 --> 1:09:16.800
+ for example, and engage in sexual violence
+
+1:09:16.800 --> 1:09:20.920
+ might in some level have their wires crossed in some way
+
+1:09:20.920 --> 1:09:23.680
+ that these states that are supposed to be
+
+1:09:23.680 --> 1:09:26.880
+ pretty much separated and mutually antagonistic
+
+1:09:26.880 --> 1:09:31.480
+ are not and are actually more rewarding and reinforcing.
+
+1:09:31.480 --> 1:09:33.880
+ I think it's gonna be a long time
+
+1:09:33.880 --> 1:09:36.000
+ before we have figured it out,
+
+1:09:36.000 --> 1:09:37.800
+ but when you think about it,
+
+1:09:37.800 --> 1:09:41.440
+ there is no treatment that we have
+
+1:09:41.440 --> 1:09:46.440
+ for a violent sexual offender that eliminates the violence,
+
+1:09:46.600 --> 1:09:50.600
+ but not the sexual desire and sexual urge,
+
+1:09:50.600 --> 1:09:54.820
+ whether it's physical castration or chemical castration,
+
+1:09:54.820 --> 1:09:57.280
+ it eliminates both.
+
+1:09:57.280 --> 1:09:59.280
+ Definitely an area that I think,
+
+1:09:59.280 --> 1:10:03.440
+ well, human neuroscience in general needs a lot of tools,
+
+1:10:03.440 --> 1:10:06.800
+ in terms of how to probe and manipulate neural circuitry.
+
+1:10:06.800 --> 1:10:09.740
+ I'd love to turn to this area that you mentioned,
+
+1:10:09.740 --> 1:10:12.020
+ the medial preoptic area.
+
+1:10:12.020 --> 1:10:15.040
+ I'm fascinated by it because just as within the VMH,
+
+1:10:15.040 --> 1:10:19.140
+ you have these neurons for mating and fighting or aggression,
+
+1:10:19.140 --> 1:10:21.660
+ my understanding is medial preoptic area
+
+1:10:21.660 --> 1:10:24.840
+ contains neurons for mating, but also for
+
+1:10:24.840 --> 1:10:26.360
+ temperature regulation.
+
+1:10:26.360 --> 1:10:28.480
+ And perhaps I'm making too much of a leap here,
+
+1:10:28.480 --> 1:10:31.040
+ but I've always wondered about this phrase in heat.
+
+1:10:32.040 --> 1:10:37.000
+ As certainly the menstrual or estrous cycle in females
+
+1:10:37.000 --> 1:10:38.880
+ is related to changes in body temperature.
+
+1:10:38.880 --> 1:10:40.560
+ In fact, measuring body temperature is one way
+
+1:10:40.560 --> 1:10:44.840
+ that women can fairly reliably predict ovulation, et cetera.
+
+1:10:45.720 --> 1:10:48.380
+ Although additional, this is not a show about contraception,
+
+1:10:48.380 --> 1:10:50.560
+ please rely on multiple methods as necessary.
+
+1:10:50.560 --> 1:10:54.320
+ Don't use this discussion as your guide for contraception
+
+1:10:54.320 --> 1:10:55.360
+ based on temperature.
+
+1:10:55.360 --> 1:10:58.200
+ But if you stimulate certain neurons
+
+1:10:58.200 --> 1:10:59.360
+ in the medial preoptic area,
+
+1:10:59.360 --> 1:11:02.600
+ you can trigger dramatic changes in body temperature
+
+1:11:03.480 --> 1:11:06.160
+ and or mating behavior.
+
+1:11:06.160 --> 1:11:07.480
+ What's the relationship, if any,
+
+1:11:07.480 --> 1:11:10.680
+ between temperature and mating, or do we simply not know?
+
+1:11:11.640 --> 1:11:15.160
+ I don't know what the relationship is
+
+1:11:15.160 --> 1:11:18.800
+ between temperature and mating neurons
+
+1:11:18.800 --> 1:11:20.960
+ in the preoptic area.
+
+1:11:20.960 --> 1:11:25.360
+ I suspect that they are different populations of neurons
+
+1:11:25.360 --> 1:11:29.840
+ because it's become pretty clear that the preoptic area
+
+1:11:29.840 --> 1:11:32.560
+ has many different subsets of neurons
+
+1:11:32.560 --> 1:11:36.200
+ that are specifically active during different behaviors,
+
+1:11:36.200 --> 1:11:38.780
+ even different phases of mating behavior.
+
+1:11:38.780 --> 1:11:40.560
+ So there are mounting neurons,
+
+1:11:40.560 --> 1:11:43.160
+ there are intermission, thrusting neurons,
+
+1:11:43.160 --> 1:11:46.080
+ and ejaculation neurons, and sniffing neurons.
+
+1:11:46.080 --> 1:11:48.640
+ Wait, wait, so I think I've heard this before,
+
+1:11:48.640 --> 1:11:50.240
+ but I just wanna make sure that people get this,
+
+1:11:50.240 --> 1:11:51.440
+ and I wanna make sure I get this.
+
+1:11:51.440 --> 1:11:55.540
+ So you're telling me within the medial preoptic area,
+
+1:11:55.540 --> 1:11:57.840
+ there are specific neurons that if you stimulate them
+
+1:11:57.840 --> 1:12:00.800
+ will make males thrust as if they're mating?
+
+1:12:00.800 --> 1:12:05.800
+ No, so this is not based on stimulation experiments.
+
+1:12:05.960 --> 1:12:08.940
+ It's based on imaging experiments right now
+
+1:12:08.940 --> 1:12:11.840
+ that we see when we look in the preoptic area
+
+1:12:11.840 --> 1:12:14.140
+ at what neurons are active
+
+1:12:14.140 --> 1:12:17.280
+ during different phases of aggression,
+
+1:12:17.280 --> 1:12:19.280
+ we see that there are different neurons
+
+1:12:19.280 --> 1:12:21.480
+ that are active during sniffing,
+
+1:12:21.480 --> 1:12:24.920
+ mounting, thrusting, and ejaculation,
+
+1:12:24.920 --> 1:12:28.040
+ and they become repeatedly activated
+
+1:12:28.040 --> 1:12:30.280
+ each time the animal goes through that cycle.
+
+1:12:30.280 --> 1:12:31.120
+ During mating.
+
+1:12:31.120 --> 1:12:32.920
+ During the mating cycle.
+
+1:12:32.920 --> 1:12:34.400
+ There are also some neurons there
+
+1:12:34.400 --> 1:12:37.400
+ that are active during aggression, which are distinct,
+
+1:12:37.400 --> 1:12:40.480
+ and we don't know whether those neurons are there
+
+1:12:40.480 --> 1:12:44.660
+ to promote aggression or to inhibit mating
+
+1:12:44.660 --> 1:12:46.240
+ when animals are fighting.
+
+1:12:46.240 --> 1:12:49.560
+ We have some evidence that suggests it may be the latter,
+
+1:12:49.560 --> 1:12:51.440
+ but we don't know for sure yet.
+
+1:12:51.440 --> 1:12:54.240
+ The thermosensitive neurons are really interesting
+
+1:12:54.240 --> 1:12:57.480
+ because you mentioned the phrase in heat,
+
+1:12:57.480 --> 1:12:59.820
+ and then in the context of aggression,
+
+1:12:59.820 --> 1:13:02.960
+ you talk about hot-blooded people or hotheads.
+
+1:13:02.960 --> 1:13:04.760
+ There's just recently a paper showing
+
+1:13:04.760 --> 1:13:08.900
+ there are thermoregulatory neurons in VMH as well.
+
+1:13:08.900 --> 1:13:13.560
+ So all of these homeostatic systems for metabolic control
+
+1:13:13.560 --> 1:13:18.560
+ and temperature control are intermingled in these nuclei,
+
+1:13:18.600 --> 1:13:22.900
+ these zones that control these basic survival behaviors
+
+1:13:22.900 --> 1:13:26.900
+ like mating and aggression and predator defense.
+
+1:13:26.900 --> 1:13:31.280
+ And I would imagine that the thermoregulation
+
+1:13:31.280 --> 1:13:35.560
+ is tightly connected to energy expenditure
+
+1:13:35.560 --> 1:13:39.180
+ and that, again, these neurons are mixed together
+
+1:13:39.180 --> 1:13:43.080
+ to facilitate integration of all these signals
+
+1:13:43.080 --> 1:13:46.640
+ by the brain in some way that we don't understand
+
+1:13:46.640 --> 1:13:48.520
+ to maintain the proper balance
+
+1:13:48.520 --> 1:13:53.520
+ between energy conservation and energy consumption
+
+1:13:53.640 --> 1:13:56.800
+ during this particular behavior or that behavior.
+
+1:13:56.800 --> 1:13:58.980
+ I mean, I've always been fascinated by the question,
+
+1:13:58.980 --> 1:14:03.040
+ why is it that violence goes up in the summertime
+
+1:14:03.040 --> 1:14:04.840
+ when the temperatures are high?
+
+1:14:04.840 --> 1:14:08.400
+ Does it really have something to do with the idea
+
+1:14:08.400 --> 1:14:12.080
+ that increased temperature increases violence?
+
+1:14:12.080 --> 1:14:15.360
+ Seems hard to believe because we're homeothermic
+
+1:14:15.360 --> 1:14:20.360
+ and we pretty much stay around 98.6 Fahrenheit.
+
+1:14:20.720 --> 1:14:23.640
+ Could be other social reasons why that happens.
+
+1:14:23.640 --> 1:14:25.600
+ People are outside out on the street
+
+1:14:25.600 --> 1:14:27.080
+ bumping into each other.
+
+1:14:27.080 --> 1:14:30.280
+ But I think there could well be something
+
+1:14:30.280 --> 1:14:34.040
+ that ties thermoregulation to aggressiveness
+
+1:14:34.040 --> 1:14:38.200
+ as well as to mating behavior.
+
+1:14:38.200 --> 1:14:39.160
+ Fascinating, Gal.
+
+1:14:39.160 --> 1:14:43.360
+ I asked in the hopes that maybe in the years to come,
+
+1:14:43.360 --> 1:14:46.400
+ your lab will parse some of the temperature relationships.
+
+1:14:46.400 --> 1:14:49.320
+ And I realized it could be also regulated
+
+1:14:49.320 --> 1:14:50.480
+ by hormones in general.
+
+1:14:50.480 --> 1:14:51.880
+ So it's tapping into two systems
+
+1:14:51.880 --> 1:14:53.080
+ for completely different reasons.
+
+1:14:53.080 --> 1:14:57.000
+ But anyway, an area that intrigues me
+
+1:14:57.000 --> 1:14:58.600
+ because of this notion of hotheadedness
+
+1:14:58.600 --> 1:15:00.440
+ or cool, common, collected.
+
+1:15:00.440 --> 1:15:02.880
+ And also the fact that,
+
+1:15:02.880 --> 1:15:04.400
+ I probably should have asked about this earlier,
+
+1:15:04.400 --> 1:15:07.240
+ that arousal itself is tethered
+
+1:15:07.240 --> 1:15:09.640
+ to the whole mating and reproductive process.
+
+1:15:09.640 --> 1:15:12.040
+ I mean, without a sort of seesawing back
+
+1:15:12.040 --> 1:15:16.080
+ between the sympathetic and parasympathetic arousal,
+
+1:15:16.080 --> 1:15:19.520
+ relaxed states, there is no mating that will take place.
+
+1:15:20.760 --> 1:15:23.440
+ So it's fascinating the way these different competing forces
+
+1:15:23.440 --> 1:15:25.760
+ and seesaws operate.
+
+1:15:25.760 --> 1:15:27.920
+ Several times during the discussion so far,
+
+1:15:27.920 --> 1:15:32.920
+ we've hit on this idea that the same behavior
+
+1:15:32.940 --> 1:15:34.760
+ can reflect different states
+
+1:15:34.760 --> 1:15:38.400
+ and different states can converge on multiple behaviors
+
+1:15:38.400 --> 1:15:39.380
+ as well.
+
+1:15:39.380 --> 1:15:42.420
+ You had a paper not long ago about mounting behavior,
+
+1:15:43.320 --> 1:15:45.520
+ which I found fascinating.
+
+1:15:45.520 --> 1:15:47.760
+ Maybe you could tell us about that result
+
+1:15:47.760 --> 1:15:49.800
+ because to me, it really speaks to the fact
+
+1:15:49.800 --> 1:15:53.880
+ that mounting behavior can in one context be sexual
+
+1:15:53.880 --> 1:15:55.840
+ and in another context actually be related
+
+1:15:55.840 --> 1:15:57.960
+ to we presume dominance.
+
+1:15:57.960 --> 1:16:02.640
+ And I think that my friends who practice jujitsu
+
+1:16:02.640 --> 1:16:04.840
+ will say they, when I talk about that result,
+
+1:16:04.840 --> 1:16:05.880
+ they say, of course, you know,
+
+1:16:05.880 --> 1:16:08.800
+ mounting the other person and dominating them,
+
+1:16:08.800 --> 1:16:10.200
+ there's nothing sexual about it.
+
+1:16:10.200 --> 1:16:12.380
+ It's about overtaking them physically,
+
+1:16:12.380 --> 1:16:14.320
+ literally being on their next side
+
+1:16:14.320 --> 1:16:17.480
+ as opposed to on their own, lying on their own back.
+
+1:16:18.360 --> 1:16:20.060
+ Just fascinating, very primitive.
+
+1:16:20.060 --> 1:16:23.060
+ And yet I think speaks to this idea
+
+1:16:23.060 --> 1:16:24.880
+ that mounting behavior might be one
+
+1:16:24.880 --> 1:16:27.680
+ of the most fundamental ways in which animals
+
+1:16:27.680 --> 1:16:30.840
+ and perhaps even humans express dominance
+
+1:16:30.840 --> 1:16:34.020
+ and or sexual interactions.
+
+1:16:34.020 --> 1:16:37.500
+ Yep, that's a fascinating question.
+
+1:16:37.500 --> 1:16:39.840
+ And it was harder to figure out
+
+1:16:39.840 --> 1:16:41.200
+ than you might've thought.
+
+1:16:41.200 --> 1:16:44.160
+ So we've, there's been this debate for a long time
+
+1:16:44.160 --> 1:16:48.700
+ in the field when you see two male mice mounting each other,
+
+1:16:48.700 --> 1:16:50.860
+ is this homosexual behavior?
+
+1:16:50.860 --> 1:16:54.280
+ Is this a case of mistaken sexual identification
+
+1:16:54.280 --> 1:16:56.400
+ or is this dominance behavior?
+
+1:16:56.400 --> 1:16:59.520
+ And if you train an AI algorithm
+
+1:16:59.520 --> 1:17:03.800
+ to try to distinguish male-male mounting
+
+1:17:03.800 --> 1:17:07.120
+ from male-female mounting, it does not do a very good job
+
+1:17:07.120 --> 1:17:11.440
+ because motorically those behaviors look so similar.
+
+1:17:11.440 --> 1:17:16.320
+ And so how did we wind up figuring out
+
+1:17:16.320 --> 1:17:20.900
+ that most male-male mounting is dominance mounting?
+
+1:17:20.900 --> 1:17:24.040
+ There are two important clues.
+
+1:17:24.040 --> 1:17:26.880
+ One is the context.
+
+1:17:26.880 --> 1:17:29.640
+ And so male-male mounting tends
+
+1:17:29.640 --> 1:17:32.360
+ to be more prominent among mice
+
+1:17:32.360 --> 1:17:35.600
+ when they haven't had a lot of fighting experience.
+
+1:17:35.600 --> 1:17:40.420
+ And then as they become more experienced in fighting,
+
+1:17:40.420 --> 1:17:43.720
+ they will show relatively less mounting
+
+1:17:43.720 --> 1:17:46.080
+ towards the other male and more attack.
+
+1:17:46.080 --> 1:17:50.140
+ And they'll transition quickly from mounting to attack.
+
+1:17:50.140 --> 1:17:54.560
+ And so the mounting is always seen in this context
+
+1:17:54.560 --> 1:17:58.000
+ of an overall aggressive interaction.
+
+1:17:58.000 --> 1:18:00.240
+ And then the second thing, which believe it or not,
+
+1:18:00.240 --> 1:18:04.780
+ was suggested by a computational theoretical person
+
+1:18:04.780 --> 1:18:06.840
+ in my lab, Anne Kennedy,
+
+1:18:06.840 --> 1:18:09.160
+ who now has her own lab at Northwestern.
+
+1:18:09.160 --> 1:18:12.500
+ She said, well, males are known to sing
+
+1:18:12.500 --> 1:18:15.600
+ when they mount females, ultrasonic vocalizations.
+
+1:18:15.600 --> 1:18:18.960
+ Why don't you see what kinds of songs they're singing
+
+1:18:18.960 --> 1:18:20.280
+ when they're mounting males?
+
+1:18:20.280 --> 1:18:21.800
+ Maybe it's a different kind of song.
+
+1:18:21.800 --> 1:18:25.120
+ Well, what we found out is they don't sing at all
+
+1:18:25.120 --> 1:18:26.880
+ when they're mounting a male.
+
+1:18:26.880 --> 1:18:31.880
+ So you can easily distinguish whether mounting behavior
+
+1:18:31.880 --> 1:18:36.880
+ by a male mouse is reproductive or agonistic,
+
+1:18:36.920 --> 1:18:40.200
+ aggressive according to whether it's accompanied
+
+1:18:40.200 --> 1:18:43.580
+ by ultrasonic vocalizations or not.
+
+1:18:43.580 --> 1:18:47.080
+ And it turns out that different brain regions
+
+1:18:47.080 --> 1:18:49.120
+ are maximally active
+
+1:18:49.120 --> 1:18:51.080
+ during these different types of mounting.
+
+1:18:51.080 --> 1:18:55.120
+ So VMH, the aggression locus,
+
+1:18:55.120 --> 1:18:58.380
+ is actually active during dominance mounting,
+
+1:18:58.380 --> 1:19:01.560
+ and you can stimulate mounting if you,
+
+1:19:01.560 --> 1:19:05.440
+ dominance mounting, if you weakly activate VMH,
+
+1:19:05.440 --> 1:19:08.880
+ whereas MPOA is most strongly activated
+
+1:19:08.880 --> 1:19:10.820
+ during sexual mounting,
+
+1:19:10.820 --> 1:19:12.800
+ and that's always accompanied
+
+1:19:12.800 --> 1:19:14.720
+ by the ultrasonic vocalization.
+
+1:19:14.720 --> 1:19:18.520
+ So this shows how difficult and dangerous it can be
+
+1:19:18.520 --> 1:19:23.360
+ to try to infer an animal's state or intent or emotion
+
+1:19:23.360 --> 1:19:25.840
+ from the behavior that it's exhibiting,
+
+1:19:25.840 --> 1:19:29.100
+ because the same behavior can mean very different things
+
+1:19:29.100 --> 1:19:30.480
+ depending on the context
+
+1:19:30.480 --> 1:19:32.160
+ or the interaction with the animal.
+
+1:19:32.160 --> 1:19:33.820
+ And I would say even more so
+
+1:19:33.820 --> 1:19:37.640
+ with when that animal is a human or is multiple humans.
+
+1:19:37.640 --> 1:19:38.480
+ That's right.
+
+1:19:38.480 --> 1:19:40.400
+ And there are many examples.
+
+1:19:40.400 --> 1:19:44.400
+ Animals show chasing to obtain food,
+
+1:19:44.400 --> 1:19:47.060
+ a prey animal that they're gonna kill and eat,
+
+1:19:47.060 --> 1:19:49.840
+ and they show chasing to obtain a mate
+
+1:19:49.840 --> 1:19:51.620
+ that they're gonna have sex with.
+
+1:19:51.620 --> 1:19:55.560
+ And so the intent of the chasing is completely different,
+
+1:19:55.560 --> 1:19:57.400
+ and we don't know in all these cases
+
+1:19:57.400 --> 1:19:59.520
+ whether there are separate circuits
+
+1:19:59.520 --> 1:20:01.760
+ or common circuits that are being activated.
+
+1:20:02.700 --> 1:20:04.800
+ I'm obsessed with dogs and dog breeds
+
+1:20:04.800 --> 1:20:06.140
+ and et cetera, et cetera.
+
+1:20:06.140 --> 1:20:08.760
+ And one thing I can tell you
+
+1:20:08.760 --> 1:20:12.760
+ is that female dogs will mount and thrust.
+
+1:20:12.760 --> 1:20:17.040
+ We had a female pit bull mix, very sweet dog,
+
+1:20:17.040 --> 1:20:20.640
+ but in observing her, it convinced me
+
+1:20:20.640 --> 1:20:22.880
+ that one can never assume
+
+1:20:22.880 --> 1:20:25.680
+ that male dogs are more aggressive than female dogs.
+
+1:20:25.680 --> 1:20:27.760
+ There's a, it turns out in talking to people
+
+1:20:27.760 --> 1:20:31.280
+ who are quite skilled at dog genetics and dog breeding,
+
+1:20:31.280 --> 1:20:33.920
+ that there's a dominance hierarchy within a litter,
+
+1:20:33.920 --> 1:20:38.280
+ and it crosses over male-female delineations.
+
+1:20:39.480 --> 1:20:40.840
+ So you can get a female in the litter
+
+1:20:40.840 --> 1:20:43.200
+ that's very dominant, a male that's very subordinate,
+
+1:20:43.200 --> 1:20:45.880
+ and no one really knows what relates to.
+
+1:20:45.880 --> 1:20:47.440
+ This is also why little dogs sometimes
+
+1:20:47.440 --> 1:20:50.600
+ will get right up in the face of a big Doberman Pinscher
+
+1:20:50.600 --> 1:20:51.440
+ and just start barking,
+
+1:20:51.440 --> 1:20:53.080
+ which is an idiotic thing for it to do,
+
+1:20:53.080 --> 1:20:56.280
+ but they can be dominant over a much larger dog.
+
+1:20:56.280 --> 1:20:58.560
+ Very strange, to me anyway.
+
+1:20:59.480 --> 1:21:02.160
+ Female-female mounting, do you observe it in mice?
+
+1:21:03.140 --> 1:21:04.640
+ Are there known circuits?
+
+1:21:04.640 --> 1:21:07.240
+ And what evokes female-female mounting,
+
+1:21:07.240 --> 1:21:10.440
+ or female-to-male mounting, if it occurs?
+
+1:21:10.440 --> 1:21:11.280
+ Good.
+
+1:21:11.280 --> 1:21:13.520
+ Yes, there is female,
+
+1:21:13.520 --> 1:21:16.460
+ there are clear examples of females
+
+1:21:16.460 --> 1:21:19.080
+ displaying male-type mounting behavior
+
+1:21:19.080 --> 1:21:20.580
+ towards other females.
+
+1:21:20.580 --> 1:21:23.960
+ We see this most commonly in the lab
+
+1:21:23.960 --> 1:21:27.360
+ where we are housing females with their sister,
+
+1:21:27.360 --> 1:21:29.580
+ say three or four in a cage.
+
+1:21:29.580 --> 1:21:33.480
+ We take one out and we have her mate with a male
+
+1:21:33.480 --> 1:21:35.260
+ where the male's doing the mounting.
+
+1:21:35.260 --> 1:21:39.040
+ Now we take that female and we put her back in the cage
+
+1:21:39.040 --> 1:21:42.840
+ with her litter mates and she starts mounting them.
+
+1:21:42.840 --> 1:21:45.960
+ Now what the function of that is,
+
+1:21:45.960 --> 1:21:49.040
+ if it has any function or what it means,
+
+1:21:49.040 --> 1:21:51.160
+ what's driving it, we don't know.
+
+1:21:51.160 --> 1:21:55.480
+ But we do know that if we stimulate the mount,
+
+1:21:55.480 --> 1:21:58.280
+ the neurons that control mounting in males
+
+1:21:58.280 --> 1:21:59.800
+ in the medial preoptic area,
+
+1:21:59.800 --> 1:22:03.760
+ if we stimulate that same population in females,
+
+1:22:03.760 --> 1:22:07.200
+ it evokes male-type mounting
+
+1:22:07.200 --> 1:22:09.700
+ towards either a male or a female target.
+
+1:22:09.700 --> 1:22:13.960
+ In fact, we have a movie where we have a female
+
+1:22:13.960 --> 1:22:16.560
+ that has just been mounted by a male.
+
+1:22:16.560 --> 1:22:19.640
+ So the male's on top and she's underneath
+
+1:22:19.640 --> 1:22:24.160
+ and we stimulate that region of MPOA in the female
+
+1:22:24.160 --> 1:22:27.440
+ and she crawls out from underneath the male
+
+1:22:27.440 --> 1:22:31.560
+ who has just mounted her, circles around behind him
+
+1:22:31.560 --> 1:22:33.400
+ and climbs up on top of him
+
+1:22:33.400 --> 1:22:36.560
+ and starts to try to mount him and thrust at him.
+
+1:22:36.560 --> 1:22:39.020
+ That has a name online, it's called a switch.
+
+1:22:39.020 --> 1:22:40.680
+ Is that right?
+
+1:22:40.680 --> 1:22:41.760
+ Don't ask me how I know that.
+
+1:22:41.760 --> 1:22:42.840
+ Okay.
+
+1:22:42.840 --> 1:22:47.020
+ But it's a pretty, yeah, it's a term that you hear.
+
+1:22:48.080 --> 1:22:50.640
+ You also hear the term topping from the bottom,
+
+1:22:50.640 --> 1:22:52.440
+ which it sounds like that is a literal topping
+
+1:22:52.440 --> 1:22:53.280
+ from the bottom. I see.
+
+1:22:53.280 --> 1:22:55.760
+ That's more of a psychological phrase from what I hear.
+
+1:22:55.760 --> 1:22:59.920
+ I have friends that are educating me in this language,
+
+1:22:59.920 --> 1:23:02.000
+ mostly because I find this kind
+
+1:23:02.000 --> 1:23:05.160
+ of neurobiological discussion fascinating.
+
+1:23:05.160 --> 1:23:08.100
+ At some point, right, I attempt in my mind
+
+1:23:08.100 --> 1:23:11.880
+ to superimpose observations from the online communities
+
+1:23:11.880 --> 1:23:14.440
+ that I've been told about and asked about to this,
+
+1:23:14.440 --> 1:23:16.520
+ but I should point out it's always dangerous
+
+1:23:16.520 --> 1:23:20.720
+ and in fact, inappropriate to make a one-to-one link.
+
+1:23:20.720 --> 1:23:23.600
+ Humans are, they maintain all the same neural circuitry
+
+1:23:23.600 --> 1:23:26.000
+ and pathways that we're talking about today in mice,
+
+1:23:26.000 --> 1:23:30.200
+ but that forebrain does allow for context, et cetera.
+
+1:23:30.200 --> 1:23:31.040
+ Yep.
+
+1:23:31.040 --> 1:23:36.040
+ So what the function is of female mounting,
+
+1:23:36.040 --> 1:23:39.580
+ I don't know, it could be a type of dominance display.
+
+1:23:39.580 --> 1:23:42.420
+ It's hard to measure that because people haven't worked
+
+1:23:42.420 --> 1:23:46.120
+ on female dominance hierarchies to the same extent
+
+1:23:46.120 --> 1:23:49.100
+ that they've worked on male dominance hierarchies,
+
+1:23:49.100 --> 1:23:54.100
+ but it indicates that the circuits for male type mounting
+
+1:23:54.120 --> 1:23:56.920
+ are there in females as early work
+
+1:23:56.920 --> 1:24:00.240
+ from Catherine Dulock suggested some years ago.
+
+1:24:00.240 --> 1:24:01.760
+ Fascinating, fascinating.
+
+1:24:01.760 --> 1:24:04.820
+ I love that paper because as you pointed out for Chase,
+
+1:24:04.820 --> 1:24:08.120
+ you know, for mounting behavior, you know,
+
+1:24:08.120 --> 1:24:11.440
+ we see it and we think one thing specifically.
+
+1:24:11.440 --> 1:24:13.340
+ And after hearing this result, actually,
+
+1:24:13.340 --> 1:24:14.960
+ I'm not a big fan of fight sports.
+
+1:24:14.960 --> 1:24:16.880
+ I watch them occasionally because friends are into them,
+
+1:24:16.880 --> 1:24:21.320
+ but I've seen boxing matches, MMA matches,
+
+1:24:21.320 --> 1:24:23.140
+ where at the end of a round,
+
+1:24:23.140 --> 1:24:25.120
+ if someone felt that they dominated,
+
+1:24:25.120 --> 1:24:29.240
+ they will do the unsportsmanlike thing of the thrusting
+
+1:24:29.240 --> 1:24:30.880
+ on the back of the other person before they get off,
+
+1:24:30.880 --> 1:24:32.480
+ almost like I dominated you.
+
+1:24:32.480 --> 1:24:35.080
+ And so mimicking sexual like behavior,
+
+1:24:35.080 --> 1:24:37.360
+ but there's no reason to think that it's sexual,
+
+1:24:37.360 --> 1:24:40.320
+ but they're sending a message of dominance is what implies.
+
+1:24:41.620 --> 1:24:45.520
+ I'd love to talk about something slightly off
+
+1:24:45.520 --> 1:24:47.620
+ from this circuitry, but I think that's related
+
+1:24:47.620 --> 1:24:49.300
+ to the circuitry, at least in some way,
+
+1:24:49.300 --> 1:24:52.560
+ which is this structure that I've always been fascinated by
+
+1:24:52.560 --> 1:24:54.940
+ and I can't figure out what the hell it's for
+
+1:24:54.940 --> 1:24:56.080
+ because it seems to be involved in everything,
+
+1:24:56.080 --> 1:25:00.320
+ which is the PAG, the periaqueductal gray,
+
+1:25:00.320 --> 1:25:01.800
+ which is a little bit further back in the brain
+
+1:25:01.800 --> 1:25:03.380
+ for people that don't know.
+
+1:25:03.380 --> 1:25:05.040
+ It's been studied in the context of pain.
+
+1:25:05.040 --> 1:25:06.600
+ It's been studied in the context
+
+1:25:06.600 --> 1:25:08.520
+ of the so-called lordosis response,
+
+1:25:08.520 --> 1:25:10.960
+ the receptivity or arching of the back of the female
+
+1:25:10.960 --> 1:25:13.560
+ to receive intromission and mating from the male.
+
+1:25:14.560 --> 1:25:16.480
+ How should we think about PAG?
+
+1:25:17.400 --> 1:25:19.600
+ Clearly it can't be involved in everything.
+
+1:25:19.600 --> 1:25:21.640
+ I'm guessing it's at least as complex
+
+1:25:21.640 --> 1:25:22.640
+ as some of these other regions
+
+1:25:22.640 --> 1:25:23.580
+ that we've been talking about,
+
+1:25:23.580 --> 1:25:25.420
+ different types of neurons controlling different things,
+
+1:25:25.420 --> 1:25:27.880
+ but how does PAG play into this?
+
+1:25:27.880 --> 1:25:29.960
+ In particular, I wanna know,
+
+1:25:29.960 --> 1:25:33.520
+ is there some mechanism of pain modulation and control
+
+1:25:33.520 --> 1:25:37.400
+ during fighting and or mating?
+
+1:25:37.400 --> 1:25:39.600
+ And the reason I ask is that,
+
+1:25:39.600 --> 1:25:42.240
+ while I'm not a combat sports person,
+
+1:25:42.240 --> 1:25:44.560
+ years ago I did a little bit of martial arts
+
+1:25:44.560 --> 1:25:46.800
+ and it always was impressive to me
+
+1:25:46.800 --> 1:25:49.320
+ how little it hurt to get punched during a fight
+
+1:25:49.320 --> 1:25:51.920
+ and how much it hurt afterwards, right?
+
+1:25:51.920 --> 1:25:54.440
+ So there clearly is some endogenous pain control
+
+1:25:55.480 --> 1:25:58.760
+ that then wears off and then you feel beat up,
+
+1:25:58.760 --> 1:26:00.720
+ at least in my case, I felt beat up.
+
+1:26:00.720 --> 1:26:04.200
+ What's PAG doing vis-a-vis pain and vis-a-vis,
+
+1:26:04.200 --> 1:26:06.200
+ and what's pain doing vis-a-vis these other behaviors?
+
+1:26:06.200 --> 1:26:07.040
+ Good, good.
+
+1:26:07.040 --> 1:26:12.040
+ So I think of PAG like a old fashioned telephone switchboard
+
+1:26:13.960 --> 1:26:17.460
+ where there are calls coming in
+
+1:26:17.460 --> 1:26:20.840
+ and then the cables have to be punched into the right hole
+
+1:26:20.840 --> 1:26:24.800
+ to get the information to be routed to the right recipient
+
+1:26:24.800 --> 1:26:26.480
+ on the other end of it,
+
+1:26:26.480 --> 1:26:30.600
+ because pretty much every type of innate behavior
+
+1:26:30.600 --> 1:26:34.360
+ you can think of has had the PAG implicated.
+
+1:26:34.360 --> 1:26:37.480
+ There's a whole literature showing the involvement
+
+1:26:37.480 --> 1:26:41.660
+ of the PAG in fear, different regions of the PAG.
+
+1:26:41.660 --> 1:26:45.320
+ The dorsal PAG is involved in panic-like behavior,
+
+1:26:45.320 --> 1:26:46.360
+ running away.
+
+1:26:46.360 --> 1:26:49.840
+ The ventral PAG is involved in freezing behavior.
+
+1:26:50.900 --> 1:26:55.900
+ Both the MPOA and VMH send projections to the PAG,
+
+1:26:55.900 --> 1:26:58.900
+ to different regions of the PAG.
+
+1:26:58.900 --> 1:27:02.800
+ So in cross-section, I hate to say this,
+
+1:27:02.800 --> 1:27:04.200
+ but in cross-section,
+
+1:27:04.200 --> 1:27:06.940
+ the PAG kind of looks like the water in a toilet
+
+1:27:06.940 --> 1:27:09.980
+ when you're standing over an open toilet bowl.
+
+1:27:09.980 --> 1:27:14.980
+ And if you imagine a clock face projected onto that,
+
+1:27:15.040 --> 1:27:19.960
+ it's like the PAG has sectors from one to 12,
+
+1:27:19.960 --> 1:27:21.300
+ maybe even more of them.
+
+1:27:21.300 --> 1:27:22.920
+ And in each of those sectors,
+
+1:27:22.920 --> 1:27:25.740
+ you find different neurons from the hypothalamus
+
+1:27:25.740 --> 1:27:26.880
+ are projecting.
+
+1:27:26.880 --> 1:27:31.220
+ So could turn out that there is a topographic arrangement
+
+1:27:31.220 --> 1:27:34.220
+ along the dorsal ventral axis of the PAG
+
+1:27:34.220 --> 1:27:37.020
+ and the medial lateral axis of the PAG
+
+1:27:37.020 --> 1:27:39.860
+ that determines the type of behavior
+
+1:27:39.860 --> 1:27:43.140
+ that will be emitted when neurons in that region
+
+1:27:43.140 --> 1:27:43.980
+ are stimulated.
+
+1:27:43.980 --> 1:27:46.060
+ And I think sort of all of the evidence
+
+1:27:46.060 --> 1:27:47.840
+ is pointing in that direction,
+
+1:27:47.840 --> 1:27:50.580
+ but by no means has it been mapped out.
+
+1:27:50.580 --> 1:27:54.040
+ Now, the thing that you mentioned about it not hurting
+
+1:27:54.040 --> 1:27:56.940
+ when you got beat up during martial arts,
+
+1:27:56.940 --> 1:27:59.260
+ there is a well-known phenomenon
+
+1:27:59.260 --> 1:28:03.820
+ called fear-induced analgesia,
+
+1:28:03.820 --> 1:28:08.740
+ where when an animal is in a high state of fear,
+
+1:28:08.740 --> 1:28:11.220
+ like if it's trying to defend itself,
+
+1:28:11.220 --> 1:28:16.220
+ there is a suppression of pain responses.
+
+1:28:16.220 --> 1:28:20.660
+ And I'm not sure completely about the mechanisms
+
+1:28:20.660 --> 1:28:22.740
+ and how well that's understood.
+
+1:28:22.740 --> 1:28:27.740
+ But for example, the adrenal gland has a peptide in it
+
+1:28:28.780 --> 1:28:32.220
+ that is released from the adrenal medulla,
+
+1:28:32.220 --> 1:28:34.900
+ which controls the fight or flight responses.
+
+1:28:34.900 --> 1:28:38.940
+ And that peptide has analgesic activities.
+
+1:28:38.940 --> 1:28:40.020
+ Now whether- Ask what that peptide is.
+
+1:28:40.020 --> 1:28:43.300
+ It's called bovine adrenal medullary peptide
+
+1:28:43.300 --> 1:28:45.480
+ of 22 amino acid residues.
+
+1:28:45.480 --> 1:28:49.500
+ And I only know about it because it activates a receptor
+
+1:28:49.500 --> 1:28:51.560
+ that we discovered many years ago
+
+1:28:51.560 --> 1:28:54.780
+ that's involved in pain, and we thought it promoted pain,
+
+1:28:54.780 --> 1:28:57.700
+ but it turns out that this actually inhibits pain.
+
+1:28:57.700 --> 1:29:00.460
+ It's like an endogenous analgesic.
+
+1:29:00.460 --> 1:29:05.380
+ Whether this is happening, this type of analgesia
+
+1:29:05.380 --> 1:29:08.100
+ is happening when an animal is engaged
+
+1:29:08.100 --> 1:29:13.100
+ in offensive aggression or in mating behavior,
+
+1:29:13.220 --> 1:29:16.420
+ I don't know, but it certainly is possible.
+
+1:29:16.420 --> 1:29:20.480
+ And I don't know whether these analgesic mechanisms
+
+1:29:20.480 --> 1:29:22.500
+ are happening in the PAG.
+
+1:29:22.500 --> 1:29:25.540
+ They could also be happening a little further down
+
+1:29:25.540 --> 1:29:26.620
+ in the spinal cord.
+
+1:29:26.620 --> 1:29:30.000
+ The PAG is really continuous with the spinal cord.
+
+1:29:30.000 --> 1:29:33.900
+ If you just follow it down towards the tail of an animal,
+
+1:29:33.900 --> 1:29:36.700
+ you will wind up in the spinal cord.
+
+1:29:36.700 --> 1:29:40.620
+ And so it could be that there are influences
+
+1:29:40.620 --> 1:29:44.020
+ acting at many levels on pain in the PAG
+
+1:29:44.020 --> 1:29:46.380
+ and in the spinal cord as well.
+
+1:29:46.380 --> 1:29:49.100
+ And it may well be known, I just don't know it.
+
+1:29:49.100 --> 1:29:51.780
+ I wanna distinguish clearly between things
+
+1:29:51.780 --> 1:29:55.100
+ that are not known, that I know are unknown,
+
+1:29:55.100 --> 1:29:58.780
+ which is in a fairly small area where I have expertise
+
+1:29:58.780 --> 1:30:01.820
+ from things that may be known, but I'm ignorant of them
+
+1:30:01.820 --> 1:30:04.300
+ because I just don't have a broad enough knowledge base
+
+1:30:04.300 --> 1:30:05.140
+ to know that.
+
+1:30:05.140 --> 1:30:08.220
+ Sure, we appreciate those delineations.
+
+1:30:09.260 --> 1:30:10.700
+ Thank you, PAG.
+
+1:30:10.700 --> 1:30:11.740
+ I think this description of it
+
+1:30:11.740 --> 1:30:14.100
+ is an old-fashioned telephone switchboard.
+
+1:30:14.100 --> 1:30:16.420
+ And now every time I look into the toilet,
+
+1:30:16.420 --> 1:30:18.140
+ I'll think about the periaqueductal gray.
+
+1:30:18.140 --> 1:30:20.260
+ And every time I see an image of periaqueductal gray,
+
+1:30:20.260 --> 1:30:21.260
+ I'll think about a toilet.
+
+1:30:21.260 --> 1:30:23.660
+ That is an excellent description
+
+1:30:23.660 --> 1:30:25.220
+ because in fact, I drew a circle
+
+1:30:25.220 --> 1:30:27.640
+ with a little thing at the bottom.
+
+1:30:27.640 --> 1:30:30.300
+ Well, I'll put a link to a picture of PAG
+
+1:30:30.300 --> 1:30:33.220
+ and you'll understand why David and I are chuckling here
+
+1:30:33.220 --> 1:30:35.420
+ because indeed it looks like a toilet
+
+1:30:35.420 --> 1:30:36.820
+ when staring into a toilet.
+
+1:30:38.320 --> 1:30:40.360
+ Tell us about tachykinin.
+
+1:30:40.360 --> 1:30:41.700
+ I've talked about this a couple of times
+
+1:30:41.700 --> 1:30:42.940
+ on different podcast episodes
+
+1:30:42.940 --> 1:30:47.420
+ because of its relationship to social isolation.
+
+1:30:47.420 --> 1:30:51.100
+ And in part because the podcast was launched
+
+1:30:51.100 --> 1:30:53.700
+ during a time when there was more social isolation.
+
+1:30:54.660 --> 1:30:56.820
+ My understanding is that tachykinin,
+
+1:30:56.820 --> 1:30:59.360
+ and you'll tell us what it is in a moment,
+
+1:30:59.360 --> 1:31:01.820
+ is present in flies and mice and in humans
+
+1:31:01.820 --> 1:31:05.860
+ and may do similar things in those species.
+
+1:31:05.860 --> 1:31:06.700
+ That's right.
+
+1:31:06.700 --> 1:31:09.580
+ So, tachykinin is,
+
+1:31:09.580 --> 1:31:12.980
+ refers to a family of related neuropeptides.
+
+1:31:12.980 --> 1:31:15.180
+ So these are brain chemicals.
+
+1:31:15.180 --> 1:31:19.420
+ They're different from dopamine and serotonin
+
+1:31:19.420 --> 1:31:23.080
+ in that they're not small organic molecules.
+
+1:31:23.080 --> 1:31:25.860
+ They're actually short pieces of protein
+
+1:31:25.860 --> 1:31:28.760
+ that are directly encoded by genes
+
+1:31:28.760 --> 1:31:32.300
+ that are active in specific neurons and not in others.
+
+1:31:32.300 --> 1:31:34.100
+ And when those neurons are active,
+
+1:31:34.100 --> 1:31:36.900
+ those neuropeptides are released together
+
+1:31:36.900 --> 1:31:40.560
+ with classical transmitters like glutamate, whatever.
+
+1:31:40.560 --> 1:31:44.980
+ Tachykinins have been famously implicated in pain,
+
+1:31:44.980 --> 1:31:49.980
+ particularly tachykinin-1, which is called substance P,
+
+1:31:50.400 --> 1:31:53.340
+ one of the original pain modulating.
+
+1:31:53.340 --> 1:31:57.460
+ This is something that promotes inflammatory pain.
+
+1:31:57.460 --> 1:32:00.020
+ But there are other tachykinin genes.
+
+1:32:00.020 --> 1:32:01.660
+ In mice, there are two.
+
+1:32:01.660 --> 1:32:03.980
+ In humans, I think there are three.
+
+1:32:03.980 --> 1:32:06.700
+ And in Drosophila, there is one.
+
+1:32:06.700 --> 1:32:09.260
+ And the way we got into tachykinins
+
+1:32:09.260 --> 1:32:12.540
+ is from studying aggression in flies.
+
+1:32:12.540 --> 1:32:17.300
+ We thought, since neuropeptides have this remarkable
+
+1:32:17.300 --> 1:32:21.260
+ parallel evolutionary conservation of structure
+
+1:32:21.260 --> 1:32:25.460
+ and function, like neuropeptide Y controls feeding
+
+1:32:25.460 --> 1:32:28.980
+ in worms, in flies, and mice, and in people,
+
+1:32:28.980 --> 1:32:32.200
+ oxytocin-like peptides control reproduction
+
+1:32:32.200 --> 1:32:35.580
+ in worms and mice and in people,
+
+1:32:35.580 --> 1:32:37.660
+ we thought we might find peptides
+
+1:32:37.660 --> 1:32:40.660
+ that control aggression in flies and in people.
+
+1:32:40.660 --> 1:32:44.720
+ And so we did a screen, unbiased screen of peptides
+
+1:32:44.720 --> 1:32:48.660
+ and found indeed that one of the tachykinins,
+
+1:32:48.660 --> 1:32:51.580
+ Drosophila tachykinin, those neurons,
+
+1:32:51.580 --> 1:32:54.780
+ when you activate them, strongly promote aggression
+
+1:32:54.780 --> 1:32:57.560
+ and it depends on the release of tachykinin.
+
+1:32:57.560 --> 1:33:00.580
+ Now, the interesting thing is that in flies,
+
+1:33:00.580 --> 1:33:05.440
+ just like in people and practically any other social animal
+
+1:33:05.440 --> 1:33:06.940
+ that shows aggression,
+
+1:33:06.940 --> 1:33:10.420
+ social isolation increases aggressiveness.
+
+1:33:10.420 --> 1:33:14.940
+ So putting a violent prisoner in solitary confinement
+
+1:33:14.940 --> 1:33:16.380
+ is absolutely the worst,
+
+1:33:16.380 --> 1:33:19.060
+ most counterproductive thing you could do to them.
+
+1:33:19.060 --> 1:33:23.060
+ And indeed we found in flies that social isolation
+
+1:33:23.060 --> 1:33:26.900
+ increases the level of tachykinin in the brain.
+
+1:33:26.900 --> 1:33:29.160
+ And if we shut that gene down,
+
+1:33:29.160 --> 1:33:32.640
+ it prevents the isolation from increasing aggression.
+
+1:33:32.640 --> 1:33:35.660
+ So since my lab also works on mice,
+
+1:33:35.660 --> 1:33:38.960
+ it was natural to see whether tachykinins
+
+1:33:38.960 --> 1:33:42.260
+ might be upregulated in social isolation
+
+1:33:42.260 --> 1:33:44.500
+ and whether they play a role in aggression.
+
+1:33:44.500 --> 1:33:46.860
+ And this is work done by a former postdoc,
+
+1:33:46.860 --> 1:33:48.060
+ Moriel Zelikovsky,
+
+1:33:48.060 --> 1:33:50.860
+ now at University of Salt Lake City in Utah.
+
+1:33:50.860 --> 1:33:54.720
+ And she found remarkably that when mice
+
+1:33:54.720 --> 1:33:56.880
+ are socially isolated for two weeks,
+
+1:33:56.880 --> 1:34:01.880
+ there is this massive upregulation of tachykinin II
+
+1:34:02.460 --> 1:34:03.420
+ in their brain.
+
+1:34:03.420 --> 1:34:06.300
+ In fact, if you tag the peptide
+
+1:34:06.300 --> 1:34:09.940
+ with a green fluorescent protein from a jellyfish,
+
+1:34:09.940 --> 1:34:12.940
+ genetically, the brain looks green
+
+1:34:12.940 --> 1:34:14.940
+ when the mice are socially isolated
+
+1:34:14.940 --> 1:34:17.740
+ because there's so much of this stuff released.
+
+1:34:17.740 --> 1:34:22.740
+ And she went on to show that that increase in tachykinin
+
+1:34:24.100 --> 1:34:27.820
+ is responsible for the effect of social isolation
+
+1:34:27.820 --> 1:34:31.620
+ to increase aggressiveness and to increase fear
+
+1:34:31.620 --> 1:34:33.260
+ and to increase anxiety.
+
+1:34:33.260 --> 1:34:36.860
+ And in fact, there are drugs that block the receptor
+
+1:34:36.860 --> 1:34:41.180
+ for tachykinin, which were tested in humans and abandoned
+
+1:34:41.180 --> 1:34:43.820
+ because they had no efficacy in the tests
+
+1:34:43.820 --> 1:34:45.600
+ that they were analyzed for.
+
+1:34:45.600 --> 1:34:49.760
+ If you give those drugs to a socially isolated mouse,
+
+1:34:49.760 --> 1:34:53.420
+ it blocks all of the effects of social isolation.
+
+1:34:53.420 --> 1:34:55.340
+ It blocks the aggression,
+
+1:34:55.340 --> 1:34:58.920
+ it blocks the increased fear and the increased anxiety.
+
+1:34:58.920 --> 1:35:02.540
+ And that Moriel described it, the mice just look chill.
+
+1:35:02.540 --> 1:35:05.260
+ It's not a sedative, which is really important.
+
+1:35:05.260 --> 1:35:08.240
+ It's not that the mice are going to sleep.
+
+1:35:08.240 --> 1:35:13.220
+ Most remarkably is once you socially isolate a mouse
+
+1:35:13.220 --> 1:35:14.620
+ and it becomes aggressive,
+
+1:35:14.620 --> 1:35:18.960
+ you can never put it back in its cage with its brothers
+
+1:35:18.960 --> 1:35:22.100
+ from its litter because it will kill them all overnight.
+
+1:35:22.100 --> 1:35:25.940
+ But if you give it this drug, which is called Osanatant,
+
+1:35:25.940 --> 1:35:29.700
+ that blocks tachykinin II,
+
+1:35:29.700 --> 1:35:33.300
+ that mouse can be returned to the cage with its brothers
+
+1:35:33.300 --> 1:35:37.340
+ and will not attack them and seems to be happy about that
+
+1:35:37.340 --> 1:35:38.700
+ for the rest of the time.
+
+1:35:38.700 --> 1:35:42.540
+ So this is an incredibly powerful effect of this drug.
+
+1:35:42.540 --> 1:35:44.780
+ And I've been really interested
+
+1:35:44.780 --> 1:35:48.140
+ in trying to get pharmaceutical companies
+
+1:35:48.140 --> 1:35:49.300
+ to test this drug,
+
+1:35:49.300 --> 1:35:52.980
+ which has a really good safety profile in humans,
+
+1:35:52.980 --> 1:35:56.380
+ in testing it in people who are subjected
+
+1:35:56.380 --> 1:36:00.620
+ to social isolation stress or bereavement stress.
+
+1:36:00.620 --> 1:36:02.980
+ And this is one of the areas
+
+1:36:02.980 --> 1:36:06.940
+ where I learned an eye-opening lesson
+
+1:36:06.940 --> 1:36:09.700
+ as a basic scientist who naively thought
+
+1:36:09.700 --> 1:36:11.460
+ that if you make a discovery
+
+1:36:11.460 --> 1:36:15.220
+ and it has translational applications to humans,
+
+1:36:15.220 --> 1:36:17.740
+ that pharmaceutical companies are going to be falling
+
+1:36:17.740 --> 1:36:20.020
+ all over themselves to try it.
+
+1:36:20.020 --> 1:36:25.020
+ And they're not interested because once burned, twice shy.
+
+1:36:25.020 --> 1:36:29.660
+ These drugs were tested for efficacy in schizophrenia.
+
+1:36:29.660 --> 1:36:31.700
+ I have no idea why.
+
+1:36:31.700 --> 1:36:34.780
+ There's very little preclinical data to suggest that.
+
+1:36:34.780 --> 1:36:37.380
+ Not surprisingly, they failed.
+
+1:36:37.380 --> 1:36:41.940
+ When a drug fails in clinical trials in phase three,
+
+1:36:41.940 --> 1:36:45.940
+ it costs $100 million to the company
+
+1:36:45.940 --> 1:36:48.740
+ that carried out that clinical trial.
+
+1:36:48.740 --> 1:36:53.500
+ So there's a huge slag heap of discarded pharmaceuticals.
+
+1:36:53.500 --> 1:36:57.780
+ Many of them inhibitors of neuropeptide action
+
+1:36:57.780 --> 1:37:02.220
+ that could be useful in other indications,
+
+1:37:02.220 --> 1:37:04.100
+ such as the one we discovered.
+
+1:37:04.100 --> 1:37:07.500
+ But there's a huge economic disincentive
+
+1:37:07.500 --> 1:37:11.860
+ for pharmaceutical companies to test them again,
+
+1:37:11.860 --> 1:37:14.300
+ because the conclusion that they drew
+
+1:37:14.300 --> 1:37:16.140
+ from all these failed tests,
+
+1:37:16.140 --> 1:37:20.220
+ particularly in the 2010s and before that,
+
+1:37:20.220 --> 1:37:22.740
+ is that the reason they failed
+
+1:37:22.740 --> 1:37:26.540
+ is because animal experiments with drugs
+
+1:37:26.540 --> 1:37:31.180
+ don't predict how humans will respond to the drugs.
+
+1:37:31.180 --> 1:37:35.100
+ And therefore, we shouldn't try to extrapolate
+
+1:37:35.100 --> 1:37:38.740
+ from any other data that we get from animal experiments,
+
+1:37:38.740 --> 1:37:40.820
+ mouse or rat experiments, to humans,
+
+1:37:40.820 --> 1:37:43.540
+ because they'll lead us down the wrong track.
+
+1:37:43.540 --> 1:37:45.940
+ And I think that that is probably wrong.
+
+1:37:45.940 --> 1:37:48.220
+ In some cases, it may be right,
+
+1:37:48.220 --> 1:37:51.140
+ but in other cases, there's good reason to think,
+
+1:37:51.140 --> 1:37:54.020
+ because these brain regions and molecules
+
+1:37:54.020 --> 1:37:56.740
+ are so evolutionarily conserved
+
+1:37:56.740 --> 1:38:00.500
+ that they ought to be playing a similar role in humans.
+
+1:38:00.500 --> 1:38:04.260
+ In fact, there is a paper showing
+
+1:38:04.260 --> 1:38:09.260
+ that in humans that have borderline personality disorder,
+
+1:38:09.780 --> 1:38:11.460
+ there's a strong correlation
+
+1:38:11.460 --> 1:38:15.500
+ between their self-reported level of aggressiveness
+
+1:38:15.500 --> 1:38:18.620
+ and serum levels of a tachykinin,
+
+1:38:18.620 --> 1:38:20.660
+ in this case, tachykinin-1,
+
+1:38:20.660 --> 1:38:22.860
+ as detected by radioimmunoassay.
+
+1:38:22.860 --> 1:38:25.100
+ This is work of Emil Coccaro,
+
+1:38:25.100 --> 1:38:28.620
+ who's a clinical psychiatrist at the University of Chicago.
+
+1:38:28.620 --> 1:38:33.220
+ So there is a smoking gun in the case of humans as well.
+
+1:38:33.220 --> 1:38:36.220
+ And I was actually trying
+
+1:38:36.220 --> 1:38:38.780
+ to interest a pharmaceutical company
+
+1:38:38.780 --> 1:38:41.700
+ that was testing these drugs,
+
+1:38:41.700 --> 1:38:46.700
+ actually for treatment of hot flashes in females, in humans,
+
+1:38:46.860 --> 1:38:49.860
+ where there is actually good animal data
+
+1:38:49.860 --> 1:38:51.980
+ to think that it might be useful.
+
+1:38:51.980 --> 1:38:55.140
+ But I realized that this clinical trial
+
+1:38:55.140 --> 1:38:58.700
+ was going on during the COVID pandemic.
+
+1:38:58.700 --> 1:38:59.900
+ And I approached them and said,
+
+1:38:59.900 --> 1:39:02.860
+ look, nature may have actually done for you
+
+1:39:02.860 --> 1:39:05.020
+ the experiment that I want you to do,
+
+1:39:05.020 --> 1:39:08.140
+ because some of the people who are getting drug or placebo
+
+1:39:08.140 --> 1:39:10.620
+ are gonna have been socially isolated,
+
+1:39:10.620 --> 1:39:12.140
+ and some of them will have not.
+
+1:39:12.140 --> 1:39:14.780
+ Why don't you get them to fill out questionnaires
+
+1:39:14.780 --> 1:39:17.340
+ and see whether the ones who are given the drug
+
+1:39:17.340 --> 1:39:21.540
+ and socially isolated felt less stressed and less anxious
+
+1:39:21.540 --> 1:39:23.900
+ than the ones who were not socially isolated,
+
+1:39:23.900 --> 1:39:26.180
+ and they would not touch it
+
+1:39:26.180 --> 1:39:29.300
+ because they're in the middle of a clinical trial
+
+1:39:29.300 --> 1:39:31.820
+ for a different indication for this drug,
+
+1:39:31.820 --> 1:39:35.220
+ and they have to report any observation
+
+1:39:35.220 --> 1:39:38.980
+ that they make about that drug in their patient population.
+
+1:39:38.980 --> 1:39:41.460
+ So if they were to ask these questions
+
+1:39:41.460 --> 1:39:44.060
+ and get an unfavorable answer,
+
+1:39:44.060 --> 1:39:46.740
+ oh my God, I felt even worse when I took this drug
+
+1:39:46.740 --> 1:39:47.980
+ and I was isolated,
+
+1:39:47.980 --> 1:39:51.220
+ they would be obliged to report that to the FDA,
+
+1:39:51.220 --> 1:39:53.180
+ and that could torpedo the chances
+
+1:39:53.180 --> 1:39:54.820
+ for the drug being approved
+
+1:39:54.820 --> 1:39:56.900
+ in the thing that it was in clinical trials for.
+
+1:39:56.900 --> 1:40:00.980
+ So it's better not to ask and not to know
+
+1:40:02.380 --> 1:40:05.180
+ than it is to try to find out more information
+
+1:40:05.180 --> 1:40:07.780
+ that could lead to another clinical indication.
+
+1:40:07.780 --> 1:40:12.660
+ So I remain convinced that this family of drugs
+
+1:40:12.660 --> 1:40:17.100
+ could have very powerful uses in treating some forms
+
+1:40:17.100 --> 1:40:21.260
+ of stress-induced anxiety or aggressiveness in humans,
+
+1:40:21.260 --> 1:40:24.420
+ but it's just very difficult for economic reasons
+
+1:40:24.420 --> 1:40:26.940
+ to find a way to get somebody to test that.
+
+1:40:26.940 --> 1:40:30.460
+ Yeah, a true shame that these companies won't do this,
+
+1:40:30.460 --> 1:40:32.300
+ and especially given the fact
+
+1:40:32.300 --> 1:40:34.180
+ that many of these drugs exist
+
+1:40:34.180 --> 1:40:36.900
+ and their safety profiles are established,
+
+1:40:36.900 --> 1:40:39.540
+ because that's always a serious consideration
+
+1:40:39.540 --> 1:40:41.780
+ when embarking on a clinical trial.
+
+1:40:41.780 --> 1:40:44.460
+ And perhaps in hearing this discussion,
+
+1:40:44.460 --> 1:40:46.340
+ someone out there will understand
+
+1:40:46.340 --> 1:40:49.620
+ the key importance of this and will reach out to us,
+
+1:40:49.620 --> 1:40:52.300
+ will provide ways to do that
+
+1:40:52.300 --> 1:40:55.140
+ to get such a study going in humans.
+
+1:40:55.140 --> 1:40:57.540
+ Because I think if enough laboratories
+
+1:40:57.540 --> 1:40:59.820
+ ran small-scale clinical trials,
+
+1:40:59.820 --> 1:41:02.060
+ pharma certainly would perk up their ears, right?
+
+1:41:02.060 --> 1:41:05.660
+ I mean, they're so strategic sometimes to their own.
+
+1:41:05.660 --> 1:41:07.540
+ I mean, I would like to say also,
+
+1:41:07.540 --> 1:41:10.340
+ I'd like to see this tested on pets.
+
+1:41:10.340 --> 1:41:13.060
+ I mean, there's a huge number of pets right now
+
+1:41:13.060 --> 1:41:15.660
+ that are suffering separation anxiety
+
+1:41:15.660 --> 1:41:18.540
+ because humans bought them to keep them company
+
+1:41:18.540 --> 1:41:19.900
+ during the COVID pandemic.
+
+1:41:19.900 --> 1:41:20.740
+ And now they're home alone.
+
+1:41:20.740 --> 1:41:22.420
+ And now they're home alone, okay?
+
+1:41:22.420 --> 1:41:24.540
+ And if this thing works in mice,
+
+1:41:24.540 --> 1:41:26.380
+ there's certainly a higher chance
+
+1:41:26.380 --> 1:41:28.980
+ it's gonna work in dogs or in cats
+
+1:41:28.980 --> 1:41:30.780
+ than it is gonna work in humans.
+
+1:41:30.780 --> 1:41:33.740
+ And if it did, that would be even more encouragement
+
+1:41:33.740 --> 1:41:35.660
+ to continue along those lines.
+
+1:41:35.660 --> 1:41:39.180
+ People sometimes forget that although we work on animals
+
+1:41:39.180 --> 1:41:41.500
+ and we ultimately wanna understand humans,
+
+1:41:41.500 --> 1:41:44.220
+ we care about how our results apply
+
+1:41:44.220 --> 1:41:46.740
+ to the welfare of animals as well,
+
+1:41:46.740 --> 1:41:48.780
+ and particularly domestic pets,
+
+1:41:48.780 --> 1:41:51.980
+ which is a billion, multi-billion dollar industry
+
+1:41:51.980 --> 1:41:52.900
+ in this country.
+
+1:41:52.900 --> 1:41:56.300
+ So if there's ways that they can be made to feel better
+
+1:41:56.300 --> 1:41:59.500
+ when they're separated from their owners,
+
+1:41:59.500 --> 1:42:01.300
+ that would certainly be a good thing.
+
+1:42:01.300 --> 1:42:02.780
+ Absolutely.
+
+1:42:02.780 --> 1:42:03.820
+ We will put out the call.
+
+1:42:03.820 --> 1:42:05.060
+ We are putting out the call.
+
+1:42:05.060 --> 1:42:10.540
+ And I know for sure there will be a response.
+
+1:42:10.540 --> 1:42:13.420
+ Just underscoring what we've been talking about even more,
+
+1:42:13.420 --> 1:42:16.740
+ every time we hear about a school shooting,
+
+1:42:16.740 --> 1:42:18.060
+ like in Texas recently,
+
+1:42:18.060 --> 1:42:20.300
+ or I happened to be in New York during the time
+
+1:42:20.300 --> 1:42:23.020
+ when there was a subway shooting,
+
+1:42:23.020 --> 1:42:28.140
+ for whatever reason, I listened to the book about Columbine
+
+1:42:28.140 --> 1:42:30.020
+ that went into a very detailed way
+
+1:42:30.020 --> 1:42:33.260
+ about the origin of those boys and that committed that.
+
+1:42:33.260 --> 1:42:38.260
+ And every single time the person who commits those acts
+
+1:42:39.180 --> 1:42:41.460
+ is socially isolated, as far as I know.
+
+1:42:41.460 --> 1:42:42.980
+ There might be some exceptions there.
+
+1:42:42.980 --> 1:42:44.300
+ And sometimes this crosses over
+
+1:42:44.300 --> 1:42:46.460
+ with other mental health issues, but sometimes no,
+
+1:42:46.460 --> 1:42:48.180
+ no apparent mental health issues.
+
+1:42:48.180 --> 1:42:52.420
+ So social isolation clearly drives powerful neurochemical
+
+1:42:52.420 --> 1:42:54.300
+ and neurobiological changes.
+
+1:42:54.300 --> 1:42:57.020
+ I really hope that tachykinin 1 and 2,
+
+1:42:57.020 --> 1:42:58.860
+ those are the main ones in humans,
+
+1:42:58.860 --> 1:43:01.420
+ will be explored in more detail.
+
+1:43:01.420 --> 1:43:02.940
+ Also, I didn't know that tachykinin 1
+
+1:43:02.940 --> 1:43:05.860
+ is substance P and substance P is tachykinin 1.
+
+1:43:05.860 --> 1:43:08.060
+ Tachykinin 1 is the gene name
+
+1:43:08.060 --> 1:43:12.260
+ and tachykinin 2 in humans is called neurokinin B.
+
+1:43:12.260 --> 1:43:14.180
+ That's the name of the protein.
+
+1:43:14.180 --> 1:43:16.100
+ I just referred to it by the gene name
+
+1:43:16.100 --> 1:43:17.300
+ because it makes it easier
+
+1:43:17.300 --> 1:43:18.780
+ and I don't have to keep remembering
+
+1:43:18.780 --> 1:43:20.300
+ two names for each thing.
+
+1:43:20.300 --> 1:43:22.060
+ And I, if I'm not mistaken,
+
+1:43:22.060 --> 1:43:25.540
+ you put yourself in the company of geneticists
+
+1:43:25.540 --> 1:43:26.820
+ because of your original training
+
+1:43:26.820 --> 1:43:29.860
+ was in genetics, immunology and areas related to that.
+
+1:43:29.860 --> 1:43:31.540
+ It was in cell biology
+
+1:43:31.540 --> 1:43:34.700
+ and I didn't actually have formal training in genetics
+
+1:43:34.700 --> 1:43:35.900
+ as a graduate student,
+
+1:43:35.900 --> 1:43:38.180
+ but I think I'm a geneticist at heart.
+
+1:43:38.180 --> 1:43:41.300
+ That's just the way I like to think about things.
+
+1:43:41.300 --> 1:43:43.420
+ And when I started working on flies,
+
+1:43:43.420 --> 1:43:46.020
+ that sort of, I came out of the closet
+
+1:43:46.020 --> 1:43:48.220
+ as a geneticist, as it were.
+
+1:43:48.220 --> 1:43:49.660
+ Wonderful.
+
+1:43:49.660 --> 1:43:50.900
+ As long as we're talking about humans,
+
+1:43:50.900 --> 1:43:51.780
+ I'd love to get your thoughts
+
+1:43:51.780 --> 1:43:53.200
+ about human studies of emotion.
+
+1:43:53.200 --> 1:43:55.140
+ I know you wrote this book with Ralph Adol.
+
+1:43:55.140 --> 1:43:56.220
+ So you have this new book,
+
+1:43:56.220 --> 1:43:57.380
+ which we'll provide a link to,
+
+1:43:57.380 --> 1:43:59.840
+ which I've read front to back twice.
+
+1:43:59.840 --> 1:44:01.020
+ It's phenomenal.
+
+1:44:01.020 --> 1:44:02.460
+ I've mentioned it before on the podcast.
+
+1:44:02.460 --> 1:44:05.140
+ It's really, there are books that are worth reading
+
+1:44:05.140 --> 1:44:06.620
+ and then there are books that are important.
+
+1:44:06.620 --> 1:44:08.220
+ And I think this book is truly important
+
+1:44:08.220 --> 1:44:10.800
+ for the general population to read and understand.
+
+1:44:10.800 --> 1:44:13.220
+ And neuroscientists should read and understand the contents
+
+1:44:13.220 --> 1:44:17.060
+ because we, as a culture,
+
+1:44:17.060 --> 1:44:19.500
+ are way off in terms of how we think about emotions
+
+1:44:19.500 --> 1:44:21.340
+ and states and behaviors.
+
+1:44:21.340 --> 1:44:22.460
+ So we'll put a link to that.
+
+1:44:22.460 --> 1:44:25.880
+ It's really worth the time and energy to read it.
+
+1:44:25.880 --> 1:44:27.520
+ And it's written beautifully, I should say.
+
+1:44:27.520 --> 1:44:30.280
+ Very accessible, even for non-scientists.
+
+1:44:30.280 --> 1:44:35.280
+ There's a heat map diagram in that book that I think about.
+
+1:44:35.580 --> 1:44:38.660
+ This is a heat map diagram of subjective reports
+
+1:44:38.660 --> 1:44:43.660
+ that people gave of where they experience an emotion
+
+1:44:43.740 --> 1:44:46.540
+ or a feeling, a somatic feeling in their body
+
+1:44:46.540 --> 1:44:51.140
+ or in their head or both when they are angry, sad, calm,
+
+1:44:51.140 --> 1:44:53.820
+ lonely, et cetera, et cetera.
+
+1:44:53.820 --> 1:44:56.520
+ And I wouldn't want people to think that those heat maps
+
+1:44:56.520 --> 1:45:00.900
+ were generated by any physiological measurement
+
+1:45:00.900 --> 1:45:01.860
+ because they were not.
+
+1:45:01.860 --> 1:45:04.900
+ And yet, I don't think we can have a discussion
+
+1:45:04.900 --> 1:45:08.340
+ about emotions and states and the sorts of behaviors
+
+1:45:08.340 --> 1:45:09.180
+ that we're talking about today
+
+1:45:09.180 --> 1:45:11.720
+ without thinking about the body also.
+
+1:45:11.720 --> 1:45:12.860
+ And I'm not coming to this
+
+1:45:12.860 --> 1:45:14.940
+ as a Northern California mind body.
+
+1:45:14.940 --> 1:45:16.260
+ I've been to Esalen once.
+
+1:45:16.260 --> 1:45:17.420
+ I didn't go in the baths.
+
+1:45:17.420 --> 1:45:18.980
+ I went there, I gave a talk and I left.
+
+1:45:18.980 --> 1:45:20.500
+ It is very beautiful.
+
+1:45:20.500 --> 1:45:21.660
+ If anyone wants to know what it looks like,
+
+1:45:21.660 --> 1:45:24.700
+ I think that final scene of Mad Men is shot at Esalen.
+
+1:45:24.700 --> 1:45:26.620
+ It's a very beautiful place.
+
+1:45:26.620 --> 1:45:31.620
+ And yet, mind body to me is a neurobiological construct
+
+1:45:31.820 --> 1:45:33.180
+ because the nervous system extends
+
+1:45:33.180 --> 1:45:35.100
+ through the out of the cranial vault
+
+1:45:35.100 --> 1:45:37.340
+ and into the spinal cord and body and back and forth.
+
+1:45:37.340 --> 1:45:41.220
+ Okay, how should we think about the body
+
+1:45:41.220 --> 1:45:43.460
+ and in terms of states?
+
+1:45:43.460 --> 1:45:45.760
+ And at some point, I'd love for you to comment
+
+1:45:45.760 --> 1:45:47.580
+ on that heat map experiment
+
+1:45:47.580 --> 1:45:50.280
+ because it does seem that there's some regularity
+
+1:45:50.280 --> 1:45:52.860
+ as to where people experience emotions.
+
+1:45:52.860 --> 1:45:54.580
+ When people are in a rage, for instance,
+
+1:45:54.580 --> 1:45:58.100
+ they seem to feel it both in their gut and in their head,
+
+1:45:58.100 --> 1:46:00.580
+ it seems, on average.
+
+1:46:00.580 --> 1:46:05.300
+ And people love to extrapolate to gut intuition
+
+1:46:05.300 --> 1:46:08.740
+ or that the chakras or anger is in the stomach
+
+1:46:08.740 --> 1:46:11.780
+ and this goes to Eastern medicine, et cetera.
+
+1:46:11.780 --> 1:46:14.980
+ How should we think about mind body in the context of states
+
+1:46:14.980 --> 1:46:16.780
+ and think about it as scientists,
+
+1:46:16.780 --> 1:46:20.060
+ maybe even as neuroscientists or geneticists?
+
+1:46:20.060 --> 1:46:21.140
+ Good.
+
+1:46:21.140 --> 1:46:25.160
+ So for the answer to the first question about the heat maps
+
+1:46:25.160 --> 1:46:28.460
+ and people associating certain parts of their body
+
+1:46:28.460 --> 1:46:30.880
+ with certain emotional feelings,
+
+1:46:30.880 --> 1:46:33.420
+ this goes back to something called
+
+1:46:33.420 --> 1:46:35.660
+ the somatic marker hypothesis
+
+1:46:35.660 --> 1:46:38.340
+ that was proposed by Antonio Damasio,
+
+1:46:38.340 --> 1:46:41.380
+ who is a neurologist at USC.
+
+1:46:41.380 --> 1:46:45.500
+ The idea that our subjective feeling
+
+1:46:45.500 --> 1:46:50.500
+ of a particular emotion is in part associated
+
+1:46:50.500 --> 1:46:55.140
+ with a sensation of something happening
+
+1:46:55.140 --> 1:46:57.500
+ in a particular part of our body.
+
+1:46:57.500 --> 1:47:02.500
+ The gut, the heart, I don't see the liver invoked very much
+
+1:47:02.740 --> 1:47:06.700
+ in emotional characterization.
+
+1:47:06.700 --> 1:47:08.260
+ But gall and the gallbladder?
+
+1:47:08.260 --> 1:47:09.340
+ Yes.
+
+1:47:09.340 --> 1:47:10.180
+ Somebody having a lot of gall.
+
+1:47:10.180 --> 1:47:11.020
+ That's right.
+
+1:47:11.020 --> 1:47:12.100
+ I don't know why I make a fist when I say that,
+
+1:47:12.100 --> 1:47:14.120
+ but I'm guessing the gallbladder is shaped like a fist.
+
+1:47:14.120 --> 1:47:14.960
+ That's right.
+
+1:47:16.060 --> 1:47:20.260
+ And if there is a physiology underlying these heat maps,
+
+1:47:20.260 --> 1:47:22.860
+ it could reflect increased blood flow
+
+1:47:22.860 --> 1:47:24.380
+ to these different structures.
+
+1:47:24.380 --> 1:47:28.060
+ And that in turn reflects what you were talking about,
+
+1:47:28.060 --> 1:47:31.800
+ that is emotion definitely involves communication
+
+1:47:31.800 --> 1:47:33.780
+ between the brain and the body,
+
+1:47:33.780 --> 1:47:36.900
+ and it's bi-directional communication.
+
+1:47:36.900 --> 1:47:41.280
+ And it's mediated by the peripheral nervous system,
+
+1:47:41.280 --> 1:47:44.520
+ the sympathetic and the parasympathetic nervous system,
+
+1:47:44.520 --> 1:47:47.460
+ which control heart rate, for example,
+
+1:47:47.460 --> 1:47:50.220
+ blood vessel, blood pressure,
+
+1:47:50.220 --> 1:47:54.740
+ and those neurons receive input from the hypothalamus
+
+1:47:54.740 --> 1:47:58.380
+ and other blood brain regions, central brain regions,
+
+1:47:58.380 --> 1:48:00.380
+ that control their activity.
+
+1:48:00.380 --> 1:48:05.040
+ And when the brain is put in a particular state,
+
+1:48:05.040 --> 1:48:09.020
+ it activates sympathetic and parasympathetic neurons,
+
+1:48:09.020 --> 1:48:13.780
+ which have effects on the heart and on blood pressure.
+
+1:48:13.780 --> 1:48:18.140
+ And these in turn feed back onto the brain
+
+1:48:18.140 --> 1:48:20.040
+ through the sensory system.
+
+1:48:20.040 --> 1:48:23.860
+ And a large part of this bi-directional communication
+
+1:48:23.860 --> 1:48:27.220
+ is also mediated through the vagus nerve,
+
+1:48:27.220 --> 1:48:30.860
+ which many of your listeners and viewers
+
+1:48:30.860 --> 1:48:31.700
+ may have heard about,
+
+1:48:31.700 --> 1:48:35.700
+ because it's become a topic of intense activity now.
+
+1:48:35.700 --> 1:48:38.340
+ People have known for a long time.
+
+1:48:38.340 --> 1:48:43.340
+ So the vagus nerve is a bundle of nerve fibers
+
+1:48:43.560 --> 1:48:47.300
+ that comes out basically of your skull,
+
+1:48:47.300 --> 1:48:49.460
+ out of the central nervous system,
+
+1:48:49.460 --> 1:48:54.460
+ and then sends fibers in to your heart,
+
+1:48:54.500 --> 1:48:58.180
+ your gut, all sorts of visceral organs.
+
+1:48:58.180 --> 1:49:01.460
+ So when you have, and that information is both,
+
+1:49:01.460 --> 1:49:04.740
+ you used the words earlier in our discussion,
+
+1:49:04.740 --> 1:49:06.940
+ afferent and efferent.
+
+1:49:06.940 --> 1:49:11.740
+ So the vagal fibers sense things
+
+1:49:11.740 --> 1:49:13.860
+ that are happening in the body.
+
+1:49:13.860 --> 1:49:16.940
+ So when you're, the reason you feel your stomach
+
+1:49:16.940 --> 1:49:19.580
+ hide up in knots if you're tense
+
+1:49:19.580 --> 1:49:22.980
+ is that those vagal fibers are sensing
+
+1:49:22.980 --> 1:49:25.900
+ the contraction of the gut muscles.
+
+1:49:25.900 --> 1:49:27.780
+ And they're also afferents,
+
+1:49:27.780 --> 1:49:31.140
+ which means that information coming out of the brain
+
+1:49:31.140 --> 1:49:34.780
+ can influence those peripheral organs as well.
+
+1:49:34.780 --> 1:49:37.100
+ And there's work from a number of labs
+
+1:49:37.100 --> 1:49:40.380
+ just in the last six months or so
+
+1:49:40.380 --> 1:49:43.420
+ where people are starting to decode
+
+1:49:43.420 --> 1:49:48.260
+ the components of the different fibers in the vagus nerve.
+
+1:49:48.260 --> 1:49:51.240
+ And it's amazing how much specificity is.
+
+1:49:51.240 --> 1:49:55.360
+ There are specific vagal nerves that go to the lung,
+
+1:49:55.360 --> 1:49:57.620
+ that control breathing responses,
+
+1:49:57.620 --> 1:50:01.620
+ that go to the gut, that go to other organs.
+
+1:50:01.620 --> 1:50:06.260
+ It's almost like a set of color-coded lines,
+
+1:50:06.260 --> 1:50:08.120
+ labeled lines for those things.
+
+1:50:08.120 --> 1:50:13.460
+ And now how those vagal afferents play a role
+
+1:50:13.460 --> 1:50:16.600
+ in the playing out of emotion states
+
+1:50:16.600 --> 1:50:18.900
+ is a fascinating question that people
+
+1:50:18.900 --> 1:50:21.700
+ are just beginning to scrape the surface of.
+
+1:50:21.700 --> 1:50:23.820
+ But I think what's exciting now
+
+1:50:23.820 --> 1:50:25.980
+ is that people are gonna be developing tools
+
+1:50:25.980 --> 1:50:28.940
+ that will allow us to turn on or turn off
+
+1:50:28.940 --> 1:50:33.380
+ specific subsets of fibers within the vagus nerve
+
+1:50:33.380 --> 1:50:37.060
+ and ask how that affects particular emotional behaviors.
+
+1:50:37.060 --> 1:50:38.680
+ So you're absolutely right.
+
+1:50:38.680 --> 1:50:41.340
+ This brain-body connection is critical,
+
+1:50:41.340 --> 1:50:45.020
+ not just for the gut, but for the heart, for the lungs,
+
+1:50:45.020 --> 1:50:48.060
+ for all kinds of other parts of your body.
+
+1:50:48.060 --> 1:50:50.540
+ And Darwin recognized that as well.
+
+1:50:50.540 --> 1:50:54.680
+ And I think it's a central feature of emotion state.
+
+1:50:54.680 --> 1:50:56.380
+ And I think what underlies
+
+1:50:56.380 --> 1:50:59.860
+ are subjective feelings of an emotion.
+
+1:50:59.860 --> 1:51:01.420
+ Incredible.
+
+1:51:01.420 --> 1:51:04.300
+ David, I have to say, as a true fan of the work
+
+1:51:04.300 --> 1:51:07.060
+ that your lab has been doing over so many decades,
+
+1:51:07.060 --> 1:51:09.140
+ and first of all, I was delighted
+
+1:51:09.140 --> 1:51:10.620
+ when you stopped working on stem cells,
+
+1:51:10.620 --> 1:51:12.540
+ not because you weren't doing incredible work there,
+
+1:51:12.540 --> 1:51:16.100
+ but because I saw a talk where you showed a movie
+
+1:51:16.100 --> 1:51:19.860
+ of an octopus spitting out, or not spitting,
+
+1:51:19.860 --> 1:51:22.340
+ but squirting out a bunch of ink and escaping.
+
+1:51:22.340 --> 1:51:24.660
+ And you said you were gonna work on things of the sort
+
+1:51:24.660 --> 1:51:25.540
+ that we're talking about today,
+
+1:51:25.540 --> 1:51:29.060
+ fear, aggression, mating behaviors, social behaviors.
+
+1:51:29.060 --> 1:51:31.420
+ It's been incredible to see the work that your lab has done.
+
+1:51:31.420 --> 1:51:36.420
+ And I know I speak on behalf of a tremendous number of people
+
+1:51:37.100 --> 1:51:39.220
+ when I say thank you for taking time
+
+1:51:39.220 --> 1:51:40.740
+ out of your important schedule
+
+1:51:40.740 --> 1:51:42.680
+ to share with us what you've learned.
+
+1:51:42.680 --> 1:51:45.460
+ My last question is a simple one,
+
+1:51:45.460 --> 1:51:48.340
+ which is will you come back and talk to us again
+
+1:51:48.340 --> 1:51:50.820
+ in the future about the additional work that's sure to come?
+
+1:51:50.820 --> 1:51:52.300
+ I would be happy to do that.
+
+1:51:52.300 --> 1:51:55.700
+ And I really have appreciated your questions.
+
+1:51:55.700 --> 1:51:57.460
+ They've all been right on the money.
+
+1:51:57.460 --> 1:51:59.620
+ You've hit all of the critical,
+
+1:51:59.620 --> 1:52:01.860
+ important issues in this field,
+
+1:52:01.860 --> 1:52:05.620
+ and you've uncovered what is known,
+
+1:52:05.620 --> 1:52:08.820
+ the little bit is known, and how much is not known.
+
+1:52:08.820 --> 1:52:13.100
+ And I think it's important to emphasize the unknown things
+
+1:52:13.100 --> 1:52:15.420
+ because that's what the next generation
+
+1:52:15.420 --> 1:52:18.100
+ of neuroscientists has to solve.
+
+1:52:18.100 --> 1:52:21.140
+ And so I hope this will help to attract young people
+
+1:52:21.140 --> 1:52:24.300
+ into this field because it's so important,
+
+1:52:24.300 --> 1:52:27.620
+ particularly for our understanding of mental illness
+
+1:52:27.620 --> 1:52:31.700
+ and mental health and psychiatry,
+
+1:52:31.700 --> 1:52:36.060
+ we've got to figure out how emotion systems are controlled
+
+1:52:36.060 --> 1:52:39.920
+ in a causal way if we ever want to improve
+
+1:52:39.920 --> 1:52:42.580
+ on the psychiatric treatments that we have now.
+
+1:52:42.580 --> 1:52:44.980
+ And that's gonna require the next generation
+
+1:52:44.980 --> 1:52:46.780
+ of people coming into the field.
+
+1:52:46.780 --> 1:52:48.860
+ Absolutely, I second that.
+
+1:52:48.860 --> 1:52:50.380
+ Well, thank you, it's been a delight.
+
+1:52:50.380 --> 1:52:53.500
+ Thank you, great, really appreciate it.
+
+1:52:53.500 --> 1:52:54.620
+ Thank you for joining me today
+
+1:52:54.620 --> 1:52:56.680
+ for my discussion with Dr. David Anderson.
+
+1:52:56.680 --> 1:52:58.940
+ Please also be sure to check out his new book,
+
+1:52:58.940 --> 1:53:01.860
+ The Nature of the Beast, How Emotions Guide Us.
+
+1:53:01.860 --> 1:53:04.680
+ It's a truly masterful exploration of the biology
+
+1:53:04.680 --> 1:53:07.180
+ and psychology behind what we call emotions
+
+1:53:07.180 --> 1:53:09.060
+ and states of mind and body.
+
+1:53:09.060 --> 1:53:11.460
+ If you're learning from and are enjoying this podcast,
+
+1:53:11.460 --> 1:53:13.460
+ please subscribe to our YouTube channel.
+
+1:53:13.460 --> 1:53:15.880
+ That's a simple zero cost way to support us.
+
+1:53:15.880 --> 1:53:19.140
+ Please also subscribe to the podcast on Spotify and Apple.
+
+1:53:19.140 --> 1:53:21.020
+ And on both Spotify and Apple,
+
+1:53:21.020 --> 1:53:22.440
+ you have the opportunity to leave us
+
+1:53:22.440 --> 1:53:24.300
+ up to a five-star review.
+
+1:53:24.300 --> 1:53:26.320
+ If you have questions or comments or suggestions
+
+1:53:26.320 --> 1:53:27.820
+ about topics you'd like us to cover,
+
+1:53:27.820 --> 1:53:29.060
+ or guests you'd like us to interview
+
+1:53:29.060 --> 1:53:30.700
+ on the Huberman Lab podcast,
+
+1:53:30.700 --> 1:53:33.380
+ please put those in the comment section on YouTube.
+
+1:53:33.380 --> 1:53:36.320
+ We do read all those comments and we do take them to heart.
+
+1:53:36.320 --> 1:53:37.940
+ Please also check out the sponsors mentioned
+
+1:53:37.940 --> 1:53:39.820
+ at the beginning of today's podcast.
+
+1:53:39.820 --> 1:53:41.680
+ And check out Momentous Supplements,
+
+1:53:41.680 --> 1:53:43.340
+ our new partners in the supplement space,
+
+1:53:43.340 --> 1:53:45.360
+ and check out Athletic Greens.
+
+1:53:45.360 --> 1:53:47.660
+ That's the best way to support this podcast.
+
+1:53:47.660 --> 1:53:49.900
+ If you're not already following us on social media,
+
+1:53:49.900 --> 1:53:51.220
+ please do so.
+
+1:53:51.220 --> 1:53:52.980
+ We are Huberman Lab on Twitter,
+
+1:53:52.980 --> 1:53:55.000
+ and we are also Huberman Lab on Instagram.
+
+1:53:55.000 --> 1:53:58.340
+ In both places, I cover science and science-related tools,
+
+1:53:58.340 --> 1:53:59.900
+ some of which overlap with the content
+
+1:53:59.900 --> 1:54:01.060
+ of the Huberman Lab podcast,
+
+1:54:01.060 --> 1:54:03.300
+ but much of which is unique from the content
+
+1:54:03.300 --> 1:54:04.820
+ covered on the Huberman Lab podcast.
+
+1:54:04.820 --> 1:54:06.540
+ Again, that's Huberman Lab on Instagram
+
+1:54:06.540 --> 1:54:08.180
+ and Huberman Lab on Twitter.
+
+1:54:08.180 --> 1:54:11.100
+ Please also check out our Neural Network monthly newsletter.
+
+1:54:11.100 --> 1:54:14.580
+ This is a newsletter that has summaries of podcast episodes.
+
+1:54:14.580 --> 1:54:16.860
+ It also includes a lot of actionable protocols.
+
+1:54:16.860 --> 1:54:18.920
+ It's very easy to sign up for the newsletter.
+
+1:54:18.920 --> 1:54:21.080
+ You go to HubermanLab.com, click on the menu,
+
+1:54:21.080 --> 1:54:23.140
+ go to newsletter, you supply your email,
+
+1:54:23.140 --> 1:54:25.140
+ but we do not share your email with anybody.
+
+1:54:25.140 --> 1:54:28.060
+ We have a very clear and rigorous privacy policy,
+
+1:54:28.060 --> 1:54:30.260
+ which is we do not share your email with anybody.
+
+1:54:30.260 --> 1:54:32.780
+ And the newsletter comes out once a month,
+
+1:54:32.780 --> 1:54:34.300
+ and it is completely zero cost.
+
+1:54:34.300 --> 1:54:36.340
+ Again, just go to HubermanLab.com
+
+1:54:36.340 --> 1:54:38.800
+ and go to the Neural Network newsletter.
+
+1:54:38.800 --> 1:54:41.120
+ I'd also like to point out that the Huberman Lab podcast
+
+1:54:41.120 --> 1:54:44.620
+ has a clips channel, so these are brief clips,
+
+1:54:44.620 --> 1:54:46.660
+ anywhere from three to 10 minutes
+
+1:54:46.660 --> 1:54:50.240
+ that encompass single concepts and actionable protocols
+
+1:54:50.240 --> 1:54:52.140
+ related to sleep, to focus,
+
+1:54:52.140 --> 1:54:53.420
+ interviews with various guests.
+
+1:54:53.420 --> 1:54:54.800
+ We talk about things like caffeine,
+
+1:54:54.800 --> 1:54:57.920
+ when to drink caffeine relative to sleep, alcohol,
+
+1:54:57.920 --> 1:54:59.880
+ when and how and if anyone should ingest it
+
+1:54:59.880 --> 1:55:03.540
+ relative to sleep, dopamine, serotonin, mental health,
+
+1:55:03.540 --> 1:55:05.140
+ physical health, and on and on,
+
+1:55:05.140 --> 1:55:07.100
+ all the things that relate to the topics
+
+1:55:07.100 --> 1:55:08.440
+ most of interest to you.
+
+1:55:08.440 --> 1:55:11.100
+ You can find that easily by going to YouTube,
+
+1:55:11.100 --> 1:55:13.980
+ look for Huberman Lab clips in the search area,
+
+1:55:13.980 --> 1:55:15.580
+ and it will take you there, subscribe,
+
+1:55:15.580 --> 1:55:17.920
+ and we are constantly updating those with new clips.
+
+1:55:17.920 --> 1:55:19.460
+ This is especially useful, I believe,
+
+1:55:19.460 --> 1:55:21.500
+ for people that have missed some of the earlier episodes
+
+1:55:21.500 --> 1:55:23.060
+ or you're still working through the back catalog
+
+1:55:23.060 --> 1:55:24.140
+ of Huberman Lab podcasts,
+
+1:55:24.140 --> 1:55:26.260
+ which admittedly can be rather long.
+
+1:55:26.260 --> 1:55:28.580
+ And last, but certainly not least,
+
+1:55:28.580 --> 1:55:30.420
+ thank you for your interest in science.
+
+1:55:30.420 --> 1:55:57.420
+ I'll see you in the next one.
+

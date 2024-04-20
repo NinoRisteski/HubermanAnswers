@@ -1,0 +1,7634 @@
+WEBVTT
+
+00:00.000 --> 00:02.260
+ Welcome to the Huberman Lab Podcast,
+
+00:02.260 --> 00:04.900
+ where we discuss science and science-based tools
+
+00:04.900 --> 00:05.920
+ for everyday life.
+
+00:09.140 --> 00:10.180
+ I'm Andrew Huberman,
+
+00:10.180 --> 00:13.180
+ and I'm a professor of neurobiology and ophthalmology
+
+00:13.180 --> 00:15.100
+ at Stanford School of Medicine.
+
+00:15.100 --> 00:17.740
+ Today, my guest is Dr. Eric Jarvis.
+
+00:17.740 --> 00:20.500
+ Dr. Jarvis is a professor at the Rockefeller University
+
+00:20.500 --> 00:23.580
+ in New York City, and his laboratory studies
+
+00:23.580 --> 00:26.680
+ the neurobiology of vocal learning, language,
+
+00:26.680 --> 00:29.020
+ speech disorders, and remarkably,
+
+00:29.020 --> 00:32.620
+ the relationship between language, music, and movement,
+
+00:32.620 --> 00:34.500
+ in particular, dance.
+
+00:34.500 --> 00:37.180
+ His work spans from genomics,
+
+00:37.180 --> 00:40.860
+ so the very genes that make up our genome,
+
+00:40.860 --> 00:42.700
+ and the genomes of other species
+
+00:42.700 --> 00:44.280
+ that speak and have language,
+
+00:44.280 --> 00:46.840
+ such as songbirds and parrots,
+
+00:46.840 --> 00:48.420
+ all the way up to neural circuits,
+
+00:48.420 --> 00:50.700
+ that is the connections in the brain and body
+
+00:50.700 --> 00:53.180
+ that govern our ability to learn and generate
+
+00:53.180 --> 00:56.220
+ specific sounds and movements coordinated with those sounds,
+
+00:56.220 --> 00:58.180
+ including hand movements,
+
+00:58.180 --> 01:01.300
+ and all the way up to cognition,
+
+01:01.300 --> 01:04.040
+ that is our ability to think in specific ways
+
+01:04.040 --> 01:05.540
+ based on what we are saying
+
+01:05.540 --> 01:07.340
+ and the way that we comprehend
+
+01:07.340 --> 01:10.860
+ what other people are saying, singing, and doing.
+
+01:10.860 --> 01:14.680
+ As you'll soon see, I was immediately transfixed
+
+01:14.680 --> 01:18.020
+ and absolutely enchanted by Dr. Jarvis's description
+
+01:18.020 --> 01:20.300
+ of his work and the ways that it impacts
+
+01:20.300 --> 01:22.540
+ all the various aspects of our lives.
+
+01:22.540 --> 01:26.300
+ For instance, I learned from Dr. Jarvis that as we read,
+
+01:26.300 --> 01:28.660
+ we are generating very low levels
+
+01:28.660 --> 01:30.940
+ of motor activity in our throat.
+
+01:30.940 --> 01:33.500
+ That is, we are speaking the words that we are reading
+
+01:34.380 --> 01:36.940
+ at a level below the perception of sound
+
+01:36.940 --> 01:39.300
+ or our own perception of those words,
+
+01:39.300 --> 01:40.900
+ but if one were to put an amplifier
+
+01:40.900 --> 01:43.940
+ or to measure the firing of those muscles
+
+01:43.940 --> 01:45.220
+ in our vocal cords,
+
+01:45.220 --> 01:47.260
+ we'd find that as we're reading information,
+
+01:47.260 --> 01:49.860
+ we are actually speaking that information.
+
+01:49.860 --> 01:51.860
+ And as I learned and you'll soon learn,
+
+01:51.860 --> 01:55.060
+ there's a direct link between those species in the world
+
+01:55.060 --> 01:57.400
+ that have song and movement,
+
+01:57.400 --> 01:59.500
+ which many of us would associate with dance,
+
+01:59.500 --> 02:03.500
+ and our ability to learn and generate complex language.
+
+02:03.500 --> 02:06.540
+ So for people with speech disorders like stutter
+
+02:06.540 --> 02:07.860
+ or for people who are interested
+
+02:07.860 --> 02:09.900
+ in multiple language learning,
+
+02:09.900 --> 02:11.940
+ bilingual, trilingual, et cetera,
+
+02:11.940 --> 02:14.340
+ and frankly, for anyone who is interested
+
+02:14.340 --> 02:18.060
+ in how we communicate through words written or spoken,
+
+02:18.060 --> 02:19.780
+ I'm certain today's episode is going to be
+
+02:19.780 --> 02:22.660
+ an especially interesting and important one for you.
+
+02:22.660 --> 02:24.800
+ Dr. Jarvis's work is so pioneering
+
+02:24.800 --> 02:27.220
+ that he has been awarded truly countless awards.
+
+02:27.220 --> 02:28.460
+ I'm not going to take our time
+
+02:28.460 --> 02:30.980
+ to list off all the various important awards
+
+02:30.980 --> 02:32.180
+ that he's received,
+
+02:32.180 --> 02:33.780
+ but I should point out that in addition
+
+02:33.780 --> 02:35.780
+ to being a decorated professor
+
+02:35.780 --> 02:37.240
+ at the Rockefeller University,
+
+02:37.240 --> 02:38.420
+ he is also an investigator
+
+02:38.420 --> 02:40.160
+ with the Howard Hughes Medical Institute,
+
+02:40.160 --> 02:42.260
+ the so-called HHMI.
+
+02:42.260 --> 02:43.820
+ And for those of you that don't know,
+
+02:43.820 --> 02:46.340
+ HHMI investigators are selected
+
+02:46.340 --> 02:49.060
+ on an extremely competitive basis
+
+02:49.060 --> 02:50.620
+ that they have to re-up,
+
+02:50.620 --> 02:53.120
+ that is they have to re-compete every five years.
+
+02:53.120 --> 02:56.060
+ They actually receive a grade every five years
+
+02:56.060 --> 02:57.280
+ that dictates whether or not
+
+02:57.280 --> 02:59.940
+ they are no longer a Howard Hughes investigator,
+
+02:59.940 --> 03:01.300
+ whether or not they can advance
+
+03:01.300 --> 03:03.920
+ to another five years of funding
+
+03:03.920 --> 03:05.400
+ for their important research.
+
+03:05.400 --> 03:07.820
+ And indeed, Howard Hughes investigators are selected
+
+03:07.820 --> 03:09.620
+ not just for the rigor of their work,
+
+03:09.620 --> 03:11.200
+ but for their pioneering spirit
+
+03:11.200 --> 03:13.460
+ and their ability to take on high risk,
+
+03:13.460 --> 03:15.460
+ high benefit work,
+
+03:15.460 --> 03:16.740
+ which is exactly the kind of work
+
+03:16.740 --> 03:20.100
+ that Dr. Jarvis has been providing for decades now.
+
+03:20.100 --> 03:21.560
+ Again, I think today's episode
+
+03:21.560 --> 03:23.500
+ is one of the more unique and special episodes
+
+03:23.500 --> 03:25.140
+ that we've had on the Huberman Lab Podcast.
+
+03:25.140 --> 03:27.680
+ I single it out because it really spans
+
+03:27.680 --> 03:29.500
+ from the basic to the applied.
+
+03:29.500 --> 03:32.140
+ And Dr. Jarvis's story is an especially unique one
+
+03:32.140 --> 03:35.060
+ in terms of how he arrived at becoming a neurobiologist.
+
+03:35.060 --> 03:36.620
+ So for those of you that are interested
+
+03:36.620 --> 03:38.800
+ in personal journey and personal story,
+
+03:38.800 --> 03:42.700
+ Dr. Jarvis's is truly a special and important one.
+
+03:42.700 --> 03:44.580
+ I'm pleased to announce that the Huberman Lab Podcast
+
+03:44.580 --> 03:46.900
+ is now partnered with Momentous Supplements.
+
+03:46.900 --> 03:49.140
+ We partnered with Momentous for several important reasons.
+
+03:49.140 --> 03:50.820
+ First of all, they ship internationally
+
+03:50.820 --> 03:52.180
+ because we know that many of you
+
+03:52.180 --> 03:54.240
+ are located outside of the United States.
+
+03:54.240 --> 03:56.260
+ Second of all, and perhaps most important,
+
+03:56.260 --> 03:58.800
+ the quality of their supplements is second to none,
+
+03:58.800 --> 04:00.480
+ both in terms of purity and precision
+
+04:00.480 --> 04:02.420
+ of the amounts of the ingredients.
+
+04:02.420 --> 04:05.060
+ Third, we've really emphasized supplements
+
+04:05.060 --> 04:07.260
+ that are single ingredient supplements
+
+04:07.260 --> 04:09.300
+ and that are supplied in dosages
+
+04:09.300 --> 04:12.280
+ that allow you to build a supplementation protocol
+
+04:12.280 --> 04:14.100
+ that's optimized for cost,
+
+04:14.100 --> 04:15.980
+ that's optimized for effectiveness,
+
+04:15.980 --> 04:18.140
+ and that you can add things and remove things
+
+04:18.140 --> 04:19.460
+ from your protocol in a way
+
+04:19.460 --> 04:21.260
+ that's really systematic and scientific.
+
+04:21.260 --> 04:22.420
+ If you'd like to see the supplements
+
+04:22.420 --> 04:23.760
+ that we partner with Momentous on,
+
+04:23.760 --> 04:26.860
+ you can go to livemomentous.com slash Huberman.
+
+04:26.860 --> 04:27.980
+ There you'll see those supplements,
+
+04:27.980 --> 04:30.460
+ and just keep in mind that we are constantly expanding
+
+04:30.460 --> 04:33.140
+ the library of supplements available through Momentous
+
+04:33.140 --> 04:34.100
+ on a regular basis.
+
+04:34.100 --> 04:36.640
+ Again, that's livemomentous.com slash Huberman.
+
+04:36.640 --> 04:39.020
+ Before we begin, I'd like to emphasize that this podcast
+
+04:39.020 --> 04:41.700
+ is separate from my teaching and research roles at Stanford.
+
+04:41.700 --> 04:43.500
+ It is, however, part of my desire and effort
+
+04:43.500 --> 04:46.060
+ to bring zero cost and consumer information about science
+
+04:46.060 --> 04:48.660
+ and science-related tools to the general public.
+
+04:48.660 --> 04:49.660
+ In keeping with that theme,
+
+04:49.660 --> 04:52.360
+ I'd like to thank the sponsors of today's podcast.
+
+04:52.360 --> 04:54.580
+ Our first sponsor is Inside Tracker.
+
+04:54.580 --> 04:56.900
+ Inside Tracker is a personalized nutrition platform
+
+04:56.900 --> 04:59.380
+ that analyzes data from your blood and DNA
+
+04:59.380 --> 05:00.860
+ to help you better meet your immediate
+
+05:00.860 --> 05:02.460
+ and long-term health goals.
+
+05:02.460 --> 05:05.180
+ I've long been a believer in getting regular blood work done
+
+05:05.180 --> 05:07.380
+ for the simple reason that many of the factors
+
+05:07.380 --> 05:09.220
+ that impact your immediate and long-term health
+
+05:09.220 --> 05:12.020
+ can only be analyzed from a quality blood test.
+
+05:12.020 --> 05:14.220
+ And nowadays with the advent of modern DNA tests,
+
+05:14.220 --> 05:16.100
+ you can also get insight into, for example,
+
+05:16.100 --> 05:17.480
+ what your biological age is
+
+05:17.480 --> 05:19.440
+ and compare that to your chronological age.
+
+05:19.440 --> 05:22.180
+ The problem with a lot of DNA tests and blood tests,
+
+05:22.180 --> 05:23.940
+ however, is you get information back
+
+05:23.940 --> 05:27.440
+ about metabolic factors, lipids, and hormones and so forth,
+
+05:27.440 --> 05:28.860
+ but you don't know what to do
+
+05:28.860 --> 05:30.780
+ with or about that information.
+
+05:30.780 --> 05:33.540
+ Inside Tracker solves that problem with a simple platform
+
+05:33.540 --> 05:36.140
+ that allows you to click on any specific factor,
+
+05:36.140 --> 05:38.700
+ learn more about it and what it does in your brain and body,
+
+05:38.700 --> 05:41.380
+ and also the various nutritional supplementation
+
+05:41.380 --> 05:43.380
+ and other types of interventions you can take
+
+05:43.380 --> 05:45.420
+ to bring the levels of that factor
+
+05:45.420 --> 05:49.060
+ into the ranges that are optimal for you and your health.
+
+05:49.060 --> 05:50.440
+ If you'd like to try Inside Tracker,
+
+05:50.440 --> 05:53.180
+ you can go to insidetracker.com slash Huberman
+
+05:53.180 --> 05:55.940
+ to get 20% off any of Inside Tracker's plans.
+
+05:55.940 --> 05:59.700
+ That's insidetracker.com slash Huberman to get 20% off.
+
+05:59.700 --> 06:02.060
+ Today's episode is also brought to us by Roca.
+
+06:02.060 --> 06:04.020
+ Roca makes eyeglasses and sunglasses
+
+06:04.020 --> 06:05.900
+ that are of the absolute highest quality.
+
+06:05.900 --> 06:07.920
+ They also have some really unique features
+
+06:07.920 --> 06:10.100
+ that make them especially attractive
+
+06:10.100 --> 06:13.380
+ from the standpoint of aesthetics and performance.
+
+06:13.380 --> 06:15.380
+ The company was founded by two all-American swimmers
+
+06:15.380 --> 06:17.300
+ from Stanford and everything about their eyeglasses
+
+06:17.300 --> 06:19.940
+ and sunglasses were designed with performance in mind.
+
+06:19.940 --> 06:21.720
+ Initially, the eyeglasses and sunglasses
+
+06:21.720 --> 06:22.760
+ were designed for sport,
+
+06:22.760 --> 06:24.780
+ that is for running and for cycling, et cetera.
+
+06:24.780 --> 06:27.180
+ And indeed, still their eyeglasses and sunglasses
+
+06:27.180 --> 06:29.180
+ are very lightweight and they won't slip off your face
+
+06:29.180 --> 06:32.120
+ if you get sweaty, but they also have a terrific aesthetic.
+
+06:32.120 --> 06:34.740
+ You can wear them to work, you can wear them out to eat.
+
+06:34.740 --> 06:37.900
+ I wear readers at night when I work or if I drive
+
+06:37.900 --> 06:39.380
+ and I wear sunglasses sometimes
+
+06:39.380 --> 06:40.660
+ during the middle of the day,
+
+06:40.660 --> 06:43.380
+ if it's too bright and I need sunglasses in order to see.
+
+06:43.380 --> 06:46.020
+ If you'd like to try Roca eyeglasses or sunglasses,
+
+06:46.020 --> 06:48.540
+ you can go to Roca, that's R-O-K-A.com
+
+06:48.540 --> 06:51.620
+ and enter the code Huberman to save 20% off your first order.
+
+06:51.620 --> 06:53.420
+ Again, that's R-O-K-A.com
+
+06:53.420 --> 06:55.600
+ and enter the code Huberman at checkout.
+
+06:55.600 --> 06:58.260
+ Today's episode is also brought to us by Element.
+
+06:58.260 --> 06:59.860
+ Element is an electrolyte drink
+
+06:59.860 --> 07:02.500
+ that has everything you need and nothing you don't,
+
+07:02.500 --> 07:07.140
+ meaning no sugar, but plenty of the correct ratios
+
+07:07.140 --> 07:09.760
+ of sodium, magnesium, and potassium.
+
+07:09.760 --> 07:12.580
+ And those three electrolytes, sodium, magnesium, and potassium
+
+07:12.580 --> 07:15.060
+ are critical for your neuron, your nerve cell function,
+
+07:15.060 --> 07:16.900
+ and for the function of all the cells
+
+07:16.900 --> 07:18.580
+ in your brain and body.
+
+07:18.580 --> 07:20.520
+ I've mentioned this before on the podcast,
+
+07:20.520 --> 07:24.020
+ but I'm a fan of salt, not taking too much salt,
+
+07:24.020 --> 07:26.320
+ but certainly not getting too little salt.
+
+07:26.320 --> 07:29.180
+ Element has 1000 milligrams, that is one gram of salt,
+
+07:29.180 --> 07:31.420
+ which might sound like a lot of salt, but for many people,
+
+07:31.420 --> 07:34.220
+ especially people who are following low carbohydrate diets
+
+07:34.220 --> 07:37.700
+ or who are exercising or sweating a lot or both,
+
+07:37.700 --> 07:39.940
+ that level of salt can actually help you
+
+07:39.940 --> 07:41.100
+ in many circumstances.
+
+07:41.100 --> 07:42.540
+ Getting the appropriate level of salt,
+
+07:42.540 --> 07:44.260
+ and certainly the appropriate levels of electrolytes
+
+07:44.260 --> 07:45.740
+ will improve your cognitive function
+
+07:45.740 --> 07:48.180
+ and will improve your physical performance.
+
+07:48.180 --> 07:50.660
+ If you'd like to try Element, you can go to Drink Element,
+
+07:50.660 --> 07:53.260
+ that's lmnt.com slash Huberman,
+
+07:53.260 --> 07:55.540
+ and you'll get a free sample pack with your order.
+
+07:55.540 --> 07:58.980
+ That's drinklmnt.com slash Huberman.
+
+07:58.980 --> 08:02.380
+ And now for my discussion with Dr. Eric Jarvis.
+
+08:02.380 --> 08:04.100
+ Eric, so great to have you here.
+
+08:04.100 --> 08:05.380
+ Thank you.
+
+08:05.380 --> 08:07.240
+ Very interested in learning from you
+
+08:07.240 --> 08:12.020
+ about speech and language, and even as I asked the question,
+
+08:12.020 --> 08:14.820
+ I realized that a lot of people, including myself,
+
+08:14.820 --> 08:17.220
+ probably don't fully appreciate the distinction
+
+08:17.220 --> 08:19.540
+ between speech and language, right?
+
+08:19.540 --> 08:21.440
+ Speech I think of as the motor patterns,
+
+08:21.440 --> 08:25.740
+ the production of sound that has meaning, hopefully,
+
+08:25.740 --> 08:29.100
+ and language, of course, come in various languages
+
+08:29.100 --> 08:31.860
+ and varieties of ways of communicating.
+
+08:31.860 --> 08:34.740
+ But in terms of the study of speech and language
+
+08:34.740 --> 08:37.260
+ and thinking about how the brain organizes
+
+08:37.260 --> 08:40.420
+ speech and language, what are the similarities?
+
+08:40.420 --> 08:41.380
+ What are the differences?
+
+08:41.380 --> 08:43.180
+ How should we think about speech and language?
+
+08:43.180 --> 08:46.800
+ Yeah, well, I'm glad you invited me here,
+
+08:46.800 --> 08:50.140
+ and I'm also glad to get that first question,
+
+08:50.140 --> 08:52.580
+ which I can consider a provocative one.
+
+08:52.580 --> 08:55.420
+ The reason why, I've been struggling,
+
+08:55.420 --> 08:57.380
+ what is the difference with speech and language
+
+08:57.380 --> 09:00.760
+ for many years, and realize why am I struggling
+
+09:00.760 --> 09:03.100
+ is because there are behavioral terms,
+
+09:03.100 --> 09:07.740
+ let's call them psychology-developed kind of terms,
+
+09:07.740 --> 09:12.660
+ that don't actually align exactly with brain function, right?
+
+09:12.660 --> 09:13.500
+ And the question is,
+
+09:13.500 --> 09:15.660
+ is there a distinction between speech and language?
+
+09:15.660 --> 09:18.000
+ And when I look at the brain of work
+
+09:18.000 --> 09:20.060
+ that other people have done, work we have done,
+
+09:20.060 --> 09:21.900
+ also compared it with animal models,
+
+09:21.900 --> 09:23.380
+ like those who can imitate sounds,
+
+09:23.380 --> 09:25.580
+ like parrots and songbirds,
+
+09:25.580 --> 09:29.580
+ I start to see there really isn't such a sharp distinction.
+
+09:29.580 --> 09:32.360
+ So to get at what I think is going on,
+
+09:32.360 --> 09:35.700
+ let me tell you how some people think of it now,
+
+09:35.700 --> 09:38.380
+ that there's a separate language module in the brain
+
+09:39.460 --> 09:42.280
+ that has all the algorithms and computations
+
+09:42.280 --> 09:46.300
+ that influence the speech pathway on how to produce sound,
+
+09:46.300 --> 09:51.140
+ and the auditory pathway on how to perceive and interpret it
+
+09:51.140 --> 09:55.120
+ for speech or for sound that we call speech.
+
+09:55.120 --> 10:00.120
+ And it turns out, I don't think there is any good evidence
+
+10:00.120 --> 10:02.120
+ for a separate language module.
+
+10:02.120 --> 10:06.800
+ Instead, there is a speech production pathway
+
+10:06.800 --> 10:10.040
+ that's controlling our larynx, controlling our jaw muscles,
+
+10:10.040 --> 10:14.160
+ that has built within it all the complex algorithms
+
+10:14.160 --> 10:18.200
+ for spoken language, and there's the auditory pathway
+
+10:18.200 --> 10:20.840
+ that has built within it all the complex algorithms
+
+10:20.840 --> 10:22.480
+ for understanding speech,
+
+10:22.480 --> 10:24.840
+ not separate from a language module.
+
+10:24.840 --> 10:30.160
+ And this speech production pathway is specialized to humans
+
+10:30.160 --> 10:32.560
+ and parrots and songbirds,
+
+10:32.560 --> 10:35.280
+ whereas this auditory perception pathway
+
+10:35.280 --> 10:38.120
+ is more ubiquitous amongst the animal kingdom,
+
+10:38.120 --> 10:39.960
+ and this is why dogs can understand,
+
+10:39.960 --> 10:44.840
+ sit, siente se, come here, boy, get the ball, and so forth.
+
+10:44.840 --> 10:48.580
+ Dogs can understand several hundred human speech words.
+
+10:48.580 --> 10:51.320
+ Great apes, you can teach them for several thousand,
+
+10:51.320 --> 10:52.760
+ but they can't say a word.
+
+10:52.760 --> 10:55.320
+ Fascinating.
+
+10:55.320 --> 10:58.100
+ Because you've raised a number of animal species
+
+10:58.100 --> 11:01.720
+ early on here, and because I have basically an obsession
+
+11:01.720 --> 11:03.560
+ with animals since the time I was very small,
+
+11:03.560 --> 11:08.560
+ I have to ask, which animals have language?
+
+11:08.960 --> 11:11.960
+ Which animals have modes of communication
+
+11:11.960 --> 11:14.120
+ that are sort of like language?
+
+11:14.120 --> 11:16.320
+ You know, I've heard whale songs.
+
+11:16.320 --> 11:17.560
+ I don't know what they're saying.
+
+11:17.560 --> 11:18.520
+ They sound very beautiful,
+
+11:18.520 --> 11:21.760
+ but they could be insulting each other for all I know.
+
+11:21.760 --> 11:24.160
+ And they very well may be.
+
+11:24.160 --> 11:28.480
+ Dolphins, birds, I mean, what do we understand
+
+11:28.480 --> 11:32.800
+ about modes of communication that are like language
+
+11:32.800 --> 11:36.400
+ but might not be what would classically be called language?
+
+11:36.400 --> 11:40.560
+ Right, so modes of communication
+
+11:40.560 --> 11:43.300
+ that people would define as language,
+
+11:43.300 --> 11:46.200
+ more in a very narrow definition,
+
+11:46.200 --> 11:49.020
+ they would say production of sound, so speech.
+
+11:49.020 --> 11:51.680
+ But what about the hands, the gesturing with the hands?
+
+11:51.680 --> 11:55.360
+ What about a bird who is doing aerial displays in the air,
+
+11:55.360 --> 11:59.680
+ communicating information through body language, right?
+
+11:59.680 --> 12:02.840
+ Well, I'm gonna go back to the brain.
+
+12:02.840 --> 12:07.840
+ So what I think is going on is for spoken language,
+
+12:08.000 --> 12:09.960
+ we're using the speech pathway
+
+12:09.960 --> 12:12.040
+ in all the complex algorithms there.
+
+12:12.040 --> 12:14.320
+ Next to the brain regions that are controlling
+
+12:14.320 --> 12:16.280
+ spoken language are the brain regions
+
+12:16.280 --> 12:19.400
+ or the brain regions for gesturing with the hands.
+
+12:19.400 --> 12:22.240
+ And that hand parallel pathway
+
+12:22.240 --> 12:25.400
+ has also complex algorithms that we can utilize.
+
+12:25.400 --> 12:28.560
+ And some species are more advanced in these circuits,
+
+12:28.560 --> 12:31.320
+ whether it's sound or gesturing with hands,
+
+12:31.320 --> 12:33.900
+ and some are less advanced.
+
+12:33.900 --> 12:37.300
+ Now, we humans and a few others are the most advanced
+
+12:37.300 --> 12:41.380
+ for the speech sounds or the spoken language,
+
+12:41.380 --> 12:45.320
+ but a non-human primate can produce gesturing
+
+12:45.320 --> 12:48.220
+ in a more advanced form than they could produce sound.
+
+12:49.160 --> 12:51.400
+ I'm not sure I got that across clearly,
+
+12:51.400 --> 12:54.960
+ just to say that humans are the most advanced
+
+12:54.960 --> 12:59.560
+ at spoken language, but not necessarily as big a difference
+
+12:59.560 --> 13:03.320
+ at gestural language compared to some other species.
+
+13:03.320 --> 13:05.520
+ Very clear and very interesting
+
+13:05.520 --> 13:08.440
+ and immediately prompts the question,
+
+13:08.440 --> 13:12.720
+ have there been brain imaging or other sorts of studies
+
+13:12.720 --> 13:17.560
+ evaluating neural activity in the context of cultures
+
+13:17.560 --> 13:19.260
+ and languages, at least that I associate
+
+13:19.260 --> 13:22.560
+ with a lot of hand movement, like Italian versus,
+
+13:22.560 --> 13:24.540
+ I don't know, maybe you could give us some examples
+
+13:24.540 --> 13:27.580
+ of cultures where language is not associated
+
+13:27.580 --> 13:29.540
+ with as much overt hand movement.
+
+13:29.540 --> 13:32.720
+ Yes, so as you and I are talking here today
+
+13:32.720 --> 13:35.040
+ and people who are listening but can't see us,
+
+13:35.040 --> 13:38.120
+ we're actually gesturing with our hands as we talk
+
+13:39.220 --> 13:42.460
+ without knowing it or doing it unconsciously.
+
+13:42.460 --> 13:45.040
+ And if we were talking on a telephone,
+
+13:45.040 --> 13:46.960
+ I would have one hand here and I'd be gesturing
+
+13:46.960 --> 13:50.420
+ with the other hand without even you seeing me, right?
+
+13:50.420 --> 13:52.520
+ And so why is that?
+
+13:52.520 --> 13:54.440
+ Some have argued, and I would agree,
+
+13:54.440 --> 13:56.160
+ based upon what we've seen,
+
+13:56.160 --> 13:58.720
+ is that there's an evolutionary relationship
+
+13:58.720 --> 14:00.880
+ between the brain pathways that control
+
+14:00.880 --> 14:03.380
+ speech production and gesturing.
+
+14:04.280 --> 14:05.960
+ And the brain regions I mentioned
+
+14:05.960 --> 14:07.440
+ are directly adjacent to each other.
+
+14:07.440 --> 14:08.480
+ And why is that?
+
+14:08.480 --> 14:11.120
+ I think that the brain pathways that control speech
+
+14:11.120 --> 14:13.160
+ evolved out of the brain pathways
+
+14:13.160 --> 14:16.120
+ that control body movement, all right?
+
+14:16.120 --> 14:21.120
+ And that when you talk about Italian, French,
+
+14:22.080 --> 14:25.680
+ English, and so forth, each one of those languages
+
+14:25.680 --> 14:29.160
+ come with a learned set of gestures
+
+14:29.160 --> 14:31.160
+ that you can communicate with.
+
+14:31.160 --> 14:33.160
+ Now, how is that related to other animals?
+
+14:33.160 --> 14:35.920
+ Well, Coco, a gorilla, who was raised with humans
+
+14:35.920 --> 14:40.920
+ for 39 years or more, learned how to do gesture,
+
+14:41.360 --> 14:44.120
+ communication, learned how to sign language,
+
+14:44.120 --> 14:45.620
+ so to speak, right?
+
+14:45.620 --> 14:48.040
+ But Coco couldn't produce those sounds.
+
+14:48.040 --> 14:50.360
+ Coco could understand them as well
+
+14:51.400 --> 14:56.180
+ by seeing somebody sign or hearing somebody produce speech.
+
+14:56.180 --> 14:58.800
+ But Coco couldn't produce it with her voice.
+
+14:58.800 --> 15:03.360
+ And so what's going on there is that a number of species,
+
+15:03.360 --> 15:05.080
+ not all of them, a number of species
+
+15:05.080 --> 15:07.160
+ have motor pathways in the brain
+
+15:07.160 --> 15:09.480
+ where you can do learned gesturing,
+
+15:09.480 --> 15:12.720
+ rudimentary language if you wanted, say, with your limbs,
+
+15:12.720 --> 15:14.840
+ even if it's not as advanced as humans.
+
+15:14.840 --> 15:18.800
+ But they don't have this extra brain pathway for the sound.
+
+15:18.800 --> 15:21.160
+ So they can't gesture with their voice
+
+15:21.160 --> 15:23.560
+ in the way that they gesture with their hands.
+
+15:23.560 --> 15:24.800
+ I see.
+
+15:24.800 --> 15:27.080
+ One thing that I've wondered about for a very long time
+
+15:27.080 --> 15:32.080
+ is whether or not primitive emotions
+
+15:32.080 --> 15:37.080
+ and primitive sounds are the early substrate of language,
+
+15:37.200 --> 15:39.840
+ and whether or not there's a bridge that we can draw
+
+15:39.840 --> 15:44.480
+ between those in terms of just the basic respiration systems
+
+15:44.480 --> 15:47.160
+ associated with different extreme feelings.
+
+15:47.160 --> 15:50.600
+ Here's the way I'm imagining this might work.
+
+15:50.600 --> 15:53.480
+ When I smell something delicious,
+
+15:53.480 --> 15:57.020
+ I typically inhale more,
+
+15:57.020 --> 16:00.280
+ and I might say, mm, or something like that.
+
+16:00.280 --> 16:02.040
+ Whereas if I smell something putrid,
+
+16:02.040 --> 16:04.240
+ I typically turn away, I wince,
+
+16:04.240 --> 16:07.900
+ and I will exhale, or sort of kind of like turn away,
+
+16:07.900 --> 16:10.040
+ trying to not ingest those molecules
+
+16:10.040 --> 16:11.840
+ or inhale those molecules.
+
+16:11.840 --> 16:14.920
+ I could imagine that these are the basic
+
+16:14.920 --> 16:18.980
+ dark and light contrasts of the language system.
+
+16:18.980 --> 16:19.820
+ And as I say that,
+
+16:19.820 --> 16:23.120
+ I'm saying that from the orientation of a vision scientist
+
+16:23.120 --> 16:26.120
+ who thinks of all visual images built up
+
+16:26.120 --> 16:29.160
+ in a very basic way of a hierarchical model
+
+16:29.160 --> 16:31.280
+ of the ability to see dark and light.
+
+16:31.280 --> 16:33.480
+ So I could imagine this kind of primitive
+
+16:33.480 --> 16:38.480
+ to more sophisticated pyramid of sound to language.
+
+16:40.520 --> 16:41.640
+ Is this a crazy idea?
+
+16:41.640 --> 16:45.520
+ Do we have any evidence this is the way it works?
+
+16:45.520 --> 16:47.120
+ No, it's not a crazy idea.
+
+16:47.120 --> 16:51.900
+ And in fact, you hit upon one of the key distinctions
+
+16:51.900 --> 16:54.520
+ in the field of research that I had started out in,
+
+16:54.520 --> 16:56.560
+ which is vocal learning research.
+
+16:56.560 --> 16:59.200
+ So for vocal communication,
+
+17:00.400 --> 17:03.720
+ you have most vertebrate species vocalize,
+
+17:03.720 --> 17:06.440
+ but most of them are producing innate sounds
+
+17:06.440 --> 17:10.280
+ that they're born with producing.
+
+17:10.280 --> 17:14.400
+ That is babies crying, for example, or dogs barking.
+
+17:15.240 --> 17:18.800
+ And only a few species have learned vocal communication,
+
+17:18.800 --> 17:20.480
+ the ability to imitate sounds.
+
+17:20.480 --> 17:23.520
+ And that is what makes spoken language special.
+
+17:23.520 --> 17:26.720
+ When people think of what's special about language,
+
+17:26.720 --> 17:29.320
+ it's the learned vocalizations.
+
+17:29.320 --> 17:31.200
+ That is what's rare.
+
+17:31.200 --> 17:34.840
+ And so this distinction between innateness and learned
+
+17:36.080 --> 17:38.440
+ is more of a bigger dichotomy
+
+17:38.440 --> 17:39.640
+ when it comes to vocalizations
+
+17:39.640 --> 17:42.880
+ than for other behaviors in the animal kingdom.
+
+17:42.880 --> 17:47.400
+ And when you go in the brain, you see it there as well.
+
+17:47.400 --> 17:49.560
+ And so all the things you talked about,
+
+17:49.560 --> 17:51.920
+ the breathing, the grunting, and so forth,
+
+17:51.920 --> 17:55.640
+ a lot of that is handled by the brainstem circuits
+
+17:55.640 --> 17:57.880
+ right around the level of your neck and below,
+
+17:58.960 --> 18:00.840
+ like a reflex kind of thing.
+
+18:00.840 --> 18:04.720
+ So, or even some emotional aspects of your behavior
+
+18:04.720 --> 18:06.720
+ in the hypothalamus and so forth.
+
+18:06.720 --> 18:11.040
+ But for a learned behavior, learning how to speak,
+
+18:11.040 --> 18:12.840
+ learning how to play the piano,
+
+18:12.840 --> 18:15.600
+ teaching a dog to learn how to do tricks
+
+18:15.600 --> 18:18.160
+ is using the forebrain circuits.
+
+18:18.160 --> 18:20.760
+ And what has happened is that there's a lot
+
+18:20.760 --> 18:22.520
+ of forebrain circuits that are controlling
+
+18:22.520 --> 18:24.520
+ learning how to move body parts in these species,
+
+18:24.520 --> 18:26.360
+ but not for the vocalizations.
+
+18:26.360 --> 18:29.760
+ But in humans and in parrots and some other species,
+
+18:29.760 --> 18:33.320
+ somehow we acquired circuits where the forebrain
+
+18:33.320 --> 18:36.280
+ has taken over the brainstem,
+
+18:36.280 --> 18:39.200
+ and now using that brainstem not only to produce
+
+18:39.200 --> 18:41.360
+ the innate behaviors or vocal behaviors,
+
+18:41.360 --> 18:42.800
+ but the learned ones as well.
+
+18:43.720 --> 18:46.840
+ Do we have any sense of when modern
+
+18:46.840 --> 18:50.920
+ or sophisticated language evolved?
+
+18:50.920 --> 18:54.280
+ Thinking back to the species that we evolved from
+
+18:54.280 --> 18:56.640
+ and even within Homo sapiens,
+
+18:58.080 --> 18:59.520
+ has there been an evolution of language?
+
+18:59.520 --> 19:02.160
+ Has there been a devolution of language?
+
+19:02.160 --> 19:07.160
+ Yeah, I would say, and to be able to answer that question,
+
+19:08.920 --> 19:11.480
+ it does come with the caveat that I think we humans
+
+19:11.480 --> 19:15.040
+ overrate ourselves when it compared to other species.
+
+19:15.040 --> 19:19.200
+ And so it makes even scientists go astray
+
+19:19.200 --> 19:21.960
+ in trying to hypothesize when you especially
+
+19:21.960 --> 19:24.760
+ don't find fossil evidence of language that easily
+
+19:26.760 --> 19:30.480
+ out there in terms of what happened in the past.
+
+19:31.560 --> 19:35.800
+ We, amongst the primates, which we humans belong to,
+
+19:35.800 --> 19:37.200
+ we are the only ones that have
+
+19:37.200 --> 19:39.520
+ this advanced vocal learning ability.
+
+19:39.520 --> 19:44.520
+ Now, when it was assumed that it was only Homo sapiens,
+
+19:45.720 --> 19:49.720
+ then you can go back in time now based upon genomic data,
+
+19:49.720 --> 19:51.400
+ not only of us living humans,
+
+19:51.400 --> 19:55.120
+ but of the fossils that have been found for Homo sapiens,
+
+19:55.120 --> 19:59.000
+ of Neanderthals, of Denisovan individuals,
+
+19:59.000 --> 20:04.000
+ and discover that our ancestor, our human ancestors,
+
+20:04.360 --> 20:08.720
+ supposedly hybridized with these other hominid species
+
+20:08.720 --> 20:11.680
+ and it was assumed that these other hominid species
+
+20:11.680 --> 20:13.560
+ don't learn how to imitate sounds.
+
+20:14.560 --> 20:18.160
+ I don't know of any species today that's a vocal learner
+
+20:18.160 --> 20:21.400
+ that can have children with a non vocal learning species.
+
+20:21.400 --> 20:24.160
+ I don't see it, it doesn't mean it didn't exist.
+
+20:24.160 --> 20:26.920
+ And when we look at the genetic data
+
+20:26.920 --> 20:31.000
+ from these ancestral hominids that,
+
+20:31.000 --> 20:33.560
+ where we can look at genes that are involved
+
+20:33.560 --> 20:35.560
+ in learning vocal communication,
+
+20:35.560 --> 20:39.000
+ they have the same sequence as we humans do
+
+20:39.000 --> 20:41.800
+ for genes that function in speech circuits.
+
+20:41.800 --> 20:44.320
+ So I think Neanderthals had spoken language.
+
+20:44.320 --> 20:46.960
+ I'm not gonna say it's as advanced as what it is in humans,
+
+20:46.960 --> 20:49.240
+ I don't know, but I think it's been there
+
+20:49.240 --> 20:53.200
+ for at least between 500,000 to a million years
+
+20:53.200 --> 20:56.480
+ that our ancestors had this ability
+
+20:56.480 --> 20:58.640
+ and that we've been coming more and more advanced
+
+20:58.640 --> 21:01.200
+ with it culturally and possibly genetically,
+
+21:02.480 --> 21:04.200
+ but I think it's evolved so much
+
+21:04.200 --> 21:06.000
+ that I think it's evolved sometime
+
+21:06.000 --> 21:08.320
+ in the last 500,000 to a million years.
+
+21:08.320 --> 21:09.160
+ Incredible.
+
+21:10.720 --> 21:11.920
+ Maybe we could talk a little bit more
+
+21:11.920 --> 21:14.480
+ about the overlap between brain circuits
+
+21:14.480 --> 21:17.440
+ that control language and speech in humans
+
+21:17.440 --> 21:18.680
+ and other animals.
+
+21:20.240 --> 21:23.240
+ I was weaned in the neuroscience era
+
+21:23.240 --> 21:27.600
+ where bird song and the ability of birds
+
+21:27.600 --> 21:31.000
+ to learn their tutor song was and still is
+
+21:31.000 --> 21:33.880
+ a prominent field, subfield of neuroscience.
+
+21:33.880 --> 21:37.520
+ And then of course, neuroimaging of humans,
+
+21:37.520 --> 21:39.520
+ speaking and learning, et cetera.
+
+21:39.520 --> 21:41.160
+ And this notion of a critical period,
+
+21:41.160 --> 21:44.400
+ a time in which language is learned more easily
+
+21:44.400 --> 21:46.200
+ than it is later in life.
+
+21:46.200 --> 21:48.800
+ And the names of the different brain areas
+
+21:48.800 --> 21:49.920
+ were quite different.
+
+21:51.080 --> 21:53.760
+ One opens the textbooks, we hear Wernicke's and Broca's
+
+21:53.760 --> 21:55.920
+ for the humans and you look at the birds,
+
+21:55.920 --> 21:57.720
+ I remember, you know.
+
+21:57.720 --> 21:58.720
+ HPC.
+
+21:58.720 --> 22:00.840
+ Robust arch striatum area X.
+
+22:00.840 --> 22:01.800
+ That's right, yes.
+
+22:01.800 --> 22:02.780
+ Et cetera.
+
+22:02.780 --> 22:04.600
+ But for most of our listeners,
+
+22:04.600 --> 22:07.000
+ those names won't mean a whole lot.
+
+22:07.000 --> 22:11.800
+ But in terms of homologies between areas
+
+22:11.800 --> 22:13.600
+ in terms of function, what do we know?
+
+22:13.600 --> 22:17.260
+ And how similar or different are the brain areas
+
+22:17.260 --> 22:19.120
+ controlling speech and language in say,
+
+22:19.120 --> 22:22.440
+ a songbird and a young human child?
+
+22:22.440 --> 22:23.600
+ Yeah.
+
+22:23.600 --> 22:27.520
+ So going back to the 1950s and even a little earlier,
+
+22:27.520 --> 22:30.360
+ Peter Mahler and others who got involved
+
+22:30.360 --> 22:34.120
+ in neuroethology, the study of neurobiology
+
+22:34.120 --> 22:36.340
+ of behavior in a natural way, right?
+
+22:37.480 --> 22:40.880
+ You know, they start to find that behaviorally,
+
+22:40.880 --> 22:43.600
+ there are these species of birds like songbirds and parrots
+
+22:43.600 --> 22:46.080
+ and now we also know hummingbirds, just three of them
+
+22:46.080 --> 22:48.080
+ out of the 40 something bird groups out there
+
+22:48.080 --> 22:51.460
+ on the planet, orders, that they can imitate sounds
+
+22:51.460 --> 22:52.720
+ like we do.
+
+22:52.720 --> 22:54.400
+ And so that was the similarity.
+
+22:54.400 --> 22:56.240
+ In other words, they had this kind of behavior
+
+22:56.240 --> 22:59.320
+ that's more similar to us than chimpanzees have with us
+
+22:59.320 --> 23:01.720
+ or than chickens have with them, right?
+
+23:01.720 --> 23:03.320
+ They're close to relatives.
+
+23:03.320 --> 23:05.680
+ And then they discovered even more similarities,
+
+23:05.680 --> 23:10.400
+ these critical periods that if you remove a child,
+
+23:10.400 --> 23:13.360
+ this unfortunately happens where a child is feral
+
+23:13.360 --> 23:15.660
+ and is not raised with human and goes through
+
+23:15.660 --> 23:18.040
+ their puberty phase of growth,
+
+23:18.040 --> 23:21.260
+ it becomes hard for them to learn a language as an adult.
+
+23:21.260 --> 23:24.080
+ So there's this critical period where you learn best.
+
+23:24.080 --> 23:26.420
+ And even later on when you're in regular society,
+
+23:26.420 --> 23:27.560
+ it's hard to learn.
+
+23:27.560 --> 23:30.520
+ Well, the birds undergo the same thing.
+
+23:30.520 --> 23:34.000
+ And then it was discovered that if they become deaf,
+
+23:34.000 --> 23:37.480
+ we humans become deaf, our speech starts to deteriorate
+
+23:37.480 --> 23:39.040
+ without any kind of therapy.
+
+23:40.000 --> 23:45.000
+ If a non-human primate or let's say a chicken becomes deaf,
+
+23:46.520 --> 23:50.400
+ their vocalizations don't deteriorate, very little at least.
+
+23:50.400 --> 23:52.920
+ Well, this happens in the vocal learning birds.
+
+23:52.920 --> 23:54.820
+ So there were all these behavioral parallels
+
+23:54.820 --> 23:56.560
+ that came along in a package.
+
+23:56.560 --> 23:58.960
+ And then people looked into the brain.
+
+23:58.960 --> 24:01.520
+ Fernando Nadeva, my former PhD advisor,
+
+24:01.520 --> 24:05.320
+ and began to discover the area X you talked about,
+
+24:05.320 --> 24:07.900
+ the robust nucleus of the archipelium.
+
+24:07.900 --> 24:12.000
+ And these brain pathways were not found
+
+24:12.000 --> 24:13.360
+ in the species who couldn't imitate.
+
+24:13.360 --> 24:15.000
+ So there was a parallel here.
+
+24:15.000 --> 24:18.440
+ And then jumping many years later,
+
+24:18.440 --> 24:21.400
+ I started to dig down into these brain circuits
+
+24:21.400 --> 24:23.800
+ to discover that these brain circuits
+
+24:23.800 --> 24:26.800
+ have parallel functions with the brain circuits for humans,
+
+24:26.800 --> 24:28.240
+ even though they're by a different name
+
+24:28.240 --> 24:30.880
+ like Broca's and laryngomotor cortex.
+
+24:30.880 --> 24:34.400
+ And most recently, we discovered not only the actual
+
+24:34.400 --> 24:36.500
+ circuitry and the connectivity are similar,
+
+24:36.500 --> 24:39.160
+ but the underlying genes that are expressed
+
+24:39.160 --> 24:41.840
+ in these brain regions in a specialized way,
+
+24:41.840 --> 24:44.440
+ different from the rest of the brain are also similar
+
+24:44.440 --> 24:46.820
+ between humans and songbirds and parrots.
+
+24:46.820 --> 24:48.160
+ So all the way down to the genes,
+
+24:48.160 --> 24:51.280
+ and now we're finding the specific mutations
+
+24:51.280 --> 24:54.880
+ are also similar, not always identical, but similar,
+
+24:54.880 --> 24:57.040
+ which indicates remarkable convergence
+
+24:57.040 --> 25:00.020
+ for so-called complex behavior in species
+
+25:00.020 --> 25:02.880
+ separated by 300 million years from the common ancestor.
+
+25:02.880 --> 25:07.400
+ And not only that, we are discovering that mutations
+
+25:07.400 --> 25:10.780
+ in these genes that cause speech deficits in humans,
+
+25:10.780 --> 25:15.200
+ like in FOXP2, if you put those same mutations
+
+25:15.200 --> 25:18.040
+ or similar type of deficits in these vocal learning birds,
+
+25:18.040 --> 25:19.760
+ you get similar deficits.
+
+25:19.760 --> 25:22.800
+ So convergence of the behavior is associated
+
+25:22.800 --> 25:25.640
+ with similar genetic disorders of the behavior.
+
+25:25.640 --> 25:26.920
+ Incredible.
+
+25:26.920 --> 25:31.040
+ I have to ask, do hummingbirds sing or do they hum?
+
+25:31.040 --> 25:32.960
+ Hummingbirds hum with their wings
+
+25:32.960 --> 25:34.800
+ and sing with their syrinx.
+
+25:34.800 --> 25:36.160
+ In a coordinated way?
+
+25:36.160 --> 25:37.580
+ In a coordinated way.
+
+25:37.580 --> 25:42.160
+ There's some species of hummingbirds that actually will,
+
+25:43.120 --> 25:47.000
+ Doug Ashford showed this, that will flap their wings
+
+25:47.000 --> 25:50.020
+ and create a slapping sound with their wings
+
+25:50.020 --> 25:52.320
+ that's in unison with their song.
+
+25:52.320 --> 25:54.240
+ And you would not know it,
+
+25:54.240 --> 25:57.560
+ but it sounds like a particular syllable in their songs,
+
+25:58.620 --> 26:00.360
+ even though it's their wings
+
+26:00.360 --> 26:02.120
+ and their voice at the same time.
+
+26:02.120 --> 26:04.520
+ Hummingbirds are clapping to their song.
+
+26:04.520 --> 26:08.280
+ Clapping, they're snapping their wings together
+
+26:08.280 --> 26:10.900
+ in unison with a song to make it like,
+
+26:10.900 --> 26:14.080
+ if I'm going, ba da da da da da, ba da,
+
+26:14.080 --> 26:15.800
+ you know, and I banged on the table.
+
+26:15.800 --> 26:18.120
+ Except they make it almost sound like their voice
+
+26:18.120 --> 26:19.060
+ with their wings.
+
+26:20.220 --> 26:21.060
+ Incredible.
+
+26:21.060 --> 26:21.880
+ Yes.
+
+26:21.880 --> 26:22.720
+ I'm-
+
+26:22.720 --> 26:23.560
+ And they got some of the smallest-
+
+26:23.560 --> 26:26.200
+ I guess as the kids would say, mind blown, right?
+
+26:26.200 --> 26:27.020
+ Incredible.
+
+26:27.020 --> 26:27.860
+ Yes.
+
+26:27.860 --> 26:28.760
+ Incredible, I love hummingbirds.
+
+26:28.760 --> 26:31.120
+ And I always feel like it's such a special thing
+
+26:31.120 --> 26:33.440
+ to get a moment to see one because they move around so fast
+
+26:33.440 --> 26:37.140
+ and they flit away so fast in these ballistic trajectories
+
+26:37.140 --> 26:40.720
+ that when you get to see one stationary for a moment
+
+26:40.720 --> 26:42.880
+ or even just hovering there,
+
+26:42.880 --> 26:44.400
+ you feel like you're extracting so much
+
+26:44.400 --> 26:47.160
+ from their little microcosm of life.
+
+26:47.160 --> 26:49.720
+ But now I realize they're playing music essentially.
+
+26:49.720 --> 26:50.560
+ Right, exactly.
+
+26:50.560 --> 26:53.040
+ And what's amazing about hummingbirds
+
+26:53.040 --> 26:56.360
+ and we're gonna say vocal learning species in general
+
+26:56.360 --> 26:58.240
+ is that for whatever reason,
+
+26:58.240 --> 27:01.880
+ they seem to evolve multiple complex traits.
+
+27:01.880 --> 27:04.880
+ You know, this idea that the evolving language,
+
+27:04.880 --> 27:06.860
+ spoken language in particular,
+
+27:06.860 --> 27:09.760
+ comes along with a set of specializations.
+
+27:09.760 --> 27:11.320
+ Incredible.
+
+27:11.320 --> 27:13.640
+ When I was coming up in neuroscience,
+
+27:13.640 --> 27:17.560
+ I learned that, I think it was the work of Peter Marler,
+
+27:17.560 --> 27:22.560
+ that young birds learn, songbirds, learn their tutor's song
+
+27:23.360 --> 27:26.320
+ and learn it quite well,
+
+27:26.320 --> 27:29.500
+ but that they could learn the song of another tutor.
+
+27:29.500 --> 27:31.160
+ In other words, they could learn a different,
+
+27:31.160 --> 27:32.880
+ and for the listeners, I'm doing air quotes here,
+
+27:32.880 --> 27:35.600
+ a different language, a different bird song,
+
+27:35.600 --> 27:37.600
+ different than their own species song,
+
+27:37.600 --> 27:39.660
+ but never as well as they could learn
+
+27:39.660 --> 27:44.440
+ their own natural genetically linked song.
+
+27:44.440 --> 27:45.280
+ Yes.
+
+27:45.280 --> 27:47.120
+ Genetically linked, meaning that it would be like
+
+27:47.120 --> 27:48.860
+ me being raised in a different culture
+
+27:48.860 --> 27:52.920
+ and that I would learn the other language,
+
+27:52.920 --> 27:55.720
+ but not as well as I would have learned English.
+
+27:55.720 --> 27:56.760
+ This is the idea.
+
+27:56.760 --> 27:57.600
+ Yes.
+
+27:57.600 --> 27:58.420
+ Is that true?
+
+27:58.420 --> 27:59.260
+ That is true, yes.
+
+27:59.260 --> 28:01.200
+ And that's what I learned growing up as well
+
+28:01.200 --> 28:04.520
+ and talked to Peter Marler himself about before he passed.
+
+28:05.800 --> 28:07.120
+ Yeah, he used to call it
+
+28:07.120 --> 28:09.520
+ the innate predisposition to learn.
+
+28:09.520 --> 28:13.920
+ All right, so, which would be kind of the equivalent
+
+28:13.920 --> 28:16.440
+ in the linguistic community of universal grammar.
+
+28:16.440 --> 28:21.240
+ There is something genetically influencing
+
+28:21.240 --> 28:25.520
+ our vocal communication on top of what we learn culturally.
+
+28:25.520 --> 28:27.640
+ And so there is this balance between
+
+28:27.640 --> 28:31.440
+ the genetic control of speech or a song in these birds
+
+28:31.440 --> 28:34.400
+ and the learned cultural control.
+
+28:34.400 --> 28:39.400
+ And so, yes, if you were to take, you know,
+
+28:39.800 --> 28:41.600
+ I mean, in this case, we actually tried this
+
+28:41.600 --> 28:42.960
+ at Rockefeller later on,
+
+28:42.960 --> 28:46.640
+ take a zebra finch and raise it with a canary,
+
+28:46.640 --> 28:49.080
+ it would sing a song that was sort of like
+
+28:49.080 --> 28:49.920
+ a hybrid in between.
+
+28:49.920 --> 28:51.920
+ We call it a keninch, right?
+
+28:51.920 --> 28:55.280
+ And vice versa for the canary,
+
+28:55.280 --> 28:56.840
+ because there's something different about their
+
+28:56.840 --> 29:00.560
+ vocal musculature or the circuitry in the brain.
+
+29:00.560 --> 29:01.640
+ And with a zebra finch,
+
+29:01.640 --> 29:03.760
+ even with a closely related species,
+
+29:03.760 --> 29:07.320
+ if you would take a zebra finch, a young animal,
+
+29:07.320 --> 29:08.840
+ and in one cage next to it,
+
+29:08.840 --> 29:12.120
+ place its own species, adult male, right?
+
+29:12.120 --> 29:15.480
+ And in the other cage place a Bengalese finch next to it,
+
+29:15.480 --> 29:17.680
+ it would preferably learn the song
+
+29:17.680 --> 29:20.400
+ from its own species neighbor.
+
+29:20.400 --> 29:22.160
+ But if you remove its neighbor,
+
+29:22.160 --> 29:24.920
+ it would learn that Bengalese finch very well.
+
+29:24.920 --> 29:25.760
+ Fantastic.
+
+29:25.760 --> 29:27.960
+ So there's, it has something to do with also
+
+29:27.960 --> 29:30.360
+ the social bonding with your own species.
+
+29:30.360 --> 29:31.600
+ Incredible.
+
+29:31.600 --> 29:34.080
+ That raises a question that I based on something
+
+29:34.080 --> 29:37.240
+ I also heard, but I don't have any scientific
+
+29:37.240 --> 29:38.960
+ peer reviewed publication to point to,
+
+29:38.960 --> 29:41.480
+ which is this idea of pigeon, not the bird,
+
+29:41.480 --> 29:45.760
+ but this idea of when multiple cultures and languages
+
+29:45.760 --> 29:47.680
+ converge in a given geographic area,
+
+29:47.680 --> 29:50.400
+ that the children of all the different native languages
+
+29:50.400 --> 29:53.240
+ will come up with their own language.
+
+29:53.240 --> 29:55.000
+ I think this was in island culture,
+
+29:55.000 --> 29:56.840
+ maybe in Hawaii called pigeon,
+
+29:56.840 --> 29:59.560
+ which is sort of a hybrid of the various languages
+
+29:59.560 --> 30:01.360
+ that their parents speak at home.
+
+30:01.360 --> 30:03.360
+ And that they themselves speak.
+
+30:03.360 --> 30:06.600
+ And that somehow pigeon, again, not the bird,
+
+30:06.600 --> 30:09.400
+ but a language called pigeon for reasons I don't know,
+
+30:10.440 --> 30:14.640
+ harbors certain basic elements of all language.
+
+30:14.640 --> 30:15.800
+ Is that true?
+
+30:15.800 --> 30:16.640
+ Is that not true?
+
+30:16.640 --> 30:19.400
+ I haven't studied enough myself
+
+30:19.400 --> 30:21.520
+ in terms of pigeon specifically,
+
+30:21.520 --> 30:24.160
+ but in terms of cultural evolution of language
+
+30:24.160 --> 30:27.560
+ and hybridization between different cultures and so forth,
+
+30:27.560 --> 30:30.560
+ even amongst birds with different dialects.
+
+30:30.560 --> 30:32.080
+ And you bring them together.
+
+30:33.760 --> 30:37.960
+ What is going on here is cultural evolution
+
+30:37.960 --> 30:41.160
+ remarkably tracks genetic evolution.
+
+30:41.160 --> 30:44.720
+ So if you bring people from two separate populations
+
+30:44.720 --> 30:47.360
+ together that have been in their separate populations
+
+30:47.360 --> 30:51.360
+ evolutionarily at least for hundreds of generations.
+
+30:51.360 --> 30:54.560
+ So someone's speaking Chinese, someone's speaking English.
+
+30:54.560 --> 30:58.240
+ And that child then is learning from both of them.
+
+30:58.240 --> 31:00.680
+ Yes, that child is gonna be able to pick up
+
+31:00.680 --> 31:05.680
+ and merge phonemes and words together
+
+31:06.080 --> 31:08.560
+ in a way that an adult wouldn't.
+
+31:08.560 --> 31:11.720
+ Because why they're experiencing both languages
+
+31:11.720 --> 31:16.040
+ at the same time during their critical period years
+
+31:16.040 --> 31:19.760
+ in a way that adults would not be able to experience.
+
+31:19.760 --> 31:21.560
+ And so you get a hybrid.
+
+31:21.560 --> 31:23.600
+ And the lowest common denominator
+
+31:23.600 --> 31:25.360
+ is gonna be what they share.
+
+31:25.360 --> 31:27.800
+ And so the phonemes that they've retained
+
+31:27.800 --> 31:31.840
+ in each of their languages is what's gonna be,
+
+31:31.840 --> 31:33.600
+ I imagine, used the most.
+
+31:33.600 --> 31:35.200
+ Interesting.
+
+31:35.200 --> 31:40.120
+ So we've got brain circuits in songbirds and in humans
+
+31:40.120 --> 31:41.760
+ that in many ways are similar,
+
+31:41.760 --> 31:43.760
+ perhaps not in their exact wiring
+
+31:43.760 --> 31:45.920
+ but in their basic contour of wiring.
+
+31:45.920 --> 31:49.440
+ And genes that are expressed in both sets of neural circuits
+
+31:49.440 --> 31:53.240
+ in very distinct species that are responsible
+
+31:53.240 --> 31:56.840
+ for these phenomenon we're calling speech and language.
+
+31:56.840 --> 32:00.560
+ What sorts of things are those genes controlling?
+
+32:00.560 --> 32:02.520
+ I could imagine they were controlling
+
+32:02.520 --> 32:05.280
+ the wiring of connections between brain areas,
+
+32:05.280 --> 32:08.840
+ essentially a map of a circuit,
+
+32:08.840 --> 32:10.720
+ basically like an engineer would design a circuit
+
+32:10.720 --> 32:11.600
+ for speech and language,
+
+32:11.600 --> 32:14.800
+ nature designed the circuit for speech and language.
+
+32:14.800 --> 32:16.800
+ But presumably other things too,
+
+32:16.800 --> 32:21.800
+ like the ability to connect motor patterns
+
+32:22.440 --> 32:24.560
+ within the throat of muscles within the throat
+
+32:24.560 --> 32:26.000
+ when the control of the tongue.
+
+32:26.000 --> 32:27.760
+ I mean, what are these genes doing?
+
+32:27.760 --> 32:28.840
+ You're pretty good.
+
+32:28.840 --> 32:30.800
+ Yeah, you've made some very good guesses there
+
+32:30.800 --> 32:32.080
+ that make sense.
+
+32:33.240 --> 32:36.800
+ So yes, one of the things that differ
+
+32:36.800 --> 32:38.320
+ in the speech pathways of us
+
+32:38.320 --> 32:39.800
+ and these song pathways of birds
+
+32:39.800 --> 32:42.440
+ is some of the connections are fundamentally different
+
+32:42.440 --> 32:44.040
+ than the surrounding circuits,
+
+32:44.040 --> 32:47.920
+ like a direct cortical connection
+
+32:47.920 --> 32:50.280
+ from the areas that control vocalizations in the cortex
+
+32:50.280 --> 32:53.520
+ to the motor neurons that control the larynx in humans
+
+32:53.520 --> 32:54.920
+ or the syrinx in birds.
+
+32:54.920 --> 32:57.600
+ And so we've actually made a prediction
+
+32:57.600 --> 33:00.080
+ that since some of these connections differ,
+
+33:00.080 --> 33:03.640
+ we're gonna find genes that control neural connectivity
+
+33:03.640 --> 33:05.880
+ and that specialize in that function, that differ.
+
+33:05.880 --> 33:07.600
+ And that's exactly what we found.
+
+33:09.240 --> 33:11.520
+ Genes that control what we call axon guidance
+
+33:11.520 --> 33:12.880
+ and form-instant connections.
+
+33:12.880 --> 33:14.040
+ And what was interesting,
+
+33:14.040 --> 33:17.960
+ it was sort of in the opposite direction that we expected.
+
+33:17.960 --> 33:20.600
+ That is, some of these genes,
+
+33:20.600 --> 33:21.600
+ actually a number of them
+
+33:21.600 --> 33:24.880
+ that control neural connectivity were turned off
+
+33:24.880 --> 33:26.000
+ in the speech circuit.
+
+33:27.840 --> 33:29.400
+ And it didn't make sense to us at first
+
+33:29.400 --> 33:31.760
+ and so we started to realize the function of these genes
+
+33:31.760 --> 33:34.520
+ are to repel connections from forming.
+
+33:34.520 --> 33:36.440
+ So repulsive molecules.
+
+33:36.440 --> 33:38.600
+ And so when you turn them off,
+
+33:38.600 --> 33:40.280
+ they allow certain connections to form
+
+33:40.280 --> 33:42.240
+ that normally would have not formed.
+
+33:42.240 --> 33:43.880
+ So by turning it off,
+
+33:43.880 --> 33:45.920
+ you gotta gain a function for speech.
+
+33:47.560 --> 33:49.720
+ Other genes that surprised us
+
+33:49.720 --> 33:54.040
+ were genes involved in calcium buffering, neural protection,
+
+33:54.040 --> 33:56.720
+ like a parvalbumin or a heat shock protein.
+
+33:56.720 --> 33:59.720
+ So when your brain gets hot, these proteins turn on.
+
+33:59.720 --> 34:01.320
+ And we couldn't figure out for a long time
+
+34:01.320 --> 34:03.000
+ why is that the case?
+
+34:03.000 --> 34:05.600
+ And then the idea popped to me one day and said,
+
+34:05.600 --> 34:08.120
+ ah, when I heard the larynx
+
+34:08.120 --> 34:11.720
+ is the fastest firing muscles in the body, all right?
+
+34:11.720 --> 34:13.840
+ In order to vibrate sound
+
+34:13.840 --> 34:16.720
+ and modulate sound in the way we do,
+
+34:16.720 --> 34:20.600
+ you have to control, you have to move those muscles,
+
+34:20.600 --> 34:23.120
+ you know, three to four to five times faster
+
+34:23.120 --> 34:25.480
+ than just regular walking or running.
+
+34:25.480 --> 34:29.920
+ And so when you stick electrodes in the brain areas
+
+34:29.920 --> 34:32.280
+ that control larynx vocalizations in these birds
+
+34:32.280 --> 34:34.480
+ and I think in humans as well,
+
+34:34.480 --> 34:36.920
+ those neurons are firing at a higher rate
+
+34:36.920 --> 34:38.760
+ to control these muscles.
+
+34:38.760 --> 34:40.960
+ And so what is that gonna do?
+
+34:40.960 --> 34:43.600
+ You're gonna have lots of toxicity in those neurons
+
+34:43.600 --> 34:45.440
+ unless you upregulate molecules
+
+34:45.440 --> 34:48.760
+ that take out the extra load
+
+34:48.760 --> 34:51.000
+ that is needed to control the larynx.
+
+34:51.000 --> 34:52.880
+ And then finally, a third set of genes
+
+34:52.880 --> 34:55.240
+ that are specialized in these speed circuit
+
+34:55.240 --> 34:56.920
+ are involved in neuroplasticity.
+
+34:57.880 --> 35:01.600
+ Neuroplasticity meaning allowing the brain circuits
+
+35:01.600 --> 35:05.520
+ to be more flexible so you can learn better.
+
+35:05.520 --> 35:06.800
+ And why is that?
+
+35:06.800 --> 35:09.240
+ I think learning how to produce speech
+
+35:09.240 --> 35:12.600
+ is a more complex learning ability
+
+35:12.600 --> 35:14.560
+ than say learning how to walk
+
+35:14.560 --> 35:18.400
+ or learning how to do tricks and jumps and so forth
+
+35:18.400 --> 35:19.720
+ that dogs do.
+
+35:19.720 --> 35:21.360
+ Yeah, it's interesting as you say that
+
+35:21.360 --> 35:24.640
+ because I realized that many aspects of speech
+
+35:24.640 --> 35:25.720
+ are sort of reflexive.
+
+35:25.720 --> 35:27.760
+ I'm not thinking about each word I'm gonna say.
+
+35:27.760 --> 35:29.080
+ They just sort of roll out of my mouth.
+
+35:29.080 --> 35:31.000
+ Hopefully with some forethought,
+
+35:31.000 --> 35:35.240
+ we both know people that seem to think less,
+
+35:35.240 --> 35:37.360
+ fewer synapses between their brain and their mouth
+
+35:37.360 --> 35:38.320
+ than others, right?
+
+35:38.320 --> 35:39.760
+ A lot of examples out there.
+
+35:39.760 --> 35:41.600
+ And some people are very deliberate in their speech.
+
+35:41.600 --> 35:46.440
+ But nonetheless, much of speech has to be precise
+
+35:46.440 --> 35:49.000
+ and some of it less precise.
+
+35:49.000 --> 35:51.320
+ In terms of plasticity of speech,
+
+35:51.320 --> 35:53.680
+ and the ability to learn multiple languages,
+
+35:53.680 --> 35:55.680
+ but even just one language,
+
+35:55.680 --> 35:57.880
+ what's going on in the critical period,
+
+35:57.880 --> 35:59.200
+ the so-called critical period?
+
+35:59.200 --> 36:02.960
+ Why is it that, so my niece speaks Spanish,
+
+36:02.960 --> 36:06.240
+ she's Guatemalan, speaks Spanish and English incredibly well.
+
+36:06.240 --> 36:08.160
+ She's 14 years old.
+
+36:08.160 --> 36:09.640
+ I've struggled with Spanish my whole life.
+
+36:09.640 --> 36:11.720
+ My father's bilingual, my mother is not.
+
+36:11.720 --> 36:14.000
+ I've tried to learn Spanish as an adult.
+
+36:14.000 --> 36:15.920
+ It's really challenging.
+
+36:15.920 --> 36:18.100
+ I'm told that had I learned it when I was eight,
+
+36:18.100 --> 36:19.200
+ I would be better off.
+
+36:19.200 --> 36:20.020
+ That's right.
+
+36:20.020 --> 36:22.680
+ Or it would be installed within me.
+
+36:22.680 --> 36:24.500
+ So the first question is,
+
+36:24.500 --> 36:26.360
+ is it easier to learn multiple languages
+
+36:26.360 --> 36:28.080
+ without an accent early in life?
+
+36:28.080 --> 36:29.260
+ And if so, why?
+
+36:29.260 --> 36:30.800
+ And then the second question is,
+
+36:30.800 --> 36:34.560
+ if one can already speak more than one language
+
+36:34.560 --> 36:36.640
+ as a consequence of childhood learning,
+
+36:36.640 --> 36:39.940
+ is it easier to acquire new languages later on?
+
+36:39.940 --> 36:42.800
+ So the answer to both of those questions is yes.
+
+36:42.800 --> 36:47.360
+ In that, but to explain this,
+
+36:47.360 --> 36:49.020
+ I need to let you know,
+
+36:49.020 --> 36:51.380
+ actually the entire brain
+
+36:51.380 --> 36:54.360
+ is undergoing a critical period development,
+
+36:54.360 --> 36:56.340
+ not just the speech pathways.
+
+36:56.340 --> 36:59.280
+ And so it's easier to learn how to play a piano.
+
+36:59.280 --> 37:02.120
+ It's easier to learn how to ride a bike for the first time
+
+37:02.120 --> 37:07.120
+ and so forth as a young child than it is later in life.
+
+37:07.220 --> 37:10.920
+ What I mean easier in terms of when you start from,
+
+37:10.920 --> 37:13.920
+ you start from first principles of learning something.
+
+37:13.920 --> 37:16.560
+ So the very first time if you're gonna learn Chinese
+
+37:16.560 --> 37:18.440
+ as a child versus the very first time
+
+37:18.440 --> 37:20.120
+ you learn Chinese as an adult,
+
+37:20.120 --> 37:22.900
+ or learning to play piano as a child versus an adult.
+
+37:24.360 --> 37:28.360
+ But the speech pathways, or let's say speech behavior,
+
+37:28.360 --> 37:32.720
+ I think has a stronger critical period change to it
+
+37:32.720 --> 37:34.320
+ than other circuits.
+
+37:34.320 --> 37:36.680
+ And what's going on there in general?
+
+37:39.600 --> 37:44.000
+ Why do you need a critical period to make you more stable,
+
+37:44.000 --> 37:47.200
+ to make you more stubborn, so to speak?
+
+37:47.200 --> 37:52.200
+ The reason I believe is that the brain is not,
+
+37:52.360 --> 37:55.600
+ brain can only hold so much information.
+
+37:55.600 --> 38:00.440
+ And if you are undergoing rapid learning
+
+38:00.440 --> 38:02.680
+ to acquire new knowledge,
+
+38:02.680 --> 38:05.800
+ you also have to dump stuff,
+
+38:05.800 --> 38:10.220
+ put memory or information in the trash, like in a computer.
+
+38:10.220 --> 38:13.000
+ You only have so many gigabases of memory.
+
+38:13.000 --> 38:17.280
+ And so therefore, plus also for survival,
+
+38:17.280 --> 38:19.640
+ you don't wanna keep forgetting things.
+
+38:19.640 --> 38:23.840
+ And so the brain is designed, I believe,
+
+38:23.840 --> 38:27.880
+ to undergo this critical period and solidify the circuits
+
+38:27.880 --> 38:29.400
+ with what you learned as a child
+
+38:29.400 --> 38:31.120
+ and you use that for the rest of your life.
+
+38:31.120 --> 38:36.000
+ And we humans stay even more plastic in our brain functions
+
+38:36.000 --> 38:38.480
+ controlled by a gene called SR-GAP2.
+
+38:38.480 --> 38:40.040
+ We have an extra copy of it
+
+38:40.040 --> 38:42.240
+ that leaves our speech circuit in other brain regions
+
+38:42.240 --> 38:44.520
+ in a more immature state throughout life
+
+38:44.520 --> 38:46.080
+ compared to other animals.
+
+38:46.080 --> 38:47.720
+ So we're more immature.
+
+38:47.720 --> 38:49.760
+ We're still juvenile-like compared to other animals.
+
+38:49.760 --> 38:50.600
+ I knew it.
+
+38:50.600 --> 38:52.880
+ But we still go through the critical periods
+
+38:52.880 --> 38:54.240
+ like they all do.
+
+38:54.240 --> 38:57.120
+ And now the question you asked about
+
+38:57.120 --> 39:01.720
+ if you learn more languages as a child,
+
+39:01.720 --> 39:03.480
+ is it easier to learn as an adult?
+
+39:03.480 --> 39:06.380
+ And that's a common finding out there in the literature.
+
+39:06.380 --> 39:08.140
+ There are some that argue against it.
+
+39:08.140 --> 39:10.800
+ But for those that support it, the idea there is
+
+39:10.800 --> 39:14.640
+ that you are born with a set of innate sounds
+
+39:14.640 --> 39:18.040
+ you can produce of phonemes and you narrow that down
+
+39:18.040 --> 39:20.400
+ because not all languages use all of them.
+
+39:20.400 --> 39:22.680
+ And so you narrow down the ones you use
+
+39:22.680 --> 39:26.140
+ to string the phonemes together in the words that you learn
+
+39:26.140 --> 39:29.320
+ and you maintain those phonemes as an adult.
+
+39:29.320 --> 39:31.640
+ And here comes along another language
+
+39:31.640 --> 39:34.440
+ that's using those phonemes in different combinations
+
+39:34.440 --> 39:36.240
+ you're not used to.
+
+39:36.240 --> 39:39.480
+ And therefore, it's like starting from first principles.
+
+39:39.480 --> 39:41.080
+ But if you already have them
+
+39:41.080 --> 39:43.240
+ in multiple languages that you're using,
+
+39:43.240 --> 39:45.080
+ then it makes it easier to use them
+
+39:45.080 --> 39:47.600
+ in another third or fourth language.
+
+39:47.600 --> 39:48.520
+ I see.
+
+39:48.520 --> 39:49.760
+ Incredible.
+
+39:49.760 --> 39:54.560
+ So it's not like your brain has maintained greater plasticity
+
+39:54.560 --> 39:57.440
+ is your brain has maintained greater ability
+
+39:57.440 --> 39:59.540
+ to produce different sounds
+
+39:59.540 --> 40:02.160
+ that then allows you to learn another language faster.
+
+40:02.160 --> 40:03.600
+ Got it.
+
+40:03.600 --> 40:08.020
+ Are the hand gestures associated with sounds
+
+40:08.020 --> 40:10.200
+ or with meanings of words?
+
+40:10.200 --> 40:11.920
+ I think the hand gestures are associated
+
+40:11.920 --> 40:14.480
+ with both the sounds and the meaning.
+
+40:14.480 --> 40:19.320
+ When I say sound, like if you are really angry, right?
+
+40:19.320 --> 40:22.840
+ And you are making a loud screaming noise, right?
+
+40:22.840 --> 40:25.120
+ You may make hand gestures
+
+40:25.120 --> 40:27.880
+ that look like you're gonna beat the wall, right?
+
+40:27.880 --> 40:31.440
+ Because you're making loud sounds and loud gestures,
+
+40:31.440 --> 40:32.680
+ all right?
+
+40:32.680 --> 40:35.900
+ But if you wanna explain something like come over here,
+
+40:35.900 --> 40:38.660
+ what I just do now to you, for those who can't see me,
+
+40:38.660 --> 40:41.880
+ I swung my hand towards you and swung it here to me.
+
+40:41.880 --> 40:44.480
+ That has a meaning to it, to come here.
+
+40:44.480 --> 40:46.800
+ So just like with the voice,
+
+40:46.800 --> 40:50.800
+ the hand gestures are producing both qualities of sounds.
+
+40:53.120 --> 40:55.880
+ And for people that speak multiple languages,
+
+40:55.880 --> 40:58.420
+ especially those that learn those multiple languages
+
+40:58.420 --> 40:59.760
+ early in development,
+
+40:59.760 --> 41:02.280
+ do they switch their patterns of motor movements
+
+41:02.280 --> 41:06.600
+ according to, let's say, going from Italian to Arabic
+
+41:06.600 --> 41:10.640
+ or from Arabic to French in a way that matches
+
+41:10.640 --> 41:13.960
+ the precision of language that they're speaking?
+
+41:13.960 --> 41:14.800
+ You know what?
+
+41:14.800 --> 41:17.120
+ You just asked me a question I don't know the answer to.
+
+41:17.120 --> 41:19.400
+ I would imagine that would make sense
+
+41:19.400 --> 41:24.020
+ because of switching in terms of,
+
+41:24.020 --> 41:25.920
+ sometimes people might call this code switching,
+
+41:25.920 --> 41:28.400
+ even different dialects of the same language.
+
+41:28.400 --> 41:30.560
+ Could you do that with your gestures?
+
+41:30.560 --> 41:34.320
+ I imagine so, but I really don't know if that's true or not.
+
+41:34.320 --> 41:35.880
+ I certainly don't know from my own experience
+
+41:35.880 --> 41:37.640
+ because I only speak one language.
+
+41:39.640 --> 41:41.880
+ Before we continue with today's discussion,
+
+41:41.880 --> 41:43.960
+ I'd like to just briefly acknowledge our sponsor,
+
+41:43.960 --> 41:47.160
+ Athletic Greens, now called AG1.
+
+41:47.160 --> 41:49.440
+ Athletic Greens, AKA AG1,
+
+41:49.440 --> 41:51.880
+ is an all-in-one vitamin mineral probiotic drink
+
+41:51.880 --> 41:54.940
+ that also has adaptogens and digestive enzymes.
+
+41:54.940 --> 41:57.680
+ I've been taking Athletic Greens since way back in 2012,
+
+41:57.680 --> 42:00.100
+ so I'm delighted that they're sponsoring the podcast.
+
+42:00.100 --> 42:01.720
+ The reason I started taking Athletic Greens
+
+42:01.720 --> 42:04.640
+ and the reason I still drink Athletic Greens twice a day
+
+42:04.640 --> 42:07.560
+ is that it supplies total foundational coverage
+
+42:07.560 --> 42:08.960
+ of my vitamin mineral needs
+
+42:08.960 --> 42:11.880
+ and it supplies important nutrients that I need
+
+42:11.880 --> 42:13.440
+ to support my gut microbiome.
+
+42:13.440 --> 42:15.180
+ The gut microbiome, as many of you know,
+
+42:15.180 --> 42:16.280
+ supports the immune system.
+
+42:16.280 --> 42:18.320
+ It also supports the so-called gut-brain axis,
+
+42:18.320 --> 42:20.680
+ which is vital for mood, for energy levels,
+
+42:20.680 --> 42:23.020
+ for regulating focus, and many other features
+
+42:23.020 --> 42:24.500
+ of our mental health and physical health
+
+42:24.500 --> 42:27.000
+ that impact our daily performance and high performance
+
+42:27.000 --> 42:29.120
+ in any endeavors we might be involved in.
+
+42:29.120 --> 42:30.520
+ If you'd like to try Athletic Greens,
+
+42:30.520 --> 42:33.200
+ you can go to athleticgreens.com slash Huberman
+
+42:33.200 --> 42:34.800
+ and claim a special offer.
+
+42:34.800 --> 42:36.460
+ They're giving away five free travel packs
+
+42:36.460 --> 42:40.360
+ plus a year supply of vitamin D3K2 with every order.
+
+42:40.360 --> 42:42.560
+ And of course, vitamin D3K2 are vital
+
+42:42.560 --> 42:44.640
+ for all sorts of things like hormone health
+
+42:44.640 --> 42:47.080
+ and metabolic health and K2 for cardiovascular health
+
+42:47.080 --> 42:48.240
+ and calcium regulation.
+
+42:48.240 --> 42:51.460
+ Again, you can go to athleticgreens.com slash Huberman
+
+42:51.460 --> 42:52.860
+ to claim that special offer.
+
+42:52.860 --> 42:57.560
+ To go a little bit into the abstract, but not too far,
+
+42:57.560 --> 42:59.440
+ what about modes of speech and language
+
+42:59.440 --> 43:03.040
+ that seem to have a depth of emotionality and meaning,
+
+43:03.040 --> 43:07.080
+ but for which it departs from structured language?
+
+43:07.080 --> 43:09.160
+ Here's what I mean, poetry.
+
+43:10.000 --> 43:13.160
+ I think of musicians, like there are some Bob Dylan songs
+
+43:13.160 --> 43:17.180
+ that to me, I understand the individual words.
+
+43:17.180 --> 43:20.240
+ I like to think there's an emotion associated with it.
+
+43:20.240 --> 43:21.960
+ At least I experienced some sort of emotion
+
+43:21.960 --> 43:25.660
+ and I have a guess about what he was experiencing.
+
+43:25.660 --> 43:29.480
+ But if I were to just read it linearly without the music
+
+43:29.480 --> 43:32.800
+ and without him singing it or somebody singing it like him,
+
+43:32.800 --> 43:33.840
+ it wouldn't hold any meaning.
+
+43:33.840 --> 43:37.200
+ So in other words, words that seem to have meaning
+
+43:37.200 --> 43:39.660
+ but not associated with language,
+
+43:39.660 --> 43:42.240
+ but somehow tap into an emotionality.
+
+43:43.100 --> 43:44.120
+ Yep, absolutely.
+
+43:44.120 --> 43:49.120
+ So we call this difference semantic communication,
+
+43:49.200 --> 43:52.600
+ communication with meaning, and affective communication,
+
+43:52.600 --> 43:56.200
+ communication that has more of an emotional
+
+43:56.200 --> 44:00.320
+ feeling content to it, but not with the semantics.
+
+44:00.320 --> 44:02.600
+ And the two can be mixed up,
+
+44:02.600 --> 44:05.720
+ like with singing words that have meaning
+
+44:05.720 --> 44:07.960
+ but also have this affective emotional,
+
+44:07.960 --> 44:12.040
+ you just love the sound of the singer that you're hearing.
+
+44:12.040 --> 44:17.040
+ And initially, psychologists, scientists in general
+
+44:18.800 --> 44:20.600
+ thought that these were gonna be controlled
+
+44:20.600 --> 44:23.080
+ by different brain circuits.
+
+44:23.080 --> 44:25.800
+ And it is the case there are emotional brain centers
+
+44:25.800 --> 44:29.760
+ in the hypothalamus, in the cingulate cortex and so forth
+
+44:29.760 --> 44:33.100
+ that do give tone to the sounds.
+
+44:33.100 --> 44:37.160
+ But I believe based upon imaging work
+
+44:37.160 --> 44:39.140
+ and work we see in birds,
+
+44:39.140 --> 44:42.740
+ when birds are communicating semantic information
+
+44:42.740 --> 44:45.680
+ in their sounds, which is not too often but it happens,
+
+44:45.680 --> 44:48.560
+ versus affective communication,
+
+44:48.560 --> 44:50.600
+ sing because I'm trying to attract the mate,
+
+44:50.600 --> 44:53.420
+ my courtship song or defend my territory,
+
+44:53.420 --> 44:54.720
+ it's the same brain circuits.
+
+44:54.720 --> 44:57.160
+ It's the same speech-like or song circuits
+
+44:57.160 --> 44:59.340
+ are being used in different ways.
+
+45:00.880 --> 45:04.280
+ A friend of mine who's also a therapist said to me,
+
+45:04.280 --> 45:07.960
+ it's possible to say, I love you with intense hatred
+
+45:07.960 --> 45:10.560
+ and to say, I hate you with intense love.
+
+45:10.560 --> 45:12.560
+ And reminded me that it's possible to hear
+
+45:12.560 --> 45:15.120
+ both of those statements in either way.
+
+45:15.120 --> 45:18.520
+ So I guess it's not just limited to song
+
+45:18.520 --> 45:23.520
+ or poetry, it also, there's something about the intention
+
+45:23.720 --> 45:27.280
+ and the emotional context in which something's spoken
+
+45:27.280 --> 45:29.080
+ that it can heavily shape the way
+
+45:29.080 --> 45:31.320
+ that we interpret what we hear.
+
+45:31.320 --> 45:35.440
+ That's right, and I consider all of that actually meaning,
+
+45:35.440 --> 45:37.580
+ even though I defined it as,
+
+45:37.580 --> 45:41.760
+ as people commonly do semantic and affective communication,
+
+45:41.760 --> 45:44.000
+ affective communication to say I hate you
+
+45:44.000 --> 45:49.000
+ but love, right, does have emotional meaning to it.
+
+45:51.360 --> 45:53.760
+ And so one's more like an object kind of meaning
+
+45:53.760 --> 45:55.560
+ or an abstract kind of meaning.
+
+45:55.560 --> 45:57.600
+ There's several other points here I think it's important
+
+45:57.600 --> 46:00.460
+ for those listening out there to hear,
+
+46:00.460 --> 46:03.240
+ is that when I say also this affective
+
+46:03.240 --> 46:07.800
+ and semantic communication being used
+
+46:07.800 --> 46:08.860
+ by similar brain circuits,
+
+46:08.860 --> 46:11.320
+ it also matters the side of the brain.
+
+46:11.320 --> 46:16.320
+ In birds and in humans, there's left right dominance
+
+46:17.360 --> 46:21.520
+ for learned communication, learned sound communication.
+
+46:21.520 --> 46:25.680
+ So the left in us humans is more dominant for speech.
+
+46:25.680 --> 46:29.240
+ But the right has a more balance for singing
+
+46:29.240 --> 46:31.160
+ or processing musical sounds
+
+46:31.160 --> 46:32.840
+ as opposed to processing speech.
+
+46:32.840 --> 46:34.840
+ Both get used for both reasons.
+
+46:34.840 --> 46:37.600
+ And so when people say your right brain
+
+46:37.600 --> 46:40.080
+ is your artistic brain and your left brain
+
+46:40.080 --> 46:43.720
+ is your thinking brain, this is what they're referring to.
+
+46:43.720 --> 46:46.200
+ And so that's another distinction.
+
+46:46.200 --> 46:49.720
+ The second thing that's useful to know
+
+46:49.720 --> 46:53.300
+ is that all vocal learning species use their learned sounds
+
+46:53.300 --> 46:58.040
+ for this emotional affective kind of communication.
+
+46:58.040 --> 47:00.360
+ But only a few of them like humans
+
+47:00.360 --> 47:02.640
+ and some parrots and dolphins use it
+
+47:02.640 --> 47:06.640
+ for the semantic kind of communication calling speech.
+
+47:06.640 --> 47:11.320
+ And that has led a number of people to hypothesize
+
+47:11.320 --> 47:14.480
+ that the evolution of spoken language of speech
+
+47:14.480 --> 47:17.220
+ evolved first for singing,
+
+47:17.220 --> 47:21.400
+ for this more like emotional kind of made attraction
+
+47:21.400 --> 47:24.080
+ like the Jennifer Lopez, the Ricky Martin kind of songs
+
+47:24.080 --> 47:25.520
+ and so forth.
+
+47:25.520 --> 47:29.640
+ And then later on, it became used for abstract communication
+
+47:29.640 --> 47:31.200
+ like we're doing now.
+
+47:31.200 --> 47:32.240
+ Interesting.
+
+47:32.240 --> 47:34.720
+ Well, that's a perfect segue for me
+
+47:34.720 --> 47:38.400
+ to be able to ask you about your background
+
+47:38.400 --> 47:42.700
+ and motor control, not only of the hands, but of the body.
+
+47:42.700 --> 47:46.320
+ So you have a number of important distinctions to your name,
+
+47:46.320 --> 47:49.100
+ but one of them is that you were a member
+
+47:49.100 --> 47:52.560
+ of the Alvin Ailey Dance School of Dance.
+
+47:52.560 --> 47:54.040
+ That's right.
+
+47:54.040 --> 47:58.180
+ So you're an accomplished and quite able dancer, right?
+
+47:58.180 --> 48:00.880
+ Tell us a little bit about your background
+
+48:00.880 --> 48:03.120
+ in the world of dance.
+
+48:03.120 --> 48:07.480
+ And how it informs your interest in neuroscience,
+
+48:07.480 --> 48:10.560
+ excuse me, and perhaps even how it relates specifically
+
+48:10.560 --> 48:12.120
+ to your work on speech and language.
+
+48:12.120 --> 48:13.080
+ Yes.
+
+48:13.080 --> 48:14.520
+ Well, it's interesting.
+
+48:14.520 --> 48:17.320
+ And then this kind of history even goes before my time.
+
+48:17.320 --> 48:19.920
+ So in my family, my mother and father's side,
+
+48:19.920 --> 48:21.720
+ they both went to the High School of Music and Art
+
+48:21.720 --> 48:23.600
+ here in New York City.
+
+48:23.600 --> 48:25.220
+ And particularly my mother's family,
+
+48:25.220 --> 48:28.320
+ going back multiple generations, they were singers.
+
+48:28.320 --> 48:31.640
+ And I even did my family genealogy and found out
+
+48:31.640 --> 48:33.920
+ not only we have some relationships
+
+48:33.920 --> 48:35.480
+ to some well-known singers,
+
+48:35.480 --> 48:37.800
+ distant relationships like Thelonious Monk,
+
+48:37.800 --> 48:42.080
+ but going back to the plantations in North Carolina
+
+48:42.080 --> 48:45.840
+ and so forth, my ancestors were singers in the church
+
+48:45.840 --> 48:48.000
+ for the towns and so forth.
+
+48:48.000 --> 48:51.280
+ And this somehow got passed on multiple generations
+
+48:51.280 --> 48:52.120
+ to my family.
+
+48:52.120 --> 48:53.720
+ And I thought I was gonna grow up
+
+48:53.720 --> 48:55.440
+ and be a famous singer, right?
+
+48:55.440 --> 48:58.860
+ And me and my brothers and sister formed a band
+
+48:58.860 --> 49:01.160
+ when we were kids and so forth.
+
+49:01.160 --> 49:04.640
+ And, but it turned out that I didn't inherit
+
+49:04.640 --> 49:07.680
+ the singing talents of some of my other family members,
+
+49:07.680 --> 49:12.000
+ even though it was okay, but not like my brother
+
+49:12.000 --> 49:16.200
+ or not like my mother or my aunts and my cousin Pudafe,
+
+49:16.200 --> 49:19.040
+ who's now a talented Native American singer.
+
+49:19.040 --> 49:24.040
+ And so that then influenced me to do other things.
+
+49:24.040 --> 49:29.040
+ And I started competing in dance contests.
+
+49:29.040 --> 49:31.520
+ Actually this is around the time of the Saturday Night Fever
+
+49:31.520 --> 49:35.320
+ and I was as a teenager and I started winning dance contests
+
+49:35.320 --> 49:37.080
+ and I thought, oh, I can dance.
+
+49:37.080 --> 49:39.800
+ And I auditioned for the High School of Performing Arts
+
+49:39.800 --> 49:42.400
+ and I got in here in New York City
+
+49:42.400 --> 49:45.160
+ and got into ballet dance and got in, right?
+
+49:45.160 --> 49:47.840
+ And thought if I learn ballet, I can learn everything else.
+
+49:47.840 --> 49:50.000
+ It was that idea, if you learn something classical,
+
+49:50.000 --> 49:51.840
+ it can teach you very little.
+
+49:51.840 --> 49:54.280
+ If you learn something classical, it can teach you
+
+49:54.280 --> 49:56.000
+ for everything else.
+
+49:56.000 --> 49:58.640
+ And I was, yeah, at Alvin Ailey Dance School,
+
+49:58.640 --> 50:00.360
+ Joffrey Ballet Dance School.
+
+50:00.360 --> 50:03.840
+ And at the end of my senior concert,
+
+50:03.840 --> 50:06.680
+ I had this opportunity to audition
+
+50:06.680 --> 50:08.720
+ for the Alvin Ailey Dance Company
+
+50:08.720 --> 50:11.440
+ and I had an opportunity to go to college.
+
+50:11.440 --> 50:13.640
+ And I also fell in love with another passion
+
+50:13.640 --> 50:16.200
+ that my father had, which was science.
+
+50:16.200 --> 50:18.880
+ And so I liked science in high school
+
+50:18.880 --> 50:21.720
+ and I found an overlap also between the arts
+
+50:21.720 --> 50:23.120
+ and the sciences.
+
+50:23.120 --> 50:27.280
+ Both required creativity, hard work, discipline,
+
+50:27.280 --> 50:30.160
+ new discovery, both weren't boring to me.
+
+50:30.160 --> 50:34.280
+ And the one decision I made at that senior dance concert
+
+50:34.280 --> 50:37.200
+ was talking to the Alvin Ailey recruiter
+
+50:37.200 --> 50:39.800
+ and thinking about it, I have to make a decision.
+
+50:39.800 --> 50:43.200
+ And I thought something my mother taught me,
+
+50:43.200 --> 50:46.480
+ because she was growing up in the 1960s cultural revolution,
+
+50:46.480 --> 50:50.360
+ do something that has a positive impact on society.
+
+50:50.360 --> 50:52.040
+ I thought I can do that better as a dancer
+
+50:52.040 --> 50:53.640
+ than a scientist.
+
+50:53.640 --> 50:58.040
+ So now jump, I get into college, undergraduate school,
+
+50:58.040 --> 51:00.360
+ I major in molecular biology and mathematics.
+
+51:00.360 --> 51:02.360
+ I decided I wanted to be a biologist,
+
+51:02.360 --> 51:05.120
+ got into graduate school, wanted to study the brain
+
+51:05.120 --> 51:06.680
+ at the Rockefeller University.
+
+51:06.680 --> 51:09.040
+ So I went from Hunter College to Rockefeller University.
+
+51:09.040 --> 51:11.480
+ And so now I got to the brain
+
+51:11.480 --> 51:14.360
+ and why did I choose the brain
+
+51:14.360 --> 51:16.600
+ is because it controls dancing.
+
+51:17.840 --> 51:20.320
+ But there wasn't anybody studying dancing.
+
+51:20.320 --> 51:21.400
+ I wanted to study the brain,
+
+51:21.400 --> 51:25.120
+ something that's really interesting and complex.
+
+51:25.120 --> 51:27.600
+ And I thought, ah, language is what it does.
+
+51:27.600 --> 51:28.760
+ You couldn't study that in mice,
+
+51:28.760 --> 51:30.800
+ you couldn't study in non-human primates,
+
+51:30.800 --> 51:32.560
+ but these birds do this wonderful thing
+
+51:32.560 --> 51:34.880
+ that Fernando Nadebaum was studying at Rockefeller.
+
+51:34.880 --> 51:37.840
+ And so that's what got me into the birds.
+
+51:37.840 --> 51:42.840
+ And then jumping now 15 years later,
+
+51:44.320 --> 51:46.760
+ yeah, that's right, even after I'm into
+
+51:46.760 --> 51:49.880
+ now having my own lab studying vocal learning
+
+51:49.880 --> 51:52.600
+ in these birds as a model for language in humans,
+
+51:52.600 --> 51:57.600
+ it turns out that Ani Patel and others
+
+51:58.240 --> 52:02.600
+ have discovered that only vocal learning species
+
+52:02.600 --> 52:04.680
+ can learn how to dance.
+
+52:04.680 --> 52:05.520
+ Is that right?
+
+52:05.520 --> 52:07.520
+ That's right, yes.
+
+52:07.520 --> 52:10.040
+ So I've seen these, I'm just scrolling through
+
+52:10.040 --> 52:12.280
+ the files here in my mind.
+
+52:12.280 --> 52:14.040
+ I think about every once in a while someone will,
+
+52:14.040 --> 52:16.360
+ I love parrots.
+
+52:16.360 --> 52:17.880
+ Every once in a while someone will send me
+
+52:17.880 --> 52:20.200
+ one of these little Instagram or Twitter videos
+
+52:20.200 --> 52:22.600
+ of a parrot doing what looks to me like dance.
+
+52:22.600 --> 52:23.760
+ Typically it's a cockatoo.
+
+52:23.760 --> 52:24.920
+ That's right, that's right.
+
+52:24.920 --> 52:27.120
+ Even foot stomping to the sound.
+
+52:27.120 --> 52:28.640
+ Famous one called snowball out there,
+
+52:28.640 --> 52:31.440
+ but there are many snowballs out there.
+
+52:31.440 --> 52:33.800
+ They're all, all the dancing birds are named snowball.
+
+52:33.800 --> 52:35.040
+ That's interesting tactic.
+
+52:36.120 --> 52:40.160
+ So only animals with language dance.
+
+52:40.160 --> 52:41.800
+ Yeah, vocal learning in particular,
+
+52:41.800 --> 52:44.680
+ the ability to imitate sounds, yes.
+
+52:44.680 --> 52:45.520
+ Incredible.
+
+52:45.520 --> 52:48.320
+ Yes, and this now is bringing my life full circle.
+
+52:49.280 --> 52:54.280
+ All right, and I, and so when that was discovered in 2009,
+
+52:55.400 --> 52:59.520
+ at that same time in my lab at Duke we discovered
+
+52:59.520 --> 53:03.200
+ that vocal learning brain pathways in songbirds
+
+53:03.200 --> 53:06.280
+ as well as in humans and in parrots, right,
+
+53:06.280 --> 53:09.760
+ like snowball, are embedded within circuits
+
+53:09.760 --> 53:11.480
+ that control learning how to move.
+
+53:12.800 --> 53:14.400
+ And that led us to a theory we called
+
+53:14.400 --> 53:18.520
+ the brain pathway or motor theory of vocal learning origin,
+
+53:18.520 --> 53:21.600
+ where the brain pathways for vocal learning and speech
+
+53:21.600 --> 53:23.760
+ evolve by a whole duplication
+
+53:23.760 --> 53:25.240
+ of the surrounding motor circuits
+
+53:25.240 --> 53:27.920
+ involving learning how to move.
+
+53:27.920 --> 53:31.040
+ Now, how does that explain dance, right?
+
+53:31.040 --> 53:35.600
+ Well, when snowball, the cockatoos are dancing,
+
+53:35.600 --> 53:37.000
+ they're using the brain regions
+
+53:37.000 --> 53:38.800
+ around their speech-like circuits
+
+53:38.800 --> 53:41.120
+ to do this dancing behavior.
+
+53:41.120 --> 53:42.640
+ And so what's going on there?
+
+53:42.640 --> 53:46.200
+ What we hypothesized and now like to test
+
+53:46.200 --> 53:51.200
+ is that when speech evolved in humans
+
+53:51.680 --> 53:54.960
+ and the equivalent behavior in parrots and songbirds,
+
+53:54.960 --> 53:58.680
+ it required a very tight integration
+
+53:58.680 --> 54:01.600
+ in the brain regions that can hear sound
+
+54:01.600 --> 54:04.160
+ with the brain regions that control your muscles
+
+54:04.160 --> 54:06.960
+ from moving your larynx and tongue and so forth
+
+54:06.960 --> 54:08.760
+ for producing sound.
+
+54:08.760 --> 54:11.560
+ And that tight auditory motor integration,
+
+54:11.560 --> 54:15.960
+ we argued then contaminated the surrounding brain regions.
+
+54:15.960 --> 54:18.480
+ And that contamination of the surrounding brain regions
+
+54:18.480 --> 54:22.440
+ now allows us humans in particular in parrots
+
+54:22.440 --> 54:24.520
+ to coordinate our muscle movements
+
+54:24.520 --> 54:27.360
+ of the rest of the body with sound
+
+54:27.360 --> 54:30.360
+ in the same way we do for speech sounds.
+
+54:30.360 --> 54:33.240
+ Well, so we're speaking with our bodies when we dance.
+
+54:33.240 --> 54:34.080
+ Incredible.
+
+54:34.080 --> 54:37.080
+ And I have to say that as poor as I am
+
+54:37.080 --> 54:38.400
+ at speaking multiple languages,
+
+54:38.400 --> 54:41.000
+ I'm even worse at dancing, so.
+
+54:41.000 --> 54:43.920
+ But I guarantee you're better than a monkey.
+
+54:43.920 --> 54:45.600
+ But not Snowball the Cockatoo.
+
+54:45.600 --> 54:47.240
+ Maybe not Snowball.
+
+54:47.240 --> 54:48.560
+ On YouTube, we have a video
+
+54:48.560 --> 54:50.880
+ where there's some scientists dancing with Snowball
+
+54:50.880 --> 54:52.640
+ and you'll see Snowball's doing better
+
+54:52.640 --> 54:53.680
+ than some of the scientists.
+
+54:53.680 --> 54:55.200
+ Okay, well, as long as I'm not the worst
+
+54:55.200 --> 54:56.800
+ of all scientists at dancing,
+
+54:58.400 --> 55:00.200
+ there's always neuroplasticity.
+
+55:00.200 --> 55:01.800
+ May it save me someday.
+
+55:03.000 --> 55:07.200
+ You said something incredible that I completely believe,
+
+55:07.200 --> 55:10.320
+ even though I have minimum to,
+
+55:10.320 --> 55:12.720
+ let's just say minimum dancing ability.
+
+55:12.720 --> 55:14.640
+ I can get by at a party or wedding
+
+55:14.640 --> 55:16.280
+ without complete embarrassment,
+
+55:16.280 --> 55:18.920
+ but I don't have any structured training.
+
+55:20.040 --> 55:25.040
+ So the body clearly can communicate with movement.
+
+55:26.880 --> 55:29.680
+ As a trained dancer and knowing other trained dancers,
+
+55:30.840 --> 55:34.840
+ I always think of dance and bodily movement
+
+55:34.840 --> 55:36.600
+ and communication through bodily movement
+
+55:36.600 --> 55:38.640
+ as a form of a wordlessness,
+
+55:38.640 --> 55:40.240
+ like a state of wordlessness.
+
+55:40.240 --> 55:42.000
+ In fact, the few times when I think
+
+55:42.000 --> 55:45.840
+ that maybe I'm actually dancing modestly well
+
+55:45.840 --> 55:47.520
+ for the context that I'm in,
+
+55:47.520 --> 55:48.960
+ where I see other people dancing
+
+55:48.960 --> 55:51.400
+ and they seem to just be very much in the movement,
+
+55:51.400 --> 55:54.400
+ it's almost like a state of non-language,
+
+55:54.400 --> 55:55.720
+ non-spoken language.
+
+55:57.400 --> 55:59.640
+ And yet what you're telling me
+
+55:59.640 --> 56:02.720
+ is that there's a direct bridge at some level
+
+56:02.720 --> 56:05.680
+ between the movement of the body and language.
+
+56:05.680 --> 56:08.560
+ So is there a language of the body
+
+56:08.560 --> 56:12.040
+ that is distinct from the language of speech?
+
+56:12.040 --> 56:15.800
+ And if so, or if not, how do those map onto one another?
+
+56:15.800 --> 56:17.440
+ What does that Venn diagram look like?
+
+56:17.440 --> 56:21.360
+ Yeah, yeah, so let me define first dance
+
+56:21.360 --> 56:24.600
+ in this context of vocal learning species.
+
+56:24.600 --> 56:26.160
+ This is the kind of dancing
+
+56:26.160 --> 56:28.400
+ that we are specialized in doing,
+
+56:28.400 --> 56:31.400
+ and the vocal learning species is specialized in doing,
+
+56:31.400 --> 56:34.560
+ is synchronizing body movements of muscles
+
+56:34.560 --> 56:37.040
+ to the rhythmic beat of music.
+
+56:37.040 --> 56:39.560
+ And for some reason, we like doing that.
+
+56:39.560 --> 56:42.520
+ We like synchronizing to sound
+
+56:42.520 --> 56:45.400
+ and doing it together as a group of people.
+
+56:45.400 --> 56:49.120
+ And that kind of communication amongst ourselves
+
+56:49.120 --> 56:51.800
+ is more like the effective kind of communication
+
+56:51.800 --> 56:54.920
+ I mentioned earlier, unlike the semantic kind.
+
+56:54.920 --> 56:58.160
+ So we humans are using our voices
+
+56:58.160 --> 57:02.440
+ more for the semantic abstract communication,
+
+57:02.440 --> 57:04.480
+ but we're using learned dance
+
+57:04.480 --> 57:09.200
+ for the effective emotional bonding kind of communication.
+
+57:09.200 --> 57:11.120
+ It doesn't mean we can't communicate
+
+57:11.120 --> 57:13.640
+ semantic information in dance, and we do it,
+
+57:14.480 --> 57:16.640
+ but it's not as popular.
+
+57:16.640 --> 57:19.760
+ Like a ballet in the Nutcracker,
+
+57:19.760 --> 57:23.120
+ it is popular where they are communicating,
+
+57:23.960 --> 57:26.000
+ the Arabian guy comes out,
+
+57:26.000 --> 57:28.200
+ which I was the Arabian guy in the ballet Nutcracker,
+
+57:28.200 --> 57:29.400
+ that's how I remember,
+
+57:29.400 --> 57:32.200
+ for the Westchester Ballet Company when I was a teenager.
+
+57:32.200 --> 57:36.680
+ We're trying to communicate meaning in our ballet dance
+
+57:36.680 --> 57:39.680
+ and it can go on with a whole story and so forth.
+
+57:39.680 --> 57:43.040
+ But people don't interpret that as clearly as speech.
+
+57:43.040 --> 57:46.240
+ They're seeing the ballet with semantic communication
+
+57:46.240 --> 57:48.640
+ with a lot of emotional content.
+
+57:48.640 --> 57:50.360
+ Whereas you go out to a club,
+
+57:51.200 --> 57:55.240
+ you're not communicating, okay, how are you feeling today?
+
+57:55.240 --> 57:57.360
+ Tell me about your day and so forth.
+
+57:57.360 --> 58:00.000
+ You're trying to synchronize with other people
+
+58:00.000 --> 58:01.400
+ in an effective way.
+
+58:01.400 --> 58:06.400
+ And I think that's because the dance brain circuit
+
+58:06.960 --> 58:10.080
+ inherited the more ancient part of the speech circuit,
+
+58:10.080 --> 58:12.160
+ which was for singing.
+
+58:12.160 --> 58:16.200
+ I always had the feeling that with certain forms of music,
+
+58:16.200 --> 58:19.000
+ in particular opera, but any kind of music
+
+58:19.000 --> 58:23.320
+ where there are some long notes sung,
+
+58:23.320 --> 58:28.320
+ that at some level there was a literal resonance
+
+58:28.320 --> 58:31.160
+ created between the singer and the listener.
+
+58:31.160 --> 58:35.600
+ That, or I think of like the deep voice of a Johnny Cash
+
+58:35.600 --> 58:38.480
+ or where at some level you can almost feel the voice
+
+58:38.480 --> 58:40.040
+ in your own body.
+
+58:40.040 --> 58:45.040
+ And in theory, that could be the vibration of the,
+
+58:45.240 --> 58:46.600
+ or the firing of the phrenic nerve
+
+58:46.600 --> 58:48.800
+ controlling the diaphragm for all I know.
+
+58:48.800 --> 58:50.760
+ Is there any evidence that there's a coordination
+
+58:50.760 --> 58:53.080
+ between performer and audience
+
+58:53.080 --> 58:58.400
+ at the level of mind and body?
+
+59:00.400 --> 59:03.760
+ I'm gonna say possibly yes.
+
+59:03.760 --> 59:05.920
+ And the reason why is because I just came back
+
+59:05.920 --> 59:08.600
+ from a conference on the neurobiology of dance.
+
+59:10.120 --> 59:12.640
+ Clearly I'm going to the wrong meetings.
+
+59:12.640 --> 59:14.440
+ Vision science can be so boring.
+
+59:14.440 --> 59:15.280
+ Yes.
+
+59:15.280 --> 59:17.240
+ Well, one of my colleagues, Tecumseh Fitch
+
+59:17.240 --> 59:20.920
+ and Jonathan Fritz, they organized a particular section
+
+59:20.920 --> 59:23.400
+ on this conference in Virginia.
+
+59:23.400 --> 59:25.520
+ And this is the first time I was in the room
+
+59:25.520 --> 59:27.760
+ with so many neuroscientists
+
+59:27.760 --> 59:29.360
+ studying the neurobiology of dance.
+
+59:29.360 --> 59:32.200
+ It's a new field now in the last five years.
+
+59:32.200 --> 59:37.200
+ And there was one lab where they were putting EEG electrodes
+
+59:39.040 --> 59:42.400
+ on the dancers, on two different dancers
+
+59:42.400 --> 59:44.080
+ partnering with each other,
+
+59:44.080 --> 59:49.080
+ as well as the audience seeing the dance.
+
+59:49.080 --> 59:51.240
+ And some argued, okay,
+
+59:51.240 --> 59:52.840
+ if you're listening to the music as well,
+
+59:52.840 --> 59:53.680
+ how are you responding?
+
+59:53.680 --> 59:55.800
+ Because you're asking a question about music
+
+59:55.800 --> 59:58.120
+ and I'm giving you an answer about dance.
+
+59:58.120 --> 1:00:02.360
+ And what they found is that the dancers,
+
+1:00:02.360 --> 1:00:04.720
+ when they resonated with each other during the dance
+
+1:00:04.720 --> 1:00:07.840
+ or the audience listening to the dancers and the music,
+
+1:00:07.840 --> 1:00:09.760
+ there's some resonance going on there
+
+1:00:09.760 --> 1:00:13.160
+ that they score as higher resonance.
+
+1:00:13.160 --> 1:00:16.520
+ Their brain activity with these wireless EEG signals
+
+1:00:16.520 --> 1:00:18.240
+ are showing something different.
+
+1:00:18.240 --> 1:00:19.960
+ And so that's why I say possible yet.
+
+1:00:19.960 --> 1:00:23.240
+ It needs more rigorous study.
+
+1:00:23.240 --> 1:00:25.760
+ And this is some stuff they publish,
+
+1:00:25.760 --> 1:00:27.480
+ but it's not prime time yet,
+
+1:00:27.480 --> 1:00:29.440
+ but they're trying to figure this out.
+
+1:00:29.440 --> 1:00:30.280
+ I love it.
+
+1:00:30.280 --> 1:00:32.360
+ So at least if I can't dance well,
+
+1:00:32.360 --> 1:00:35.200
+ maybe I can hear and feel what it is
+
+1:00:35.200 --> 1:00:36.680
+ to dance in a certain way.
+
+1:00:36.680 --> 1:00:37.720
+ That's right.
+
+1:00:37.720 --> 1:00:41.680
+ And this will be, some people will think that they,
+
+1:00:41.680 --> 1:00:43.800
+ even songs that they hear
+
+1:00:43.800 --> 1:00:47.000
+ and they can almost sing to themselves in their own head
+
+1:00:47.000 --> 1:00:49.640
+ and they know what they want it to sound like.
+
+1:00:49.640 --> 1:00:51.280
+ And you know what it really sounds good,
+
+1:00:51.280 --> 1:00:52.640
+ what it sounds like,
+
+1:00:52.640 --> 1:00:55.520
+ but they can't get their voice to do it.
+
+1:00:55.520 --> 1:00:58.360
+ I'm raising, for those listening, I'm raising my hand.
+
+1:00:58.360 --> 1:01:00.160
+ No musical ability.
+
+1:01:00.160 --> 1:01:03.360
+ Others in my household have tremendous musical ability
+
+1:01:03.360 --> 1:01:06.920
+ with instruments and with voice, but not me.
+
+1:01:06.920 --> 1:01:11.800
+ And so this is one of my selfish goals
+
+1:01:11.800 --> 1:01:13.800
+ of trying to find the genetics
+
+1:01:13.800 --> 1:01:18.200
+ of why can some people sing really well and some not?
+
+1:01:18.200 --> 1:01:20.760
+ Is there some genetic predisposition to that?
+
+1:01:20.760 --> 1:01:22.920
+ And then can I modify my own muscles
+
+1:01:22.920 --> 1:01:24.480
+ or brain circuits to sing better?
+
+1:01:24.480 --> 1:01:26.080
+ You're still after the sing.
+
+1:01:26.080 --> 1:01:27.040
+ I guess this is what happens
+
+1:01:27.040 --> 1:01:30.800
+ when siblings vary in proficiency
+
+1:01:30.800 --> 1:01:32.280
+ is that that competitiveness
+
+1:01:32.280 --> 1:01:34.840
+ amongst brothers and sisters never goes away.
+
+1:01:34.840 --> 1:01:35.680
+ I've been trying to breathe
+
+1:01:35.680 --> 1:01:38.240
+ as good as my brother, Mark and Victor,
+
+1:01:38.240 --> 1:01:40.400
+ for the rest of my entire life.
+
+1:01:40.400 --> 1:01:41.480
+ Watch out, Mark and Victor.
+
+1:01:41.480 --> 1:01:43.440
+ He's coming for you with neuroscience
+
+1:01:43.440 --> 1:01:45.000
+ from the vacuum.
+
+1:01:45.000 --> 1:01:49.040
+ Earlier, you said that you discovered that you could dance.
+
+1:01:49.040 --> 1:01:51.360
+ That caught my ear.
+
+1:01:51.360 --> 1:01:52.960
+ It sounds like you didn't actually have to,
+
+1:01:52.960 --> 1:01:54.880
+ I'm not suggesting you didn't work hard at it,
+
+1:01:54.880 --> 1:01:57.560
+ but that at the moment where you discovered it,
+
+1:01:57.560 --> 1:02:00.280
+ it just sort of was a skill that you had
+
+1:02:00.280 --> 1:02:01.920
+ that up until that point,
+
+1:02:01.920 --> 1:02:06.120
+ you didn't target a life in the world of dance.
+
+1:02:06.120 --> 1:02:08.160
+ But the fact that you, quote unquote,
+
+1:02:08.160 --> 1:02:10.160
+ discovered that you could dance really well
+
+1:02:10.160 --> 1:02:11.920
+ and then went to this incredible school of dance
+
+1:02:11.920 --> 1:02:16.400
+ and did well tells me that perhaps there is an ability
+
+1:02:16.400 --> 1:02:18.760
+ that was built up in childhood
+
+1:02:18.760 --> 1:02:21.560
+ and or that perhaps we do all have
+
+1:02:21.560 --> 1:02:24.920
+ different genetic leanings for different motor functions.
+
+1:02:24.920 --> 1:02:25.920
+ Yeah.
+
+1:02:25.920 --> 1:02:29.320
+ Well, for me, both explanations could be possible.
+
+1:02:29.320 --> 1:02:32.280
+ For the first, I grew up in a family
+
+1:02:32.280 --> 1:02:34.520
+ listening to Motown songs,
+
+1:02:34.520 --> 1:02:39.360
+ dancing at parties and so forth, family parties,
+
+1:02:39.360 --> 1:02:41.560
+ an African-American family, basically.
+
+1:02:41.560 --> 1:02:46.560
+ And so I grew up dancing from a young child,
+
+1:02:48.440 --> 1:02:51.520
+ but this discovery, you know,
+
+1:02:51.520 --> 1:02:56.520
+ maybe dancing even more so in terms of a talent,
+
+1:02:57.600 --> 1:03:00.680
+ the genetic component, if it really exists, I don't know.
+
+1:03:00.680 --> 1:03:03.760
+ You know, with my 23andMe results,
+
+1:03:03.760 --> 1:03:07.840
+ it says I have the genetic substitutions
+
+1:03:07.840 --> 1:03:11.480
+ that are associated with high-intensity athletes
+
+1:03:11.480 --> 1:03:13.200
+ and fast-twitch muscles.
+
+1:03:13.200 --> 1:03:14.200
+ And who knows?
+
+1:03:14.200 --> 1:03:16.480
+ Maybe that could have something to do with me
+
+1:03:16.480 --> 1:03:21.480
+ being able to synchronize my body to rhythmic sounds.
+
+1:03:23.240 --> 1:03:25.440
+ Maybe, maybe better than some others.
+
+1:03:26.480 --> 1:03:28.960
+ It turns out that my genetics also show
+
+1:03:28.960 --> 1:03:31.400
+ that I have a genetic substitute
+
+1:03:31.400 --> 1:03:34.720
+ that makes it hard for me to sing on pitch.
+
+1:03:34.720 --> 1:03:37.120
+ And so that does correlate with my, you know,
+
+1:03:37.120 --> 1:03:38.320
+ even though I can sing on this pitch,
+
+1:03:38.320 --> 1:03:41.680
+ especially if I hear a piano or, you know, kind of playing it
+
+1:03:41.680 --> 1:03:44.760
+ but, you know, maybe that's why my siblings, you know,
+
+1:03:44.760 --> 1:03:47.120
+ who didn't have that genetic predisposition
+
+1:03:47.120 --> 1:03:49.680
+ in his 23andMe results, you know,
+
+1:03:49.680 --> 1:03:52.720
+ could go along with the genetic component as well.
+
+1:03:52.720 --> 1:03:56.280
+ I'm imagining family gatherings with 23andMe data
+
+1:03:56.280 --> 1:03:58.400
+ and intense arguments about it.
+
+1:03:58.400 --> 1:04:01.320
+ Innate and learned ability, fun.
+
+1:04:01.320 --> 1:04:03.000
+ Love to be an attendant.
+
+1:04:03.000 --> 1:04:05.000
+ I'm not inviting myself to your Thanksgiving dinner,
+
+1:04:05.000 --> 1:04:07.280
+ by the way, but I suppose I am.
+
+1:04:07.280 --> 1:04:08.120
+ You're welcome to.
+
+1:04:08.120 --> 1:04:09.280
+ Thank you.
+
+1:04:09.280 --> 1:04:11.520
+ I'll bring my 23andMe data.
+
+1:04:11.520 --> 1:04:14.680
+ I'd love to chat a moment about facial expression
+
+1:04:14.680 --> 1:04:17.160
+ because that's a form of motor pattern that, you know,
+
+1:04:17.160 --> 1:04:19.360
+ I think for most people out there,
+
+1:04:20.360 --> 1:04:22.360
+ just think about smiling and frowning,
+
+1:04:22.360 --> 1:04:24.480
+ but there are of course, you know, thousands,
+
+1:04:24.480 --> 1:04:28.640
+ if not millions of micro expressions and things of that sort,
+
+1:04:28.640 --> 1:04:31.000
+ many of which are subconscious.
+
+1:04:31.000 --> 1:04:33.800
+ And we're all familiar with the fact
+
+1:04:33.800 --> 1:04:36.280
+ that when what somebody says
+
+1:04:36.280 --> 1:04:38.440
+ doesn't match some specific feature
+
+1:04:38.440 --> 1:04:42.520
+ of their facial expression, that it can call, you know,
+
+1:04:42.520 --> 1:04:45.200
+ that mismatch can cue our attention,
+
+1:04:45.200 --> 1:04:47.920
+ especially among people that know each other very well.
+
+1:04:47.920 --> 1:04:50.440
+ Like somebody will say, well, you said that,
+
+1:04:50.440 --> 1:04:53.560
+ but your right eye twitched to the, you know,
+
+1:04:53.560 --> 1:04:55.360
+ a little bit in a way that tells me
+
+1:04:55.360 --> 1:04:57.680
+ that you didn't really mean that, these kinds of things.
+
+1:04:57.680 --> 1:05:01.800
+ Or in the opposite example,
+
+1:05:01.800 --> 1:05:05.040
+ when the emotionality and the content of our speech
+
+1:05:05.040 --> 1:05:07.200
+ is matched to a facial expression,
+
+1:05:07.200 --> 1:05:11.200
+ there's something that's just so wonderful about that
+
+1:05:11.200 --> 1:05:13.520
+ because it seems like everything's aligned.
+
+1:05:13.520 --> 1:05:16.240
+ So how does the motor circuitry
+
+1:05:16.240 --> 1:05:18.000
+ that controls facial expression
+
+1:05:18.000 --> 1:05:21.960
+ map onto the brain circuits that control language, speech,
+
+1:05:21.960 --> 1:05:24.160
+ and even bodily and hand movements?
+
+1:05:24.160 --> 1:05:26.080
+ You ask a great question
+
+1:05:26.080 --> 1:05:29.120
+ because we both know some colleagues like Winrich Freiwald
+
+1:05:29.120 --> 1:05:30.600
+ at Rockefeller University,
+
+1:05:30.600 --> 1:05:33.760
+ who study facial expression and the neurobiology behind it.
+
+1:05:33.760 --> 1:05:37.520
+ And now we both share some students that were co-mentoring
+
+1:05:37.520 --> 1:05:41.320
+ and talk about this same question that you brought up.
+
+1:05:41.320 --> 1:05:45.200
+ And what I'm learning a lot is that non-human primates
+
+1:05:45.200 --> 1:05:47.720
+ have a lot of diversity in their facial expression
+
+1:05:47.720 --> 1:05:49.120
+ like we humans do.
+
+1:05:49.120 --> 1:05:52.160
+ And what we know about the neurobiology
+
+1:05:52.160 --> 1:05:55.600
+ of brain regions controlling those muscles of the face
+
+1:05:55.600 --> 1:05:58.240
+ is that these non-human primates and some other species
+
+1:05:58.240 --> 1:06:00.720
+ that don't learn how to imitate vocalizations,
+
+1:06:00.720 --> 1:06:05.720
+ they have strong connections from the cortical regions
+
+1:06:05.760 --> 1:06:09.320
+ to the motor neurons that control facial expressions,
+
+1:06:09.320 --> 1:06:12.400
+ but absent connections or weak connections
+
+1:06:12.400 --> 1:06:14.720
+ to the motor neurons that control the voice.
+
+1:06:14.720 --> 1:06:18.920
+ So I think our diverse facial expression,
+
+1:06:18.920 --> 1:06:21.000
+ even though it's more diverse than these non-human primates,
+
+1:06:21.000 --> 1:06:25.640
+ there was already a pre-existing diversity of communication,
+
+1:06:25.640 --> 1:06:28.040
+ whether it's intentional or unconscious
+
+1:06:28.040 --> 1:06:31.360
+ through facial expression in our ancestors.
+
+1:06:31.360 --> 1:06:35.760
+ And on top of that, we humans now add the voice
+
+1:06:35.760 --> 1:06:38.080
+ along with those facial expressions.
+
+1:06:38.080 --> 1:06:39.720
+ I see.
+
+1:06:39.720 --> 1:06:42.760
+ And in terms of language learning when we're kids,
+
+1:06:42.760 --> 1:06:45.200
+ I mean, children fortunately are not told
+
+1:06:45.200 --> 1:06:47.000
+ to fake their expressions or to smile
+
+1:06:47.000 --> 1:06:48.480
+ when they say I'm happy.
+
+1:06:49.360 --> 1:06:52.960
+ So at some point, everybody learns for better or for worse
+
+1:06:52.960 --> 1:06:57.240
+ how to untangle these different components
+
+1:06:57.240 --> 1:06:59.720
+ of hand movement, body posture,
+
+1:06:59.720 --> 1:07:02.080
+ speech, and facial expression.
+
+1:07:02.080 --> 1:07:05.680
+ But in their best form, I would say,
+
+1:07:05.680 --> 1:07:07.440
+ assuming that the best form is always,
+
+1:07:07.440 --> 1:07:10.040
+ I guess there are instances where, for safety reasons,
+
+1:07:10.040 --> 1:07:13.920
+ one might need to feign some of these aspects of language.
+
+1:07:13.920 --> 1:07:16.720
+ But in most cases, when those are aligned,
+
+1:07:16.720 --> 1:07:19.040
+ it seems like that could reflect
+
+1:07:19.040 --> 1:07:20.720
+ that all the different circuitries
+
+1:07:20.720 --> 1:07:22.320
+ are operating in parallel,
+
+1:07:22.320 --> 1:07:25.480
+ but that the ability to misalign these
+
+1:07:25.480 --> 1:07:29.920
+ is also a powerful aspect to our maturation.
+
+1:07:29.920 --> 1:07:31.840
+ I even think of theater, for instance,
+
+1:07:31.840 --> 1:07:36.720
+ where deliberate disentangling of these areas is important,
+
+1:07:36.720 --> 1:07:41.000
+ but also we know when an actor, when it feels real,
+
+1:07:41.000 --> 1:07:44.520
+ and when it looks like, when bad acting is oftentimes
+
+1:07:44.520 --> 1:07:46.480
+ when the facial expression or body posture
+
+1:07:46.480 --> 1:07:48.760
+ just doesn't quite match what we're hearing.
+
+1:07:48.760 --> 1:07:53.240
+ So are these skills that people that learn and acquire
+
+1:07:53.240 --> 1:07:55.200
+ according to adaptability and profession,
+
+1:07:55.200 --> 1:07:57.840
+ or do you think that all children
+
+1:07:57.840 --> 1:07:59.320
+ and all adults eventually learn
+
+1:07:59.320 --> 1:08:02.440
+ how to couple and uncouple these circuits a little bit?
+
+1:08:02.440 --> 1:08:05.240
+ Yeah, I think it's this similar argument
+
+1:08:05.240 --> 1:08:07.480
+ I mentioned earlier about the innate
+
+1:08:07.480 --> 1:08:09.680
+ and the learned for the vocalizations.
+
+1:08:09.680 --> 1:08:12.720
+ And by the way, when I say we humans have facial expressions
+
+1:08:12.720 --> 1:08:14.640
+ associated with our vocalizations
+
+1:08:14.640 --> 1:08:17.040
+ in a different way than primates, non-human primates,
+
+1:08:17.040 --> 1:08:19.600
+ it's the learned vocalizations I'm talking about.
+
+1:08:19.600 --> 1:08:23.680
+ So there is a common view out there
+
+1:08:23.680 --> 1:08:26.440
+ that facial expressions in non-human species,
+
+1:08:26.440 --> 1:08:30.240
+ like non-human primates, or you can have them in birds too,
+
+1:08:30.240 --> 1:08:33.480
+ are innate, all right?
+
+1:08:33.480 --> 1:08:36.240
+ And so they're reflexive controlled.
+
+1:08:36.240 --> 1:08:37.080
+ I don't believe that.
+
+1:08:37.080 --> 1:08:38.880
+ I think there's some learned component to it,
+
+1:08:38.880 --> 1:08:41.880
+ and I think we have more learning component to it as well,
+
+1:08:41.880 --> 1:08:44.880
+ but we also have an innate component.
+
+1:08:44.880 --> 1:08:48.040
+ And so if you try to put your hands behind your back
+
+1:08:48.040 --> 1:08:49.920
+ and hold your fists, or even just not,
+
+1:08:49.920 --> 1:08:52.440
+ and try to speak and try to communicate,
+
+1:08:52.440 --> 1:08:53.760
+ it's actually harder to do.
+
+1:08:53.760 --> 1:08:56.920
+ You have to force yourself or put it by your side.
+
+1:08:56.920 --> 1:08:58.360
+ This comes naturally.
+
+1:08:58.360 --> 1:08:59.880
+ Facial expressions comes naturally
+
+1:08:59.880 --> 1:09:01.880
+ because there is an innate component.
+
+1:09:01.880 --> 1:09:06.320
+ And yes, you have to learn how to dissociate the two,
+
+1:09:06.320 --> 1:09:08.400
+ communicate something angry with your hands
+
+1:09:08.400 --> 1:09:13.400
+ or with your face, but politely with your voice.
+
+1:09:13.600 --> 1:09:16.320
+ It's very hard to separate at those two
+
+1:09:16.320 --> 1:09:18.320
+ because there is that innate component
+
+1:09:18.320 --> 1:09:19.760
+ that brings them together.
+
+1:09:21.160 --> 1:09:22.400
+ So it's like an email too.
+
+1:09:22.400 --> 1:09:25.680
+ You're emailing and someone says something by email.
+
+1:09:25.680 --> 1:09:29.440
+ Someone can interpret that angrily or gently,
+
+1:09:30.400 --> 1:09:32.680
+ and it becomes ambiguous.
+
+1:09:32.680 --> 1:09:35.640
+ The facial expressions get rid of that ambiguity.
+
+1:09:35.640 --> 1:09:37.040
+ I'm so glad you brought that out
+
+1:09:37.040 --> 1:09:41.320
+ because my next question was and is about written language.
+
+1:09:41.320 --> 1:09:44.120
+ The first question I'll ask is when you write,
+
+1:09:44.120 --> 1:09:46.760
+ either type or write things out by hand,
+
+1:09:46.760 --> 1:09:51.760
+ do you hear the content of what you want to write
+
+1:09:51.760 --> 1:09:54.480
+ in your head, just you personally?
+
+1:09:54.480 --> 1:09:55.640
+ Yes, I do.
+
+1:09:55.640 --> 1:09:59.440
+ Yeah, and I know that I do
+
+1:09:59.440 --> 1:10:03.400
+ because I was trying to figure out a debate about this issue
+
+1:10:03.400 --> 1:10:05.920
+ and trying to resolve the debate
+
+1:10:05.920 --> 1:10:09.000
+ with my own self-experimentation on me.
+
+1:10:09.000 --> 1:10:12.600
+ I ask that because a quite well-known colleague of ours,
+
+1:10:12.600 --> 1:10:14.560
+ Carl Deisseroth at Stanford,
+
+1:10:14.560 --> 1:10:17.400
+ who's been on this podcast and is of optogenetics fame
+
+1:10:17.400 --> 1:10:19.120
+ and psychiatry fame, et cetera.
+
+1:10:19.120 --> 1:10:19.960
+ I know him.
+
+1:10:19.960 --> 1:10:21.480
+ Yeah, he sends his regards.
+
+1:10:21.480 --> 1:10:26.480
+ And told me that his practice for writing
+
+1:10:27.280 --> 1:10:32.280
+ and for thinking involves a quite painful process
+
+1:10:32.320 --> 1:10:36.200
+ of forcing himself to sit completely still
+
+1:10:36.200 --> 1:10:38.360
+ and think in complete sentences,
+
+1:10:38.360 --> 1:10:40.320
+ to force thinking in complete sentences.
+
+1:10:40.320 --> 1:10:42.800
+ And when he told me that, I decided to try this exercise
+
+1:10:42.800 --> 1:10:43.920
+ and it's quite difficult.
+
+1:10:43.920 --> 1:10:45.400
+ First of all, it's difficult for the reason
+
+1:10:45.400 --> 1:10:48.360
+ that you mentioned, which is that with many thoughts,
+
+1:10:48.360 --> 1:10:49.440
+ I want to look around
+
+1:10:49.440 --> 1:10:52.120
+ and I start to gesticulate with my hands.
+
+1:10:52.120 --> 1:10:53.040
+ So there it is again,
+
+1:10:53.040 --> 1:10:55.680
+ the connection between language and hand movement,
+
+1:10:55.680 --> 1:10:57.120
+ even if one isn't speaking.
+
+1:10:58.440 --> 1:11:01.480
+ And the other part that's challenging
+
+1:11:01.480 --> 1:11:05.160
+ is I realized that while we write in complete sentences,
+
+1:11:05.160 --> 1:11:08.200
+ most of the time, we'll talk about how that's changing now
+
+1:11:08.200 --> 1:11:10.160
+ and texting, et cetera,
+
+1:11:10.160 --> 1:11:14.600
+ that we don't often think in complete sentences
+
+1:11:14.600 --> 1:11:18.760
+ and specifically in simple declarative sentences,
+
+1:11:18.760 --> 1:11:20.760
+ that a lot of our thoughts would be,
+
+1:11:20.760 --> 1:11:23.320
+ if they were written out onto a page,
+
+1:11:23.320 --> 1:11:27.320
+ would look pretty much like passive language
+
+1:11:27.320 --> 1:11:30.360
+ that a good copy editor or a good editor would say,
+
+1:11:30.360 --> 1:11:31.920
+ oh, like we need to cross this out,
+
+1:11:31.920 --> 1:11:33.640
+ make this simple and declarative.
+
+1:11:33.640 --> 1:11:36.920
+ So what I'm getting at here is what is the process
+
+1:11:36.920 --> 1:11:41.920
+ of going from a thought to language to written word?
+
+1:11:42.160 --> 1:11:46.920
+ And I also wanted to touch on handwritten versus typed,
+
+1:11:46.920 --> 1:11:49.680
+ but thought to language to written word,
+
+1:11:49.680 --> 1:11:50.720
+ what's going on there?
+
+1:11:50.720 --> 1:11:53.080
+ What do we know about the neural circuitry?
+
+1:11:53.080 --> 1:11:55.480
+ And I was gonna ask, why is it so hard?
+
+1:11:55.480 --> 1:11:58.760
+ But now I want to ask, why is this even possible?
+
+1:11:58.760 --> 1:12:00.600
+ It seems like a very challenging
+
+1:12:00.600 --> 1:12:02.240
+ neural computational problem.
+
+1:12:02.240 --> 1:12:03.680
+ Yeah, yeah.
+
+1:12:03.680 --> 1:12:07.840
+ And coming from the linguistic world
+
+1:12:07.840 --> 1:12:10.080
+ and even just the regular neurobiology world,
+
+1:12:10.080 --> 1:12:11.600
+ going back to something I said before
+
+1:12:11.600 --> 1:12:14.560
+ is about a separate language module in the brain.
+
+1:12:14.560 --> 1:12:16.720
+ There was this thought or hypothesis
+
+1:12:16.720 --> 1:12:18.560
+ that this language module
+
+1:12:18.560 --> 1:12:21.680
+ has all these complex algorithms to them,
+
+1:12:21.680 --> 1:12:24.480
+ and they're signaling to the speech circuit,
+
+1:12:24.480 --> 1:12:26.440
+ how to produce the sounds,
+
+1:12:26.440 --> 1:12:29.240
+ the hand circuit, how to write them or gesture,
+
+1:12:30.240 --> 1:12:34.360
+ the visual pathway on how to interpret them from reading,
+
+1:12:34.360 --> 1:12:36.320
+ and the auditory pathway for listening.
+
+1:12:37.280 --> 1:12:39.920
+ I don't think that's the case, all right?
+
+1:12:39.920 --> 1:12:41.160
+ And that this thinking
+
+1:12:41.160 --> 1:12:43.880
+ where there's this internal speech going on,
+
+1:12:43.880 --> 1:12:45.600
+ what I think is going on
+
+1:12:45.600 --> 1:12:49.000
+ is to explain what you're asking is about,
+
+1:12:49.000 --> 1:12:50.480
+ that I'm gonna take it from the perspective
+
+1:12:50.480 --> 1:12:51.680
+ of reading something.
+
+1:12:51.680 --> 1:12:53.800
+ You read something on a paper,
+
+1:12:53.800 --> 1:12:56.760
+ the signal from the paper goes through your eyes,
+
+1:12:56.760 --> 1:12:58.080
+ it goes to the back of your brain
+
+1:12:58.080 --> 1:13:01.480
+ to your visual cortical regions eventually,
+
+1:13:01.480 --> 1:13:04.080
+ and then you now got to interpret that signal
+
+1:13:04.080 --> 1:13:07.120
+ in your visual pathway of what you're reading.
+
+1:13:07.120 --> 1:13:09.280
+ How are you gonna do that in terms of speech?
+
+1:13:09.280 --> 1:13:12.720
+ That visual signal then goes to your speech pathway
+
+1:13:12.720 --> 1:13:15.760
+ in the motor cortex in front here in Broca's area,
+
+1:13:15.760 --> 1:13:19.480
+ and you silently speak what you read in your brain
+
+1:13:19.480 --> 1:13:21.320
+ without moving your muscles.
+
+1:13:21.320 --> 1:13:24.080
+ And sometimes, actually, if you put electrodes,
+
+1:13:24.080 --> 1:13:28.960
+ EMG electrodes on your laryngeal muscles,
+
+1:13:28.960 --> 1:13:30.560
+ even on birds, you can do this,
+
+1:13:30.560 --> 1:13:33.880
+ you'll see activity there while reading
+
+1:13:33.880 --> 1:13:36.400
+ or trying to speak silently,
+
+1:13:36.400 --> 1:13:38.520
+ even though no sound's coming out.
+
+1:13:38.520 --> 1:13:43.520
+ And so your speech pathway is now speaking
+
+1:13:43.680 --> 1:13:45.520
+ what you're reading.
+
+1:13:45.520 --> 1:13:47.560
+ Now, to finish it off,
+
+1:13:47.560 --> 1:13:49.800
+ that signal is sent to your auditory pathway
+
+1:13:49.800 --> 1:13:53.280
+ so you can hear what you're speaking in your own head.
+
+1:13:53.280 --> 1:13:54.120
+ That's incredible.
+
+1:13:54.120 --> 1:13:56.120
+ And this is why it's complicated,
+
+1:13:56.120 --> 1:13:59.160
+ because you're using like three different pathways,
+
+1:13:59.160 --> 1:14:01.360
+ the visual, the speaking motor one,
+
+1:14:01.360 --> 1:14:04.160
+ and the auditory to read.
+
+1:14:04.160 --> 1:14:06.880
+ Oh, and then you gotta write, right?
+
+1:14:06.880 --> 1:14:08.680
+ Okay, here comes the fourth one.
+
+1:14:08.680 --> 1:14:11.480
+ Now the hand area's next to your speech pathway
+
+1:14:11.480 --> 1:14:13.280
+ has gotta take that auditory signal
+
+1:14:13.280 --> 1:14:16.120
+ or even the adjacent motor signals for speaking
+
+1:14:16.120 --> 1:14:19.320
+ and translate it into a visual signal on paper.
+
+1:14:19.320 --> 1:14:22.320
+ So you're using at least four brain circuits,
+
+1:14:23.440 --> 1:14:25.480
+ which includes the speech production
+
+1:14:25.480 --> 1:14:28.400
+ and the speech perception pathways to write.
+
+1:14:28.400 --> 1:14:29.560
+ Incredible.
+
+1:14:29.560 --> 1:14:33.040
+ And finally explains to me why,
+
+1:14:33.040 --> 1:14:35.720
+ so I was weaned teaching undergraduates,
+
+1:14:35.720 --> 1:14:37.200
+ graduate students, and medical students.
+
+1:14:37.200 --> 1:14:40.560
+ And I've observed that when I'm teaching,
+
+1:14:40.560 --> 1:14:42.000
+ I have to stop speaking
+
+1:14:42.000 --> 1:14:44.280
+ if I'm going to write something on the board.
+
+1:14:44.280 --> 1:14:46.960
+ I just have to stop all speaking completely.
+
+1:14:46.960 --> 1:14:49.120
+ It turns out this is an advantage to catch
+
+1:14:49.120 --> 1:14:51.360
+ because it allows me to catch my voice.
+
+1:14:51.360 --> 1:14:53.880
+ It allows me to slow down a bit,
+
+1:14:53.880 --> 1:14:56.440
+ breathe and inhale some oxygen and so on,
+
+1:14:56.440 --> 1:14:57.680
+ because I tend to speak quickly
+
+1:14:57.680 --> 1:14:59.840
+ if I'm not writing something out.
+
+1:14:59.840 --> 1:15:02.040
+ So there's a break in the circuitry for me,
+
+1:15:02.040 --> 1:15:03.640
+ or at least they are distinct enough
+
+1:15:03.640 --> 1:15:06.480
+ that I have to stop and then write something.
+
+1:15:06.480 --> 1:15:10.360
+ Yes, that does imply competing brain circuits
+
+1:15:10.360 --> 1:15:13.880
+ for your conscious attention.
+
+1:15:13.880 --> 1:15:16.920
+ We have colleagues up at Columbia Med
+
+1:15:16.920 --> 1:15:20.000
+ who are known at least in our circles
+
+1:15:20.000 --> 1:15:22.560
+ for voice dictating their papers,
+
+1:15:22.560 --> 1:15:23.600
+ not writing them out,
+
+1:15:23.600 --> 1:15:26.240
+ but just speaking into a voice recorder.
+
+1:15:26.240 --> 1:15:27.720
+ I've written papers that way.
+
+1:15:27.720 --> 1:15:31.440
+ It doesn't feel quite as natural for me
+
+1:15:31.440 --> 1:15:32.880
+ as writing things out,
+
+1:15:32.880 --> 1:15:34.760
+ but not because I can go quickly
+
+1:15:34.760 --> 1:15:36.880
+ from thought to language to typing.
+
+1:15:36.880 --> 1:15:38.240
+ I type reasonably fast.
+
+1:15:38.240 --> 1:15:39.320
+ I can touch type now.
+
+1:15:39.320 --> 1:15:40.600
+ I don't think I ever taught my,
+
+1:15:40.600 --> 1:15:41.600
+ I think I taught myself.
+
+1:15:41.600 --> 1:15:43.200
+ I never took a touch typing course,
+
+1:15:43.200 --> 1:15:44.440
+ but it just sort of happened now.
+
+1:15:44.440 --> 1:15:47.360
+ My motor system seems to know where the keys are
+
+1:15:47.360 --> 1:15:51.320
+ with enough accuracy that it works.
+
+1:15:53.040 --> 1:15:56.280
+ This is remarkable to me that any of us can do this,
+
+1:15:56.280 --> 1:15:59.320
+ but when it comes to writing,
+
+1:15:59.320 --> 1:16:02.960
+ what I've found is that if my rate of thought
+
+1:16:02.960 --> 1:16:06.080
+ and my rate of writing are aligned nicely,
+
+1:16:06.080 --> 1:16:07.040
+ things go well.
+
+1:16:08.000 --> 1:16:11.400
+ However, if I'm thinking much faster than I can write,
+
+1:16:11.400 --> 1:16:12.720
+ that's a problem.
+
+1:16:12.720 --> 1:16:15.160
+ And certainly if I'm thinking more slowly
+
+1:16:15.160 --> 1:16:16.200
+ than I want to write,
+
+1:16:16.200 --> 1:16:17.920
+ that's also a problem.
+
+1:16:17.920 --> 1:16:21.480
+ And the solution for me has been to write with a pen.
+
+1:16:21.480 --> 1:16:22.520
+ I'm in love with these,
+
+1:16:22.520 --> 1:16:24.480
+ and I have no relationship to the company,
+
+1:16:24.480 --> 1:16:25.320
+ at least not now,
+
+1:16:25.320 --> 1:16:27.840
+ although if they want to work with us,
+
+1:16:27.840 --> 1:16:29.840
+ I love these Pilot V5, V7s,
+
+1:16:29.840 --> 1:16:33.600
+ because not necessarily because of the ink or the feel,
+
+1:16:33.600 --> 1:16:34.600
+ although I like that as well,
+
+1:16:34.600 --> 1:16:37.240
+ but because of the rate that it allows me to write.
+
+1:16:37.240 --> 1:16:38.560
+ They write very well slowly
+
+1:16:38.560 --> 1:16:40.480
+ and they write very well quickly.
+
+1:16:40.480 --> 1:16:44.720
+ And so I have this theory supported only
+
+1:16:44.720 --> 1:16:48.240
+ by my own ANIC data, no peer-reviewed study,
+
+1:16:48.240 --> 1:16:53.240
+ that writing by hand is fundamentally different
+
+1:16:53.280 --> 1:16:55.720
+ than typing out information.
+
+1:16:55.720 --> 1:17:00.720
+ Is there any evidence that this motor pathway for writing
+
+1:17:00.800 --> 1:17:04.400
+ is better or somehow different
+
+1:17:04.400 --> 1:17:06.920
+ than the motor pathway for typing?
+
+1:17:06.920 --> 1:17:09.360
+ Yeah, that's interesting.
+
+1:17:09.360 --> 1:17:11.720
+ And I don't know of any studies,
+
+1:17:11.720 --> 1:17:13.480
+ I have my own personal experience as well,
+
+1:17:13.480 --> 1:17:16.200
+ but trying to put this into the context,
+
+1:17:16.200 --> 1:17:19.280
+ if I had to design an experiment
+
+1:17:19.280 --> 1:17:21.240
+ to test the hypothesis here,
+
+1:17:21.240 --> 1:17:23.680
+ to explain your experience in mind,
+
+1:17:23.680 --> 1:17:28.680
+ is that writing by hand, I would argue,
+
+1:17:28.760 --> 1:17:33.760
+ requires a different set of less skills with the fingers
+
+1:17:33.800 --> 1:17:35.080
+ than typing.
+
+1:17:35.080 --> 1:17:37.720
+ So you have to coordinate your fingers
+
+1:17:37.720 --> 1:17:42.720
+ more in opposite directions and so forth with typing,
+
+1:17:42.720 --> 1:17:45.440
+ but also writing by hand requires more arm movement.
+
+1:17:45.440 --> 1:17:53.400
+ And so therefore, I would argue that the difficulty there
+
+1:17:53.400 --> 1:17:56.960
+ could be in the types of muscles
+
+1:17:56.960 --> 1:17:59.680
+ and the fine motor control you need of those muscles
+
+1:17:59.680 --> 1:18:02.040
+ along with speaking in your brain at the same time.
+
+1:18:02.040 --> 1:18:03.920
+ So basically I'm coarse, I'm a brute,
+
+1:18:03.920 --> 1:18:07.000
+ and so it makes sense that a more primitive writing device
+
+1:18:07.000 --> 1:18:07.840
+ would work.
+
+1:18:07.840 --> 1:18:08.680
+ That's right, yes.
+
+1:18:08.680 --> 1:18:12.480
+ But let me add to this in terms of the,
+
+1:18:12.480 --> 1:18:14.560
+ in my own personal experience, right,
+
+1:18:14.560 --> 1:18:19.560
+ what I find is I can write something faster by hand
+
+1:18:22.000 --> 1:18:25.160
+ for a short period of time compared to typing.
+
+1:18:25.160 --> 1:18:28.360
+ And that is because I think I run out of the energy
+
+1:18:28.360 --> 1:18:32.400
+ in my arm movements faster than I run out of muscle energy
+
+1:18:32.400 --> 1:18:34.040
+ in my finger movements.
+
+1:18:35.160 --> 1:18:39.120
+ And I think it takes a longer time for us to write words
+
+1:18:39.120 --> 1:18:43.400
+ with our fingers because, and in terms of the speech.
+
+1:18:43.400 --> 1:18:47.640
+ So I think you're writing, whether it's by hand or typing,
+
+1:18:47.640 --> 1:18:51.280
+ and your speech, it only will align very well
+
+1:18:51.280 --> 1:18:54.120
+ if you can type as fast as you can speak
+
+1:18:54.120 --> 1:18:56.200
+ or write as fast as you can speak in your head.
+
+1:18:56.200 --> 1:18:57.040
+ I love it.
+
+1:18:57.040 --> 1:18:59.000
+ So what you've done, if I understand correctly,
+
+1:18:59.000 --> 1:19:02.320
+ is created a bridge between thought and writing,
+
+1:19:02.320 --> 1:19:04.320
+ and that bridge is speech.
+
+1:19:04.320 --> 1:19:07.400
+ That bridge is speech, that's right, that's right.
+
+1:19:07.400 --> 1:19:08.720
+ When you're writing something out,
+
+1:19:08.720 --> 1:19:10.760
+ you're speaking it to yourself.
+
+1:19:10.760 --> 1:19:13.440
+ And if you're speaking faster than you can type,
+
+1:19:13.440 --> 1:19:14.440
+ you got a problem.
+
+1:19:15.400 --> 1:19:16.240
+ Interesting.
+
+1:19:16.240 --> 1:19:18.560
+ I do a number of podcast episodes
+
+1:19:18.560 --> 1:19:20.400
+ that are not with guests, but solo episodes.
+
+1:19:20.400 --> 1:19:22.720
+ And as listeners know, these are very long episodes,
+
+1:19:22.720 --> 1:19:24.600
+ often two or more hours.
+
+1:19:24.600 --> 1:19:27.600
+ And we joke around the podcast studio
+
+1:19:27.600 --> 1:19:30.560
+ that I will get locked into a mode of speech
+
+1:19:30.560 --> 1:19:34.320
+ where some of it is more elaborative and anecdotal,
+
+1:19:34.320 --> 1:19:38.480
+ and then I'll punch out simple declarative sentences.
+
+1:19:38.480 --> 1:19:42.080
+ I find it very hard to switch from one module to the next.
+
+1:19:42.080 --> 1:19:43.920
+ The thing that I have done
+
+1:19:43.920 --> 1:19:47.400
+ in order to make that transition more fluid
+
+1:19:47.400 --> 1:19:49.920
+ and prep for those podcast episodes
+
+1:19:49.920 --> 1:19:53.440
+ is actually to read the lyrics of songs
+
+1:19:53.440 --> 1:19:55.720
+ and to sing them in my head
+
+1:19:55.720 --> 1:19:57.720
+ as a way of warming up my vocal cords.
+
+1:19:57.720 --> 1:20:00.440
+ But luckily for those around me,
+
+1:20:00.440 --> 1:20:03.720
+ when I do that, I'm not actually singing out loud.
+
+1:20:03.720 --> 1:20:08.160
+ And so what you're telling me supports this idea
+
+1:20:08.160 --> 1:20:12.120
+ that even when we are imagining singing
+
+1:20:12.120 --> 1:20:16.480
+ or writing in our mind, we are exercising our vocal cords.
+
+1:20:16.480 --> 1:20:19.800
+ You're actually getting little low potentials
+
+1:20:19.800 --> 1:20:22.760
+ of electrical currents reaching your muscles there,
+
+1:20:22.760 --> 1:20:24.200
+ which also means you're exercising
+
+1:20:24.200 --> 1:20:25.560
+ your speech brain circuits too,
+
+1:20:25.560 --> 1:20:28.960
+ without actually going with the flow of activity
+
+1:20:28.960 --> 1:20:29.960
+ in the muscles.
+
+1:20:29.960 --> 1:20:30.800
+ Incredible.
+
+1:20:30.800 --> 1:20:31.640
+ Yes.
+
+1:20:31.640 --> 1:20:33.920
+ And this idea of singing helps you as well.
+
+1:20:36.000 --> 1:20:38.080
+ Even with Parkinson's patients and so forth,
+
+1:20:38.080 --> 1:20:39.040
+ when they want to say something,
+
+1:20:39.040 --> 1:20:41.280
+ singing or listening to music helps them move better.
+
+1:20:41.280 --> 1:20:45.160
+ And the idea there is that the brain circuits for singing,
+
+1:20:45.160 --> 1:20:47.960
+ or let's say the function of the brain circuits for speech
+
+1:20:47.960 --> 1:20:51.480
+ being used for singing first is the more ancestral trait.
+
+1:20:51.480 --> 1:20:54.280
+ And that's why it's easier to do things with singing
+
+1:20:54.280 --> 1:20:56.240
+ sometimes than it is with speaking.
+
+1:20:56.240 --> 1:20:57.080
+ I love it.
+
+1:20:58.160 --> 1:21:02.280
+ Stutter is a particularly interesting case
+
+1:21:02.280 --> 1:21:04.520
+ and one that every once in a while,
+
+1:21:04.520 --> 1:21:08.360
+ I'll get questions about this from our audience.
+
+1:21:08.360 --> 1:21:11.120
+ Stutter is complicated in a number of ways,
+
+1:21:11.120 --> 1:21:14.560
+ but culturally, in my understanding from these emails
+
+1:21:14.560 --> 1:21:18.160
+ that I receive is that stutter can often cause people
+
+1:21:18.160 --> 1:21:22.000
+ to hide and speak less because it can be embarrassing.
+
+1:21:22.000 --> 1:21:25.160
+ And we are often not patient with stutter.
+
+1:21:25.160 --> 1:21:27.560
+ We also have the assumption that if somebody's stuttering,
+
+1:21:27.560 --> 1:21:28.600
+ that their thinking is slow,
+
+1:21:28.600 --> 1:21:31.440
+ but it turns out there are many examples historically
+
+1:21:31.440 --> 1:21:33.160
+ of people who could not speak well,
+
+1:21:33.160 --> 1:21:35.400
+ but who were brilliant thinkers.
+
+1:21:36.400 --> 1:21:37.920
+ I don't know how well they could write,
+
+1:21:37.920 --> 1:21:40.400
+ but they found other modes of communication.
+
+1:21:41.360 --> 1:21:44.040
+ I realize that you're not a speech pathologist
+
+1:21:44.040 --> 1:21:48.240
+ or therapist, but what is the current neurobiological
+
+1:21:48.240 --> 1:21:51.920
+ understanding of stutter and what's being developed
+
+1:21:51.920 --> 1:21:53.560
+ in terms of treatments for stutter?
+
+1:21:53.560 --> 1:21:58.480
+ Yeah, so we actually accidentally came across
+
+1:21:58.480 --> 1:22:00.280
+ stuttering in songbirds
+
+1:22:00.280 --> 1:22:03.000
+ and we've published several papers on this.
+
+1:22:03.000 --> 1:22:04.920
+ So try to figure out the neurobiological basis.
+
+1:22:04.920 --> 1:22:08.400
+ The first study we had was a brain area
+
+1:22:08.400 --> 1:22:11.640
+ called the basal ganglia or the striatum part
+
+1:22:11.640 --> 1:22:14.880
+ of the basal ganglia involved in coordinating movements,
+
+1:22:14.880 --> 1:22:16.840
+ learning how to make movements.
+
+1:22:16.840 --> 1:22:21.840
+ When it was damaged in a speech-like pathway in these birds,
+
+1:22:22.080 --> 1:22:25.240
+ what we found is that they started to stutter
+
+1:22:25.240 --> 1:22:27.160
+ as the brain region recovered.
+
+1:22:28.080 --> 1:22:31.880
+ And unlike humans, they actually recovered
+
+1:22:31.880 --> 1:22:33.760
+ after three or four months.
+
+1:22:33.760 --> 1:22:34.880
+ And why is that the case?
+
+1:22:34.880 --> 1:22:38.120
+ Because bird brains undergoes new neurogenesis
+
+1:22:38.120 --> 1:22:41.800
+ in a way that human or mammal brains don't.
+
+1:22:41.800 --> 1:22:45.000
+ And it was the new neurons that were coming in
+
+1:22:45.000 --> 1:22:47.880
+ into the circuit, but not quite
+
+1:22:47.880 --> 1:22:51.440
+ with the right proper activity was resulting
+
+1:22:51.440 --> 1:22:54.480
+ in this stuttering in these birds.
+
+1:22:54.480 --> 1:22:57.520
+ And after it was repaired, not exactly the old song
+
+1:22:57.520 --> 1:22:59.800
+ came back after the repair,
+
+1:22:59.800 --> 1:23:02.360
+ but still it recovered a lot better.
+
+1:23:02.360 --> 1:23:07.360
+ And it's now known, they call this neurogenics stuttering
+
+1:23:07.400 --> 1:23:10.480
+ in humans, damage to the basal ganglia
+
+1:23:10.480 --> 1:23:13.280
+ or some type of disruption to the basal ganglia
+
+1:23:13.280 --> 1:23:16.640
+ at a young age also causes stuttering in humans.
+
+1:23:16.640 --> 1:23:19.320
+ And even those who are born with stuttering,
+
+1:23:21.520 --> 1:23:24.920
+ it's often the basal ganglia that's disrupted
+
+1:23:24.920 --> 1:23:26.480
+ in some other brain circuit.
+
+1:23:26.480 --> 1:23:29.440
+ And we think the speech part of the basal ganglia.
+
+1:23:29.440 --> 1:23:32.960
+ Can adults who maintain a stutter from childhood
+
+1:23:32.960 --> 1:23:34.400
+ repair that stutter?
+
+1:23:34.400 --> 1:23:36.760
+ They can repair it with a therapy,
+
+1:23:36.760 --> 1:23:39.280
+ with learning how to speak slower,
+
+1:23:39.280 --> 1:23:41.960
+ learning how to tap out a rhythm during such.
+
+1:23:41.960 --> 1:23:43.720
+ And yeah, I'm not a speech pathologist,
+
+1:23:43.720 --> 1:23:45.600
+ but I started reading this literature
+
+1:23:45.600 --> 1:23:47.960
+ and talking to others that, you know,
+
+1:23:47.960 --> 1:23:50.440
+ colleagues who actually study stuttering.
+
+1:23:50.440 --> 1:23:54.880
+ So yes, there are ways to overcome the stuttering
+
+1:23:54.880 --> 1:23:59.720
+ through behavioral therapy.
+
+1:23:59.720 --> 1:24:03.280
+ And I think all of the tools out there
+
+1:24:04.120 --> 1:24:07.760
+ have something to do with sensory motor integration.
+
+1:24:07.760 --> 1:24:11.320
+ Controlling what you hear with what you output
+
+1:24:11.320 --> 1:24:15.920
+ in a thoughtful controlled way helps reduce the stuttering.
+
+1:24:15.920 --> 1:24:17.640
+ There are a couple examples from real life
+
+1:24:17.640 --> 1:24:18.600
+ that I want to touch on.
+
+1:24:18.600 --> 1:24:20.800
+ And one is somewhat facetious,
+
+1:24:20.800 --> 1:24:25.800
+ but now I realize is a serious neurobiological issue.
+
+1:24:26.240 --> 1:24:28.640
+ Serious meaning, I think, interesting,
+
+1:24:28.640 --> 1:24:31.160
+ which is that every once in a while
+
+1:24:31.160 --> 1:24:33.160
+ I will have a conversation with somebody
+
+1:24:33.160 --> 1:24:37.080
+ who says the last word of the sentence along with me.
+
+1:24:37.080 --> 1:24:39.880
+ And it seems annoying in some instances,
+
+1:24:40.840 --> 1:24:42.920
+ but I'm guessing this is just a breakthrough
+
+1:24:42.920 --> 1:24:43.880
+ of the motor pattern
+
+1:24:43.880 --> 1:24:46.320
+ that they're hearing what I'm saying very well.
+
+1:24:46.320 --> 1:24:47.800
+ So I'm going to interpret this kindly
+
+1:24:47.800 --> 1:24:50.040
+ and think they're hearing what I'm saying.
+
+1:24:50.040 --> 1:24:53.560
+ They're literally hearing it in their mind
+
+1:24:53.560 --> 1:24:56.520
+ and they're getting that low level electrical activity
+
+1:24:56.520 --> 1:24:57.400
+ to their throat.
+
+1:24:57.400 --> 1:25:01.240
+ And they're just joining me in the enunciation
+
+1:25:01.240 --> 1:25:04.680
+ of what I'm saying, probably without realizing it.
+
+1:25:04.680 --> 1:25:06.240
+ Can we assume that that might be the case?
+
+1:25:06.240 --> 1:25:08.320
+ Well, I wouldn't be surprised.
+
+1:25:08.320 --> 1:25:10.800
+ So the motor theory of speech perception
+
+1:25:10.800 --> 1:25:12.080
+ where this idea originally came,
+
+1:25:12.080 --> 1:25:15.440
+ what you hear is going through your speech circuit
+
+1:25:15.440 --> 1:25:18.280
+ and then also activating those muscles slightly.
+
+1:25:18.280 --> 1:25:23.280
+ So yes, so one might argue,
+
+1:25:23.280 --> 1:25:26.040
+ okay, is that speech circuit now interpreting
+
+1:25:26.040 --> 1:25:29.160
+ what that person is speaking now you listening to me
+
+1:25:29.160 --> 1:25:30.600
+ and is going to finish it off
+
+1:25:30.600 --> 1:25:33.520
+ because it's already going through their brain
+
+1:25:33.520 --> 1:25:34.440
+ and they can predict it.
+
+1:25:34.440 --> 1:25:36.760
+ That would be one theory.
+
+1:25:36.760 --> 1:25:39.640
+ I don't think the verdict out there is no, but that's one.
+
+1:25:39.640 --> 1:25:44.640
+ The other is synchronizing turn-taking in the conversation
+
+1:25:44.640 --> 1:25:49.640
+ where you're acknowledging that we understand each other
+
+1:25:49.640 --> 1:25:51.880
+ by finishing off what I say.
+
+1:25:53.000 --> 1:25:56.200
+ And it's almost like a social bonding kind of thing.
+
+1:25:56.200 --> 1:25:58.520
+ The other could be, I want the person to shut out
+
+1:25:58.520 --> 1:26:00.920
+ so I can speak as well and take that turn.
+
+1:26:00.920 --> 1:26:05.920
+ And each pair of people have a rhythm to their conversation.
+
+1:26:05.920 --> 1:26:08.160
+ And if you have somebody who's overtalkative
+
+1:26:08.160 --> 1:26:10.520
+ versus undertalkative or vice versa,
+
+1:26:10.520 --> 1:26:13.360
+ that rhythm can be lost in them finishing off
+
+1:26:13.360 --> 1:26:14.840
+ and going back and forth.
+
+1:26:14.840 --> 1:26:18.840
+ But I think having something to do with turn-taking as well
+
+1:26:18.840 --> 1:26:20.240
+ makes a lot of sense.
+
+1:26:20.240 --> 1:26:22.640
+ I have a colleague at Stanford who says
+
+1:26:22.640 --> 1:26:25.640
+ that interruption is a sign of interest.
+
+1:26:25.640 --> 1:26:27.160
+ I'm not sure that everyone agrees.
+
+1:26:27.160 --> 1:26:28.960
+ I think it's highly contextual,
+
+1:26:28.960 --> 1:26:32.360
+ but there is this form of a verbal nod
+
+1:26:32.360 --> 1:26:34.360
+ of saying, or things of that sort.
+
+1:26:34.360 --> 1:26:36.600
+ And there are many of these,
+
+1:26:36.600 --> 1:26:38.720
+ and I'm often told by my audience
+
+1:26:38.720 --> 1:26:41.120
+ that I'd interrupt my guests and things of that sort.
+
+1:26:41.120 --> 1:26:43.440
+ Oftentimes I'll just get caught in the natural flow
+
+1:26:43.440 --> 1:26:44.840
+ of the conversation.
+
+1:26:44.840 --> 1:26:45.680
+ But-
+
+1:26:45.680 --> 1:26:48.000
+ Well, I think we've had pretty good turn-taking here,
+
+1:26:48.000 --> 1:26:48.840
+ I hope.
+
+1:26:48.840 --> 1:26:49.680
+ That's so far, so good.
+
+1:26:49.680 --> 1:26:50.520
+ I feel that way.
+
+1:26:50.520 --> 1:26:51.360
+ I'm glad you feel that way,
+
+1:26:51.360 --> 1:26:53.280
+ because especially in the context of a discussion
+
+1:26:53.280 --> 1:26:55.640
+ about language, this seems important.
+
+1:26:57.520 --> 1:27:02.520
+ Texting is a very, very interesting evolution of language,
+
+1:27:03.920 --> 1:27:07.840
+ because what you've told us is that we have a thought,
+
+1:27:07.840 --> 1:27:10.400
+ it's translated into one word,
+
+1:27:10.400 --> 1:27:11.880
+ translated into language.
+
+1:27:11.880 --> 1:27:14.640
+ It might not be complete sentences, but texting,
+
+1:27:14.640 --> 1:27:16.120
+ I have to imagine this is the first time
+
+1:27:16.120 --> 1:27:18.960
+ in human evolution where we've written with our thumbs.
+
+1:27:18.960 --> 1:27:21.560
+ So I don't know, it seems more primitive to me
+
+1:27:21.560 --> 1:27:23.040
+ than typing with fingers around your hands,
+
+1:27:23.040 --> 1:27:26.120
+ but hey, who am I to judge the evolution of our species
+
+1:27:26.120 --> 1:27:27.760
+ in one direction or the other?
+
+1:27:27.760 --> 1:27:32.760
+ But the shorthand, often grammatically deficient,
+
+1:27:33.520 --> 1:27:36.320
+ incomplete sentence form of texting
+
+1:27:36.320 --> 1:27:38.160
+ is an incredible thing to see.
+
+1:27:38.160 --> 1:27:41.280
+ Early in relationships, romantic relationships,
+
+1:27:41.280 --> 1:27:44.240
+ people will often evaluate the other's text
+
+1:27:44.240 --> 1:27:47.080
+ and their ability to use proper grammar
+
+1:27:47.080 --> 1:27:48.480
+ and spelling, et cetera.
+
+1:27:48.480 --> 1:27:50.640
+ This often quickly degrades,
+
+1:27:50.640 --> 1:27:51.840
+ and there's an acceptance
+
+1:27:51.840 --> 1:27:54.320
+ that we're just trying to communicate through shorthand.
+
+1:27:54.320 --> 1:27:57.880
+ Almost military-like shorthand,
+
+1:27:57.880 --> 1:28:00.680
+ but with internally consistent between people,
+
+1:28:00.680 --> 1:28:02.920
+ but there's no general consensus of what things mean.
+
+1:28:02.920 --> 1:28:07.920
+ But WTFs and OMGs and all sorts of things.
+
+1:28:09.360 --> 1:28:11.360
+ I wonder sometimes whether or not
+
+1:28:11.360 --> 1:28:14.800
+ we are getting less proficient at speech
+
+1:28:14.800 --> 1:28:17.160
+ because we are not required
+
+1:28:17.160 --> 1:28:20.640
+ to write and think in complete sentences.
+
+1:28:21.720 --> 1:28:22.920
+ I'm not being judgmental here.
+
+1:28:22.920 --> 1:28:24.360
+ I see this in my colleagues.
+
+1:28:24.360 --> 1:28:25.960
+ I see this in myself.
+
+1:28:25.960 --> 1:28:28.980
+ This is not a judgment of the younger generation.
+
+1:28:28.980 --> 1:28:33.980
+ I also know that slang has existed for decades,
+
+1:28:34.860 --> 1:28:36.340
+ if not hundreds of years,
+
+1:28:36.340 --> 1:28:38.260
+ but I also know that I don't speak the same way
+
+1:28:38.260 --> 1:28:40.260
+ that I did when I was a teenager
+
+1:28:40.260 --> 1:28:42.340
+ because I've suppressed a lot of that slang,
+
+1:28:42.340 --> 1:28:45.300
+ not because it's inappropriate or offensive,
+
+1:28:45.300 --> 1:28:46.940
+ although some of it was, frankly,
+
+1:28:48.140 --> 1:28:50.540
+ but because it's out of context.
+
+1:28:50.540 --> 1:28:53.020
+ So what do you think is happening to language?
+
+1:28:53.020 --> 1:28:56.100
+ Are we getting better at speaking, worse at speaking?
+
+1:28:56.100 --> 1:28:58.980
+ And what do you think the role of things like texting
+
+1:28:58.980 --> 1:29:02.820
+ and tweeting and shorthand communication, hashtagging,
+
+1:29:02.820 --> 1:29:05.300
+ what's that doing to the way that our brains work?
+
+1:29:05.300 --> 1:29:09.700
+ Yeah, I think that one, in terms of
+
+1:29:11.540 --> 1:29:14.320
+ measuring your level of sophistication and intelligence,
+
+1:29:14.320 --> 1:29:16.220
+ and you say OMG, right?
+
+1:29:16.220 --> 1:29:19.100
+ I think that also could be a cultural thing
+
+1:29:19.100 --> 1:29:21.800
+ that, ah, you belong to the next generation.
+
+1:29:22.940 --> 1:29:23.900
+ Or you're being cool.
+
+1:29:23.900 --> 1:29:27.540
+ If you're an older person using OMG and other things
+
+1:29:27.540 --> 1:29:31.040
+ that the younger generation would use.
+
+1:29:31.040 --> 1:29:34.380
+ But if I really think about it clearly,
+
+1:29:36.340 --> 1:29:39.320
+ texting actually has allowed
+
+1:29:39.320 --> 1:29:43.340
+ for more rapid communication amongst people.
+
+1:29:43.340 --> 1:29:47.660
+ I think without the invention of the phone before then,
+
+1:29:47.660 --> 1:29:50.100
+ or texting back and forth,
+
+1:29:50.100 --> 1:29:53.380
+ you had to wait days for a letter to show up.
+
+1:29:53.380 --> 1:29:55.900
+ You couldn't call somebody on the phone and talk as well,
+
+1:29:55.900 --> 1:29:57.820
+ you know, and so this rapid communication,
+
+1:29:57.820 --> 1:29:59.380
+ but in terms of the rapid communication
+
+1:29:59.380 --> 1:30:00.600
+ of writing in this case.
+
+1:30:01.580 --> 1:30:06.540
+ So I think actually, it's more like a use it or lose it
+
+1:30:06.540 --> 1:30:10.140
+ kind of a thing with the brain.
+
+1:30:10.140 --> 1:30:13.620
+ The more you use a particular brain region or circuit,
+
+1:30:13.620 --> 1:30:16.320
+ the more enhanced, it's like a muscle.
+
+1:30:16.320 --> 1:30:19.120
+ The more you exercise it, the more healthier it is,
+
+1:30:19.120 --> 1:30:21.220
+ the bigger it becomes and the more space it takes
+
+1:30:21.220 --> 1:30:23.420
+ and the more you lose something else.
+
+1:30:23.420 --> 1:30:27.860
+ So I think texting is not
+
+1:30:27.860 --> 1:30:32.060
+ decreasing the speech prowess
+
+1:30:32.060 --> 1:30:34.260
+ or the intellectual prowess of speech.
+
+1:30:34.260 --> 1:30:38.080
+ It's converting it and using it a lot in a different way.
+
+1:30:38.980 --> 1:30:43.300
+ In a way that may not be as rich in regular writing
+
+1:30:43.300 --> 1:30:47.580
+ because you can only communicate so much nuance
+
+1:30:47.580 --> 1:30:49.660
+ in short term writing.
+
+1:30:49.660 --> 1:30:53.220
+ But whatever is being done,
+
+1:30:53.220 --> 1:30:55.700
+ you got people texting hours and hours and hours
+
+1:30:55.700 --> 1:30:56.600
+ on the phone.
+
+1:30:56.600 --> 1:30:58.980
+ So whatever your thumb circuit
+
+1:30:58.980 --> 1:31:01.060
+ is gonna get pretty big actually.
+
+1:31:02.060 --> 1:31:04.340
+ I do wonder whether, you know,
+
+1:31:04.340 --> 1:31:07.060
+ many people have lost their jobs based on tweets.
+
+1:31:08.140 --> 1:31:11.580
+ The short latency between thought and action
+
+1:31:11.580 --> 1:31:15.940
+ and distribution of one's thoughts is incredible.
+
+1:31:15.940 --> 1:31:18.660
+ And I'm not just talking about people
+
+1:31:18.660 --> 1:31:23.660
+ who apparently would have poor prefrontal top-down control.
+
+1:31:24.020 --> 1:31:25.300
+ This is geek speak, by the way,
+
+1:31:25.300 --> 1:31:27.380
+ for people that lack impulse control.
+
+1:31:27.380 --> 1:31:28.900
+ But high-level academics,
+
+1:31:28.900 --> 1:31:30.540
+ I'm not gonna point fingers at anyone,
+
+1:31:30.540 --> 1:31:33.380
+ but examples of where you see these tweets
+
+1:31:33.380 --> 1:31:35.900
+ and you go, what were they thinking?
+
+1:31:35.900 --> 1:31:39.860
+ So presumably there's an optimal strategy
+
+1:31:39.860 --> 1:31:44.420
+ between the thought, speech, motor pathway,
+
+1:31:44.420 --> 1:31:47.380
+ especially when the motor pathway engages communication
+
+1:31:47.380 --> 1:31:49.260
+ with hundreds of thousands of people.
+
+1:31:49.260 --> 1:31:50.700
+ And retweets in particular,
+
+1:31:50.700 --> 1:31:53.300
+ and the cut and paste function and the screenshot function
+
+1:31:53.300 --> 1:31:55.780
+ are often the reason why speech propagates.
+
+1:31:55.780 --> 1:31:56.620
+ Yep.
+
+1:31:56.620 --> 1:31:58.620
+ So to me, it's a little eerie
+
+1:31:58.620 --> 1:32:03.620
+ that just that the neural circuitry can do this
+
+1:32:04.420 --> 1:32:08.920
+ and that we are catching up a little bit more slowly
+
+1:32:08.920 --> 1:32:10.220
+ to the technology,
+
+1:32:10.220 --> 1:32:13.900
+ and you've got these casualties of that mismatch.
+
+1:32:13.900 --> 1:32:17.900
+ I think that's a good adjective to use,
+
+1:32:17.900 --> 1:32:20.420
+ the casualties of what's going on.
+
+1:32:20.420 --> 1:32:23.380
+ Because yes, it is the case with texting,
+
+1:32:23.380 --> 1:32:25.540
+ what you're really losing there
+
+1:32:25.540 --> 1:32:28.380
+ is less so the ability to write,
+
+1:32:28.380 --> 1:32:32.060
+ but more the ability to interpret what is being written.
+
+1:32:32.060 --> 1:32:36.480
+ And you can undeterpit something that somebody means.
+
+1:32:37.700 --> 1:32:39.420
+ On the flip side of that,
+
+1:32:39.420 --> 1:32:42.520
+ when if somebody's writing something very quick,
+
+1:32:42.520 --> 1:32:46.120
+ they could be writing instinctually,
+
+1:32:46.120 --> 1:32:49.280
+ more instinctually, their true meaning.
+
+1:32:49.280 --> 1:32:53.400
+ And they don't have time to modify and color code
+
+1:32:53.400 --> 1:32:55.080
+ what they're trying to say.
+
+1:32:55.080 --> 1:32:56.960
+ And that's what they really feel
+
+1:32:57.960 --> 1:33:00.240
+ as opposed to say in a more nuanced way.
+
+1:33:00.240 --> 1:33:05.080
+ So I think both sides of that casualty are present.
+
+1:33:05.080 --> 1:33:10.080
+ And that's a downturn, an unintended negative consequence
+
+1:33:10.080 --> 1:33:14.720
+ of short word communication.
+
+1:33:14.720 --> 1:33:17.280
+ Yeah, I agree that this whole phenomenon
+
+1:33:17.280 --> 1:33:20.480
+ could be netting people that normally
+
+1:33:20.480 --> 1:33:22.160
+ would only say these things out loud
+
+1:33:22.160 --> 1:33:25.760
+ once inside the door of their own home or not at all.
+
+1:33:25.760 --> 1:33:28.160
+ It's an interesting time that we're in
+
+1:33:28.160 --> 1:33:30.800
+ vis-a-vis speech and language and motor patterns.
+
+1:33:30.800 --> 1:33:32.760
+ So part of the human evolution for language.
+
+1:33:32.760 --> 1:33:35.200
+ I think this is all part of our evolution.
+
+1:33:35.200 --> 1:33:36.400
+ That's right.
+
+1:33:36.400 --> 1:33:38.120
+ So for those of you thinking terrible thoughts,
+
+1:33:38.120 --> 1:33:40.040
+ please put them in the world and be a casualty.
+
+1:33:40.040 --> 1:33:41.360
+ And for those of you that are not,
+
+1:33:41.360 --> 1:33:44.040
+ please be very careful with how proficient
+
+1:33:44.040 --> 1:33:47.760
+ your thought to language to motor action goes.
+
+1:33:47.760 --> 1:33:50.840
+ Maybe the technology companies should install some buffers,
+
+1:33:50.840 --> 1:33:52.480
+ some AI-based buffers.
+
+1:33:52.480 --> 1:33:55.360
+ Right, that's taking some EEG signals from your brain
+
+1:33:55.360 --> 1:33:56.680
+ while you're texting to say,
+
+1:33:56.680 --> 1:34:00.840
+ okay, this is not a great thought, slow down.
+
+1:34:00.840 --> 1:34:03.840
+ Right, this doesn't reflect your best state.
+
+1:34:04.680 --> 1:34:07.080
+ That brings me to what was going to be
+
+1:34:07.080 --> 1:34:08.560
+ the next question anyway, which is,
+
+1:34:08.560 --> 1:34:10.720
+ we are quickly moving toward a time
+
+1:34:10.720 --> 1:34:15.080
+ where there will be an even faster transition
+
+1:34:15.080 --> 1:34:18.440
+ from thought to speech to motor output
+
+1:34:18.440 --> 1:34:20.560
+ and maybe won't require motor output.
+
+1:34:20.560 --> 1:34:23.160
+ What I'm referring to here is some of the incredible work
+
+1:34:23.160 --> 1:34:25.360
+ of our colleagues, Eddie Chang at UCSF
+
+1:34:25.360 --> 1:34:29.400
+ and others who are taking paralyzed human beings
+
+1:34:29.400 --> 1:34:32.320
+ and learning to translate the electrical signals
+
+1:34:32.320 --> 1:34:33.640
+ of neurons in various areas,
+
+1:34:33.640 --> 1:34:35.360
+ including speech and language areas
+
+1:34:35.360 --> 1:34:37.280
+ to computer screens that type out
+
+1:34:37.280 --> 1:34:38.240
+ what these people are thinking.
+
+1:34:38.240 --> 1:34:39.360
+ In other words, paralyzed people
+
+1:34:39.360 --> 1:34:42.160
+ can put their thoughts into writing.
+
+1:34:42.160 --> 1:34:45.000
+ That's a pretty extreme and wonderful example
+
+1:34:45.000 --> 1:34:50.000
+ of recovery of function that is sure to continue to evolve.
+
+1:34:50.160 --> 1:34:52.640
+ But I think we are headed toward a time
+
+1:34:52.640 --> 1:34:55.960
+ not too long from now where my thoughts
+
+1:34:55.960 --> 1:34:58.360
+ can be translated into words on a page
+
+1:34:58.360 --> 1:35:00.280
+ if I allow that to happen.
+
+1:35:00.280 --> 1:35:02.800
+ Yeah, so, and Eddie Chang's work,
+
+1:35:02.800 --> 1:35:06.360
+ which I admire quite a bit and cite in my papers,
+
+1:35:07.200 --> 1:35:10.160
+ I think he's really one of those at the leading edge
+
+1:35:10.160 --> 1:35:13.480
+ of trying to understand within humans
+
+1:35:13.480 --> 1:35:15.600
+ the neurobiology of speech.
+
+1:35:15.600 --> 1:35:17.680
+ And he may not say it directly,
+
+1:35:17.680 --> 1:35:19.000
+ but I talked to him about this,
+
+1:35:19.000 --> 1:35:21.960
+ it supports this idea that the speech circuit
+
+1:35:21.960 --> 1:35:23.640
+ in the separate language module,
+
+1:35:23.640 --> 1:35:26.840
+ I don't really think that there's a separation there.
+
+1:35:26.840 --> 1:35:29.040
+ So with that knowledge, yes,
+
+1:35:29.040 --> 1:35:31.320
+ in putting electrodes in the human brain
+
+1:35:31.320 --> 1:35:33.400
+ and then translating those electrical signals
+
+1:35:33.400 --> 1:35:35.400
+ to speech currents, yeah,
+
+1:35:35.400 --> 1:35:38.240
+ we can start to tell what is that person thinking.
+
+1:35:38.240 --> 1:35:41.160
+ Why, because we often think in terms of speech
+
+1:35:42.200 --> 1:35:44.960
+ and without saying words.
+
+1:35:44.960 --> 1:35:46.640
+ And that's a scary thought.
+
+1:35:46.640 --> 1:35:49.760
+ And now imagine if you can now translate those
+
+1:35:49.760 --> 1:35:52.680
+ into a signal that transmits something wirelessly
+
+1:35:52.680 --> 1:35:55.640
+ and someone from some distant part of the planet
+
+1:35:55.640 --> 1:35:58.680
+ is hearing your speech from a wireless signal
+
+1:35:58.680 --> 1:36:00.560
+ without you speaking.
+
+1:36:00.560 --> 1:36:04.800
+ So probably that won't be done in an ethical way,
+
+1:36:04.800 --> 1:36:07.080
+ who knows, but I mean,
+
+1:36:07.080 --> 1:36:10.280
+ the ethics of doing that probably might not happen,
+
+1:36:10.280 --> 1:36:12.440
+ but who knows, we have these songbirds,
+
+1:36:13.280 --> 1:36:15.000
+ we apply the same technique to them,
+
+1:36:15.000 --> 1:36:16.440
+ we can start to hear what they're singing
+
+1:36:16.440 --> 1:36:18.480
+ in their dreams or whatever,
+
+1:36:18.480 --> 1:36:19.840
+ even though they don't produce sound.
+
+1:36:19.840 --> 1:36:22.360
+ So we can find out by testing on them.
+
+1:36:22.360 --> 1:36:24.840
+ It's coming, one way or another, it's coming.
+
+1:36:26.160 --> 1:36:28.200
+ For those listening who are interested
+
+1:36:28.200 --> 1:36:32.520
+ in getting better at speaking and understanding languages,
+
+1:36:32.520 --> 1:36:34.720
+ are there any tools that you recommend?
+
+1:36:34.720 --> 1:36:37.880
+ And here again, I realize you're not a speech therapist,
+
+1:36:37.880 --> 1:36:39.760
+ but here I'm not thinking about ameliorating
+
+1:36:39.760 --> 1:36:42.240
+ any kind of speech deficiency.
+
+1:36:42.240 --> 1:36:44.080
+ I'm thinking, for instance,
+
+1:36:44.080 --> 1:36:48.600
+ do you recommend that people read different types of writing?
+
+1:36:49.480 --> 1:36:51.400
+ Would you recommend that people learn how to dance
+
+1:36:51.400 --> 1:36:54.360
+ in order to become better at expressing themselves verbally?
+
+1:36:54.360 --> 1:36:59.360
+ And feel free to have some degrees of freedom
+
+1:36:59.520 --> 1:37:00.800
+ in this answer.
+
+1:37:00.800 --> 1:37:03.640
+ These are obviously not peer-reviewed studies
+
+1:37:03.640 --> 1:37:06.640
+ that we're referring to, although there may be,
+
+1:37:06.640 --> 1:37:09.560
+ but I'm struck by the number of things
+
+1:37:09.560 --> 1:37:10.960
+ that you do exceedingly well,
+
+1:37:10.960 --> 1:37:15.600
+ and I can't help but ask, well, the singing,
+
+1:37:15.600 --> 1:37:17.200
+ which I realize it may,
+
+1:37:17.200 --> 1:37:18.400
+ your brother didn't pay me to say this,
+
+1:37:18.400 --> 1:37:20.920
+ may not be quite as good as your brother's yet,
+
+1:37:20.920 --> 1:37:23.400
+ but you'll surpass him, I'm guessing,
+
+1:37:23.400 --> 1:37:24.560
+ at some point in getting that.
+
+1:37:24.560 --> 1:37:25.400
+ Getting there.
+
+1:37:25.400 --> 1:37:27.680
+ Exactly, there you go.
+
+1:37:29.200 --> 1:37:31.760
+ You know, should kids learn how to dance
+
+1:37:31.760 --> 1:37:35.480
+ and read hard books and simple books?
+
+1:37:35.480 --> 1:37:36.320
+ What do you recommend?
+
+1:37:36.320 --> 1:37:37.600
+ Should adults learn how to do that?
+
+1:37:37.600 --> 1:37:39.560
+ Everyone wants to know how to keep their brain
+
+1:37:39.560 --> 1:37:41.280
+ working better, so to speak,
+
+1:37:41.280 --> 1:37:44.080
+ but also I think people want to be able to speak well,
+
+1:37:44.080 --> 1:37:46.200
+ and people want to be able to understand well.
+
+1:37:46.200 --> 1:37:50.120
+ Yeah, so what I've discovered personally, right,
+
+1:37:50.120 --> 1:37:55.120
+ is that, so when I switched from pursuing a career
+
+1:37:55.160 --> 1:37:57.800
+ in science from a career in dance,
+
+1:37:59.160 --> 1:38:02.120
+ I thought one day I would stop dancing,
+
+1:38:02.120 --> 1:38:05.600
+ but I haven't because I find it fulfilling for me,
+
+1:38:06.640 --> 1:38:08.680
+ just as a life experience.
+
+1:38:08.680 --> 1:38:11.600
+ So ever since I started college,
+
+1:38:11.600 --> 1:38:14.880
+ my late teens and early 20s,
+
+1:38:14.880 --> 1:38:17.880
+ I kept dancing even till this day,
+
+1:38:17.880 --> 1:38:19.040
+ and there have been periods of time
+
+1:38:19.040 --> 1:38:20.560
+ like during the pandemic,
+
+1:38:20.560 --> 1:38:22.800
+ where I slowed down on dancing and so forth.
+
+1:38:24.000 --> 1:38:25.760
+ And when you do that, you realize,
+
+1:38:25.760 --> 1:38:27.360
+ okay, there are parts of your body
+
+1:38:27.360 --> 1:38:29.400
+ where your muscle tone decreases a little bit
+
+1:38:29.400 --> 1:38:32.200
+ and somewhat, or you could start to gain weight.
+
+1:38:32.200 --> 1:38:33.920
+ I somehow don't gain weight that easily,
+
+1:38:33.920 --> 1:38:35.440
+ and I think it's related to my dance,
+
+1:38:35.440 --> 1:38:38.520
+ if that's meaningful to your audience.
+
+1:38:38.520 --> 1:38:42.680
+ But what I found is, in science,
+
+1:38:42.680 --> 1:38:45.600
+ we like to think of a separation between movement
+
+1:38:45.600 --> 1:38:47.880
+ and action and cognition.
+
+1:38:47.880 --> 1:38:50.200
+ And there is a separation between perception
+
+1:38:50.200 --> 1:38:53.160
+ and production, cognition being perception,
+
+1:38:53.160 --> 1:38:55.440
+ production being movement, right?
+
+1:38:55.440 --> 1:38:59.400
+ But if the speech pathways is next to the movement pathways,
+
+1:38:59.400 --> 1:39:04.400
+ what I discover is by dancing, it is helping me think.
+
+1:39:04.560 --> 1:39:06.800
+ It is helping keeping my brain fresh.
+
+1:39:06.800 --> 1:39:08.880
+ It's not just moving my muscles.
+
+1:39:08.880 --> 1:39:12.640
+ I'm moving or using the circuitry in my brain
+
+1:39:12.640 --> 1:39:16.040
+ to control a whole big body.
+
+1:39:16.040 --> 1:39:18.440
+ You need a lot of brain tissue to do that.
+
+1:39:18.440 --> 1:39:23.280
+ And so I argue, if you wanna stay cognitively intact
+
+1:39:23.280 --> 1:39:26.240
+ into your old age, you better be moving.
+
+1:39:26.240 --> 1:39:27.960
+ And you better be doing it consistently,
+
+1:39:27.960 --> 1:39:30.720
+ whether it's dancing, walking, running,
+
+1:39:30.720 --> 1:39:35.520
+ and also practicing speech, oratory speech and so forth,
+
+1:39:35.520 --> 1:39:38.160
+ or singing, is controlling the brain circuits
+
+1:39:38.160 --> 1:39:40.080
+ that are moving your facial musculature.
+
+1:39:40.080 --> 1:39:44.200
+ And it's gonna keep your cognitive circuits also in tune.
+
+1:39:44.200 --> 1:39:48.000
+ And I'm convinced of that from my own personal experience.
+
+1:39:48.000 --> 1:39:52.120
+ For me, long, slow runs are a wonderful way
+
+1:39:52.120 --> 1:39:56.320
+ to kind of loosen the joints for long podcasts,
+
+1:39:56.320 --> 1:39:57.680
+ especially the solo podcasts,
+
+1:39:57.680 --> 1:39:59.680
+ which can take many hours to record.
+
+1:39:59.680 --> 1:40:02.840
+ And without those long, slow runs,
+
+1:40:02.840 --> 1:40:05.400
+ at least the day before or even the morning of,
+
+1:40:05.400 --> 1:40:07.760
+ I don't think I could do it, at least not as well.
+
+1:40:07.760 --> 1:40:10.320
+ All right, well, you're experiencing something similar.
+
+1:40:10.320 --> 1:40:11.520
+ So that's an N of two.
+
+1:40:11.520 --> 1:40:13.360
+ Yeah, N of two.
+
+1:40:13.360 --> 1:40:15.840
+ I'm tempted to learn how to dance
+
+1:40:15.840 --> 1:40:18.680
+ because there are a lot of reasons to learn how to dance.
+
+1:40:18.680 --> 1:40:21.160
+ People can use their imagination.
+
+1:40:21.160 --> 1:40:23.760
+ I definitely wanna get the opportunity
+
+1:40:23.760 --> 1:40:26.000
+ to talk about some of the newer work
+
+1:40:26.000 --> 1:40:31.000
+ that you're into right now about genomes of animals.
+
+1:40:31.000 --> 1:40:32.520
+ As you perhaps can tell
+
+1:40:32.520 --> 1:40:35.200
+ from my quite authentic facial expressions,
+
+1:40:35.200 --> 1:40:38.040
+ I adore the animal kingdom.
+
+1:40:38.040 --> 1:40:39.240
+ I just find it amazing.
+
+1:40:39.240 --> 1:40:42.000
+ And it's the reason I went into neurobiology, in part.
+
+1:40:42.000 --> 1:40:45.400
+ So many animals, so many different patterns of movement,
+
+1:40:45.400 --> 1:40:49.400
+ so many body plans, so many specializations.
+
+1:40:49.400 --> 1:40:51.960
+ What is the value of learning the genomes
+
+1:40:51.960 --> 1:40:53.160
+ of all these animals?
+
+1:40:54.280 --> 1:40:58.760
+ I can think of conservation-based schemes
+
+1:40:58.760 --> 1:41:02.080
+ of trying to preserve these precious critters,
+
+1:41:02.080 --> 1:41:04.160
+ but what are you doing with the genomes of these animals?
+
+1:41:04.160 --> 1:41:06.520
+ What do you wanna understand about their brain circuits?
+
+1:41:06.520 --> 1:41:08.400
+ And how does this relate to some of the discussion
+
+1:41:08.400 --> 1:41:10.120
+ we've been having up until now?
+
+1:41:10.120 --> 1:41:13.360
+ I've gotten very heavily involved in genomes,
+
+1:41:14.480 --> 1:41:17.040
+ not just to get at an individual gene
+
+1:41:17.040 --> 1:41:21.560
+ involved in the trait of interest, like spoken language,
+
+1:41:21.560 --> 1:41:25.840
+ but I realize that nature has done
+
+1:41:25.840 --> 1:41:27.560
+ natural experiments for us.
+
+1:41:28.680 --> 1:41:31.680
+ With all these species out there with these various traits,
+
+1:41:31.680 --> 1:41:33.920
+ and the one that I'm studying, like vocal learning,
+
+1:41:33.920 --> 1:41:36.560
+ has evolved multiple times among the animal kingdom.
+
+1:41:36.560 --> 1:41:39.600
+ Even if it's rare, it's multiple times.
+
+1:41:39.600 --> 1:41:44.600
+ And the similar genetic changes occurred in those species.
+
+1:41:45.920 --> 1:41:48.560
+ But to find out what those genetic changes
+
+1:41:48.560 --> 1:41:50.760
+ that are associated with the trait of interest,
+
+1:41:50.760 --> 1:41:53.560
+ and not some other trait like flying in birds
+
+1:41:53.560 --> 1:41:55.680
+ as opposed to singing,
+
+1:41:56.680 --> 1:41:59.040
+ you have to do what's called comparative genomics,
+
+1:41:59.040 --> 1:42:01.120
+ even in the context of studying the brain.
+
+1:42:01.120 --> 1:42:04.360
+ And you need their genomes to compare the genomes
+
+1:42:04.360 --> 1:42:07.400
+ and do like a GWAS, a genome-wide association study,
+
+1:42:07.400 --> 1:42:09.440
+ not just within a species like humans,
+
+1:42:09.440 --> 1:42:10.760
+ but across species.
+
+1:42:10.760 --> 1:42:13.680
+ And so you need good genomes to do that.
+
+1:42:13.680 --> 1:42:16.400
+ Plus, I've discovered I'm also interested
+
+1:42:16.400 --> 1:42:18.040
+ in evolution and origins.
+
+1:42:18.040 --> 1:42:21.120
+ How did these species come about a similar trait
+
+1:42:22.160 --> 1:42:26.120
+ in the last 300 million years or 60 million years,
+
+1:42:26.120 --> 1:42:28.160
+ depending on who you're talking about?
+
+1:42:28.160 --> 1:42:31.080
+ And you need a good phylogenetic tree to do that.
+
+1:42:31.080 --> 1:42:32.800
+ And to get a good phylogenetic tree,
+
+1:42:32.800 --> 1:42:34.800
+ you also need their genomes.
+
+1:42:34.800 --> 1:42:36.120
+ And so because of this,
+
+1:42:36.120 --> 1:42:38.800
+ I got involved in large-scale consortiums
+
+1:42:38.800 --> 1:42:41.960
+ and produced genomes of many different species,
+
+1:42:41.960 --> 1:42:45.240
+ including my vocal learners and their closest relatives
+
+1:42:45.240 --> 1:42:46.520
+ that I'm fans of.
+
+1:42:47.560 --> 1:42:49.360
+ But I couldn't convince the funding agencies
+
+1:42:49.360 --> 1:42:52.760
+ to give me the money to do that just for my own project.
+
+1:42:52.760 --> 1:42:55.480
+ But when you get a whole bunch of people together
+
+1:42:55.480 --> 1:42:57.160
+ who wanna study various traits,
+
+1:42:58.120 --> 1:43:03.120
+ heart disease or loss and gain of flight and so forth,
+
+1:43:03.680 --> 1:43:07.000
+ suddenly we all need lots of genomes to do this.
+
+1:43:07.000 --> 1:43:09.600
+ And so now that got me into a project
+
+1:43:09.600 --> 1:43:12.600
+ to lead something called the Vertebrate Genomes Project
+
+1:43:12.600 --> 1:43:16.640
+ to eventually sequence all 70,000 species on the planet.
+
+1:43:16.640 --> 1:43:20.680
+ And Earth Biogenome Project, all eukaryotic species,
+
+1:43:20.680 --> 1:43:21.920
+ all 2 million of them.
+
+1:43:23.080 --> 1:43:26.720
+ And to no longer be in a situation
+
+1:43:26.720 --> 1:43:28.880
+ where I wish I had this genome,
+
+1:43:28.880 --> 1:43:32.200
+ now we have the genetic code of all life on the planet,
+
+1:43:32.200 --> 1:43:34.680
+ create a database of all their traits
+
+1:43:34.680 --> 1:43:38.920
+ and find the genetic association with everything out there
+
+1:43:38.920 --> 1:43:41.520
+ that makes a difference from one species to another.
+
+1:43:42.400 --> 1:43:47.360
+ One more piece of the equation to add to this story
+
+1:43:47.360 --> 1:43:50.840
+ is what I didn't realize as a neuroscientist
+
+1:43:50.840 --> 1:43:55.120
+ were that these genomes are not only incomplete,
+
+1:43:55.120 --> 1:43:58.200
+ but they have lots of errors in them.
+
+1:43:58.200 --> 1:44:01.760
+ False gene duplications where mother and father chromosomes
+
+1:44:01.760 --> 1:44:03.880
+ were so different from each other
+
+1:44:03.880 --> 1:44:06.680
+ that the genome algorithm, assembly algorithms,
+
+1:44:06.680 --> 1:44:08.280
+ treated them as two different genes
+
+1:44:08.280 --> 1:44:10.480
+ in this part of the chromosome.
+
+1:44:10.480 --> 1:44:12.840
+ So there are a lot of these false duplicated genes
+
+1:44:12.840 --> 1:44:16.120
+ that people were thought were real, but were not,
+
+1:44:16.120 --> 1:44:18.400
+ or missing parts of the genome
+
+1:44:18.400 --> 1:44:21.680
+ because the enzymes used to sequence the DNA
+
+1:44:21.680 --> 1:44:23.800
+ couldn't get through this regulatory region
+
+1:44:23.800 --> 1:44:28.440
+ that folded up on itself and made it hard to sequence.
+
+1:44:28.440 --> 1:44:31.680
+ And so I end up in these consortiums
+
+1:44:31.680 --> 1:44:35.200
+ pulling in the genome sequencing companies
+
+1:44:35.200 --> 1:44:38.360
+ developing the technology to work with us
+
+1:44:38.360 --> 1:44:39.680
+ to improve it further.
+
+1:44:39.680 --> 1:44:41.880
+ And the computer science guys
+
+1:44:41.880 --> 1:44:44.200
+ who then take that data and that technology
+
+1:44:44.200 --> 1:44:45.920
+ and try to make the complete genomes
+
+1:44:45.920 --> 1:44:47.920
+ and make the algorithms better
+
+1:44:47.920 --> 1:44:51.520
+ to produce what we now just did recently,
+
+1:44:51.520 --> 1:44:53.400
+ led by an effort by Adam Philippi,
+
+1:44:53.400 --> 1:44:56.160
+ is the first human telomere to telomere genome
+
+1:44:56.160 --> 1:45:00.400
+ with no errors, all complete, no missing sequence.
+
+1:45:00.400 --> 1:45:02.040
+ And now we're trying to do the same thing
+
+1:45:02.040 --> 1:45:04.440
+ with vertebrates and other species.
+
+1:45:04.440 --> 1:45:06.560
+ Actually, we improved that before we got
+
+1:45:06.560 --> 1:45:08.680
+ to what we call telomere to telomere,
+
+1:45:08.680 --> 1:45:10.840
+ from one end of the chromosome to another.
+
+1:45:10.840 --> 1:45:14.760
+ And what we're discovering is in this dark matter
+
+1:45:14.760 --> 1:45:17.280
+ of the genome that was missing before,
+
+1:45:17.280 --> 1:45:20.160
+ turns out to be some regulatory regions
+
+1:45:20.160 --> 1:45:22.920
+ that are specialized in vocal learning species
+
+1:45:22.920 --> 1:45:26.280
+ and we think are involved in developing speech circuits.
+
+1:45:26.280 --> 1:45:30.720
+ Incredible, so much to learn and that we're going to learn
+
+1:45:30.720 --> 1:45:32.120
+ from this information.
+
+1:45:32.120 --> 1:45:35.280
+ Early on in these genome projects and connectome projects,
+
+1:45:35.280 --> 1:45:37.040
+ I confess I was a little bit cynical.
+
+1:45:37.040 --> 1:45:38.560
+ This would be about 10, 15 years ago.
+
+1:45:38.560 --> 1:45:42.640
+ I thought, okay, necessary, but not sufficient for anything.
+
+1:45:42.640 --> 1:45:44.600
+ We need it, but it's not clear what's going to happen.
+
+1:45:44.600 --> 1:45:46.240
+ But you just gave a very clear example
+
+1:45:46.240 --> 1:45:49.640
+ of what we stand to learn from this kind of information.
+
+1:45:49.640 --> 1:45:52.600
+ And I know from the conservation side,
+
+1:45:52.600 --> 1:45:53.800
+ there's a huge interest in this
+
+1:45:53.800 --> 1:45:55.440
+ because even though we would prefer
+
+1:45:55.440 --> 1:45:58.840
+ to keep all these species alive rather than clone them,
+
+1:45:58.840 --> 1:46:01.360
+ these sorts of projects do offer the possibility
+
+1:46:01.360 --> 1:46:04.560
+ of potentially recreating species that were lost
+
+1:46:04.560 --> 1:46:09.440
+ due to our own ignorance or missteps or what have you.
+
+1:46:09.440 --> 1:46:12.200
+ Yes, and along those lines,
+
+1:46:13.520 --> 1:46:16.160
+ because we got involved in genomics,
+
+1:46:16.160 --> 1:46:19.400
+ some of the first species that we start working on
+
+1:46:19.400 --> 1:46:21.560
+ are critically endangered species.
+
+1:46:21.560 --> 1:46:26.560
+ And I'm doing that not only for perspectives
+
+1:46:26.560 --> 1:46:27.560
+ to understand their brains
+
+1:46:27.560 --> 1:46:29.440
+ and the genes involved in their brain function,
+
+1:46:29.440 --> 1:46:31.880
+ but I feel like it's a moral duty.
+
+1:46:31.880 --> 1:46:34.640
+ So the fact that now I've become more involved
+
+1:46:34.640 --> 1:46:37.720
+ in genome biology and have helped develop these tools
+
+1:46:37.720 --> 1:46:39.080
+ for more complete genomes,
+
+1:46:39.080 --> 1:46:43.920
+ let's capture their genetic code now before they're gone.
+
+1:46:43.920 --> 1:46:48.000
+ And could we use that information to resurrect the species
+
+1:46:48.000 --> 1:46:51.040
+ at some future time, if not in my lifetime,
+
+1:46:51.040 --> 1:46:54.880
+ in some time in the future and generations ahead of us?
+
+1:46:54.880 --> 1:46:59.600
+ And so in anticipation of that,
+
+1:46:59.600 --> 1:47:02.120
+ we created a database we call the Genome Arc,
+
+1:47:03.120 --> 1:47:06.000
+ and no pun intended, like NOAA's arc,
+
+1:47:06.000 --> 1:47:08.400
+ meant to store the genetic code
+
+1:47:08.400 --> 1:47:10.920
+ as complete genome assemblies as possible
+
+1:47:10.920 --> 1:47:14.720
+ for all species on the planet to be used for basic science,
+
+1:47:14.720 --> 1:47:17.360
+ but also some point in the future.
+
+1:47:17.360 --> 1:47:19.440
+ And because of that,
+
+1:47:19.440 --> 1:47:21.720
+ funding agencies or private foundations
+
+1:47:21.720 --> 1:47:23.480
+ that are interested in conservation
+
+1:47:23.480 --> 1:47:26.680
+ have been reaching out to me now, a neuroscientist,
+
+1:47:26.680 --> 1:47:30.400
+ to help them out in producing high quality genome data
+
+1:47:30.400 --> 1:47:32.440
+ of endangered species that they can use,
+
+1:47:32.440 --> 1:47:34.200
+ like Revive and Restore,
+
+1:47:34.200 --> 1:47:36.560
+ who want to resurrect the passenger pigeon,
+
+1:47:36.560 --> 1:47:39.800
+ or Colossal, who wants to resurrect the wooly mammoth.
+
+1:47:39.800 --> 1:47:43.040
+ And so we're producing high quality genomes for these groups
+
+1:47:43.040 --> 1:47:44.720
+ for their conservation projects.
+
+1:47:44.720 --> 1:47:47.280
+ What a terrific and important initiative.
+
+1:47:47.280 --> 1:47:49.160
+ And I think for those listening today,
+
+1:47:49.160 --> 1:47:52.120
+ they now certainly understand the value
+
+1:47:52.120 --> 1:47:56.520
+ of deeply understanding the brain structures
+
+1:47:56.520 --> 1:47:58.440
+ and genomes of different species,
+
+1:47:58.440 --> 1:48:00.360
+ because I confess,
+
+1:48:00.360 --> 1:48:02.840
+ even though I knew a bit of the songbird literature,
+
+1:48:02.840 --> 1:48:03.920
+ and I certainly understand
+
+1:48:03.920 --> 1:48:05.480
+ that humans have speech and language,
+
+1:48:05.480 --> 1:48:08.080
+ I had no idea that there was so much convergence
+
+1:48:08.080 --> 1:48:10.280
+ of function, structure, and genomes.
+
+1:48:10.280 --> 1:48:14.120
+ And to me, I feel a lot more like an ape
+
+1:48:14.120 --> 1:48:15.760
+ than I do a songbird.
+
+1:48:15.760 --> 1:48:18.560
+ And yet here we are with the understanding
+
+1:48:18.560 --> 1:48:20.440
+ that there's a lot more similarity
+
+1:48:20.440 --> 1:48:22.680
+ between songbirds and humans
+
+1:48:22.680 --> 1:48:24.360
+ than I certainly ever thought before.
+
+1:48:24.360 --> 1:48:27.400
+ Yeah, something very close to home for us humans,
+
+1:48:27.400 --> 1:48:31.160
+ I can give you an example of, is evolution of skin color.
+
+1:48:32.080 --> 1:48:35.160
+ In skin color, we use it, unfortunately,
+
+1:48:35.160 --> 1:48:37.200
+ for racism and so forth.
+
+1:48:37.200 --> 1:48:38.640
+ We use it also for good things,
+
+1:48:38.640 --> 1:48:41.360
+ to let in more light or let out less light,
+
+1:48:41.360 --> 1:48:43.720
+ depending on the part of the planet
+
+1:48:43.720 --> 1:48:45.360
+ our population evolved in.
+
+1:48:45.360 --> 1:48:47.640
+ And most people think dark-skinned people
+
+1:48:47.640 --> 1:48:50.080
+ all evolved from the same dark-skinned person,
+
+1:48:50.080 --> 1:48:51.280
+ and light-skinned people
+
+1:48:51.280 --> 1:48:52.840
+ all evolved from the same light-skinned person,
+
+1:48:52.840 --> 1:48:54.520
+ but that's not the case.
+
+1:48:54.520 --> 1:48:57.520
+ Dark skin and light skin amongst humans
+
+1:48:57.520 --> 1:49:00.720
+ has evolved independently multiple times,
+
+1:49:00.720 --> 1:49:03.720
+ like in the Pacific Islands versus Africa.
+
+1:49:03.720 --> 1:49:07.160
+ And it's just depending on the angle of light
+
+1:49:07.160 --> 1:49:08.520
+ hitting the Earth,
+
+1:49:08.520 --> 1:49:10.720
+ as to whether you need more protection from the sun
+
+1:49:10.720 --> 1:49:12.800
+ or less protection,
+
+1:49:12.800 --> 1:49:16.800
+ that's also associated with vitamin D synthesis in the skin.
+
+1:49:16.800 --> 1:49:20.440
+ And so, and each time
+
+1:49:22.080 --> 1:49:26.200
+ where a darker or lighter skin evolved independently,
+
+1:49:26.200 --> 1:49:27.600
+ it hit the same gene.
+
+1:49:27.600 --> 1:49:32.600
+ You know, the melatonin receptors, that's right, yes, yeah.
+
+1:49:33.840 --> 1:49:37.160
+ Genes that are involved in melanin formation.
+
+1:49:37.160 --> 1:49:41.080
+ And so, those genes evolved some of the same mutations,
+
+1:49:41.080 --> 1:49:42.680
+ even in different species.
+
+1:49:42.680 --> 1:49:44.360
+ It's not just humans.
+
+1:49:44.360 --> 1:49:48.280
+ In equatorial regions, there are darker-skinned animals
+
+1:49:48.280 --> 1:49:50.600
+ than going away from the equator.
+
+1:49:50.600 --> 1:49:52.240
+ All right, I think of arctic foxes and things like that.
+
+1:49:52.240 --> 1:49:53.240
+ Yes, that's right, that's right.
+
+1:49:53.240 --> 1:49:54.720
+ Polar bears, you know.
+
+1:49:54.720 --> 1:49:59.720
+ And so, some of the same genes are used
+
+1:50:00.280 --> 1:50:03.200
+ in an evolutionary perspective to evolve in a similar way
+
+1:50:03.200 --> 1:50:05.160
+ within and across species.
+
+1:50:05.160 --> 1:50:06.200
+ Incredible.
+
+1:50:06.200 --> 1:50:08.360
+ And that's the same thing happening in the brain too.
+
+1:50:08.360 --> 1:50:10.040
+ Language is no exception.
+
+1:50:10.040 --> 1:50:12.760
+ Well, I have to say, as somebody who is a, you know,
+
+1:50:12.760 --> 1:50:15.880
+ career neuroscientist, but as I mentioned several times now,
+
+1:50:15.880 --> 1:50:18.320
+ who also adores the animal kingdom,
+
+1:50:18.320 --> 1:50:22.240
+ but is also obsessed with speech and language
+
+1:50:22.240 --> 1:50:27.240
+ and at a distance, not as a practitioner of music and dance,
+
+1:50:28.840 --> 1:50:31.360
+ this has been an incredible conversation
+
+1:50:31.360 --> 1:50:33.480
+ and opportunity for me to learn.
+
+1:50:33.480 --> 1:50:35.600
+ I know I speak for a tremendous number of people,
+
+1:50:35.600 --> 1:50:37.400
+ and I just really want to say thank you
+
+1:50:37.400 --> 1:50:38.880
+ for joining us today.
+
+1:50:38.880 --> 1:50:40.080
+ You are incredibly busy.
+
+1:50:40.080 --> 1:50:42.600
+ It's clear from your description of your science
+
+1:50:42.600 --> 1:50:44.240
+ and your knowledge base that you are involved
+
+1:50:44.240 --> 1:50:47.360
+ in a huge number of things, very busy.
+
+1:50:47.360 --> 1:50:50.320
+ So thank you for taking the time to speak to all of us.
+
+1:50:50.320 --> 1:50:52.120
+ Thank you for the work that you're doing,
+
+1:50:52.120 --> 1:50:53.680
+ both on speech and language,
+
+1:50:53.680 --> 1:50:55.800
+ but also this important work on genomes
+
+1:50:55.800 --> 1:51:00.760
+ and conservation of endangered species and far more.
+
+1:51:00.760 --> 1:51:03.400
+ And I have to say, if you would agree to come back
+
+1:51:03.400 --> 1:51:05.040
+ and speak to us again sometime,
+
+1:51:05.040 --> 1:51:06.560
+ I'm certain that if we were to sit down
+
+1:51:06.560 --> 1:51:08.240
+ even six months or a year from now,
+
+1:51:08.240 --> 1:51:09.400
+ there's going to be a lot more to come.
+
+1:51:09.400 --> 1:51:10.760
+ Yeah, we have some things cooking.
+
+1:51:10.760 --> 1:51:13.400
+ And thank you for inviting me here
+
+1:51:13.400 --> 1:51:15.400
+ to get the word out to the community
+
+1:51:16.440 --> 1:51:18.440
+ of what's going on in the science world.
+
+1:51:18.440 --> 1:51:20.680
+ Well, we're honored and very grateful to you, Eric.
+
+1:51:20.680 --> 1:51:21.520
+ Thank you.
+
+1:51:21.520 --> 1:51:22.400
+ You're welcome.
+
+1:51:22.400 --> 1:51:23.480
+ Thank you for joining me today
+
+1:51:23.480 --> 1:51:25.680
+ for my discussion with Dr. Eric Jarvis.
+
+1:51:25.680 --> 1:51:28.360
+ If you'd like to learn more about his laboratory's work,
+
+1:51:28.360 --> 1:51:30.160
+ you can go to Jarvis Lab,
+
+1:51:30.160 --> 1:51:35.000
+ spelled J-A-R-V-I-S, lab, all one word, jarvislab.net,
+
+1:51:35.000 --> 1:51:37.120
+ and there you can learn about all the various studies
+
+1:51:37.120 --> 1:51:38.940
+ taking place in his laboratory,
+
+1:51:38.940 --> 1:51:41.080
+ as well as some of the larger overarching themes
+
+1:51:41.080 --> 1:51:42.720
+ that are driving those studies,
+
+1:51:42.720 --> 1:51:45.980
+ including studies on human genomics and animal genomics
+
+1:51:45.980 --> 1:51:47.680
+ that surely are going to lead
+
+1:51:47.680 --> 1:51:51.200
+ to the next stage discoveries of how we learn
+
+1:51:51.200 --> 1:51:53.920
+ and think about and indeed use language.
+
+1:51:53.920 --> 1:51:56.320
+ If you're learning from and are enjoying this podcast,
+
+1:51:56.320 --> 1:51:58.320
+ please subscribe to our YouTube channel.
+
+1:51:58.320 --> 1:52:00.740
+ That's a simple, zero-cost way to support us.
+
+1:52:00.740 --> 1:52:03.960
+ Please also subscribe to the podcast on Spotify and Apple.
+
+1:52:03.960 --> 1:52:05.880
+ And on both Spotify and Apple,
+
+1:52:05.880 --> 1:52:09.160
+ you have the opportunity to leave us up to a five-star review.
+
+1:52:09.160 --> 1:52:11.180
+ If you have questions or comments or suggestions
+
+1:52:11.180 --> 1:52:12.680
+ about topics you'd like us to cover
+
+1:52:12.680 --> 1:52:13.900
+ or guests you'd like us to interview
+
+1:52:13.900 --> 1:52:15.540
+ on the Huberman Lab Podcast,
+
+1:52:15.540 --> 1:52:18.240
+ please put those in the comment section on YouTube.
+
+1:52:18.240 --> 1:52:21.180
+ We do read all those comments and we do take them to heart.
+
+1:52:21.180 --> 1:52:22.800
+ Please also check out the sponsors mentioned
+
+1:52:22.800 --> 1:52:24.660
+ at the beginning of today's podcast.
+
+1:52:24.660 --> 1:52:26.540
+ And check out Momentous Supplements,
+
+1:52:26.540 --> 1:52:28.200
+ our new partners in the supplement space,
+
+1:52:28.200 --> 1:52:30.220
+ and check out Athletic Greens.
+
+1:52:30.220 --> 1:52:32.520
+ That's the best way to support this podcast.
+
+1:52:32.520 --> 1:52:34.760
+ If you're not already following us on social media,
+
+1:52:34.760 --> 1:52:36.060
+ please do so.
+
+1:52:36.060 --> 1:52:37.800
+ We are Huberman Lab on Twitter
+
+1:52:37.800 --> 1:52:39.860
+ and we are also Huberman Lab on Instagram.
+
+1:52:39.860 --> 1:52:43.200
+ And both places I cover science and science-related tools,
+
+1:52:43.200 --> 1:52:44.760
+ some of which overlap with the content
+
+1:52:44.760 --> 1:52:45.920
+ of the Huberman Lab Podcast,
+
+1:52:45.920 --> 1:52:48.160
+ but much of which is unique from the content
+
+1:52:48.160 --> 1:52:49.680
+ covered on the Huberman Lab Podcast.
+
+1:52:49.680 --> 1:52:51.400
+ Again, that's Huberman Lab on Instagram
+
+1:52:51.400 --> 1:52:53.040
+ and Huberman Lab on Twitter.
+
+1:52:53.040 --> 1:52:55.960
+ Please also check out our Neural Network monthly newsletter.
+
+1:52:55.960 --> 1:52:59.440
+ This is a newsletter that has summaries of podcast episodes.
+
+1:52:59.440 --> 1:53:01.720
+ It also includes a lot of actionable protocols.
+
+1:53:01.720 --> 1:53:03.780
+ It's very easy to sign up for the newsletter.
+
+1:53:03.780 --> 1:53:05.940
+ You go to HubermanLab.com, click on the menu,
+
+1:53:05.940 --> 1:53:08.000
+ go to newsletter, you supply your email,
+
+1:53:08.000 --> 1:53:10.000
+ but we do not share your email with anybody.
+
+1:53:10.000 --> 1:53:12.900
+ We have a very clear and rigorous privacy policy,
+
+1:53:12.900 --> 1:53:15.120
+ which is we do not share your email with anybody.
+
+1:53:15.120 --> 1:53:17.640
+ And the newsletter comes out once a month
+
+1:53:17.640 --> 1:53:19.160
+ and it is completely zero cost.
+
+1:53:19.160 --> 1:53:21.200
+ Again, just go to HubermanLab.com
+
+1:53:21.200 --> 1:53:23.660
+ and go to the Neural Network newsletter.
+
+1:53:23.660 --> 1:53:25.960
+ I'd also like to point out that the Huberman Lab Podcast
+
+1:53:25.960 --> 1:53:27.160
+ has a clips channel.
+
+1:53:27.160 --> 1:53:29.480
+ So these are brief clips,
+
+1:53:29.480 --> 1:53:31.520
+ anywhere from three to 10 minutes
+
+1:53:31.520 --> 1:53:33.420
+ that encompass single concepts
+
+1:53:33.420 --> 1:53:37.000
+ and actionable protocols related to sleep, to focus,
+
+1:53:37.000 --> 1:53:38.280
+ interviews with various guests.
+
+1:53:38.280 --> 1:53:39.640
+ We talk about things like caffeine,
+
+1:53:39.640 --> 1:53:42.760
+ when to drink caffeine relative to sleep, alcohol,
+
+1:53:42.760 --> 1:53:44.720
+ when and how and if anyone should ingest it
+
+1:53:44.720 --> 1:53:48.400
+ relative to sleep, dopamine, serotonin, mental health,
+
+1:53:48.400 --> 1:53:50.000
+ physical health, and on and on,
+
+1:53:50.000 --> 1:53:51.960
+ all the things that relate to the topics
+
+1:53:51.960 --> 1:53:53.300
+ most of interest to you.
+
+1:53:53.300 --> 1:53:55.960
+ You can find that easily by going to YouTube,
+
+1:53:55.960 --> 1:53:58.880
+ look for Huberman Lab clips in the search area,
+
+1:53:58.880 --> 1:54:00.440
+ and it will take you there, subscribe,
+
+1:54:00.440 --> 1:54:02.780
+ and we are constantly updating those with new clips.
+
+1:54:02.780 --> 1:54:04.320
+ This is especially useful, I believe,
+
+1:54:04.320 --> 1:54:06.340
+ for people that have missed some of the earlier episodes
+
+1:54:06.340 --> 1:54:07.960
+ or you're still working through the back catalog
+
+1:54:07.960 --> 1:54:09.040
+ of Huberman Lab Podcasts,
+
+1:54:09.040 --> 1:54:11.160
+ which admittedly can be rather long.
+
+1:54:11.160 --> 1:54:13.460
+ And last, but certainly not least,
+
+1:54:13.460 --> 1:54:15.260
+ thank you for your interest in science.
+
+1:54:15.260 --> 1:54:33.760
+ I'll see you in the next one.
+

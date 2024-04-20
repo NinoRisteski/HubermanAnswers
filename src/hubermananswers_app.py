@@ -35,7 +35,7 @@ with gr.Blocks() as demo:
             ##############
             # SECOND ROW:
             ##############
-            with gr.Row():
+            with gr.Row()as row_two:
                 input_txt = gr.Textbox(
                     lines=4,
                     scale=8,
@@ -46,7 +46,7 @@ with gr.Blocks() as demo:
             ##############
             # Third ROW:
             ##############
-            with gr.Row() as row_two:
+            with gr.Row() as row_three:
                 text_submit_btn = gr.Button(value="Submit")
                 sidebar_state = gr.State(False)
                 btn_toggle_sidebar = gr.Button(
