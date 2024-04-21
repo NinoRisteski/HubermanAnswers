@@ -1,11 +1,9 @@
 import os
 import re
-import ast 
+import ast
 import html
 import time
 import openai
-import gradio as gr
-from openai import OpenAI
 from typing import List, Tuple
 from utils.load_config import LoadConfig
 from langchain.vectorstores.chroma import Chroma
@@ -15,13 +13,12 @@ APPCFG = LoadConfig()
 class Chatbot:
     @staticmethod
     def respond(chatbot: List, message: str, temperature: float = 0.0) -> Tuple:
-        if  os.path.exists(APPCFG.persist_directory):
+        if os.path.exists(APPCFG.persist_directory):
             vectordb = Chroma(persist_directory=APPCFG.persist_directory,
                               embedding_function=APPCFG.embedding_model)
         else:
             chatbot.append(
-                (message, f"VectorDB doesn't exist. Please upload a document and execute the 'upload_data_manually.py' to create VectorDB."))
-                
+                (message, "VectorDB doesn't exist. Please upload a document and execute the 'upload_data_manually.py' to create VectorDB."))
             return "", chatbot, None
 
         docs = vectordb.similarity_search(message, k=APPCFG.k)
@@ -29,12 +26,11 @@ class Chatbot:
 
         question = "# User new question:\n" + message
         retrieved_content = Chatbot.clean_references(docs)
-        # Memory: previous two Q&A pairs
         chat_history = f"Chat history:\n {str(chatbot[-APPCFG.number_of_q_a_pairs:])}\n\n"
         prompt = f"{chat_history}{retrieved_content}{question}"
         print("========================")
         print(prompt)
-        client = OpenAI()
+        client = openai.OpenAI()
         response = client.chat.completions.create(
             model=APPCFG.llm_engine,
             messages=[
@@ -52,59 +48,33 @@ class Chatbot:
 
     @staticmethod
     def clean_references(documents: List) -> str:
-        server_url = "http://localhost:8000"
-        documents = [str(x)+"\n\n" for x in documents]
-        markdown_documents = ""
-        counter = 1
-
+        documents_cleaned = ""
         for doc in documents:
-            match = re.match(r"page_content=(.*?)( metadata=\{.*\})", doc)
-            if match:
-                content, metadata = match.groups()
-                metadata = metadata.split('=', 1)[1]
-                metadata_dict = ast.literal_eval(metadata)
+            content, metadata = Chatbot.extract_vtt_content_and_metadata(doc)
+            cleaned_content = Chatbot.clean_text(content)
+            metadata_formatted = Chatbot.format_metadata(metadata)
+            documents_cleaned += f"## Content:\n{cleaned_content}\n\n{metadata_formatted}\n\n"
+        return documents_cleaned
 
-            else:
-                content = ""
-                metadata = ""
-                metadata_dict = {}
+    @staticmethod
+    def extract_vtt_content_and_metadata(doc):
+        # Print all available attributes and methods of the Document object
+        print(dir(doc))
+        # Then, use the correct attribute or method based on the output
+        content = doc.content if hasattr(doc, 'content') else ""
+        metadata = doc.metadata if hasattr(doc, 'metadata') else {}
+        return content, metadata
 
-            # Decode newlines and escape sequences
-            content = bytes(content, 'utf-8').decode('unicode_escape')
+    @staticmethod
+    def clean_text(text: str) -> str:
+        # Cleaning operations
+        text = html.unescape(text)  # Decode HTML entities
+        text = re.sub(r'\s+', ' ', text).strip()  # Remove extra spaces
+        text = text.encode('latin1').decode('utf-8', 'ignore')  # Fix encoding issues
+        return text
 
-            # Replace escaped newlines with actual newlines
-            content = re.sub(r"\\n", '\n', content)
-
-            # Replace special tokens
-            content = re.sub(r'\\n', '\n', content)
-
-            # Remove any remaining multiple spaces
-            content = re.sub(r'\s+', ' ', content).strip()
-
-            # Decode html entities
-            content = html.unescape(content)
-
-            # Replace incorrect unicode characters with correct ones
-            content = content.encode('latin1').decode('utf-8', 'ignore')
-
-            # Remove or replace special characters and mathematical symbols
-            content = re.sub(r'â', '-', content)
-            content = re.sub(r'â', '∈', content)
-            content = re.sub(r'Ã', '×', content)
-            content = re.sub(r'ï¬', 'fi', content)
-            content = re.sub(r'â', '+', content)
-            content = re.sub(r'Â·', '·', content)
-            content = re.sub(r'â©', '∩', content)
-            content = re.sub(r'â', '$', content)
-
-
-            txt_url = f"{server_url}/{os.path.basename(metadata_dict['description'])}"
-
-            # Append cleaned content to the markdown string with two newlines between documents
-            markdown_documents += f"# Retrieved content {counter}:\n" + content + "\n\n" + \
-                f"description: {os.path.basename(metadata_dict['description'])}" + " | " +\
-                f"Page number: {str(metadata_dict['page'])}" + " | " +\
-                f"[View Episode txt]({txt_url})" "\n\n"
-            counter += 1
-
-        return markdown_documents
+    @staticmethod
+    def format_metadata(metadata: dict) -> str:
+        # Formatting metadata for display
+        metadata_formatted = " | ".join(f"{key}: {value}" for key, value in metadata.items())
+        return f"### Metadata:\n{metadata_formatted}"
