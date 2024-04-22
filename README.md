@@ -1,2 +1,2 @@
 # HubermanAnswers
-RAG/GPT System for answering HubermanLab related questions.
+RAG/LLM System for answering HubermanLab Podcast related questions.
