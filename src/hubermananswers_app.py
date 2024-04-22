@@ -1,9 +1,10 @@
 import sys
-sys.path.append('/Users/fliprise/HubermanAnswers')
-
 import gradio as gr
 from utils.chatbot import Chatbot
 from utils.ui_settings import UISettings
+
+sys.path.append('/Users/fliprise/HubermanAnswers')
+
 
 with gr.Blocks() as demo:
     with gr.Tabs():
@@ -59,6 +60,7 @@ with gr.Blocks() as demo:
             # Process:
             ##############
 
+            # This line sets up the functionality for submitting a question and getting a response from the chatbot
             txt_msg = input_txt.submit(fn=Chatbot.respond,
                                        inputs=[chatbot, input_txt,
                                                 temperature_bar],
@@ -67,6 +69,7 @@ with gr.Blocks() as demo:
                                        queue=False).then(lambda: gr.Textbox(interactive=True),
                                                          None, [input_txt], queue=False)
 
+            # This line sets up the functionality for clicking the submit button and getting a response from the chatbot
             txt_msg = text_submit_btn.click(fn=Chatbot.respond,
                                             inputs=[chatbot, input_txt,
                                                     temperature_bar],

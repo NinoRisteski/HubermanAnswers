@@ -17,6 +17,7 @@ class PrepareVectorDB:
             chunk_size: int,
             chunk_overlap: int,
     ) -> None:
+        # Initialize the PrepareVectorDB class with the given parameters
         self.embedding_model_engine = embedding_model_engine
         self.text_splitter = RecursiveCharacterTextSplitter(
             chunk_size=chunk_size,
@@ -28,9 +29,11 @@ class PrepareVectorDB:
         self.persist_directory = persist_directory
         self.embedding = OpenAIEmbeddings()
 
+        # Set up logging configuration
         logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
     def __load_all_documents(self) -> List:
+        # Load all documents from the specified directory
         logging.info("Loading documents from directory: %s", self.data_directory)
         doc_files = glob.glob(os.path.join(self.data_directory, '*.vtt'))
         with concurrent.futures.ThreadPoolExecutor() as executor:
@@ -40,6 +43,7 @@ class PrepareVectorDB:
         return docs
 
     def __load_document(self, file_path: str) -> Document:
+        # Load a single document from the given file path
         try:
             with open(file_path, 'r', encoding='utf-8') as file:
                 content = file.read()
@@ -50,17 +54,20 @@ class PrepareVectorDB:
             return None
 
     def __extract_text_from_vtt(self, content: str) -> str:
+        # Extract the text from a VTT file content
         lines = content.split('\n')
         text = [line.strip() for line in lines if not line.startswith(('NOTE', 'WEBVTT', 'STYLE')) and '-->' not in line]
         return ' '.join(text).replace('  ', ' ')
 
     def __chunk_documents(self, docs: List) -> List:
+        # Chunk the documents into smaller parts
         logging.info("Chunking documents")
         chunked_documents = self.text_splitter.split_documents(docs)
         logging.info("Total number of chunks: %d", len(chunked_documents))
         return chunked_documents
     
     def prepare_and_save_vectordb(self):
+        # Prepare and save the VectorDB
         docs = self.__load_all_documents()
         chunked_documents = self.__chunk_documents(docs)
         logging.info("Preparing VectorDB...")
