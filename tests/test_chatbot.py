@@ -28,5 +28,19 @@ class TestChatbot():
         assert"author: John", cleaned_documents
         assert"author: Jane", cleaned_documents
 
+    def test_clean_text(self):
+        text = "&lt;p&gt;This is a &amp;lt;strong&amp;gt;test&amp;lt;/strong&amp;gt;.&lt;/p&gt;"
+
+        cleaned_text = Chatbot.clean_text(text)
+
+        assert cleaned_text, "<p>This is a &lt;strong&gt;test&lt;/strong&gt;.</p>"
+
+    def test_format_metadata(self):
+        metadata = {"author": "John", "date": "2022-01-01"}
+
+        formatted_metadata = Chatbot.format_metadata(metadata)
+
+        assert formatted_metadata, "### Metadata:\nauthor: John | date: 2022-01-01"
+
 if __name__ == '__main__':
     pytest.main()
