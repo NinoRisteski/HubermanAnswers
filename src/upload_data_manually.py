@@ -5,8 +5,6 @@ sys.path.append('/Users/fliprise/HubermanAnswers')
 from utils.prepare_vectordb import PrepareVectorDB
 from utils.load_config import LoadConfig
 
-
-
 CONFIG = LoadConfig() 
 
 def upload_data_manually() -> None:

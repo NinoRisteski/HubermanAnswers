@@ -61,7 +61,6 @@ with gr.Blocks() as demo:
             ##############
             # Process:
             ##############
-
             txt_msg = input_txt.submit(fn=Chatbot.respond,
                                        inputs=[chatbot, input_txt,
                                                 temperature_bar],
