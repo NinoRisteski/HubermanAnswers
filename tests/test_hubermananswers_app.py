@@ -1,7 +1,10 @@
+import sys
+sys.path.append('/Users/fliprise/HubermanAnswers')
+
 import pytest
 from unittest.mock import patch
 from utils.chatbot import Chatbot
-import src.hubermananswers_app
+from src.hubermananswers_app import demo
 
 # Create a fixture for the application
 @pytest.fixture
