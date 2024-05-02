@@ -1,7 +1,9 @@
 import os
 from unittest.mock import MagicMock, patch
 import pytest
-from utils.prepare_vectordb import PrepareVectorDB, Document  
+from unittest.mock import patch, mock_open
+from utils.prepare_vectordb import PrepareVectorDB, Document 
+from langchain.text_splitter import RecursiveCharacterTextSplitter
 
 @pytest.fixture
 def vectordb_setup():
@@ -33,11 +35,9 @@ def test_load_all_documents(mock_glob, mock_join, vectordb_setup):
         docs = vectordb_setup._PrepareVectorDB__load_all_documents()
         assert len(docs) == 2  # Assumes 2 documents were mocked to be loaded
 
-from unittest.mock import patch, mock_open
-
 @patch('builtins.open', new_callable=mock_open, read_data="WEBVTT\nNOTE Some note\n1\n00:00:01.000 --> 00:00:04.000\nHello world!")
 def test_load_document(mocked_open, vectordb_setup):
-    doc = vectordb_setup._PrepareVectorDB__load_document('/path/to/data/doc1.vtt')
+    doc = vectordb_setup._PrepareVectorDB__load_document('data/docs/ADHD & How Anyone Can Improve Their Focus ｜ Huberman Lab Podcast #37.mp3.vtt')
     assert doc.text == "Hello world!"
 
 

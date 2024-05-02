@@ -4,7 +4,7 @@ from utils.chatbot import Chatbot, LoadConfig
 
 @pytest.fixture
 def setup_chatbot():
-    LoadConfig.persist_directory = '/path/to/vectordb'
+    LoadConfig.persist_directory = 'data/vectordb'
     LoadConfig.embedding_model = MagicMock()
     LoadConfig.k = 5
     LoadConfig.number_of_q_a_pairs = 2
