@@ -14,7 +14,7 @@ def test_config_loaded():
 
 # Test the scenario where the persist directory is empty and data needs to be uploaded
 @patch('os.listdir')
-@patch('your_module.PrepareVectorDB')
+@patch('src.upload_data_manually.PrepareVectorDB')
 def test_upload_data_manually_empty_directory(mock_preparevectordb, mock_listdir):
     mock_listdir.return_value = []  # Simulate empty directory
     mock_instance = mock_preparevectordb.return_value
@@ -32,7 +32,7 @@ def test_upload_data_manually_empty_directory(mock_preparevectordb, mock_listdir
 
 # Test the scenario where the persist directory is not empty and upload should be skipped
 @patch('os.listdir')
-@patch('your_module.PrepareVectorDB')
+@patch('src.upload_data_manually.PrepareVectorDB')
 def test_upload_data_manually_non_empty_directory(mock_preparevectordb, mock_listdir):
     mock_listdir.return_value = ['file1', 'file2']  # Simulate non-empty directory
     mock_instance = mock_preparevectordb.return_value
