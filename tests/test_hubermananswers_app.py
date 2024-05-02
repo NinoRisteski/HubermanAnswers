@@ -1,7 +1,7 @@
 import pytest
 from unittest.mock import patch
 from utils.chatbot import Chatbot
-import hubermananswers_app
+import src.hubermananswers_app
 
 # Create a fixture for the application
 @pytest.fixture
@@ -13,7 +13,7 @@ def test_app_launch(app):
     with patch('gradio.Blocks.launch'):
         app.launch()
         assert True  
-        
+
 # Test the chatbot response mechanism
 @patch.object(Chatbot, 'respond', return_value=["", "Hello, how can I help?", ""])
 def test_chatbot_interaction(mock_respond, app):
