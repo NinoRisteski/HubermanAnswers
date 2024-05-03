@@ -29,8 +29,8 @@ def test_init_loads_config_and_creates_directory(mock_env, mock_app_config, mock
             with patch('your_module.here', return_value="/base/path"):
                 with patch('os.makedirs') as mock_makedirs:
                     config = LoadConfig()
-                    assert config.llm_engine == "davinci"
-                    assert config.persist_directory == "/base/path/tmp/persist"
+                    assert config.llm_engine == "text-embedding-ada-002"
+                    assert config.persist_directory == "data/vectordb/processed/chroma/"
                     mock_makedirs.assert_called_once_with("/base/path/tmp/persist")
 
 def test_load_openai_cfg_uses_env_var(mock_env, mock_openai_client):
@@ -42,7 +42,7 @@ def test_create_directory_creates_directory_if_not_exists():
         with patch('os.makedirs') as mock_makedirs:
             config = LoadConfig()
             config.create_directory("/new/dir")
-            mock_makedirs.assert_called_once_with("/new/dir")
+            mock_makedirs.assert_called_once_with("/new/dir2")
 
 def test_create_directory_does_not_create_if_exists():
     with patch('os.path.exists', return_value=True):
@@ -63,7 +63,7 @@ def test_remove_directory_removes_existing_directory(capsys):
 def test_remove_directory_handles_non_existing_directory(capsys):
     with patch('os.path.exists', return_value=False):
         config = LoadConfig()
-        config.remove_directory("/non-existing/dir")
+        config.remove_directory("/new/dir")
         captured = capsys.readouterr()
         assert "The directory '/non-existing/dir' does not exist." in captured.out
 
