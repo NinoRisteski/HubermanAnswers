@@ -37,7 +37,7 @@ def test_load_all_documents(mock_glob, mock_join, vectordb_setup):
 
 @patch('builtins.open', new_callable=mock_open, read_data="WEBVTT\nNOTE Some note\n1\n00:00:01.000 --> 00:00:04.000\nHello world!")
 def test_load_document(mocked_open, vectordb_setup):
-    doc = vectordb_setup._PrepareVectorDB__load_document('data/docs/ADHD & How Anyone Can Improve Their Focus ｜ Huberman Lab Podcast #37.mp3.vtt')
+    doc = vectordb_setup._PrepareVectorDB__load_document('Hello world!.vtt')
     assert doc.text == "Hello world!"
 
 

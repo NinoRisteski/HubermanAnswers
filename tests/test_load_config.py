@@ -10,12 +10,12 @@ def mock_env(monkeypatch):
 @pytest.fixture
 def mock_app_config():
     return {
-        "llm_config": {"engine": "davinci", "llm_system_role": "admin"},
+        "llm_config": {"engine": "gpt-3.5-turbo", "llm_system_role": "admin"},
         "directories": {"persist_directory": "/tmp/persist", "data_directory": "/tmp/data"},
         "retrieval_config": {"k": 5},
-        "embedding_model_config": {"engine": "ada"},
+        "embedding_model_config": {"engine": "text-embedding-ada-002"},
         "splitter_config": {"chunk_size": 512, "chunk_overlap": 50},
-        "memory": {"number_of_q_a_pairs": 100}
+        "memory": {"number_of_q_a_pairs": 2}
     }
 
 @pytest.fixture
