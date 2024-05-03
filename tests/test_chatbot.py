@@ -6,7 +6,7 @@ from utils.chatbot import Chatbot, LoadConfig
 def setup_chatbot():
     LoadConfig.persist_directory = 'data/vectordb'
     LoadConfig.embedding_model = MagicMock()
-    LoadConfig.k = 5
+    LoadConfig.k = 2
     LoadConfig.number_of_q_a_pairs = 2
     LoadConfig.llm_engine = 'text-davinci-003'
     LoadConfig.llm_system_role = "Initialize chat"

@@ -20,13 +20,13 @@ def mock_app_config():
 
 @pytest.fixture
 def mock_openai_client():
-    with patch('your_module.OpenAI') as MockClient:
+    with patch('openai.OpenAI') as MockClient:
         yield MockClient()
 
 def test_init_loads_config_and_creates_directory(mock_env, mock_app_config, mock_openai_client):
     with patch('builtins.open', mock_open(read_data="configs/app_config.yml")) as mock_file:
         with patch('yaml.load', return_value=mock_app_config):
-            with patch('your_module.here', return_value="/base/path"):
+            with patch('os.path.exists', return_value="/base/path"):
                 with patch('os.makedirs') as mock_makedirs:
                     config = LoadConfig()
                     assert config.llm_engine == "text-embedding-ada-002"
