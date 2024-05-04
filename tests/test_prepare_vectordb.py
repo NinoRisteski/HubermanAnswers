@@ -27,8 +27,8 @@ def test_constructor(vectordb_setup):
 @patch('glob.glob')
 def test_load_all_documents(mock_glob, mock_join, vectordb_setup):
     # Mock dependencies
-    mock_glob.return_value = ['data/docs/ADHD & How Anyone Can Improve Their Focus ｜ Huberman Lab Podcast #37.mp3.vtt', 'data/docs/Biological Influences On Sex, Sex Differences & Preferences ｜ Huberman Lab Podcast #14.mp3.vtt']
-    mock_join.return_value = 'data/docs/Control Pain & Heal Faster with Your Brain ｜ Huberman Lab Podcast #9.mp3.vtt'
+    mock_glob.return_value = ['data/docs/ADHD & How Anyone Can Improve Their Focus ｜ Huberman Lab Podcast #37.mp3.vtt']
+    mock_join.return_value = ['data/docs/Control Pain & Heal Faster with Your Brain ｜ Huberman Lab Podcast #9.mp3.vtt']
 
     with patch('concurrent.futures.ThreadPoolExecutor') as mock_executor:
         mock_executor.return_value.__enter__.return_value.map.return_value = [Document("text", {}), Document("more text", {})]

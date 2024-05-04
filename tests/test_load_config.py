@@ -29,7 +29,7 @@ def test_init_loads_config_and_creates_directory(mock_env, mock_app_config, mock
             with patch('os.path.exists', return_value="/base/path"):
                 with patch('os.makedirs') as mock_makedirs:
                     config = LoadConfig()
-                    assert config.llm_engine == "text-embedding-ada-002"
+                    assert config.llm_engine == "gpt-3.5-turbo"
                     assert config.persist_directory == "data/vectordb/processed/chroma/"
                     mock_makedirs.assert_called_once_with("/base/path/tmp/persist")
 
