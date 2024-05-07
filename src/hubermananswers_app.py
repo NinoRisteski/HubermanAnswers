@@ -42,7 +42,7 @@ with gr.Blocks() as demo:
                 input_txt = gr.Textbox(
                     lines=4,
                     scale=8,
-                    placeholder="Ask a question...",
+                    placeholder="How does body temperature affect high-performance and what cooling methods do you suggest?",
                     container=False,
                 )
 
