@@ -117,3 +117,5 @@ data/vectordb/processed/chroma
 HubermanAnswers/data/vectordb/processed/chroma/chroma.sqlite3
 
 app.log
+
+.DS_Store
