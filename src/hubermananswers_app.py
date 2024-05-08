@@ -21,7 +21,7 @@ with gr.Blocks() as demo:
                          max_lines=22,
                          interactive=False,
                          type="text",
-                         label="References",
+                         label="Source",
                          show_copy_button=True
                      )
 
@@ -53,7 +53,7 @@ with gr.Blocks() as demo:
                 text_submit_btn = gr.Button(value="Submit")
                 sidebar_state = gr.State(False)
                 btn_toggle_sidebar = gr.Button(
-                    value="References")
+                    value="Source")
                 btn_toggle_sidebar.click(UISettings.toggle_sidebar, [sidebar_state], [
                     reference_bar, sidebar_state])
                 temperature_bar = gr.Slider(minimum=0, maximum=1, value=0, step=0.1,
