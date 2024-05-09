@@ -2,18 +2,18 @@
 # Huberman Answers
 RAG/GPT System for answering your questions mentioned in the HubermanLab podcast.
 
-# Overview
+## Overview
 
-# Motivation
+## Motivation
 
-# Features
+## Features
 
-# Installation
+## Installation
 
-# Usage
+## Usage
 
-# Structure
+## Structure
 
-# Credits 
+## Credits 
 
-# Contact
+## Contact
