@@ -7,9 +7,10 @@ Submit your question and get insights on neuroscience, biology, and human perfor
 This chatbot is perfect for the curious people who want to learn about human performance quickly and efficiently from the great Huberman. 
 Plus, each answer comes with the name and number of the podcast episode if you want to watch it.
 
-## Features
+## Interface
+![Alt text](assets/ah-example-chat.png)
 
-## Installation
+## Schema
 
 ## Usage
 
