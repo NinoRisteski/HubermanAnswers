@@ -21,3 +21,4 @@ Plus, each answer comes with the name and number of the podcast episode if you w
 ## Credits 
 
 ## Contact
+If you liked this project, feel free to reach out on [X](https://twitter.com/ninoristeski) or [LinkedIn](https://www.linkedin.com/in/nino-risteski/).
