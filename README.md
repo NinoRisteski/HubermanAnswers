@@ -11,7 +11,7 @@ Plus, each answer comes with the name and number of the podcast episode if you w
 ![Alt text](assets/ah-example-chat.png)
 
 ## Data
-Raw file ranscripts from [here](https://www.simicvm.com/hubcap/), using yt-dlp to download . Audio files where transcribed with OpenAI's Whisper. 
+Raw file transcripts from [here](https://www.simicvm.com/hubcap/), using yt-dlp to download. Audio files where transcribed with OpenAI's Whisper. 
 ## Schema
 
 ## Usage
