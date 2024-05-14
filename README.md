@@ -16,8 +16,8 @@ You can find his project [here](https://www.simicvm.com/hubcap/).
 
 ### Data Acquisition
 
-* Episodes: Episodes were downloaded using the [yt-dlp](https://github.com/yt-dlp/yt-dlp) tool.
-* Transcription: The obtained audio files were transcribed using OpenAI's [Whisper](https://github.com/openai/whisper) `medium.en model`.
+* Episodes were downloaded using the [yt-dlp](https://github.com/yt-dlp/yt-dlp) tool.
+* The obtained audio files were transcribed using OpenAI's [Whisper](https://github.com/openai/whisper) `medium.en model`.
 
 ## Schema
 
@@ -31,5 +31,5 @@ You can find his project [here](https://www.simicvm.com/hubcap/).
 
 ## Contact
 If you liked this project, feel free to reach out on: 
-* [X](https://twitter.com/ninoristeski) or 
+* [X](https://twitter.com/ninoristeski)
 * [LinkedIn](https://www.linkedin.com/in/nino-risteski/).
