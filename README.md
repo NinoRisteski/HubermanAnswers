@@ -16,8 +16,8 @@ You can find his project [here](https://www.simicvm.com/hubcap/).
 
 ### Data Acquisition
 
-Episodes: Episodes were downloaded using the [yt-dlp](https://github.com/yt-dlp/yt-dlp) tool.
-Transcription: The obtained audio files were transcribed using OpenAI's [Whisper](https://github.com/openai/whisper) `medium.en model`.
+* Episodes: Episodes were downloaded using the [yt-dlp](https://github.com/yt-dlp/yt-dlp) tool.
+* Transcription: The obtained audio files were transcribed using OpenAI's [Whisper](https://github.com/openai/whisper) `medium.en model`.
 
 ## Schema
 
