@@ -27,18 +27,16 @@ Vector database (VectorDB) is generated within the data folder for the project's
 ## Usage
 
 1. Open app_config.py and fill in your GPT API credentials.
-2. Activate Your Environment.
-3. Ensure you are in the hubermananswers directory
+2. Activate Your Environment in each terminal.
+3. Ensure you are in the hubermananswers directory.
 
 4. Run the Application:
 
-In Terminal 1:
+* In Terminal 1:
+```python3 src\serve.py```
 
-python3 src\serve.py
-
-In Terminal 2:
-
-python3 src\hubermananswers_app.py
+* In Terminal 2:
+```python3 src\hubermananswers_app.py```
 
 
 ## Credits 
