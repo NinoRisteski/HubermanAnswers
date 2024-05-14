@@ -14,6 +14,9 @@ Plus, each answer comes with the name and number of the podcast episode if you w
 This project utilizes transcripts from the Huberman Lab podcast, originally transcribed by Marko Simic. 
 You can find his project [here](https://www.simicvm.com/hubcap/).
 
+Transcripts are stored in the data directory `data/docs`: For files that should be processed in advance.
+Vector database (VectorDB) is generated within the data folder for the project's functionality.
+
 ### Data Acquisition
 
 * Episodes were downloaded using the [yt-dlp](https://github.com/yt-dlp/yt-dlp) tool.
@@ -22,8 +25,6 @@ You can find his project [here](https://www.simicvm.com/hubcap/).
 ## Schema
 
 ## Usage
-
-## Structure
 
 ## Credits 
 *to be written: Huberman data credits and visuals credits*
