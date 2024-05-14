@@ -3,9 +3,9 @@ from unittest.mock import patch, MagicMock
 import pytest
 from src.upload_data_manually import upload_data_manually, CONFIG
 
-
 # Ensure the CONFIG object is properly loaded and has the expected attributes
 def test_config_loaded():
+    """Test that the CONFIG object has the expected attributes."""
     assert hasattr(CONFIG, "data_directory")
     assert hasattr(CONFIG, "persist_directory")
     assert hasattr(CONFIG, "embedding_model_engine")
@@ -16,6 +16,7 @@ def test_config_loaded():
 @patch('os.listdir')
 @patch('src.upload_data_manually.PrepareVectorDB')
 def test_upload_data_manually_empty_directory(mock_preparevectordb, mock_listdir):
+    """Test uploading data when the persist directory is empty."""
     mock_listdir.return_value = []  # Simulate empty directory
     mock_instance = mock_preparevectordb.return_value
 
@@ -34,6 +35,7 @@ def test_upload_data_manually_empty_directory(mock_preparevectordb, mock_listdir
 @patch('os.listdir')
 @patch('src.upload_data_manually.PrepareVectorDB')
 def test_upload_data_manually_non_empty_directory(mock_preparevectordb, mock_listdir):
+    """Test skipping data upload when the persist directory is not empty."""
     mock_listdir.return_value = ['file1', 'file2']  # Simulate non-empty directory
     mock_instance = mock_preparevectordb.return_value
 
@@ -45,3 +47,5 @@ def test_upload_data_manually_non_empty_directory(mock_preparevectordb, mock_lis
     mock_preparevectordb.assert_not_called()
     mock_instance.prepare_and_save_vectordb.assert_not_called()
 
+if __name__ == "__main__":
+    pytest.main()

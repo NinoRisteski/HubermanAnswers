@@ -10,7 +10,8 @@ def setup_chatbot():
     LoadConfig.number_of_q_a_pairs = 2
     LoadConfig.llm_engine = 'text-davinci-003'
     LoadConfig.llm_system_role = "Initialize chat"
-    return [], LoadConfig  # Return a clean chatbot list and a config
+    chatbot = Chatbot()  # Assuming Chatbot initialization doesn't require parameters
+    return chatbot, LoadConfig
 
 @pytest.mark.parametrize("exists", [True, False])
 def test_respond(setup_chatbot, exists):
@@ -28,11 +29,16 @@ def test_respond(setup_chatbot, exists):
             mock_openai.return_value.chat.completions.create.return_value = MagicMock(choices=[MagicMock(message=MagicMock(content="I'm good, thanks!"))])
 
         output = Chatbot.respond(chatbot, message)
-        assert output[1] == chatbot  # Ensure chatbot is returned correctly
+        
+        # Ensure chatbot is returned correctly
+        assert output[1] == chatbot
+        
         if exists:
-            assert len(chatbot) == 1  # Confirm the message was appended
+            # Confirm the message was appended
+            assert len(chatbot.messages) == 1
         else:
-            assert chatbot[-1][1].startswith("VectorDB doesn't exist")  # Check error handling
+            # Check error handling
+            assert chatbot.messages[-1][1].startswith("VectorDB doesn't exist")
 
 def test_clean_references():
     documents = [{'content': 'Hello, world! &lt;test&gt;', 'metadata': {'author': 'Someone', 'date': '2022-01-01'}}]
