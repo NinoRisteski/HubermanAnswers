@@ -14,10 +14,10 @@ Plus, each answer comes with the name and number of the podcast episode if you w
 This project utilizes transcripts from the Huberman Lab podcast, originally transcribed by Marko Simic. 
 You can find his project [here](https://www.simicvm.com/hubcap/).
 
-Data Acquisition
+### Data Acquisition
 
-    Episodes: Episodes were downloaded using the [yt-dlp](https://github.com/yt-dlp/yt-dlp) tool.
-    Transcription: The obtained audio files were transcribed using OpenAI's [Whisper](https://github.com/openai/whisper) `medium.en model`.
+Episodes: Episodes were downloaded using the [yt-dlp](https://github.com/yt-dlp/yt-dlp) tool.
+Transcription: The obtained audio files were transcribed using OpenAI's [Whisper](https://github.com/openai/whisper) `medium.en model`.
 
 ## Schema
 
