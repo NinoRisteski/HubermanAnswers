@@ -30,4 +30,6 @@ You can find his project [here](https://www.simicvm.com/hubcap/).
 
 
 ## Contact
-If you liked this project, feel free to reach out on [X](https://twitter.com/ninoristeski) or [LinkedIn](https://www.linkedin.com/in/nino-risteski/).
+If you liked this project, feel free to reach out on: 
+* [X](https://twitter.com/ninoristeski) or 
+* [LinkedIn](https://www.linkedin.com/in/nino-risteski/).
