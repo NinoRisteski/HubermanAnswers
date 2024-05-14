@@ -18,17 +18,15 @@ Transcripts are stored in the data directory `data/docs`: For files that should 
 Vector database (VectorDB) is generated within the data folder for the project's functionality.
 
 ### Data Acquisition
-
 * Episodes were downloaded using the [yt-dlp](https://github.com/yt-dlp/yt-dlp) tool.
 * The obtained audio files were transcribed using OpenAI's [Whisper](https://github.com/openai/whisper) `medium.en model`.
 
 ## Schema
 
 ## Usage
-
-1. Open app_config.py and fill in your GPT API credentials.
-2. Activate Your Environment in each terminal.
-3. Ensure you are in the hubermananswers directory.
+1. Open `app_config.py` and fill in your OpenAI API credentials.
+2. Make sure you are in the `hubermananswers` directory.
+3. Activate Your Environment in each terminal.
 
 4. Run the Application:
 
