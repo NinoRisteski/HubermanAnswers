@@ -33,10 +33,16 @@ Vector database (VectorDB) is generated within the data folder for the project's
 4. Run the Application:
 
 * In Terminal 1:
-```python3 src\serve.py```
+
+```python
+python3 src\serve.py
+```
 
 * In Terminal 2:
-```python3 src\hubermananswers_app.py```
+
+```python
+python3 src\hubermananswers_app.py
+```
 
 
 ## Credits 
