@@ -21,8 +21,6 @@ Vector database (VectorDB) is generated within the data folder for the project's
 * Episodes were downloaded using the [yt-dlp](https://github.com/yt-dlp/yt-dlp) tool.
 * The obtained audio files were transcribed using OpenAI's [Whisper](https://github.com/openai/whisper) `medium.en model`.
 
-## Schema
-
 ## Usage
 To run the projects, you will need to follow these steps to get started:
 
@@ -36,7 +34,7 @@ cd hubermananswers
 conda create --name hubermananswers python=3.9.6
 conda activate hubermananswers
 ```
-3. Install the required libraries:
+3. Install the requirements:
 ```python
 pip install -r requirements.txt
 ```
@@ -54,6 +52,7 @@ python3 src/upload_data_manually.py
 ```python
 python3 src\serve.py
 ```
+The `serve.py` module hosts the .vtt files in a server, making them accessible for user viewing. 
 
 * In Terminal 2:
 
@@ -61,6 +60,8 @@ python3 src\serve.py
 python3 src\hubermananswers_app.py
 ```
 *Don't forget to activate the environments in each terminal*
+
+7. Finally, ask Huberman from simple to complex questions and recieve a thoughtful answers along with the episode titles.
 
 ## Credits 
 ### Special Thanks
