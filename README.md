@@ -11,7 +11,7 @@ Plus, each answer comes with the name and number of the podcast episode if you w
 ![Alt text](assets/ah-example-chat.png)
 
 ## Data
-This project utilizes transcripts from the Huberman Lab podcast, originally transcribed by Marko Simic. 
+This project utilizes `.vtt` transcripts from the Huberman Lab podcast, originally transcribed by Marko Simic. 
 You can find his project [here](https://www.simicvm.com/hubcap/).
 
 Transcripts are stored in the data directory `data/docs`: For files that should be processed in advance.
@@ -60,7 +60,7 @@ python3 src\serve.py
 ```python
 python3 src\hubermananswers_app.py
 ```
-*Don't forget to activate Your environment in each terminal*
+*Don't forget to activate the environments in each terminal*
 
 ## Credits 
 ### Special Thanks
