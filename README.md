@@ -46,6 +46,7 @@ pip install -r requirements.txt
 python3 src/upload_data_manually.py
 ```
 *Only initially to process the transcripts. No need to run in every time you run the app.*
+
 6. Run the Application:
 
 * In Terminal 1:
@@ -59,7 +60,7 @@ python3 src\serve.py
 ```python
 python3 src\hubermananswers_app.py
 ```
-*Don't forget to activate Your Environment in each terminal*
+*Don't forget to activate Your environment in each terminal*
 
 ## Credits 
 ### Special Thanks
