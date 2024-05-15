@@ -46,13 +46,13 @@ python3 src\hubermananswers_app.py
 ## Credits 
 ### Special Thanks
 [Marko Simic](https://www.simicvm.com/)
-    Contributions: Provided the Huberman Lab transcripts (data).
+* Contributions: Provided the Huberman Lab transcripts (data).
         
 [Emanuel Risteski](https://www.linkedin.com/in/emanuelristeski/)
-    Contributions: Created the visuals for the project.
+* Contributions: Created the visuals for the project.
 
-Photo Credits
-    The main photo of Andrew Huberman is not mine. All credits go to [Huberman Lab.](https://www.hubermanlab.com/)
+Photo Credits: 
+* The main photo of Andrew Huberman is not mine. All credits go to [Huberman Lab.](https://www.hubermanlab.com/)
 
 ## Contact
 If you liked this project, feel free to reach out on [X](https://twitter.com/ninoristeski) or [LinkedIn](https://www.linkedin.com/in/nino-risteski/).
