@@ -24,11 +24,29 @@ Vector database (VectorDB) is generated within the data folder for the project's
 ## Schema
 
 ## Usage
-1. Open `app_config.py` and fill in your OpenAI API credentials.
-2. Make sure you are in the `hubermananswers` directory.
-3. Activate Your Environment in each terminal.
+To run the projects, you will need to follow these steps to get started:
 
-4. Run the Application:
+1. Clone the repository and navigate to the project directory:
+```python 
+git clone https://github.com/NinoRisteski/HubermanAnswers.git
+cd hubermananswers
+```
+2. Create a new virtual environment using a tool like virtualenv or conda, and activate the environment:
+```python
+conda create --name hubermananswers python=3.9.6
+conda activate hubermananswers
+```
+3. Install the required libraries:
+```python
+pip install -r requirements.txt
+```
+4. Open `app_config.py` and fill in your OpenAI API credentials.
+5. Run `upload_data_manually.py` to process data and create `vectordb`:
+```python
+python3 src/upload_data_manually.py
+```
+*Only initially to process the transcripts. No need to run in every time you run the app.*
+6. Run the Application:
 
 * In Terminal 1:
 
@@ -41,7 +59,7 @@ python3 src\serve.py
 ```python
 python3 src\hubermananswers_app.py
 ```
-
+*Don't forget to activate Your Environment in each terminal*
 
 ## Credits 
 ### Special Thanks
