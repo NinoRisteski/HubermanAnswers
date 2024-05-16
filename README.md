@@ -64,10 +64,10 @@ python3 src\hubermananswers_app.py
 ## Credits 
 ### Special Thanks
 [Marko Simic](https://www.simicvm.com/)
-* Contributions: Provided the Huberman Lab transcripts (data).
+* For creating the Huberman Lab transcripts dataset.
         
 [Emanuel Risteski](https://www.linkedin.com/in/emanuelristeski/)
-* Contributions: Created the visuals for the project.
+* For creating the visuals for the project.
 
 Photo Credits: 
 * The main photo of Andrew Huberman is not mine. All credits go to [Huberman Lab.](https://www.hubermanlab.com/)
