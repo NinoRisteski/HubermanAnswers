@@ -20,7 +20,6 @@ class LoadConfig:
         self.llm_system_role = app_config["llm_config"]["llm_system_role"]
         self.persist_directory = str(here(
             app_config["directories"]["persist_directory"]))
-        self.embedding_model = OpenAIEmbeddings()
 
         # Retrieval Config
         self.data_directory = app_config["directories"]["data_directory"]
@@ -35,13 +34,20 @@ class LoadConfig:
         # Load OpenAI Credentials
         self.load_openai_cfg()
 
+        # Initialize the embedding model after loading the OpenAI credentials
+        self.embedding_model = OpenAIEmbeddings()
+
         # Clean up the upload doc vectordb if it exists
         self.create_directory(self.persist_directory)
 
     def load_openai_cfg(self):
-        self.client = OpenAI(
-            api_key = os.environ["OPENAI_API_KEY"],
-        )
+        with open(here("configs/app_config.yml")) as cfg:
+            app_config = yaml.load(cfg, Loader=yaml.FullLoader)
+            openai_api_key = app_config["openai"]["api_key"]
+
+        # Set the API key as an environment variable
+        os.environ["OPENAI_API_KEY"] = openai_api_key
+
     def create_directory(self, directory_path: str):
         if not os.path.exists(directory_path):
             os.makedirs(directory_path)

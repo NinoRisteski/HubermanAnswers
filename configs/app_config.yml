@@ -1,3 +1,6 @@
+openai:
+  api_key: "OPENAI_API_KEY"
+
 directories:
   data_directory: data/docs
   persist_directory: data/vectordb/processed/chroma/
