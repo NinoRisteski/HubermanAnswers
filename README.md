@@ -73,4 +73,4 @@ Photo Credits:
 * The main photo of Andrew Huberman is not mine. All credits go to [Huberman Lab.](https://www.hubermanlab.com/)
 
 ## Contact
-If you liked this project, feel free to reach out on [X](https://twitter.com/ninoristeski) or [LinkedIn](https://www.linkedin.com/in/nino-risteski/).
+If you liked this project, feel free to reach out on [X](https://x.com/ninoristeski) or [LinkedIn](https://www.linkedin.com/in/nino-risteski/).
