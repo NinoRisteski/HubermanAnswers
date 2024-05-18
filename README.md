@@ -20,7 +20,7 @@ Vector database (VectorDB) is generated within the data folder for the project's
 * The obtained audio files were transcribed using OpenAI's [Whisper](https://github.com/openai/whisper) `medium.en model`.
 
 ## Usage
-Huberman Answers is a project designed to run locally. 
+`Huberman Answers` is a project designed to run locally. 
 To run it, go through the following steps:
 
 1. Clone the repository and navigate to the project directory:
