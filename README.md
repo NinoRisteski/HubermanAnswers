@@ -27,10 +27,11 @@ To run the projects, you will need to follow these steps to get started:
 git clone https://github.com/NinoRisteski/HubermanAnswers.git
 cd hubermananswers
 ```
-2. Create a new virtual environment using a tool like virtualenv or conda, and activate the environment:
+2. Create a new virtual environment with virtualenv or conda, and activate the environment:
 ```python
 conda create --name hubermananswers python=3.9.6
 conda activate hubermananswers
+source venv/bin/activate
 ```
 3. Install the requirements:
 ```python
