@@ -43,7 +43,7 @@ pip install -r requirements.txt
 ```python
 python3 src/upload_data_manually.py
 ```
-*Only initially to process the transcripts. No need to run in every time you run the app.*
+*Only initially to process the transcripts. Don't run it every time you run the app.*
 
 6. Run the Application:
 
