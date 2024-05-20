@@ -38,7 +38,7 @@ source venv/bin/activate
 ```python
 pip install -r requirements.txt
 ```
-4. Open `app_config.py` and fill in your OpenAI API credentials.
+4. Open `app_config.py` and fill in your OpenAI API key.
 5. Run `upload_data_manually.py` to process data and create `vectordb`:
 ```python
 python3 src/upload_data_manually.py
