@@ -28,7 +28,7 @@ To run it, go through the following steps:
 git clone https://github.com/NinoRisteski/HubermanAnswers.git
 cd hubermananswers
 ```
-2. Create a new virtual environment with virtualenv or conda, and activate the environment:
+2. Create and activate a new virtual environment:
 ```python
 conda create --name hubermananswers python=3.9.6
 conda activate hubermananswers
