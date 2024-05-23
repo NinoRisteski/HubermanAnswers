@@ -3,7 +3,7 @@ import sys
 from utils.prepare_vectordb import PrepareVectorDB
 from utils.load_config import LoadConfig
 
-sys.path.append('/Users/fliprise/HubermanAnswers')
+sys.path.append('/Users/.../HubermanAnswers')
 
 
 CONFIG = LoadConfig()

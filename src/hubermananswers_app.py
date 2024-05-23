@@ -1,5 +1,5 @@
 import sys
-sys.path.append('/Users/fliprise/HubermanAnswers')
+sys.path.append('/Users/.../HubermanAnswers')
 
 import gradio as gr
 from utils.chatbot import Chatbot
