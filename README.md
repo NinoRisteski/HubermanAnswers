@@ -13,7 +13,7 @@ This project utilizes `.vtt` transcripts from the Huberman Lab podcast, original
 You can find his project [here](https://www.simicvm.com/hubcap/).
 
 Transcripts are stored in the data directory `data/docs`: For files that should be processed in advance.
-Vector database (VectorDB) is generated within the data folder for the project's functionality.
+Vector database `vectordb` is generated within the `data` folder for the project's functionality.
 
 ### Data Acquisition
 * Episodes were downloaded using the [yt-dlp](https://github.com/yt-dlp/yt-dlp) tool.
@@ -46,7 +46,7 @@ python3 src/upload_data_manually.py
 ```
 *Only initially to process the transcripts. Don't run it every time you run the app.*
 
-6. Run the Application:
+6. Run the application:
 
 * In Terminal 1:
 
