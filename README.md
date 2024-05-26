@@ -75,5 +75,7 @@ python3 src\hubermananswers_app.py
 Photo Credits: 
 * The main photo of Andrew Huberman is not mine. All credits go to [Huberman Lab.](https://www.hubermanlab.com/)
 
+*This project is created for experimental purposes only and is not affiliated with Dr. Andrew Huberman. It is not intended for commercial use.*
+
 ## Contact
 If you liked this project, feel free to reach out on [X](https://x.com/ninoristeski) or [LinkedIn](https://www.linkedin.com/in/nino-risteski/).
