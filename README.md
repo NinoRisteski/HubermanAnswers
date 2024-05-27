@@ -65,7 +65,6 @@ python3 src\hubermananswers_app.py
 7. Finally, ask Huberman from simple to complex questions and recieve a thoughtful answers along with the episode titles.
 
 ## Credits 
-### Special Thanks
 [Marko Simic](https://www.simicvm.com/)
 * For creating the Huberman Lab transcripts dataset.
         
@@ -73,7 +72,7 @@ python3 src\hubermananswers_app.py
 * For creating the visuals for the project.
 
 Photo Credits: 
-* The main photo of Andrew Huberman is not mine. All credits go to [Huberman Lab.](https://www.hubermanlab.com/)
+* The main photo of Andrew Huberman is not mine. Photo credits go to [Huberman Lab.](https://www.hubermanlab.com/)
 
 *This project is created for experimental purposes only and is not affiliated with Dr. Andrew Huberman. It is not intended for commercial use.*
 
