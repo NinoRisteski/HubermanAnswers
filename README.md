@@ -9,8 +9,7 @@ Each answer comes with the name and number of the podcast episode if you want to
 ![Alt text](assets/ah-example-chat.png)
 
 ## Data
-This project utilizes `.vtt` transcripts from the Huberman Lab podcast, originally transcribed by Marko Simic. 
-You can find his project [here](https://www.simicvm.com/hubcap/).
+This project utilizes `.vtt` transcripts from the Huberman Lab podcast, originally transcribed by Marko Simic. (Find his project [here](https://www.simicm.com/hubcap/).)
 
 Transcripts are stored in the data directory `data/docs`: For files that should be processed in advance.
 Vector database `vectordb` is generated within the `data` folder for the project's functionality.
