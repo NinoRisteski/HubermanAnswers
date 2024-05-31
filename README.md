@@ -76,4 +76,4 @@ Photo Credits:
 *This project is created for experimental purposes only and is not affiliated with Dr. Andrew Huberman. It is not intended for commercial use.*
 
 ## Contact
-If you liked this project, feel free to reach out on [X](https://x.com/ninoristeski) or [LinkedIn](https://www.linkedin.com/in/nino-risteski/).
+Reach out on [X](https://x.com/ninoristeski) or [LinkedIn](https://www.linkedin.com/in/nino-risteski/).
