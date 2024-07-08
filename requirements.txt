@@ -11,7 +11,7 @@ backoff==2.2.1
 bcrypt==4.1.2
 build==1.2.1
 cachetools==5.3.3
-certifi==2024.2.2
+certifi==2024.7.4
 charset-normalizer==3.3.2
 chroma-hnswlib==0.7.3
 chromadb==0.4.24
